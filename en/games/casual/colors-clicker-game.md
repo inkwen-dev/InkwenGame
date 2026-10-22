@@ -1,0 +1,24 @@
+# Colors Clicker Game
+
+<a href="https://inkwengame.com/games/colors-clicker-game" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/colors-clicker-game/cover.jpg)
+
+In this game, all you have to do is click on the screen or mouse. You can see your clicks per second and your total clicks. Its a very simple game.
+
+## How to play
+
+All you have to do is click touch on the screen
+
+## About
+
+In this game, all you have to do is click on the screen or mouse. You can see your clicks per second and your total clicks. Its a very simple game.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 1 Player, Click

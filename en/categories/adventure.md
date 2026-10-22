@@ -1,0 +1,4168 @@
+# Adventure
+
+Explore places and stories in free browser adventure games on InkwenGame. Find paths, clear stages, and keep moving through each world—play in the tab with no download.
+
+- <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
+
+## Games
+
+- [+1 Speed Keyboard Escape](../games/adventure/1-speed-keyboard-escape.md) — **+1 SPEED KEYBOARD ESCAPE** is a fast-paced arcade game where every key press makes you faster! Press keys, build your 
+- [10 Door Escape](../games/adventure/10-door-escape.md) — 10 Door Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped inside ho
+- [10 Doors escape](../games/adventure/10-doors-escape.md) — 10 doors Escape is a point and click game developed by 8B Games. We know that you are a great fan of Door Escape games S
+- [100 Doors - Escape from Prison](../games/adventure/100-doors-escape-from-prison.md) — Escape a web of intriguing puzzles as Beren, an inmate with no memory, in 100 Doors - Escape from Prison. Investigate cu
+- [100 Doors Escape Mysteries](../games/adventure/100-doors-escape-mysteries.md) — Go to unlock 100 mysterious doors. Try to solve complex puzzles. You need to use your intelligence and wisdom to escape 
+- [100 Doors Escape Puzzle](../games/adventure/100-doors-escape-puzzle.md) — Dive into the captivating "100 Doors Escape Puzzle," where your wits are your only ally. Navigate through a series of in
+- [100 Doors Games: Escape from School](../games/adventure/100-doors-games-escape-from-school.md) — Navigate a transformed school maze in "100 Doors Games: Escape from School." Solve intricate puzzles and find hidden key
+- [100 Monster Escape Room](../games/adventure/100-monster-escape-room.md) — 100 Monster Escape Room! Navigate through a maze of cryptic puzzles and challenges as you race against time to evade the
+- [100 Rooms Escape](../games/adventure/100-rooms-escape.md) — This is a brain-burning and challenging escape room online game. Interesting gameplay so you wont get bored. You need to
+- [100 Rooms Escape](../games/adventure/100-rooms-escape-2.md) — Dive into the mind-bending challenges of 100 Rooms Escape, where every door holds a new mystery. Solve intricate puzzles
+- [15 doors Escape](../games/adventure/15-doors-escape.md) — 15 doors Escape is a point and click game developed by 8B Games/Games2Mad. We know that you are a great fan of Door Esca
+- [15 Doors Escape 2](../games/adventure/15-doors-escape-2.md) — 15 Doors Escape 2 is a point and click game developed by 8B Games/Games2Mad. We know that you are a great fan of Door Es
+- [2 Dots Crazy Challenge](../games/adventure/2-dots-crazy-challenge.md) — 2 Dots Crazy Challenge is a simple but difficult game where you need to connect the same-colored dots vertically from bo
+- [2 Player BlockMiner Escape](../games/adventure/2-player-blockminer-escape-2.md) — Race through a perilous mine with Steve and Alex, evading obstacles and spiders in a thrilling bid to escape a massive z
+- [2022 Coming Escape](../games/adventure/2022-coming-escape.md) — 2022 Coming Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you are about to go out for N
+- [2022 New Year Episode-2](../games/adventure/2022-new-year-episode-2.md) — 2022 New Year Episode-2 is a point and click game developed by 8B Games/Games2live. Imagine that Joe and Jack need a bik
+- [2022 New Year Final Episode](../games/adventure/2022-new-year-final-episode.md) — 2022 New Year Final Episode is a point and click game developed by 8B Games/Games2live. Joe and Jack need a Cake to Cele
+- [3 Minutes to Escape](../games/adventure/3-minutes-to-escape-2.md) — Navigate a mazelike space under pressure in 3 Minutes to Escape! Dash and jump through obstacle-laden levels, amass coin
+- [3D Ball Space](../games/adventure/3d-ball-space.md) — Can you get over the traps, footbridges to the end of the 3D Ball Space adventure? Show what a player you are and test y
+- [3D Maze](../games/adventure/3d-maze.md) — Embark on a thrilling escape in 3D Maze, where strategy and quick reflexes are your only allies. Navigate ever-changing 
+- [3D Super Rolling Ball Race](../games/adventure/3d-super-rolling-ball-race-2.md) — Embark on an exhilarating 3D adventure where precision and speed are key. Navigate challenging platforms and avoid plung
+- [3d super tank](../games/adventure/3d-super-tank.md) — In this casual action game, your goal is to defend your base and destroy all enemy tanks and their buildings. Play 30+ l
+- [456 Squid Game Challenge](../games/adventure/456-squid-game-challenge.md) — Based on the popular Netflix show, play Squid Game: Online Survival and see if you can survive. Try to reach the finish 
+- [456 Squid Game : Survival Challenge](../games/adventure/456-squid-game-survival-challenge.md) — All players, hello 456! You are in the big game now. This game called Red Light Green Light! There are many simple rules
+- [456 Survival game](../games/adventure/456-survival-game.md) — ou are invited to the game. First game, Red Light Green Light is just starting. Dalgona, Honeycomb is coming soon. Glass
+- [456 Survival Game Challenge](../games/adventure/456-survival-game-challenge.md) — As a survival game, aviable at zazgames.com. you will play the role of 456 player to play Survival games Game available:
+- [456 Survival Squid Challenge](../games/adventure/456-survival-squid-challenge.md) — Step into a high-stakes survival adventure with 456 Survival Squid Challenge. Engage in intense games like Green Light, 
+- [5 Door Escape](../games/adventure/5-door-escape.md) — 5 Door Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped inside hou
+- [5 Doors Escape](../games/adventure/5-doors-escape.md) — 5 Doors Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped inside ho
+- [5 Night at Green Head Monster](../games/adventure/5-night-at-green-head-monster.md) — Five Nights at Green Head Monster 2 is a chilling 3D horror game where players must endure five terrifying nights in a s
+- [6 Door Escape](../games/adventure/6-door-escape.md) — 6 Door Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped inside hou
+- [7 Door Escape](../games/adventure/7-door-escape.md) — 7 Door Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. with 7 do
+- [7 Doors Escape](../games/adventure/7-doors-escape.md) — 7 Doors Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house with 7 do
+- [8B Among Us Escape](../games/adventure/8b-among-us-escape.md) — Among Us Escape is a point and click escape game developed by 8BGames. Imagine that you are went to see one of Among Us 
+- [8b blue house escape](../games/adventure/8b-blue-house-escape.md) — Blue House Escape is a point and click escape game developed by 8BGames. Imagine that you fell asleep at night. When you
+- [8B Lovable Boy Escape](../games/adventure/8b-lovable-boy-escape.md) — Lovable Boy Escape is a point and click escape game developed by 8BGames. Imagine that you a Lovable Boy invited you to 
+- [8b Piglet Escape](../games/adventure/8b-piglet-escape.md) — Piglet Escape is a point and click escape game developed by 8BGames. Imagine that you friend bought a little Piglet as a
+- [9 Door Escape](../games/adventure/9-door-escape.md) — 9 Door Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped inside hou
+- [9 Doors Escape](../games/adventure/9-doors-escape.md) — 9 Door Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. with 9 do
+- [99 Nights In The Forest](../games/adventure/99-nights-in-the-forest.md) — You find yourself in a dark and mysterious forest where the only goal is to survive for 99 nights. As darkness falls, a 
+- [99 Nights In The Forest](../games/adventure/99-nights-in-the-forest-2.md) — This is a game about real survival, where every night becomes more dangerous. You will have to gather resources, build s
+- [99 Nights in the Forest. Horror Multiplayer](../games/adventure/99-nights-in-the-forest-horror-multiplayer.md) — A terrifying multiplayer horror where players must survive side by side in a dark forest. Each night, a mystical deer-mo
+- [99 Nights in the Forest with Noob and Pro!](../games/adventure/99-nights-in-the-forest-with-noob-and-pro.md) — Welcome to "99 Nights in the Forest with Noob and Pro!" This is an exciting 2D Mine-style adventure where every night is
+- [A Child's Escape](../games/adventure/a-child-s-escape.md) — Embark on a high-stakes adventure in A Child’s Escape. Navigate a perilous world as a young hero, mastering reflex-drive
+- [A Day With Masha And The Bear - Fun Together](../games/adventure/a-day-with-masha-and-the-bear-fun-together.md) — Good morning, Masha! It’s time to wake up... today is gonna be an exciting day full of games and activities to test your
+- [A House Of 6 Doors](../games/adventure/a-house-of-6-doors.md) — A House of 6 doors is a point and click game developed by 8B Games/Games2Mad. Imagine that you are stuck at house, Here 
+- [A Long Way Home](../games/adventure/a-long-way-home.md) — A Long Way Home is a chilling survival horror game that plunges you into the role of a lost wanderer, desperately trying
+- [A Mimicry of Life](../games/adventure/a-mimicry-of-life.md) — Its the year 2057. You are a group of geologists and other scientists from different fields on an expedition to the Nort
+- [A Mother's Grief](../games/adventure/a-mother-s-grief.md) — Winter, 1892. In a remote cabin, a grieving mother named Elara lost her daughter, Lily, to a fever. Consumed by grief, s
+- [A Silly Journey: Episode 1](../games/adventure/a-silly-journey-episode-1.md) — Embark on a whimsical, retro adventure in A Silly Journey: Episode 1. Test your wit with challenging puzzles, meet eccen
+- [Abandoned Island Escape](../games/adventure/abandoned-island-escape.md) — Abandoned Island Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Islan
+- [Abandoned Mansion](../games/adventure/abandoned-mansion.md) — Abandoned Mansion is a first-person horror game set in an abandoned mansion, where a distress call leads you to investig
+- [Abode Escape](../games/adventure/abode-escape.md) — Abode Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Abode; there you
+- [Abysma Dungeon Story](../games/adventure/abysma-dungeon-story.md) — Descend into the depths of a mysterious dark abyss in this 2D platformer. Play as a wizard surrounded by treacherous tra
+- [Abyss Muncher](../games/adventure/abyss-muncher.md) — Dive into a pixel-art underwater roguelite where every meal helps you evolve. Hunt smaller creatures, avoid giant predat
+- [Aces of the Luftwaffe Squadron](../games/adventure/aces-of-the-luftwaffe-squadron.md) — Fly into high-octane aerial combat in Aces of the Luftwaffe Squadron, where WWII-era planes take on extraterrestrial foe
+- [Acorn Bot 2](../games/adventure/acorn-bot-2-2.md) — Guide Acorn Bot through eight intense levels filled with perilous traps and cunning enemies. Collect elusive ice cream c
+- [Acorn Bot](../games/adventure/acorn-bot-3.md) — Guide a charming robot through eight exhilarating levels, collecting ice cream while evading enemy bots and treacherous 
+- [Action Super Hero](../games/adventure/action-super-hero.md) — Collect more coins as you can and destroy your enemies. Sometimes you need to avoid them, because if you hit with enemie
+- [Admin Escape](../games/adventure/admin-escape.md) — Admin Escape is a point and click escape game developed by 8BGames. Imagine that you went to your admin house to take hi
+- [Adou Adventure](../games/adventure/adou-adventure-2.md) — Embark on Adou Adventure, a captivating 2D platformer where you collect sparkling jewels while dodging perilous enemies 
+- [Adventruse Hail Game](../games/adventure/adventruse-hail-game.md) — Get ready for a fun and challenging color-matching adventure! In Adventurous Hail, colorful hailstones fall from above, 
+- [Adventure Capitalist Hole](../games/adventure/adventure-capitalist-hole.md) — The thrilling online game Adventure Capitalist Hole has taken the gaming community by storm. This recreational game imme
+- [Adventure Capitalist Hole](../games/adventure/adventure-capitalist-hole-2.md) — Dive into Adventure Capitalist Hole and build your empire through strategic investments and savvy decisions. With simple
+- [Adventure in Space](../games/adventure/adventure-in-space.md) — Blast through the cosmic battlefield in Adventure in Space. Navigate the relentless enemy armada with skillful maneuvers
+- [Adventure Joystick](../games/adventure/adventure-joystick-2.md) — Embark on a thrilling journey with Joystick, navigating intricate mazes and conquering thrilling puzzles. Dodge fiery tr
+- [Adventure Joystick Winter](../games/adventure/adventure-joystick-winter-2.md) — Navigate a frosty realm in Adventure Joystick Winter, where quick reflexes and strategic timing are your allies. Collect
+- [Adventure of Darius](../games/adventure/adventure-of-darius.md) — Rescue Darius from the bad monster world Game story begins with the Darius and Witch collision, then the witch drags and
+- [Adventure of Egypt](../games/adventure/adventure-of-egypt-2.md) — Explore the mystical world of ancient Egypt in a thrilling jump-and-run adventure. Navigate through challenging levels f
+- [Adventure of Elf](../games/adventure/adventure-of-elf.md) — Guide a brave elf through a vibrant jungle filled with intricate traps and obstacles. Master the art of timing with simp
+- [Adventure of Lyra](../games/adventure/adventure-of-lyra.md) — Find butterflies to save Lyra from a bad magician Story begins with a collision with a dragon and Lyra, all the butterfl
+- [Adventure of Lyra](../games/adventure/adventure-of-lyra-2.md) — Embark on a thrilling quest with Lyra, where each decision could mean the difference between captivity and freedom. Navi
+- [Adventure of Tommy](../games/adventure/adventure-of-tommy-2.md) — Embark on a thrilling quest with Tommy, navigating perilous levels filled with excitement. Leap past deadly obstacles, c
+- [Adventure Quest](../games/adventure/adventure-quest.md) — Immerse yourself in Adventure Quest, a thrilling platformer teeming with epic battles and secret treasures. Traverse mes
+- [Adventure Screw Puzzle](../games/adventure/adventure-screw-puzzle.md) — Dive into a world of intricate wooden puzzles where each turn challenges your mind. Unravel nuts and bolts, unlocking se
+- [Adventure Squirrel](../games/adventure/adventure-squirrel.md) — In the game you will play the role of a squirrel who will go to strange lands and fight monsters, overcome obstacles and
+- [Adventure Time](../games/adventure/adventure-time.md) — Adventure Time follows the adventures of a boy named Finn the Human (voiced by Jeremy Shada), and his best friend and ad
+- [Adventure Time Differences](../games/adventure/adventure-time-differences.md) — Now it's time for wonderful game that's called Adventure Time Differences, let's have fun! Behind these pictures are sma
+- [Adventure Time Hidden](../games/adventure/adventure-time-hidden.md) — Adventure Time Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and try to mat
+- [Adventure To The Candy Princes](../games/adventure/adventure-to-the-candy-princes-2.md) — Venture with a friend through the whimsical Candy Forest to free the Sugar Princess in this cooperative adventure. Maste
+- [Adventure To The Ice Kingdom](../games/adventure/adventure-to-the-ice-kingdom-2.md) — Embark on a thrilling journey in Adventure To The Ice Kingdom. Navigate diverse landscapes, evading monster penguins whi
+- [Adventure World Super Santa Cruz](../games/adventure/adventure-world-super-santa-cruz.md) — Let’s take adventure and help a little kong fight against the alien monsters even the Big Bosses. Simple gameplay, nice 
+- [Adventurer Run](../games/adventure/adventurer-run.md) — Drag your character to move around. Your weapons will automatically shoot. Evade being attacked by monsters or running i
+- [Adventurer's Run](../games/adventure/adventurer-s-run.md) — Navigate perilous landscapes as a nimble ninja in Adventurer's Run, where each level ramps up the excitement and challen
+- [Adventurers Memory Match](../games/adventure/adventurers-memory-match.md) — Embark on a puzzling adventure in Adventurers Memory Match! Strategically slide tiles to reconstruct scrambled images, e
+- [Adventures of Two Kittens II](../games/adventure/adventures-of-two-kittens-ii.md) — Join two kittens on a charming adventure with Adventures of Two Kittens II, where cooperation meets classic platforming 
+- [Adventures Thomas Draw and Erase](../games/adventure/adventures-thomas-draw-and-erase.md) — Guide Thomas through dynamic landscapes by drawing paths and erasing obstacles in this thrilling and strategic adventure
+- [Adventurous Boy Escape](../games/adventure/adventurous-boy-escape.md) — Adventurous Boy Escape is a point and click escape game developed by 8BGames. Imagine that you are a tourist. One day an
+- [Aero Fighter](../games/adventure/aero-fighter.md) — Take to the skies in Aero Fighter, a thrilling arcade shooter where quick reflexes and strategy are key. Dodge intense e
+- [Affable Girl Escape](../games/adventure/affable-girl-escape.md) — Affable Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to an Affable Girl hous
+- [African Boy Escape](../games/adventure/african-boy-escape.md) — African Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to an African boy house 
+- [Agent Falcon](../games/adventure/agent-falcon.md) — Embark on a suspenseful 3D stealth mission as Agent Theo Falcon. Finesse your way through complex puzzles and strategic 
+- [Agumo 2](../games/adventure/agumo-2-2.md) — Dive into the exhilarating world of Agumo 2, where agile movements and smart strategy lead you to cookie-collecting triu
+- [Agumo](../games/adventure/agumo-3.md) — Embark on a thrilling cookie quest in Agumo, a fast-paced 2D platformer. Master the art of timing and precision as you n
+- [Air Warfare](../games/adventure/air-warfare-3.md) — Dive into the high-flying chaos of Air Warfare, where every maneuver counts. Pilot unique aircraft through relentless en
+- [Aircraft war](../games/adventure/aircraft-war.md) — Aircraft war
+- [Aisa Bot 2](../games/adventure/aisa-bot-2-2.md) — Embark on a fast-paced 2D sci-fi adventure in Aisa Bot 2. Navigate treacherous levels, dodging enemy bots, bullets, and 
+- [Aisa Bot](../games/adventure/aisa-bot-3.md) — Navigate a futuristic robotic world in Aisa Bot, a thrilling 2D platformer. Master skillful movements and double jumps t
+- [Akihiko vs Cannons 2](../games/adventure/akihiko-vs-cannons-2-2.md) — Embark on a thrilling adventure in Akihiko vs Cannons 2, a vibrant 2D platformer. Navigate challenging levels filled wit
+- [Akihiko vs Cannons 3](../games/adventure/akihiko-vs-cannons-3-2.md) — Navigate adrenaline-fueled challenges in Akihiko vs Cannons 3, a thrilling 2D platformer. Dodge deadly cannon robots, el
+- [Akihiko vs Cannons](../games/adventure/akihiko-vs-cannons-4.md) — Embark on a daring 2D journey with Akihiko, dodging cannon bots and spikes to collect elusive Gold Bars. Strategize each
+- [Akochan Quest 2](../games/adventure/akochan-quest-2-2.md) — Embark on a thrilling anime-inspired adventure with Akochan Quest 2. Master the art of platforming as Akochan, navigatin
+- [Akochan Quest](../games/adventure/akochan-quest-3.md) — Embark on a thrilling adventure in Akochan Quest, a mesmerizing 2D platformer. Join Akochan as she navigates treacherous
+- [Aladin Prince](../games/adventure/aladin-prince.md) — Help Aladin prince to run faster than everyone! Run as far as you can. Collect coins and buy things in the store. Become
+- [Alex Adventure of Word](../games/adventure/alex-adventure-of-word.md) — Solve the word puzzle to improve your word stock Place the desired word from the given hint of alphabets. Use your brain
+- [Alex Adventure of Word](../games/adventure/alex-adventure-of-word-2.md) — Embark on a captivating journey in Alex: Adventure of Word, where sharp vocabulary and strategic thinking unlock brain-t
+- [Alex and Steve Adventures Saves](../games/adventure/alex-and-steve-adventures-saves-2.md) — Join Alex and Steve on a pulse-pounding escape in this retro pixel art adventure. Navigate monster-filled terrain and so
+- [Alfi](../games/adventure/alfi.md) — help the alfi, you must overcome obstacles, collect stars and meet flowers. This game is a game of intelligence and skil
+- [Alice Crazy Adventure](../games/adventure/alice-crazy-adventure.md) — Welcome to Alice's crazy adventure. Alice is a small adventure girl. She wants to back to her home. But on her way to ho
+- [Alice Tale Escape](../games/adventure/alice-tale-escape.md) — Alice Tale Escape is a point and click escape game developed by 8BGames. Imagine that you went to Alice Tale home, she t
+- [Alien Adventure](../games/adventure/alien-adventure.md) — The few Alien Spaceships have crept into earth's orbit with no warning. The loss of global satellite communications puts
+- [alien defence](../games/adventure/alien-defence.md) — Defense - Alien war TD is the fight against the invasion of alien creatures. The stunning graphics and flexible tactics 
+- [Alien Escape](../games/adventure/alien-escape.md) — Alien Escape is a point and click escape game developed by 8BGames/Games2Mad . Imagine that you had been to a place, on 
+- [Alien Escape 2](../games/adventure/alien-escape-2.md) — Alien Escape 2 is a point and click escape game developed by 8BGames/Games2Mad . Imagine that you had been to a place, o
+- [Alien Escape Run](../games/adventure/alien-escape-run.md) — Maneuver your alien through treacherous terrains in Alien Escape Run, where every jump counts. Evade enemies, leap over 
+- [Alien_Run](../games/adventure/alien-run.md) — Alien_Run game has a lot of success review and player this MONTH that significantly improves overall game performance, e
+- [Alien Warlord](../games/adventure/alien-warlord.md) — Jump and shoot your way through space! Can you defeat the evil empire and bring back the sacred gems? Fast paced arcade 
+- [Alien Way](../games/adventure/alien-way.md) — Alien Way is a platform HTML5game. Past 5 differents levels with your favorite Alien. Jump on the enemies to kill them a
+- [Alien Wreckage - Chapter 1](../games/adventure/alien-wreckage-chapter-1.md) — Embark on a thrilling cosmic journey as a solo space explorer in Alien Wreckage - Chapter 1. Uncover alien treasures, ba
+- [AlienEscape](../games/adventure/alienescape.md) — A puzzle game in which you need to help the alien get out of the spaceship. To do this, you need to move the energy batt
+- [aliens attack go](../games/adventure/aliens-attack-go.md) — An alien invasion has taken place in a quiet city. The streets became a deadly arena. Only one question remains. Who is 
+- [Alone](../games/adventure/alone.md) — Step into "Alone," a spine-chilling horror experience where darkness hides more than just shadows. Maneuver through your
+- [ALONE II](../games/adventure/alone-ii.md) — Welcome to Alone 2, a gripping story-driven horror game that will test your wits and bravery. In this intense experience
+- [Alone In The Evil Mansion](../games/adventure/alone-in-the-evil-mansion.md) — Explore the spine-chilling depths of a haunted mansion, where survival hinges on strategic resource management and unrav
+- [Alphabet Lore Gem](../games/adventure/alphabet-lore-gem.md) — Relevez le défi dans Alphabet Lord - Room Maze
+- [Alphabet Survivor](../games/adventure/alphabet-survivor.md) — Join the survival challenge in Blue Monster - Letter Impostor Survivor! In this multiplayer game, players compete to be 
+- [Alternating Escape](../games/adventure/alternating-escape.md) — Alternating Escape throws you into a tense circular arena where survival depends on your quick reflexes and strategic ma
+- [Amaze Escape](../games/adventure/amaze-escape-2.md) — Outsmart guards and navigate intricate mazes in Amaze Escape. Utilize sharp problem-solving skills to conquer escalating
+- [Amazeballs Estate Escape](../games/adventure/amazeballs-estate-escape.md) — Amazeballs estate escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been ton estate
+- [Amazing Cube Adventure](../games/adventure/amazing-cube-adventure.md) — Guide a colorful cube through captivating block landscapes in Amazing Cube Adventure. With simple yet precise controls, 
+- [Amazing Digital Circus Horror Escape](../games/adventure/amazing-digital-circus-horror-escape.md) — Experience the suspense of Amazing Digital Circus Horror Escape. Explore a eerie map, collecting objects while bracing f
+- [Amazing Gold Miner](../games/adventure/amazing-gold-miner.md) — Embark on an exciting mining adventure with Amazing Gold Miner! Dig deep into the earth, navigate treacherous obstacles,
+- [Amazing Hex 2D](../games/adventure/amazing-hex-2d.md) — A game like super hexagon but a simple version
+- [Amazing Superhero : New York Gangster](../games/adventure/amazing-superhero-new-york-gangster.md) — Superhero in the City is an online game in the style of GTA, but with Spider-Man in the title role. At your disposal is 
+- [Amazonian Enigma](../games/adventure/amazonian-enigma.md) — Venture into the Amazon rainforest's hidden temple in Amazonian Enigma. Battle supernatural foes with sword and magic wh
+- [Amber House Escape](../games/adventure/amber-house-escape.md) — Amber House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Ambulance Escape](../games/adventure/ambulance-escape.md) — Ambulance Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Hospital; the
+- [Ambulance Rescue Game](../games/adventure/ambulance-rescue-game.md) — Ambulance Rescue Game puts you in the role of an emergency rescue driver, where every second counts. Respond to emergenc
+- [American Boy Escape](../games/adventure/american-boy-escape.md) — American Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a American boy house
+- [Amgel 4th of July Escape](../games/adventure/amgel-4th-of-july-escape.md) — AmgelEscape - Amgel 4th Of July Escape is another point and click escape game developed by Amgel Escape. In this game, y
+- [Amgel Archery Home Escape](../games/adventure/amgel-archery-home-escape.md) — AmgelEscape - Amgel Archery Home Escape is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Black Friday Escape](../games/adventure/amgel-black-friday-escape.md) — AmgelEscape - Amgel Black Friday Escape is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Bunny Room Escape 2](../games/adventure/amgel-bunny-room-escape-2.md) — AmgelEscape - Amgel Bunny Room Escape 2 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Chinese New Year Escape 2](../games/adventure/amgel-chinese-new-year-escape-2.md) — AmgelEscape - Amgel Chinese New Year Escape 2 is another point and click escape game developed by AmgelEscape. In this g
+- [Amgel Chinese Room Escape](../games/adventure/amgel-chinese-room-escape.md) — AmgelEscape - Amgel Chinese Room Escape is another point and click escape game developed by AmgelEscape. In this game, y
+- [Amgel Christmas Room Escape 5](../games/adventure/amgel-christmas-room-escape-5.md) — AmgelEscape - Amgel Christmas Room Escape 5 is another point and click escape game developed by Amgel Escape. In this ga
+- [Amgel Christmas Room Escape 6](../games/adventure/amgel-christmas-room-escape-6.md) — AmgelEscape - Amgel Christmas Room Escape 5 is another point and click escape game developed by Amgel Escape. In this ga
+- [Amgel Christmas Room Escape 7](../games/adventure/amgel-christmas-room-escape-7.md) — AmgelEscape - Amgel Christmas Room Escape 7 is another point and click escape game developed by Amgel Escape. In this ga
+- [Amgel Christmas Room Escape 8](../games/adventure/amgel-christmas-room-escape-8.md) — AmgelEscape - Amgel Christmas Room Escape 8 is another point and click escape game developed by Amgel Escape. In this ga
+- [Amgel Easter Room Escape 2](../games/adventure/amgel-easter-room-escape-2.md) — AmgelEscape - Amgel Easter Room Escape is another point and click escape game developed by Amgel Escape. In this game, y
+- [Amgel Easter Room Escape 3](../games/adventure/amgel-easter-room-escape-3.md) — AmgelEscape - Amgel Easter Room Escape 3 is another point and click escape game developed by Amgel Escape. In this game,
+- [Amgel Easy Home Escape](../games/adventure/amgel-easy-home-escape.md) — AmgelEscape - Amgel Easy Home Escape is another point and click escape game developed by Amgel Escape. In this game, you
+- [Amgel Easy Room Escape 40](../games/adventure/amgel-easy-room-escape-40.md) — AmgelEscape - Amgel Easy Room Escape 39 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 41](../games/adventure/amgel-easy-room-escape-41.md) — AmgelEscape - Amgel Easy Room Escape 41 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 42](../games/adventure/amgel-easy-room-escape-42.md) — AmgelEscape - Amgel Easy Room Escape 42 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 43](../games/adventure/amgel-easy-room-escape-43.md) — AmgelEscape - Amgel Easy Room Escape 43 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 44](../games/adventure/amgel-easy-room-escape-44.md) — AmgelEscape - Amgel Easy Room Escape 44 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 45](../games/adventure/amgel-easy-room-escape-45.md) — AmgelEscape - Amgel Easy Room Escape 45 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 46](../games/adventure/amgel-easy-room-escape-46.md) — AmgelEscape - Amgel Easy Room Escape 46 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 47](../games/adventure/amgel-easy-room-escape-47.md) — AmgelEscape - Amgel Easy Room Escape 47 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 48](../games/adventure/amgel-easy-room-escape-48.md) — AmgelEscape - Amgel Easy Room Escape 48 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 49](../games/adventure/amgel-easy-room-escape-49.md) — AmgelEscape - Amgel Easy Room Escape 49 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 50](../games/adventure/amgel-easy-room-escape-50.md) — AmgelEscape - Amgel Easy Room Escape 50 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 51](../games/adventure/amgel-easy-room-escape-51.md) — AmgelEscape - Amgel Easy Room Escape 51 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 52](../games/adventure/amgel-easy-room-escape-52.md) — AmgelEscape - Amgel Easy Room Escape 52 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 53](../games/adventure/amgel-easy-room-escape-53.md) — AmgelEscape - Amgel Easy Room Escape 53 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 54](../games/adventure/amgel-easy-room-escape-54.md) — AmgelEscape - Amgel Easy Room Escape 54 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 55](../games/adventure/amgel-easy-room-escape-55.md) — AmgelEscape - Amgel Easy Room Escape 55 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 56](../games/adventure/amgel-easy-room-escape-56.md) — AmgelEscape - Amgel Easy Room Escape 56 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 57](../games/adventure/amgel-easy-room-escape-57.md) — AmgelEscape - Amgel Easy Room Escape 57 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 58](../games/adventure/amgel-easy-room-escape-58.md) — AmgelEscape - Amgel Easy Room Escape 58 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 59](../games/adventure/amgel-easy-room-escape-59.md) — AmgelEscape - Amgel Easy Room Escape 59 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 60](../games/adventure/amgel-easy-room-escape-60.md) — AmgelEscape - Amgel Easy Room Escape 60 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 61](../games/adventure/amgel-easy-room-escape-61.md) — AmgelEscape - Amgel Easy Room Escape 61 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 62](../games/adventure/amgel-easy-room-escape-62.md) — AmgelEscape - Amgel Easy Room Escape 62 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 63](../games/adventure/amgel-easy-room-escape-63.md) — AmgelEscape - Amgel Easy Room Escape 63 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 64](../games/adventure/amgel-easy-room-escape-64.md) — AmgelEscape - Amgel Easy Room Escape 64 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 65](../games/adventure/amgel-easy-room-escape-65.md) — AmgelEscape - Amgel Easy Room Escape 65 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 66](../games/adventure/amgel-easy-room-escape-66.md) — AmgelEscape - Amgel Easy Room Escape 66 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 67](../games/adventure/amgel-easy-room-escape-67.md) — AmgelEscape - Amgel Easy Room Escape 67 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 68](../games/adventure/amgel-easy-room-escape-68.md) — AmgelEscape - Amgel Easy Room Escape 68 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 69](../games/adventure/amgel-easy-room-escape-69.md) — AmgelEscape - Amgel Easy Room Escape 69 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 70](../games/adventure/amgel-easy-room-escape-70.md) — AmgelEscape - Amgel Easy Room Escape 70 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 71](../games/adventure/amgel-easy-room-escape-71.md) — AmgelEscape - Amgel Easy Room Escape 71 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 72](../games/adventure/amgel-easy-room-escape-72.md) — AmgelEscape - Amgel Easy Room Escape 72 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 73](../games/adventure/amgel-easy-room-escape-73.md) — AmgelEscape - Amgel Easy Room Escape 73 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 74](../games/adventure/amgel-easy-room-escape-74.md) — AmgelEscape - Amgel Easy Room Escape 74 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 75](../games/adventure/amgel-easy-room-escape-75.md) — AmgelEscape - Amgel Easy Room Escape 75 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 76](../games/adventure/amgel-easy-room-escape-76.md) — AmgelEscape - Amgel Easy Room Escape 76 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 77](../games/adventure/amgel-easy-room-escape-77.md) — AmgelEscape - Amgel Easy Room Escape 77 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 78](../games/adventure/amgel-easy-room-escape-78.md) — AmgelEscape - Amgel Easy Room Escape 78 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 81](../games/adventure/amgel-easy-room-escape-81.md) — AmgelEscape - Amgel Easy Room Escape 81 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 82](../games/adventure/amgel-easy-room-escape-82.md) — AmgelEscape - Amgel Easy Room Escape 82 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 83](../games/adventure/amgel-easy-room-escape-83.md) — AmgelEscape - Amgel Easy Room Escape 83 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 84](../games/adventure/amgel-easy-room-escape-84.md) — AmgelEscape - Amgel Easy Room Escape 84 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 85](../games/adventure/amgel-easy-room-escape-85.md) — AmgelEscape - Amgel Easy Room Escape 85 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 86](../games/adventure/amgel-easy-room-escape-86.md) — AmgelEscape - Amgel Easy Room Escape 86 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 87](../games/adventure/amgel-easy-room-escape-87.md) — AmgelEscape - Amgel Easy Room Escape 87 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Easy Room Escape 88](../games/adventure/amgel-easy-room-escape-88.md) — AmgelEscape - Amgel Easy Room Escape 88 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Elf Room Escape 2](../games/adventure/amgel-elf-room-escape-2.md) — AmgelEscape - Amgel Elf Room Escape 2 is another point and click escape game developed by Amgel Escape. In this game, yo
+- [Amgel Giving Tuesday Escape](../games/adventure/amgel-giving-tuesday-escape.md) — AmgelEscape - Amgel Giving Tuesday Escape is another point and click escape game developed by Amgel Escape. In this game
+- [Amgel Good Friday Escape](../games/adventure/amgel-good-friday-escape.md) — AmgelEscape - Amgel Good Friday Escape is another point and click escape game developed by Amgel Escape. In this game, y
+- [Amgel Halloween Room Escape 16](../games/adventure/amgel-halloween-room-escape-16.md) — AmgelEscape - Amgel Halloween Room Escape 16 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 17](../games/adventure/amgel-halloween-room-escape-17.md) — AmgelEscape - Amgel Halloween Room Escape 17 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 18](../games/adventure/amgel-halloween-room-escape-18.md) — AmgelEscape - Amgel Halloween Room Escape 18 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 19](../games/adventure/amgel-halloween-room-escape-19.md) — AmgelEscape - Amgel Halloween Room Escape 19 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 20](../games/adventure/amgel-halloween-room-escape-20.md) — AmgelEscape - Amgel Halloween Room Escape 20 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 21](../games/adventure/amgel-halloween-room-escape-21.md) — AmgelEscape - Amgel Halloween Room Escape 21 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 22](../games/adventure/amgel-halloween-room-escape-22.md) — AmgelEscape - Amgel Halloween Room Escape 22 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 23](../games/adventure/amgel-halloween-room-escape-23.md) — AmgelEscape - Amgel Halloween Room Escape 23 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 24](../games/adventure/amgel-halloween-room-escape-24.md) — AmgelEscape - Amgel Halloween Room Escape 24 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 25](../games/adventure/amgel-halloween-room-escape-25.md) — AmgelEscape - Amgel Halloween Room Escape 25 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 27](../games/adventure/amgel-halloween-room-escape-27.md) — AmgelEscape - Amgel Halloween Room Escape 27 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 28](../games/adventure/amgel-halloween-room-escape-28.md) — AmgelEscape - Amgel Halloween Room Escape 28 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 29](../games/adventure/amgel-halloween-room-escape-29.md) — AmgelEscape - Amgel Halloween Room Escape 29 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 30](../games/adventure/amgel-halloween-room-escape-30.md) — AmgelEscape - Amgel Halloween Room Escape 30 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 31](../games/adventure/amgel-halloween-room-escape-31.md) — AmgelEscape - Amgel Halloween Room Escape 31 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Halloween Room Escape 32](../games/adventure/amgel-halloween-room-escape-32.md) — AmgelEscape - Amgel Halloween Room Escape 32 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Kids Room Escape 1](../games/adventure/amgel-kids-room-escape-1.md) — AmgelEscape - Amgel Kids Room Escape 1 is another point and click escape game developed by Amgel Escape. In this game, y
+- [Amgel Kids Room Escape 50](../games/adventure/amgel-kids-room-escape-50.md) — AmgelEscape - Amgel Kids Room Escape 50 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 51](../games/adventure/amgel-kids-room-escape-51.md) — AmgelEscape - Amgel Kids Room Escape 51 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 52](../games/adventure/amgel-kids-room-escape-52.md) — AmgelEscape - Amgel Kids Room Escape 52 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 53](../games/adventure/amgel-kids-room-escape-53.md) — AmgelEscape - Amgel Kids Room Escape 53 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 54](../games/adventure/amgel-kids-room-escape-54.md) — AmgelEscape - Amgel Kids Room Escape 54 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 55](../games/adventure/amgel-kids-room-escape-55.md) — AmgelEscape - Amgel Kids Room Escape 55 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 56](../games/adventure/amgel-kids-room-escape-56.md) — AmgelEscape - Amgel Kids Room Escape 56 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 57](../games/adventure/amgel-kids-room-escape-57.md) — AmgelEscape - Amgel Kids Room Escape 57 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 58](../games/adventure/amgel-kids-room-escape-58.md) — AmgelEscape - Amgel Kids Room Escape 58 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 59](../games/adventure/amgel-kids-room-escape-59.md) — AmgelEscape - Amgel Kids Room Escape 59 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 60](../games/adventure/amgel-kids-room-escape-60.md) — AmgelEscape - Amgel Kids Room Escape 60 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 61](../games/adventure/amgel-kids-room-escape-61.md) — AmgelEscape - Amgel Kids Room Escape 61 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 62](../games/adventure/amgel-kids-room-escape-62.md) — AmgelEscape - Amgel Kids Room Escape 62 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 63](../games/adventure/amgel-kids-room-escape-63.md) — AmgelEscape - Amgel Kids Room Escape 63 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 64](../games/adventure/amgel-kids-room-escape-64.md) — AmgelEscape - Amgel Kids Room Escape 64 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 65](../games/adventure/amgel-kids-room-escape-65.md) — AmgelEscape - Amgel Kids Room Escape 65 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 66](../games/adventure/amgel-kids-room-escape-66.md) — AmgelEscape - Amgel Kids Room Escape 66 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 67](../games/adventure/amgel-kids-room-escape-67.md) — AmgelEscape - Amgel Kids Room Escape 67 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 68](../games/adventure/amgel-kids-room-escape-68.md) — AmgelEscape - Amgel Kids Room Escape 68 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 69](../games/adventure/amgel-kids-room-escape-69.md) — AmgelEscape - Amgel Kids Room Escape 69 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 70](../games/adventure/amgel-kids-room-escape-70.md) — AmgelEscape - Amgel Kids Room Escape 70 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 71](../games/adventure/amgel-kids-room-escape-71.md) — AmgelEscape - Amgel Kids Room Escape 71 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 72](../games/adventure/amgel-kids-room-escape-72.md) — AmgelEscape - Amgel Kids Room Escape 72 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 73](../games/adventure/amgel-kids-room-escape-73.md) — AmgelEscape - Amgel Kids Room Escape 73 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 74](../games/adventure/amgel-kids-room-escape-74.md) — AmgelEscape - Amgel Kids Room Escape 74 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 75](../games/adventure/amgel-kids-room-escape-75.md) — AmgelEscape - Amgel Kids Room Escape 75 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 76](../games/adventure/amgel-kids-room-escape-76.md) — AmgelEscape - Amgel Kids Room Escape 76 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 77](../games/adventure/amgel-kids-room-escape-77.md) — AmgelEscape - Amgel Kids Room Escape 77 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 78](../games/adventure/amgel-kids-room-escape-78.md) — AmgelEscape - Amgel Kids Room Escape 78 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 79](../games/adventure/amgel-kids-room-escape-79.md) — AmgelEscape - Amgel Kids Room Escape 79 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 80](../games/adventure/amgel-kids-room-escape-80.md) — AmgelEscape - Amgel Kids Room Escape 80 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 81](../games/adventure/amgel-kids-room-escape-81.md) — AmgelEscape - Amgel Kids Room Escape 81 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 82](../games/adventure/amgel-kids-room-escape-82.md) — AmgelEscape - Amgel Kids Room Escape 82 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 83](../games/adventure/amgel-kids-room-escape-83.md) — AmgelEscape - Amgel Kids Room Escape 83 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 87](../games/adventure/amgel-kids-room-escape-87.md) — AmgelEscape - Amgel Kids Room Escape 87 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 88](../games/adventure/amgel-kids-room-escape-88.md) — AmgelEscape - Amgel Kids Room Escape 88 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 89](../games/adventure/amgel-kids-room-escape-89.md) — AmgelEscape - Amgel Kids Room Escape 89 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 90](../games/adventure/amgel-kids-room-escape-90.md) — AmgelEscape - Amgel Kids Room Escape 90 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 91](../games/adventure/amgel-kids-room-escape-91.md) — AmgelEscape - Amgel Kids Room Escape 91 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 92](../games/adventure/amgel-kids-room-escape-92.md) — AmgelEscape - Amgel Kids Room Escape 92 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 93](../games/adventure/amgel-kids-room-escape-93.md) — AmgelEscape - Amgel Kids Room Escape 93 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Kids Room Escape 94](../games/adventure/amgel-kids-room-escape-94.md) — AmgelEscape - Amgel Kids Room Escape 94 is another point and click escape game developed by Amgel Escape. In this game, 
+- [Amgel Mild Challenge Escape](../games/adventure/amgel-mild-challenge-escape.md) — AmgelEscape - Amgel Mild Challenge Escape is another point and click escape game developed by Amgel Escape. In this game
+- [Amgel New Year Room Escape 4](../games/adventure/amgel-new-year-room-escape-4.md) — AmgelEscape - Amgel New Year Room Escape 4 is another point and click escape game developed by Amgel Escape. In this gam
+- [Amgel New Year Room Escape 5](../games/adventure/amgel-new-year-room-escape-5.md) — AmgelEscape - Amgel New Year Room Escape 5 is another point and click escape game developed by Amgel Escape. In this gam
+- [Amgel Peace Room Escape](../games/adventure/amgel-peace-room-escape.md) — AmgelEscape - Amgel Peace Room Escape is another point and click escape game developed by Amgel Escape. In this game, yo
+- [Amgel Santa Room Escape](../games/adventure/amgel-santa-room-escape.md) — AmgelEscape - Amgel Santa Room Escape is another point and click escape game developed by Amgel Escape. In this game, yo
+- [Amgel Scary Halloween Escape](../games/adventure/amgel-scary-halloween-escape.md) — AmgelEscape - Amgel Scary Halloween Escape is another point and click escape game developed by Amgel Escape. In this gam
+- [Amgel Thanksgiving Room Escape 5](../games/adventure/amgel-thanksgiving-room-escape-5.md) — AmgelEscape - Amgel Thanksgiving Room Escape 4 is another point and click escape game developed by Amgel Escape. In this
+- [Amgel Thanksgiving Room Escape 6](../games/adventure/amgel-thanksgiving-room-escape-6.md) — AmgelEscape - Amgel Thanksgiving Room Escape 6 is another point and click escape game developed by Amgel Escape. In this
+- [Amgel Thanksgiving Room Escape 7](../games/adventure/amgel-thanksgiving-room-escape-7.md) — AmgelEscape - Amgel Thanksgiving Room Escape 7 is another point and click escape game developed by Amgel Escape. In this
+- [Amgel Thanksgiving Room Escape 8](../games/adventure/amgel-thanksgiving-room-escape-8.md) — AmgelEscape - Amgel Thanksgiving Room Escape 8 is another point and click escape game developed by Amgel Escape. In this
+- [Amgel Thanksgiving Room Escape 9](../games/adventure/amgel-thanksgiving-room-escape-9.md) — AmgelEscape - Amgel Thanksgiving Room Escape 9 is another point and click escape game developed by Amgel Escape. In this
+- [Amgel Tiny Room Escape 6](../games/adventure/amgel-tiny-room-escape-6.md) — AmgelEscape - Amgel Tiny Room Escape 6 is another point and click room escape game developed by AmgelEscape. In this gam
+- [Amgel Valentine Room Escape](../games/adventure/amgel-valentine-room-escape.md) — AmgelEscape - Amgel Valentine Room Escape is another point and click escape game developed by Amgel Escape. In this game
+- [Amgel Valentines Day Escape 3](../games/adventure/amgel-valentines-day-escape-3.md) — AmgelEscape - Amgel Valentine's Day Escape 3 is another point and click escape game developed by Amgel Escape. In this g
+- [Amgel Valentines Day Escape 4](../games/adventure/amgel-valentines-day-escape-4.md) — AmgelEscape - Amgel Valentine's Day Escape 4 is another point and click escape game developed by Amgel Escape. In this g
+- [Amiable Boy Escape](../games/adventure/amiable-boy-escape.md) — Amiable Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to the Amiable Boy house
+- [Amog Us: Imposter Run 3D](../games/adventure/amog-us-imposter-run-3d.md) — Amog Us: Imposter Run 3D is a parkour speedrun challenge game! Speedrun all the minecraft blocks and complete the parkou
+- [AMONG adventure - Among Us](../games/adventure/among-adventure-among-us.md) — Have fun with this new game, an incredible and extremely fun adventure !! Join the adorable infiltrated characters in th
+- [Among Akero Bots 2](../games/adventure/among-akero-bots-2-2.md) — Navigate a futuristic realm as Akero, the adventurous bot, in a quest for magical gems. Master double jumps and precise 
+- [Among Akero Bots](../games/adventure/among-akero-bots-3.md) — Embark on a pulse-pounding odyssey in Among Akero Bots. Guide the fearless Akero Bot across a vivid Sci-fi landscape, sk
+- [Among Chen Bots 2](../games/adventure/among-chen-bots-2-2.md) — Dive into Among Chen Bots 2, an electrifying 2D platformer. Navigate treacherous terrains, outsmart enemy bots, and gath
+- [Among Chen Bots](../games/adventure/among-chen-bots-3.md) — Dive into the sci-fi thrill of Among Chen Bots, a 2D platformer where quick reflexes and strategic jumps are your only a
+- [Among Impostor](../games/adventure/among-impostor.md) — À propos de ce jeu Play online or over local WiFi with 4-15 players as you attempt to prep your spaceship for departure,
+- [Among Knights](../games/adventure/among-knights-2.md) — Dive into the epic saga of Rainer in Among Knights, where an enthralling 2D world awaits. Engage in strategic combat and
+- [Among Robots 2](../games/adventure/among-robots-2-2.md) — Traverse a thrilling 2D platformer world in Among Robots 2, where agility is key to surviving deadly traps and hostile b
+- [Among Robots](../games/adventure/among-robots-3.md) — Navigate treacherous 2D environments in Among Robots, overcoming hostile machinery and intricate traps. Collect key card
+- [Among Space Escape](../games/adventure/among-space-escape.md) — How much far Hero can run In this action game you have to help Hero to run away from the evil Red Jump from asteroid to 
+- [Among Squid Challenge Online](../games/adventure/among-squid-challenge-online.md) — All players, get ready. They are hiding in a maze. To win the game, you must defeat all the other players. You have a kn
+- [Among Tito 2](../games/adventure/among-tito-2-2.md) — Dive into the futuristic chaos of Among Tito 2, a thrilling 2D platformer. Brave through eight escalating levels, deftly
+- [Among Tito](../games/adventure/among-tito-3.md) — Dive into Among Tito, a thrilling 2D sci-fi platformer where you collect elusive adamant stones while navigating dangero
+- [Among Us](../games/adventure/among-us.md) — Unravel betrayal in space! In Among Us, teamwork and deception collide as crewmates complete vital tasks while identifyi
+- [among us among us](../games/adventure/among-us-among-us.md) — Play online or over local WiFi with 4-10 players as you attempt to prep your spaceship for departure, but beware as one 
+- [among us  among us 2](../games/adventure/among-us-among-us-2.md) — Play online or over local WiFi with 4-10 players as you attempt to prep your spaceship for departure, but beware as one 
+- [Among Us Dungeon](../games/adventure/among-us-dungeon.md) — Among Dungeon is an interesting puzzle game. You need to guide the robot to quickly clear the traps in the maze to help 
+- [Among Us Escape 2](../games/adventure/among-us-escape-2.md) — This is the Sequel to the Hit Game Among Us Escape.Among us Escape 2 brings 5 task puzzles to the same escape ship from 
+- [Among US Horror 3D](../games/adventure/among-us-horror-3d.md) — A horror game based on the famous game, (among us), you have to get to the final door, and you can solve puzzles while y
+- [Among Us - Impostor King Online](../games/adventure/among-us-impostor-king-online.md) — Among Us - Impostor King Online is a fun and engaging action game. Your mission is simple: Execute all living crewmates 
+- [Among Us online v2](../games/adventure/among-us-online-v2.md) — Among Us online is offline multiplayer game in which you are imposter and have to kill all of your crewmates without bei
+- [Among Us Puzzles](../games/adventure/among-us-puzzles.md) — Welcome to the world of Impostors and Crewmates! In this game you have 12 puzzles with pictures from Among Us. Assemble 
+- [Among Us Sea Adventure](../games/adventure/among-us-sea-adventure.md) — Among Us Sea Adventure - Pill pull game is a fascinating puzzle game with an undersea setting, during one of his expedit
+- [Among vs Garten of Banban](../games/adventure/among-vs-garten-of-banban.md) — Among Us vs Garten Of Banban plays the role of an antagonist who will always scare every player. Take control of the amo
+- [Among Yetto Bots 2](../games/adventure/among-yetto-bots-2-2.md) — Navigate a futuristic world in Among Yetto Bots 2, a thrilling 2D platformer. Master double jumps and precise movements 
+- [Among Yetto Bots](../games/adventure/among-yetto-bots-3.md) — Embark on a thrilling adventure in a 2D sci-fi world, mastering your platformer skills against advanced enemy bots and p
+- [Amongus Escape](../games/adventure/amongus-escape.md) — An Imposter was found Amongus,You were able to fled from the space station using the last remaining space shuttle.Mainta
+- [Amusement Park Escape](../games/adventure/amusement-park-escape.md) — Amusement Park Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a park, on
+- [Anaconda Adventure](../games/adventure/anaconda-adventure.md) — Embark on a vibrant, slithering journey with Anaconda Adventure. Skillfully dodge obstacles and gobble up food to grow y
+- [Angry bird blast](../games/adventure/angry-bird-blast.md) — Slingshot Shooting Games- Bottle Shoot Free Games 2020: Recently updated Sling star one of best shooting games- Free off
+- [Angry bird Friends](../games/adventure/angry-bird-friends.md) — Take your chances in the Star Cup as you go head-to-head against individual opponents! Compete with your friends, come o
+- [Angry Birds Friends](../games/adventure/angry-birds-friends.md) — Play a classic arcade game from the Angry Birds saga and try to win in our epic Angry Birds Friends Star Cup adventure! 
+- [Angry Boy Escape](../games/adventure/angry-boy-escape.md) — Angry Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a boy house to play wit
+- [Angry penguin](../games/adventure/angry-penguin.md) — Angry Penguin is a game like angry birds where you need to destroy the bad guys and on some levels to release the pengui
+- [Angry Penguins](../games/adventure/angry-penguins-2.md) — Dive into the chaotic world of Angry Penguins, a vibrant online shooter where sharp reflexes and precise aim reign supre
+- [Angry Sharks](../games/adventure/angry-sharks-2.md) — Embark on a thrilling underwater adventure in Angry Sharks as a mutated shark, hungry for more than just fish. Outsmart 
+- [Angry Zombies War Game](../games/adventure/angry-zombies-war-game.md) — Angry Zombies You have to eliminate zombies with the skull You throw the skull at the zombie by dragging it back. There 
+- [Animal Clinic (Anomaly)](../games/adventure/animal-clinic-anomaly.md) — 🏥 Welcome to Anomaly Animal Clinic — a vet clinic where no shift feels normal. 🐾 Check in patients, stamp forms, take 
+- [Animal Fall](../games/adventure/animal-fall.md) — Fun game where you control an animal that is parachuting down! Dodge rocks and missiles for more points and unlock new a
+- [Animal Hospital](../games/adventure/animal-hospital.md) — There's a queue of patients outside the reception window — but after midnight, it isn't only sick animals that come to t
+- [Animal Preserver](../games/adventure/animal-preserver.md) — Use your brain to rescue the Animals from the deadly Bees. Deadly Bees are waiting to attack the Animals, you have to us
+- [Animal Rescue](../games/adventure/animal-rescue.md) — Embark on a heartwarming mission in Animal Rescue, where vibrant visuals and delightful challenges await. Navigate diver
+- [Animal World](../games/adventure/animal-world-2.md) — Dive into Animal World, a vibrant open-world adventure where you tame whimsical creatures, build cozy homes, and survive
+- [Animals and Star](../games/adventure/animals-and-star.md) — Animals and Star is a very fun game, where your goal is to help the little animals to find all the stars. Total of 40 le
+- [Animals Party Ball - 2 Player](../games/adventure/animals-party-ball-2-player-2.md) — Dive into the chaotic fun of Animals Party Ball, guiding quirky creatures in a vibrant arena. Strategically maneuver to 
+- [Animals Rescue](../games/adventure/animals-rescue.md) — Animals Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village there y
+- [Animals vs Zombies](../games/adventure/animals-vs-zombies.md) — Your beloved animals have been kidnapped by evil aliens! Hurry to rescue them and teach those alien bullies a lesson. Ta
+- [Anomaly Content Record](../games/adventure/anomaly-content-record.md) — Welcome to Anomaly Content Record, a terrifying horror adventure where your only goal is to escape and survive. You&rsqu
+- [Anomaly Content Record](../games/adventure/anomaly-content-record-2.md) — Enter the chilling world of Anomaly Content Record, where survival hinges on your wits. As a lone investigator in a sile
+- [Ant Escape](../games/adventure/ant-escape.md) — Ant Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On there 
+- [ant maze](../games/adventure/ant-maze.md) — A leading ant must find his way home, for that he must eliminate the enemy blue ants, but he is not alone, he has allies
+- [Ant Pil](../games/adventure/ant-pil.md) — Ant-pil is a physics-based marble game with 50 challenging levels. The goal is to first sink your marble into the hole, 
+- [Anthill Land Escape](../games/adventure/anthill-land-escape.md) — Anthill Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village fo
+- [AntiVirus / War Virus](../games/adventure/antivirus-war-virus.md) — Introducing the adrenaline-pumping Anti-Virus Game! Arm yourself with epic tools, dive into the virtual world, and take 
+- [Ants Quest 2](../games/adventure/ants-quest-2-2.md) — Embark on a daring journey as a heroic ant in Ants Quest 2. Collect sugar cubes, master the double jump, and dodge quirk
+- [Apocalypse Rush](../games/adventure/apocalypse-rush.md) — Apocalypse Rush is a fast-paced survival game where you must defend your trailer against endless waves of enemies! Arm y
+- [Apple Drop Adventure](../games/adventure/apple-drop-adventure.md) — Dive into Apple Drop Adventure, where vibrant chaos reigns! Test your speed and strategy as apples rain down alongside u
+- [Aquanaut Adventure](../games/adventure/aquanaut-adventure-2.md) — Embark on a mysterious underwater journey in Aquanaut Adventure. As an explorer, navigate vibrant ocean depths, solve in
+- [Aquarium House Escape](../games/adventure/aquarium-house-escape.md) — Aquarium House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Arcane Blades](../games/adventure/arcane-blades.md) — Wield mystical powers as you navigate a magical realm in Arcane Blades. Become a warrior-mage, mastering enchanted weapo
+- [Archaeologist House Escape](../games/adventure/archaeologist-house-escape.md) — Archaeologist House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a hou
+- [Archeologist House Escape](../games/adventure/archeologist-house-escape.md) — Archeologist House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have 
+- [Archer Hero Pro](../games/adventure/archer-hero-pro.md) — Introducing Archer Hero Pro, an immersive gaming experience that puts your archery prowess to the ultimate test. Step in
+- [Archer Super Hero](../games/adventure/archer-super-hero.md) — action game, where the archer must cross the monster valley, where he encounters many challenges. Collect all the stars 
+- [Archer: Trial by Fate](../games/adventure/archer-trial-by-fate.md) — Archer: Trial by Fate is a dynamic top-down action game. You control an archer who fights through dozens of rooms filled
+- [Archer Warrior - Stickman War](../games/adventure/archer-warrior-stickman-war.md) — In this interesting 3D fighting game Archer Warrior, what players need to do is to ride on horseback, improve their skil
+- [Archero](../games/adventure/archero.md) — Archero an interesting Archery game with a cute painting style. You will set foot on a fantastic adventure. There are ma
+- [Archery Boy Escape](../games/adventure/archery-boy-escape.md) — Archery Boy Escape is a point and click escape game developed by 8BGames. Imagine that you are about to pick up an Arche
+- [Arcuz Treasure Hunters](../games/adventure/arcuz-treasure-hunters.md) — "Arcuz Treasure Hunters" is a Fantasy JRPG game with treasure hunting theme, where players explore underground caves, de
+- [Ardent Girl Escape](../games/adventure/ardent-girl-escape.md) — Ardent Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to an Ardent Girl house 
+- [Arietta's crazy team camping](../games/adventure/arietta-s-crazy-team-camping.md) — Arietta and her friend and family are going on vacation at a camping this summer! Help these crazy campers with everythi
+- [Armed With Wings](../games/adventure/armed-with-wings.md) — Armed With Wings is a sword-fighting action game with a platformer element.
+- [Army Sink](../games/adventure/army-sink.md) — Participate in competitions? gather the biggest crowd and defeat your rivals in a multiplayer game. Become a leader and 
+- [Arno Eagle Rescue](../games/adventure/arno-eagle-rescue.md) — Arno Eagle Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, On
+- [Arouse Estate Escape](../games/adventure/arouse-estate-escape.md) — Arouse Estate Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to an estate f
+- [Arrow Ascend](../games/adventure/arrow-ascend.md) — Arrow Ascend transforms archery into an exhilarating platforming experience. Use arrows as stepping stones to navigate i
+- [Arrow Escape](../games/adventure/arrow-escape-2.md) — Navigate through a world of directional puzzles in Arrow Escape. Tap and launch blocks, clearing the screen while master
+- [Arrow Escape Puzzle Game](../games/adventure/arrow-escape-puzzle-game.md) — Arrow Out is a clever arrow puzzle that tests your logic and strategy in every move. Plan each slide carefully, unlock t
+- [Arrow Rescue](../games/adventure/arrow-rescue-2.md) — Unleash your inner archer hero in Arrow Rescue! Guide Jack through perilous terrains to rescue Jennie from the sinister 
+- [Arrows  Escape](../games/adventure/arrows-escape-2.md) — Step into Arrows Puzzle Escape, a minimalist puzzle experience designed to challenge your logic, planning, and spatial a
+- [Arrows Puzzle Escape](../games/adventure/arrows-puzzle-escape.md) — Welcome to Arrows &ndash; Puzzle Escape, a minimalist puzzle game that challenges your logic, planning, and spatial thin
+- [Arrows Puzzle Escape](../games/adventure/arrows-puzzle-escape-2.md) — Navigate mind-bending arrow mazes in Arrows Puzzle Escape. With each level, outsmart complex logic puzzles and clear you
+- [Arrowtix   Train Your Brain](../games/adventure/arrowtix-train-your-brain.md) — Arrowtix is a satisfying, brain-teasing puzzle game where your goal is to clear the board by sliding tangled arrows out 
+- [ArrowXis Brain Escape Puzzle](../games/adventure/arrowxis-brain-escape-puzzle.md) — Challenge your brain with ArrowXis: Brain Escape Puzzle! Solve colorful arrow puzzles, plan your moves, and clear every 
+- [Asami Mom Adventure](../games/adventure/asami-mom-adventure.md) — Navigate festive challenges in Asami Mom Adventure, a captivating 2D platformer. Collect gift boxes for your daughter wh
+- [Ash Brick House Escape](../games/adventure/ash-brick-house-escape.md) — Ash Brick Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Room on 
+- [ASRs RPG Adventure](../games/adventure/asrs-rpg-adventure.md) — Play as an RPG hero in this fun adventure game from ASRonlineGames.com. Be careful because some of the plants in the kin
+- [Aster Supreme](../games/adventure/aster-supreme.md) — Unleash your strategic prowess in Aster Supreme, a thrilling dungeon crawler. Masterfully draw boomerang paths, switch b
+- [Astral Escape](../games/adventure/astral-escape.md) — The Astronaut survived the enemy and reached the door to the mother ship but it was locked. The lock consists of several
+- [Astral Escape](../games/adventure/astral-escape-2.md) — Embark on an epic space odyssey in Astral Escape, where your logic and quick thinking are your only tools. Solve intrica
+- [Astro Adventure Tour Max](../games/adventure/astro-adventure-tour-max.md) — Astro Adventure Tour Max: Blast Off on a Planetary Quest! Calling all young space explorers! Buckle up for Astro Adventu
+- [Astro Digger](../games/adventure/astro-digger.md) — Embark on a cosmic treasure hunt in Astro Digger. Navigate an alien landscape, collecting gold and minerals while overco
+- [Astro Hop](../games/adventure/astro-hop.md) — Astro Hop is a thrilling space-themed jumping game where players control a brave astronaut leaping across platforms in t
+- [Astro Planet Survival](../games/adventure/astro-planet-survival.md) — Dive into Astro Planet Survival, where you navigate vibrant, unpredictable worlds. Gather resources, construct shelters,
+- [Astrologer House Escape](../games/adventure/astrologer-house-escape.md) — Astrologer House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house;
+- [Astrologist Escape 2](../games/adventure/astrologist-escape-2.md) — Astrologist Escape 2 is a point and click escape game developed by 8BGames. Imagine that you had an appointment to meet 
+- [Astronaut Adventure](../games/adventure/astronaut-adventure.md) — Soar through space in Astronaut Adventure, dodging missiles and jumping between carriers. Its sleek vector design captiv
+- [Astronaut Game](../games/adventure/astronaut-game.md) — Navigate a perilous pixel universe in Astronaut Game. Jump and dodge through vibrant levels filled with relentless enemi
+- [Atanu Boy 2](../games/adventure/atanu-boy-2-2.md) — Embark on a vibrant anime-inspired journey in Atanu Boy 2, a high-energy platformer. Master timing and precision as you 
+- [Atanu Boy](../games/adventure/atanu-boy-3.md) — Dive into Atanu Boy, a captivating 2D action platformer where you navigate perilous terrains and cunningly dodge obstacl
+- [Athlete Escape](../games/adventure/athlete-escape.md) — Athlete Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to an Athlete Boy house 
+- [Athlete Girl Escape](../games/adventure/athlete-girl-escape.md) — Athlete Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to an Athlete Girl hous
+- [ATM Robbery Escape Game](../games/adventure/atm-robbery-escape-game.md) — Get ready for an intense and thrilling experience in ATM Robbery Escape Game! Step into the shoes of a daring mastermind
+- [Ato Adventures](../games/adventure/ato-adventures-2.md) — Embark on a thrilling quest in Ato Adventures, a captivating 2D platformer where quick reflexes and strategic movements 
+- [Attack Alien Moon](../games/adventure/attack-alien-moon.md) — AttackAlienMoon In this wonderful game, a brave boy is chosen to travel to space and fight with aliens on the far side o
+- [Attack Hole Game](../games/adventure/attack-hole-game.md) — Get ready for an exciting and addictive adventure in Attack Hole Game! Control a powerful black hole and swallow everyth
+- [Attic House Escape](../games/adventure/attic-house-escape.md) — Attic House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Attic house. Yo
+- [Autocross Madness](../games/adventure/autocross-madness.md) — 1. There are many levels in the game, and many of them can be used flexibly to help players break through the level fast
+- [Ava Unicorn Escape](../games/adventure/ava-unicorn-escape.md) — Ava Unicorn Escape is a point and click escape game developed by 8BGames. Imagine that you are went to see Ava Unicorn. 
+- [Avatar World Adventure](../games/adventure/avatar-world-adventure.md) — Unleash your imagination in Avatar World Adventure, where vibrant cities and charming pets await. Craft your own stories
+- [Avengers Among Us](../games/adventure/avengers-among-us.md) — Among Us online is offline multiplayer game in which you are imposter and have to kill all of your crewmates without bei
+- [Avengers Thanos Gauntlet Escape](../games/adventure/avengers-thanos-gauntlet-escape.md) — Avengers Thanos Gauntlet Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Aven
+- [Avid Villa Escape](../games/adventure/avid-villa-escape.md) — Avid Villa Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a villa. You g
+- [Avoid The Objects](../games/adventure/avoid-the-objects.md) — Avoid the Objects is a game in which you aim and avoid hitting objects. Enjoy playing and try to reach the highest level
+- [Avoid The Objects Sx](../games/adventure/avoid-the-objects-sx.md) — Avoid the Objects is a game in which you aim and avoid hitting objects. Enjoy playing and try to reach the highest level
+- [Awesome Duck](../games/adventure/awesome-duck.md) — Embark on a delightful platforming journey as a bold duck, navigating increasingly complex stages filled with clever puz
+- [Axie Infinity Gamejam](../games/adventure/axie-infinity-gamejam.md) — Save the Axie, Hero.
+- [Ayane Quest 2](../games/adventure/ayane-quest-2-2.md) — Immerse yourself in Ayane Quest 2, a vibrant 2D adventure where your reflexes and strategy are put to the test. Navigate
+- [Ayane Quest](../games/adventure/ayane-quest-3.md) — Embark on an enchanting anime adventure with Ayane Quest. Control Ayane, a magical girl, as she navigates through vibran
+- [Aztec Cubes Treasure](../games/adventure/aztec-cubes-treasure.md) — Aztec Cubes Treasure is a free arcade game. Are you a nostalgic of the timeless Tetris. You are in the right place. Drop
+- [Azure House Escape](../games/adventure/azure-house-escape.md) — Azure House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Baa-Bomb Maze](../games/adventure/baa-bomb-maze.md) — Embark on a woolly adventure with Baa-Bomb Maze, where you control a sheep that bursts through labyrinthine walls. Strat
+- [Baboon Rescue](../games/adventure/baboon-rescue.md) — Baboon Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on 
+- [Baby Cat Adventure](../games/adventure/baby-cat-adventure.md) — Join an adorable feline hero on a whimsical quest in Baby Cat Adventure. Collect shiny stars and zesty lemons, dodge pes
+- [Baby Daycare Game](../games/adventure/baby-daycare-game.md) — Welcome to Baby Daycare Game, a fun and interactive baby care game where you take care of adorable babies in this exciti
+- [Baby Dragon](../games/adventure/baby-dragon-2.md) — Leap into the skies with Baby Dragon, where timing and strategy combine for endless fun. Navigate airborne platforms, do
+- [Baby Girl Escape](../games/adventure/baby-girl-escape.md) — Baby Girl Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Baby Girl House Escape](../games/adventure/baby-girl-house-escape.md) — Baby Girl House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; 
+- [Baby Gorilla Escape](../games/adventure/baby-gorilla-escape.md) — Baby Gorilla Escape is a point and click escape game developed by 8BGames. Imagine that you have a pet Baby Gorilla in y
+- [Baby Granny 2021](../games/adventure/baby-granny-2021.md) — f you want to have a fun time, play Baby Granny 3D : Simulator Granny Games 2021 now and try to escape from the heist Ba
+- [Baby Hazel Lighthouse Adventure](../games/adventure/baby-hazel-lighthouse-adventure.md) — Baby Hazel is on a cruise and having fun swimming and dancing. Then she sees a light house from her ship and wishes to g
+- [Baby Land Escape](../games/adventure/baby-land-escape.md) — Baby Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On t
+- [Baby Mermaid Adventures](../games/adventure/baby-mermaid-adventures.md) — Lets enjoy playing stars and coin collecting game with this baby mermaid in the underwater at 7sgames.com. There are man
+- [Baby Panda Up](../games/adventure/baby-panda-up.md) — Baby Panda is here! Full of curiosity, Baby Panda loves to explore outer space. Tap the screen to help him fly clear of 
+- [Baby Rescue Plan](../games/adventure/baby-rescue-plan.md) — This is an escape series of games, mainly about the baby to help grandpa to escape from the room ah ~ very interesting. 
+- [Baby Shark Game Online](../games/adventure/baby-shark-game-online.md) — BABY SHARK FISHING GAME: Features artwork with kids' favorite, adorable characters from the world of Pinkfong's Baby Sha
+- [Back Flipper](../games/adventure/back-flipper.md) — Flip at the rooftops, park, over speeding cars, on moving elevators and over airplanes & satellites and be the best Back
+- [Backflip Maniac](../games/adventure/backflip-maniac.md) — Backflip Maniac is a great online game in which you jump with your character. The first levels will be easier as you jum
+- [Backpack Hero](../games/adventure/backpack-hero.md) — Storm the Dungeon! Backpack Hero is the inventory management roguelike! Collect rare items, organize your bag, and vanqu
+- [Backroom Exit](../games/adventure/backroom-exit.md) — Are you ready to face the eerie emptiness of the Backrooms? In Backroom Exit, a tense first-person escape game, you find
+- [Backrooms Abandoned Reality](../games/adventure/backrooms-abandoned-reality.md) — Escape a nightmarish labyrinth in "Backrooms: Abandoned Reality." Navigate ever-changing corridors, gathering critical d
+- [Backrooms Among Us Rolling Giant](../games/adventure/backrooms-among-us-rolling-giant.md) — Now you must escape from Impostor Among Us and Rolling giant. But beware granny sometimes accidentally appear to haunt y
+- [Backrooms: Exit Protocol 0](../games/adventure/backrooms-exit-protocol-0.md) — Backrooms: Exit Protocol 0 — a terrifying horror survival game! Explore Level 0, find the keycard, solve puzzles, avoid 
+- [Backrooms: Skibidi Escape](../games/adventure/backrooms-skibidi-escape.md) — Backrooms: Skibidi Escape is a horror game where you are trapped in the backrooms chased by skibidi toilet and your miss
+- [Backrooms Skibidi Escape](../games/adventure/backrooms-skibidi-escape-2.md) — Navigate a haunting maze, evading relentless skibidi toilet monsters in Backrooms: Skibidi Escape. Find the way out or c
+- [Backrooms Slender Horror](../games/adventure/backrooms-slender-horror.md) — Backrooms Slender Horror is a casual horror escape and hide and seek game in which you have to find the necessary items 
+- [Backyard Entrance Escape](../games/adventure/backyard-entrance-escape.md) — Backyard Entrance Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a vill
+- [Backyard Escape 2](../games/adventure/backyard-escape-2.md) — Backyard Escape 2 is a point and click escape game developed by 8bGames/Games2Mad. You were trapped in a backyard and lo
+- [Badger Escape](../games/adventure/badger-escape.md) — Badger Escape is a point and click escape game developed by 8BGames. Imagine that you have a pet Badger in your house. B
+- [Badland](../games/adventure/badland.md) — Navigate a stunningly eerie world in Badland. Glide as a nimble creature through atmospheric challenges where precise fl
+- [Badlands Hero](../games/adventure/badlands-hero.md) — Embark on an epic journey in the game "Badlands Hero", where danger lurks around every corner and adventure awaits at ev
+- [Baffled Villa Escape](../games/adventure/baffled-villa-escape.md) — Baffled Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villa, th
+- [Baffling Villa Escape](../games/adventure/baffling-villa-escape.md) — Baffling Villa Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a baffling
+- [Bairn Escape](../games/adventure/bairn-escape.md) — Bairn Escape is a point and click escape game developed by 8BGames. Imagine that a bairn got trapped in this house. Your
+- [Bait Fish Escape](../games/adventure/bait-fish-escape.md) — Bait Fish Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On t
+- [Bald Eagle Escape](../games/adventure/bald-eagle-escape.md) — Bald Eagle Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, On
+- [Baldi basics spoopy MOD](../games/adventure/baldi-basics-spoopy-mod.md) — Play Baldi's basics spoopy MOD in education and learning ,in this survival escape Game you need to Collect all 7 noteboo
+- [Baldi Fun](../games/adventure/baldi-fun.md) — Baldi's Fun New School Remastered is the remastered version of the original Baldi's Fun New School mod. If you haven't p
+- [Ball Adventure](../games/adventure/ball-adventure.md) — Features • A fun 3D skill game • 10 awesome levels to play
+- [Ball Adventure 2](../games/adventure/ball-adventure-2.md) — Crazy Ball 2 is a platformer game in which the player has to pick as many stars as it can. Features: • 20 levels • weath
+- [Ball Adventure](../games/adventure/ball-adventure-3.md) — Embark on a gripping journey in Ball Adventure, where you must guide a ball through intricate puzzles to save its belove
+- [Ball Paint](../games/adventure/ball-paint.md) — Slide the screen to adjust the aiming angle; Launch the colored ball onto the character for drawing; Try to paint it all
+- [Ball Sort Game](../games/adventure/ball-sort-game.md) — Ball Sort Puzzle - Color Sorting Game Ball Sort Puzzle is a fun and addictive color sorting puzzle game that challenges 
+- [Ball Space Game](../games/adventure/ball-space-game.md) — Navigate vibrant space adventures in Ball Space Game, where quick reflexes and strategic planning are key. Master the ar
+- [Ball Stars 2](../games/adventure/ball-stars-2.md) — Navigate through Ball Stars 2's dynamic levels, where each turn hides a new twist. Master intuitive controls, solve puzz
+- [Ballerina Cappuccina Haunted Kindergarten](../games/adventure/ballerina-cappuccina-haunted-kindergarten.md) — Venture into an abandoned kindergarten's creepy remnants, where every shadow conceals a new threat. Gather lost smartpho
+- [BallFall](../games/adventure/ballfall.md) — Control the small ball to fall from the top to the bottom. The game has multiple levels, and each level randomly generat
+- [Balloon Color Matching](../games/adventure/balloon-color-matching.md) — To pop balloons and surpass top scores, match their colors! Your ability to match colors will be tested by the entertain
+- [Balloon Defense](../games/adventure/balloon-defense.md) — Can you protect your bubble against dangers? There are different and difficult levels prepared for you. Protect your bal
+- [Balloon Pop: Pop &amp; Blast](../games/adventure/balloon-pop-pop-amp-blast.md) — Balloon Pop: Pop &amp; Blast Get ready for a colorful and addictive balloon popping challenge! Tap, click, and pop ballo
+- [Balloonaa 2](../games/adventure/balloonaa-2-2.md) — Soar through perilous skies in Balloonaa 2, where you, as the daring balloon boy, must skillfully evade dangers and coll
+- [Balloonaa](../games/adventure/balloonaa-3.md) — Navigate through eight whimsical 2D levels as a buoyant balloon boy, dodging perilous spikes and saws. Master the art of
+- [Balloons Park](../games/adventure/balloons-park.md) — Get ready for a burst of fun with Balloon Park ! This addictive mobile game challenges you to pop as many colorful ballo
+- [Balmy Village Escape](../games/adventure/balmy-village-escape.md) — Balmy Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village f
+- [Bamboo Run](../games/adventure/bamboo-run.md) — Swipe or move mouse To Collect Bamboo and Make High Tall Bamboo Tower to Reach Destination Have Fun.
+- [Banana Farm Escape](../games/adventure/banana-farm-escape.md) — Banana Farm Escape is a point and click game developed by Games2Live. Imagine that you had been to a Farm; there you got
+- [Banana Monkey](../games/adventure/banana-monkey.md) — Unleash your inner explorer with Banana Monkey, a thrilling adventure packed with challenging levels. Master timing and 
+- [Bar Escape](../games/adventure/bar-escape.md) — Bar Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a bar with your frien
+- [Barbie Dreamhouse Adventures](../games/adventure/barbie-dreamhouse-adventures.md) — Create your very own Barbie DreamHouse experience! Join us for a bunch of fun activities: baking, cooking, dancing, make
+- [Barbie Dreamhouse Adventures Game Online](../games/adventure/barbie-dreamhouse-adventures-game-online.md) — Create your very own Barbie Dreamhouse experience! You can design every room. Meet my BFFs, my puppies and Blissa! Join 
+- [Barry Has Secret](../games/adventure/barry-has-secret.md) — Barry invites you for a visit to his small apartment. And there is a reason for that. He suspects someone might be follo
+- [Barry Prison Christmas Adventure](../games/adventure/barry-prison-christmas-adventure.md) — Embrace the ultimate festive frenzy with Barry Prison Christmas Adventure. Choose to hunt or hide in this pulse-pounding
+- [Bartender Escape](../games/adventure/bartender-escape.md) — Bartender Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Bartender’s house to 
+- [Basement](../games/adventure/basement.md) — Rubber monster braves the Basement.Come and challenge the high score.
+- [Bat Escape](../games/adventure/bat-escape.md) — Embark on a thrilling nocturnal journey in "Bat Escape," where quick reflexes and precise timing guide your bat through 
+- [Batman Escape](../games/adventure/batman-escape.md) — Batman Escape is a point and click escape game developed by 8BGames. Imagine that you are about to pick up a Boy to scho
+- [Batman Lost At Sea](../games/adventure/batman-lost-at-sea.md) — A fan of puzzle games? a batman fan? You can't miss this game. And visit ben10aliens.net to enjoy exciting games about s
+- [Batman: The Enemy Within](../games/adventure/batman-the-enemy-within.md) — he Telltale Series, both Bruce Wayne and Batman will be forced into precarious new roles. The Riddler has returned to te
+- [Battboy Adventure](../games/adventure/battboy-adventure-2.md) — Embark on a thrilling journey in "Battboy Adventure," a vibrant platformer where fast reflexes and keen strategy are you
+- [Battling Zombies](../games/adventure/battling-zombies.md) — A plant synthesis game where synthetic plants automatically attack monsters. There are various plants appearing, and the
+- [Beach Escape](../games/adventure/beach-escape.md) — Beach Escape is a point and click game developed by Games2Live. Imagine that you had been to a Beach; there you got trap
+- [Beach Escape 2](../games/adventure/beach-escape-2.md) — Beach Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a beach; there yo
+- [Beach Escape 3](../games/adventure/beach-escape-3.md) — Beach Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a beach; there yo
+- [Beach Escape 4](../games/adventure/beach-escape-4.md) — Beach Escape 4 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a beach; there yo
+- [Beach Horse Escape](../games/adventure/beach-horse-escape.md) — Beach Horse Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a beach on 
+- [Beach House Escape](../games/adventure/beach-house-escape.md) — Beach House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Beach House Escape 2](../games/adventure/beach-house-escape-2.md) — Beach House Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Beach Mermaid Escape](../games/adventure/beach-mermaid-escape.md) — Beach Mermaid Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a pla
+- [Beach Resort Escape](../games/adventure/beach-resort-escape.md) — Beach Resort Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a resort to 
+- [Bead Route Challenge](../games/adventure/bead-route-challenge.md) — Bead Route Challenge is a colorful timing puzzle where streams of beads travel along winding conveyor routes. Your objec
+- [Beagle Dog Escape](../games/adventure/beagle-dog-escape.md) — Beagle Dog Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place;
+- [Bear Adventure Online Game](../games/adventure/bear-adventure-online-game-2.md) — Embark on a captivating journey in Bear Adventure Online Game, navigating lush forests and seeking bear companions. Intu
+- [Bear Block Puzzle](../games/adventure/bear-block-puzzle.md) — Fun Bear Block Puzzle is a classic and engaging block puzzle game that challenges your logic and sharpens your mind. Des
+- [Bear Cub Escape](../games/adventure/bear-cub-escape.md) — Bear Cub Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; o
+- [Bear Diver](../games/adventure/bear-diver-2.md) — Guide a courageous bear through a series of treacherous landscapes in Bear Diver. Master jump timing and quick reflexes 
+- [Bear Escape](../games/adventure/bear-escape.md) — Bear Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on th
+- [Bear Land Escape](../games/adventure/bear-land-escape.md) — Bear Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village; ther
+- [Bear Village Escape](../games/adventure/bear-village-escape.md) — Bear Village Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, 
+- [Beast Boy Teen Titans Adventure World 2D](../games/adventure/beast-boy-teen-titans-adventure-world-2d.md) — Beast Boy and raven Titans Go Hero - Titans Teen Superhero jungle adventure run 3d ready to play the Beast Boy and raven
+- [Beast Villa Escape](../games/adventure/beast-villa-escape.md) — Beast Villa Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been lo
+- [Beat ‘Em Up](../games/adventure/beat-em-up.md) — Beat ‘Em Up Beat ‘Em Up – game is a complete package of boxing and karate. The whole game is designed in a story mode th
+- [Bedroom Defense](../games/adventure/bedroom-defense.md) — Bedroom Defense is a thrilling horror survival strategy game where you must protect your bedroom from terrifying waves o
+- [Bedroom Escape](../games/adventure/bedroom-escape.md) — You have a very important meeting today, but oh no! You lost your bedroom keys! How will you attend that meeting now? Th
+- [Bee Bear Honey](../games/adventure/bee-bear-honey.md) — Bee, Bear Honey In this fast-paced and challenging game, you control a bear that must collect honey drops being dropped 
+- [Bee Factory: Honey Collector](../games/adventure/bee-factory-honey-collector.md) — The Bee Factory: Honey Collector is a fun and interactive game where you get to collect honey from bees. You can play di
+- [Beholder 2](../games/adventure/beholder-2.md) — Delve into a world where every decision counts in Beholder 2. As Evan, navigate the mysterious Ministry, balancing your 
+- [Ben 10 Alien](../games/adventure/ben-10-alien.md) — Do you love ben? Are u crazy fans of bentn alien? ben Super Hero boy Transform to Heatblast, humungousaur, ghostfreak, F
+- [ben 10 alien force 2](../games/adventure/ben-10-alien-force-2.md) — IT’S HERO TIME! Ben Tennyson’s most infamous villains are back, and they're threatening to take over the world! It’s up 
+- [Ben 10 Among Us](../games/adventure/ben-10-among-us.md) — Ben 10 Among Us online is an offline multiplayer game in which you are an imposter and have to kill all of your crewmate
+- [Ben 10 Egypt Mystery](../games/adventure/ben-10-egypt-mystery.md) — Go with ben 10 and uncover the mysteries deep beneath the ancient egypt catacombs
+- [Ben 10 Fall Guys](../games/adventure/ben-10-fall-guys.md) — fall guys , fall guys run , fall guys run guys , best funny games. fall days and google play click. fall days, fall days
+- [Ben 10 Ghost House Adventure](../games/adventure/ben-10-ghost-house-adventure.md) — Ben 10 Ghost House Adventure
+- [Ben 10 Gold Digger](../games/adventure/ben-10-gold-digger.md) — Ben 10 Gold Digger.Enjoy the wonderful world of ben10, ben 10 games, ben 10 omniverse, ben 10 aliens on ben10aliens.net
+- [Ben 10 Jumper](../games/adventure/ben-10-jumper.md) — Ben 10 Jumper
+- [BEN 10 stinkfly showtime](../games/adventure/ben-10-stinkfly-showtime.md) — This mobile game labeled Ben10 Challenge Stinkfly's Showtime! is genuinely fun game. Ben10 Challenge Stinkfly's Showtime
+- [Ben 10 Subway Ultimate Alien](../games/adventure/ben-10-subway-ultimate-alien.md) — Ben 10 Subway Ultimate Alien Game, you can always enjoy with your heros we put like slime hero and genie who help ten al
+- [Ben 10 Under The Sea Advanture](../games/adventure/ben-10-under-the-sea-advanture.md) — Ben 10 Under The Sea Advanture
+- [Ben 10 World Rescue](../games/adventure/ben-10-world-rescue.md) — Ten-year-old Ben Tennyson discovers a mysterious device named the Omnitrix on a family vacation. The device allows him t
+- [Bendy and the Ink 3D Game](../games/adventure/bendy-and-the-ink-3d-game.md) — In Bendy and the Ink 3D Game, you will play the role of the main character. You'll fight through a series of levels, fac
+- [Benign Boy Escape](../games/adventure/benign-boy-escape.md) — Benign Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Boy house as a babys
+- [Bernati Forest Adventure](../games/adventure/bernati-forest-adventure.md) — Bernati Forest Adventure is photorealistic point and click forest adventure/escape/hidden objects game where goal is to 
+- [Bernese Mountain Dog Escape](../games/adventure/bernese-mountain-dog-escape.md) — 9minutegames - Bernese Mountain Dog Escape is another point and click room escape game developed by 9minutesgames. The s
+- [Best Friends Adventure](../games/adventure/best-friends-adventure.md) — Best Friends Adventure, do you want to accompany these two cubic characters in endless road adventure? You will control 
+- [Bezo Alien 2](../games/adventure/bezo-alien-2-2.md) — Navigate a perilous alien world in Bezo Alien 2, where each level promises tougher challenges. Collect elusive blue cube
+- [Bezo Alien](../games/adventure/bezo-alien-3.md) — Dive into the thrilling 2D adventure of Bezo Alien, where you navigate a mysterious and dangerous extraterrestrial realm
+- [Big Boom! Building Smash!](../games/adventure/big-boom-building-smash.md) — 💣 Ready to dive into a world of chaos and mayhem? If you’ve enjoyed games like Captain TNT and Noob Demolisher, then ou
+- [Big Fish Eat Small Fish 2](../games/adventure/big-fish-eat-small-fish-2.md) — Big Fish Eat Small Fish 2 - In the beautiful sea, there are many fish. The lives of the fish are all weak meat, big fish
+- [Big Gate Escape](../games/adventure/big-gate-escape.md) — Big Gate Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village Gate,
+- [Big Rolling Ball](../games/adventure/big-rolling-ball.md) — Big Rolling Ball is a fun and addictive arcade game where you control a fast-moving ball and guide it through challengin
+- [Big Space Adventure](../games/adventure/big-space-adventure-2.md) — Blast off into a thrilling intergalactic quest with Big Space Adventure! Strategically match three celestial objects, ou
+- [BigHead](../games/adventure/bighead.md) — Control the character to jump on the platforms on both sides. Different obstacles will appear during the jump. Seize the
+- [Bike Robbery](../games/adventure/bike-robbery.md) — Bike Robbery is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village there you
+- [Bike Stunts Impossible](../games/adventure/bike-stunts-impossible.md) — Impossible Bike Stunts 3D is the bike driving game in which you get to jump behind the handle bars of an insane superbik
+- [Billy And Mandy Spell Book](../games/adventure/billy-and-mandy-spell-book.md) — Play Billy And Mandy Spell Book. The three weird yet interesting cartoon characters, Billy, Mandy and Grim are in a big 
+- [Bird Surfing](../games/adventure/bird-surfing.md) — Bird Surfing is a 3D online game, where you’ll be flying with a bird over beautiful landscapes. Your only objective will
+- [BirdDown](../games/adventure/birddown.md) — The little bird is on the top platform. Control the bird to fall down onto the platform below. There are many traps on t
+- [Birdy Bird](../games/adventure/birdy-bird.md) — Guide a plucky bird through obstacle-filled skies in Birdy Bird. Master timing and precision as you soar, score, and dod
+- [Bit Jump](../games/adventure/bit-jump.md) — Bit Jump - it's an HTML5 game! The fragile computer needs to collect as many stars as it can. Help the computer collect 
+- [Black and white House Escape](../games/adventure/black-and-white-house-escape.md) — Black and white House Escape is a point and click game developed by 8B Games. Imagine that you went to a Black and white
+- [Black Bird Escape](../games/adventure/black-bird-escape.md) — Black Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Black Cat Rescue](../games/adventure/black-cat-rescue.md) — Black Cat Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [Black Friday Celebration](../games/adventure/black-friday-celebration.md) — Black Friday Celebration is a point and click escape game developed by 8BGames/Games2Mad. You are about to go out for pu
+- [Black Friday Escape](../games/adventure/black-friday-escape.md) — Black Friday Escape is another point and click escape game developed by 8BGames/Games 2Mad. Imagine that you had been to
+- [Black Gate Escape](../games/adventure/black-gate-escape.md) — Black Gate Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Village, On
+- [Black Gate Escape 1](../games/adventure/black-gate-escape-1.md) — Black Gate Escape 1 is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Land, On 
+- [Black Hole Fill 3D](../games/adventure/black-hole-fill-3d.md) — Control a powerful black hole and collect objects to complete each level in Hole Collect Master 3D! Move around, grab ev
+- [Black Hole Swallow Master](../games/adventure/black-hole-swallow-master.md) — Black Hole Swallow Master is an exciting and addictive casual arcade game where you control a powerful black hole and sw
+- [Black Holes](../games/adventure/black-holes-2.md) — Dive into the cosmic chaos of Black Holes, where speed and strategy collide. Navigate a stone through the mesmerizing de
+- [Black House Escape](../games/adventure/black-house-escape.md) — Black House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Black Pigeon Escape](../games/adventure/black-pigeon-escape.md) — Black Pigeon Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a plac
+- [Blackriver Mystery. Hidden Objects](../games/adventure/blackriver-mystery-hidden-objects.md) — "Blackriver Mystery. Hidden Objects" is a new game in which you have to try on the role of a mystical detective, the one
+- [Blackriver Mystery. Hidden Objects](../games/adventure/blackriver-mystery-hidden-objects-2.md) — Unravel the secrets of Blackriver in this captivating hidden object adventure. As the town's savior, use your sharp eye 
+- [Blacksmith Escape 3](../games/adventure/blacksmith-escape-3.md) — Blacksmith Escape 3 is a point and click escape game developed by 8BGames. Imagine that you went to a Blacksmith house t
+- [Blast Adventure](../games/adventure/blast-adventure.md) — Blast Adventure throws you into an explosive world where every leap matters! Strategize your jumps on TNT blocks to outl
+- [Blissful boy escape](../games/adventure/blissful-boy-escape.md) — Blissful Boy Escape is a point and click escape game developed by 8BGames. Imagine that a Boy got trapped in this house.
+- [Blithe Girl Escape](../games/adventure/blithe-girl-escape.md) — Blithe Girl Escape is a point and click escape game developed by 8BGames. Imagine that a blithe girl got trapped in this
+- [Block Adventure Craft](../games/adventure/block-adventure-craft.md) — Guide Blocky, the pixelated hero, through perilous landscapes in Block Adventure Craft. Navigate tricky terrains, dodge 
+- [Block Block](../games/adventure/block-block.md) — Block Escape is a challenging puzzle game where you must slide the red block all the way to the right of the board so it
+- [Block Breaker Zombie](../games/adventure/block-breaker-zombie-2.md) — Dive into Block Breaker Zombie, where thrilling action meets zombie horror. Navigate intricate block patterns, break thr
+- [Block Craft](../games/adventure/block-craft.md) — Block Craft is the ultimate PC building game that you can play right in your web browser! If you are a fan of building a
+- [Block Craft 2](../games/adventure/block-craft-2.md) — With the 2nd version of Block Craft, the adventure continues from where it left off! With the newly added skins, invento
+- [Block Digger](../games/adventure/block-digger.md) — In Block Digger, Break through rocks, gather precious gems, and upgrade your mine to boost your fortune. Unlock new leve
+- [Block Escape](../games/adventure/block-escape.md) — Immerse yourself in the addictive world of Block Escape, where strategic thinking and smooth controls challenge your min
+- [Block Escape 2](../games/adventure/block-escape-2.md) — Tap Out: Block Escape is a relaxing 3D puzzle game where your goal is to clear all blocks from the structure. Each block
+- [Block Puzzle: Brain Blast](../games/adventure/block-puzzle-brain-blast.md) — Challenge your brain with Block Puzzle: Brain Blast, a simple and addictive puzzle game where every move matters! Drag a
+- [Block Rush](../games/adventure/block-rush.md) — Welcome to Block Rush, a vibrant and addictive match-three puzzle game that will keep you entertained for hours. Match a
+- [Block Stack 3D](../games/adventure/block-stack-3d.md) — A very challenging casual puzzle game, seemingly simple gameplay actually want to achieve high scores is not easy, test 
+- [Block Tree](../games/adventure/block-tree.md) — Block Tree is a classic Tetris-style puzzle game that challenges your logic and planning skills. Place different block s
+- [Block World](../games/adventure/block-world.md) — Block World is #1 sandbox block world crafting simulator. If you can imagine it, you can build it!
+- [BlockCraft Together](../games/adventure/blockcraft-together.md) — This game can be played both in pairs and alone. You can get resources, defeat mobs, travel across dimensions, build wha
+- [BlockCrafter](../games/adventure/blockcrafter.md) — An infinite sandbox world powered by hyper-realistic graphics and advanced physics. Explore lifelike biomes, gather reso
+- [BlockGunner](../games/adventure/blockgunner.md) — blockgunner is an html5 war game that can be played for two players. Fight with your friends with 3 different maps and 3
+- [Blockland Oneblock Skyblock](../games/adventure/blockland-oneblock-skyblock.md) — Are you ready for an adventure that starts with a small island and a single block in the sky? In OneBlock Skyblock, use 
+- [BLOCKPOST](../games/adventure/blockpost.md) — Checkpoint is a 3D first person shooter. Play in real time with real people. Just choose a weapon from your arsenal and 
+- [Blocky Among Road](../games/adventure/blocky-among-road.md) — Are you ready to answer this emergency call, can you become the hero of this Craft Block Bricks City Among Us. Set in a 
+- [Blocky Dash](../games/adventure/blocky-dash.md) — Get ready for the adventure ride! Jump the player and discover green hills, snowy mountains and desert dunes in this uni
+- [Blocky Fish](../games/adventure/blocky-fish-2.md) — Dive into the vibrant underwater world of Blocky Fish, where quick reflexes and smart maneuvers are your allies. Navigat
+- [Blocky Siege](../games/adventure/blocky-siege-2.md) — Navigate the vast blocky universe as a skilled soldier in Blocky Siege. Engage in intense first-person battles within pr
+- [Blocky Snake](../games/adventure/blocky-snake.md) — Blocky Snake is an exciting endless game in which you move the snake right or left.Try to avoid the obstacles standing i
+- [Blocky Universe](../games/adventure/blocky-universe.md) — In Blocky Universe, you set out on an adventure in a world full of monsters! With your trusty bow and your ax, its up to
+- [Blocky Warrior](../games/adventure/blocky-warrior.md) — Unleash your strategic prowess in Blocky Warrior, a thrilling Match-3 battle adventure. Swiftly match tiles to unleash p
+- [Bloom Sky Adventure](../games/adventure/bloom-sky-adventure.md) — Sky fairy bloom is flying among clouds for challenging mission. There are lightning clouds and evil witches in the sky. 
+- [Blooming House Escape](../games/adventure/blooming-house-escape.md) — Blooming House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Blossom Garden Escape](../games/adventure/blossom-garden-escape.md) — Blossom garden escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a garden w
+- [Blossom Land Escape](../games/adventure/blossom-land-escape.md) — Blossom Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a blossom vi
+- [Blox Escape](../games/adventure/blox-escape.md) — This is logical puzzle game where you need to escape from the frame. It is a kind of sliding game . You need to slide th
+- [Blue Bird Escape](../games/adventure/blue-bird-escape.md) — Blue Bird Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fantasy for
+- [Blue Bird Rescue](../games/adventure/blue-bird-rescue.md) — Blue Bird Rescue is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a farm house 
+- [Blue Brick Room Escape](../games/adventure/blue-brick-room-escape.md) — Blue Brick Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Room on
+- [Blue Cockatoo Escape](../games/adventure/blue-cockatoo-escape.md) — Blue Cockatoo Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village,
+- [Blue Elephant Rescue](../games/adventure/blue-elephant-rescue.md) — Blue Elephant Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village,
+- [Blue Forest Escape](../games/adventure/blue-forest-escape.md) — Blue Forest Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest for 
+- [Blue house bird escape](../games/adventure/blue-house-bird-escape.md) — Blue House Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a villag
+- [Blue House Escape](../games/adventure/blue-house-escape.md) — Blue House Escape is a point and click game developed by Games2Live. Imagine that you had been to a House; there you got
+- [Blue House Escape 2](../games/adventure/blue-house-escape-2.md) — Blue House Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Blue House Escape 3](../games/adventure/blue-house-escape-3.md) — Blue House Escape 3 is a point and click game developed by 8B Games. Imagine that you went to a Bluee house. You got tra
+- [Blue House Escape 4](../games/adventure/blue-house-escape-4.md) — Blue House Escape 4 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Blue Room Escape](../games/adventure/blue-room-escape.md) — Blue Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Blue room. You go
+- [Blue Villa Escape](../games/adventure/blue-villa-escape.md) — Blue Villa Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a blue villa. 
+- [BlueGuy Escape](../games/adventure/blueguy-escape.md) — Embark on a nostalgic journey with BlueGuy Escape, where your timing skills are crucial. Maneuver through a vivid pixel 
+- [Bluetique House Escape](../games/adventure/bluetique-house-escape.md) — Bluetique House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. 
+- [Boat Adventure](../games/adventure/boat-adventure.md) — Set sail on an exhilarating nautical quest where every wave presents new challenges. Navigate treacherous waters with pr
+- [Boat Girl Escape](../games/adventure/boat-girl-escape.md) — Boat Girl Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [Boat Girl Escape 2](../games/adventure/boat-girl-escape-2.md) — Boat Girl Escape 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place
+- [Boat Man Escape 3](../games/adventure/boat-man-escape-3.md) — Boat Man Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Seashore; th
+- [Boat Man Rescue 2](../games/adventure/boat-man-rescue-2.md) — Boat Man Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Seashore; th
+- [Bobb's World](../games/adventure/bobb-s-world.md) — Embark on a charming pixelated odyssey with Bobb, leaping through 30 exotic levels across diverse planets. Collect delec
+- [Body Fit Race - Body Race](../games/adventure/body-fit-race-body-race.md) — Body Fit Race : Avoid those cold drinks tasty but BAD burgers and eat cucumbers, tomato and get through the obstacles. R
+- [Bodyparts](../games/adventure/bodyparts.md) — Bodyparts is a game in which you control a potato head-like hero to collect the missing parts of your body. Use the W,A,
+- [Boho Girl Escape](../games/adventure/boho-girl-escape.md) — Boho Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to the Boho Girl house tak
+- [Bolly Beat](../games/adventure/bolly-beat.md) — Dance to the beat of the roaring Bollywood tunes using the bouncy ball. Help him jump over the tiles of the playing fiel
+- [Bomb Hunters](../games/adventure/bomb-hunters.md) — Bomb Hunters is an addictive skill game in which you must defuse all the bombs in time to move on to the next location. 
+- [Bombardino Crocodilo: Terror Jumpscare](../games/adventure/bombardino-crocodilo-terror-jumpscare-2.md) — Navigate through a cursed mansion in Bombardino Crocodilo: Terror Jumpscare, where eerie dolls and intense chases await.
+- [Bombardiro Crocodilo Clash Brr Brr Patapim](../games/adventure/bombardiro-crocodilo-clash-brr-brr-patapim.md) — Guide Bombardiro, the brave crocodile, through a vibrant world as he eludes the chaotic Brr Brr Patapim. Dodge danger, c
+- [Bones Slasher](../games/adventure/bones-slasher.md) — Throw your ax to soldiers and protect yourself!
+- [Bonny Boy Escape](../games/adventure/bonny-boy-escape.md) — Bonny Boy Escape is a point and click escape game developed by 8BGames. Imagine that you a Bonny Boy invited you to his 
+- [Bonny Girl Escape](../games/adventure/bonny-girl-escape.md) — Bonny Girl Escape 2 is a point and click escape game developed by 8BGames. Imagine that you went to a new house with a G
+- [Bonzer Estate Escape](../games/adventure/bonzer-estate-escape.md) — Bonzer Estate Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to an estate f
+- [Boo Scared? Escape from Backrooms](../games/adventure/boo-scared-escape-from-backrooms.md) — Trapped by a deranged cat in an enigmatic labyrinth, solve clever riddles to escape before the cunning feline catches yo
+- [Boomer Pop](../games/adventure/boomer-pop.md) — Get Bomber Friends now and join the immensely hectic and fun online multiplayer game! Bomb your friends and be the last 
+- [Boontz!](../games/adventure/boontz.md) — Guide Penguin Dad through charming retro landscapes, using Magic Frosty Power to maneuver ice blocks in clever puzzles. 
+- [Boss Foxy escape](../games/adventure/boss-foxy-escape.md) — Boss Foxy Escape is a point and click game developed by 8B Games/Games2live. Imagine that Boss had been to a House, On t
+- [Botanic Land Escape](../games/adventure/botanic-land-escape.md) — Botanic Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, 
+- [Bottle Escape Pro](../games/adventure/bottle-escape-pro.md) — Guide a delicate glass bottle through tricky obstacles in Bottle Escape Pro. With elegant graphics and realistic sounds,
+- [Bottle Flip Game](../games/adventure/bottle-flip-game.md) — Bottle Flip 3D is an addictive arcade game that puts your skills to the test. Your goal is to flip a plastic bottle and 
+- [Bottle Push](../games/adventure/bottle-push.md) — Bottle Push is a very interesting physics puzzle game. You need to tap the bottles and make the juice collect stars. Use
+- [Bouncing Chick](../games/adventure/bouncing-chick.md) — In Bouncing Chick, race against the clock to safely guide your feathery friend to its nest, dodging obstacles along the 
+- [Bouncy Rush Adventure](../games/adventure/bouncy-rush-adventure.md) — Jump with the nice robot across of obstacles and dangers! Jumbot is obsoleted and he has been thrown to the big factory 
+- [Bouncy Rush Game](../games/adventure/bouncy-rush-game.md) — On this bouncy game you need to jump and avoid the obstacle on the way while jumping , you can change between High or Lo
+- [Bouquet for a girl](../games/adventure/bouquet-for-a-girl.md) — Bouquet for a girl is a point and click game developed by 8B Games/Games2Mad. Imagine that you want to gift a bouquet to
+- [Box Journey](../games/adventure/box-journey-2.md) — Navigate intricate platforms as you guide a nimble box through an immersive world in Box Journey. With simple controls, 
+- [Box Jump](../games/adventure/box-jump.md) — Jumping Box is an adventure game. Jumping Box awaits you to play and help the box pass an obstacle by jumping cliffs and
+- [Boxes Wizard 2](../games/adventure/boxes-wizard-2-2.md) — Step into a wizard's shoes in Boxes Wizard 2, a nostalgic pixel art platformer where teleportation and box manipulation 
+- [Boxes Wizard](../games/adventure/boxes-wizard-3.md) — Unleash your magical powers in Boxes Wizard, a 2D pixel-art adventure where strategic box manipulation is key. Use your 
+- [brain 100](../games/adventure/brain-100.md) — brain 100 Match is one classic memory game based on the traditional board game where you have to pair matching cards tha
+- [Brainrot Fall Brainrot Adventure Game](../games/adventure/brainrot-fall-brainrot-adventure-game.md) — Enter the chaotic world of Brainrot Fall, where logic crumbles and survival is an art. Guide Chimpanzini Bananini, a qui
+- [Brainrot Jump Adventure](../games/adventure/brainrot-jump-adventure.md) — Leap into Brainrot Jump Adventure, where every tap propels your quirky character through vibrant platforms. Outsmart foe
+- [Branches Game](../games/adventure/branches-game.md) — Branches Game is a fun and addictive casual game that tests your timing, focus, and reflex skills. In this game, your go
+- [Brave Baby Escape](../games/adventure/brave-baby-escape.md) — Brave Baby Escape is a fascinating casual game. Calabash Brothers or Hulu Brothers is a Chinese animation TV series. Leg
+- [Brave Baby Escape](../games/adventure/brave-baby-escape-2.md) — Embark on a daring mission in Brave Baby Escape, navigating enchanting yet perilous paths to rescue your foster grandfat
+- [Brave Merida Escape](../games/adventure/brave-merida-escape.md) — Brave Merida Escape is a point and click escape game developed by 8BGames. Imagine that you went to a neighbour home to 
+- [Brawl Gun](../games/adventure/brawl-gun.md) — brawl gun game is a legendary two player war game. Play with your friend with 3 different maps and 3 different weapons. 
+- [Brawl Star](../games/adventure/brawl-star.md) — Brawl Stars is a 3v3 top-down shooter game where players from all over the world can battle in the ultimate fight! As yo
+- [Bread Pit 2021](../games/adventure/bread-pit-2021.md) — Help a cute little piece of bread make its way to the toaster! Mind that the game contains Gluten!
+- [Break Free Space Station](../games/adventure/break-free-space-station.md) — You woke up stuck inside of a space station! Someone must be playing a trick on you, you are no astronaut. Look around a
+- [Break Free The Graveyard](../games/adventure/break-free-the-graveyard.md) — After a strange dream, you wake up in a locked cemetery. The sun has already set and skeletons are roaming the grounds. 
+- [Break Free The Museum](../games/adventure/break-free-the-museum.md) — You woke up all alline in the museum! Your friends must be playing a trick on you. Look around, see what you can find to
+- [BREAK OUT](../games/adventure/break-out.md) — Imagine That you were kidnapped by Winston and chained in the house. Now you need to escape from here. find the clue and
+- [Break the Rope](../games/adventure/break-the-rope.md) — Cut ropes strategically in Break the Rope, an engaging, fast-paced puzzle adventure. Test your brain across increasingly
+- [Breinrot Bog](../games/adventure/breinrot-bog.md) — Welcome to a world where the mind is devoured by a mysterious substance — Brainroot. This substance appears in the most 
+- [Brick Hit](../games/adventure/brick-hit.md) — Brick Hit game usually involve launching a projectile, like a ball, to break a wall or layers of bricks. The goal is to 
+- [Brick Home Escape](../games/adventure/brick-home-escape.md) — Brick Home Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped inside
+- [Brick House Escape](../games/adventure/brick-house-escape.md) — Brick House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a brick house. Yo
+- [Brick House Escape 2](../games/adventure/brick-house-escape-2.md) — Brick House Escape 2 is a point and click game developed by 8B Games. Imagine that you went to a brick house. You got tr
+- [Brick Out Adventure](../games/adventure/brick-out-adventure.md) — Fun Brick Out Adventure game with colorful bricks. Retro play method and new funny power-ups bonus. Move the paddle and 
+- [Brick Wall House Escape](../games/adventure/brick-wall-house-escape.md) — Brick Wall House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house;
+- [Brickscape: Breakout Adventure](../games/adventure/brickscape-breakout-adventure.md) — Prepare for an exhilarating journey through a mesmerizing world of vibrant glass-bricks in Brickscape: Breakout Adventur
+- [Bride Escape](../games/adventure/bride-escape.md) — Bride Escape is a point and click escape game developed by 8BGames. Imagine that you went to the bride house take her to
+- [Bridges 3D](../games/adventure/bridges-3d.md) — Welcome to Bridges 3D Game, a fun and addictive puzzle adventure where your creativity and problem-solving skills are pu
+- [Brill House Escape](../games/adventure/brill-house-escape.md) — Brill House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, ther
+- [Brokun](../games/adventure/brokun.md) — Embark on a thrilling quest in Brokun, a challenging 2D platformer full of surprises. Navigate treacherous terrains, dod
+- [Brooder House Escape](../games/adventure/brooder-house-escape.md) — Brooder House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been 
+- [Broomcraft Mystic Evasion](../games/adventure/broomcraft-mystic-evasion.md) — Broomcraft Mystic Evasion is an action game where you take to the skies on a broom, engaging in battles against hordes o
+- [Brothers: the Game](../games/adventure/brothers-the-game.md) — A game about 2 brothers who got their pizza stolen. They must go through many obstacles and puzzles to get there pizza b
+- [Brown Cave Escape](../games/adventure/brown-cave-escape.md) — Brown Cave Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Cave, there 
+- [Brown Land Escape](../games/adventure/brown-land-escape.md) — Brown Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Brown Skull Forest Escape](../games/adventure/brown-skull-forest-escape.md) — Brown Skull Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fore
+- [Brown Village Escape](../games/adventure/brown-village-escape.md) — Brown Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, 
+- [Brr Brr Patapim at Northpole Brainrot](../games/adventure/brr-brr-patapim-at-northpole-brainrot.md) — Embark on an icy adventure with Brr Brr Patapim, battling corrupted penguins in the dramatic North Pole. Traverse treach
+- [Brr Brr Patapim Brainrot Terror](../games/adventure/brr-brr-patapim-brainrot-terror.md) — Awaken in a decaying house where horror lurks at every turn. Collect hidden totems to unlock your way out—all while outm
+- [Brutus Actor Escape](../games/adventure/brutus-actor-escape.md) — Brutus Actor Escape is a point and click escape game developed by 8BGames. Imagine that you went to a house to pick up b
+- [Buddy Blocks Survival](../games/adventure/buddy-blocks-survival.md) — Buddy Blocks Survival is an engaging online game suitable for both kids and adults. The game combines fun, strategy, and
+- [Bug Blaster](../games/adventure/bug-blaster.md) — Experience this killer bug invasion! Smash them with your mouse in this great game ! It's so addictive! Insect Smasher i
+- [Buho Owl Escape](../games/adventure/buho-owl-escape.md) — Buho Owl Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On t
+- [Build a Bridge!](../games/adventure/build-a-bridge.md) — Test your engineering and improvisation skills in a puzzle game where the stakes are as high as they get. It is you who 
+- [Build a Queen 2025](../games/adventure/build-a-queen-2025-2.md) — Embark on a regal adventure in Build A Queen 2025! Navigate vibrant platform levels, choose dazzling outfits, and unlock
+- [Building Mods For Minecraft](../games/adventure/building-mods-for-minecraft.md) — Building Mods For Minecraft is the ultimate game for those who love to build and fight. If you&rsquo;re a Minecraft fan 
+- [Bump Robot](../games/adventure/bump-robot.md) — Bump Robot is an online game that challenges you to jump over obstacles and improve your score with each level. The game
+- [Bump Robot](../games/adventure/bump-robot-2.md) — Leap into action as a nimble robot in Bump Robot, an exhilarating arcade adventure where timing your jumps and dodging o
+- [Bundle Miner Pack](../games/adventure/bundle-miner-pack.md) — Dive into three thrilling worlds with Bundle Miner Pack, where timing is everything. Unearth treasures, master tap-to-pl
+- [Bungalow Escape](../games/adventure/bungalow-escape.md) — Bungalow Escape is another point and click escape game developed by 8B Games. Imagine that you have been locked inside o
+- [Bunny Adventure](../games/adventure/bunny-adventure.md) — Embark on a thrilling escapade as a daring bunny in an endless chase for stars! Masterfully time your leaps and double j
+- [Bunny Needs Carrot](../games/adventure/bunny-needs-carrot.md) — Guide a charming bunny through thrilling levels to gather carrots and access mysterious portals. Experience escalating c
+- [BUNNY SHOPPING ESCAPE](../games/adventure/bunny-shopping-escape.md) — Bunny Shopping Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Village
+- [Buoyant Girl Escape](../games/adventure/buoyant-girl-escape.md) — Buoyant Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Girl house to get 
+- [Burial Yard Escape](../games/adventure/burial-yard-escape.md) — Burial Yard Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a cemetery; t
+- [Burning Man](../games/adventure/burning-man.md) — Burning man is fun addictive hypercasual adventure game. Help the Burning Man to enter the water before he explodes!
+- [Bus Escape](../games/adventure/bus-escape.md) — Bus Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a street with your bu
+- [Bus Rush 2](../games/adventure/bus-rush-2.md) — Bus Rush 2 is one of the most complete multiplayer runners for Android. Run along Rio de Janeiro and other scenarios. Dr
+- [Bushland Escape](../games/adventure/bushland-escape.md) — Bushland Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Bushland. You 
+- [Buto Square 2](../games/adventure/buto-square-2-2.md) — Navigate perilous landscapes in Buto Square 2, guiding a daring robot through intense 2D platformer challenges. Master t
+- [Butterfly Dash](../games/adventure/butterfly-dash.md) — Guide a butterfly through beautifully detailed worlds in Butterfly Dash. Navigate intricate landscapes filled with chall
+- [Butterfly Escape](../games/adventure/butterfly-escape.md) — Butterfly Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Village, On 
+- [Butterfly House Escape 2](../games/adventure/butterfly-house-escape-2.md) — Butterfly House Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house
+- [Buuno](../games/adventure/buuno.md) — Plunge into the hectic life of an office worker in Buuno, a captivating 2D platformer. Navigate perilous obstacles, dodg
+- [Buuno 2](../games/adventure/buuno-2-2.md) — Embark on a thrilling 2D platforming adventure in Buuno 2! Navigate through eight challenging levels as a dedicated offi
+- [Buy An Ice Cream Escape](../games/adventure/buy-an-ice-cream-escape.md) — Buy an Ice Cream Escape is a point and click game developed by Games2Live. Imagine that you are in a street. You saw a h
+- [Byte the Bullet](../games/adventure/byte-the-bullet.md) — Byte the Bullet is a lane-based bullet hell where you and your foes are equipped with Armor Creatures, virtual programs 
+- [Cãozinho Laranja](../games/adventure/c-ozinho-laranja.md) — Ajude o cãozinho Laranja a passar pelos obstáculos e chegar até a porta!
+- [Cabin Cat Storm Survivor](../games/adventure/cabin-cat-storm-survivor.md) — Try to survive as a tiny cat preparing for a BIG storm! Made in 5 days for the 2022 Sleeping Giant Game Jam! The theme w
+- [Cactus Collector Escape](../games/adventure/cactus-collector-escape.md) — Cactus Collector Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Cactus Collect
+- [Cactus Island](../games/adventure/cactus-island.md) — You're on an island and you don't know how you got here. Can anyone help him out of here? Explore the island and find ou
+- [Caddy Escape](../games/adventure/caddy-escape.md) — Caddy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Caddy house to get take h
+- [Cage Bird Escape](../games/adventure/cage-bird-escape.md) — "Cage Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Cake Slice Match](../games/adventure/cake-slice-match.md) — Match, merge, and complete delicious cakes in Cake Slice Match! Place colorful cake slices next to matching pieces to co
+- [Call of Duty Heroes](../games/adventure/call-of-duty-heroes.md) — Official CALL OF DUTY® designed exclusively for mobile phones. Play iconic multiplayer maps and modes anytime, anywhere.
+- [Call to Lethal Company](../games/adventure/call-to-lethal-company-2.md) — Enter a world where office life is a chilling game of survival. As an intern in this sinister workplace, each choice you
+- [Calm Forest Escape](../games/adventure/calm-forest-escape.md) — Calm forest escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest for 
+- [Calm Land House Escape](../games/adventure/calm-land-house-escape.md) — Calm Land House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Calm L
+- [Cambini's Great Escape](../games/adventure/cambini-s-great-escape.md) — Step into Cambini's Great Escape, where every corner hides danger in a sinister escape room you never signed up for. Out
+- [Camel Escape](../games/adventure/camel-escape.md) — Camel Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a desert for resear
+- [Cameraman House Escape](../games/adventure/cameraman-house-escape.md) — Cameraman House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; 
+- [Cameraman Vs Skibidi Survival](../games/adventure/cameraman-vs-skibidi-survival-2.md) — Dive into a suspenseful horror adventure as a daring cameraman racing to victory. Outsmart the menacing toilet guy, test
+- [Camp Girl Escape](../games/adventure/camp-girl-escape.md) — Camp Girl Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a camp, On ther
+- [Camping Adventure](../games/adventure/camping-adventure.md) — Meet the Millers! It’s summer and the Millers decided to go on a vacation. Help them to pack up all the things they need
+- [Camping Adventure Game - Family Road Trip Planner](../games/adventure/camping-adventure-game-family-road-trip-planner.md) — Do you like road trips? Let’s Plan a Family Fun Road Trip on this Winter Vacation. Enjoy the Camping Adventure & Travel 
+- [Camping Adventure Games](../games/adventure/camping-adventure-games.md) — Does your kid love educational games and want to take part in a summer camp ? If your child want to pitch a tent you hav
+- [Camping Adventures Family](../games/adventure/camping-adventures-family.md) — Let’s plan the Family Road Trip Adventures on this summer vacation. The game will give you come back your childhood and 
+- [Candle Run Game](../games/adventure/candle-run-game.md) — Run, collect, and survive in Candle Run, a fun 3D endless runner adventure! Control a burning candle as it races through
+- [Candy Cat Shot](../games/adventure/candy-cat-shot.md) — Get ready to embark on a purr-fectly thrilling adventure with Candy Cat Shot: Feline Frenzy! This mobile game lets you c
+- [Candy Crunch: Sugar Escape](../games/adventure/candy-crunch-sugar-escape.md) — Candy Crunch is a fast-paced puzzle game where speed and strategy matter. Match colorful candies and clear the entire bo
+- [candy crush 2021](../games/adventure/candy-crush-2021.md) — Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players around the world. Switch and
+- [Candy Crush Friends Saga](../games/adventure/candy-crush-friends-saga.md) — The newest game from the Candy Crush Franchise! With updated graphics, fun new game modes and a host of friends to help 
+- [Candy Girl Adventure](../games/adventure/candy-girl-adventure.md) — Embark on a sugary quest with Candy Girl Adventure, a charming platformer where you explore vibrant worlds, dodge sticky
+- [Candy House Escape](../games/adventure/candy-house-escape.md) — Candy House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been lo
+- [Candy Land 2](../games/adventure/candy-land-2.md) — Play beautiful candy land match 3 game with several levels.
+- [Canny Land Escape](../games/adventure/canny-land-escape.md) — Canny Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a calm land fo
+- [Cano Bunny 2](../games/adventure/cano-bunny-2-2.md) — Embark on an adventurous journey with Cano Bunny 2, a thrilling 2D platformer. Maneuver through challenging levels as a 
+- [Cano Bunny](../games/adventure/cano-bunny-3.md) — Embark on an exhilarating adventure as a daring rabbit in Cano Bunny. Leap through dangerous forests and caves, dodge me
+- [Captain America](../games/adventure/captain-america.md) — Captain America is a fictional character appearing in American comic books published by Marvel Comics. Created by cartoo
+- [Capture Flag](../games/adventure/capture-flag.md) — Fast-paced action meets classic childhood fun in Capture Flag! Dive into strategic battles where speed and caution are y
+- [Capture The Planet Idle](../games/adventure/capture-the-planet-idle.md) — Capture the Planet is a strategy game where you play as a commander leading your army to conquer different castles. The 
+- [Capybara Screw Jam](../games/adventure/capybara-screw-jam.md) — Welcome to Capybara Screw Jam! This is a cute and brain-teasing puzzle game. You&rsquo;ll join a lovable capybara on a j
+- [Caravan Escape](../games/adventure/caravan-escape.md) — Caravan Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest with you
+- [Carom House Escape](../games/adventure/carom-house-escape.md) — Carom House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Carpenter Escape](../games/adventure/carpenter-escape.md) — Carpenter Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Carpenter house to ge
+- [Carpenter Ryan Escape](../games/adventure/carpenter-ryan-escape.md) — Carpenter Ryan Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Carpenter Ryan h
+- [Carriage House Escape](../games/adventure/carriage-house-escape.md) — Carriage House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been
+- [Carrot Farm Escape](../games/adventure/carrot-farm-escape.md) — Carrot Farm Escape is a point and click game developed by Games2Live. Imagine that you had been to a Carrot Farm; there 
+- [Cartoon Cat Scary](../games/adventure/cartoon-cat-scary.md) — Discover two thrilling game modes in this unique puzzle experience! Test your logic by filling animal shapes with silver
+- [Cartoon Clash](../games/adventure/cartoon-clash-2.md) — Step into a whimsical combat zone in Cartoon Clash, where iconic animated worlds become vibrant battlegrounds. Engage in
+- [CarVsCops](../games/adventure/carvscops.md) — Control the vehicle to avoid being pursued by the police car. Skillfully control the cars turns to make the police car c
+- [Castle Defense](../games/adventure/castle-defense-2.md) — Protect your castle from relentless foes by mastering spells and boosting your magical prowess. Fast-paced action and es
+- [Castle Escape 2](../games/adventure/castle-escape-2.md) — Castle Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Castle; there 
+- [Castle Escape 3](../games/adventure/castle-escape-3.md) — Castle Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Castle; there 
+- [Cat Escape 2](../games/adventure/cat-escape-2.md) — Sneak your way through the guards 4 paws at a time!
+- [Cat Escape: Hide and Seek](../games/adventure/cat-escape-hide-and-seek.md) — «Cat Escape: Hide and Seek» is an exciting casual arcade game in which you need to help the cat escape, hide from the Gr
+- [Cat Escape: Play hungry cat](../games/adventure/cat-escape-play-hungry-cat.md) — Cat escape is a simple game where you play as a cat and you need to eat Simple rules: Break through angry dogs
+- [Cat Land Escape](../games/adventure/cat-land-escape.md) — Cat Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On t
+- [Cat Maze Adventure](../games/adventure/cat-maze-adventure.md) — Embark on a delightful journey with Cat Maze Adventure, where strategic thinking meets adorable charm. Navigate intricat
+- [Cat Rolling](../games/adventure/cat-rolling.md) — Cat Rolling is a puzzle game where you need to play with a rolling cat. Control the cat and jump over obstacles and jump
+- [Cat Rolling game](../games/adventure/cat-rolling-game.md) — * Run different stages with the goal. This is not an endless game. * Unique running game. Each time you clear a level, t
+- [Cat Trap Labyrinth Escape](../games/adventure/cat-trap-labyrinth-escape.md) — Navigate through the intricate Cat Trap Labyrinth Escape! Maneuver through a maze of cunning traps and challenges to lib
+- [Catch](../games/adventure/catch.md) — Simply click on the hat and move it by your mouse to catch bombs .be careful there's a trick bombs.
+- [Catch the naughty cat](../games/adventure/catch-the-naughty-cat.md) — Catch the Naughty Cat is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village
+- [Caterpillar Escape](../games/adventure/caterpillar-escape.md) — Caterpillar Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place
+- [Caterpillar Escape 2](../games/adventure/caterpillar-escape-2.md) — Caterpillar Escape 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a pla
+- [Caterpillar Forest Escape](../games/adventure/caterpillar-forest-escape.md) — Caterpillar Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fore
+- [Caterpillar Land Escape](../games/adventure/caterpillar-land-escape.md) — Caterpillar Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a villag
+- [Catnap Poppy Playtime: Puzzle](../games/adventure/catnap-poppy-playtime-puzzle.md) — In this puzzle, your task is to draw geometric shapes. They must fall or roll and knock out CatNap. There are special to
+- [Catra Escape](../games/adventure/catra-escape.md) — Catra Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Catra’s house to play. Wh
+- [Cave Crusade](../games/adventure/cave-crusade.md) — Cave Crusade takes you on a dangerous journey as a knight in shining armor, venturing into a cursed castle filled with t
+- [Cave Escape](../games/adventure/cave-escape.md) — Leap upwards in Cave Escape, guiding Rudy to freedom. Dodge unpredictable falling bricks while using them to ascend. Sna
+- [Cave Forest Escape](../games/adventure/cave-forest-escape.md) — Cave Forest Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest for 
+- [Cave Forest Escape 2](../games/adventure/cave-forest-escape-2.md) — Cave Forest Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest fo
+- [Cave Forest Escape 3](../games/adventure/cave-forest-escape-3.md) — Cave Forest Escape 3 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest fo
+- [Cave Horror](../games/adventure/cave-horror.md) — Assemble a team of unlikely adventurers – each with their own unique personalities and stories– and descend into the hea
+- [Cave Island Escape](../games/adventure/cave-island-escape.md) — Cave Island Escape is a point and click game developed by Games2Live. Imagine that you had been to an Island; there you 
+- [Cave Land Escape](../games/adventure/cave-land-escape.md) — Cave Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Cave Treasure Escape](../games/adventure/cave-treasure-escape.md) — Cave Treasure Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place hav
+- [Cave Wars](../games/adventure/cave-wars.md) — Hunt Zombies to Earn Points!
+- [Cave-Woman Escape](../games/adventure/cave-woman-escape.md) — Cave-Woman Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place;
+- [Caveman Adventure1](../games/adventure/caveman-adventure1.md) — Caveman Adventure1 - Caveman in Prehistoric Game is a classical running and jumping platform game, Super caveman in The 
+- [Caveman Adventures](../games/adventure/caveman-adventures.md) — With cute background music and funny SFX, we bring you another amazing game Caveman Adventures. In the stone age world, 
+- [Caveman Escape](../games/adventure/caveman-escape.md) — Caveman Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on
+- [Caveman Escape 2](../games/adventure/caveman-escape-2.md) — Caveman Escape 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [Caveman Escape 3](../games/adventure/caveman-escape-3.md) — Caveman Escape 3 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [Caveman Escape 4](../games/adventure/caveman-escape-4.md) — Caveman Escape 4 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [Caveman Forest Escape](../games/adventure/caveman-forest-escape.md) — Caveman Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, 
+- [Caveman Rhino Escape Series Episode 1](../games/adventure/caveman-rhino-escape-series-episode-1.md) — Caveman RhinoEscape Series Episode 1 is a point and click game developed by 8B Games/Games2mad. Hi... I'm Caveman; I am 
+- [Caveman Treasure Escape](../games/adventure/caveman-treasure-escape.md) — Caveman Treasure Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place 
+- [Caveman Village Escape](../games/adventure/caveman-village-escape.md) — Caveman Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Caveman
+- [Cavern of Gears](../games/adventure/cavern-of-gears.md) — Cavern of Gears is a 2D action-adventure set in a steampunk underworld. Fight through gear-driven caverns with a growing
+- [Cell Escape](../games/adventure/cell-escape-2.md) — Guide a prisoner to freedom through 60 intricate levels by destroying blocks and navigating physics-based puzzles. Each 
+- [Cellf Defense](../games/adventure/cellf-defense.md) — Cellf Defense is a fast-paced action strategy game where you command microscopic defenders inside a living cell. As wave
+- [Cemetery Escape](../games/adventure/cemetery-escape.md) — Cemetery Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been trapped inside this
+- [Cemetery Escape 2](../games/adventure/cemetery-escape-2.md) — Cemetery Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been trapped inside th
+- [Cemetery Halloween](../games/adventure/cemetery-halloween.md) — Cemetery Halloween is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place that 
+- [Cerulean House Escape](../games/adventure/cerulean-house-escape.md) — Cerulean House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Chained Tractor Towing Train](../games/adventure/chained-tractor-towing-train.md) — Did you ever drive a tractor on the railway? Now you can find out how it is in Tractor Towning Train game. Acomplish eac
+- [Chainsaw Man Anime](../games/adventure/chainsaw-man-anime.md) — Chainsaw Man Game is a new amazing chainsaw man anime game,and free online anime game ,in this epic anime action game yo
+- [Chalet Escape](../games/adventure/chalet-escape.md) — Chalet Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been locked 
+- [Challenging Track](../games/adventure/challenging-track.md) — Challenging Track is a difficult parkour game. Are you ready to embark on this wonderful and challenging adventure? If y
+- [champion girl escape](../games/adventure/champion-girl-escape.md) — Champion Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Champion Girl hou
+- [Change part in Love Story](../games/adventure/change-part-in-love-story.md) — What is the code for the safe? What is she hiding? A couple in love goes on an exciting journey where funny situations b
+- [Change Square](../games/adventure/change-square.md) — Change Square is a puzzle game where the ball will touch the square. It's that simple. But the ball and the square must 
+- [Charade 3D Game](../games/adventure/charade-3d-game.md) — Charade 3D Game is a fun and entertaining party game that challenges your creativity, acting skills, and quick thinking.
+- [Chariot Escape](../games/adventure/chariot-escape.md) — Chariot Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village; there 
+- [Charmed Garden Escape](../games/adventure/charmed-garden-escape.md) — Charmed Garden Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a garden o
+- [Check Wednesday Phone!](../games/adventure/check-wednesday-phone.md) — Check Wednesday Phone! creepy-cute game inspired by the Netflix series. Read messages, solve mysteries, explore Nevermor
+- [Checked room escape](../games/adventure/checked-room-escape.md) — Checked Room Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Village, 
+- [Chef Escape](../games/adventure/chef-escape.md) — Chef Escape is a point and click escape game developed by 8BGames. Imagine that you went to a chef house to get some tip
+- [Chef Escape 3](../games/adventure/chef-escape-3.md) — Chef Escape 3 is a point and click escape game developed by 8BGames. Imagine that you went to your Chef house to take hi
+- [Chef house escape](../games/adventure/chef-house-escape.md) — Chef House Escape is a point and click escape game developed by 8BGames. Imagine that you went to a chef house to get so
+- [Cheno vs Reeno 2](../games/adventure/cheno-vs-reeno-2-2.md) — Navigate a captivating 2D world as an adorable robot in Cheno vs Reeno 2. Master the art of double jumping to dodge enem
+- [Cheno vs Reeno](../games/adventure/cheno-vs-reeno-3.md) — Embark on a charming 2D adventure in Cheno vs Reeno, navigating through delightful challenges and avoiding pesky creatur
+- [Chevy Truck Escape](../games/adventure/chevy-truck-escape.md) — Chevy Truck Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a park with y
+- [Chic House Escape](../games/adventure/chic-house-escape.md) — Chic House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been loc
+- [Chick Chase](../games/adventure/chick-chase.md) — Welcome to Chick Chase, a delightful and addictive platformer game where you control a brave chicken on a quest to colle
+- [Chicken Escape](../games/adventure/chicken-escape.md) — Chicken Escape is a 3D stealth puzzle on a colorful farm. Play as a clever chicken planning a daring escape through yard
+- [Chicken Escape - 2 Player](../games/adventure/chicken-escape-2-player-2.md) — Dive into pixelated chaos with Chicken Escape - 2 Player! Compete in a frantic chase, gathering chickens within 120 seco
+- [Chicken Jockey at Tung Tung Sahur Backrooms](../games/adventure/chicken-jockey-at-tung-tung-sahur-backrooms.md) — Brace yourself for a hilarious and spooky ride in Chicken Jockey at Tung Tung Sahur Backrooms! Navigate a maze as a zomb
+- [Chicken Jockey hidden lava chicken 2](../games/adventure/chicken-jockey-hidden-lava-chicken-2.md) — Beneath the barn... lies the burn! In this explosive sequel, the mischievous Chicken Jockey returns with a scorching new
+- [Chicken Jockey: Penguin Rescue](../games/adventure/chicken-jockey-penguin-rescue.md) — Embark on a frosty quest as Chicken Jockey! Navigate treacherous terrains, solve puzzling challenges, and indulge in exh
+- [Chicken Jockey Tung Tung Sahur Fight](../games/adventure/chicken-jockey-tung-tung-sahur-fight.md) — Chicken Jockey: Tung Tung Sahur Fight is an outrageous beat &rsquo;em up game that throws you into the heart of chaotic,
+- [Chicken Love 1](../games/adventure/chicken-love-1.md) — Chicken Love 1 is the story of a brave chicken. The evil trolls have kidnapped his love and he must find her in the late
+- [Chicken Road Cross](../games/adventure/chicken-road-cross.md) — Guide a brave chicken in a thrilling cross-the-road challenge, dodging speeding cars while collecting coins to boost you
+- [Chinu Neko 2](../games/adventure/chinu-neko-2-2.md) — Guide a nimble cat through eight perilous levels in Chinu Neko 2. Collect food bowls while dodging rival felines, treach
+- [Chinu Neko](../games/adventure/chinu-neko-3.md) — Join Chinu Neko in a whimsical 2D adventure as a clever cat hunting for tasty treats. Navigate through treacherous level
+- [chippolino adventure](../games/adventure/chippolino-adventure.md) — chippolino adventure the most popular Adventures games of all the times. To win, chipolino must go through scary jungles
+- [Chitu Adventures 2](../games/adventure/chitu-adventures-2-2.md) — Navigate a perilous corporate world as Chitu in this thrilling 2D platformer. Leap over bullets, dodge devious coworkers
+- [Chitu Adventures](../games/adventure/chitu-adventures-3.md) — Embark on a thrilling 2D platforming quest as Chitu, collecting scattered project papers in a perilous office environmen
+- [Choco Benno 2](../games/adventure/choco-benno-2-2.md) — Embark on a whimsical 2D platforming adventure in Choco Benno 2. Navigate through eight delightful yet challenging level
+- [Choco Benno](../games/adventure/choco-benno-3.md) — Choco Benno delivers a charming 2D platform adventure with increasing challenges. Maneuver an endearing robot through pe
+- [Christmas adventure](../games/adventure/christmas-adventure.md) — Christmas Adventure is a simple 2d game.Hope you enjoy.
+- [christmas adventure ICE](../games/adventure/christmas-adventure-ice.md) — Ho-ho-ho, Welcome to our Christmas Farm! Meet new polar friends: Santa Claus, Rudolph, Snowman, penguin, elf and Bigfoot
+- [Christmas Adventures](../games/adventure/christmas-adventures.md) — Embark on a merry quest through shimmering snowy fields, festive villages, and frosty forests. Gather apples, dodge obst
+- [Christmas Caterpillar Escape](../games/adventure/christmas-caterpillar-escape.md) — Christmas Caterpillar Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been 
+- [Christmas Chuni Bot 2](../games/adventure/christmas-chuni-bot-2-2.md) — Enter a futuristic world as a robot collecting battery cells in this intense 2D platformer. Master double jumps, navigat
+- [Christmas Chuni Bot](../games/adventure/christmas-chuni-bot-3.md) — Dive into Christmas Chuni Bot, a festive 2D sci-fi platformer where you navigate a robot through eight challenging level
+- [Christmas Eve Adventure](../games/adventure/christmas-eve-adventure.md) — Dive into a whimsical winter wonderland in Christmas Eve Adventure, where quick reflexes and strategic thinking are key.
+- [Christmas Girl Escape](../games/adventure/christmas-girl-escape.md) — Christmas Girl Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a pl
+- [Christmas Highway](../games/adventure/christmas-highway-2.md) — Santa's thrilling journey awaits in Christmas Highway! Navigate icy roads adorned with festive wonders, dodge obstacles,
+- [Christmas Kenno Bot 2](../games/adventure/christmas-kenno-bot-2-2.md) — Embrace the holiday spirit in Christmas Kenno Bot 2, where you guide a nimble robot through charming, yet treacherous 2D
+- [Christmas Kenno Bot](../games/adventure/christmas-kenno-bot-3.md) — Embark on a festive quest in Christmas Kenno Bot! Glide through wintry landscapes as a plucky bot, evading enemy robots 
+- [Christmas Memichan 2](../games/adventure/christmas-memichan-2-2.md) — Embark on a festive adventure with Santa Cat Memichan in this thrilling 2D platformer. Navigate Christmas landscapes, av
+- [Christmas Memichan](../games/adventure/christmas-memichan-3.md) — Embrace the holiday spirit with Christmas Memichan, a delightful 2D adventure where you guide Santa Cat Memichan through
+- [Christmas Palace Escape](../games/adventure/christmas-palace-escape.md) — Christmas Palace Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to Christma
+- [Christmas Party Escape](../games/adventure/christmas-party-escape.md) — Christmas Party Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Christm
+- [Christmas Resort Escape](../games/adventure/christmas-resort-escape.md) — Christmas Resort Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Christ
+- [Christmas Santa Adventure](../games/adventure/christmas-santa-adventure.md) — Christmas adventure is adventure web game, collect all bell to earn score and kill the enemy on stage
+- [Christmas Shiboman 2](../games/adventure/christmas-shiboman-2-2.md) — Venture through a festive realm in Christmas Shiboman 2, a delightful 2D platformer. Guide the charming robot Shiboman t
+- [Chucky Girlfriend Escape](../games/adventure/chucky-girlfriend-escape.md) — Chucky Girlfriend Escape is a point and click escape game developed by 8BGames. Imagine that you went to Andy home to se
+- [Circle Adventures](../games/adventure/circle-adventures.md) — the clown wants to escape the circus but needs to retrieve the ring. He faces other clowns and enemies in his escape.
+- [Circle Monster](../games/adventure/circle-monster-2.md) — Circle Monster challenges your reflexes as you skillfully navigate your character through a twisting path. With each jum
+- [Circle Of Heros](../games/adventure/circle-of-heros.md) — Embark on an exciting journey with Circle of Heroes, a fast-paced arcade game that tests your reflexes and strategy. In 
+- [Circle Zombie](../games/adventure/circle-zombie-2.md) — Control a leaping circle in Circle Zombie, an addictive arcade experience where precision and timing are key. Outsmart u
+- [Circus Master Escape](../games/adventure/circus-master-escape.md) — Circus Master Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Circus Master hou
+- [Cirrus](../games/adventure/cirrus.md) — Leap from platform to platform, build your ship, and defend your vessel against enemies high above the clouds.
+- [City Apocalypse 3D Of Zombie Crowd](../games/adventure/city-apocalypse-3d-of-zombie-crowd.md) — Are you all set for a zombie apocalypse? Dodge, search, & eliminate undead zombies. Construct your zombie clan & keep yo
+- [City Bus Passenger Picking Game](../games/adventure/city-bus-passenger-picking-game.md) — Welcome to the idle bus traffic empire tycoon simulator game to build and manage your big human transportation business.
+- [City Construction  Games 3D](../games/adventure/city-construction-games-3d.md) — Construction Simulator: City Building Games you will not only drive a snow excavator to remove snow but also there is on
+- [Clan Land Escape](../games/adventure/clan-land-escape.md) — Clan Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Claritas Dungeon Crawler RPG DEMO](../games/adventure/claritas-dungeon-crawler-rpg-demo.md) — Claritas is a 2D turn-based dungeon crawler RPG that focuses purely on strategic gameplay. With no story or plot, the ga
+- [Clash of Warriors](../games/adventure/clash-of-warriors-2.md) — Step into the fray as a cunning monarch in Clash of Warriors. Strategically wield a dynamic card deck to expand your kin
+- [Clash Royale 3D](../games/adventure/clash-royale-3d.md) — Epic survival run! Racing adventure that will keep you on your toes till the very end! Race, Clash, and Win! Get your ga
+- [Clash To Survival](../games/adventure/clash-to-survival.md) — Clash to Survival thrusts you into a breathtaking battle against relentless spawning enemies. Armed with powerful guns a
+- [Classic Escape 01](../games/adventure/classic-escape-01.md) — Classic Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, there yo
+- [Clay Land Escape](../games/adventure/clay-land-escape.md) — Clay Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On t
+- [Clean The Tube](../games/adventure/clean-the-tube.md) — Slicing soap, flakes, grass has never been so satisfying and breathtaking . Enjoy the destruction now! Hold to slice thi
+- [Cleo Dog Rescue](../games/adventure/cleo-dog-rescue.md) — Cleo Dog Rescue is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On t
+- [Clergy Escape](../games/adventure/clergy-escape.md) — Clergy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Clergy house to take him
+- [Cliff Land Escape](../games/adventure/cliff-land-escape.md) — Cliff Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Climb Man](../games/adventure/climb-man.md) — The hero is hanging on a stone, and your task is to press at the right moment so that he hangs on another stone. Along t
+- [Climb Up!](../games/adventure/climb-up.md) — In this challenging adventure, you''ll embark on a perilous ascent up a massive, treacherous mountain. Navigate slippery
+- [Clock Room Escape](../games/adventure/clock-room-escape.md) — Clock Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Room on ther
+- [Cloud Hopper](../games/adventure/cloud-hopper.md) — Cloud Hopper is a fun, fast-paced arcade game where you guide a falling emoji through a sky full of shifting clouds. Tap
+- [Cloudline Connect](../games/adventure/cloudline-connect.md) — Cloudline Connect is a relaxing yet challenging puzzle game set among floating pillars in the sky. Connect matching colo
+- [Clown Escape](../games/adventure/clown-escape.md) — Clown Escape is a point and click escape game developed by 8BGames. Imagine that you are about to pick up a Boy to schoo
+- [Clown Horror Nights](../games/adventure/clown-horror-nights.md) — Welcome to Clown Horror Nights scary survival game, which will as a lot of patience and concentration from you. Circus a
+- [Clown Super Mario Adventures](../games/adventure/clown-super-mario-adventures.md) — Clown super Mario Adventures- Super Adventure gives you the chance to step back in time to your childhood with the legen
+- [Cluckles](../games/adventure/cluckles.md) — PLAYING TIPS If you can't find all the chicks in a level it's likely they are hiding in a secret area. Friendly butterfl
+- [Coach Escape](../games/adventure/coach-escape.md) — Coach Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Coach house to take him t
+- [Coach Escape 2](../games/adventure/coach-escape-2.md) — Coach Escape 2 is a point and click escape game developed by 8BGames. Imagine that you went to a Coach house to take him
+- [Cocoman 2](../games/adventure/cocoman-2-2.md) — Embark on a daring quest in Cocoman 2, where a charming robotic hero navigates intricate 2D landscapes. Master the doubl
+- [Cocoman](../games/adventure/cocoman-3.md) — Cocoman invites you to a vibrant 2D platform adventure as a charming robotic collector. Leap through 8 thrilling levels 
+- [Cog Escape](../games/adventure/cog-escape.md) — Escape the creepy huge factory before it explodes. You just went to an factory for inspection. There some of your enemie
+- [Coin And Thief](../games/adventure/coin-and-thief.md) — The thief is starving in this castle, help the hero run and collect all coins. Just tap the space key or the screen to m
+- [Coin Hunters Odyssey](../games/adventure/coin-hunters-odyssey.md) — Coin Hunters Odyssey is a thrilling adventure game that challenges players to collect nine coins in each level and use t
+- [Colony Escape](../games/adventure/colony-escape.md) — Colony Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Colony; there yo
+- [Colony Escape 2](../games/adventure/colony-escape-2.md) — Colony Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Colony; there 
+- [Colony gate escape](../games/adventure/colony-gate-escape.md) — A House of Many Doors Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a 
+- [Color and Seek Adventures 2022](../games/adventure/color-and-seek-adventures-2022.md) — Color and Seek Adventures 2022 is an online game for young children. Together with the main characters, you have to retu
+- [Color Horror](../games/adventure/color-horror.md) — Dont play this game if you have heart issue, this game is totally scary, while you avoid different color it could shock 
+- [Color Pop Mania](../games/adventure/color-pop-mania.md) — Get ready for endless popping fun in Color Pop Mania! Tap clusters of same-colored blocks to clear them from the board t
+- [Color Switch Ball](../games/adventure/color-switch-ball.md) — Tap the screen to carefully control the ball through the obstacles. The ball can only cross the obstacles whose color is
+- [Colorful Brick House Escape](../games/adventure/colorful-brick-house-escape.md) — Colorful Brick House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a ho
+- [Colorful Forest Escape](../games/adventure/colorful-forest-escape.md) — Colorful Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest,
+- [Colorful Forest Escape 2](../games/adventure/colorful-forest-escape-2.md) — Colorful Forest Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fores
+- [Colorful Land Escape](../games/adventure/colorful-land-escape.md) — Colorful Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, 
+- [Colorful Pac Escape](../games/adventure/colorful-pac-escape.md) — Colorful Pac Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, 
+- [Colourful Garden Escape](../games/adventure/colourful-garden-escape.md) — Colourful Garden Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Colou
+- [Coma](../games/adventure/coma.md) — Coma is an adventure game where you play as Pete and start your adventure to find your lost sister in Shill Bend.
+- [Combat Penguin 2](../games/adventure/combat-penguin-2.md) — Combat Penguin game You have to shoot the snowmen to collect the trophies and as you win, the game becomes more difficul
+- [Comic Land Escape](../games/adventure/comic-land-escape.md) — Comic Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village, the
+- [Comics 456 - Survival Game](../games/adventure/comics-456-survival-game.md) — Comics 456 - Survival Game offers a thrilling blend of comedy and survival as you guide Player 456 through intense chall
+- [Command Strike FPS 2](../games/adventure/command-strike-fps-2.md) — Welcome to a new shooter game! Take part in a real commando mission! Here you’ll find classic and favorite features of s
+- [Commando Days Adventures](../games/adventure/commando-days-adventures.md) — This game is about the adventures of commando warriors and at the first level will run to get the bag after getting the 
+- [Concealed in the Darkness](../games/adventure/concealed-in-the-darkness.md) — Lisa and Sharon are two sisters who were very strange when they were very young. Namely, they were driven out of the hou
+- [Concrete House Escape](../games/adventure/concrete-house-escape.md) — Concrete House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Coney House Escape](../games/adventure/coney-house-escape.md) — Coney House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [CONNECT IT](../games/adventure/connect-it.md) — Amazing PUZZLE game. Just connect all the paths in order to complete the meet the goal.
+- [Conquer the galaxy](../games/adventure/conquer-the-galaxy.md) — Nothing goes right in space! The number of extraterrestrials is growing dramatically, and they are now starting to fight
+- [Construction House Escape](../games/adventure/construction-house-escape.md) — Construction House Escape is a point and click escape game developed by 8BGames. Imagine that you went to a construction
+- [Cool Boy Escape](../games/adventure/cool-boy-escape.md) — Cool Boy Escape is a point and click escape game developed by 8BGames. Imagine that a Boy got trapped in this house. Her
+- [Coral Adventure](../games/adventure/coral-adventure.md) — Welcome to Coral Adventure &ndash; Dive Into a Splashy Challenge! &zwj; Join a cute Barbee fish on an exciting underwate
+- [Coral Adventure](../games/adventure/coral-adventure-2.md) — Embark on a vibrant underwater escapade with your Barbee fish! Tap to guide her through narrow coral mazes, dodging obst
+- [Corn Farm Escape](../games/adventure/corn-farm-escape.md) — Corn Farm Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there y
+- [Cosmic Bee](../games/adventure/cosmic-bee.md) — In the Cosmic Bee kids game you have to go into outer space and become a real astronaut. The essence of the game is that
+- [Cosy Villa Escape](../games/adventure/cosy-villa-escape.md) — Cosy Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villa, there
+- [Cottage Escape](../games/adventure/cottage-escape.md) — Cottage Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Cottage; there 
+- [Cottage Estate Escape](../games/adventure/cottage-estate-escape.md) — Cottage Estate Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been ton estate a 
+- [Count Escape Rush](../games/adventure/count-escape-rush.md) — Count Escape Rush plays like a 3D stickman running arcade game. Different from traditional running arcade games, your me
+- [count master 3d](../games/adventure/count-master-3d.md) — Counting Master 3D is a fun and engaging game that helps improve your counting and decision-making skills. In this game,
+- [Counter Craft Zombies](../games/adventure/counter-craft-zombies-2.md) — Survive relentless Minecraft zombies in Counter Craft Zombies, a thrilling blend of shooting strategy and survival adven
+- [Couple Parrot Escape](../games/adventure/couple-parrot-escape.md) — Couple Parrot Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a pla
+- [Courier Boy Escape](../games/adventure/courier-boy-escape.md) — Courier Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Courier Boy house t
+- [Covid House Escape](../games/adventure/covid-house-escape.md) — Covid House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Cow Calf Escape](../games/adventure/cow-calf-escape.md) — Cow Calf Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; o
+- [Cow Escape](../games/adventure/cow-escape.md) — Cow Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on the
+- [Cow Jam Farm puzzle](../games/adventure/cow-jam-farm-puzzle.md) — In Cow Jam Farm Puzzle, the peaceful farm turns into a tricky traffic jam that only your logic skills can solve. Cows ar
+- [Cowboy Adventure](../games/adventure/cowboy-adventure.md) — you play the cowboy in the Wild Wild West. Collect the coins and upgrade to more powerful weapons. What's the highest sc
+- [Cowboy Escape](../games/adventure/cowboy-escape.md) — Cowboy Escape is a point and click escape game developed by 8BGames. Imagine that you went to your Cowboy house to take 
+- [Crab & Fish](../games/adventure/crab-fish.md) — Crab & Fish is a skill game where you free fish as you pop blocks and move down the platform. You only need to touch the
+- [Craft Doors: Horror Run](../games/adventure/craft-doors-horror-run.md) — Can you escape the craft doors alive? Joining Craft Doors: Horror Escape Run where you can experience the most petrifyin
+- [CraftMine - Ultimate Knockout](../games/adventure/craftmine-ultimate-knockout.md) — Minecraft themed online mobile multiplayer racing and winning game. Pass a lot of people and be the winner of the first 
+- [Craftmines](../games/adventure/craftmines.md) — CraftMine is an online strategy game that we hand picked for Lagged.com. This is one of our favorite mobile strategy gam
+- [Crane Land Escape](../games/adventure/crane-land-escape.md) — Crane Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Crap Attack](../games/adventure/crap-attack.md) — Embark on a high-stakes intestinal journey in Crap Attack! Race against the clock to cleanse the host body before a cruc
+- [Crash Landing 3D - Airplane Game](../games/adventure/crash-landing-3d-airplane-game.md) — Crash Landing 3D is a very addicting simulation flight game. In the game, the player will control the plane to fly in sp
+- [Crazy Bomber](../games/adventure/crazy-bomber.md) — Crazy bombing allows you to launch all kinds of shells to complete the clearance. You will unlock all the super battery 
+- [Crazy Driver Noob](../games/adventure/crazy-driver-noob-2.md) — Dive into the pixelated chaos of Crazy Driver Noob, where skillful navigation is key. Master tricky ramps, collect golde
+- [Crazy Escape Masters](../games/adventure/crazy-escape-masters.md) — The escape adventures have never been so fun. Save yourself and your mates from unexpected traps and tricky obstacles. D
+- [Crazy Gunner](../games/adventure/crazy-gunner.md) — Crazy Gunner is a very retro action adventure leisure shooting game. Players can experience the fun of various shooting 
+- [Crazy Intersection](../games/adventure/crazy-intersection.md) — 1. Players will experience happy playing methods from the game and challenge massive levels; 2. The level of the game wi
+- [Crazy Mechanic](../games/adventure/crazy-mechanic.md) — Welcome to the Crazy Mechanic game! In this game, you are a very, very crazy mechanic and you must collect as many repai
+- [Creeper vs Enderman from minecraft](../games/adventure/creeper-vs-enderman-from-minecraft.md) — Try to get expensive armor and a new set of armor for each hero! If a noob spiderman, creeper trader, ender robot or bat
+- [Creepy Evil Granny](../games/adventure/creepy-evil-granny.md) — Escape the abandoned asylum without the evil horror Granny to find you. Move silently, without making any noise and avoi
+- [Creepy playtime](../games/adventure/creepy-playtime.md) — Enter the unsettling realm of Creepy Playtime, where shadows hide lurking threats. Collect soda cans while avoiding dete
+- [creepy playtime](../games/adventure/creepy-playtime-2.md) — You woke up backstage, filled with monsters and mysteries! The locals do not like uninvited guests, so its better not to
+- [Crime House Escape](../games/adventure/crime-house-escape.md) — Crime House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a crime. You 
+- [Crime Scene Escape](../games/adventure/crime-scene-escape.md) — Crime Scene Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Crime Scene
+- [Crimson Escape](../games/adventure/crimson-escape.md) — Crimson Escape is a fast-paced space survival game where your reflexes are the only thing standing between victory and d
+- [Crocodile Land Escape](../games/adventure/crocodile-land-escape.md) — Crocodile Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been trapped in Cr
+- [Crossy Froag](../games/adventure/crossy-froag.md) — Guide your courageous frog across bustling streets in Crossy Froag, where timing and precision are essential. Avoid spee
+- [Crossy Road Chicken](../games/adventure/crossy-road-chicken.md) — Crossy Chicken is undoubtedly one of the most interesting new arcade games this year, with addictive gameplay and 2D art
+- [Crowd Rush Game](../games/adventure/crowd-rush-game.md) — Get ready for fast-paced action in Crowd Rush Game! Control your crowd, move through challenging paths, and collect more
+- [Crowgue](../games/adventure/crowgue.md) — Dive into "Crowgue," a thrilling 3D adventure as a sword-wielding crow in a randomly generated dungeon world. Utilize yo
+- [Crown Land Escape](../games/adventure/crown-land-escape.md) — Crown Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Cruel Fable](../games/adventure/cruel-fable.md) — Cruel Fable is a dark storybook-inspired action roguelike where you survive waves of twisted creatures, collect gold, bu
+- [Crying Emma Escape](../games/adventure/crying-emma-escape.md) — Crying Emma Escape is a point and click escape game developed by 8BGames. Imagine that you are went to play with Emma ba
+- [Crystal Flight Aztec Adventure](../games/adventure/crystal-flight-aztec-adventure.md) — Soar through the vibrant Aztec world in Crystal Flight Aztec Adventure, mastering your jetpack to dodge cunning traps. P
+- [Crystals Sliding Image Adventure](../games/adventure/crystals-sliding-image-adventure.md) — Dive into Crystals Sliding Image Adventure, where you'll unravel captivating images by strategically sliding tiles into 
+- [Cube blocks Game](../games/adventure/cube-blocks-game.md) — Get ready for a fun and addictive puzzle experience with Cube Blocks Game, where your goal is to place and arrange block
+- [Cube Craft Survival](../games/adventure/cube-craft-survival.md) — Are you ready for the struggle for survival in natural life? With the Cube Craft Survival game, you must meet all your n
+- [Cube Fall](../games/adventure/cube-fall.md) — Guide a constantly falling cube through an endless descent, deftly maneuvering around obstacles for as long as possible.
+- [Cube Island](../games/adventure/cube-island.md) — Create a fruitful cube island by connecting and completing the water puzzle to irrigate the whole island.
+- [Cube Sorting](../games/adventure/cube-sorting.md) — In Sort Em All , your mission is to master the water sorting. Sort and merge the same color water in tubes with various 
+- [Cube Speed Dash](../games/adventure/cube-speed-dash.md) — Jump, dash, and survive in Cube Speed Dash, a high-speed arcade challenge where every second counts! Master lightning-fa
+- [Cubeman Saw Escape](../games/adventure/cubeman-saw-escape.md) — Dodge deadly saws and overcome obstacles as a nimble cubeman in Cubeman Saw Escape. Test your reflexes in vibrant pixela
+- [Cubic Adventure Don't Fall](../games/adventure/cubic-adventure-don-t-fall.md) — Navigate intricate 3D puzzles as a rolling block, strategically maneuvering across perilous platforms. Each level challe
+- [CubicJump](../games/adventure/cubicjump.md) — Dive into the thrilling blocky universe of CubicJump, where your precision and timing are key. Jump through innovative l
+- [Cuckoo vs Crow Monster 2](../games/adventure/cuckoo-vs-crow-monster-2-2.md) — Embark on a thrilling 2D adventure in Cuckoo vs Crow Monster 2. Navigate through eight perilous levels, outsmarting mons
+- [Cuckoo vs Crow Monster](../games/adventure/cuckoo-vs-crow-monster-3.md) — Navigate treacherous terrains as a daring Cuckoo on a quest to reclaim stolen eggs from the menacing Crow Monsters. With
+- [Cumulus Escape](../games/adventure/cumulus-escape.md) — Cumulus Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Cumulus Clouds
+- [Cuphead Rush](../games/adventure/cuphead-rush.md) — Run with the cuphead characters and escape the dangerous environments, evade spikes, collect stars power ups and booster
+- [Cursed Dreams](../games/adventure/cursed-dreams.md) — Enter the haunting realm of "Cursed Dreams," where nightmares come alive on Halloween night. Navigate through unique dre
+- [Cut Grass Game](../games/adventure/cut-grass-game.md) — Cut Grass is a brand-new adventure and leisure game for boys for free. In the game, you need to control your lawnmower, 
+- [Cute Animal Puzzle Game](../games/adventure/cute-animal-puzzle-game.md) — Welcome to Cute Animal Puzzle Game, a delightful and relaxing puzzle adventure filled with adorable animals, colorful ch
+- [Cute Bird Rescue](../games/adventure/cute-bird-rescue.md) — Cute Bird Rescue is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Cute Box](../games/adventure/cute-box.md) — Guide an adorable box through charming 2D mazes, collecting flowers and evading colorful foes. Navigate past tricky spik
+- [Cute Box 2](../games/adventure/cute-box-2.md) — Guide an adorable box through charming levels, collecting flowers and dodging colorful box foes and sneaky traps. Experi
+- [Cute Bunny Escape](../games/adventure/cute-bunny-escape.md) — Cute Bunny Escape is a point and click escape game developed by 8BGames. Imagine that you bought a cute bunny to your re
+- [Cute Butterfly House Escape](../games/adventure/cute-butterfly-house-escape.md) — Cute Butterfly House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a ho
+- [Cute Cat Escape](../games/adventure/cute-cat-escape.md) — Cute Cat Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fantasy fore
+- [Cute Dog Escape](../games/adventure/cute-dog-escape.md) — Cute Dog Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; o
+- [Cute Dragons.ro](../games/adventure/cute-dragons-ro.md) — There is an amazing world out there, hidden in the skies, where dragons live flying free over the fuzzy clouds. Their la
+- [Cute Girl House Escape](../games/adventure/cute-girl-house-escape.md) — Cute Girl House Escape is a point and click escape game developed by 8B Games/Games2Mad. Imagine that you went to a Cute
+- [Cute House Escape](../games/adventure/cute-house-escape.md) — Cute House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there
+- [Cute Office Escape](../games/adventure/cute-office-escape.md) — Cute Office Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Office; the
+- [Cute Parrot Escape](../games/adventure/cute-parrot-escape.md) — Cute Parrot Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place
+- [Cute Puppy Escape](../games/adventure/cute-puppy-escape.md) — Cute Puppy Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place;
+- [Cute Puppy Escape 2](../games/adventure/cute-puppy-escape-2.md) — Cute Puppy Escape 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a plac
+- [Cute Red Bird Escape](../games/adventure/cute-red-bird-escape.md) — "Cute Red Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Land, O
+- [Cute World Craft](../games/adventure/cute-world-craft.md) — Cute World Craft is an open-world sandbox where you can create the 3D world with your own rules, play survival mode or m
+- [Cutos Quest 2](../games/adventure/cutos-quest-2-2.md) — Embark on a vibrant journey with Cutos Quest 2, guiding Cuto through thrilling platform challenges. Collect delicious bi
+- [Cutos Quest](../games/adventure/cutos-quest-3.md) — Dive into Cutos Quest, a dynamic 2D platformer where mastering double jumps and strategizing against treacherous obstacl
+- [Cutter Woodsman Game](../games/adventure/cutter-woodsman-game.md) — Become a skilled woodsman and chop your way through the forest! Use your axe to cut down trees, collect wood, and comple
+- [Cyber Machine](../games/adventure/cyber-machine.md) — Crazy machines are destroying humanity. Right now, we desperately need the super soldier's help to save the world. It's 
+- [Cyber Monday Escape](../games/adventure/cyber-monday-escape.md) — Cyber Monday Escape is another point and click escape game developed by 8BGames/Games 2Mad. Imagine that you had been to
+- [Cyber Soldier](../games/adventure/cyber-soldier.md) — You are in the wonderful world of cyber soldier! Enter the battle and take cover or confront your opponents by shooting 
+- [CyborgCity](../games/adventure/cyborgcity.md) — Brace yourself for survival in CyborgCity, a thrilling adventure where quick thinking and precision decide your fate. Na
+- [D Saga](../games/adventure/d-saga.md) — D-Saga is really addictive infinity run ads free game for kids and adults, where a funny hungry dragon flying out for fo
+- [Daddy Escape](../games/adventure/daddy-escape-2.md) — Daddy Escape-Save Pull Pin Out game is a unique hyper casual puzzle game. Use your brain to solve the tricky pin pull ou
+- [Danboard Adventure](../games/adventure/danboard-adventure-2.md) — Embark on Danboard's journey of surprise and wonder, where each choice shapes your adventure. Navigate charming puzzles,
+- [Dancer Escape](../games/adventure/dancer-escape.md) — Dancer Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Dancer house to take him
+- [Dangerous Rescue](../games/adventure/dangerous-rescue.md) — Pilot a rescue helicopter through treacherous landscapes in Dangerous Rescue. With intuitive controls, navigate mountain
+- [Dangerous Wall Escape](../games/adventure/dangerous-wall-escape.md) — Jump into the pulse-pounding world of Dangerous Wall Escape, where precision, quick reflexes, and strategic thinking are
+- [Daring Jack](../games/adventure/daring-jack-2.md) — Navigate an uninhabited jungle island as Daring Jack, solving intricate puzzles while securing food and shelter. Every d
+- [Darios Quest 2](../games/adventure/darios-quest-2-2.md) — Join an epic 2D platforming quest in Darios Quest 2, where collecting ice cream bars and avoiding diabolical foes test y
+- [Darios Quest](../games/adventure/darios-quest-3.md) — Embark on Darios Quest, where a heroic journey awaits across 8 thrilling levels. Master double jumps, outsmart dynamic o
+- [Dark Barn Escape](../games/adventure/dark-barn-escape.md) — Dark Barn Escape is phototrealistic room escape game from Escape Fan. You opened your eyes slowly and look around. You a
+- [Dark Boy](../games/adventure/dark-boy.md) — Help Dark Boy fight through stunningly designed greyscale levels and use your time-controlling abilities to help slay da
+- [Dark Castle Escape](../games/adventure/dark-castle-escape.md) — You are brave soldier train to escape from this dark castle. To do that you need to jump over the obstacle and pick up s
+- [Dark Cemetery Escape](../games/adventure/dark-cemetery-escape.md) — Dark Cemetery Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been trapped inside
+- [Dark Forest Escape](../games/adventure/dark-forest-escape.md) — Dark forest escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest for 
+- [Dark Land Escape](../games/adventure/dark-land-escape.md) — Dark Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Dark Night Escape](../games/adventure/dark-night-escape.md) — Dark Night Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village at d
+- [Dark Ninja Adventure](../games/adventure/dark-ninja-adventure.md) — This is not an ordinary ninja, in fact, this is a skillful collector of stars and the main goal of this ninja is to coll
+- [Dark Skull Forest Escape](../games/adventure/dark-skull-forest-escape.md) — Dark Skull forest escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a fores
+- [Dark Space](../games/adventure/dark-space.md) — Embark on a cosmic journey in Dark Space, where strategic foresight and quick reflexes are your greatest allies. Navigat
+- [Dark War](../games/adventure/dark-war.md) — Welcome to the world of adrenaline, magic and the fight against evil! an exciting role-playing game with a view from abo
+- [dbz Dragon ball 3](../games/adventure/dbz-dragon-ball-3.md) — You are San Go Ku and are on cloud nine, but you are not dreaming. You must kill all your enemies who wish you harm. To 
+- [Dead Faces : Horror Room](../games/adventure/dead-faces-horror-room.md) — Object collecting, mystery solving, terror, and intrigue are all elements in the dark horror 3D game Dead Faces Clone On
+- [Dead Jungle Game](../games/adventure/dead-jungle-game.md) — Step into the heart of the Dead Jungle, a dangerous and mysterious wilderness where survival is your only goal. Surround
+- [Dead Zone Adventure](../games/adventure/dead-zone-adventure.md) — Dead Zone Adventure features dark scary asylum where your mission is to search for given amount of crystals in order to 
+- [Dead Zone Adventure](../games/adventure/dead-zone-adventure-2.md) — Face haunting horrors in Dead Zone Adventure as you navigate a crumbling asylum, collecting elusive crystals to escape. 
+- [Deadland Adventure](../games/adventure/deadland-adventure.md) — Deadland Adventure immerses players in a zombie-infested world with intuitive controls and action-packed platforming. Us
+- [DEADLY HUNTER 2023](../games/adventure/deadly-hunter-2023.md) — Tiger trapped your friends, you need to rescue your friends and then around the obstacles to fight the tiger, can save y
+- [Deadly Hunters Run](../games/adventure/deadly-hunters-run.md) — Run away from the hungry lion with little Hunter! An addictive endless runner that can be played offline whenever you wa
+- [Deathly Dungeons](../games/adventure/deathly-dungeons.md) — Embark on a thrilling adventure and become the ultimate dungeon champion in this action-packed game! Choose your champio
+- [Deca vs Rooko 2](../games/adventure/deca-vs-rooko-2-2.md) — Leap into "Deca vs Rooko 2," a captivating 2D platformer featuring a cute robo-hero. Traverse vibrant levels, collect en
+- [Deca vs Rooko](../games/adventure/deca-vs-rooko-3.md) — Leap into a vibrant 2D adventure as Deca, a fearless robot collecting hotdogs across eight treacherous levels. Navigate 
+- [Deep in the Lab - Chapter 1](../games/adventure/deep-in-the-lab-chapter-1-2.md) — Brace yourself for a spine-chilling journey through a deserted laboratory crawling with alien foes. In this 2D survival 
+- [Deer Escape](../games/adventure/deer-escape.md) — Deer Escape is a point and click escape game developed by 8BGames. Imagine that you got a Deer as a Christmas gift. Whil
+- [Defeat The Witch](../games/adventure/defeat-the-witch.md) — You are a Castlevania soldier, and it is up to you to kill the witches in the castle and occupy the castle. Try to see h
+- [Delicate Boy Escape](../games/adventure/delicate-boy-escape.md) — Delicate Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Delicate Boy house
+- [Delusional Disorder](../games/adventure/delusional-disorder.md) — Delusional Disorder is a small game where you play as a kid who is stuck in unreal dream and you try to get out. The gam
+- [Deluxe House Escape](../games/adventure/deluxe-house-escape.md) — Deluxe House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a deluxe house. 
+- [Demonic Run](../games/adventure/demonic-run.md) — Dive into the fiery depths of hell in Demonic Run, an adrenaline-fueled endless escape. As a cunning demon, navigate thr
+- [Dentist Doctor Game](../games/adventure/dentist-doctor-game.md) — Become a dentist and help our friends to have a healthy mouth. Brian, Katie, Frank and Peter have come to the dental cli
+- [Dentist Games - ER Surgery Doctor Dental Hospital](../games/adventure/dentist-games-er-surgery-doctor-dental-hospital.md) — Boys and girls, welcome to Libii Dentist, the funnest teeth and dentist game ever!!! Here you can not only turn yourself
+- [Dentist Games Inc Doctor Games](../games/adventure/dentist-games-inc-doctor-games.md) — Welcome to the virtual dentist hospital free doctor games ! The real dentist free games in market. Best doctor simulator
+- [Dentist House Escape](../games/adventure/dentist-house-escape.md) — Dentist House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been 
+- [Desert Camel Escape](../games/adventure/desert-camel-escape.md) — Desert Camel Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a desert for
+- [Desert Deer Rescue](../games/adventure/desert-deer-rescue.md) — Desert Deer Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, O
+- [Desert Duck Rescue](../games/adventure/desert-duck-rescue.md) — Desert Duck Rescue is a point and click game developed by Games2Live. Imagine that you had been to a Desert; there you a
+- [Desert Escape](../games/adventure/desert-escape.md) — Desert Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a desert for resea
+- [Desert Escape 2](../games/adventure/desert-escape-2.md) — Desert Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a desert for res
+- [Desert Jump](../games/adventure/desert-jump.md) — ChatGPT Desert Jump is an engaging and challenging game set in a vast, arid desert landscape. Players use the mouse clic
+- [Desert Land Escape](../games/adventure/desert-land-escape.md) — Desert Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a desert land
+- [Desert Shore Escape](../games/adventure/desert-shore-escape.md) — Desert Shore Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a shore for 
+- [Desert Survival](../games/adventure/desert-survival.md) — Endure the unforgiving desert as you battle terrifying creatures in Desert Survival. Every click counts in this intense 
+- [Designer House Escape](../games/adventure/designer-house-escape.md) — Designer House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Detective Max Mystery: The Disappearance of Mr. Winters](../games/adventure/detective-max-mystery-the-disappearance-of-mr-winters.md) — Game description:
+- [Detective Scary Cases](../games/adventure/detective-scary-cases.md) — Scary Horror: Escape Game is a thrilling adventure game that will appeal to fans of horror, puzzle games, and escape roo
+- [Detonate zombie](../games/adventure/detonate-zombie.md) — Top down shooting game, Detana Zombie is a new style of game that combines skill, rapids, adventure, action and lots of 
+- [Detto Man 2](../games/adventure/detto-man-2-2.md) — Guide an adorable robot through vibrant 2D levels in Detto Man 2. Collect oranges, dodge treacherous spikes, and master 
+- [Detto Man](../games/adventure/detto-man-3.md) — Guide a charming robot through vibrant 2D levels, collecting oranges and mastering double jumps to outwit tricky obstacl
+- [Develobears - We Bare Bears](../games/adventure/develobears-we-bare-bears.md) — It's possible now to play Develobears - We Bare Bears game in your web browser for free at superkidgames.com and more fu
+- [DevilRoom](../games/adventure/devilroom.md) — DevilComing is a 2D survival gamePlayers will play a human and survive in Devils worldPlayers can use generators, turret
+- [Devils Adventure](../games/adventure/devils-adventure-2.md) — Dive into Devil's Adventure, where high-speed shooter action meets strategic survival. Master intuitive controls, levera
+- [Diamond Compiler](../games/adventure/diamond-compiler-2.md) — Immerse yourself in the radiant adventure of Diamond Compiler, where collecting precious gems sharpens your reflexes and
+- [Diamond Hunter](../games/adventure/diamond-hunter.md) — Another flavor of Classic Diamond collecting game Crush Match 3 puzzle game. Your mission is to win Diamond Rush Blast, 
+- [Diamond Thief 3D](../games/adventure/diamond-thief-3d.md) — Are you ready for the robbery? Enter the mansion, steal the diamond and complete the level. Be careful
+- [Diamonds Digger](../games/adventure/diamonds-digger.md) — Dive into Diamond Digger Adventure, where you dig deep to find sparkling diamonds while avoiding dangerous rocks and obs
+- [Diary Horse Escape](../games/adventure/diary-horse-escape.md) — Diary Horse Escape is a point and click game developed by Games2Live. Imagine that you had been to a farm; there you got
+- [Die in the Dungeon](../games/adventure/die-in-the-dungeon.md) — Die in the Dungeon is a deck-building, turn-based roguelite where you dont use cards, but dice! Try to find the best com
+- [Dig to the Weirdest World](../games/adventure/dig-to-the-weirdest-world.md) — Dig to the Weirdest World is a colorful 3D mining adventure. Steer your drill underground, collect valuable discoveries,
+- [Digging Games - Find Dinosaurs Bones](../games/adventure/digging-games-find-dinosaurs-bones.md) — Digging Games - Find Dinosaurs Bones, build them into interactive 3D skeletons, and even bring your dino bones to life! 
+- [Diggy](../games/adventure/diggy.md) — Plunge into the Moon's depths as an eager astronaut on a quest for riches. Skillfully navigate using mind-bending contro
+- [Diner in the Storm](../games/adventure/diner-in-the-storm.md) — Diner in the Storm is a thrilling escape game where you take shelter in a diner from a sudden storm. You are safe for no
+- [Diner in the Storm](../games/adventure/diner-in-the-storm-2.md) — Brave the storm and unravel the mystery behind the diner’s walls! With tension mounting and threats lurking, engage in s
+- [Dino Digging Games: Dig for Dinosaur Bones](../games/adventure/dino-digging-games-dig-for-dinosaur-bones.md) — Cover art Dino Digging Games: Dig for Dinosaur Bones Funny Bunny GamesCasual EveryoneEveryone 41 Contains Ads Finding di
+- [Dino Jumps](../games/adventure/dino-jumps.md) — Help your cute little dinosaur to get as far as possible. In this infinite jump'n run you can always set new high scores
+- [Dino Meat Hunt - New Adventure](../games/adventure/dino-meat-hunt-new-adventure.md) — The dinosaurs have just started searching of meat hunt by the coming of the winter. This time a harder adventure is abou
+- [Dino Meat Hunt Remastered](../games/adventure/dino-meat-hunt-remastered.md) — Dino Meat Hunt adventure continues with a chapter which is completely renewed. You will be able to create bridges on the
+- [Dino Rescue](../games/adventure/dino-rescue.md) — Dino Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village there you 
+- [Dino Run Game](../games/adventure/dino-run-game.md) — Welcome to Ultimate Dino Run Game, an exciting and addictive dinosaur runner game where you experience a thrilling prehi
+- [Dino Run Magic 2D](../games/adventure/dino-run-magic-2d.md) — Dino Run Magic 2D is an exhilarating online web game where players take control of a charming dinosaur character on a qu
+- [Dino Squad Adventure](../games/adventure/dino-squad-adventure.md) — Two dinos which creates the dinosaur team wants to beat their enemies by doing union of forces. On the adventure that th
+- [Dino Squad Adventure 3](../games/adventure/dino-squad-adventure-3.md) — This time dinos are embarking on a different adventure You are not going to play in an area you are going to play in a l
+- [Dino Stunts](../games/adventure/dino-stunts.md) — Dino Stunts is a game in which you have to guide the dino through various adventures. He needs to jump on a cactus or be
+- [Dinosaurs Hunt](../games/adventure/dinosaurs-hunt.md) — In the forest, you have to hunt small dinos or other animals and make them your prey. They can feel your presence and ca
+- [Dirty Boy Escape](../games/adventure/dirty-boy-escape.md) — Dirty Boy Escape is a point and click escape game developed by 8BGames. Imagine that a dirty boy poured some dirt on the
+- [Dirty Them All](../games/adventure/dirty-them-all.md) — Lets splash some dirt over the walking people near the road with this Dirty Them All game! Drive your car through the mu
+- [Disney Frozen Olaf](../games/adventure/disney-frozen-olaf.md) — Frozen is a 2013 American 3D computer-animated musical fantasy film produced by Walt Disney Animation Studios and releas
+- [Ditcher Escape](../games/adventure/ditcher-escape.md) — Ditcher Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Ditcher house to take h
+- [Ditching Class!!](../games/adventure/ditching-class.md) — I do not want to go to class, I want to run out of the classroom secretly. Prevent being discovered by the teacher, you 
+- [Dive Deep](../games/adventure/dive-deep.md) — Dive Deep is an underwater treasure-hunting adventure! Explore a sunken world full of hidden treasure, dodge patrolling 
+- [Diver Escape 2](../games/adventure/diver-escape-2.md) — Diver Escape 2 is a point and click escape game developed by 8BGames. Imagine that a Scuba Diver got trapped in this hou
+- [Do not enter this game at night](../games/adventure/do-not-enter-this-game-at-night.md) — Do not enter this game at night, because in this game you will find the most creepy screamers during the passage of the 
+- [Doctor Escape 3](../games/adventure/doctor-escape-3.md) — Doctor Escape 3 is a point and click escape game developed by 8BGames. Imagine that you went to a Doctor’s house to take
+- [Doctor Linda Escape](../games/adventure/doctor-linda-escape.md) — Doctor Linda Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Doctor Linda house
+- [Doe escape](../games/adventure/doe-escape.md) — Doe Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On there y
+- [Dog Escape](../games/adventure/dog-escape.md) — Dog Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on the
+- [Dog Escape](../games/adventure/dog-escape-3.md) — Leap into the paws of a savvy pup in Dog Escape, dodging the persistent dogcatcher while snatching bones in timed, actio
+- [Dog Hide N Seek](../games/adventure/dog-hide-n-seek.md) — Embark on an adventurous hide-and-seek game in Dog Hide N Seek! Join a group of playful kids and their furry friend as t
+- [Dog House Escape](../games/adventure/dog-house-escape.md) — Dog House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there 
+- [Dog Maze Adventure](../games/adventure/dog-maze-adventure.md) — Guide an adorable dog through increasingly tricky mazes to find the delicious bone! With intuitive controls and charming
+- [Dog Room Escape](../games/adventure/dog-room-escape.md) — Dog Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Dog room, on t
+- [Doggy Escape](../games/adventure/doggy-escape.md) — Help a plucky pup evade a menacing monster in Doggy Escape! Maneuver through spinning rocks and snatch hydrants while ut
+- [Doll House Escape](../games/adventure/doll-house-escape.md) — Doll House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there
+- [Dollar Dash](../games/adventure/dollar-dash.md) — Get rich by clicking on the screen in Dollar Dash game! Get plugins that make you earn more money for every click,get ad
+- [Dolphin Rescue](../games/adventure/dolphin-rescue.md) — Dolphin Rescue is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a seashore On the
+- [Domino Adventure](../games/adventure/domino-adventure.md) — Discover three match durations to suit your style. Showcase your skills and logic in each round, and use strategic moves
+- [Don't Open That Door...Seriosly!](../games/adventure/don-t-open-that-door-seriosly.md) — You are a plush teddy bear — soft, cute… and completely unprepared for what lies ahead. Arriving at a mysterious hotel i
+- [Donkey Rescue](../games/adventure/donkey-rescue.md) — Donkey Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village. On ther
+- [Dont click](../games/adventure/dont-click.md) — you go through the levels to escape from this factory to become free, even if this factory is not what it seems. Complet
+- [DontMove](../games/adventure/dontmove.md) — Dont move. There is an npc in the game who turns around. When he stands over and sees you moving, the machine gunner bes
+- [Donut Lover 2](../games/adventure/donut-lover-2.md) — Dive into Donut Lover 2, where you guide a donut-obsessed monster through challenging, enemy-filled platformer levels. N
+- [Doodle Halloween Momo Cat : Sea Magic](../games/adventure/doodle-halloween-momo-cat-sea-magic.md) — I, English: **🎃 Magic Cat Academy 2 – Underwater Halloween Adventure**
+- [Doodle Run 3D](../games/adventure/doodle-run-3d.md) — Navigate a whimsical doodle universe where each run is a fresh adventure. Simple tap-and-swipe controls let you jump or 
+- [Doomsday Town](../games/adventure/doomsday-town.md) — Zombie siege, come and build an airport and wait for rescue
+- [Dove Escape](../games/adventure/dove-escape.md) — "Dove Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On ther
+- [Down Missile](../games/adventure/down-missile.md) — Navigate a sky filled with deadly missiles in Down Missile! Hone your maneuvering skills to evade relentless projectile 
+- [Dozie Penguin](../games/adventure/dozie-penguin.md) — Penguin Dozie is a super nostalgic, very fun and challenging game Help the little penguin to get back to his home in 30 
+- [Dozie Penguin FN](../games/adventure/dozie-penguin-fn.md) — Help the little penguin to get back to his home in 30 levels, beware of the traps and challenges that get in his way.
+- [Dozie Penguins](../games/adventure/dozie-penguins.md) — Penguin Dozie is a super nostalgic, very fun and challenging game Help the little penguin to get back to his home in 30 
+- [Dr. Gun Boots](../games/adventure/dr-gun-boots.md) — The doctor, who makes interesting experiments, creates a monster as a result of a wrong experiment one day. In order to 
+- [Dr. Psycho - Hospital Escape](../games/adventure/dr-psycho-hospital-escape.md) — Doctor Psycho is a survival horror game. Get out of the psycho hospital and don't get caught by Dr. Psycho and his exper
+- [Dr. Psycho - Hospital Escape](../games/adventure/dr-psycho-hospital-escape-2.md) — Hospital Escape plunges you into a chilling nightmare where survival depends on your wits. Navigate a desolate hospital,
+- [Dr. Tractor Farming](../games/adventure/dr-tractor-farming.md) — Dr. Tractor Farming : new tractor games Are you interested in new tractor farming games 2022, then play tractor offline 
+- [Dragon Ball Treasure Hunter](../games/adventure/dragon-ball-treasure-hunter.md) — Hunt all dragon ball in the scene. Find them all! Beyond the epic battles, experience life in the DRAGON BALL Z world as
+- [dragon ball z 2021](../games/adventure/dragon-ball-z-2021.md) — Stickman Warriors - Super Dragon Shadow Fight best fighting action role-playing game on Google Play. This fighting game 
+- [Dragon Ball Z Hero](../games/adventure/dragon-ball-z-hero.md) — Warriors - Super Dragon Shadow Fight best fighting action role-playing game on Google Play. This fighting game will give
+- [Dragon City](../games/adventure/dragon-city.md) — Come and discover the best dragon game! Collect tons of adorable fire-breathing dragons, train them, expand your collect
+- [Dragon Rider Viking](../games/adventure/dragon-rider-viking.md) — Embark on a daring quest through the Forest of Doom alongside a fearless Viking and his dragon ally. Master strategic co
+- [Dragonstone Quest Adventure](../games/adventure/dragonstone-quest-adventure.md) — Brave Princess sets off in search of the dragon stone; she has a long journey in which many dangers lie in wait. Help Pr
+- [Dragonz Escape](../games/adventure/dragonz-escape.md) — mobile games often center around players engaging in epic battles with dragons or using dragons as their main allies
+- [Draw And Save The Stickman](../games/adventure/draw-and-save-the-stickman-2.md) — Draw And Save The Stickman is a fun and addictive puzzle game where your creativity is the key to victory! Draw lines, s
+- [DRAW KNIFE 2](../games/adventure/draw-knife-2.md) — Let's try to draw the perfect trajectory and shoot. Master it and find the best knife path to solve the puzzle in our ga
+- [Drive and Park Puzzle Game](../games/adventure/drive-and-park-puzzle-game.md) — Navigate through busy city streets and master perfect turns in this fast-paced arcade driving game. Control your vehicle
+- [Drive Crazy](../games/adventure/drive-crazy.md) — Speed through chaotic tracks in Drive Crazy, where thrilling races demand split-second decisions and precision. Upgrade 
+- [Driver Escape 2](../games/adventure/driver-escape-2.md) — Driver Escape 2 is a point and click escape game developed by 8BGames. Imagine that you went to a driver house to call h
+- [Driverz Ed](../games/adventure/driverz-ed.md) — Welcome to Driverz Ed, with your instructor Ed! Explore Ed's beautiful island, completing challenges, or just drive arou
+- [Drop Stack Ball Game](../games/adventure/drop-stack-ball-game.md) — Welcome to the ultimate stack ball adventure game. A thrilling, addictive, and action-packed hyper-casual game that will
+- [Dubious Villa Escape](../games/adventure/dubious-villa-escape.md) — Dubious Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, th
+- [Duck Duck](../games/adventure/duck-duck.md) — As a small and plucky duck, you set out on an exciting adventure through treacherous landscapes. Your ultimate goal is t
+- [Duck Escape](../games/adventure/duck-escape.md) — Embark on a feathered adventure in Duck Escape, where clever problem-solving meets quick reflexes. Navigate visually stu
+- [Duck Family Rescue Series Episode 1](../games/adventure/duck-family-rescue-series-episode-1.md) — Duck Family Rescue Series Episode 1 is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; some str
+- [Duck Family Rescue Series Episode 2](../games/adventure/duck-family-rescue-series-episode-2.md) — Duck Family Rescue Series Episode 2 is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; I have f
+- [Duck Family Rescue Series Episode 3](../games/adventure/duck-family-rescue-series-episode-3.md) — Duck Family Rescue Series Episode 3 is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; I have f
+- [Duck Family Rescue Series Episode 4](../games/adventure/duck-family-rescue-series-episode-4.md) — Duck Family Rescue Series Episode 4 is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; I have f
+- [Duck Family Rescue Series Final](../games/adventure/duck-family-rescue-series-final.md) — Duck Family Rescue Series Final is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; I have found
+- [Duck Farm Escape](../games/adventure/duck-farm-escape.md) — Duck Farm Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there y
+- [Duck Farm Escape 2](../games/adventure/duck-farm-escape-2.md) — Duck Farm Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there
+- [Duck Land Escape](../games/adventure/duck-land-escape.md) — Duck Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village; ther
+- [Duck Land Escape 2](../games/adventure/duck-land-escape-2.md) — Duck Land Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village; th
+- [Duckling Escape](../games/adventure/duckling-escape.md) — Duckling Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; o
+- [Duckling Rescue](../games/adventure/duckling-rescue.md) — Duckling Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, On t
+- [Duckling Rescue Final Episode](../games/adventure/duckling-rescue-final-episode.md) — Hi... I'm your webby, Thankyou you for helping me to find my babies. But my youngest baby is still in danger. I need to 
+- [Duckling Rescue Series1](../games/adventure/duckling-rescue-series1.md) — Hi... I'm webby, i have 5 cute babies. Some strangers had kidnapped my babies. I need your help to save my babies. Help 
+- [Duckling Rescue Series2](../games/adventure/duckling-rescue-series2.md) — Hi... I'm your webby, I have found out one of my babies with your help. Now I'm searching for my other babies. I need yo
+- [Duckling Rescue Series3](../games/adventure/duckling-rescue-series3.md) — Hi... I'm your webby, Thankyou you for helping me to find my two babies. But my 3 babies are still in danger. I need to 
+- [Duckling Rescue Series4](../games/adventure/duckling-rescue-series4.md) — Hi... I'm your webby, Happy and Thank you for helping me to find my three babies. My 2 babies are still in danger. I nee
+- [DuckWAK](../games/adventure/duckwak.md) — Are you ready for the adventure of 2 duck brothers? The adventures are very challenging and extremely scary. duck brothe
+- [DuckWAK](../games/adventure/duckwak-2.md) — Navigate through haunting challenges in DuckWAK as two daring duck brothers. Whether solo or with a friend, dodge hazard
+- [Ducky Adventure](../games/adventure/ducky-adventure.md) — Two ducks which are lovely from each other, are embarking on an adventure to collect golds in the jungle. You should coo
+- [Dudes vs. Zombies](../games/adventure/dudes-vs-zombies-2.md) — Stand against relentless waves of the undead as one of the brave "Dudes" wielding makeshift weapons. Survive the chaotic
+- [Duelers](../games/adventure/duelers.md) — Embark on a daring quest to rescue the princess from villainous captors. Armed with a trusty sword, navigate treacherous
+- [Dumbocalypse](../games/adventure/dumbocalypse.md) — Guide the future of humanity in Dumbocalypse, where your strategic answers on a critical app determine survival. Balance
+- [Dungeon Brick](../games/adventure/dungeon-brick.md) — Venture into a shadowy dungeon of nostalgia in Dungeon Brick, where retro movement mechanics rekindle the thrill of clas
+- [Dungeon Descent](../games/adventure/dungeon-descent.md) — Loot. Survive. Descend deeper. A fast voxel dungeon crawler with deadly rooms, powerful gear, and bosses waiting below.
+- [DUNGEON FURY - Adventure](../games/adventure/dungeon-fury-adventure.md) — Dungeon Furry is a single button, action-packed, level-based retro platformer which graphics brings out the best of PICO
+- [Dungeon Knight](../games/adventure/dungeon-knight.md) — Navigate treacherous dungeons in Dungeon Knight, where every move requires strategy and quick thinking. Brave deadly tra
+- [Dungeon Miner - Idle Mining Game](../games/adventure/dungeon-miner-idle-mining-game.md) — Dungeon Miner is a management simulation game. Your late uncle has left you a mine to teach you all about hard work and 
+- [DungeonsQuest](../games/adventure/dungeonsquest.md) — Dungeon Quest is a fast-paced 3D action roguelite. Survive increasingly dangerous waves of monsters, collect XP gems, le
+- [DUNJUN](../games/adventure/dunjun.md) — Dunjun is a fast, slide-to-the-wall dungeon crawler across 60 hand-built rooms. Race the clock, dodge traps and enemies,
+- [Duo Adventures (Legacy of Traps)](../games/adventure/duo-adventures-legacy-of-traps.md) — This game was made by me and my friends (Vinh) :&gt; (Design,story and coding...) If you enjoyed it, please leave a comm
+- [Duo Bad Brothers](../games/adventure/duo-bad-brothers-2.md) — Guide resourceful zombie siblings through a thrilling escape from a treacherous lab in Duo Bad Brothers. Utilize their u
+- [Duo Ball Adventure](../games/adventure/duo-ball-adventure-2.md) — In Duo Ball Adventure, navigate linked twin spheres through treacherous levels in a captivating test of timing and antic
+- [Duo House Escape](../games/adventure/duo-house-escape-2.md) — Join Steve and Herobrine in Duo House Escape for a thrilling co-op adventure. Solve intricate puzzles and uncover hidden
+- [Dusky Grey House Escape](../games/adventure/dusky-grey-house-escape.md) — Dusty Grey House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Grey House
+- [Dusty House Escape](../games/adventure/dusty-house-escape.md) — Dusty House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [E.T. Game](../games/adventure/e-t-game-2.md) — Embark on a cosmic adventure in E.T. Game, navigating vibrant, maze-like levels filled with clever puzzles and hidden se
+- [Ear doctor polyclinic](../games/adventure/ear-doctor-polyclinic.md) — Examine your patients carefully, find the source of their pain, and start treating and curing it. In order to carry out 
+- [Easter Basket Escape](../games/adventure/easter-basket-escape.md) — Easter Basket Escape is a point and click escape game developed by 8BGames/Games2Mad. You are about to celebrate Easter 
+- [Easter Egg Escape](../games/adventure/easter-egg-escape.md) — Easter Egg Escape is a point and click escape game developed by 8BGames. You are inside a Resort. You are about to celeb
+- [Easter Egg Hunt](../games/adventure/easter-egg-hunt.md) — It's possible now to play Cartoon Network Easter Egg Hunt game in your web browser for free at Superkidgames.com and mor
+- [Ecstatic Boy Escape](../games/adventure/ecstatic-boy-escape.md) — Ecstatic Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to an Ecstatic Boy hous
+- [EG Flappy Bounce](../games/adventure/eg-flappy-bounce.md) — EG Flappy Bounce is HTML5 games and funny. Ecaps Games with tons of games for all ages and bringing fun to player Play f
+- [Egg Collector](../games/adventure/egg-collector.md) — Get ready to run, jump, and collect eggs with Egg Collector - the online runner game that will keep you on your toes! Pl
+- [Egg Hill Climb](../games/adventure/egg-hill-climb-2.md) — In Egg Hill Climb, embark on a thrilling escape with a partner after a bank heist. Race against time, expertly navigatin
+- [Egg Land Escape](../games/adventure/egg-land-escape.md) — Egg Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Egg Land. You
+- [Eggs Land Escape](../games/adventure/eggs-land-escape.md) — Eggs Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Eggs Land. Y
+- [Eggys Big Adventure](../games/adventure/eggys-big-adventure.md) — A cute fun physics based platformer game. Hop around and fall on the slippery cloud platforms all the way into the dark 
+- [Egypt Cave Escape](../games/adventure/egypt-cave-escape.md) — Egypt Cave Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Cave, there 
+- [Egypt Colony Escape](../games/adventure/egypt-colony-escape.md) — Egypt Colony Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Colony; th
+- [Egypt Fort Escape](../games/adventure/egypt-fort-escape.md) — Egypt Fort Escape is a point and click game developed by 8B Games/Games2mad. Hi! I am Archaeologist Dora. I lost my BAG 
+- [Elate Girl Escape](../games/adventure/elate-girl-escape.md) — Elate Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to play with Elate Girl i
+- [Electrio HD](../games/adventure/electrio-hd.md) — Connect all of the electrons among themselves. But remember you can connect only opposite charges and lines must not ove
+- [Elegant House Escape](../games/adventure/elegant-house-escape.md) — Elegant House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been 
+- [Elemental Challenge](../games/adventure/elemental-challenge.md) — **Elemental Challenge** is an addictive logic puzzle game where you combine elemental pieces to create complete elements
+- [Elemental Rescue Adventure](../games/adventure/elemental-rescue-adventure-2.md) — Dive into the enchanting world of Elemental Rescue Adventure, where you guide Wade through progressively challenging lan
+- [Elephant Escape](../games/adventure/elephant-escape.md) — Elephant Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; o
+- [Elephant Land Escape](../games/adventure/elephant-land-escape.md) — Elephant Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, 
+- [Elephant Rescue](../games/adventure/elephant-rescue.md) — Elephant Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a place; o
+- [Elip Adventure](../games/adventure/elip-adventure-2.md) — Embark on Elip Adventure, a thrilling journey as an ellipse navigating dynamic maps. Strategically collect stars to unlo
+- [Elite Ghost Sniper](../games/adventure/elite-ghost-sniper-2.md) — Become a master of stealth in Elite Ghost Sniper. Locate and eliminate high-priority targets in dynamic environments. Ut
+- [Elsa Magic Zoo](../games/adventure/elsa-magic-zoo.md) — Rather, come to Elsa’s magical zoo. Look at how many wonderful fairy-tale animals are here: griffin, unicorn and even a 
+- [Elves Bros Vs Zombies](../games/adventure/elves-bros-vs-zombies.md) — The elven brothers come to the fantasy world. In this world, zombies run rampant and people are hurt. Entrusted by the e
+- [Ember Boy and Ripple Girl](../games/adventure/ember-boy-and-ripple-girl.md) — Ember Boy and Ripple Girl is a cooperative puzzle-platform game where two elemental heroes must work together to escape 
+- [EmberCraft](../games/adventure/embercraft.md) — EmberCraft is a colorful 3D sandbox adventure in a block world. Explore varied terrain, build your own creations, and sh
+- [Emily Girl Escape](../games/adventure/emily-girl-escape.md) — Emily Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Emily Girl house. Wh
+- [Emoji Escape](../games/adventure/emoji-escape.md) — Dive into vibrant 2D mazes in Emoji Escape, where strategic thinking and swift maneuvers are key. Collect scattered emoj
+- [Emoji Escape](../games/adventure/emoji-escape-2.md) — Immerse yourself in the exhilarating rush of Emoji Escape, an endless runner where quick reflexes and strategic maneuver
+- [Empires Domination](../games/adventure/empires-domination.md) — Embark on a thrilling journey in Empires Domination, where strategic precision and resource management are key. Face cha
+- [Empty Hotel Escape](../games/adventure/empty-hotel-escape.md) — Empty Hotel Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Hotel; ther
+- [Encanto Adventure](../games/adventure/encanto-adventure.md) — Encanto Adventure Ninja Game the perfect and amazing free game is finally here, play with mirabel-encanto free ninja gam
+- [Enchanted Easter Adventure](../games/adventure/enchanted-easter-adventure.md) — Step into a magical springtime world in Enchanted Easter Adventure, where Lily and adorable bunny come together to celeb
+- [Enchanted Easter Adventure](../games/adventure/enchanted-easter-adventure-2.md) — Embark on a heartwarming journey with Lily and Hopsy in Enchanted Easter Adventure. Solve mini-puzzles, dress up charact
+- [Enchanting Boy Escape](../games/adventure/enchanting-boy-escape.md) — Enchanting Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to an Enchanting Boy 
+- [Endless Ball Escape](../games/adventure/endless-ball-escape.md) — Immerse yourself in Endless Ball Escape's vibrant labyrinth, where every second counts. Navigate perilous pathways with 
+- [Endless Cat Climb](../games/adventure/endless-cat-climb.md) — If you liked Only Up, Then this game is for you! A game where cat climb up in a tree collecting coins while avoiding obs
+- [Endless idle RPG](../games/adventure/endless-idle-rpg.md) — Endless, an idle incremental RPG where your hero automatically fights waves of enemies, gathers loot and gold, equips ge
+- [Endless Space Pilot 2D](../games/adventure/endless-space-pilot-2d.md) — Space Pilot: Endless Adventure Take your rocket on an endless cosmic journey and test your reflexes in the ultimate spac
+- [Energetic Boy Escape](../games/adventure/energetic-boy-escape.md) — Energetic Boy Escape is a point and click escape game developed by 8BGames. Imagine that you a Energetic Boy invited you
+- [Enigma Chapter 1 - Morgue Escape](../games/adventure/enigma-chapter-1-morgue-escape.md) — Escape a eerie morgue in "Enigma Chapter 1: Morgue Escape." Use your wits to solve intricate puzzles in a chilling atmos
+- [Epic Escape from Italian Animals](../games/adventure/epic-escape-from-italian-animals.md) — Dash through whimsical landscapes as quirky Italian animals chase you! Navigate treacherous paths, collect XP-boosting d
+- [Epic Hero Quest: Idle RPG](../games/adventure/epic-hero-quest-idle-rpg.md) — Conquer enemies, level up heroes, unlock skills in Epic Hero Quest: Idle RPG! - Battle Through Hordes of Enemies - Earn 
+- [Epic Mine](../games/adventure/epic-mine.md) — Unearth excitement in Epic Mine, where strategic resource management meets rapid reflexes. Dig to the Earth's core to re
+- [Erudition Girl Escape](../games/adventure/erudition-girl-escape.md) — Erudition Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to an Erudition Girl 
+- [Escape](../games/adventure/escape.md) — Welcome to Escape game where you met you new friend Mochi. you find yourself inside of what seems to be an infinite syst
+- [Escape 3d](../games/adventure/escape-3d.md) — Make a plan to escape from the prison and watch out from the guards. Draw the escape route and help the prisoners to esc
+- [Escape 40x](../games/adventure/escape-40x.md) — A little bird was trapped in a high building with 40 levels. Help the bird escape from the building by completing differ
+- [Escape Ancient Egypt](../games/adventure/escape-ancient-egypt.md) — Escape Ancient Egypt is an Adventure 3D puzzle game in the mysterious ruins of the ancient Egypt, on the footsteps of Cl
+- [Escape Ancient Egypt](../games/adventure/escape-ancient-egypt-2.md) — Navigate the mysterious mazes of Escape Ancient Egypt, where every room conceals intricate puzzles waiting to be solved.
+- [Escape Ball](../games/adventure/escape-ball.md) — Navigate intricate mazes packed with traps and twists in Escape Ball, where your agility and strategy determine your fat
+- [Escape Box](../games/adventure/escape-box.md) — Platformer game escape with the help of in-game boxes to find keys and exits.
+- [Escape Box](../games/adventure/escape-box-2.md) — Navigate a vibrant world packed with ingenious puzzles and surprises. Strategically use boxes to unlock keys and discove
+- [Escape Boy](../games/adventure/escape-boy.md) — Escape Boy demands precision and quick thinking in a heart-pounding escape adventure. Evade relentless monsters while re
+- [Escape - escape](../games/adventure/escape-escape.md) — The game rule is very simple! Press left or right button and find the escape point. But, as you see, the escape point is
+- [Escape From Castle Doom](../games/adventure/escape-from-castle-doom.md) — The Blue Peter presenters are in Castle Doom. Help them reach the exits by putting trampolines and springs around the ca
+- [Escape From Castle Frankenstein](../games/adventure/escape-from-castle-frankenstein.md) — Guide Frankenstein's monster through a chaotic 2D platform adventure. With double jumps and swift maneuvers, help him do
+- [Escape From Glorious Village](../games/adventure/escape-from-glorious-village.md) — Escape from glorious village is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a villa
+- [Escape From Grandma's Basement - Hidden Object](../games/adventure/escape-from-grandma-s-basement-hidden-object.md) — Race against time in a chilling escape room adventure, where whispers linger and footsteps echo. Unravel cryptic clues a
+- [escape from here](../games/adventure/escape-from-here.md) — Escape the island by making your way to the next map
+- [Escape from Hoverheath](../games/adventure/escape-from-hoverheath.md) — Escape from Hoverheath thrusts you into a gripping adventure where quick reflexes and strategic jetpack maneuvers are es
+- [Escape from mom 1](../games/adventure/escape-from-mom-1.md) — You are planning to go Trip with your friends but your mother not allowing you to go trip so, she locked you in home now
+- [Escape from Mountain Village](../games/adventure/escape-from-mountain-village.md) — Escape from mountain village is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a villa
+- [Escape from Police Station](../games/adventure/escape-from-police-station.md) — Escape from Police Station is a point and click game developed by 8B Games/Games2mad. Imagine that you got trapped out o
+- [Escape From Prison](../games/adventure/escape-from-prison.md) — Escape From Prison is a point and click game developed by 8B Games/Games2mad. Imagine that your friends had been to pris
+- [Escape from School 3D](../games/adventure/escape-from-school-3d.md) — 🏃‍♂️ Welcome to Escape from School 3D – the ultimate blox-style school escape game full of chaos, action, and fun! Trap
+- [Escape From Snakes](../games/adventure/escape-from-snakes.md) — Escape From Snakes is a fast-paced arcade survival game where danger slithers from every direction! Dodge an endless wav
+- [Escape From Snow Land](../games/adventure/escape-from-snow-land.md) — Escape from Snow Land is a point and click game developed by Games2Live. Imagine that you had been to a snow land; there
+- [Escape From Soul Hunter - Halloween Escape Game](../games/adventure/escape-from-soul-hunter-halloween-escape-game.md) — Escape From Soul Hunter - Halloween Escape Game It was reported that a School Girl was attacked and kidnaped by a Soul H
+- [Escape From Squid Island](../games/adventure/escape-from-squid-island.md) — Dive into this thrilling 3D shooter, "Escape from Squid Island," where you must flee a dangerous island filled with enem
+- [Escape From The Crypt](../games/adventure/escape-from-the-crypt.md) — Escape from the crypt, one room after another, before the necromancers get you! They move faster than you do, but they w
+- [Escape from the Portal](../games/adventure/escape-from-the-portal.md) — Explore gloomy catacombs, avoid traps, fight monsters, uncover secrets of the past, and use magical artifacts to open th
+- [Escape from the prison in Mineblock! Destruction!](../games/adventure/escape-from-the-prison-in-mineblock-destruction.md) — Escape from the epic prison in Mineblock in a variety of ways right now! The game features a variety of items that can h
+- [Escape from the Prison in Mineblock! Destruction!](../games/adventure/escape-from-the-prison-in-mineblock-destruction-2.md) — Break free from Mineblock's treacherous prisons as you strategize using a diverse array of items. Smash blocks, earn wea
+- [Escape From the Silence](../games/adventure/escape-from-the-silence.md) — Immerse yourself in the haunting world of Escape From the Silence, navigating eerie landscapes and solving enigmatic puz
+- [Escape From The Toys Factory](../games/adventure/escape-from-the-toys-factory.md) — Complete all Poppy pop it toys to Escape From The Toys Factory! Try to do that as faster as you can! If you ever know ab
+- [Escape From the Toys Factory](../games/adventure/escape-from-the-toys-factory-2.md) — Escape From the Toys Factory propels you into a nerve-racking, rapid-clicking quest for survival. Navigate through Poppy
+- [Escape From Work](../games/adventure/escape-from-work.md) — Escape From Work immerses you in a nightmarish office maze, where you must outsmart an authoritarian boss and elude surv
+- [Escape From Zoo](../games/adventure/escape-from-zoo.md) — Escape From Zoo Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Zoo wit
+- [Escape From Zoo 2](../games/adventure/escape-from-zoo-2.md) — Escape From Zoo 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Zoo with you
+- [Escape Game - Rat Escapes Cat](../games/adventure/escape-game-rat-escapes-cat.md) — Escape Game - Mouse Escapes Cat - Oh! We all know about Tom Cat chasing the Jerry mouse story. Well Tom could never catc
+- [Escape Heroes](../games/adventure/escape-heroes.md) — The escape heroes have never been so fun. Save yourself and your mates from unexpected traps and tricky obstacles. Dig t
+- [Escape in 180](../games/adventure/escape-in-180.md) — Race against the clock in Escape in 180, a thrilling platformer that challenges you to conquer each level within three m
+- [Escape Kid](../games/adventure/escape-kid-2.md) — Dive into the thrilling world of Escape Kid, where strategic thinking meets quick reflexes. Skillfully navigate complex 
+- [Escape Lockdown](../games/adventure/escape-lockdown.md) — Sneak through unusual prison cells, outsmart patrolling robots, and cleverly use your environment to escape in Escape Lo
+- [Escape Mars](../games/adventure/escape-mars.md) — You were exploring Mars when your ship malfunctioned. Now, you must find a new power cell in order to escape. Look aroun
+- [Escape Maze](../games/adventure/escape-maze.md) — Escape Maze is a sleek and immersive 2D maze puzzle game that challenges your logic, focus, and sense of direction. Guid
+- [Escape Maze Rush](../games/adventure/escape-maze-rush.md) — Escape Maze Rush is a fast-paced and addictive HTML5 puzzle-action game! Help a brave bunny navigate through tricky maze
+- [Escape Minimap](../games/adventure/escape-minimap.md) — Navigate through riveting, maze-like levels in Escape Minimap, where strategic use of a mini-map guides your thrilling a
+- [Escape Mystery Room](../games/adventure/escape-mystery-room.md) — You are now stuck in a house like alcatraz, but you have to escape the place and have an outside mission that needs to b
+- [Escape Mystic Castle](../games/adventure/escape-mystic-castle.md) — A villager was taken to a castle and was trapped there, now try to get out of there if you can! Its a short adventure bu
+- [Escape Plan: Egyptian Castle](../games/adventure/escape-plan-egyptian-castle.md) — An explorer comes to the mysterious castle to hunt for treasure, but unexpectedly, there are some accidents and gets tra
+- [Escape Room-1](../games/adventure/escape-room-1.md) — Imagine that you are participated in escape room competition find the clues and solve the puzzle to win the competition
+- [Escape Room Mystery Key](../games/adventure/escape-room-mystery-key.md) — Escape Room Mystery Key is an intense escape room adventure filled with horror and puzzle elements. Choose a role to ent
+- [Escape Room Mystery Key 2](../games/adventure/escape-room-mystery-key-2.md) — Embark on a chilling adventure in haunted locations, solving intricate puzzles and discovering hidden secrets. Navigate 
+- [Escape Rush](../games/adventure/escape-rush.md) — Dive into Escape Rush, a thrilling endless runner where quick taps and fast reflexes are your best allies. Guide your cu
+- [Escape Shutter House](../games/adventure/escape-shutter-house.md) — Escape Shutter House is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. Yo
+- [Escape Skibidi Toilets Morgue](../games/adventure/escape-skibidi-toilets-morgue.md) — Escape Skibidi Toilets Morgue is the first series of our most favorite point and click mysteries to solve. Unlock all cl
+- [Escape Story](../games/adventure/escape-story.md) — Navigate a haunting city as a brave young boy, pursued by eerie creatures and relentless zombies. Solve perplexing puzzl
+- [Escape Strange Girl’s House](../games/adventure/escape-strange-girl-s-house.md) — Escape Strange Girl’s House is a dark point-and-click adventure available on both web and Android.
+- [Escape Strange Girl’s House 2](../games/adventure/escape-strange-girl-s-house-2.md) — You play as a private detective searching for a missing person who disappeared a month ago. The investigation leads you 
+- [Escape the Ball](../games/adventure/escape-the-ball.md) — Guide a bouncing ball through a dreamlike world, aiming for crescents and stars. Hone your skills with perfect timing an
+- [Escape the Bomb](../games/adventure/escape-the-bomb.md) — Dive into Escape the Bomb, where agile reflexes are your best ally. Navigate through a relentless storm of bombs with si
+- [Escape The Bombs](../games/adventure/escape-the-bombs.md) — The city is attacked with bombs, and you and your colleague need to escape and save yourself from the bombs. Avoid the b
+- [Escape the Bots](../games/adventure/escape-the-bots.md) — Dodge relentless robots and collect coins in this thrilling, fast-paced action game. Master the art of evasion, beat you
+- [Escape The Dark Forest](../games/adventure/escape-the-dark-forest.md) — Escape The Dark Forest is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest 
+- [Escape the Monster](../games/adventure/escape-the-monster.md) — You wake up at the bottom of a monster's lair. Fifty floors of maze stand between you and the way out.
+- [Escape the Police](../games/adventure/escape-the-police-2.md) — Dodge relentless police forces and strategize your way through the city as the most wanted fugitive. Outsmart your pursu
+- [Escape The Skitty Rat](../games/adventure/escape-the-skitty-rat.md) — Escape the skitty rat is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a farm hou
+- [Escape The Wall](../games/adventure/escape-the-wall.md) — Welcome to Escape The Wall, an exhilarating and fast-paced arcade game where you must help your characters swing from on
+- [Escape to the Casino](../games/adventure/escape-to-the-casino.md) — Escape to the Casino is a point and click game developed by 8B Games/Games2mad. Imagine that you are about to got the ca
+- [Escape Tsunami and save Brainrots](../games/adventure/escape-tsunami-and-save-brainrots.md) — Escape Tsunami and save Brainrots! Escape the tsunami, upgrade your base, rescue, and steal Brainrots. Can you catch all
+- [Escape Tsunami Save Brainrot](../games/adventure/escape-tsunami-save-brainrot.md) — An incredible threat is looming over the city — a giant wave created by alien technologies is rapidly approaching! Only 
+- [Escape Tunnel Room](../games/adventure/escape-tunnel-room.md) — Dive into a thrilling underground escape adventure. Solve complex puzzles, discover hidden clues, and work together to b
+- [Escape Wednesday](../games/adventure/escape-wednesday.md) — Break through the monsters to get out of the maze! Many labyrinths will not let you get bored. Show your abilities and y
+- [Escape with Teddy](../games/adventure/escape-with-teddy.md) — Teddy Escape is game where you need to help Teddy bear to escape from Jet. The Jet will follow teddy in circle and you n
+- [Escape Your Birthday: Horror Escape](../games/adventure/escape-your-birthday-horror-escape.md) — A creepy birthday. A locked room. Can you find your way out? You wake up in a strange room. It&rsquo;s your birthday&hel
+- [Escultura House Escape](../games/adventure/escultura-house-escape.md) — Escultura House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house O
+- [Espada de Sheris](../games/adventure/espada-de-sheris-2.md) — Guide Kibo, the European ninja cat, through a post-apocalyptic world, mastering parkour in a thrilling 2D platformer. Ho
+- [Estate Escape](../games/adventure/estate-escape.md) — Estate Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Estate. You got
+- [Estate Land Escape](../games/adventure/estate-land-escape.md) — Estate Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On
+- [Etano 2](../games/adventure/etano-2-2.md) — Embark on a thrilling 2D platforming adventure in Etano 2, where collecting ancient golden ornaments never felt so inten
+- [Etano](../games/adventure/etano-3.md) — Guide a clever robot through the perilous world of Etano, dodging spikes, fires, and foes. Master the vital double jump 
+- [Euphoric Boy Escape](../games/adventure/euphoric-boy-escape.md) — Euphoric Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Euphoric Boy house
+- [Euro Truck Drive](../games/adventure/euro-truck-drive.md) — Euro Truck Driver lets you become a real trucker! Featuring European trucks with lots of customizations, this truck simu
+- [Evading The Police](../games/adventure/evading-the-police.md) — Running is exciting and if you are running from the police while you are the thief the running will be more thrilling. E
+- [Event Space](../games/adventure/event-space.md) — Adventure Park: World of Joy is an exciting 3D game that allows players to explore and experience a vibrant and fun-fill
+- [Eventide](../games/adventure/eventide.md) — in this gameyou have player and big ground and protect from enimies every 30 second game make difficult share with your 
+- [Evil Cruella Escape](../games/adventure/evil-cruella-escape.md) — Evil Cruella Escape is a point and click escape game developed by 8BGames. Imagine that you went to friend home to bough
+- [Evil Granny: Horror Village](../games/adventure/evil-granny-horror-village.md) — Evil Granny: Horror Village is a brand new game where you will face with Scary Evil Granny that want to find and kill yo
+- [Evil Nun Escape](../games/adventure/evil-nun-escape.md) — Evil Nun Escape is a point and click escape game developed by 8BGames. Imagine that you went to see priest house, you we
+- [Evil Wyrm](../games/adventure/evil-wyrm.md) — Navigate treacherous lands in Evil Wyrm, where stealth is your only ally. Collect emeralds while evading a watchful drag
+- [Evolution: Survival](../games/adventure/evolution-survival.md) — A survival game where you begin as a tiny cell in the primordial soup. Collect DNA by consuming food and defeating enemi
+- [Exhibit of Sorrows](../games/adventure/exhibit-of-sorrows.md) — Step into a whimsical yet unsettling circus exhibit where curiosity leads you deeper into an uncanny clown's world. Navi
+- [EXPLORE HOLE](../games/adventure/explore-hole.md) — Fly through a narrowing cave, dodge obstacles, collect power-ups, and survive as long as you can in this endless arcade 
+- [Exploring the Galaxy 1: Andora](../games/adventure/exploring-the-galaxy-1-andora.md) — Exploring the Galaxy 1: Andora — free online game. Build a planet, gather resources, craft, unlock new lands. Play in br
+- [Explosive Adventure](../games/adventure/explosive-adventure.md) — Explosive Adventure plunges you into a thrilling world of dynamic destruction and parkour. Leap onto volatile TNT blocks
+- [Extreme Ball Balance 3D](../games/adventure/extreme-ball-balance-3d.md) — Impossible ball runner game will take you engaged for long hours. Enjoy all the bridge balance game levels to balance th
+- [Eyes House Escape](../games/adventure/eyes-house-escape.md) — Eyes House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there
+- [Factory Escape](../games/adventure/factory-escape.md) — Factory Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Factory, there 
+- [Faded Horror](../games/adventure/faded-horror.md) — Guide a lost zombie through a shadowy realm in Faded Horror. Solve puzzles and navigate dark platforms using a magical b
+- [Fairy Blossom Quest](../games/adventure/fairy-blossom-quest.md) — Fairy Blossom Quest is a captivating puzzle game set in an enchanting fairy-tale garden filled with vibrant flora, sooth
+- [Fairy Falls](../games/adventure/fairy-falls-2.md) — Leap into the magical world of Fairy Falls, where ethereal fairies navigate challenging obstacles with precision. Experi
+- [Fairy Wingerella](../games/adventure/fairy-wingerella.md) — Fly through vibrant skies with Fairy Wingerella, tackling thrilling obstacles in an enchanting arcade adventure. Master 
+- [Falconer Escape](../games/adventure/falconer-escape.md) — Falconer Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Falconer house to get 
+- [Falconer Escape 2](../games/adventure/falconer-escape-2.md) — Falconer Escape 2 is a point and click escape game developed by 8BGames. Imagine that you went to a Falconer house to ge
+- [Fall Guys Puzzle 1](../games/adventure/fall-guys-puzzle-1.md) — Complete 3 different levels, easy, medium and hard can be played on phone and computer good luck!
+- [Fall Guys Puzzle 2](../games/adventure/fall-guys-puzzle-2.md) — Complete 3 different levels, easy, medium and hard can be played on phone and computer good luck!
+- [Fall Guys Puzzle 3](../games/adventure/fall-guys-puzzle-3.md) — Complete 3 different levels, easy, medium and hard can be played on phone and computer good luck!
+- [Fall of Swords](../games/adventure/fall-of-swords-2.md) — Fall of Swords plunges you into an enchanting yet dangerous fairy-tale realm. Engage in intense arcade-style combat, mas
+- [FallHalloween](../games/adventure/fallhalloween.md) — Dive into FallHalloween and conquer a spooky realm teeming with candy and challenges. Navigate with quick reflexes throu
+- [Falling balls 3D](../games/adventure/falling-balls-3d.md) — Hey! You gona addictive of Pull the color ball pin: color flow 2021 game because save yourself and get safety for hours 
+- [Fancy Pants Adventure](../games/adventure/fancy-pants-adventure.md) — Fancy Pants Adventure is the original title of this awesome 2D platform series. It's one of the many Flash games you can
+- [FantasticLandia](../games/adventure/fantasticlandia.md) — Welcome to FantasticLandia, a world full of wonder and excitement! Jump through vibrant landscapes, solve fun challenges
+- [Fantasy Park Escape](../games/adventure/fantasy-park-escape.md) — Fantasy Park Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a park, on t
+- [Fantasy Toy Escape](../games/adventure/fantasy-toy-escape.md) — Fantasy Toy Escape is a point and click game developed by Games2Live. Imagine that you are in a fantasy forest. You lost
+- [Far Orion: New worlds](../games/adventure/far-orion-new-worlds.md) — The year is 2121. Technology has advanced far beyond the bounds of our wildest fantasies, but great progress demands gre
+- [Faraway](../games/adventure/faraway.md) — Navigate the eerie expanse of Faraway, where survival hinges on mastering intricate physics and side-scrolling mechanics
+- [Farm Boy Escape2](../games/adventure/farm-boy-escape2.md) — Farm Boy Escape 2 is a point and click escape game developed by 8BGames. Imagine that you have a horse and a Farm Boy in
+- [Farm Escape](../games/adventure/farm-escape.md) — Farm Escape is a point and click game developed by Games2Live. Imagine that you had been to a Farm; there you got trappe
+- [Farm Escape 2](../games/adventure/farm-escape-2.md) — Farm Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there you 
+- [Farm Escape 3](../games/adventure/farm-escape-3.md) — Farm Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there you 
+- [Farm Escape 4](../games/adventure/farm-escape-4.md) — Farm Escape 4 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there you 
+- [Farm Escape Puzzle Game](../games/adventure/farm-escape-puzzle-game.md) — Get ready to challenge your brain with exciting puzzles, clever obstacles, and fun farm adventures. In Farm Escape Puzzl
+- [Farm House Escape](../games/adventure/farm-house-escape.md) — Farm House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a House; there
+- [Farmer Escape 3](../games/adventure/farmer-escape-3.md) — Farmer Escape 3 is a point and click escape game developed by 8BGames. Imagine that you went to a Farmer house to get ta
+- [Farmers vs Aliens](../games/adventure/farmers-vs-aliens-2.md) — Defend your farm with clever tactics and quick reflexes in the zany world of Farmers vs Aliens. Armed with an array of w
+- [Farming Mini Puzzle](../games/adventure/farming-mini-puzzle.md) — Welcome to Farming Mini Puzzle Game, a fun and relaxing farming adventure packed with exciting puzzle challenges, colorf
+- [Farmyard Escape](../games/adventure/farmyard-escape.md) — Farmyard Escape is a point and click game developed by Games2Live. Imagine that you had been to a Farm; there you got tr
+- [Fascinate Home Escape](../games/adventure/fascinate-home-escape.md) — Fascinate House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; 
+- [Fascinating Boy Escape](../games/adventure/fascinating-boy-escape.md) — Fascinating Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to the Boy house to 
+- [Fast Decode](../games/adventure/fast-decode.md) — Fast Decode is a high-speed escape room puzzle game where you need to act quickly. Decode mechanisms to escape. Observe,
+- [Fast Freddie](../games/adventure/fast-freddie.md) — Embark on a thrilling pixel adventure as Fast Freddie, darting through vivid worlds brimming with perilous creatures and
+- [Fat Carter Escape](../games/adventure/fat-carter-escape.md) — Fat Carter Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Fat Carter house to 
+- [fawn escape](../games/adventure/fawn-escape.md) — Fawn Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On there 
+- [Feathered Friend Escape](../games/adventure/feathered-friend-escape.md) — Feathered Friend Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a villa
+- [Feed The Fox](../games/adventure/feed-the-fox.md) — Feed the Fox is a fun game to play. In this game, the main character is a hungry fox who needs to eat to survive. Help t
+- [Feed the squirrel](../games/adventure/feed-the-squirrel.md) — Feed the Squirrel is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Fence Escape](../games/adventure/fence-escape.md) — Fence Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a playground; on th
+- [Fiddle](../games/adventure/fiddle.md) — The cat must use the fiddle to manipulate the world, collect items and amuse their dog friend with an amazing scene.
+- [Fidget Spinner - iSpinner](../games/adventure/fidget-spinner-ispinner.md) — Fidget Spinner 3D lets you play various well-designed finger spinner on your phone. Fidget Spinner simulator is one of t
+- [Fill The Glass Puzzle](../games/adventure/fill-the-glass-puzzle.md) — In this game, tap and hold on the top bar, and the ball will fall down into the basket below. You have to fill the baske
+- [Find A Cat Toy](../games/adventure/find-a-cat-toy.md) — Finding a Cat Toy from Forest House is another point and click escape game developed by Top 10 New Games. Assume that yo
+- [Find Ball](../games/adventure/find-ball.md) — Three Cups is a mind-bending puzzle game that challenges players to test their focus, memory, and strategic thinking. In
+- [Find Capybara: Valley of Monsters](../games/adventure/find-capybara-valley-of-monsters.md) — Welcome to a huge and crazy world where your main goal is to find and collect all the hidden capybaras!
+- [Find ME](../games/adventure/find-me.md) — "Find Me" is a game where you are presented with a group of people who all look similar, but one of them is different in
+- [Find Me If You Can](../games/adventure/find-me-if-you-can.md) — Dive into the ever-changing world of ‘Find Me If You Can,’ where your observation skills are tested in a monochrome crow
+- [Find My Hellboy Toy](../games/adventure/find-my-hellboy-toy.md) — Find My Hellboy Toy is a point and click game developed by Games2Live. Imagine that you are in your farm house. You lost
+- [Find Part in Love Story](../games/adventure/find-part-in-love-story.md) — Find Part in Love Story is an exciting puzzle game where you can dive into a captivating romantic adventure. Play online
+- [Find the Ani Snack](../games/adventure/find-the-ani-snack.md) — Find the Ani Snack is is a point and click game developed by 8B Games/Games2live. I'm Ani. I Need your help to find a Sn
+- [Find The Boat Oar](../games/adventure/find-the-boat-oar.md) — Find The Boat Oar is a point and click game developed by 8BGames/Games2Mad. Imagine that you went to a beach; There you 
+- [Find The Candy Kids Room](../games/adventure/find-the-candy-kids-room.md) — Find The Candy Kids is a fun searching and finding puzzle game for the youngest ones. The main goal of this game is to f
+- [Find the Cheese Adventure](../games/adventure/find-the-cheese-adventure.md) — Embark on a thrilling journey as a daring mouse navigating treacherous terrains. Dodge cunning traps, gather valuable it
+- [Find The Chopper Motorcycle Key](../games/adventure/find-the-chopper-motorcycle-key.md) — Find The Chopper Motorcycle Key is a point and click game developed by 8B Games/Games2live. Imagine that you had been to
+- [Find the Christmas Cap](../games/adventure/find-the-christmas-cap.md) — Find the Christmas Cap is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a snowy m
+- [Find The Dressing Cupboard Key](../games/adventure/find-the-dressing-cupboard-key.md) — 9minutegames - Find The Dressing Cupboard Key is another point and click Cupboard escape game developed by 9minutesgames
+- [Find the Gate Key](../games/adventure/find-the-gate-key.md) — Find the Gate Key is a point and click game developed by 8B Games/Games2live. Imagine you Want to go but lost the Gate k
+- [Find the Girl’s House Key](../games/adventure/find-the-girl-s-house-key.md) — Find the Girl’s House Key is a point and click game developed by 8B Games/Games2Mad Imagine that you had been to a Fores
+- [Find The Gold Coins](../games/adventure/find-the-gold-coins.md) — Find The Gold Coins is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place havi
+- [Find the Intruder](../games/adventure/find-the-intruder.md) — Can you spot the odd emojis in less then 1 second? Try this hard quest in Find the Intruder, a fun clicker game develope
+- [Find the jack cat](../games/adventure/find-the-jack-cat.md) — Find the Jack Cat is is a point and click game developed by 8B Games/Games2live. I'm Jack. I Need your help to find my p
+- [Find The Key](../games/adventure/find-the-key.md) — Find The Key is a challenging maze puzzle game where you explore tricky paths, collect stars, and find the key to unlock
+- [Find The Mermaid Stone](../games/adventure/find-the-mermaid-stone.md) — Find The Mermaid Stone is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fanta
+- [Find the mia Brother](../games/adventure/find-the-mia-brother.md) — Find the mia Brother is a point and click game developed by 8B Games/Games2Mad. I'm Mia. I Need your help to find my Bro
+- [Find The Old Man’s House Key](../games/adventure/find-the-old-man-s-house-key.md) — Find The Old Man’s House Key is a point and click game developed by 8BGames/Games2Mad. Imagine that you went to a place;
+- [Find the Ostrich tag](../games/adventure/find-the-ostrich-tag.md) — Find the Ostrich tag is a point and click game developed by 8B Games/Games2Mad. Imagine that you lost Ostrich's tag. Her
+- [Find The Pets](../games/adventure/find-the-pets.md) — Find The Pets is an exciting 3D adventure game where your mission is to track down 150 adorable, hilarious, and sometime
+- [Find the Pets](../games/adventure/find-the-pets-2.md) — Embark on a thrilling quest to discover 150 delightful hidden pets, from familiar furry friends to amusing meme creature
+- [Find The Princess](../games/adventure/find-the-princess.md) — Click the mouse to draw a line for the male role to set up the route, the male role will walk according to the route, th
+- [Find the shaft way](../games/adventure/find-the-shaft-way.md) — Find the Shaft way is a point and click game developed by 8B Games/Games2live. Imagine that you got trapped. Here is the
+- [Find The Skateboard](../games/adventure/find-the-skateboard.md) — Find The Skateboard is a point and click game developed by Games2Live. Imagine that you are in your beach house. You los
+- [Find The ThanksGiving Gift -2](../games/adventure/find-the-thanksgiving-gift-2.md) — Find The ThanksGiving Gift-2 is is a point and click game developed by 8B Games/Games2live. I'm Jack. I Need your help t
+- [Find The ThanksGiving Gift -3](../games/adventure/find-the-thanksgiving-gift-3.md) — Find The Thanks Giving Gift 3 is is a point and click game developed by 8B Games/Games2live. I'm Jack. I Need your help 
+- [Find The ThanksGiving Gift-4](../games/adventure/find-the-thanksgiving-gift-4.md) — Find The Thanks Giving Gift-4 is is a point and click game developed by 8B Games/Games2live. I'm Jack. I Need your help 
+- [Find The ThanksGiving Gift-5](../games/adventure/find-the-thanksgiving-gift-5.md) — Find The Thanks Giving Gift-5 is is a point and click game developed by 8B Games/Games2live. I'm Jack. This is the Final
+- [Find The Tractor Key](../games/adventure/find-the-tractor-key.md) — Find The Tractor Key is a point and click game developed by 8BGames/Games2Mad. Imagine that you went to your farm house;
+- [Find The Tractor Key 2](../games/adventure/find-the-tractor-key-2.md) — Find The Tractor Key 2 is a point and click game developed by 8BGames/Games2Mad. Imagine that you went to your farm hous
+- [Find The Tractor Key 3](../games/adventure/find-the-tractor-key-3.md) — Find The Tractor Key 3 is a point and click game developed by 8BGames/Games2Mad. Imagine that you went to your farm hous
+- [Find The Tractor Key 4](../games/adventure/find-the-tractor-key-4.md) — Find The Tractor Key 4 is a point and click game developed by 8BGames/Games2Mad. Imagine that you went to your farm hous
+- [Find The Treasure In The Sea](../games/adventure/find-the-treasure-in-the-sea.md) — Find The Treasure in the Sea is a point and click game developed by 8B Games/Games2Mad. In this escape game, you come to
+- [Find the Vampire](../games/adventure/find-the-vampire.md) — Looking for an exciting vampire game? This is a casual 3D game where you act as a hunter to put an end to the vampire up
+- [Find The Water Scooter Key](../games/adventure/find-the-water-scooter-key.md) — Find The Water Scooter Key is a point and click game developed by 8BGames/Games2Mad. Imagine that you went to your farm 
+- [FindGift](../games/adventure/findgift.md) — It is a puzzle solving game. In the game, a man's gift is lost in the ice and snow. Now you quickly look for clues to he
+- [Finding Nemo Escape](../games/adventure/finding-nemo-escape.md) — Finding Nemo Escape is a point and click escape game developed by 8BGames. Imagine that you went to see pretty Nemo fish
+- [Finnie Escape](../games/adventure/finnie-escape.md) — Finnie Escape is an exciting underwater puzzle adventure where you guide a little fish through mysterious ocean mazes. M
+- [Fire And Water In Dino World](../games/adventure/fire-and-water-in-dino-world.md) — Fire And Water come to explore in the world of dinosaurs. They meet dinos on their way home. To go home, they must colle
+- [Fire And Water In Zombies World 2](../games/adventure/fire-and-water-in-zombies-world-2.md) — Fire and Water Bros In Zombies World 2.All level is new and add more props. The three brothers once again came to the zo
+- [Fire And Water Island Survival 6](../games/adventure/fire-and-water-island-survival-6.md) — Fire And Water Island Survival 6 - new level ,new challenge. Fire and Water is in a Isolated island. There are many fier
+- [Fire Blaster](../games/adventure/fire-blaster.md) — Immerse yourself in Fire Blaster, where you combat blazing fireballs to save Fire City. Precision is key; blast accurate
+- [Fire Boy Run Adventure](../games/adventure/fire-boy-run-adventure-2.md) — Unleash your fiery spirit in Fire Boy Run Adventure! Dart through dynamic, trap-filled levels, overcoming challenges wit
+- [Fire Dragon Adventure](../games/adventure/fire-dragon-adventure.md) — The hero which lives in the past and his loyal dragon are embarking on an adventure. They should struggle against severa
+- [Fire Knight Adventure](../games/adventure/fire-knight-adventure.md) — Embark on a nostalgic journey in Fire Knight Adventure, a thrilling platformer where you wield a knight's sword to vanqu
+- [Fireball And Waterball Adventure 3](../games/adventure/fireball-and-waterball-adventure-3.md) — Fireball and Waterball have super powers each. Waterball can make water turn into ice. Fireball can burn wood material. 
+- [Fireball And Waterball Adventure 4](../games/adventure/fireball-and-waterball-adventure-4.md) — Fireball And Waterball Adventure 4 - Fireball and Waterball have super powers each. Waterball can make water turn into i
+- [Fireboy and Watergirl: Ice Temple](../games/adventure/fireboy-and-watergirl-ice-temple.md) — Fireboy and Watergirl (by Oslo Albet) are having a very cool time on their journey in the Ice Temple! A lot of dangers a
+- [Fireboy And Watergirl Online](../games/adventure/fireboy-and-watergirl-online.md) — Join an exciting 2-player adventure in Fireboy And Watergirl Online. Begin the mysterious Forest Temple. Work together, 
+- [FireBoy & WaterGirl](../games/adventure/fireboy-watergirl.md) — Redboy and Bluegirl New Adventure Fire and Water game. Adventures of characters (Fire boy and Water girl). Have fun with
+- [Fireboy & Watergirl in The Light Temple](../games/adventure/fireboy-watergirl-in-the-light-temple.md) — Fireboy and Watergirl need help to explore the Light Temple. Solve the puzzles, beat the times and collect all the diamo
+- [Fireboy Watergirl In Zombies World](../games/adventure/fireboy-watergirl-in-zombies-world.md) — Fireboy Watergirl In Zombies World Adventure.The three brothers once again came to the zombie world to take an adventure
+- [Fireboy Watergirl Island Survival](../games/adventure/fireboy-watergirl-island-survival.md) — fireboy & Watergirl Island Survival - A nice adventure game. Fireboy and Watergirl is in a Isolated island. There are ma
+- [Fireboy Watergirl Island Survival 3](../games/adventure/fireboy-watergirl-island-survival-3.md) — fireboy & Watergirl Island Survival 3 - new level ,new challenge. Fireboy and Watergirl is in a Isolated island. There a
+- [Fireboy Watergirl Island Survival 4](../games/adventure/fireboy-watergirl-island-survival-4.md) — Fireboy & Watergirl Island Survival 4 - new level ,new challenge. Fireboy and Watergirl is in a Isolated island. There a
+- [Fired House Escape](../games/adventure/fired-house-escape.md) — Fired House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house house
+- [Firefighter Plane Game](../games/adventure/firefighter-plane-game.md) — Take to the skies and become a firefighting hero! Fly your plane over dangerous forest fires and carefully drop water to
+- [Firewar](../games/adventure/firewar.md) — In Firewar, lead humanity's fight against rogue RoboSoldiers and their AI helicopters. Engage in intense battles using s
+- [Fish Evolution 3D](../games/adventure/fish-evolution-3d-2.md) — Dive into Fish Evolution 3D, where you'll guide your fish through a vibrant 3D world, collecting companions to fuel real
+- [Fish Frenzy   Eat Some Fish](../games/adventure/fish-frenzy-eat-some-fish.md) — Dive into Fish Frenzy! Play as a goldfish and eat smaller fish to grow, but beware of bigger fish that can eat you! Prog
+- [Fish Lovers](../games/adventure/fish-lovers.md) — Fish love &ndash; pull the pin, puzzle game, casual game in a popular genre. Various puzzles, mechanics and physics of f
+- [Fish Match Master](../games/adventure/fish-match-master-2.md) — Immerse yourself in the vibrant underwater realm of Fish Match Master, where strategic match-3 puzzles await. Swiftly al
+- [Fish Rescue Go - Shark Attack](../games/adventure/fish-rescue-go-shark-attack.md) — Embark on a thrilling ocean rescue mission in Fish Rescue Go - Shark Attack! Maneuver your drone through perilous waters
+- [Fisherman Escape 2](../games/adventure/fisherman-escape-2.md) — Fisherman Escape 2 is a point and click escape game developed by 8BGames. Imagine that you are a fisherman and you have 
+- [Fisherman Escape 3](../games/adventure/fisherman-escape-3.md) — Fisherman Escape 3 is a point and click escape game developed by 8BGames. Imagine that you are a fisherman and you have 
+- [Fisherman Escape 4](../games/adventure/fisherman-escape-4.md) — Fisherman Escape 4 is a point and click escape game developed by 8BGames. Imagine that you are a fisherman and you have 
+- [Fisherman Girl Escape](../games/adventure/fisherman-girl-escape.md) — Fisherman Girl Escape is a point and click escape game developed by 8BGames. Imagine that you are about to pick up a Fis
+- [Fishing: Catch the Secret Brainrot](../games/adventure/fishing-catch-the-secret-brainrot.md) — Explore a large sea world where fishing is the core of the adventure 🌊🎣 Sail across the sea, travel between islands, a
+- [Fishtopia](../games/adventure/fishtopia.md) — Dive into the magical world of Fishtopia Adventure! 🐠✨ Embark on an underwater journey filled with colorful fish, charm
+- [Fishy trick](../games/adventure/fishy-trick.md) — Have fun with this new game called Fishy trick play and enjoy many hours of entertainment help the little bird that need
+- [Fitness Trainer Escape](../games/adventure/fitness-trainer-escape.md) — Fitness Trainer Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Fitness Trainer
+- [Five Night At Freddy](../games/adventure/five-night-at-freddy.md) — As an anonymous night guard, you must survive five nights as you are hunted by five animatronics hell-bent on killing yo
+- [Five Nights at Christmas](../games/adventure/five-nights-at-christmas.md) — Five Nights at Christmas - Is Horror Survival game where you have to survive the nights in a snowy forest there will be 
+- [Five Nights At Freddys Final Purgatory](../games/adventure/five-nights-at-freddys-final-purgatory.md) — Five Nights At Freddy's: Final Purgatory is a randomly generated Five Nights at Freddy’s fan game. Survive the night, la
+- [Five Nights at Freddys Game](../games/adventure/five-nights-at-freddys-game.md) — Five Nights at Freddy’s is an extremely popular horror video game. There’s something strange happening at the famous piz
+- [Five Nights at Horror Games](../games/adventure/five-nights-at-horror-games.md) — Welcome to Five Nights at Horror Games, a spine-chilling experience for thrill-seekers! Assume the role of a security gu
+- [Five Nights at Shreks Hotel](../games/adventure/five-nights-at-shreks-hotel.md) — After selling your house and relocating to a different city, you find yourself in need of a new place to stay. While you
+- [Flagged House Escape](../games/adventure/flagged-house-escape.md) — Flagged House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house, On
+- [Flagron](../games/adventure/flagron.md) — Bombed in the Woods is a thrilling mobile game that will test your reflexes and timing skills. You play as a character w
+- [Flamit](../games/adventure/flamit.md) — Light all the torches as fast as you can in this engaging platform. But do it fast, because a your flame won't last fore
+- [Flamit](../games/adventure/flamit-2.md) — Flamit puts your reflexes to the test in a swift race against a dwindling flame. Navigate 30 challenging, icy levels, li
+- [Flappier Bat](../games/adventure/flappier-bat.md) — Batty Jump - is the hottest new game in which you have to avoid the pillars!
+- [Flappy Buddy](../games/adventure/flappy-buddy.md) — Guide an adventurous bird through challenging obstacles in Flappy Buddy. Tap to soar, collect coins, and pop balloons as
+- [Flappy Cat the Ultimate Adventure](../games/adventure/flappy-cat-the-ultimate-adventure.md) — Guide a charming feline astronaut through the cosmos in Flappy Cat the Ultimate Adventure. Tap to maintain flight, dodgi
+- [Flappy Halloween Game](../games/adventure/flappy-halloween-game.md) — Get ready for a spooky and exciting flying adventure in Flappy Halloween Game! Take control of a cute Halloween-themed c
+- [Flappy Helicopter 2 Player](../games/adventure/flappy-helicopter-2-player.md) — Are you up for a two-player helicopter battle? To win in the helicopter battle, you must be the one who detonates the mo
+- [Flappy Jelly](../games/adventure/flappy-jelly-2.md) — Dive into Flappy Jelly, where you navigate a deep-sea world filled with challenges and treasures. Tap to swim through en
+- [Flappy Orange](../games/adventure/flappy-orange-2.md) — Dive into the depths with Flappy Orange, guiding a cute fish through a treacherous underwater world. Master simple, yet 
+- [Flappy Smoker](../games/adventure/flappy-smoker.md) — It is similar to flappy bird but it has a windows xp wallpaper and our best man XD. Just click the start button and fly 
+- [Flappy Sprunki Adventure](../games/adventure/flappy-sprunki-adventure.md) — Flappy Sprunki Adventure is a super fun flappy game for kids and grown ups. Your goal is to keep Sprunki flying in the a
+- [Flappy Tiny Witch](../games/adventure/flappy-tiny-witch.md) — Fly with Tiny Witch
+- [Flappy Turtle](../games/adventure/flappy-turtle.md) — Play Turtle Flappy Bird for free online Mutant Ninja Bird is Trying to Fly! How Far can you Fly? -Tap to Fly -Avoid Obst
+- [Flappy Witch](../games/adventure/flappy-witch-2.md) — Fly as a daring witch through a spooky night, dodging eerie obstacles while collecting shimmering diamonds. Navigate wit
+- [Flapy Bird 3D](../games/adventure/flapy-bird-3d.md) — Flapy Bird 3D is a remake of the classic game from an independent developer. It is prepared using modern mechanics and g
+- [Flat Guys](../games/adventure/flat-guys.md) — Go to the obstacle course and see which of you will be the strongest! The game will go in several rounds, and each of yo
+- [Flex Escape](../games/adventure/flex-escape.md) — Flex Escape 3D is a fun game where you stretch and flex to avoid obstacles. Instead of running, you stay on a mat and us
+- [Flip Bird Online Game](../games/adventure/flip-bird-online-game.md) — Flip Bird is an exciting new online game that challenges players to take control of a bird and navigate through a series
+- [Flip For Survival](../games/adventure/flip-for-survival.md) — Test your reflexes in Flip for Survival! A single tap flips your ball, dodging deadly spikes that erupt from the ground.
+- [Flip For Survival](../games/adventure/flip-for-survival-2.md) — Navigate treacherous spikes with a single tap in Flip For Survival. This captivating arcade experience tests your reflex
+- [FlipLines Game](../games/adventure/fliplines-game.md) — Welcome to the exciting world of Flip Lines, a fun and addictive puzzle game that will test your timing, focus, and refl
+- [Flipping Bottle](../games/adventure/flipping-bottle.md) — Do you feel the call of Tom and Jerry? So exciting! You just need to flip your bottle in the air and land perfectly on e
+- [Flippy Hero Jump Game](../games/adventure/flippy-hero-jump-game.md) — Get ready for endless fun and action in Flippy Hero Jump Game, a fast-paced arcade adventure where timing, reflexes, and
+- [Floating Garden Escape](../games/adventure/floating-garden-escape.md) — Floating Garden Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a garden 
+- [Flood Escape](../games/adventure/flood-escape.md) — Flood Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a flood and you got
+- [Floppa Scary Horror](../games/adventure/floppa-scary-horror.md) — Venture into the chilling, dark forest of Floppa Scary Horror, where humor meets terror. Collect eight whimsical cat pho
+- [Floppy Skibidi](../games/adventure/floppy-skibidi.md) — In the tough arcade game Floppy Skibidi, you take control of a flying toilet. Your objective is to avoid striking any pi
+- [Floret Boy Escape](../games/adventure/floret-boy-escape.md) — Floret Boy Escape is a point and click escape game developed by 8BGames. Imagine that a floret boy got trapped in this h
+- [Floret Land Escape](../games/adventure/floret-land-escape.md) — Floret Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, O
+- [Flow Free: Bridges](../games/adventure/flow-free-bridges.md) — Play addictive Flow Free: Bridges free game. keep move on the Bridges as long as you can! Flow Free: Bridges Free Game. 
+- [Flower Defense - Zombie Siege](../games/adventure/flower-defense-zombie-siege.md) — Game is still different from that of Plants vs. Zombies. The new plants in this game are merged by two identical plants.
+- [Flower Fairy Adventure Story](../games/adventure/flower-fairy-adventure-story-2.md) — Embark on a whimsical journey in Flower Fairy Adventure Story. Solve charming jigsaw puzzles, dress your fairy in elegan
+- [Flower House Escape](../games/adventure/flower-house-escape.md) — Flower House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Fly Bird](../games/adventure/fly-bird.md) — Guide your daring bird through a sky full of obstacles in Fly Bird, where precision and timing are your allies. With int
+- [Fly Hunt](../games/adventure/fly-hunt.md) — Fly hunt is an amazingly interesting game.were we collect the coins.and find the way home to avoid evil bats.we can also
+- [Flying Cat](../games/adventure/flying-cat-2.md) — Guide a soaring feline through vibrant skies in Flying Cat, a whimsical adventure perfect for gamers and cat lovers. Gli
+- [Flying Doremon](../games/adventure/flying-doremon.md) — flying doremon is an amazing game made by azeemdreamsdesigner
+- [Flying Easter Bunny 1](../games/adventure/flying-easter-bunny-1.md) — There are NO LIMITS to this lovely Easter game! Match colorful eggs and find the Easter bunny, rescue adorable pets, fee
+- [Flying easter bunny2](../games/adventure/flying-easter-bunny2.md) — Help the Easter Bunny to save Easter by collecting all the Easter Eggs! Flap your way to the sky and collect all the Eas
+- [Flying Injection Virus Game](../games/adventure/flying-injection-virus-game.md) — Take control of a high-tech flying injection aircraft armed with powerful injection weapons as you soar through an infin
+- [Flying Parrot](../games/adventure/flying-parrot.md) — Flying Parrot is an endless flying game, in this game you have to rescue a parrot from obstacles and collect coins from 
+- [Flying Parrot](../games/adventure/flying-parrot-2.md) — Embark on a vibrant aerial journey with Flying Parrot, where you navigate through intricate obstacles with precision and
+- [Flying Shodow](../games/adventure/flying-shodow.md) — Embark on a mesmerizing aerial journey in Flying Shodow, where precision and timing are your greatest allies. Glide thro
+- [Flying witch halloween](../games/adventure/flying-witch-halloween.md) — Flying witch halloween is a really addictive game made in construct 2.
+- [FNF: Trick or Die](../games/adventure/fnf-trick-or-die.md) — Enter the house of Lemon Demon and rescue Girlfriend from Friday Night Funkin' (FNF) before it's too late!
+- [Foal Escape](../games/adventure/foal-escape.md) — Foal Escape is a point and click escape game developed by 8BGames. Imagine that you got a Foal as a gift. While you were
+- [Foggy Fox](../games/adventure/foggy-fox.md) — Mist Fox is a 3D RPG where you control a fox on an adventure collecting loot and fighting enemies. On this exciting jour
+- [Forbidden Land The Secret Experiment](../games/adventure/forbidden-land-the-secret-experiment.md) — Explore a forbidden land where secret experiments were performed by scientists. Find hidden items and clues to uncover t
+- [Foreshore Escape](../games/adventure/foreshore-escape.md) — Foreshore Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a sand shore fo
+- [Forest Gate Escape 1](../games/adventure/forest-gate-escape-1.md) — Forest Gate Escape 1 is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Forest, 
+- [Forest House Escape](../games/adventure/forest-house-escape.md) — Forest House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest hou
+- [Forest House Girl Escape](../games/adventure/forest-house-girl-escape.md) — Forest House Girl Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a fores
+- [Forest Hut Escape 2](../games/adventure/forest-hut-escape-2.md) — Forest Hut Escape 2 is a point and click escape game developed by 8B Games/Games2mad. Imagine that you had been to a for
+- [Forest Inspector Rescue](../games/adventure/forest-inspector-rescue.md) — Forest Inspector Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a villa
+- [Forest Officer Rescue](../games/adventure/forest-officer-rescue.md) — Forest Officer Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a pl
+- [Forest Ranger Adventure](../games/adventure/forest-ranger-adventure.md) — Embark on a thrilling journey as a forest ranger navigating through mysterious woodlands. Conquer challenging levels, do
+- [Forest Resort Escape](../games/adventure/forest-resort-escape.md) — Forest Resort Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a resort to
+- [Forest Survival 2](../games/adventure/forest-survival-2.md) — Did you think of spending a survival night in the jungle? Of course not! Play the forest game that will give you the rea
+- [Forest Survivor Challenge](../games/adventure/forest-survivor-challenge.md) — Survive the wild in Forest Survivor Challenge, the ultimate jungle survival adventure! After your plane crashes in the A
+- [Forgotten Dungeon 2](../games/adventure/forgotten-dungeon-2.md) — Forgotten Dungeon 2 is an addictive hack-and-slash action RPG. Slay skeletons, zombies, and other monsters as you explor
+- [Forgotten Warrior Quest for Survival](../games/adventure/forgotten-warrior-quest-for-survival.md) — Navigate a gripping post-apocalyptic world where every decision shapes your destiny. Experience thrilling action intertw
+- [Fort Builder Sandbox](../games/adventure/fort-builder-sandbox.md) — Fort Builder is a great simulation game where you can build forts and train yourself with different weapons. You have at
+- [Fort Cave Escape](../games/adventure/fort-cave-escape.md) — Fort Cave Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a fort cave, On
+- [Fort Clash Survival](../games/adventure/fort-clash-survival-2.md) — Survive relentless hordes of buff cat attackers in Fort Clash Survival. Explore vast terrains, discover hidden loot, and
+- [Fort Escape](../games/adventure/fort-escape.md) — Fort Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a fort on there you
+- [Fortnite fire  2021](../games/adventure/fortnite-fire-2021.md) — The description of Fortnite App The #1 Battle Royale game has come to mobile! Squad up and compete to be the last one st
+- [Fortnite Hidden Items](../games/adventure/fortnite-hidden-items.md) — Fortnite Hidden Items is a free online skill and hidden object game. Find out the hidden items in the specified images. 
+- [Fortress of the Sinister](../games/adventure/fortress-of-the-sinister.md) — FOS: Tactics of Heroes is a turn-based tactical strategy game where you command a squad of heroes on a grid and defend a
+- [Fortunate Boy Escape](../games/adventure/fortunate-boy-escape.md) — Fortunate Boy Escape is a point and click escape game developed by 8BGames. Imagine that a fortunate Boy lives in a beau
+- [Fowl Land Escape](../games/adventure/fowl-land-escape.md) — Fowl Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village, ther
+- [Fox Adventurer](../games/adventure/fox-adventurer.md) — Mr. Fox sets out to find precious emeralds in the Fox Adventure 2D puzzle game. To successfully complete the level, you 
+- [Fox Adventurer](../games/adventure/fox-adventurer-2.md) — Embark on a whimsical journey with Mr. Fox, navigating between day and night modes to collect crystals and escape with t
+- [Francy](../games/adventure/francy.md) — Welcome to Francy, have fun between 3 levels overcoming all obstacles and pitfalls becoming the strongest in the game, w
+- [Frankenstein Adventures](../games/adventure/frankenstein-adventures.md) — Frankenstein adventures This is a game that uses ingenuity and calculation to overcome obstacles. The game has 12 levels
+- [Frankenstein Go Run](../games/adventure/frankenstein-go-run.md) — Frankenstein quiere salvar a su novia, pero para conseguirlo tiene que resolver complicados rompecabezas y esquivar a lo
+- [Fred Flintstone Escape](../games/adventure/fred-flintstone-escape.md) — Fred Flintstone Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Wilma Flintst
+- [Freddy at Playroom of Fear](../games/adventure/freddy-at-playroom-of-fear.md) — Navigate a nightmare disguised as a whimsical playroom, filled with colorful toys and lurking horrors. Outsmart the sini
+- [Freddy Christmas Nightmare](../games/adventure/freddy-christmas-nightmare.md) — Navigate a chilling festive landscape where holiday cheer conceals lurking terror. Escape Freddy’s relentless pursuit am
+- [Free Fire 2](../games/adventure/free-fire-2.md) — Free Fire is the ultimate survival shooter game available on mobile. Each 10-minute game places you on a remote island w
+- [friday adventure night](../games/adventure/friday-adventure-night.md) — This is a mod for Friday night funkin music game, enjoy racing with all the characters : Boyfriend. Girlfriend, Daddy De
+- [Frog Block](../games/adventure/frog-block-2.md) — Guide your agile frog through intricate levels, dodging foes and overcoming obstacles in Frog Block. With simple control
+- [Frog Escape](../games/adventure/frog-escape.md) — Guide a clever frog to freedom in Frog Escape! Tactically maneuver room-blocks by clicking or touching, each with distin
+- [Frog Leap 3D](../games/adventure/frog-leap-3d.md) — Get ready for an exciting adventure in Frog Leap 3D: Parkour Runner! You play as a nimble frog trying to navigate throug
+- [Frog Ninja Adventure](../games/adventure/frog-ninja-adventure.md) — Are you ready for an adventure with Frog Ninja Adventure game? As you progress through the challenging course, you must 
+- [Frog Rescue](../games/adventure/frog-rescue.md) — Frog Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on th
+- [Froggy Man 2](../games/adventure/froggy-man-2-2.md) — Venture into the colorful world of Froggy Man 2, a thrilling 2D platformer where you guide a nimble frog through perilou
+- [Froggy Man](../games/adventure/froggy-man-3.md) — Leap into the vibrant world of Froggy Man! As a daring green frog, master double jumps to devour flies while evading per
+- [FrogJump](../games/adventure/frogjump.md) — JUMP JUMP JUMP!
+- [Frogtastic Marble Adventure](../games/adventure/frogtastic-marble-adventure.md) — Dive into the exciting realm of Frogtastic Marble Adventure, a free online puzzle game that tests your strategy and quic
+- [Frogtastic Marble Adventure](../games/adventure/frogtastic-marble-adventure-2.md) — Frogtastic Marble Adventure invites you to experience a vibrant, marble-shooting challenge. Strategically fire marbles t
+- [Frostbite Challenge](../games/adventure/frostbite-challenge.md) — Frostbite Challenge sweeps you into a whimsical winter race against time. Dash through snow-covered landscapes, collecti
+- [Frosty Quest](../games/adventure/frosty-quest.md) — Frosty Quest is a fun and exciting match-3 puzzle game set in a magical winter wonderland. In this icy adventure, player
+- [Frozen ice Adventures](../games/adventure/frozen-ice-adventures.md) — The World of Disney’s Frozen comes to life in an exciting new match 3 puzzle adventure. Join Elsa, Anna and Olaf as you 
+- [Frozen Jump](../games/adventure/frozen-jump.md) — Play Frozen Jump you, a never-ending and hard-to-play game that is played endlessly. Frozen elsa op jump straight from o
+- [Frozen Olaf Cousin Escape](../games/adventure/frozen-olaf-cousin-escape.md) — Frozen Olaf Cousin Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Frozen fam
+- [Frozen Princess Puzzle](../games/adventure/frozen-princess-puzzle.md) — Enter a magical icy world with Frozen Princess Puzzle, a fun and relaxing puzzle game filled with beautiful visuals, exc
+- [Fruit Adventure](../games/adventure/fruit-adventure-2.md) — Embark on a vibrant pixelated journey in Fruit Adventure, guiding a brave Strawberry through a mystical forest. Outsmart
+- [Fruit Ninja Cutter Slice Fun Game](../games/adventure/fruit-ninja-cutter-slice-fun-game.md) — Fruit Cutting Game is a new Arcade game with RPG game play, in which you slice fruits, score points and dodge the bomb. 
+- [Fruit Picker](../games/adventure/fruit-picker.md) — Collect all the fruits and find your way out to complete levels overcoming various obstacles.
+- [Fruit Tower Drop](../games/adventure/fruit-tower-drop.md) — Fruit Tower Drop is a fast-paced arcade game where you guide a bouncing ball down a tower of rotating fruit slices. Navi
+- [Fruits and Emojis](../games/adventure/fruits-and-emojis.md) — Fruits and Emojis is a a puzzle game in which you have to connect the same fruits to complete all the levels.
+- [Fruits Ninja Hero](../games/adventure/fruits-ninja-hero.md) — Fruits Ninja Hero is an action ninja game. Aim and release the slingshot to release the green ninja hero. Release the ni
+- [Fruitsland: Escape from the Amusement Park](../games/adventure/fruitsland-escape-from-the-amusement-park.md) — Welcome to Fruitsland – a unique amusement park where fun awaits at every turn! Colorful carousels, exciting rides, and 
+- [Fuji Leaper](../games/adventure/fuji-leaper.md) — Leap into a vibrant jungle as a nimble frog in Fuji Leaper! Master your timing to defeat bees and dodge venomous threats
+- [Full Guys](../games/adventure/full-guys.md) — Full Guys is a variety show to break through the barriers of the leisure hilarious game.You will compete with your oppon
+- [Fun Arrow Fall](../games/adventure/fun-arrow-fall.md) — Fun Arrow Fall - is a game where the player object has to survive from collidiing with falling arrows. Jump platforms le
+- [Fun Escape 3D - Fun & Run 3D Game](../games/adventure/fun-escape-3d-fun-run-3d-game.md) — Fun Escape 3D is a funny running race game. You will race with other guys. In this game, besides moving blocks, you also
+- [Fun House Escape](../games/adventure/fun-house-escape.md) — Fun House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Fun house. You go
+- [Funny Corn Escape](../games/adventure/funny-corn-escape.md) — Funny Corn Escape is a point and click escape game developed by 8BGames/Games2Mad. There was a forest in a beautiful sma
+- [Funny Escape](../games/adventure/funny-escape.md) — Embark on a comical escape quest where quick thinking is your best ally. Dash through obstacles, outsmart cunning red gu
+- [Funny Little Girl Escape](../games/adventure/funny-little-girl-escape.md) — Funny Little Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Funny Little 
+- [Funny Mermaid Princess](../games/adventure/funny-mermaid-princess.md) — Have you ever dreamed of visiting a real underwater city, where a beautiful mermaid princess lives? Embark on an amazing
+- [Funny Monkey Forest Escape](../games/adventure/funny-monkey-forest-escape.md) — Funny Monkey Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a for
+- [Funny Prank Sounds](../games/adventure/funny-prank-sounds.md) — Funny Prank Sounds is the ultimate soundboard game packed with hilarious prank effects to surprise your friends and fami
+- [Funny Sophia Escape](../games/adventure/funny-sophia-escape.md) — Funny Sophia Escape is a point and click escape game developed by 8BGames. Imagine that you are went to sophia house for
+- [Furious Route](../games/adventure/furious-route.md) — Play the free online game Furious Route Johnny Car Shooting Game at naptechgames.com ! Click to play Furious Route Johnn
+- [Futurama: Worlds of Tomorrow](../games/adventure/futurama-worlds-of-tomorrow.md) — UILD your own New New York, BATTLE aliens, COLLECT your favorite heroes, and EXPLORE space in an epic Futurama story fro
+- [Fuuta 2](../games/adventure/fuuta-2-2.md) — Embark on a thrilling journey in Fuuta 2's colorful 2D platformer world. Master your jumping techniques to navigate eigh
+- [Fuuta](../games/adventure/fuuta-3.md) — Dive into Fuuta, a thrilling 2D platformer where you navigate through increasingly challenging levels. Gather lipsticks,
+- [Fuzzle Stacker](../games/adventure/fuzzle-stacker.md) — Stack them, sort them by Color. Put at least 3 same Colored in a line to Score.
+- [FZ Color Balls](../games/adventure/fz-color-balls.md) — FZ Color Balls - Feel the Rhythm. Jump or Smear. is a rather hard game where you have to assist this ball in jumping thr
+- [FZ Jet Halloween](../games/adventure/fz-jet-halloween.md) — FZ Jet Halloween is HTML5 games, Jet Halloween, another Flappy game! In this game you control a flappy witch and like al
+- [G2L Black Friday Escape](../games/adventure/g2l-black-friday-escape.md) — Black Friday Escape is a point and click game developed by 8B Games/Games2live. Imagine that we had been to the Black Fr
+- [G2L Cyber Monday Escape](../games/adventure/g2l-cyber-monday-escape.md) — "Cyber Monday Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a house, O
+- [G2L Halloween Is Coming Episode4](../games/adventure/g2l-halloween-is-coming-episode4.md) — Halloween Is Coming Episode4 is a point and click game developed by 8B Games/Games2live. I'm John. Now I have stucked in
+- [G2L Out House Escape](../games/adventure/g2l-out-house-escape.md) — Out House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to an out house, 
+- [G2L White Cat Rescue](../games/adventure/g2l-white-cat-rescue.md) — White Cat Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, On 
+- [G2L Zany House Escape](../games/adventure/g2l-zany-house-escape.md) — Zany House Escape is a point and click game developed by Games2Live. Imagine that you had been to a House; there you got
+- [G2M Amiable Boy Escape](../games/adventure/g2m-amiable-boy-escape.md) — Amiable Boy Escape is a point and click escape game developed by 8B Games/Games2Mad. Imagine that you went to the Amiabl
+- [G2M Beach Escape](../games/adventure/g2m-beach-escape.md) — Beach Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a beach; there you 
+- [G2M Blue House Escape](../games/adventure/g2m-blue-house-escape.md) — Blue House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there
+- [G2M Blue House Escape 3](../games/adventure/g2m-blue-house-escape-3.md) — Blue House Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [G2M Brick House Escape 2](../games/adventure/g2m-brick-house-escape-2.md) — Brick House Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a brick house. 
+- [G2M Castle Escape](../games/adventure/g2m-castle-escape.md) — Castle Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Castle; there yo
+- [G2M Cat Escape](../games/adventure/g2m-cat-escape.md) — Cat Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fantasy forest on
+- [G2M Cave Land Escape](../games/adventure/g2m-cave-land-escape.md) — Cave Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On t
+- [G2M Chef House Escape](../games/adventure/g2m-chef-house-escape.md) — Chef House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there
+- [G2M Cyber Monday Escape](../games/adventure/g2m-cyber-monday-escape.md) — Cyber Monday Escape is a point and click escape game developed by 8BGames/Games2Mad. You are about to purchase on Cyber 
+- [G2M Deer Escape](../games/adventure/g2m-deer-escape.md) — Deer Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on th
+- [G2M Farm Escape](../games/adventure/g2m-farm-escape.md) — Farm Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there you go
+- [G2M Find The Treasure](../games/adventure/g2m-find-the-treasure.md) — Find The Treasure is a point and click game developed by 8B Games/Games2Mad. In this escape game, you come to know that 
+- [G2M Giving Tuesday Escape](../games/adventure/g2m-giving-tuesday-escape.md) — Giving Tuesday Escape is a point and click escape game developed by 8BGames/Games2Mad. You are about to celebrate Giving
+- [G2M Green Garden Escape](../games/adventure/g2m-green-garden-escape.md) — Green Garden Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a garden On 
+- [G2M Green House Escape](../games/adventure/g2m-green-house-escape.md) — Green House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Green house. Yo
+- [G2M Island Escape](../games/adventure/g2m-island-escape.md) — Island Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Island; there y
+- [G2M Monkey Escape](../games/adventure/g2m-monkey-escape.md) — Monkey Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a on an evening 
+- [G2M Mouse Escape](../games/adventure/g2m-mouse-escape.md) — Mouse Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on t
+- [G2M Penguin Escape](../games/adventure/g2m-penguin-escape.md) — Penguin Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fantasy fores
+- [G2M Piglet Escape](../games/adventure/g2m-piglet-escape.md) — Piglet Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on 
+- [G2M Pink Room Escape](../games/adventure/g2m-pink-room-escape.md) — Pink Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to house. You got 
+- [G2M Playful Boy Escape](../games/adventure/g2m-playful-boy-escape.md) — Playful Boy Escape is a point and click escape game developed by 8B Games/Games2mad. Imagine that you went to a boy hous
+- [G2M Princess Escape](../games/adventure/g2m-princess-escape.md) — Princess Escape is a point and click escape game developed by 8B Games/Games2Mad. Imagine that you went to the Princess 
+- [G2M Prison Escape](../games/adventure/g2m-prison-escape.md) — Prison Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been trapped inside this P
+- [G2M Prisoner Escape](../games/adventure/g2m-prisoner-escape.md) — Prisoner Escape is a point and click game developed by 8B Games/Games2mad. Imagine that your friends had been too prison
+- [G2M Rescue The Alien](../games/adventure/g2m-rescue-the-alien.md) — Rescue The Alien is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [G2M Rescue The Goat 2](../games/adventure/g2m-rescue-the-goat-2.md) — Rescue The Goat 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village ther
+- [G2M Rescue The Puppy](../games/adventure/g2m-rescue-the-puppy.md) — Rescue The Puppy is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house there a
+- [G2M Scary Forest Escape](../games/adventure/g2m-scary-forest-escape.md) — Scary Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, th
+- [G2M Small Business Saturday Escape](../games/adventure/g2m-small-business-saturday-escape.md) — Small Business Saturday Escape is a point and click escape game developed by 8BGames/Games2Mad. You are about to start a
+- [G2M Tree Land Escape](../games/adventure/g2m-tree-land-escape.md) — Tree Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On t
+- [G2M Unicorn Escape](../games/adventure/g2m-unicorn-escape.md) — Unicorn Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fantasy fores
+- [Gakkul 2](../games/adventure/gakkul-2-2.md) — Embark on a thrilling 2D platformer journey as a young adventurer in Gakkul 2. Master the art of double jumps to outmane
+- [Gakkul](../games/adventure/gakkul-3.md) — Embark on a vibrant 2D platforming journey in Gakkul! Collect mangoes as a resourceful young adventurer, deftly navigati
+- [Galaxy Warriors](../games/adventure/galaxy-warriors-2.md) — Engage in electrifying interstellar combat with Galaxy Warriors. Navigate your starship through intense alien waves, uti
+- [Game Mouse Adventure](../games/adventure/game-mouse-adventure.md) — The mouse runs through a cardboard labyrinth of differently shaped cardboard boxes and tries to collect all cheese slice
+- [Game Subway Surf: Hong Kong](../games/adventure/game-subway-surf-hong-kong.md) — Subway surfers in Hong Kong! The guys intend to fully break away in this Chinese metropolis, arranging an incredible adv
+- [Gamer Boy Escape](../games/adventure/gamer-boy-escape.md) — Gamer Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to gamer boy house to play
+- [Games for Pets](../games/adventure/games-for-pets.md) — Welcome to Games for Pets, the ultimate interactive game designed specifically for your beloved cats and dogs! Keep your
+- [Gangsta Island: Crime City](../games/adventure/gangsta-island-crime-city.md) — Gangsta Island: Crime City is a game where you start as a street dweller and climb your way to world domination. Use str
+- [Gangster City Crime](../games/adventure/gangster-city-crime.md) — You are new in town and you have to find out how things work here so you get involved in some gangsters fights, you have
+- [Gangster House Escape](../games/adventure/gangster-house-escape.md) — Gangster House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [garbage](../games/adventure/garbage.md) — Dodge the waves of trash. Survive the attacking trash until you reach a high score. https://alexithacb.itch.io/garbage-a
+- [GARBAGE ATTACK](../games/adventure/garbage-attack.md) — Esquiva las oleadas de basura. Sobrevive a la basura Que ataca Hasta Llegar a Una puntuaci&oacute;n alta. Dodge the wave
+- [Garby](../games/adventure/garby.md) — It's Garbin' time! Billionaire polluters are wrecking the planet! This is a job for Garby the Garbage Can! Guide Garby t
+- [Garden War](../games/adventure/garden-war-2.md) — Defend your castle in Garden War, a thrilling strategy defense game. Sharpen your tactics, upgrade your cannon, and fend
+- [Gardener Escape](../games/adventure/gardener-escape.md) — Gardener Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Gardener house to get 
+- [Gardener Estate Escape](../games/adventure/gardener-estate-escape.md) — Gardener Estate Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to an estat
+- [Garten of Banban 3D](../games/adventure/garten-of-banban-3d.md) — Garten of Banban is a thrilling and scary horror puzzle adventure game. You enter the haunted kindergarten, where darkne
+- [Garten of Banban Escape](../games/adventure/garten-of-banban-escape.md) — Garten of Banban Escape is an adrenaline-pumping online game that combines elements of survival and terror, offering pla
+- [Garten of BanBan huggy Escape](../games/adventure/garten-of-banban-huggy-escape.md) — Step into the eerie world of Garten of BanBan huggy Escape, a thrilling online horror game where you must outsmart terri
+- [Gazebo Escape](../games/adventure/gazebo-escape.md) — Gazebo Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On the
+- [Gears of Babies](../games/adventure/gears-of-babies.md) — Embark on an adorable adventure in Gears of Babies, where you guide a milk-craving infant through a vibrant world. Engag
+- [Gem Game](../games/adventure/gem-game.md) — Fantasy Gem is a comfy Match 3 game that you have been looking for. Help Lucy explore the fantasy world by clearing the 
+- [Gem Games](../games/adventure/gem-games.md) — Bienvenue à Tailed Demon Slayer. Rejoignez l'aventure de notre héros à Bestia, une petite ville autrefois heureuse et pa
+- [Gems Mining Adventure](../games/adventure/gems-mining-adventure.md) — Gems Mining Adventure is fun addictive hyper casual strategy game. Are you ready to have your own Gems company? You have
+- [Genial House Escape](../games/adventure/genial-house-escape.md) — Genial House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been l
+- [Genie Magic Lamp Escape](../games/adventure/genie-magic-lamp-escape.md) — Genie Magic Lamp Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Aladdin, you
+- [Gentle House Escape](../games/adventure/gentle-house-escape.md) — Gentle House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been l
+- [Gentlemans Quest](../games/adventure/gentlemans-quest-2.md) — Embark on a perilous journey in Gentleman's Quest, a riveting 2D platformer. Test your agility through eight challenging
+- [Geometry Dash 3D](../games/adventure/geometry-dash-3d.md) — - Addictive Gameplay &ndash; Experience fast-paced levels packed with thrilling obstacles that will test your reflexes, 
+- [Geometry Dash Blackboard](../games/adventure/geometry-dash-blackboard.md) — Geometry Dash Blackboard game is waiting for you with its latest version and lost of different Square men. You will love
+- [Geometry Dash Finally](../games/adventure/geometry-dash-finally.md) — Geometry Dash Finally is a game where you will have fun. There are 3 different levels in the game: "Cosmic", "Aurora", "
+- [Geometry Dash Stars](../games/adventure/geometry-dash-stars.md) — Geometry Dash Stars is a fun and exciting skill game, where you guide your block through the levels over many obstacles.
+- [Geometry Jump Dash](../games/adventure/geometry-jump-dash.md) — Jump, dash, and fly through a pulse-pounding obstacle course where one wrong move means disaster! This fast-paced, high-
+- [Geometry Man Dash Lite](../games/adventure/geometry-man-dash-lite.md) — Speed, timing, and precision collide in Geometry Man Dash Lite! Guide your character through a fast-moving platform worl
+- [Geometry Open World](../games/adventure/geometry-open-world.md) — Dive into the exciting realm of Geometry Open World, a dynamic 2D action game. Steer your vessel through challenging ter
+- [Germ House Escape](../games/adventure/germ-house-escape.md) — Germ House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Germ house. You 
+- [Get Tall And Fall](../games/adventure/get-tall-and-fall.md) — An exciting adventure in which you have to boost your growth with a variety of food, pets, potions and other methods.
+- [Getting Over It Unblocked](../games/adventure/getting-over-it-unblocked.md) — Start the most wonderful climbing adventure ever at Getting Over It Unblocked. This game will test your patience, skill,
+- [Getting Over it Unblocked](../games/adventure/getting-over-it-unblocked-2.md) — Embark on a relentless and thrilling ascent in Getting Over It Unblocked. Master the art of precision as you navigate a 
+- [Ghastly House Escape](../games/adventure/ghastly-house-escape.md) — Ghastly House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Ghost Bunker Escape 2](../games/adventure/ghost-bunker-escape-2.md) — The bunker escape challenge is centered around an old, decrepit barn located near the abandoned home. Beneath it lay a s
+- [Ghost House Escape](../games/adventure/ghost-house-escape.md) — Ghost House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house on th
+- [Ghost in the Dark](../games/adventure/ghost-in-the-dark.md) — Escape haunted places in this scary online horror game! Solve puzzles, find necessary parts, and survive before creepy g
+- [Ghost Town Escape 3 &ndash; Mirrored Dimension](../games/adventure/ghost-town-escape-3-ndash-mirrored-dimension.md) — As your weary eyes flutter open, they behold a desolate realm of abandonment. A spectral gust sweeps through your ethere
+- [Ghost Town Escape 4 &ndash; Mirrored Dimension](../games/adventure/ghost-town-escape-4-ndash-mirrored-dimension.md) — Within an abandoned military town, youre called to assist spectral residents. Gather 45 mysterious coins to activate an 
+- [Ghostblade Escape](../games/adventure/ghostblade-escape.md) — Dodge vengeful ghosts and deadly hexsaws in Ghostblade Escape. As a ninja, use quick reflexes and strategic dashes to su
+- [Ghostly Spikes](../games/adventure/ghostly-spikes.md) — This Halloween season, Jhurr Games is bringing you a unique game called Ghostly Spikes. Help this adorable ghost fly aro
+- [Ghoul's Night Out Halloween](../games/adventure/ghoul-s-night-out-halloween.md) — Ghoul's Night Out Halloween is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a ho
+- [Giant Killer](../games/adventure/giant-killer.md) — Upgrade your heroes, battle fearsome enemies, and hone your strategic skills in this endlessly replayable fantasy advent
+- [Giant Run Color Run Crowd Switch](../games/adventure/giant-run-color-run-crowd-switch.md) — Dive into the action-packed world of Giant Run Color Run Crowd Switch. Merge blobs to grow stronger, dodge obstacles, an
+- [Gifts from Giant Bats](../games/adventure/gifts-from-giant-bats.md) — Protect Gifts from Giant Bats is free online game. keep touching screen to target and shoot animal
+- [Gifts Snake](../games/adventure/gifts-snake.md) — Collect gifts with moving the snack without collides it's body You have three types of control. The default one is relat
+- [Ginger Ninja Escape](../games/adventure/ginger-ninja-escape.md) — Game Title: Ginger Ninja Escape Game Features: Ginger Ninja character moves up and down to avoid obstacles. Obstacles co
+- [Giraffe Land Escape](../games/adventure/giraffe-land-escape.md) — Giraffe Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, O
+- [Giraffe Rescue](../games/adventure/giraffe-rescue.md) — Giraffe Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village, there 
+- [Girl Adventurer](../games/adventure/girl-adventurer.md) — Play great platform game Girl Adventurer. Jump on golem's head to kill them, avoid obstacles and collect 3 keys per leve
+- [Girl With Costume Escape](../games/adventure/girl-with-costume-escape.md) — Girl with Costume Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a villa
+- [Giving Tuesday Escape](../games/adventure/giving-tuesday-escape.md) — "Giving Tuesday Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a house,
+- [Gleeful Girl Escape](../games/adventure/gleeful-girl-escape.md) — Gleeful Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Girl house to get 
+- [Glitch Dash](../games/adventure/glitch-dash.md) — Glitch Dash is a first-person game in which you have to dodge obstacles in order to survive. Collect diamonds to buy che
+- [Glitter Force](../games/adventure/glitter-force.md) — Soar into the exhilarating world of Glitter Force, piloting a fighter plane against monstrous, history-defying creatures
+- [Gloo Bot 2](../games/adventure/gloo-bot-2-2.md) — Immerse yourself in the sci-fi world of Gloo Bot 2, where you’re a brave robot on a mission. Navigate treacherous terrai
+- [Gloo Bot](../games/adventure/gloo-bot-3.md) — Navigate a sci-fi world in Gloo Bot, a thrilling 2D platformer where you maneuver a versatile robot through eight increa
+- [Gloom:Gargoyle](../games/adventure/gloom-gargoyle.md) — Gloom: gargoyle is a magical, 1-player, 3rd-person perspective game. The game is the 1st act of the game "Gloom" and con
+- [GN Ninja Run](../games/adventure/gn-ninja-run.md) — Ninja Run is a game that controls Ninja characters jumping over wooden bridges, collecting coins and dodging bombs. The 
+- [Go Santa](../games/adventure/go-santa.md) — Go Santa by Gamezad is an engaging mobile game that combines festive cheer with exhilarating gameplay. In this endless r
+- [Goat Escape](../games/adventure/goat-escape.md) — Goat Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there a Goat
+- [Goat Princess Escape](../games/adventure/goat-princess-escape.md) — A bonny school boy lives in a beautiful small town. That bonny school boy was very active and beautiful. The bonny schoo
+- [Goat Princess Escape3](../games/adventure/goat-princess-escape3.md) — A placid panda was living in a forest. The placid panda lived very happy. The placid panda was unexpectedly stuck in a h
+- [Goat to the moon](../games/adventure/goat-to-the-moon.md) — The crazy goat does not want to stay a second longer on earth. The goat plans to go to the moon, that looks like and tas
+- [GOBLOX: Grow Your Empire](../games/adventure/goblox-grow-your-empire.md) — Welcome to Sunberry Valley! Restore a forgotten garden and grow it into the greatest farming empire in the land. Plant s
+- [God Of Entropy](../games/adventure/god-of-entropy.md) — A falling‑sand simulation with both story and sandbox modes. Freely experiment with dozens of elements, trigger chain re
+- [Gogi Adventure](../games/adventure/gogi-adventure.md) — Leap into the enchanting universe of Gogi Adventure, where your timing and agility are keys to survival. Navigate a whim
+- [Gogi Adventure HD](../games/adventure/gogi-adventure-hd.md) — A novel adventure game! In the game, the player's task is to avoid obstacles and enemies, collect things, get high score
+- [Gogi_adventure2022](../games/adventure/gogi-adventure2022.md) — Gogo Adventure 20022 - Interesting skill - arcade game. Сalculate the correct length to make a bridge for the main chara
+- [Gogi2](../games/adventure/gogi2.md) — Are you ready to enter the world of Gogi? An immersive game awaits you. Let's start run jump you win the game
+- [Gogo Adventures 2021](../games/adventure/gogo-adventures-2021.md) — * My name is GoGo. Let's go on an adventure with GOGI . * Wooden stakes crossing the forests, calculate the distance bet
+- [Gold Bars Escape](../games/adventure/gold-bars-escape.md) — Gold Bars Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place having 
+- [Gold Coast](../games/adventure/gold-coast.md) — Embark on a thrilling treasure hunt in Gold Coast, where every gem, bag, and nugget boosts your score. Dodge explosive b
+- [Gold Crown Escape](../games/adventure/gold-crown-escape.md) — Gold Crown Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a city, On th
+- [Gold Miner 2D](../games/adventure/gold-miner-2d.md) — Dive into Gold Miner 2D, where quick reflexes and precision are your best tools. Navigate vibrant 2D landscapes, collect
+- [Gold Miner Challenge](../games/adventure/gold-miner-challenge.md) — The challenge begins at the minings with the Gold Miner Challenge game! These mines are located in different places worl
+- [Gold Miner Free‏](../games/adventure/gold-miner-free.md) — The game also helps players practice concentration, logic. With more than arranged from easy to difficult, the game prom
+- [Gold Miner Jack 2](../games/adventure/gold-miner-jack-2.md) — Hello, little miner! Ready to collect the gold and diamonds? You can shop at the grocery store with your savings. Come o
+- [Gold Miner Jack Classic: Gold Rush - Mine Mining](../games/adventure/gold-miner-jack-classic-gold-rush-mine-mining.md) — Welcome to the best mining game for offline! Dig gold, level up, this is an extremely simple but addictive phone game! M
+- [Gold Rush Adventure](../games/adventure/gold-rush-adventure.md) — Embark on a pulse-pounding quest in Gold Rush Adventure, dodging lethal stars as you collect shimmering gold in dynamic 
+- [Golden Cat Escape](../games/adventure/golden-cat-escape.md) — Golden Cat Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fantasy fo
+- [Golden Fish](../games/adventure/golden-fish.md) — Dive into an addictive underwater adventure in Golden Fish! Control your fishs jump, choose the right power, and land sa
+- [Golden Forest Escape](../games/adventure/golden-forest-escape.md) — Golden Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, t
+- [Golden Hen Rescue](../games/adventure/golden-hen-rescue.md) — Golden Hen Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there
+- [Golden island Adventure Game : California Online](../games/adventure/golden-island-adventure-game-california-online.md) — The adventure is starting! Meet and play with Golden island Adventure Game, a girl who loves to collect ancient artifact
+- [Good Knight Story](../games/adventure/good-knight-story.md) — What happened last night!? Join our unlikely hero as he awakens in a dungeon with a sore head and no memory of how he go
+- [Good Sort](../games/adventure/good-sort.md) — Welcome to Goods Sorting Game, the ultimate free sorting game where you can challenge yourself with sorting various good
+- [Good Sorting Puzzle Game](../games/adventure/good-sorting-puzzle-game.md) — Welcome to the ultimate sorting puzzle challenge! Test your brain with fun and addictive gameplay where your goal is to 
+- [Good Witch Escape 2](../games/adventure/good-witch-escape-2.md) — Good Witch Escape 2 is a point and click escape game developed by 8BGames. Imagine that you a good witch got trapped ins
+- [Goodbye 2021 Escape](../games/adventure/goodbye-2021-escape.md) — Goodbye 2021 Escape is a point and click escape game developed by 8BGames. Imagine that you went to your friend home for
+- [Goofy Magic](../games/adventure/goofy-magic.md) — Goofy is a funny-animal cartoon character created in 1932 at Walt Disney Productions. Goofy is a tall, anthropomorphic d
+- [Gozu Adventures 2](../games/adventure/gozu-adventures-2-2.md) — Guide the playful robot Gozu through a whimsical world filled with danger and cupcakes. Master platforming skills and cl
+- [Gozu Adventures](../games/adventure/gozu-adventures-3.md) — Embark on a thrilling quest in Gozu Adventures, guiding a courageous robot through vibrant levels teeming with flying fo
+- [Grab Pack Playtime Game](../games/adventure/grab-pack-playtime-game.md) — Grab Pack Playtime is a funny educational online game with the background of grabbing props. You will play a superhero i
+- [Grand Escape!](../games/adventure/grand-escape.md) — Join the adventure of Grand Escape!, a thrilling online platform game. Discover a fascinating realm filled with odd bein
+- [Grand House Escape](../games/adventure/grand-house-escape.md) — Grand House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Grand Skibidi Town 2](../games/adventure/grand-skibidi-town-2-2.md) — Dive into the bustling Grand Skibidi Town 2, a sandbox adventure where vibrant cityscapes await your exploration. Cruise
+- [Grandma Escape](../games/adventure/grandma-escape.md) — Grandma House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Grandpa Escape](../games/adventure/grandpa-escape.md) — Grandpa House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Granite House Escape](../games/adventure/granite-house-escape.md) — Granite House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Granny 3: Craft and Escape](../games/adventure/granny-3-craft-and-escape.md) — Dive into Granny 3's chilling maze, where creativity meets survival. Craft your escape through eerie block landscapes as
+- [Granny Christmas Nightmare](../games/adventure/granny-christmas-nightmare.md) — Survive a twisted holiday horror in Granny Christmas Nightmare, where an evil Granny prowls a deadly house. Move quickly
+- [Granny Halloween House](../games/adventure/granny-halloween-house.md) — Want an exciting and scary adventure? Granny: Halloween House is a 3D survival horror game with a Halloween vibe. You wi
+- [Granny Halloween House](../games/adventure/granny-halloween-house-3.md) — Survive the terror of Granny Halloween House, a haunted escape challenge filled with eerie atmosphere and stealthy thril
+- [Granny Hidden Skull Shadows](../games/adventure/granny-hidden-skull-shadows.md) — Granny Hidden Skull Shadows is a free online hidden object game. A certain area will appear on the screen in front of yo
+- [Granny Horror Village](../games/adventure/granny-horror-village.md) — Granny Horror Village is a free online first person horror game. You must look at your surroundings and solve a plethora
+- [Granny House](../games/adventure/granny-house.md) — Escape the abandoned asylum without the evil horror Granny to find you. Move silently, without making any noise and avoi
+- [Granny House Escape](../games/adventure/granny-house-escape.md) — Enter the spine-chilling world of Granny House Escape, a 3D horror game where your mission is to escape a creepy house c
+- [Granny House Escape](../games/adventure/granny-house-escape-2.md) — Navigate a mysterious, eerie house in "Granny House Escape," where intellect and stealth are key. Outsmart the lurking g
+- [granny kill 2](../games/adventure/granny-kill-2.md) — Welcome to Granny: Chapter Two. Granny and Grandpa keeps you locked in his house this time. To survive You have to try t
+- [Granny's Mansion](../games/adventure/granny-s-mansion.md) — Granny's Mansion - horror-first-person quest with a chilling atmosphere. In the story the main character finds himself i
+- [Granny & Skibidi toilet Escape Horror](../games/adventure/granny-skibidi-toilet-escape-horror.md) — Navigate a haunted warehouse as CameraHead in a thrilling escape with Granny & Skibidi Toilet. Solve puzzles, gather hid
+- [Grapey Escape](../games/adventure/grapey-escape.md) — Grapey Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On the
+- [Grass Cutting Mowing Game](../games/adventure/grass-cutting-mowing-game.md) — Grass Cutting Mowing Game is a fun and relaxing lawn-mowing simulator where you take control of a powerful mower and cut
+- [Grass Rush Adventure](../games/adventure/grass-rush-adventure.md) — Cut grass, discover rare treasures, and grow stronger with every swing! Grass Rush Adventure is a colorful incremental g
+- [Grassy Land Escape](../games/adventure/grassy-land-escape.md) — Grassy Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, O
+- [Grassy Mountain Escape](../games/adventure/grassy-mountain-escape.md) — Grassy Mountain Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Mountai
+- [Grave Land Escape](../games/adventure/grave-land-escape.md) — Grave Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Gravin](../games/adventure/gravin.md) — Immerse yourself in Gravin, an inventive adventure blending strategic combat with gravity manipulation. Master the art o
+- [Gravity Break](../games/adventure/gravity-break.md) — Defy gravity with your trusty jetpack in Gravity Break! Navigate a treacherous lab, dodging laser traps and rockets whil
+- [Gravity Error](../games/adventure/gravity-error.md) — Survive a dystopian future in Gravity Error, where quick thinking and agility are your weapons. Traverse intricate terra
+- [Gravity Ninja](../games/adventure/gravity-ninja.md) — Dive into the gravity-defying realm of Gravity Ninja, where tactical taps flip your ninja's world. Master gravity to dod
+- [Gravity Range](../games/adventure/gravity-range.md) — It is a simple interesting game. Simulate a spaceship fly in space. Affect by gravity, the spaceship will fly around the
+- [Grayish House Escape](../games/adventure/grayish-house-escape.md) — Grayish House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Great Air Battles](../games/adventure/great-air-battles-2.md) — Engage in thrilling aerial combat high above the clouds in Great Air Battles. Navigate intense dogfights with simple con
+- [Greek House Escape](../games/adventure/greek-house-escape.md) — Greek House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house on th
+- [Green Alien Escape](../games/adventure/green-alien-escape.md) — Green Alien Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place
+- [Green and Yellow Run](../games/adventure/green-and-yellow-run-2.md) — Dive into nonstop excitement with Green and Yellow Run! Guide your charming companions through a dynamic world, leaping 
+- [Green Bird Escape](../games/adventure/green-bird-escape.md) — Green Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, a 
+- [Green Bit Escape](../games/adventure/green-bit-escape.md) — The gameplay is really basic and simple: - Avoid the Red Squares, and avoid the Red lines. - Stay alive as long as possi
+- [Green Duck Escape](../games/adventure/green-duck-escape.md) — Green Duck Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Green Estate Escape](../games/adventure/green-estate-escape.md) — Green Estate Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to an estate, 
+- [Green House Escape](../games/adventure/green-house-escape.md) — Green House Escape is a point and click game developed by Games2Live. Imagine that you had been to a Green House; there 
+- [Green Man Smash](../games/adventure/green-man-smash.md) — Green Man Smash is fun addictive action game.To save the world and don’t let bad guys to conquer it.Save city from bad z
+- [Green Monster Forest Escape](../games/adventure/green-monster-forest-escape.md) — Green Monster Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fo
+- [Green Mountain Escape](../games/adventure/green-mountain-escape.md) — Green Mountain Escape is a point and click escape game developed by 8BGames. Imagine that you went to a green mountain o
+- [Green valley escape](../games/adventure/green-valley-escape.md) — Green valley escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to this place, 
+- [Greeny Land Escape](../games/adventure/greeny-land-escape.md) — Greeny Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, O
+- [Grey Brick House Escape](../games/adventure/grey-brick-house-escape.md) — Grey Brick House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house;
+- [Grey Checked Room Escape](../games/adventure/grey-checked-room-escape.md) — Grey Checked Room Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Hous
+- [Grey Mouse Escape](../games/adventure/grey-mouse-escape.md) — Grey Mouse Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Grey Room Escape](../games/adventure/grey-room-escape.md) — Grey Room Escape is a point and click game developed by Games2Live. Imagine that you had been to a Grey Room; there you 
+- [Grey Wall Gate Escape](../games/adventure/grey-wall-gate-escape.md) — Grey Wall Gate Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village
+- [Grill Chicken Escape](../games/adventure/grill-chicken-escape.md) — Grill Chicken Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a desert; t
+- [Grimace Birthday Escape](../games/adventure/grimace-birthday-escape.md) — Run across the maze and find your way out before you got spotted by the grimace monster. Find the door to unlock the nex
+- [Grimace Night](../games/adventure/grimace-night.md) — Grimace Nigth is a fun adventure ride of in this Halloween season. Here in this fun adventure game, the little Grimace i
+- [Grimace Shake Escape Skibidi and Cameraman](../games/adventure/grimace-shake-escape-skibidi-and-cameraman.md) — You wake up in Doctor Grimace Shake scary hospital and remember nothing. You should survive and escape - search for item
+- [Grimace Shake - Escape Skibidi and Cameraman](../games/adventure/grimace-shake-escape-skibidi-and-cameraman-2.md) — Navigate a haunted hospital, outsmarting grotesque creatures to survive "Grimace Shake - Escape Skibidi and Cameraman." 
+- [Grimace Shake Hidden Skibidi Toilet](../games/adventure/grimace-shake-hidden-skibidi-toilet.md) — Find skibidi toilet between Grimace Shake
+- [Groomy Island](../games/adventure/groomy-island.md) — Groomy Island - is a brand new realistic horror-survival game in 3D Island that Your sole objective is Survive and colle
+- [grove](../games/adventure/grove.md) — Easy and simple game, you have to pass two levels to be able to catch all the birds and fly them within a time limit
+- [Grove Gate Escape](../games/adventure/grove-gate-escape.md) — Grove Gate Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Grove, On t
+- [Grow my Heels 3D Game](../games/adventure/grow-my-heels-3d-game.md) — Ready to have fun? Brand new high heels girl runner game with easy gameplay where your aim is to make a high heels by co
+- [Grusel Oma](../games/adventure/grusel-oma.md) — Entkomm der verlassenen Anstalt ohne das böse Grusel Oma, um dich zu finden. Beweg dich leise, ohne Geräusche zu machen,
+- [Guaro House Escape](../games/adventure/guaro-house-escape.md) — Guaro House Escape is a point and click escape game developed by 8BGames. Imagine that you went to your friend house at 
+- [Guest House Escape](../games/adventure/guest-house-escape.md) — Guest House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been lo
+- [Guest Room Escape](../games/adventure/guest-room-escape.md) — Guest Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to house. You got
+- [Guide Escape](../games/adventure/guide-escape.md) — Guide Escape is a point and click escape game developed by 8BGames. Imagine that a guide ask you to meet him in his hous
+- [Gumball Class Spirits](../games/adventure/gumball-class-spirits.md) — Play Gumball Class Spirits Game online in your web browser and mobile at superkidgames.com for free and more html5 games
+- [Gumball Darwins Yearbook](../games/adventure/gumball-darwins-yearbook.md) — Amazing World of Gumball, Gumball Darwins Yearbook A fun puzzle platformer where you help Gumball and Darwin take pictur
+- [Gumball : Hidden Stars](../games/adventure/gumball-hidden-stars.md) — The series concerns the lives of 12-year-old Gumball Watterson, a blue cat, and his goldfish best friend and adoptive br
+- [Gun Dude Epic Retro Run & Gun Adventure](../games/adventure/gun-dude-epic-retro-run-gun-adventure.md) — Blast through colorful pixelated chaos in Gun Dude Epic Retro Run & Gun Adventure. Master fast-paced shooting and dodgin
+- [Gun Mayhem 2](../games/adventure/gun-mayhem-2.md) — The sequel to Gun Mayhem is finally here! This time with even more chaos. Defeat your powerful enemies by shooting them 
+- [Hagi Waga attack poppy Playtime Game](../games/adventure/hagi-waga-attack-poppy-playtime-game.md) — Welcome to Hagi Waga Attack! Here you will turn into a bloodthirsty monster who knows no mercy. And the name of this nig
+- [Hagi Wagi and Among Us](../games/adventure/hagi-wagi-and-among-us.md) — Help Hagi Wagi defeat the imposter. Try to collect as many bonuses and coins as possible on the road, for which you can 
+- [Hail Control](../games/adventure/hail-control.md) — Catch the storm before it overwhelms you in this fast-paced color-matching arcade challenge! Colored hail blocks rain do
+- [Halloween Backyard Escape](../games/adventure/halloween-backyard-escape.md) — Halloween Backyard Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Hall
+- [Halloween Boy Rescue](../games/adventure/halloween-boy-rescue.md) — Halloween Boy Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a pla
+- [Halloween Caterpillar Escape](../games/adventure/halloween-caterpillar-escape.md) — Halloween Caterpillar Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been 
+- [Halloween Cemetery Escape](../games/adventure/halloween-cemetery-escape.md) — Halloween Cemetery Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Ceme
+- [Halloween Cemetery Escape 2](../games/adventure/halloween-cemetery-escape-2.md) — Halloween Cemetery Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Ce
+- [Halloween Circle](../games/adventure/halloween-circle-2.md) — Navigate a winding, treacherous path as a fearless circle in Halloween Circle. Leap strategically over challenging twist
+- [Halloween Final Episode](../games/adventure/halloween-final-episode.md) — Halloween Final Episode is a point and click game developed by 8B Games/Games2live. Hi... Iam your John, On my journey i
+- [Halloween Forest Escape](../games/adventure/halloween-forest-escape.md) — Halloween Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest
+- [Halloween Forest Escape 2](../games/adventure/halloween-forest-escape-2.md) — Halloween Forest Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fore
+- [Halloween Forest Escape 3](../games/adventure/halloween-forest-escape-3.md) — Halloween Forest Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fore
+- [Halloween Forest Escape Series Episode 1](../games/adventure/halloween-forest-escape-series-episode-1.md) — Halloween Forest Escape Series Episode 1 is a point and click game developed by 8B Games/Games2mad. Imagine that you had
+- [Halloween Forest Escape Series Episode 2](../games/adventure/halloween-forest-escape-series-episode-2.md) — Halloween Forest Escape Series Episode 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had
+- [Halloween Forest Escape Series Episode 3](../games/adventure/halloween-forest-escape-series-episode-3.md) — Halloween Forest Escape Series Episode 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had
+- [Halloween Forest Escape Series Final Episode](../games/adventure/halloween-forest-escape-series-final-episode.md) — Halloween Forest Escape Series Final Episode is a point and click game developed by 8B Games/Games2mad. Imagine that you
+- [Halloween Funny Pumpkins](../games/adventure/halloween-funny-pumpkins.md) — Halloween Funny Pumpkins is a very addictive game. Hippo and her brother gained lots of candies on Halloween's eve. But 
+- [Halloween Ghouls Adventure](../games/adventure/halloween-ghouls-adventure.md) — Haunt your way through Halloween Ghouls Adventure, where cunning and timing are your only allies against spooky foes. Ju
+- [Halloween Hidden Object](../games/adventure/halloween-hidden-object.md) — Dive into the eerie world of Halloween Hidden Object, where spooky visuals and thrilling puzzles combine to challenge yo
+- [Halloween Horror](../games/adventure/halloween-horror.md) — Horror Halloween is a casual game where you must only eat chocolate, and earn points by eating them. Need to be careful 
+- [Halloween is coming episode 1](../games/adventure/halloween-is-coming-episode-1.md) — Halloween is Coming Episode1 is a point and click game developed by 8B Games/Games2Live. I'm John. I got lost in the Col
+- [Halloween  is Coming Episode 10](../games/adventure/halloween-is-coming-episode-10.md) — Halloween is coming episode 10 is a point and click game developed by 8B Games/Games2Live. I'm John. Now I have trapped 
+- [Halloween is coming episode 2](../games/adventure/halloween-is-coming-episode-2.md) — Halloween is coming episode2 is a point and click game developed by 8B Games/Games2Live. I'm John. Now I have Jammed in 
+- [Halloween is coming episode 3](../games/adventure/halloween-is-coming-episode-3.md) — Halloween is Coming Episode3 is a point and click game developed by 8BGames/Games2Live. I'm John. Again I got a Problem 
+- [halloween is coming episode 5](../games/adventure/halloween-is-coming-episode-5.md) — Halloween is coming episode 5 is a point and click game developed by 8B Games/Games2Live. I'm John. Now I have trapped i
+- [Halloween is Coming Episode 6](../games/adventure/halloween-is-coming-episode-6.md) — Halloween is coming episode 6 is a point and click game developed by 8B Games/Games2Live. I'm John. Now I have trapped i
+- [Halloween is Coming Episode 7](../games/adventure/halloween-is-coming-episode-7.md) — Halloween is coming episode 7 is a point and click game developed by 8B Games/Games2Live. I'm John. Now I have trapped i
+- [Halloween is coming episode 8](../games/adventure/halloween-is-coming-episode-8.md) — Halloween is coming episode 8 is a point and click game developed by 8B Games/Games2Live. I'm John. Again I have trapped
+- [Halloween is coming episode 9](../games/adventure/halloween-is-coming-episode-9.md) — Halloween Is Coming Episode 9 is a point and click game developed by 8B Games/Games2live. I'm John. Now I have stucked i
+- [Halloween Is Coming Episode1](../games/adventure/halloween-is-coming-episode1.md) — Halloween is coming episode1 is a point and click game developed by 8B Games/Games2Mad. Here is a boy, who is trying to 
+- [Halloween Is Coming Episode2](../games/adventure/halloween-is-coming-episode2.md) — Hi, Iam your Peter... I have successfully escaped from my house. Unexpectedly I have stucked in a strange village. And I
+- [Halloween Is Coming Episode3](../games/adventure/halloween-is-coming-episode3.md) — Hi... Iam your peter, Now i have stucked in a strange hamlet, I need your help to get escape from here to go for hallowe
+- [Halloween Is Coming Episode4](../games/adventure/halloween-is-coming-episode4.md) — Hi... Iam your Peter, Again got trapped inside the scarious village, Now I need to escape from here and I need to go to 
+- [Halloween Is Coming Episode5](../games/adventure/halloween-is-coming-episode5.md) — Hi... Iam your Peter, On my journey i got again stucked in the cemetery and i can't find the way to escape here. I need 
+- [Halloween Is Coming Final Episode](../games/adventure/halloween-is-coming-final-episode.md) — Hi... Iam your Peter, Now I'm almost near the halloween but it is locked. i need your help to join the party. Help me to
+- [Halloween Magic Lady Escape](../games/adventure/halloween-magic-lady-escape.md) — Halloween Magic Lady Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been t
+- [Halloween Murder](../games/adventure/halloween-murder.md) — Ready for the scary world of Halloween Murder? Colorful Halloween scenes, accompanied by scary ghosts and jack-o -lanter
+- [HALLOWEEN NIGHT - Memory game.](../games/adventure/halloween-night-memory-game.md) — Halloween Memory Game is a fun and exciting free Halloween themed matching game for kids, toddlers and adults of all age
+- [Halloween Owl Rescue](../games/adventure/halloween-owl-rescue.md) — Halloween Owl Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a pla
+- [Halloween Party Escape](../games/adventure/halloween-party-escape.md) — Halloween Party Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a hallowe
+- [Halloween Party Girl Rescue](../games/adventure/halloween-party-girl-rescue.md) — Halloween Party Girl Rescue is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to hall
+- [Halloween Pumpkin Escape](../games/adventure/halloween-pumpkin-escape.md) — Halloween Pumpkin Escape is a point and click escape game developed by 8BGames. Imagine that a Halloween Pumpkin got tra
+- [Halloween Pumpkin Forest Escape](../games/adventure/halloween-pumpkin-forest-escape.md) — Halloween Pumpkin Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to 
+- [Halloween Scary Cemetery Escape](../games/adventure/halloween-scary-cemetery-escape.md) — Halloween Scary Cemetery Escape Series is a point and click game developed by 8B Games/Games2mad. Imagine that you had b
+- [Halloween Scary Connection](../games/adventure/halloween-scary-connection.md) — Play the newest Halloween Scary Connection game. Connect a minimum of 2 same Halloween theme squares to destroy them. De
+- [Halloween Stickman](../games/adventure/halloween-stickman.md) — Halloween Stickman is an exciting adventure game where you can exact revenge on your tricky friend by rewinding time. Se
+- [Halloween Stickman 2](../games/adventure/halloween-stickman-2.md) — Halloween Stickman 2 offers an exhilarating gaming experience where you navigate a mischievous, spooky environment. Play
+- [Halloween Theatre Escape](../games/adventure/halloween-theatre-escape.md) — Halloween Theatre Escape Series is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to 
+- [Halloween Twin Ghosts Rescue](../games/adventure/halloween-twin-ghosts-rescue.md) — Halloween Twin Ghosts Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been 
+- [Halloween Village Escape](../games/adventure/halloween-village-escape.md) — Halloween Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Hallo
+- [Halloween Village Escape 2](../games/adventure/halloween-village-escape-2.md) — Halloween Village Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Hal
+- [Halloween Witch Mountain Escape](../games/adventure/halloween-witch-mountain-escape.md) — Halloween Witch Mountain Escape Series is a point and click game developed by 8B Games/Games2mad. Imagine that you had b
+- [Halycon Land Escape](../games/adventure/halycon-land-escape.md) — Halycon Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a calm land 
+- [Hammer Master 3D Game](../games/adventure/hammer-master-3d-game.md) — Hammer master is an arcade game. Let us see who is the hammer master! Control the hammer to drive nails. The hammer will
+- [Hamster To confirm](../games/adventure/hamster-to-confirm.md) — This is a small game for leisure and intelligence. The protagonist of the game is a cute little hamster. The main task o
+- [Hana Bot 2](../games/adventure/hana-bot-2-2.md) — Dive into Hana Bot 2, where you become a nimble bot on a mission through perilous sci-fi landscapes. Overcome eight esca
+- [Hana Bot](../games/adventure/hana-bot-3.md) — Embark on a thrilling sci-fi adventure in Hana Bot, a 2D platformer where precision is key. Navigate perilous lab levels
+- [Handless Millionaire 3](../games/adventure/handless-millionaire-3.md) — lick (or tap) your mouse on the hand on the right side of the screen. This is the safe zone for your hand. When you are 
+- [Handless Millionaire Game](../games/adventure/handless-millionaire-game.md) — Hello and welcome to Season 2 of "Who wants to be a (handless) millionaire!" Collect and accumulate buckets full of cash
+- [Handsome Woman Escape](../games/adventure/handsome-woman-escape.md) — Handsome Woman Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a pa
+- [Hang a Wall Clock](../games/adventure/hang-a-wall-clock.md) — Instruction Hang a wall Clock is a point and click game developed by 8B Games/Games2live. Imagine that you want to move 
+- [Hanging Rabbit Escape](../games/adventure/hanging-rabbit-escape.md) — Hanging Rabbit Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a forest
+- [Hanuka](../games/adventure/hanuka-2.md) — Embark on a thrilling 2D platforming adventure as a swift, athletic heroine in Hanuka. Collect elusive red balls while e
+- [Hanuka 2](../games/adventure/hanuka-2-2.md) — Embark on a thrilling quest in Hanuka 2, a fast-paced platformer where agility and precision are vital. Navigate treache
+- [Happy Boy Escape](../games/adventure/happy-boy-escape.md) — Happy Boy Escape is a point and click escape game developed by 8BGames/Game2Live. Imagine that you went to a Boy house .
+- [Happy Devil and UnHappy Angel](../games/adventure/happy-devil-and-unhappy-angel.md) — A demon and an angel are needed to survive in hell! hey you and a friend, how about one of you become a devil and the ot
+- [Happy Devil and UnHappy Angel](../games/adventure/happy-devil-and-unhappy-angel-2.md) — Embark on a pixel-art adventure through Hell as a mischievous devil and a freedom-seeking angel. Navigate treacherous pa
+- [Happy Glass Game](../games/adventure/happy-glass-game.md) — With magic pen and ink, you need to draw lines to bring water to the glass. Saving your ink to win stars. 80 levels/chal
+- [Happy Lamb](../games/adventure/happy-lamb.md) — This game is suitable for men, women, old and young. It is suggested to play with caution. This game is a little irritat
+- [Happy New Year 2022 Escape](../games/adventure/happy-new-year-2022-escape.md) — Happy New Year 2022 Escape is a point and click escape game developed by 8B Games/Games2mad. Imagine that you went to pa
+- [Hard Path](../games/adventure/hard-path.md) — Brace yourself for a wild and unpredictable journey as you help a clumsy hero stumble through complex 2D labyrinths pack
+- [Hard Push Game](../games/adventure/hard-push-game.md) — Hard Push is an action-packed physics-based game where strength, timing, and strategy are the keys to victory. Push mass
+- [Hard Working Man](../games/adventure/hard-working-man-2.md) — Start your adventure with just a field and your willpower. Harvest nature's bounty, trade at the bazaar, and cultivate y
+- [Hare Land Escape](../games/adventure/hare-land-escape.md) — Hare Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped in Hare
+- [Harmony Trail](../games/adventure/harmony-trail.md) — Embark on a mesmerizing musical journey in Harmony Trail, where rhythm and action unite across 32 stunning levels. Sync 
+- [Harry Down](../games/adventure/harry-down.md) — Help Harry dodge the relentless Doom Machine in this thrilling endless escape! Enjoy the nostalgia of 1990s-style graphi
+- [Harry potter golden snitch](../games/adventure/harry-potter-golden-snitch.md) — Harry potter golden snitch is the cool & challenging game.
+- [Harry Potter Hedwig Escape](../games/adventure/harry-potter-hedwig-escape.md) — Harry Potter Hedwig Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Harry and
+- [Hat James Escape](../games/adventure/hat-james-escape.md) — Hat James Escape is a point and click escape game developed by 8BGames. Imagine that you went to a James house to meet h
+- [Hatchling Escape](../games/adventure/hatchling-escape.md) — Hatchling Escape is a point and click escape game developed by 8BGames. Imagine that your friend gave you a hatchling cr
+- [Haunted Brainrot 3D](../games/adventure/haunted-brainrot-3d.md) — Immerse yourself in a nightmarish escape challenge where eerie puzzles and stealthy maneuvers are your only allies. Navi
+- [Haunted Cat Escape](../games/adventure/haunted-cat-escape.md) — Haunted Cat Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you are in a haunted pl
+- [Haunted Sweets](../games/adventure/haunted-sweets.md) — Step into the eerie world of Haunted Pumpkin, a thrilling match-3 puzzle adventure! Navigate through 100 mysterious leve
+- [Hawk of Evil Zombie Invasion](../games/adventure/hawk-of-evil-zombie-invasion.md) — Dive into chaos in "Hawk of Evil Zombie Invasion," an action-packed horror shooter. Navigate a grim city, battling relen
+- [Head ball 2](../games/adventure/head-ball-2.md) — Gold Miner Plus is the newest version of gold miner game. In this game you're a gold digger and your job to dig a lot of
+- [Healthy Hero](../games/adventure/healthy-hero.md) — Healthy Hero is an exciting and educational action game where you play as a brave hero fighting off junk food monsters! 
+- [Heart Match Master](../games/adventure/heart-match-master-2.md) — Immerse yourself in Heart Match Master, where vibrant graphics and romantic charm meet exhilarating match-3 fun. Strateg
+- [Heist Escape](../games/adventure/heist-escape.md) — Heist Escape is a fun game where you control a thief that tries to escape with money. Play Heist Escape now for great fu
+- [Heist of the century](../games/adventure/heist-of-the-century.md) — Dive into "Heist of the Century" as Noob, decoding intricate puzzles and eluding Rainbow friends to reclaim your stolen 
+- [Hekov Bot 2](../games/adventure/hekov-bot-2-2.md) — Navigate intricate mazes as a cutting-edge robot in Hekov Bot 2. Master strategic double jumps and deft maneuvers to out
+- [Helicopters 2](../games/adventure/helicopters-2.md) — Helicopters – this is a great adventure game with very beautiful graphics. The game is ideally suited for mobile devices
+- [Helix Ball Drop](../games/adventure/helix-ball-drop.md) — Tap screen Helix Ball Drop and avoid obstacles. Helix Ball Drop with crazy ball jump and very addictive gameplay. Jump a
+- [Helle Bot 2](../games/adventure/helle-bot-2-2.md) — Embark on a thrilling 2D platforming adventure with Helle Bot 2. Navigate alien terrains, collect shimmering jewels, and
+- [Helle Bot](../games/adventure/helle-bot-3.md) — Embark on an exhilarating cosmic quest in Helle Bot, a thrilling 2D platformer. Navigate eight challenging levels filled
+- [HELLO CAT](../games/adventure/hello-cat.md) — Solving physics-based puzzles and collect cats! Welcome to this brand new cat shelter and start a journey of collecting 
+- [Hello Cats](../games/adventure/hello-cats.md) — Welcome to this brand new cat shelter and start a journey of collecting and merging cats right now! Generous donation wi
+- [Hello Ice scream Neighbor](../games/adventure/hello-ice-scream-neighbor.md) — The ice-cream seller has come to the neighborhood! He has kidnapped your friend and neighbor Charlie and you've witnesse
+- [Hello Kitty Adventures](../games/adventure/hello-kitty-adventures.md) — Hello Kitty's cute game is something out of the Sanrio universe. In Hello Kitty World you can even dress your Sanrio cha
+- [hello neighbor hello neighbor](../games/adventure/hello-neighbor-hello-neighbor.md) — Hello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he
+- [Help Her Escape](../games/adventure/help-her-escape.md) — Each level unveils gripping twists and compelling backstory elements, immersing players in a heart-pounding race against
+- [Help Imposter Escape](../games/adventure/help-imposter-escape.md) — Help Imposter Escape is an adventure escape casual game. The operation is simple and easy to learn, suitable for all pla
+- [Help Me](../games/adventure/help-me.md) — Help Me is a point and click escape game developed by 8B Games/Games2Mad. Imagine a girl got trapped in her Room, She se
+- [Help Tricky Story A Complicated Story](../games/adventure/help-tricky-story-a-complicated-story.md) — Dive into the captivating world of Help Tricky Story, a unique online game that tests your problem-solving abilities thr
+- [HelpTheDuck](../games/adventure/helptheduck.md) — Help the ducklings take a bath. The little duck randomly appears on the platform above. Clicking the screen will bring u
+- [Hen Family Rescue Series 1](../games/adventure/hen-family-rescue-series-1.md) — Hen Family Rescue Series 1 is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; some strangers ha
+- [Hen Family Rescue Series 2](../games/adventure/hen-family-rescue-series-2.md) — Hen Family Rescue Series 2 is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; I have found out 
+- [Hen Family Rescue Series 3](../games/adventure/hen-family-rescue-series-3.md) — Hen Family Rescue Series 3 is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; I have found out 
+- [Hen Family Rescue Series 4](../games/adventure/hen-family-rescue-series-4.md) — Hen Family Rescue Series 4 is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; I have found out 
+- [Hen Family Rescue Series Final](../games/adventure/hen-family-rescue-series-final.md) — Hen Family Rescue Series Final is a point and click game developed by 8B Games/Games2mad. Hi... I'm webby; I have found 
+- [Hen Rescue](../games/adventure/hen-rescue.md) — Hen Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on the
+- [Henny Penny Rescue](../games/adventure/henny-penny-rescue.md) — Henny Penny Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, O
+- [Here](../games/adventure/here.md) — Dive into "Here," an exhilarating arcade game that dares you to strategically navigate a mesmerizing world. Battle fierc
+- [Hero Adventure 2](../games/adventure/hero-adventure-2.md) — Hero Town Adventures Games is an addictive game that runs and jumps or can throw balls to destroy enemies. In this Super
+- [hero in super action adventure](../games/adventure/hero-in-super-action-adventure.md) — More locations never seen in other games. Your adventure will take you to pure elven forests, fiery orc lands ravaged by
+- [Hero Inc](../games/adventure/hero-inc.md) — Step into a thrilling 3D adventure RPG! Control your hero, explore mysterious levels, fight dangerous enemies, and unloc
+- [Hero Rescue 2  Free Puzzle Games](../games/adventure/hero-rescue-2-free-puzzle-games.md) — Help the hero rescue the princess and win the treasure. You will become a rich hero in this latest rescue game. Pull the
+- [Hero Rescue: Gold Glory](../games/adventure/hero-rescue-gold-glory.md) — Pull the right pins and become a legend in Hero Rescue! Guide your hero through deadly traps, locked bars, and clever pu
+- [Hero Rescue: Pull The Pin](../games/adventure/hero-rescue-pull-the-pin.md) — Welcome to Hero Rescue - Pull The Pin puzzle game! Help the hero find the treasures and save the princess right now! You
+- [Hero Rescue Survival Game](../games/adventure/hero-rescue-survival-game.md) — You want to have your own pets and protect them? You want to travel around the world with your pet? Don&rsquo;t wait, pl
+- [Hero Survival](../games/adventure/hero-survival.md) — Heroic Survival is a fun survival RPG game where you have to survive though waves of zombies!
+- [Hero Time](../games/adventure/hero-time.md) — Rejoignez Ben 10 alors qu’il se transforme pour devenir l’une de ses 10 formes extraterrestres afin d’arrêter Bily Billi
+- [Heroes Legend](../games/adventure/heroes-legend.md) — Are you ready to join the biggest adventure with two legendary heroes to save captured princess in the great tower? You 
+- [Heroes Of War](../games/adventure/heroes-of-war.md) — Heroes Of War is within the genre of turn-based strategy. You control a hero who can recruit armies, move around the map
+- [Heroic knight](../games/adventure/heroic-knight.md) — Heroic Knight is an engaging puzzle adventure game where you guide a valiant knight through treacherous terrains to achi
+- [Heros vs Monster](../games/adventure/heros-vs-monster.md) — **Hero vs Monster** is an exciting action puzzle game where you become a brave hero battling dangerous monsters. Push br
+- [Herotor](../games/adventure/herotor-2.md) — Soar through vibrant cityscapes as a dynamic superhero in Herotor. Glide effortlessly above skyscrapers, collect stars, 
+- [Hetto 2](../games/adventure/hetto-2-2.md) — Dive into Hetto 2, a vibrant 2D platformer where precision and agility are your allies. Navigate treacherous landscapes,
+- [Hetto](../games/adventure/hetto-3.md) — Embark on an adrenaline-fueled platforming journey in Hetto, where strategic double jumps and precise timing are your al
+- [Hex Planet Idle](../games/adventure/hex-planet-idle-2.md) — Embark on a hypnotic journey as a stickman adventurer in Hex Planet Idle. Delve into an expansive universe, utilizing wh
+- [Hexa Color Sort](../games/adventure/hexa-color-sort.md) — Hexa Color Sort is a fun and relaxing color sorting puzzle game that challenges your brain with exciting logic-based gam
+- [Hexa Tiles Puzzle Game](../games/adventure/hexa-tiles-puzzle-game.md) — Dive into a smart, satisfying hexagon puzzle that&rsquo;s easy to learn and tricky to master! Drag and place hex-shaped 
+- [Hexgon Gate Escape](../games/adventure/hexgon-gate-escape.md) — Hexagon Gate Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, 
+- [Hidden Horrors](../games/adventure/hidden-horrors.md) — Ready to explore the haunted Halloween world? Play a hidden object game with 30 Halloween levels. Each level has 6 hidde
+- [Hidden Object: Clues and Mysteries](../games/adventure/hidden-object-clues-and-mysteries.md) — Hidden Object: Clues and Mysteries transforms the classic hidden object genre into an engaging adventure. Immerse yourse
+- [Hidden Object Farm Adventure](../games/adventure/hidden-object-farm-adventure.md) — Play a fun hidden object game with 30 farm levels!\\\\\\\\nIn each level, find 6 hidden things before time runs out. If 
+- [Hidden Object: My Hotel](../games/adventure/hidden-object-my-hotel.md) — Hidden Objects: My Hotel – A fun hidden-object game where you help the heroine restore her dream hotel! After buying the
+- [Hidden Object: Street Of Secrets](../games/adventure/hidden-object-street-of-secrets.md) — Hidden Objects: Street of Secrets is an atmospheric hidden object game where you become the lead detective. A mysterious
+- [Hidden Objects: Island](../games/adventure/hidden-objects-island.md) — Step into the world of hidden secrets and surprises, where every location tells a story. From serene beaches and tranqui
+- [Hidden Objects - Power of Love](../games/adventure/hidden-objects-power-of-love.md) — Embark on a captivating quest with Mary in Hidden Objects - Power of Love, where your sharp eye and puzzle prowess are k
+- [Hidden Objects: Superthief](../games/adventure/hidden-objects-superthief-2.md) — Immerse yourself in the secretive world of Hidden Objects: Superthief, where you play as the notorious Mrs. Smith. Explo
+- [Hidden Objects Tropical Slide](../games/adventure/hidden-objects-tropical-slide.md) — Hidden Objects Tropical Slide takes you to the exotic adventure. Find all objects on the screen before the time runs out
+- [Hidden Treasures](../games/adventure/hidden-treasures.md) — Embark on a thrilling jungle adventure in Hidden Treasures, where every misstep becomes a strategic asset. Transform fai
+- [Hide and Luig](../games/adventure/hide-and-luig.md) — A whimsical point-and-click hide-and-seek adventure where your only goal is to find the ever-elusive Luig&mdash;who insi
+- [Hide And Seek Horror Escape](../games/adventure/hide-and-seek-horror-escape.md) — Hide And Seek: Horror Escape is an asymmetric horror escape game. Abandoned schools and haunted hospitals, heres a lot o
+- [Hide and Seek in Block Craft](../games/adventure/hide-and-seek-in-block-craft.md) — Race to build a bridge using scattered blocks while outsmarting opponents who aim to disrupt your progress. Rescue allie
+- [Hide from School](../games/adventure/hide-from-school.md) — 🏫"Hide from School ": A free online game combining popular genres such as: hide and seek, escape and quests. Help a you
+- [Hide Heist](../games/adventure/hide-heist.md) — Hide &amp; Heist is a single-player game where player control two characters &ndash; the smart and the strong. The smart
+- [Hiker Escape](../games/adventure/hiker-escape.md) — Hiker Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Hiker house to get take h
+- [Hills Valley Escape](../games/adventure/hills-valley-escape.md) — Hills Valley Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, 
+- [Hinder Land Escape](../games/adventure/hinder-land-escape.md) — Hinder Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On
+- [Hippo Airport Travel](../games/adventure/hippo-airport-travel.md) — Hippo's father bought the lottery. Let's see what he won. WOW! This is a mysterious trip.
+- [Hippo vs Cow Monster 2](../games/adventure/hippo-vs-cow-monster-2-2.md) — Navigate a whimsical 2D realm in Hippo vs Cow Monster 2! Embark on a fast-paced quest, guiding your hippo to collect wat
+- [Hippo vs Cow Monster](../games/adventure/hippo-vs-cow-monster-3.md) — Outsmart cow monsters and collect watermelons in this vibrant 2D platformer. Navigate treacherous terrains, dodge deadly
+- [Hit & Knockdown](../games/adventure/hit-knockdown.md) — Run to pick up items on your way that will give you points. Jump on the crates to discover the bonuses.
+- [Hoary House Escape](../games/adventure/hoary-house-escape.md) — Hoary House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house on th
+- [Hohoman vs Chu 2](../games/adventure/hohoman-vs-chu-2-2.md) — Embark on a colorful 2D adventure in Hohoman vs Chu 2, dodging foes and gathering red apples in ever-challenging levels.
+- [Hohoman vs Chu](../games/adventure/hohoman-vs-chu-3.md) — Guide a lovable hero through increasingly challenging 2D platform levels in Hohoman vs Chu. Dodge cunning traps, outwit 
+- [Hollow Fly](../games/adventure/hollow-fly.md) — Navigate haunting labyrinths and dodge menacing foes in Hollow Fly. Collect keys to unlock eerie levels, wielding a powe
+- [Hollow Knight Silksong Game](../games/adventure/hollow-knight-silksong-game.md) — Hollow Knight Silksong Game is a new amazing Hollow Knight game,and free online metroidvania adventure game ,in this epi
+- [Home Rush Path Game](../games/adventure/home-rush-path-game.md) — Home Rush Path Game is a fun and exciting puzzle-racing game where players must guide characters along the correct paths
+- [Home Scapes](../games/adventure/home-scapes.md) — The lover who lives with you has been captured by the robbers, you are going to rescue him! Use your wisdom to open laye
+- [Homescapes](../games/adventure/homescapes.md) — Welcome to Homescapes! Help Austin the butler bring warmth and comfort back to his wonderful family's mansion. Come on i
+- [Hook Master Mafia City](../games/adventure/hook-master-mafia-city.md) — Hook Master: Mafia City is a casual puzzle game that combines puzzle solving, escape and collecting elements. In this da
+- [Hoolo](../games/adventure/hoolo-3.md) — Leap into Hoolo's vibrant 2D realm, where the thrill of potato chip hunts collides with perilous obstacles. Navigate tri
+- [Hoona 2](../games/adventure/hoona-2-2.md) — Embark on a thrilling quest in Hoona 2, a vibrant 2D platformer. Master double jumps, dodge crafty enemies, and outwit d
+- [Hoona](../games/adventure/hoona-3.md) — Dive into the thrilling 2D platformer adventure of Hoona, where you'll conquer 8 challenging levels filled with relentle
+- [Hoov vs Doov](../games/adventure/hoov-vs-doov-2.md) — Navigate thrilling 2D platforming as Hoov, dodging red robots and overcoming tricky obstacles. Master your timing with i
+- [Hop Mania](../games/adventure/hop-mania.md) — Start the game by choosing between frog or chicken. The start moving forward by hopping! Dodge cars and hop on logs unti
+- [Hop Masters](../games/adventure/hop-masters.md) — In Hop Masters, you must tap left or right to reach the next platform before it moves, breaks, or even disappears! Along
+- [Hopping Rabbit Escape](../games/adventure/hopping-rabbit-escape.md) — Hopping Rabbit Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a forest
+- [Hoppy Stacky](../games/adventure/hoppy-stacky-2.md) — Hoppy Stacky is a fun and addictive arcade game that challenges your timing, precision, and focus. With simple one-tap c
+- [Hopscotch Survival](../games/adventure/hopscotch-survival.md) — Hopscotch Survival un juego online se puede jugar en teléfonos o tabletas inteligentes. Descúbre el fascinante j Nuevo j
+- [Horik Viking](../games/adventure/horik-viking-2.md) — Embark on a thrilling Nordic journey in Horik Viking! Master the art of timing to conquer 10 vibrant, mythic levels, bat
+- [Horrid Villa Escape](../games/adventure/horrid-villa-escape.md) — Horrid Villa Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a horrid vil
+- [Horror Escape](../games/adventure/horror-escape-2.md) — Navigate an eerie haunted mansion, solving intricate puzzles while evading lurking monsters in this heart-pounding escap
+- [Horror Eyes Escape](../games/adventure/horror-eyes-escape.md) — Step into a chilling world of terror in Horror Eyes Escape, a spine-tingling horror adventure where the past refuses to 
+- [Horror Forest Bear](../games/adventure/horror-forest-bear.md) — Guide a hungry bear through a dark, trap-filled forest, dodging hunters and collecting honey in "Horror Forest Bear." Ma
+- [Horror Granny Escape](../games/adventure/horror-granny-escape.md) — First you need to figure out how to get out of the room. Somewhere there should be a key. Carefully look around, search 
+- [Horror Granny Game](../games/adventure/horror-granny-game.md) — To survive You have to try to get out of his house, but be careful and quiet. Granny hears everything as usual. Grandpa 
+- [Horror Granny Playtime](../games/adventure/horror-granny-playtime.md) — This is a horror online hide-and-seek game. If you like the thrill of hide and seek, this game is for you. As the search
+- [Horror Granny Playtime](../games/adventure/horror-granny-playtime-2.md) — Uncover the thrilling horror of hide-and-seek in Horror Granny Playtime. Track down elusive players before time runs out
+- [Horror Grimace Burn or Die](../games/adventure/horror-grimace-burn-or-die.md) — Prepare for a harrowing ordeal in "Horror Grimace Burn or Die." Navigate a menacing cavern, confronting Grimace in a rel
+- [Horror Halloween](../games/adventure/horror-halloween.md) — Horror Halloween is a game where you need to collect all candy that come. Try to catch as much as you can from cookies a
+- [Horror Hide and Seek Playtime](../games/adventure/horror-hide-and-seek-playtime.md) — Enter a chilling game of hide-and-seek where terror lurks at every corner. Transform into random objects to outwit the r
+- [Horror Nights Story](../games/adventure/horror-nights-story.md) — Horror Nights Story is an action game where you have to escape the terrifying depths of an old mine! Created by Rostisla
+- [Horror Playtime Room Escape](../games/adventure/horror-playtime-room-escape.md) — Challenge your brain to break through the fog of horror. In Horror Playtime - Room Escape you will enter a mysterious st
+- [Horror Playtime Room Escape](../games/adventure/horror-playtime-room-escape-2.md) — Dive into a spine-chilling escape as you unravel sinister mysteries. Solve intricate puzzles and uncover secrets in a ma
+- [Horror School Detective Story](../games/adventure/horror-school-detective-story.md) — Ready to enter a horror school full of scares and mysteries? In Horror School: Detective Story, you&rsquo;ll play the ro
+- [Horror School: Detective Story](../games/adventure/horror-school-detective-story-2.md) — Immerse yourself in a spine-chilling school where mysteries lurk. As a daring detective, unravel each cryptic puzzle wit
+- [Horror Sniper Clown Ghost](../games/adventure/horror-sniper-clown-ghost.md) — Lost in a nightmarish forest, you are Sam, a sniper caught between monstrous creatures and freedom. With only your wits 
+- [Horror Spranky Beats](../games/adventure/horror-spranky-beats.md) — Dive into a spine-chilling world where your musical prowess is your survival tool. Mix eerie sounds and haunting vocals 
+- [Horse Divorce](../games/adventure/horse-divorce.md) — Horse Divorce is a short, surreal puzzle game about horses falling in and out of love. Players control two halves of an 
+- [HORSE ESCAPE](../games/adventure/horse-escape.md) — Horse Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On ther
+- [Horse Rescue](../games/adventure/horse-rescue.md) — Horse Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village there you
+- [Horseback Survival](../games/adventure/horseback-survival.md) — Embark on a journey of survival in Horseback Survival, where you, as Zohan, share an unbreakable connection with your ho
+- [Horseman](../games/adventure/horseman.md) — You want to be a real-life cowboy and ride a horse in a battle with zombies? Zombies came up from their graves and they 
+- [Hospital Doctor Help](../games/adventure/hospital-doctor-help.md) — This time you will become their doctor in your own hospital and cure some unusual animal patients. They are 7 cute anima
+- [Hospital Escape](../games/adventure/hospital-escape.md) — Hospital Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Hospital; ther
+- [Hotel Escape](../games/adventure/hotel-escape.md) — Hotel Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Hotel; there you 
+- [hotel transylvani](../games/adventure/hotel-transylvani.md) — ring your favorite characters from the world of Hotel Transylvania to life with the Hotel Transylvania Augmented Reality
+- [House of Hazards](../games/adventure/house-of-hazards.md) — House of Danger is a fun skill game where you race to complete various tasks in an apartment where your opponents are wa
+- [House of Hazards Online](../games/adventure/house-of-hazards-online.md) — Welcome to House of Hazards a fun multiplayer game where each player completes tasks around the house while avoiding haz
+- [House of Mystery](../games/adventure/house-of-mystery.md) — After entering one of the rooms you have to find all the hidden objects. The names of the items you need to find will ap
+- [House Robber](../games/adventure/house-robber.md) — House Robber is a free online game with the theme of a robber for boys. In the game, you will play a robber, sneak into 
+- [Hug and Kis City](../games/adventure/hug-and-kis-city.md) — In the hug and kis series, collect gold today, watch out for zombies, get the key and reach the door. You need to get to
+- [Hug and Kis Station Escape](../games/adventure/hug-and-kis-station-escape-2.md) — Guide Hug and Kis, two alien pals, in their peaceful escape from a galactic outpost. Solve clever puzzles by collecting 
+- [Huggy Kissy vs Steve Alex](../games/adventure/huggy-kissy-vs-steve-alex.md) — huggy and kissiy chasing steve and alex hey alex and steve run away never stop or they will catch you. if you stop it wi
+- [Huggy Puzzle](../games/adventure/huggy-puzzle.md) — Complete 3 different levels, easy, medium and hard can be played on phone and computer good luck!
+- [Huggy Shortcut Run](../games/adventure/huggy-shortcut-run.md) — Race through exhilarating tracks in Huggy Shortcut Run! Strategically collect boards to build shortcuts, boosting your s
+- [Huggy-Wuggy Castle Escape](../games/adventure/huggy-wuggy-castle-escape.md) — Trapped in a cursed castle, you must outsmart relentless huggy-wuggy guardians. Sneak through shadows to escape, navigat
+- [Huggy Wuggy in Minecraft](../games/adventure/huggy-wuggy-in-minecraft.md) — Huggy Wuggy in Minecraft features blocky graphics and Huggy Wuggy as the main character in minecraft world. Your mission
+- [Huggy Wuggy Pixel Nights](../games/adventure/huggy-wuggy-pixel-nights.md) — Huggy Wuggy Pixel Nights is a 3D horror game where you are lost in dark pixel town and your mission is to find all bunny
+- [Huggy Wuggy Play Time 3D Game](../games/adventure/huggy-wuggy-play-time-3d-game.md) — The game is a street fight between the hero Player Play Time in the Game named huggy wuggy Play Time 3d Game and the ene
+- [Hulk 3D Game](../games/adventure/hulk-3d-game.md) — In this Hulk 3D Game, you will play the role of the main character. You'll fight through a series of levels, facing incr
+- [Humble Forest Escape](../games/adventure/humble-forest-escape.md) — Humble Forest Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village f
+- [Humble Girl Escape](../games/adventure/humble-girl-escape.md) — Humble Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Humble Girl house t
+- [Humble Village Escape](../games/adventure/humble-village-escape.md) — Humble Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village 
+- [Humi Bot 2](../games/adventure/humi-bot-2-2.md) — Guide a tiny robot through eight thrilling levels in a sci-fi world. Jump, dash, and outsmart enemy robots while collect
+- [Humi Bot](../games/adventure/humi-bot-3.md) — Navigate through a captivating sci-fi world in Humi Bot, a thrilling 2D platformer. Overcome challenging levels filled w
+- [Hummingbird House Escape](../games/adventure/hummingbird-house-escape.md) — Hummingbird House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house
+- [Hungry Bear Rescue](../games/adventure/hungry-bear-rescue.md) — Hungry Bear Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, O
+- [Hungry Duck Rescue](../games/adventure/hungry-duck-rescue.md) — Hungry Duck Rescue is a point and click game developed by Games2Live. Imagine that you had been to a Farm; there you a D
+- [Hungry Fish Evolution](../games/adventure/hungry-fish-evolution.md) — Hungry Fish Evolution is a free online game for kids. In the beginning, you are an ordinary fish who needs to eat small 
+- [Hungry King](../games/adventure/hungry-king.md) — Get ready for a captivating challenge in Hungry King as you dash and leap to capture birds while dodging swooping bats. 
+- [Hungry Kitty Adventures](../games/adventure/hungry-kitty-adventures.md) — Prepare for feline frenzy in Hungry Kitty Adventures! Defend your snacking kitty by strategically launching eggs at a ba
+- [Hungry Lion Adventure](../games/adventure/hungry-lion-adventure.md) — Step into the jungle to outwit challenges and feed a ravenous lion in Hungry Lion Adventure. Strategically cut ropes wit
+- [Hunt And Seek](../games/adventure/hunt-and-seek-2.md) — In "Hunt And Seek," dive into a world of suspense and strategy. Morph into a giant to unveil cleverly disguised players 
+- [Hunt Or Hide](../games/adventure/hunt-or-hide.md) — Hunt Or Hide is a very fun online puzzle game for boys for free. In this game, you can choose to be a hunter or a hider.
+- [Hunt Skibidi Toilet](../games/adventure/hunt-skibidi-toilet.md) — Hunt Skibidi Toilet game is a horror game with a character of Skibidi Toilet, and its also an action game. The game will
+- [Hunter Boy Escape](../games/adventure/hunter-boy-escape.md) — Hunter Boy Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you have planned to go o
+- [Hunter House Escape](../games/adventure/hunter-house-escape.md) — Hunter House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been l
+- [Hustle Kid Adventures](../games/adventure/hustle-kid-adventures.md) — Guide the agile Hustle Kid through vibrant, fast-paced levels filled with challenging obstacles and hidden treasures. Te
+- [Hut Village Escape](../games/adventure/hut-village-escape.md) — Hut Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On
+- [Hypnotic Zombie Escape Endless Jump](../games/adventure/hypnotic-zombie-escape-endless-jump.md) — Welcome to Hypnotic Zombie Escape - Endless Jump, a fast-paced arcade platformer where your reflexes and focus are put t
+- [I am Crazy Bird](../games/adventure/i-am-crazy-bird.md) — Become a Bird! Step into the wings of a fearless city bird and unleash pure chaos across an open world. Fly freely, pull
+- [İmpostor Puzzle 1](../games/adventure/i-mpostor-puzzle-1.md) — Complete 3 different levels, easy, medium and hard can be played on phone and computer good luck!
+- [İmpostor Puzzle 2](../games/adventure/i-mpostor-puzzle-2.md) — Complete 3 different levels, easy, medium and hard can be played on phone and computer good luck!
+- [İmpostor Puzzle 3](../games/adventure/i-mpostor-puzzle-3.md) — Complete 3 different levels, easy, medium and hard can be played on phone and computer good luck!
+- [iBullet Master](../games/adventure/ibullet-master.md) — It’s time to save the world! Your mission, if you choose to accept: destroy the terrorist base. Less talk, more bullet! 
+- [Ice Cube Man 2](../games/adventure/ice-cube-man-2-2.md) — Embark on an icy adventure in Ice Cube Man 2, where clever navigation meets exhilarating challenges. Master the art of t
+- [Ice Cube Man](../games/adventure/ice-cube-man-3.md) — Guide the adorable Ice Cube Man through a colorful 2D platformer brimming with hazards. Perform double jumps to dodge fl
+- [Ice Girl Rescue](../games/adventure/ice-girl-rescue-2.md) — Embark on a thrilling quest in Ice Girl Rescue, where cunning strategy and quick reflexes are your allies. Use Fire Boy 
+- [ICE SCREAM FRIENDS](../games/adventure/ice-scream-friends.md) — he ice cream seller has come to the neighborhood! He has kidnapped your friend and neighbor "Bob" and you've seen it all
+- [Ice Scream Horror](../games/adventure/ice-scream-horror.md) — If you want to enjoy an experience of fantasy, horror, and fun, play now "Ice Scream: Horror Neighbor". The action and t
+- [Ice Scream Horror Adventure](../games/adventure/ice-scream-horror-adventure.md) — The ice cream seller has come to the neighborhood! He has kidnapped your friend and neighbor "Bob" and you've seen it al
+- [Ice Scream: Horror Escape](../games/adventure/ice-scream-horror-escape.md) — Ice Scream: Horror Escape is an exciting and scary adventure puzzle game. One day morning, you saw your best friend bein
+- [ICE SCREAM: HORROR NEIGHBORHOOD 2](../games/adventure/ice-scream-horror-neighborhood-2.md) — The ice-cream seller has come to the neighborhood! He has kidnapped your friend and neighbor Charlie and you've witnesse
+- [Iceboy Adventure](../games/adventure/iceboy-adventure.md) — Embark on a frosty platforming adventure with Iceboy! Navigate through icy terrains, defeat sneaky foes with your trusty
+- [Icedland Adventure](../games/adventure/icedland-adventure.md) — Venture through the frosty landscapes of Icedland Adventure, a thrilling platformer where skillful jumps and strategic s
+- [Icedland Adventure 2](../games/adventure/icedland-adventure-2-2.md) — Embark on a mesmerizing Icelandic journey with Icedland Adventure 2. Navigate stunning landscapes, collect hidden treasu
+- [ICESCREAM HORROR NEIGHBORHOOD](../games/adventure/icescream-horror-neighborhood.md) — The ice-cream seller has come to the neighborhood! He has kidnapped your friend and neighbor Charlie and you've witnesse
+- [Icewizard Adventure](../games/adventure/icewizard-adventure.md) — Embark on a thrilling journey in Icewizard Adventure, a captivating platformer where you wield icy magic against fierce 
+- [Icewizard Adventure DX](../games/adventure/icewizard-adventure-dx.md) — Icewizard Adventure is a platformer adventure game, explore 20 levels and destroy evil forces, defeat bosses and get cry
+- [Ichikas Adventure](../games/adventure/ichikas-adventure-3.md) — Join Ichika in this captivating anime-themed 2D platformer, as she gathers necklaces while dodging fierce enemies, spike
+- [Idle Island](../games/adventure/idle-island.md) — Its time for an adventure! Gather resources, build bridges, explore the island and win battles. Set out to rescue your p
+- [Idle Lumber Hero](../games/adventure/idle-lumber-hero.md) — Follow the path of wood and chop down as many as you can! Sell the wood to the market and buy new upgrades to speed up y
+- [Idle Lumber Run](../games/adventure/idle-lumber-run.md) — Welcome to Idle Lumber Run! Here you will ax down trees & convert them into wooden planks to earn those shiny GEMS! Beco
+- [Idle Miners Adventure](../games/adventure/idle-miners-adventure.md) — Take your first wooden pickaxe and start mining resources, open new levels of the mine and mine rarer ones, create more 
+- [Idle Noob Lumberjack](../games/adventure/idle-noob-lumberjack.md) — Embark on a blocky adventure as a determined lumberjack. Collect resources, expand your island, and unlock new areas whi
+- [Idle Power Rangers Kill Zombies](../games/adventure/idle-power-rangers-kill-zombies.md) — Idle Power Rangers Kill Zombies it’s a very cool game, to destroy zombies, and you have a bazooka with super bombs. Save
+- [Idle Store Cleaner](../games/adventure/idle-store-cleaner-2.md) — Dive into the life of a mall cleaner in Idle Store Cleaner. Click your way through messes, earn rewards, and upgrade you
+- [Imposter 3D](../games/adventure/imposter-3d-2.md) — New version of Among Us is now this game! You are an imposter and your mission is sabotage the spaceship by destroying t
+- [Imposter 3D online horror](../games/adventure/imposter-3d-online-horror.md) — Save all the mini-crewmates from the traitor in single player or online.
+- [Imposter Naruto Hero](../games/adventure/imposter-naruto-hero.md) — Red Hero Ninja 4 is old classic bouncing ball plat-former game similar to Rolling Ball Games. The mission is to jump on 
+- [Imposter Solo Kill - Among Us Impostor Game](../games/adventure/imposter-solo-kill-among-us-impostor-game.md) — Among Us is a multiplayer social deduction game developed by the American company InnerSloth. It was released on June 15
+- [Impostor Among Space](../games/adventure/impostor-among-space-2.md) — Navigate a spaceship as the cunning Impostor, eliminating AI crewmates and sabotaging systems in a suspenseful stealth q
+- [Impostor kill  Among Us](../games/adventure/impostor-kill-among-us.md) — Imposter Solo Kill is a fun and engaging puzzle game. Your mission is simple: execute all the living crew members in the
+- [Impostor Knife Up](../games/adventure/impostor-knife-up.md) — You will love this knife throwing game. You earn points when you shoot the Amongus character. Remember, you can earn hig
+- [Impostor Rescue Online](../games/adventure/impostor-rescue-online.md) — You must rescue the impostors and escape from the puzzle ships. Your mission is pull the pin out puzzle game to find the
+- [In Space](../games/adventure/in-space.md) — Brace yourself for action-packed survival as an elite soldier in the cosmic chaos of "In Space." Armed with futuristic w
+- [Incredibox Party Frozen Sprunki Beat](../games/adventure/incredibox-party-frozen-sprunki-beat.md) — Get ready to dive into a unique mix of music, horror, and beats in the Incredibox Party Frozen Sprunki Beat! This game l
+- [Indygirl and the Golden Skull](../games/adventure/indygirl-and-the-golden-skull-2.md) — Guide Indygirl through perilous caves in a thrilling treasure hunt. Evade falling rocks, uncover hidden gems, and beat t
+- [Infant Chimp Escape](../games/adventure/infant-chimp-escape.md) — Infant Chimp Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a plac
+- [INFERNO](../games/adventure/inferno.md) — INFERNO - help a lost soul on the journey through nine circles of Hell. The chainsaws, the demons, the howls… and the da
+- [Infinite Color Wheel](../games/adventure/infinite-color-wheel.md) — Infinite Color Wheel is a simple, fun and addictive single touch game with 5 different colour wheel slices with multiple
+- [Infinity Roll 3D](../games/adventure/infinity-roll-3d.md) — Infinity Rolls 3D is a fast-paced endless rolling adventure that puts your reflexes and focus to the ultimate test! Cont
+- [Ino Valentines 2](../games/adventure/ino-valentines-2-2.md) — Jump into the thrilling 2D world of Ino Valentines 2, where you guide a daring anime boy through treacherous landscapes.
+- [Ino Valentines](../games/adventure/ino-valentines-3.md) — Guide an anime hero through perilous 2D worlds filled with zombies and traps. Master double-jumps and strategic timing t
+- [Inuko 2](../games/adventure/inuko-2-2.md) — Inuko 2 immerses you in an adrenaline-pumping 2D adventure where collecting orange ice cream cones becomes a perilous qu
+- [Irascible Girl Escape](../games/adventure/irascible-girl-escape.md) — Irascible Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Girl house to pl
+- [Irate Boy Escape](../games/adventure/irate-boy-escape.md) — Irate Boy Escape is a point and click escape game developed by 8BGames. Imagine that a Boy invited you to his house to p
+- [Iron Man: Rise of Ultron 2](../games/adventure/iron-man-rise-of-ultron-2.md) — Play Iron Man: Rise of Ultron online free game. Grab the opportunity to enjoy your best character from comics – Iron Man
+- [Iron Snout](../games/adventure/iron-snout.md) — Iron Snout is a online fighting game created by SnoutUp where you play as a pig, and have to fight the wolves. Punch, ki
+- [Ironball](../games/adventure/ironball.md) — Prepare for a thrilling arcade adventure in Ironball, where your timing and precision are key. Maneuver a mighty iron ba
+- [Island Escape](../games/adventure/island-escape.md) — Island Escape is a point and click game developed by Games2Live. Imagine that you had been to an Island; there you got t
+- [Island Escape 2](../games/adventure/island-escape-2.md) — Island Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Island; there
+- [Island Escape 3](../games/adventure/island-escape-3.md) — Island Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Island; there
+- [Island Troll Tribes](../games/adventure/island-troll-tribes.md) — Build your own tropical island in this beautiful world. Now you will have to find a way to live in this free game!
+- [It Can Happen: Visitors](../games/adventure/it-can-happen-visitors.md) — You woke up from a long nap and noticed that your house was full of little green people. Investigate what is happening t
+- [IT LURKS](../games/adventure/it-lurks.md) — You are alone in your house. Something is outside. A strange virus has spread through animals, turning them into terrify
+- [Italian Boy Escape](../games/adventure/italian-boy-escape.md) — Italian Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a boy house as a baby
+- [Italian Brainrot Craving Dalgona](../games/adventure/italian-brainrot-craving-dalgona.md) — Enter a surreal Italian nightmare where precision saves lives. Carve intricate dalgona shapes while eerie watchers scrut
+- [Italian Brainrot Escape](../games/adventure/italian-brainrot-escape.md) — Guide four quirky characters through a chaotic Italian prison escape in Italian Brainrot Escape. Solve mind-bending puzz
+- [Italian Brainrot R.E.P.O Highway Heist](../games/adventure/italian-brainrot-r-e-p-o-highway-heist.md) — Race through sun-soaked highways in a thrilling escape as R.E.P.O, a rogue robot dodging relentless pursuers. Collect ge
+- [Italian Brainrot Survival Arena](../games/adventure/italian-brainrot-survival-arena-2.md) — Enter a fiery showdown where you battle through a treacherous lava cavern. Strategically push your opponent into the bur
+- [Ivy Choco Cake Escape](../games/adventure/ivy-choco-cake-escape.md) — Ivy Choco Cake Escape is a point and click escape game developed by 8BGames. Imagine that you are invited by Ivy for tas
+- [Jackie Chan Adventures](../games/adventure/jackie-chan-adventures.md) — Jackie chan's adventure is an action game. You need to solve the clue to get the magic stones.
+- [Jail Break Escape](../games/adventure/jail-break-escape.md) — Jail Break Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you got trapped in the jail. S
+- [Jail Breaker](../games/adventure/jail-breaker.md) — Prison break is a very dangerous thing, can you help our game protagonist to escape from prison smoothly? In this proces
+- [Jailbreak Prison Run](../games/adventure/jailbreak-prison-run.md) — Embark on a thrilling escape in Jailbreak Prison Run, a 3D stealth adventure that challenges you to outsmart futuristic 
+- [Jake Black Cat 2](../games/adventure/jake-black-cat-2-2.md) — Embark on a daring adventure with Jake Black Cat, navigating through perilous 2D platforming challenges. Collect bowls o
+- [Jake Black Cat](../games/adventure/jake-black-cat-3.md) — Leap into the paws of Jake, the fearless cat, in a vibrant adventure filled with peril and feline foes. Navigate treache
+- [Jam Escape](../games/adventure/jam-escape.md) — Parking Guru is an addictive parkingpuzzle game where you rearrange vehicles to clear a path for the red car to escape t
+- [Jamir](../games/adventure/jamir.md) — Embark on a thrilling first-person shooter adventure in Jamir, where speed and strategy are key. Navigate a surreal sci-
+- [Jay Bird Rescue](../games/adventure/jay-bird-rescue.md) — Jay Bird Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, On t
+- [Jelly Escape](../games/adventure/jelly-escape.md) — This is a very casual game. Players need to operate cute jellies and keep rushing forward on the runway to collect small
+- [Jelly Survival](../games/adventure/jelly-survival.md) — Dive into Jelly Survival's enchanting world where timing is key. Tap your way through vibrant challenges, navigating you
+- [JellyFace34](../games/adventure/jellyface34.md) — Block Puzzle is a jewel style block game. Block puzzle is very simple and addictive. Crush more jewel blocks, Get more s
+- [Jeno the Big Eater 2](../games/adventure/jeno-the-big-eater-2-2.md) — Guide Jeno through a vivid fantasy world in Jeno the Big Eater 2, where you'll dodge goblins, bullets, and spikes in pur
+- [Jet Adventure](../games/adventure/jet-adventure-2.md) — Zoom through breathtaking landscapes in Jet Adventure, mastering your piloting skills and reflexes. Navigate a world of 
+- [Jetman Joyride](../games/adventure/jetman-joyride.md) — Jetman is a freestyle journey through space on your smart phone and wearable device. The journey of Jetman has been desi
+- [Jetpack Adventure Pro](../games/adventure/jetpack-adventure-pro.md) — Jetpack Adventure Pro propels you into an exhilarating escape from a high-security lab. Dodge daunting obstacles, gather
+- [Jetpack Meteorfall](../games/adventure/jetpack-meteorfall.md) — About the game In the midst of a meteor shower, your spacecraft malfunctions, leaving you with no choice but to make a d
+- [JetPack Panda Bao](../games/adventure/jetpack-panda-bao-2.md) — Join Bao, the jetpack-wielding panda, in a thrilling skyward adventure. Master swift maneuvers through enemy-laden skies
+- [Jetspire](../games/adventure/jetspire.md) — Jetspire is a fast-paced arcade game where you guide a jetpack-equipped runner upward through an endless vertical challe
+- [Jewel Blaster](../games/adventure/jewel-blaster.md) — Dive into the sparkling world of Jewel Blaster, a fun and addictive HTML5 puzzle game where strategy meets excitement! Y
+- [Jezaa 2](../games/adventure/jezaa-2-2.md) — Embark on an anime-infused adventure in Jezaa 2, where quick reflexes and sharp strategy define success. Navigate treach
+- [Jezaa](../games/adventure/jezaa-3.md) — Jezaa invites you to an anime-inspired 2D adventure where quick reflexes are crucial. Collect purple cubes while evading
+- [Jhan the Duck](../games/adventure/jhan-the-duck.md) — Meet our friend Jhan in his adventures in the islands of this vast ocean trying to make his way through a lot of challen
+- [Jhunko Bot 2](../games/adventure/jhunko-bot-2-2.md) — Embark on an electrifying journey in Jhunko Bot 2, a Sci-fi 2D platformer where precision and strategy are key. Navigate
+- [Jhunko Bot](../games/adventure/jhunko-bot-3.md) — Navigate the intense universe of Jhunko Bot, a thrilling 2D platformer where precision and strategy are key. Master the 
+- [Jim's World: Adventure Games](../games/adventure/jim-s-world-adventure-games.md) — Jim's World gives you the chance to step back in time to your childhood with the legendary challenge in the adventure ga
+- [Jingle Jetpack](../games/adventure/jingle-jetpack.md) — The most exciting action game is back to help Santa to deliver all gifts. Strap on a bullet-powered jetpack to dodge las
+- [Jinx &amp; Minx Tower Escape](../games/adventure/jinx-amp-minx-tower-escape.md) — Its Halloween, and the skeleton Jinx and Minx bunnies are trapped high in an abandoned tower! Its up to you to guide the
+- [Jinxed Village Escape](../games/adventure/jinxed-village-escape.md) — Jinxed village escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village 
+- [John the Pirate](../games/adventure/john-the-pirate-2.md) — Join John the Pirate in a thrilling adventure across treacherous landscapes filled with monstrous foes. Navigate nine in
+- [Jokester Escape](../games/adventure/jokester-escape.md) — Jokester Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Jokester house to get 
+- [Journey Fox](../games/adventure/journey-fox.md) — Guide the cunning Journey Fox through intricate underground puzzles to reach safety. Solve mind-bending challenges, unlo
+- [Journey Of Carter](../games/adventure/journey-of-carter.md) — Explore the adventure and fun game Journey Of Carter Game story begins with two friends conversation. Carters friend sug
+- [Journey Of Escape](../games/adventure/journey-of-escape.md) — Escape games have always been a popular genre among puzzle enthusiasts and adventure seekers. They challenge players to 
+- [Journey Through Hell](../games/adventure/journey-through-hell.md) — Navigate the fiery depths of damnation as you guide a notorious figure through perilous 3D platforming challenges. Leap 
+- [Joyance Boy Escape](../games/adventure/joyance-boy-escape.md) — Joyance Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Boy house as a baby
+- [Joyance Girl Escape](../games/adventure/joyance-girl-escape.md) — Joyance Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Joyance Girl house
+- [Joyful Ball](../games/adventure/joyful-ball.md) — Break the glass bottles by balancing tricky blocks and the ball. JoyFull Ball has a funny face expression and it is exci
+- [Joyful Ball Bounce Mushroom Magic Adventure](../games/adventure/joyful-ball-bounce-mushroom-magic-adventure.md) — Bounce into a whimsical world in Joyful Ball Bounce Mushroom Magic Adventure! Navigate vibrant landscapes, dodge obstacl
+- [Joyous Boy Escape](../games/adventure/joyous-boy-escape.md) — Joyous Boy Escape is a point and click escape game developed by 8BGames. Imagine that a joyous boy got trapped in this h
+- [Juicer Escape](../games/adventure/juicer-escape.md) — Juicer Escape is a point and click escape game developed by 8BGames. Imagine that you went to your Juicer house to take 
+- [Julias Food Truck](../games/adventure/julias-food-truck.md) — Chef Julia owns a food truck and oh boy! Her business is growing faster than she imagined! New customers discover Julia'
+- [Jump and Collect Gifts](../games/adventure/jump-and-collect-gifts.md) — One-tap easy-to-learn controls, rich visual effects and addictive gameplay mechanics.
+- [Jump Boy Jump](../games/adventure/jump-boy-jump.md) — Jump over obstacles and try to get highest score!
+- [Jump Dude](../games/adventure/jump-dude.md) — Fly high in Jetpack Jump! Reach new places and destinations waiting to be discovered! Explore the world, with nothing bu
+- [Jump Impostor Hurry Up](../games/adventure/jump-impostor-hurry-up.md) — Have fun with this entertaining casual game Jump Impostor Hurry Up is a new game where a little impostor got stuck and n
+- [Jump Into Wow](../games/adventure/jump-into-wow.md) — Help the character get to the highest point in order to catch the villain who has stolen an important thing. Beware of f
+- [Jump Mania](../games/adventure/jump-mania.md) — Funny jump over candy boxes. In this game you can select any character (present in the game) then simply start jumping w
+- [Jump Masters](../games/adventure/jump-masters.md) — Reach for the stars in **Jump Master - Sky High**, an addictive and visually stunning vertical platformer! Guide your ch
+- [Jump Up Game](../games/adventure/jump-up-game.md) — Jump Up is a fun and challenging 2D platformer game where you control a player and move through exciting levels filled w
+- [Jump Will Jump](../games/adventure/jump-will-jump.md) — Jump, dash, use various weapons to maul everything on your way with only one control. A simple game and addictive to pla
+- [Jump with Justin](../games/adventure/jump-with-justin.md) — Embark on an airborne adventure with a uniquely catapulted beaver! Soar high and snag coins, utilizing power-ups like he
+- [Jumpee Land](../games/adventure/jumpee-land.md) — Avoid these traps, reach the finish line and win. Come on!
+- [Jumpero](../games/adventure/jumpero.md) — Jumpero is definitely an enchanting jumping casual game. Have you ever dreamt of getting rid of the gravitational effect
+- [Jumping Cat (Beta)](../games/adventure/jumping-cat-beta.md) — You are a cat and you have to save yourself from the rat: Play with the touch screen, Jump, Double Jump, and Slide. Beat
+- [jungle adventure go](../games/adventure/jungle-adventure-go.md) — Show your best strategic moves to get the highest ranking and as many as possible so you can take the next step. Challen
+- [Jungle Adventures](../games/adventure/jungle-adventures.md) — Let the monkey jump! The more the monkey will jump, the more bananas he will collect. Jungle Adventure is a fun game to 
+- [Jungle Climber](../games/adventure/jungle-climber.md) — Grab the vines and climb as high as you can! In Jungle Climber, you control a small monkey fighting his way relentlessly
+- [Jungle Escape Game](../games/adventure/jungle-escape-game-2.md) — In Jungle Escape Game, glide through perilous landscapes astride your dragon as an undead Viking hero. Battle relentless
+- [JUNGLE MAN ESCAPE](../games/adventure/jungle-man-escape.md) — "Jungle Man Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, O
+- [Jungle Tortoise Escape](../games/adventure/jungle-tortoise-escape.md) — Jungle Tortoise Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a p
+- [Jurassic Kid Plesiosaur Escape](../games/adventure/jurassic-kid-plesiosaur-escape.md) — Jurassic Kid Plesiosaur Escape is a point and click escape game developed by 8BGames. Imagine that you went to Jurassic 
+- [Just Idle](../games/adventure/just-idle.md) — Join millions of other players around the world and start your adventure fighting the hordes of monsters, defeating powe
+- [Just Run!](../games/adventure/just-run.md) — Just Run! challenges your reflexes in an endless dash through perilous paths. Dodge obstacles with intuitive controls as
+- [Kaboom Maze](../games/adventure/kaboom-maze.md) — It is a bomb that must solve the labyrinths, for that it can explode breaking walls, but losing life
+- [Kaboom Maze](../games/adventure/kaboom-maze-2.md) — Kaboom Maze invites you to outsmart intricate labyrinths as a crafty bomb with explosive abilities. Strike a balance bet
+- [Kadeomon 2](../games/adventure/kadeomon-2-2.md) — Dive into the adorable chaos of Kadeomon 2, a delightful 2D platformer. Navigate through 8 dynamic levels, collecting gu
+- [Kaido 2](../games/adventure/kaido-2-2.md) — Guide your agile character through charming 2D landscapes, collecting orange ice cream bars along the way. Dodge clever 
+- [Kaido](../games/adventure/kaido-3.md) — Embark on a delightful adventure in Kaido, where you guide a lovable robot through perilous terrains. Navigate with prec
+- [Kaitochan vs Ghosts 2](../games/adventure/kaitochan-vs-ghosts-2-2.md) — Brace yourself for spooky thrills in Kaitochan vs Ghosts 2! Navigate treacherous levels as you collect glistening orbs w
+- [Kaitochan vs Ghosts](../games/adventure/kaitochan-vs-ghosts-3.md) — Dive into the eerie world of Kaitochan vs Ghosts, a captivating 2D platformer. Navigate Halloween-themed levels, evading
+- [Kaka Adventure](../games/adventure/kaka-adventure.md) — You shouldnt miss the Kaka Adventure game if youre a fan of stunt adventures! Everybody likes extreme sports that are fu
+- [Kaka Bot 2](../games/adventure/kaka-bot-2-2.md) — Navigate through a perilous 2D sci-fi world in Kaka Bot 2! Maneuver skillfully across dynamic landscapes, dodge enemy bo
+- [Kaka Bot](../games/adventure/kaka-bot-3.md) — Navigate Kaka Bot through dynamic 2D courses, collecting wealth while dodging perilous enemies and traps. With intuitive
+- [Kanaksia 2](../games/adventure/kanaksia-2-2.md) — Embark on a thrilling journey in Kanaksia 2, a sequel that challenges your platforming prowess. Navigate through eight p
+- [Kanaksia](../games/adventure/kanaksia-3.md) — Race through Kanaksia's perilous landscapes as a robot hero on a mission to collect all strawberries. Navigate cunning t
+- [kangaroo Sonic Jump Game](../games/adventure/kangaroo-sonic-jump-game.md) — In Kangaroo Sonic jump, soar into the air to reach places begging to be explored! Touch to jump over the mark and take t
+- [Katana Fruits Cutting Fun](../games/adventure/katana-fruits-cutting-fun.md) — Welcome to the dojo, ninja. Your objective: become a master of slicing fruit! What better way to do that than play Fruit
+- [Kazu Bot 2](../games/adventure/kazu-bot-2-2.md) — Leap into the high-tech world of Kazu Bot 2, a thrilling 2D sci-fi platformer where mastering the double jump is essenti
+- [Kazu Bot](../games/adventure/kazu-bot-3.md) — Embark on an exhilarating sci-fi journey with Kazu Bot, where you navigate intricate 2D levels teeming with danger. Mast
+- [Kei Superwoman 2](../games/adventure/kei-superwoman-2-2.md) — Leap into action as a daring superheroine in Kei Superwoman 2, a challenging 2D platformer. Dodge drones, navigate deadl
+- [Kei Superwoman](../games/adventure/kei-superwoman-3.md) — Leap into action as Kei, the fearless heroine in a side-scrolling, burger-collecting adventure. Master the art of double
+- [Key & Shield](../games/adventure/key-shield.md) — Embark on a vibrant adventure with Buddy, a heroic blob armed with a key and shield. Run, jump, and glide through dynami
+- [Keyboard Cowboy](../games/adventure/keyboard-cowboy.md) — Blast through photo challenges with your trusty keyboard gun in Keyboard Cowboy! This fast-paced typing adventure demand
+- [Kicky House Escape](../games/adventure/kicky-house-escape.md) — Kicky House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. You 
+- [kid escape](../games/adventure/kid-escape.md) — Kid Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On there 
+- [Kid House Escape](../games/adventure/kid-house-escape.md) — Kid House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a House; there 
+- [Kid Leo Pizza Escape](../games/adventure/kid-leo-pizza-escape.md) — Kid Leo Pizza Escape is a point and click escape game developed by 8BGames. Imagine that you are went Kid Leo house to t
+- [Kido Adventure](../games/adventure/kido-adventure.md) — Dive into Kido Adventure, where platforming thrills meet strategic challenges. Outwit fierce foes, navigate diverse terr
+- [Kids camping : Camping Adventure Game](../games/adventure/kids-camping-camping-adventure-game.md) — Do you like road trips? Let’s Plan a Family Fun Road Trip on this Winter Vacation. Enjoy the Camping Adventure & Travel 
+- [Kids Dentist](../games/adventure/kids-dentist.md) — Hey Kids Daily dental care is very important for oral hygiene and tooth health with the help of dentist games. Oral dent
+- [Kids House Escape](../games/adventure/kids-house-escape.md) — Kids House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there
+- [Kiki & Luna - Love Adventure](../games/adventure/kiki-luna-love-adventure.md) — Welcome to Kiki & Luna - Love Adventure Try to collect all the stars and let Kiki meet Luna. Explore tons of amazing and
+- [Kiko Adventure](../games/adventure/kiko-adventure-2.md) — Dive into the colorful world of Kiko Adventure, a lively platformer where thrilling missions await. Leap over foes, pick
+- [Kill The Monster](../games/adventure/kill-the-monster.md) — 1, the gameplay is also very decompression, you can make more food here; 2. There are so many levels in the game that yo
+- [Killer Escape Huggy](../games/adventure/killer-escape-huggy-2.md) — Unleash your inner predator in Killer Escape Huggy, a suspenseful test of stealth and strategy. Disguise yourself among 
+- [Killer Escape Huggy Extreme](../games/adventure/killer-escape-huggy-extreme-2.md) — In Killer Escape Huggy Extreme, enter a tension-filled world as Huggy. Navigate intricate mazes, blend into shadows, and
+- [Kim Jong Un Backrooms](../games/adventure/kim-jong-un-backrooms.md) — Kim Jong Un Backrooms is a suspense-filled horror adventure where you must escape an endless maze of eerie yellow hallwa
+- [King of pirate](../games/adventure/king-of-pirate.md) — Try yourself as a brave pirate, able to repel the attack of enemy zombies! 🧟 Show dexterity and attentiveness!
+- [Kinja Run on the Wall](../games/adventure/kinja-run-on-the-wall-2.md) — Guide the fearless Kinja King through a harrowing path teeming with ghostly foes in Kinja Run on the Wall. Merge quick r
+- [Kissy & Wuggy!](../games/adventure/kissy-wuggy.md) — Embark on a whimsical journey with Kissy and Wuggy, two charming adventurers in a vibrant anime world. Navigate tricky l
+- [Kitsune Zenko Adventure Game](../games/adventure/kitsune-zenko-adventure-game.md) — The little fox started his new adventure! He needs to collect diamonds, coins, and cherries and be careful to avoid all 
+- [Kitten Never Dies](../games/adventure/kitten-never-dies.md) — Join an interdimensional adventure to help a lost kitten find its way home! Solve unique challenges in each dimension. C
+- [Kitty Escape](../games/adventure/kitty-escape.md) — Kitty Escape is a point and click escape game developed by 8BGames. Imagine that your friend bought a little Kitty as a 
+- [Kitty Griddion Gauntlet](../games/adventure/kitty-griddion-gauntlet.md) — Play as a kitty stuck in between a game of doggy griddion gauntlet. Move the cat by clicking and moving the mouse. Try t
+- [Kitty House Escape](../games/adventure/kitty-house-escape.md) — Kitty House Escape is a point and click escape game developed by 8BGames. Imagine you came to stay in a kitty house. But
+- [Kitty Jumper Adventures](../games/adventure/kitty-jumper-adventures.md) — Join an adorable feline on a whimsical adventure in Kitty Jumper Adventures. Master the art of timing in this exciting p
+- [Kitty Run](../games/adventure/kitty-run.md) — Kitty Run is an html5 endless run game, run and avoid obstacles from monster ambushes jump and overlap to kill the enemy
+- [Kiwi Adventure Game](../games/adventure/kiwi-adventure-game.md) — Join the exciting journey in Kiwi Adventure Game, a fun-filled adventure where you guide a cute kiwi character through c
+- [klifur](../games/adventure/klifur.md) — A squishy physics puzzle game. Click and drag your hands and feet to reach the target hold. Reach the top in 12 levels a
+- [Knife Dash](../games/adventure/knife-dash.md) — Idle Knife: Slash The Fruits is a new hyper casual idle game with unique design! You can throw knives to the fruits, piz
+- [Knife Hit Challenge](../games/adventure/knife-hit-challenge.md) — Throw the blades, collect the diamonds, and then go up the level ladder. Remember that you only have a limited number of
+- [Knife Strike](../games/adventure/knife-strike.md) — Knife Strike is fun addictive hypercasual skill game.This is fun knife strike challenge game. Hit all the knife in the l
+- [Knife Up](../games/adventure/knife-up.md) — Let’s get on to the journey of adventurous wood plank breaking in knife ninja hit master. Hit the rotating fruit board w
+- [Knight Adventure](../games/adventure/knight-adventure-3.md) — Embark on a medieval quest in Knight Adventure, where fast reflexes and strategic thinking are your greatest allies. Man
+- [Knight for Love](../games/adventure/knight-for-love.md) — Knight must rescue his lover, the princess. Now you control the knight to hit the castle and collect gold medals to upgr
+- [Knights Dragons Godlands Heroes－War Strategy](../games/adventure/knights-dragons-godlands-heroes-war-strategy.md) — Do you have what it takes to be the Champion? Choose your weapon and take to the field in Knights Dragons Godlands Heroe
+- [Koby Jump Escape](../games/adventure/koby-jump-escape.md) — Koby Jump Escape is a great HTML5 platform game. Help Koby to escape from prison. On every level you need to pickup the 
+- [Kofi Adventure](../games/adventure/kofi-adventure.md) — Help Kofi on his dangerous adventure to save the princess of the dreamland
+- [Kong Hero Super Kong Jump 2020](../games/adventure/kong-hero-super-kong-jump-2020.md) — In Super Kong Jump - Monkey Bros & Banana Forest Tale you PLAY as Mono who has to overcome obstacles and defeat enemies 
+- [Kuma Bear 2](../games/adventure/kuma-bear-2-2.md) — Dive into the exciting world of Kuma Bear 2, a charming 2D platformer where you play as a chocolate-loving bear. Tackle 
+- [Kuma Bear](../games/adventure/kuma-bear-3.md) — Embark on a delightful 2D platforming journey as a playful bear in Kuma Bear. Navigate through eight progressively chall
+- [La Banconota](../games/adventure/la-banconota.md) — Embark on a whimsical journey with La Banconota, navigating the vibrant pixel world as a simple banknote. Make strategic
+- [La Casa de Tung Tung Sahur](../games/adventure/la-casa-de-tung-tung-sahur.md) — The Tung Tung Sahur Brothers are trying to rob a bank and need your help! Help them collect all the money in the bank. T
+- [Lab Escape](../games/adventure/lab-escape.md) — Dash through a chaotic lab, dodging obstacles in this thrilling endless runner. Test your reflexes, jump and twist to av
+- [LabBuster](../games/adventure/labbuster.md) — Chaos has erupted inside the laboratory! In LabBuster, dangerous creatures are breaking free, and only your combat skill
+- [Labor Day Escape](../games/adventure/labor-day-escape.md) — AmgelEscape - Amgel Labor Day Escape is another point and click escape game developed by Amgel Escape. In this game, you
+- [Labubu World Game](../games/adventure/labubu-world-game.md) — Labubu World is a fun and quirky adventure game that brings the mischievous character Labubu to life in a colorful, whim
+- [Lady Gold Miner](../games/adventure/lady-gold-miner.md) — Lady Gold Miner is a sweet game version of classic gold miner game. In this game your will help our Cute Lady to collect
+- [Lake View  Escape](../games/adventure/lake-view-escape.md) — Lake View Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Lamb Escape](../games/adventure/lamb-escape.md) — Lamb Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on th
+- [Land Terrain Escape](../games/adventure/land-terrain-escape.md) — Land Terrain Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Land, On 
+- [Lasers and Slime](../games/adventure/lasers-and-slime.md) — Survive and resist lasers and slimes, a frantic game where you test your reflexes! Every moment, every second the diffic
+- [Last Day On Earth Survival](../games/adventure/last-day-on-earth-survival-2.md) — Survive a post-apocalyptic city in Last Day On Earth: Survival, where gathering resources and crafting weapons are key t
+- [LAST NIGHT!](../games/adventure/last-night.md) — A Story Line Game about a YOUTUBER struggling to get GOLD PLAY BUTTON but there are something strange happens to his PC 
+- [Lava Cre](../games/adventure/lava-cre.md) — Move through the platforms until you reach the helicopter, while being assisted by a character, but dont think hell help
+- [Lava Escape](../games/adventure/lava-escape.md) — Lava Escape is a very fun and never-ending game. The objective of the game is to get as far as you can through a maze of
+- [Lavender Land Escape](../games/adventure/lavender-land-escape.md) — Lavender Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Lavender
+- [Lazy GTO 6](../games/adventure/lazy-gto-6.md) — Step into the chaotic, laid-back streets of Lazy GTO 6 &mdash; an open-world sandbox adventure where you can walk, drive
+- [Lazy GTO 6](../games/adventure/lazy-gto-6-2.md) — Dive into Lazy GTO 6's bustling cityscape where chaos reigns and freedom knows no bounds. Explore on foot, in sleek cars
+- [Lazy Snake Rescue](../games/adventure/lazy-snake-rescue.md) — Lazy Snake Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village ther
+- [Lea land Escape](../games/adventure/lea-land-escape.md) — Lea Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On t
+- [Leafino](../games/adventure/leafino-2.md) — Embark on a lively adventure in Leafino, where you become a daring leaf navigating vibrant 2D landscapes. Master the art
+- [Leap and Jump 2](../games/adventure/leap-and-jump-2.md) — Leap into action in Leap and Jump 2, where every level challenges your precision and strategy. Skillfully guide your nim
+- [Leap Legends](../games/adventure/leap-legends.md) — Embark on a thrilling jungle adventure with Leap Legends! In this action-packed game, you play as an agile monkey, leapi
+- [Leap Legends](../games/adventure/leap-legends-2.md) — Embark on a vibrant jungle journey as an agile monkey in Leap Legends. Dodge obstacles, master jump timing, and collect 
+- [Learning Farm Animals](../games/adventure/learning-farm-animals.md) — You can learn what farm animals, how to spell their name in English, interact with them, Play game with them such as puz
+- [Leftovers](../games/adventure/leftovers.md) — Your mum is cooking dinner. Saddened by the amount of leftover and not wanting it to go to waste, she tasked you the job
+- [LEG  Stretch  digital circus 3](../games/adventure/leg-stretch-digital-circus-3.md) — LEG STRETCH CHALLENGE! The Amazing Digital Circus Stretch the goofy character to solve different puzzles in this funny o
+- [Legendary Knight: In Search of Treasures](../games/adventure/legendary-knight-in-search-of-treasures.md) — A legendary knight seeks a lost ancient treasure, split into 4 map pieces hidden across perilous dungeons. He must battl
+- [LEGO Toy Princess Escape](../games/adventure/lego-toy-princess-escape.md) — LEGO Toy Princess Escape is a point and click escape game developed by 8BGames. Imagine that you went to see collection 
+- [Les Adventures Blin](../games/adventure/les-adventures-blin.md) — Try to help the animals and aliens in the forest. Find 40 diamonds and escape! Have fun!
+- [Let me out EP 01](../games/adventure/let-me-out-ep-01.md) — Look around and grab objects that can help you unlock other puzzles. Search for clues and solve each puzzle one by one. 
+- [Letter Ball](../games/adventure/letter-ball.md) — The addictive adventure game Letter Ball is about fun simple control, mind-blowing puzzles, and a fun brain workout! You
+- [Life and death ninja](../games/adventure/life-and-death-ninja.md) — Mouse control lets the ninja climb up, avoid the traps and see how many points you can get
+- [Lifeboat Escape](../games/adventure/lifeboat-escape.md) — Lifeboat Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to village; there y
+- [Lifebuoy Planing](../games/adventure/lifebuoy-planing.md) — Lifebuoy Planing is an arcade-style action game where you become a flying lifebuoy. You slide through fast, twisting sli
+- [LifeCode](../games/adventure/lifecode.md) — GAME STORY
+- [lift dogs](../games/adventure/lift-dogs.md) — Drop the elevator down and try to reach the Finish line. Easy to play Hard to master. Easy control to play: – Press to B
+- [LiftBreak](../games/adventure/liftbreak.md) — Seize the opportunity to control the elevator to stop falling, avoid hitting obstacles, and reach the bottom to clear th
+- [Light It Up - ninja Jump Up](../games/adventure/light-it-up-ninja-jump-up.md) — Light it Up Game is beautifully designed and made with love! Swing, jump, flip and slide your stickman body from one neo
+- [Light Speed Hero Rescue Mission](../games/adventure/light-speed-hero-rescue-mission.md) — Looking for some superheroes games then try this Super Flash Speed Hero Game "Super Flash Speed Star:Amazing Flying Spee
+- [Ligneous House Escape](../games/adventure/ligneous-house-escape.md) — Ligneous House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Lilac Home Escape](../games/adventure/lilac-home-escape.md) — Lilac Home Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a House, On t
+- [Lilac House Escape](../games/adventure/lilac-house-escape.md) — Lilac House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been lo
+- [Lilac Land Escape](../games/adventure/lilac-land-escape.md) — Lilac Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Lilliput adventure](../games/adventure/lilliput-adventure.md) — Lilliputian is a hyper-casual placement strategy management mini-game that shows the survival, adventure and exploration
+- [Lily’s Flower Garden - Garden Cleaning Games](../games/adventure/lily-s-flower-garden-garden-cleaning-games.md) — Are you ready for one of the most attractive type of farm games “Lily’s Flower Garden - Garden Decoration Games” flower 
+- [Limit drift](../games/adventure/limit-drift.md) — This is a very interesting small car drift game. The mini car style looks very cute. All kinds of top drift technologies
+- [Line & Circle](../games/adventure/line-circle.md) — Line & Circle is a most interesting game. The graphics of the game have revealed the natural beauty. So you can feel nat
+- [Lion Escape](../games/adventure/lion-escape.md) — Lion Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on th
+- [Lion King Escape](../games/adventure/lion-king-escape.md) — Lion King Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [Little Bossbaby Escape](../games/adventure/little-bossbaby-escape.md) — Little Bossbaby Escape is a point and click escape game developed by 8BGames. Imagine that you went to a house to play w
+- [Little Chick Rescue](../games/adventure/little-chick-rescue.md) — Little Chick Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, 
+- [Little Dino Adventure Returns 2](../games/adventure/little-dino-adventure-returns-2-2.md) — Guide an adorable dinosaur through vibrant terrains in Little Dino Adventure Returns 2. Master 2D side-scrolling mechani
+- [Little Dino Returns 2023](../games/adventure/little-dino-returns-2023.md) — Join Little Dino in an exciting adventure as he returns in the all-new game, Little Dino Adventure Returns 2023! This de
+- [Little Garden Escape](../games/adventure/little-garden-escape.md) — Little Garden Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a garden, t
+- [Little Hamlet Escape](../games/adventure/little-hamlet-escape.md) — Liittle hamlet escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to an hamlet 
+- [Little House Escape](../games/adventure/little-house-escape.md) — Little House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, 
+- [Little Jumbo Escape](../games/adventure/little-jumbo-escape.md) — Little Jumbo Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a plac
+- [Little Kurama Sliding Image Adventure](../games/adventure/little-kurama-sliding-image-adventure.md) — Dive into the charming world of Little Kurama, where your task is to strategically slide tiles and reconstruct vivid ani
+- [Little Mermaid Arial Escape](../games/adventure/little-mermaid-arial-escape.md) — Little Mermaid Arial Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Little M
+- [Little Monster Escape](../games/adventure/little-monster-escape.md) — Little Monster Escape is a point and click escape game developed by 8BGames. Imagine that you found a little monster in 
+- [Little Pinocchio Escape](../games/adventure/little-pinocchio-escape.md) — Little Pinocchio Escape is a point and click escape game developed by 8BGames. Imagine that you went to Pinocchio home t
+- [Little Princess Escape](../games/adventure/little-princess-escape.md) — Little Princess Escape is a point and click escape game developed by 8BGames. Imagine that you went to the girl house ta
+- [Little Princess Magical Tale - Girl Game](../games/adventure/little-princess-magical-tale-girl-game.md) — Looking for princess games for girls? Let's play kids' games for girls 5 to 7 years old and older! Become a part of a fa
+- [Little Yellow Tank Adventure](../games/adventure/little-yellow-tank-adventure-2.md) — Join Little Yellow Tank Adventure for thrilling challenges in a charming, pixelated world. Seamlessly blend racing, stra
+- [Live Aqua Hero Adventure](../games/adventure/live-aqua-hero-adventure.md) — It’s not an escape plan in which you will be escaped once and free it’s all about the real aqua hero who fights against 
+- [Living House Escape](../games/adventure/living-house-escape.md) — Living House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a house, On
+- [Lizaman](../games/adventure/lizaman.md) — Dive into Lizaman, a thrilling 2D platformer where your agility is key. Collect elusive red bugs while dodging deadly tr
+- [Lizaman 2](../games/adventure/lizaman-2.md) — Embark on a thrilling 2D platformer adventure in Lizaman 2. Maneuver your robotic hero through perilous obstacles and fr
+- [Lobster Jump Adventure](../games/adventure/lobster-jump-adventure.md) — Lobster Jump Adventure is fun jumping game suitable for all ages. The aim of the game is simple, just stay on the screen
+- [Lock Master](../games/adventure/lock-master.md) — Lock Master is an exciting adventure game where players try to solve challenging puzzles to unlock locks in a mysterious
+- [Locked in Grandma's Basement](../games/adventure/locked-in-grandma-s-basement.md) — Trapped in a pixelated nightmare, you must unravel the mysteries lurking in Grandma's eerie basement. Immerse yourself i
+- [Locked in Grandma's Basement 2](../games/adventure/locked-in-grandma-s-basement-2.md) — Grandma's malevolent grip returns with chilling intensity. Navigate a labyrinth of shadowy rooms, unearth sinister secre
+- [Locked in Grandma’s Basement 2: Revenge - Horror Escape](../games/adventure/locked-in-grandma-s-basement-2-revenge-horror-escape.md) — Locked in Grandma’s Basement 2: Revenge – Horror Escape is the chilling sequel to the cult classic point-and-click horro
+- [Lode Retro Adventure](../games/adventure/lode-retro-adventure.md) — Relive the classic fun of Lode Retro Adventure, a 2D pixel game that will make you dig for gold. You will play as a gold
+- [Lofty House Escape](../games/adventure/lofty-house-escape.md) — Lofty House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, ther
+- [Log House Escape](../games/adventure/log-house-escape.md) — Log House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been lock
+- [Logical Ball Escape](../games/adventure/logical-ball-escape.md) — Amazing logical mind game with ball and box You have to help that ball to reach the door. Physics based logical thought 
+- [Lollipop Escape Mania](../games/adventure/lollipop-escape-mania.md) — Lollipop Escape Mania is a delightful platformer adventure where sugary clouds are filled with delicious candies waiting
+- [Lone Wolf Strike](../games/adventure/lone-wolf-strike-2.md) — Step into a soldier's boots in Lone Wolf Strike, a thrilling third-person shooter where your skills and survival instinc
+- [Lonely Forest Escape](../games/adventure/lonely-forest-escape.md) — Lonely Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, t
+- [Lonely Forest Escape 2](../games/adventure/lonely-forest-escape-2.md) — Lonely Forest Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest,
+- [Lonely Forest Escape 3](../games/adventure/lonely-forest-escape-3.md) — Lonely Forest Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest,
+- [Lonely Forest Escape 4](../games/adventure/lonely-forest-escape-4.md) — Lonely Forest Escape 4 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest,
+- [Lonely Forest Escape 5](../games/adventure/lonely-forest-escape-5.md) — Lonely Forest Escape 5 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest,
+- [Long Haired Girl](../games/adventure/long-haired-girl.md) — 1. The picture in the game is also very simple, which brings you a very comfortable game environment; 2. In the level, y
+- [Long Hand Escape](../games/adventure/long-hand-escape.md) — Long Hand Escape is a fun puzzle game. Use your brain and your long, flexible hands to steal treasures. Solve riddles in
+- [Long Road Trip](../games/adventure/long-road-trip-2.md) — Embark on an exhilarating journey in Long Road Trip, where strategic planning and timing drive your adventure. Navigate 
+- [Loopvival](../games/adventure/loopvival.md) — Loopvival is an atmospheric survival game with elements of roguelite, built around the mechanics of cycles. You find you
+- [Loot Island - Treasure Digger](../games/adventure/loot-island-treasure-digger.md) — Embark on an exciting treasure hunt! Immerse yourself in fascinating landscapes, look for crosses, and dig up precious i
+- [Lorin Adventure](../games/adventure/lorin-adventure.md) — Lorin Adventure is a thrilling action RPG centered around endless combos and engaging hero stories. Players embark on an
+- [Lost Adventure New](../games/adventure/lost-adventure-new.md) — Survivors of a mid-air crash find themselves in a mysterious land. The pilot, amidst crafting, mining, and solving puzzl
+- [Lost Glider](../games/adventure/lost-glider.md) — Player collect coins and clear levels also player need to dodge enemy attacks . Use resources and open door and pass nex
+- [Lost In Forest Escape](../games/adventure/lost-in-forest-escape.md) — Lost In Forest Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest, 
+- [Lost Kitty Go Home](../games/adventure/lost-kitty-go-home.md) — Move box to save little cat and help her to find way home. Good luck!
+- [Lost Pyramid](../games/adventure/lost-pyramid.md) — Two friends has embarked on an adventure to find the hidden treasure in the pyramids To reach the treasure they must avo
+- [LostCrypt](../games/adventure/lostcrypt.md) — Embark on a haunting adventure in LostCrypt, exploring eerie crypts and gothic forests. Solve intricate puzzles, engage 
+- [Love Bird Rescue](../games/adventure/love-bird-rescue.md) — Love Bird Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [Love Shopping Run](../games/adventure/love-shopping-run.md) — Come and join Love Shopping Run for a crazy shopping parkour adventure. You&rsquo;ll dash through bustling streets and e
+- [Lovely Couple Escape](../games/adventure/lovely-couple-escape.md) — Lovely Couple Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Lovely Couple hou
+- [Lovely House Escape](../games/adventure/lovely-house-escape.md) — Imagine that you had been to a house on there you had trapped. Here are the interesting puzzles and hidden objects to fi
+- [Lovely Land Escape](../games/adventure/lovely-land-escape.md) — Lovely Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place for r
+- [Lovely Tiny Boy Escape](../games/adventure/lovely-tiny-boy-escape.md) — Lovely Tiny Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Lovely Tiny Boy
+- [Low's Adventures](../games/adventure/low-s-adventures.md) — Embark on a pixelated journey with Low in a captivating retro-inspired world. Navigate challenging levels, solve intrica
+- [Low's Adventures 2](../games/adventure/low-s-adventures-2.md) — Embark on Low's epic journey, mastering skillful attacks and quick reflexes across pixel-perfect landscapes. Navigate ch
+- [Lucid House Escape](../games/adventure/lucid-house-escape.md) — Lucid House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, ther
+- [Lucky Looter](../games/adventure/lucky-looter.md) — Lucky Looter is a cool 3D stealth game. This kind of game is a little bit difficult. You need to be careful to avoid tho
+- [Lucky Looter 2](../games/adventure/lucky-looter-2.md) — Lucky Looter is a new addictive 3D game, featuring colorfull environments and hours of gameplay! Be quick and sneaky and
+- [lucky looter Game](../games/adventure/lucky-looter-game.md) — lucky looter is a fun game you can play in your web browser for free on Superkidgames.com. Colorfull environments and ho
+- [Ludo Memory](../games/adventure/ludo-memory.md) — Ludo Memory : Puzzle is a brand-new match game. relaxing and easy to play. You just need to place the dices onto the puz
+- [Lumber Run](../games/adventure/lumber-run.md) — Welcome to Lumber Run! Chop the trees, cut the wood and run cross the river now! Axe down trees and convert them into wo
+- [Luna And The Magic Maze](../games/adventure/luna-and-the-magic-maze.md) — Join Luna in her enchanting quest through a mystical autumn forest in "Luna And The Magic Maze." Solve mazes, collect ma
+- [Luna Kitty House  Escape](../games/adventure/luna-kitty-house-escape.md) — Luna Kitty House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a house
+- [Lurid House Escape](../games/adventure/lurid-house-escape.md) — Lurid House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Lush Land Escape](../games/adventure/lush-land-escape.md) — Lush Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Macagi Adventures](../games/adventure/macagi-adventures.md) — Embark on Macagi Adventures, where arcade thrills await! Guide Mr. Macagi through intricately designed terrains, collect
+- [Macaw Couple Escape](../games/adventure/macaw-couple-escape.md) — Macaw Couple Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; ther
+- [Macaw Escape](../games/adventure/macaw-escape.md) — Macaw Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Village, On ther
+- [Mad Fish](../games/adventure/mad-fish-3.md) — Dive into Mad Fish, an exhilarating arcade quest where survival hinges on strategy and reflexes. Navigate through a dyna
+- [Mad GunZ Online Game](../games/adventure/mad-gunz-online-game.md) — Get ready for the battle royale of the century in the action-packed pixel first-person shooter Mad GunZ! Grab your gun a
+- [Mad Scien](../games/adventure/mad-scien.md) — Scientists at the Institute for atomic weapons research were experimenting with new sources of nuclear energy and came u
+- [Madagascar King Julien XIII Escape](../games/adventure/madagascar-king-julien-xiii-escape.md) — Madagascar King Julien XIII Escape is a point and click escape game developed by 8BGames. Imagine that you went to see M
+- [Madness Accelerant](../games/adventure/madness-accelerant.md) — Madness Accelerant is a fast-paced action game to beat the enemies and escape the beast monster. This game is a playable
+- [Madness: Ward number 6](../games/adventure/madness-ward-number-6.md) — In this game you are a patient of a psychiatric hospital.
+- [Mage Adventure: Mighty Raid](../games/adventure/mage-adventure-mighty-raid.md) — The game is simple but addictive: just aim and throw projectiles at enemies to clear wave after wave. As you progress, y
+- [Mage Adventure - Mighty Raid](../games/adventure/mage-adventure-mighty-raid-3.md) — Unleash your magic in Mage Adventure: Mighty Raid, a thrilling fusion of strategy and survival. Defend against relentles
+- [Mage Key](../games/adventure/mage-key.md) — Dive into Mage Key and explore 20 exhilarating levels filled with intriguing puzzles and hidden treasures. Strategically
+- [Magic Academy: Potion Making Games](../games/adventure/magic-academy-potion-making-games.md) — Welcome to our school of magic, witchcraft and wizardry! Set up your own magic shop and make potions all day long until 
+- [Magic Adventure School](../games/adventure/magic-adventure-school.md) — Welcome to our school of magic, witchcraft and wizardry! Set up your own magic shop and make potions all day long until 
+- [Magic Castle Invasion: Idle RPG](../games/adventure/magic-castle-invasion-idle-rpg.md) — In this exciting fantasy RPG, you play as a mighty wizard tasked with defending your magic castle from terrifying monste
+- [Magic Circle](../games/adventure/magic-circle.md) — Magic Circle is an online game where you try to set a new high score by jumping on a line with a circle. Try your hand a
+- [Magic Finger Puzzle 3d](../games/adventure/magic-finger-puzzle-3d.md) — Magic Finger Puzzle 3D is an interesting casual puzzle online game. You have an amazing pair of hands that can fire the 
+- [Magic Fingers](../games/adventure/magic-fingers.md) — Use your magic touch and surroundings to take out your foes! Defeat your enemies by throwing other enemies! Use explosiv
+- [Magic Frozen](../games/adventure/magic-frozen.md) — It is a frozen super powers genre casual game. The player plays a soldier with frozen super ability, going to the enemy 
+- [Magic Land](../games/adventure/magic-land.md) — Magic Land is an endless game where you have to play a role of a wizard where you have to collect pumpkins while avoidin
+- [Magicabin : candy crush match](../games/adventure/magicabin-candy-crush-match.md) — Start playing Magicabin : candy crush match – a legendary puzzle game loved by millions of players around the world. Swi
+- [Magician Escape](../games/adventure/magician-escape.md) — Magician Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a magic la
+- [Magicraft The Story of Escape](../games/adventure/magicraft-the-story-of-escape.md) — Dive into Magicraft The Story of Escape, where pixel art and thrilling gameplay combine. Navigate a mystic castle packed
+- [MagicTower](../games/adventure/magictower.md) — It is said that the queen is a powerful sorceress, and the princess sisters have been captured by the queen. Hero, you m
+- [Mahout Escape](../games/adventure/mahout-escape.md) — Mahout Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Mahout house to get a tr
+- [Mani Mouse 2](../games/adventure/mani-mouse-2-2.md) — Guide an adventurous mouse through challenging 2D landscapes in Mani Mouse 2. With perilous traps, cunning enemy cats, a
+- [Mani Mouse](../games/adventure/mani-mouse-3.md) — Guide a charming mouse through perilous yet delightful 2D worlds in Mani Mouse. Navigate vibrant levels, collecting chee
+- [Marble Spiral](../games/adventure/marble-spiral.md) — Target the same color ball and smash the same color ball. Your goal is to match 3 or more marbles of the same color to d
+- [Maria Adventure](../games/adventure/maria-adventure.md) — Embark on a whimsical, side-scrolling journey as Maria in this vibrant adventure. Navigate charming landscapes to gather
+- [Marine Fish](../games/adventure/marine-fish-2.md) — Dive into Marine Fish, where arcade fun meets underwater strategy! Steer your marine character through vibrant oceanic s
+- [Mario Bros Save Princess](../games/adventure/mario-bros-save-princess.md) — The princess was caught by the monster. The evil monster tied the princess. Come along with Mario and Louis to set off o
+- [Mario Madness](../games/adventure/mario-madness.md) — Mario Madness is a gory top down shooter mario game made for the Weekly Game Jam - Week 50 by two crazy brothers : Noa a
+- [Mario Vs Luigi](../games/adventure/mario-vs-luigi.md) — Luigi is Mario's fraternal twin brother. He is taller, thinner and shows a wider range of emotions than Mario. Luigi was
+- [Maroon Room Escape](../games/adventure/maroon-room-escape.md) — Maroon Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to house. You go
+- [Martins Adventure](../games/adventure/martins-adventure.md) — In the village where Martin lives,the village chief&rsquo;s magic crystal can make the plants glow with vitality. The ev
+- [Marvel Spider Man 2022](../games/adventure/marvel-spider-man-2022.md) — Spider-Man Fight 2021 is an epic open world third person super hero gangster fighting game with everything you want & al
+- [Mary Run](../games/adventure/mary-run.md) — Embark on a mesmerizing adventure in Mary Run, where fast-paced action meets captivating landscapes. Dodge shadows, disc
+- [Mask Girl Escape](../games/adventure/mask-girl-escape.md) — Mask Girl Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there 
+- [Mask Man Adventure](../games/adventure/mask-man-adventure.md) — Embark on a thrilling journey in Mask Man Adventure, where you choose between two dynamic characters. Navigate engaging 
+- [Mason Escape](../games/adventure/mason-escape.md) — Mason Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Mason house to take him t
+- [Master Plumber](../games/adventure/master-plumber.md) — Interesting water pipe games, connect each water pipe, so that the water pipe can be successful, can use the tips in the
+- [Master Thief](../games/adventure/master-thief.md) — Now you are a master thief and you will steal some expensive pictures. First walk slowly to get close to the picture, th
+- [Math Game Kids HD](../games/adventure/math-game-kids-hd.md) — This math game is easy to play. You have to solve as many question as you can within 45 seconds. Includes the option to 
+- [MathPup Math Adventure](../games/adventure/mathpup-math-adventure.md) — Get MathPup to the exit in each level. Have MathPup fetch numbers in the correct order to fill in the blanks in the prob
+- [MathPup Math Adventure](../games/adventure/mathpup-math-adventure-2.md) — Embark on a thrilling journey with MathPup, navigating levels filled with numerical puzzles. Collect and order numbers t
+- [MathPup Math Adventure Integers](../games/adventure/mathpup-math-adventure-integers.md) — Guide MathPup through a thrilling math quest, collecting numbers and solving equations. Strategically grab integers to u
+- [Mauve House Escape](../games/adventure/mauve-house-escape.md) — Mauve House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Mauve Land Escape](../games/adventure/mauve-land-escape.md) — Mauve Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Max: The secret of Grandpa's letter](../games/adventure/max-the-secret-of-grandpa-s-letter.md) — A treasure hunt quest. Meet Max, a young wolf who dreams of adventure. One day, Max receives a letter from his late gran
+- [Mayhem Area](../games/adventure/mayhem-area.md) — How about Playing Mayhem Area? In this game you have to survive by killing zombies. Make good use of the help, the ammo 
+- [Mayhem Area: Squid Wars](../games/adventure/mayhem-area-squid-wars.md) — How about Playing Mayhem Area: Squid Wars? In this game you have to survive by killing zombies. Make good use of the hel
+- [Mayika](../games/adventure/mayika.md) — Embark on a thrilling journey in Mayika, a vibrant anime-inspired 2D platformer. Navigate daring levels, collect rice ba
+- [Mayika 2](../games/adventure/mayika-2.md) — Dive into the charming world of Mayika 2, where an anime hero embarks on a quest through perilous 2D landscapes. Master 
+- [Maze Escape](../games/adventure/maze-escape.md) — This is a very fun maze game with a wealth of game levels and a variety of maze maps waiting for you to break through! G
+- [Maze Escape 3D](../games/adventure/maze-escape-3d.md) — Maze Escape 3D is a free online escape game for boys with the theme of the maze. You need to quickly walk through the co
+- [Maze Escape Challenge](../games/adventure/maze-escape-challenge.md) — Maze Escape Challenge is a fast-paced maze game where your goal is to reach the exit as quickly as possible. Each level 
+- [Maze Escape Hero](../games/adventure/maze-escape-hero.md) — Maze Escape is an exciting 2D game where you play as a brave knight lost in a mysterious maze. Your mission is to find t
+- [Maze Escape Toilet Rush](../games/adventure/maze-escape-toilet-rush.md) — Whats the most urgent situation you can imagine? Of course, it is the last second of finding a toilet. In Maze Escape: T
+- [Maze Escape Toilet Rush](../games/adventure/maze-escape-toilet-rush-2.md) — Navigate a series of hilarious mazes to find the quickest route to the toilet in this exciting, brain-teasing rush! Use 
+- [Maze Game Horror Prank](../games/adventure/maze-game-horror-prank.md) — The gameplay is very easy you have to pass through different maze levels with a red square trying not to hit the wall bu
+- [Maze Hide Or Seek](../games/adventure/maze-hide-or-seek.md) — Maze Hide Or Seek is a free online escape and hide-and-seek game for boys played on PuzzleGame. In this game, you will b
+- [Maze Madness Adventure](../games/adventure/maze-madness-adventure.md) — Embark on an epic journey with Maze Madness Adventure, a maze-solving extravaganza! Navigate through a multitude of chal
+- [Maze Madness Adventure](../games/adventure/maze-madness-adventure-2.md) — Maze Madness Adventure plunges you into intricate mazes that test your mind and reflexes. Choose from diverse modes, inc
+- [Maze of Death](../games/adventure/maze-of-death.md) — Navigate a perilous labyrinth with death lurking at every corner in Maze of Death. Armed and on edge, combat fearsome cr
+- [MCATLANTS](../games/adventure/mcatlants.md) — In this new adventure, you must reach the portal. To reach the portal, you should collaborate with your friend and work 
+- [Mechanic Escape 3](../games/adventure/mechanic-escape-3.md) — Mechanic Escape 3 is a point and click escape game developed by 8BGames. Imagine that you are about to pick up a Mechani
+- [Mechanic Escape2](../games/adventure/mechanic-escape2.md) — Mechanic Escape 2 is a point and click escape game developed by 8BGames. Imagine that you are about to pick up a Mechani
+- [MechLoop](../games/adventure/mechloop-2.md) — Immerse yourself in MechLoop's retro 8-bit universe, where brains trump brawn. Navigate mind-bending levels filled with 
+- [Medieval Escape](../games/adventure/medieval-escape.md) — Embark on an enthralling journey through ancient stone chambers in a mysterious medieval realm. Outsmart puzzles, uncove
+- [Medieval Heroes Adventure](../games/adventure/medieval-heroes-adventure.md) — Embark on a thrilling journey in Medieval Heroes Adventure! Choose between two unique heroes as you slash and shoot your
+- [Meek House Escape](../games/adventure/meek-house-escape.md) — Meek House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. You g
+- [Meera Quest 2](../games/adventure/meera-quest-2-2.md) — Embark on an anime-inspired adventure with Meera in a treacherous Monster World. Navigate through eight perilous levels 
+- [Meera Quest](../games/adventure/meera-quest-3.md) — Join Meera in an exhilarating anime adventure through a monster-filled labyrinth! Maneuver skillfully across eight dynam
+- [Mega Ramps Bike Stunt Game](../games/adventure/mega-ramps-bike-stunt-game.md) — Mega Ramp Bike Stunt Games 3D, you are invited to a brand-new level of excitement and adventure with Impossible Bike Stu
+- [MEGALODÓN](../games/adventure/megalod-n.md) — Megalodon is the second part of Great White. You can explore now a vast ocean, with a new environment, new animals and a
+- [Memory Mystery Adventure](../games/adventure/memory-mystery-adventure.md) — Embark on a memory-boosting quest in Memory Mystery Adventure. Tap into your matching skills across thrilling, adventure
+- [Memory Scary Game](../games/adventure/memory-scary-game.md) — Before you on the screen you will see the playing field on which the cards will lie. You can flip two of them in one mov
+- [Mental Hospital Escape](../games/adventure/mental-hospital-escape.md) — The character of the game is completely mentally healthy. But despite this, he was locked up in a psychiatric hospital. 
+- [meow escape](../games/adventure/meow-escape.md) — Meow Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On there
+- [Merchant Escape](../games/adventure/merchant-escape.md) — Merchant Escape is a point and click escape game developed by 8BGames/Games2Mad . Imagine that you went to your village 
+- [Mermaid Adventure](../games/adventure/mermaid-adventure-2.md) — Embark on a magical ocean voyage in Mermaid Adventure, where you glide through vibrant coral reefs. Collect mystical she
+- [Mermaid Escape](../games/adventure/mermaid-escape.md) — Mermaid Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On the
+- [Mermaid Jump](../games/adventure/mermaid-jump.md) — Ariel is a fictional character and the title character of Walt Disney Pictures' 28th animated film The Little Mermaid (1
+- [Mermaid Princess Adventure](../games/adventure/mermaid-princess-adventure.md) — Have you ever dreamed of visiting a real underwater city, where a beautiful mermaid princess lives? Embark on an amazing
+- [Metal Hero Adventure](../games/adventure/metal-hero-adventure.md) — Embark on a thrilling journey in Metal Hero Adventure, battling alien invaders across 10 action-packed levels. Master th
+- [Metal House Escape](../games/adventure/metal-house-escape.md) — Metal House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Metal War](../games/adventure/metal-war.md) — Enter the battlefield in Metal War &ndash; the ultimate 2D platform shooter! Armed with powerful weapons and fast-paced 
+- [Metale Sluge](../games/adventure/metale-sluge.md) — dÉTAILS CONCERNANT LE JEU Episode 3 of Metal Slug Rampage and Metal Slug Rampage 2. Fight and shoot your way though a se
+- [Meteor Escape](../games/adventure/meteor-escape.md) — Meteors are raining from the sky, and so is money! Can you dodge destruction and get rich at the same time? Move fast, s
+- [Metro Escape](../games/adventure/metro-escape.md) — Navigate a dark and mysterious metro station teeming with secrets. Discover hidden items, solve complex puzzles, and unr
+- [Mexico Rex 2](../games/adventure/mexico-rex-2.md) — Control a real T-rex and destroy everything again in Mexico City. Crush some cars, collect chilli peppers and eat as man
+- [Micky Mouse Kangaro Jump Game](../games/adventure/micky-mouse-kangaro-jump-game.md) — In Micky Mouse Kangaroo Jump, soar into the air to reach places begging to be explored! Touch to jump over the mark and 
+- [Mid Street Escape](../games/adventure/mid-street-escape.md) — Mid Street Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went for walking at night 
+- [Mid Street Escape 2](../games/adventure/mid-street-escape-2.md) — Mid Street Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you went for walking at nigh
+- [Mikas Candy Adventure](../games/adventure/mikas-candy-adventure.md) — Mika's Candy Adventure is a casual puzzle game created by Fumingo. Your objective is to push cupcakes around and to get 
+- [Mike Lost In Desert - Hidden Object](../games/adventure/mike-lost-in-desert-hidden-object.md) — Mike Lost in Desert – Hidden Object
+- [Miki Oath](../games/adventure/miki-oath.md) — Miki Oath is a story-driven precision platformer with 106 handcrafted levels across ten magical worlds. Guide Miki throu
+- [Milk Tea Adventure](../games/adventure/milk-tea-adventure.md) — Milk Tea Adventure is a level-breaking game designed in black and white style. The protagonist is a long-handed and long
+- [Mina De Oro Escape](../games/adventure/mina-de-oro-escape.md) — Mina De Oro Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Goldmine, 
+- [mincraft mincraft](../games/adventure/mincraft-mincraft.md) — Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mod
+- [Mind Games for 2 3 4 Player](../games/adventure/mind-games-for-2-3-4-player.md) — Mind Games is a huge game where you can find 2-3-4 player games while playing. The game consists of 27 games under vario
+- [Mine Brothers The Magic Temple](../games/adventure/mine-brothers-the-magic-temple.md) — Have fun with this new exclusive game Mine Brothers The Magic Temple play it here for free on kiz10.com !! Help our two 
+- [Mine Survival](../games/adventure/mine-survival.md) — Remove blocks to help Steve land safely on the correct platform.
+- [Mine Survival Mars](../games/adventure/mine-survival-mars.md) — Huggy Wuggy Try to reach the core of Mars to win! Dig deep, collect valuable elements and materials, then craft new item
+- [Mine World](../games/adventure/mine-world.md) — MineWorld is a Minecraft-inspired game with RPG elements. Do you enjoy mining, defeating enemies, automating, and buildi
+- [Mine World Adventure](../games/adventure/mine-world-adventure.md) — Embark on an adventurous journey in Mine World Adventure, where your choices lead to unique endings. Whether pursuing lo
+- [Mineblock Hook Adventure](../games/adventure/mineblock-hook-adventure.md) — Launch into a thrilling aerial puzzle in Mineblock Hook Adventure. Guide Steve's bouncing head through cleverly designed
+- [Mineblock Rotate and Fly Adventure](../games/adventure/mineblock-rotate-and-fly-adventure.md) — Embark on a high-flying mission with Steve in Mineblock Rotate and Fly Adventure. Time your jumps perfectly across spinn
+- [Minecraft Differences](../games/adventure/minecraft-differences.md) — In the game Minecraft Differences you will find a full search for differences on ten fascinating levels with Minecraft c
+- [Minecraft - Gold Steve](../games/adventure/minecraft-gold-steve.md) — Minecraft Gold Steve is fun and addicting online game suitable for all ages. This time you need to guide our lovely Stev
+- [Minecraft Hidden Golden Blocks](../games/adventure/minecraft-hidden-golden-blocks.md) — Minecraft Hidden Golden Blocks is a wonderful online game with hidden objects. Find out the hidden golden blocks in the 
+- [Minecraft lava chicken 2](../games/adventure/minecraft-lava-chicken-2.md) — Minecraft Chicken Lava 2 is a fun and fiery spotting challenge where your mission is simple&mdash;but intense: find and 
+- [Minecraft Online](../games/adventure/minecraft-online.md) — Now you can play Minecraft Online Game on ZAZGAMES online in your web browser for free at zazgames.com. Explore infinite
+- [Minecraft Remake](../games/adventure/minecraft-remake.md) — Classic minecraft game! Explore infinite worlds and build everything from the simplest of homes to the grandest of castl
+- [Minecraft - SkyBlock](../games/adventure/minecraft-skyblock.md) — Skyblock is a popular challenge, where the player starts the game in a small island in the void, including a tree and of
+- [Minecraft touch](../games/adventure/minecraft-touch.md) — Explorez des mondes infinis et créez sans limites, d'un abri de fortune au plus fabuleux des châteaux. Jouez en mode Cré
+- [Miner GokartCraft - 4 Player](../games/adventure/miner-gokartcraft-4-player.md) — hey dude, take all 4 of your friends and run away from the blue monster! Be careful while avoiding the monster, get the 
+- [Miner GokartCraft - 4 Player](../games/adventure/miner-gokartcraft-4-player-2.md) — Dive into a pixelated adventure with Miner GokartCraft. Master mining, crafting, and thrilling kart races in a vibrant w
+- [Mini Camping Adventure](../games/adventure/mini-camping-adventure.md) — Welcome to Mini Camping Adventure Game, a fun and relaxing camping simulator game where you explore nature, enjoy outdoo
+- [Mini Ninja](../games/adventure/mini-ninja.md) — Mini Ninja is a great addictive game with very beautiful graphics. This is a fun game for kids ninja. Try your best to a
+- [Mini Shape Shifting](../games/adventure/mini-shape-shifting.md) — Get ready for one of the most exciting, fast-paced, and action-packed racing adventures in Shape Shifting Race Game. Thi
+- [Mini Steps](../games/adventure/mini-steps-2.md) — Mini Steps challenges players to master strategic movement as a nimble pink slime. Navigate precarious platforms, evade 
+- [Mini Survival Zombie Fight](../games/adventure/mini-survival-zombie-fight.md) — Dive into a thrilling, apocalyptic adventure in Mini Survival: Zombie Fight. Battle relentless zombies, gather vital res
+- [Minicarft Block Survival](../games/adventure/minicarft-block-survival.md) — You have to learn to jump over obstacles and over long distances. Will you be able to reach the end of the parkour map f
+- [Minicraft Adventure](../games/adventure/minicraft-adventure.md) — Minecraft Adventure is a 2D platformer in which your mission is to build bridges, kill zombies and parkour on different 
+- [Minicraft Insane](../games/adventure/minicraft-insane.md) — Let your imagination fly and embark on an exciting adventure through endless worlds - from the construction of humble dw
+- [MiniMight: Fantasy RPG](../games/adventure/minimight-fantasy-rpg.md) — MiniMight: Fantasy RPG is a casual fantasy role-playing game where you lead a small team of brave adventurers through da
+- [Minnie Mouse Rescue](../games/adventure/minnie-mouse-rescue.md) — Minnie Mouse Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, 
+- [Mirror Wizard](../games/adventure/mirror-wizard-2.md) — Step into the world of Mirror Wizard, where mastering the art of reflection is your only tool. Navigate challenging puzz
+- [Misha Adventures](../games/adventure/misha-adventures.md) — Join Misha, the brave bear, in a mission to save their forest from toxic pollution! Traverse 18 perilous levels with cla
+- [Miss Yuuno 2](../games/adventure/miss-yuuno-2-2.md) — Embark on a thrilling quest in Miss Yuuno 2, where you journey as an amnesiac girl striving to reclaim her lost memories
+- [Miss Yuuno](../games/adventure/miss-yuuno-3.md) — Join Yuuno in a thrilling 2D platformer filled with shadow beasts, deadly spikes, and memory fragments. Navigate through
+- [Mission To Moon Online Game](../games/adventure/mission-to-moon-online-game.md) — The mission of the game is to reach the Moon, collect a few pieces of space junk, and return back to Earth. Collect new 
+- [Mixed Up Power Ups](../games/adventure/mixed-up-power-ups.md) — Dive into a quirky 2D world where power-ups never behave as expected! Experience the thrill of unpredictability as each 
+- [Mizu Quest 2](../games/adventure/mizu-quest-2-2.md) — Dive into Mizu Quest 2, a vibrant 2D platformer where you guide a magical anime girl through eight thrilling levels. Nav
+- [Mizu Quest](../games/adventure/mizu-quest-3.md) — Embark on a mystical journey in Mizu Quest, where you'll navigate perilous realms as a magical anime heroine. Master pre
+- [Mobster House Escape](../games/adventure/mobster-house-escape.md) — Mobster House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Modern City Escape](../games/adventure/modern-city-escape.md) — Modern City Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Modern City
+- [Modern City Escape 2](../games/adventure/modern-city-escape-2.md) — Modern City Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Modern Ci
+- [Modern City Escape 3](../games/adventure/modern-city-escape-3.md) — Modern City Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Modern Ci
+- [Modern Wooden House Escape](../games/adventure/modern-wooden-house-escape.md) — Modern Wooden House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a hou
+- [MOM I'm already asleep!](../games/adventure/mom-i-m-already-asleep.md) — Stay up past your bedtime in "MOM I'm already asleep!" where quick reflexes and sharp senses are key. Tap your phone to 
+- [Mommy Long Legs Escape](../games/adventure/mommy-long-legs-escape.md) — Escape from Mommy Long Legs in this crazy online game. Try to find all of the pictures in each level to complete each ch
+- [Momo Horror Story](../games/adventure/momo-horror-story.md) — Momo is a horror game based on the history of the message user "momo". In the game, you will be a guy that contacts momo
+- [Momoquest](../games/adventure/momoquest.md) — Catch-up in the dark! Momoquest - Find the key in the dark, wandering with a flashlight. Looks easy, but you will be dis
+- [monete](../games/adventure/monete.md) — Welcome to Eat Money, challenge the enemies, use the secret passages, parkour between the blocks, find 12 coins and fini
+- [Money Rush Game](../games/adventure/money-rush-game.md) — Money Rush Game is an exciting arcade runner where your goal is to collect as much money as possible while avoiding dang
+- [Monkey Escape](../games/adventure/monkey-escape.md) — Monkey Escape is a point and click escape game developed by 8BGames. Imagine that you friend bought a little monkey as a
+- [Monkey Rescue](../games/adventure/monkey-rescue.md) — Monkey Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a cave there you f
+- [Monkey Sky](../games/adventure/monkey-sky.md) — Embark on a high-flying adventure with Monkey Sky, where swift navigation and strategic evasion are your keys to surviva
+- [Monki & Goru](../games/adventure/monki-goru.md) — Welcome to Monki & Goru adventures Run and jump and avoid obstacles to collect all bananas to finish your level. Explore
+- [Monster Attack](../games/adventure/monster-attack.md) — The city is under attack. Use your superhero strength to protect the innocent against the evil monsters. Features • Mult
+- [Monster Bounce Game](../games/adventure/monster-bounce-game.md) — Enter the exciting world of Monster Bounce, a fun and addictive arcade game where timing, focus, and quick reflexes are 
+- [Monster Crew Adventure](../games/adventure/monster-crew-adventure.md) — Battle an onslaught of fierce enemies, dangerous hazards, and even giant bosses in the quest to recover your lost Monste
+- [Monster Dragon City Destroyer](../games/adventure/monster-dragon-city-destroyer.md) — The people of city dragon games have forgotten about your super powers of dragon city attack games for which you were fa
+- [Monster Escape](../games/adventure/monster-escape.md) — Escape the shadowy dungeon in Monster Escape, an inventive puzzle adventure testing your strategy and reflexes across 60
+- [Monster Man Rush](../games/adventure/monster-man-rush.md) — Get ready for an exciting journey in Monster Rush, a fast-paced endless running game full of thrilling challenges, color
+- [Monster Run Adventure](../games/adventure/monster-run-adventure.md) — In our magical world lives a little monster - Riki. He like to travel in his world searching adventure. One day travelin
+- [Monster Squid Survival](../games/adventure/monster-squid-survival.md) — Immerse yourself in the gripping world of Monster Squid Survival, a thrilling game inspired by the intensity of Squid Ga
+- [Monster Survivors Game](../games/adventure/monster-survivors-game.md) — Monster Survivors is an exciting action-packed survival game where players must fight against endless waves of dangerous
+- [Monster Traps Escape](../games/adventure/monster-traps-escape.md) — A laid-back puzzle game where your objective is to descend securely. The gameplay is straightforward at first glance but
+- [Monster Truck Zombies&nbsp;Game](../games/adventure/monster-truck-zombies-nbsp-game.md) — Monster Truck Games Kids: Ignite your child&rsquo;s passion for high-octane fun with colossal bigfoot trucks and thrilli
+- [Monster Worm](../games/adventure/monster-worm.md) — Monster Worm is an amazing action game feed your hungry monster pet as long as you can by eating all soldiers and destro
+- [MonsterJong](../games/adventure/monsterjong.md) — Match monstrous tiles and clear the board in MonsterJong! Enjoy a strategic twist on mahjong as you hunt for pairs among
+- [Monsters Impact-3](../games/adventure/monsters-impact-3.md) — The power is in your finger! Tap the screen to hit the monsters and click the special buttons to unleash your power. Kil
+- [Moo Bot 2](../games/adventure/moo-bot-2-2.md) — Navigate a thrilling 2D sci-fi world as a daring robot in Moo Bot 2. Conquer intricate terrains, collect precious energy
+- [Moo Bot](../games/adventure/moo-bot-3.md) — Transform into Moo Bot and weave through a thrilling sci-fi adventure. Test your agility by collecting elusive energy cr
+- [Moon Jump](../games/adventure/moon-jump.md) — Bounce your way to the top in this fun and addictive physics jumping game! Tap to control a ball and jump from floor to 
+- [Moonstone Alchemist](../games/adventure/moonstone-alchemist.md) — MoonstoneAlchemist is a match-3 game with 70+ fun yet challenging levels for free. Match 3 or more jewel in a row to get
+- [MotoBots 1](../games/adventure/motobots-1.md) — Race through the cosmos as a Martian robot in MotoBots 1, an infinite runner full of high-speed excitement. Dodge obstac
+- [Mountain Bike Xtreme](../games/adventure/mountain-bike-xtreme.md) — Mountain Bike Xtreme is a thrilling 2D physics-based mountain biking game where every trail is a new challenge. Ride acr
+- [Mountain Land Escape](../games/adventure/mountain-land-escape.md) — Mountain Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, 
+- [Mountain Rider](../games/adventure/mountain-rider.md) — Mountain Rider is a physics simulation game template where you ride down the challenging mountain terrain on your bicycl
+- [Mountain Tank](../games/adventure/mountain-tank-2.md) — Command massive tanks through treacherous terrains, where sharp reflexes and strategic prowess are the keys to victory. 
+- [Mouse Escape](../games/adventure/mouse-escape-2.md) — Guide a nimble mouse through intricate mazes, collecting cheese on the way to its burrow. With 10 beautifully crafted le
+- [Mr. Bean Hidden Teddy Bears](../games/adventure/mr-bean-hidden-teddy-bears.md) — Mr. Bean Hidden Teddy Bears is a free online skill and hidden object game. Find out the hidden Teddy Bear in the specifi
+- [MR BLOCK](../games/adventure/mr-block.md) — You start the game as a blue square box. you are moving on a wire. You will try to move as far as possible without hitti
+- [Mr Bullet - Spy Puzzles 2](../games/adventure/mr-bullet-spy-puzzles-2.md) — Are you ready to become a hero, spy, and legend? Solve puzzling challenges, show off your deadly accuracy and take aim a
+- [Mr. BulletMasters online](../games/adventure/mr-bulletmasters-online.md) — Mr. BulletMasters online is a unique puzzle game that gives you the chance to display your sharpshooting skills by playi
+- [Mr. Fapple Apple Dash](../games/adventure/mr-fapple-apple-dash.md) — Navigate vibrant landscapes with Mr. Fapple, gathering apples while outsmarting quirky monsters. This dynamic adventure 
+- [Mr. Lupato 2: Egyptian Pyramids Treasures](../games/adventure/mr-lupato-2-egyptian-pyramids-treasures-2.md) — Embark on Mr. Lupato's electrifying escapade through Egyptian pyramids! Master your jumps, solve intricate puzzles, and 
+- [Mr. Lupato and Eldorado Treasures](../games/adventure/mr-lupato-and-eldorado-treasures.md) — Embark on an exhilarating quest with Mr. Lupato as he traverses treacherous landscapes, tackling 15 thrilling platformer
+- [Mr. Noob EAT Burger](../games/adventure/mr-noob-eat-burger.md) — Dive into the spine-chilling madness of Mr. Noob EAT Burger. Navigate a mysterious manor with a torch and burger detecto
+- [Mr Santa Adventure](../games/adventure/mr-santa-adventure.md) — Embark on a thrilling festive journey in Mr Santa Adventure, where you control Santa Claus through a whimsical, obstacle
+- [Mr. Santa Run 2](../games/adventure/mr-santa-run-2.md) — Mr. Santa Run 2 game has a lot of success review and player this MONTH that significantly improves overall game performa
+- [Mr Superfire](../games/adventure/mr-superfire-2.md) — Jump into the action with Mr Superfire, a strategic run 'n' gun adventure. Guide Mr through levels filled with enemies, 
+- [Mr Toro 2](../games/adventure/mr-toro-2-2.md) — Embark on a thrilling platforming adventure with Mr Toro 2. Navigate treacherous terrains, dodge deadly traps, and outma
+- [Mr Toro](../games/adventure/mr-toro-3.md) — Embark on a thrilling 2D platform adventure in Mr Toro! Navigate through 8 increasingly challenging levels, dodging tric
+- [Mud Brick Room Escape](../games/adventure/mud-brick-room-escape.md) — Mud Brick Room Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Room on 
+- [Muddy House Escape](../games/adventure/muddy-house-escape.md) — Muddy House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Multicolored Brick House Escape](../games/adventure/multicolored-brick-house-escape.md) — Multicolored Brick House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to 
+- [Mummy Candies - Halloween Scary Edition](../games/adventure/mummy-candies-halloween-scary-edition.md) — Collect all the candies and lollipops for the mummy. Beware of explosive pumpkins, and don't forget to improve your skil
+- [Mummy Land](../games/adventure/mummy-land.md) — Mummy Land is a free online platformer game where you play as a mummy trying to escape from a pyramid. Collect treasure 
+- [Mungos Rescue](../games/adventure/mungos-rescue.md) — Mungos Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a desert, there yo
+- [Munnazzaro](../games/adventure/munnazzaro.md) — Embark on a spine-chilling adventure in the pixelated horror world of Munnazzaro. As an outsider in a haunted town, unra
+- [Murder Case Clue 3D](../games/adventure/murder-case-clue-3d.md) — Murder Case Clue 3D is an exciting 3d escape game. You will play the role of detective, there was a murder recently, you
+- [Murdering Butcher Villa Escape](../games/adventure/murdering-butcher-villa-escape.md) — Murdering Butcher Villa Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a
+- [Mushroom Fight For The Kingdom](../games/adventure/mushroom-fight-for-the-kingdom.md) — Mushroom Fight For The Kingdom is an exciting and strategic mobile game where players embark on a thrilling journey to d
+- [Mushroom Forest Adventure](../games/adventure/mushroom-forest-adventure.md) — Step into the enchanting mushroom forest, a forest where the boundary between reality and magic blurs. Here, an adventur
+- [Mushroom Forest Escape](../games/adventure/mushroom-forest-escape.md) — Mushroom Forest Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest,
+- [Mushroom Land Escape](../games/adventure/mushroom-land-escape.md) — Mushroom Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, 
+- [Music Party](../games/adventure/music-party.md) — You will become a surfer, jumping from different springboards. Control the direction and don't miss any springboards.
+- [Musical Labubu: Make a Melody](../games/adventure/musical-labubu-make-a-melody.md) — Musical Labubu - Make a Melody is a game about creating your own melody in a small 3D world. Here youll see a variety of
+- [Musician Escape 3](../games/adventure/musician-escape-3.md) — Musician Escape 3 is a point and click escape game developed by 8BGames. Imagine that you went to a musician house to le
+- [Musician House Escape](../games/adventure/musician-house-escape.md) — Musician House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [My Cat Restaurant](../games/adventure/my-cat-restaurant.md) — Welcome to My Cat Restaurant, a casual kids cooking simulator game that you can play for free. Act as a chef and restaur
+- [My Hungry Fish Game](../games/adventure/my-hungry-fish-game.md) — Dive into an exciting underwater adventure in My Hungry Fish Game, where survival is all about eating, growing, and beco
+- [My Pets](../games/adventure/my-pets.md) — My Pets is a game in which you need to feed a dog and a cat with bone and fish, paving the way through the regulation of
+- [My School Life Adventure](../games/adventure/my-school-life-adventure.md) — My school life adventure is a fun, creative, and educational game designed for kids and players of all ages. This amazin
+- [My teammate must die](../games/adventure/my-teammate-must-die.md) — My teammates must die is a adventure through game, at the beginning of the game players to control their own role advent
+- [My Tiny Market](../games/adventure/my-tiny-market.md) — In My Tiny Market, youre the boss of your very own supermarket. Manage your time and resources well to find the perfect 
+- [Myna Land Escape](../games/adventure/myna-land-escape.md) — Myna Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village; ther
+- [Mysterious Doors](../games/adventure/mysterious-doors.md) — Explore the mysterious kingdom! Navigate levels filled with traps, puzzles, and surprises. Skill and strategy! Master th
+- [Mysterious Forest Escape](../games/adventure/mysterious-forest-escape.md) — Mysterious Forest Escape is a html5 point and click escape game developed by 8BGames/Games2Mad. You came to a mysterious
+- [Mysterious Land Escape](../games/adventure/mysterious-land-escape.md) — Mysterious Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Myster
+- [Mysterious Land - Halloween(2022) Escape Game](../games/adventure/mysterious-land-halloween-2022-escape-game.md) — Sampath and Nithya were trapped by the witch. The witch is gaining powers by harvesting souls. You are an angel sent fro
+- [Mysterious Password Forest - Autumn Edition 2](../games/adventure/mysterious-password-forest-autumn-edition-2.md) — You walked to the forest for a breath of fresh air. After a long walk you lose your way. Help forest inhabitants in orde
+- [Mystery Digger](../games/adventure/mystery-digger.md) — Join the exciting journey of **Mystery Digger**, an addictive idle clicker game. Explore underground for treasures and s
+- [Mystery of the Old House: Hidden Objects](../games/adventure/mystery-of-the-old-house-hidden-objects.md) — Every corner holds a secret, and every find brings you closer to the solution.
+- [Mystery Park Escape](../games/adventure/mystery-park-escape.md) — Mystery Park Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to an park with
+- [Mystery Suburb Escape](../games/adventure/mystery-suburb-escape.md) — Mystery suburb escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to an suburb 
+- [Mystical Quest](../games/adventure/mystical-quest.md) — Embark on a magical journey in Mystical Quest, where survival is key. Master abilities to fend off relentless bat swarms
+- [Nana Escape](../games/adventure/nana-escape.md) — Nana Escape is a point and click escape game developed by 8BGames. Imagine that you went to your nana’s house on a weeke
+- [Nanychan vs Ghosts 2](../games/adventure/nanychan-vs-ghosts-2-2.md) — Nanychan vs Ghosts 2 offers captivating 2D platformer fun in a spooky Halloween setting. Navigate treacherous levels as 
+- [Naruto 3D Game](../games/adventure/naruto-3d-game.md) — The game is a street fight between the hero Naruto in the anime named Naruto and the enemies in the same anime, where yo
+- [Nasty House Escape](../games/adventure/nasty-house-escape.md) — Nasty House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, ther
+- [Nastya Dinosaur Bone Digging Games](../games/adventure/nastya-dinosaur-bone-digging-games.md) — Educational and entertaining collection of mini games, including puzzles, fishing and bone digging and cleaning games. I
+- [Naughty Baby Escape](../games/adventure/naughty-baby-escape.md) — Naughty Baby Escape is a point and click escape game developed by 8BGames. Imagine that you went to a baby house to play
+- [Naughty Bruno Escape](../games/adventure/naughty-bruno-escape.md) — Naughty Bruno Escape is a point and click escape game developed by 8BGames. Imagine that you are went to play with Naugh
+- [Naughty Chef Escape](../games/adventure/naughty-chef-escape.md) — Naughty Chef Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Naughty Chef house
+- [Navesco V](../games/adventure/navesco-v.md) — O CAPITAO GLORKTAR E SEUS COMPANHEIROS ROUBARAM PROJETOS PARA A MAQUINA DE GUERRA DEFINITIVA LOCALIZE-O E RETIRE-OS ANTE
+- [Nebula Strikers](../games/adventure/nebula-strikers.md) — Pilot your starship in Nebula Strikers, a thrilling cosmic shooter teeming with relentless alien foes. Engage in high-sp
+- [Neighbor Sponge. Scary Secret 3D](../games/adventure/neighbor-sponge-scary-secret-3d.md) — Play for a guy whose name is Bob! You came to the bottom neighborhood of the city and settled next to the sponge neighbo
+- [Neko's Adventure](../games/adventure/neko-s-adventure.md) — Neko’s Adventure is a vibrant platformer starring Neko, a playful cat trying to rescue his girlfriend. Explore 20 challe
+- [Nekoman vs Gangster 2](../games/adventure/nekoman-vs-gangster-2-2.md) — Dive into the feline frenzy of Nekoman vs Gangster 2, a thrilling 2D platformer. Skillfully maneuver through eight treac
+- [Nekoman vs Gangster](../games/adventure/nekoman-vs-gangster-3.md) — Leap into the paws of Nekoman, a fearless feline navigating treacherous levels while outsmarting crafty Gangsters to fin
+- [Neon Abyss Defender](../games/adventure/neon-abyss-defender.md) — War Space Defender is a fast-paced arcade space shooter where you pilot a futuristic starfighter through intense enemy w
+- [Neon Pulse Arena](../games/adventure/neon-pulse-arena.md) — Neon Pulse Arena is a fast-reaction survival arcade game where you dodge incoming shapes and push your limits for as lon
+- [Nero Adventure](../games/adventure/nero-adventure.md) — Incredible hero adventures it's a running adventurer game. the perfect to pass your free time and you will never get bor
+- [Never Fall](../games/adventure/never-fall.md) — Jump higher and climb forever in Never Fall! Leap from platform to platform, time your jumps perfectly, and rise through
+- [New Bird Escape](../games/adventure/new-bird-escape.md) — New Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On t
+- [New Pubg Mobile](../games/adventure/new-pubg-mobile.md) — Battlegrounds is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type
+- [New Year 2021 Escape](../games/adventure/new-year-2021-escape.md) — New Year 2021 Escape is a point and click escape game developed by 8BGames. Today is a New Year Eve and you invited your
+- [New Year Celebration Episode1](../games/adventure/new-year-celebration-episode1.md) — New Year Celebration Episode1 is another point and click escape game developed by 8BGames/Games 2Mad. In this escape gam
+- [New Year Celebration Episode2](../games/adventure/new-year-celebration-episode2.md) — New Year Celebration Episode2 is another point and click escape game developed by 8BGames/Games 2Mad. In this escape gam
+- [New Year Celebration Final Episode](../games/adventure/new-year-celebration-final-episode.md) — New Year Celebration Final Episode is another point and click escape game developed by 8BGames/Games 2Mad. In this escap
+- [Newbie’s Escape from Blogger Prison](../games/adventure/newbie-s-escape-from-blogger-prison.md) — 🔓 Escape from Prison is an exciting platforming adventure where you must overcome dangerous challenges and find your wa
+- [Newee Ball 2](../games/adventure/newee-ball-2-2.md) — Embark on a vibrant 2D platforming adventure in Newee Ball 2, guiding a lively ball through perilous obstacles. Master d
+- [Newee Ball](../games/adventure/newee-ball-3.md) — Guide a lively ball through eight increasingly difficult landscapes in Newee Ball. Collect lollipops, dodge dangerous ob
+- [NextBoot Horror Online](../games/adventure/nextboot-horror-online.md) — Next Boot Horror Online takes players on a chilling journey where they find themselves trapped in a nightmarish scenario
+- [Nextbot Run Away](../games/adventure/nextbot-run-away.md) — Get ready for the craziest race of your life in NextBots: Run Away! This is something completely different from anything
+- [Nice Diamont](../games/adventure/nice-diamont.md) — Dive into "Nice Diamont," where survival hinges on agility. Navigate through perilous lands, evading deadly creatures wh
+- [Night Park Escape](../games/adventure/night-park-escape.md) — Night Park Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a park, On the
+- [Niko Adventure](../games/adventure/niko-adventure.md) — Embark on an exhilarating journey in Niko Adventure, a lively platformer where strategy meets agility. Navigate through 
+- [Nikosan Quest 2](../games/adventure/nikosan-quest-2-2.md) — Guide brave heroine Nikosan in a vibrant animated world, mastering double jumps and strategic maneuvers to gather golden
+- [Nikosan Quest](../games/adventure/nikosan-quest-3.md) — Guide Nikosan through a vibrant universe in this thrilling 2D platformer. Collect yellow cubes and dodge relentless haza
+- [Nina Adventures 2](../games/adventure/nina-adventures-2-2.md) — Embark on a thrilling journey with Nina Adventures 2, a charming 2D platformer. Navigate through eight action-packed lev
+- [Nina Adventures](../games/adventure/nina-adventures-3.md) — Enter a delightful 2D world with Nina as she embarks on a quest for chocolate ice cream bars. Navigate treacherous terra
+- [Nina Teddy Escape](../games/adventure/nina-teddy-escape.md) — Nina Teddy Escape is a point and click game developed by 8B Games/Games2live. Hi, I am your Nina... Unexpectedly my tedd
+- [Ninja Adventure](../games/adventure/ninja-adventure-2.md) — Embark on a perilous journey as a valiant ninja battling monstrous foes in Ninja Adventure. Skillfully wield your sword 
+- [Ninja Adventure 2](../games/adventure/ninja-adventure-2-2.md) — Enter the thrilling realm of Ninja Adventure 2, where action-packed platforming meets cunning strategy. Battle monstrous
+- [Ninja Adventure Game](../games/adventure/ninja-adventure-game.md) — Embark on a thrilling journey in Ninja Adventure, where dexterity is key. Navigate intricate courses filled with surpris
+- [Ninja Arashi](../games/adventure/ninja-arashi.md) — Ninja Arashi is an intense platformer with mixed RPG elements. In this game, you play as arashi, a former legendary ninj
+- [Ninja Arashi 2](../games/adventure/ninja-arashi-2.md) — It’s time to take revenge from strange dark castle enemies who have kept you in prison for so long and made the survival
+- [Ninja Boy !](../games/adventure/ninja-boy.md) — Ninja Boy Has Arrive Yuhuu !
+- [Ninja Boy Adventure](../games/adventure/ninja-boy-adventure.md) — Join Ninja Boy on a thrilling action-packed platformer journey. Slash enemies or hurl kunai, collecting coins and gems t
+- [Ninja Escape 2](../games/adventure/ninja-escape-2.md) — I am the ninja is an intense platformer, Unleash your ninja powers with new and intuitive touch controls! Run, jump, sli
+- [Ninja Evade](../games/adventure/ninja-evade.md) — Explore the busy city with a brave ninja, help him to reach his ninja town Game story starts with Sarogi the Brave Ninja
+- [Ninja Girl Escape](../games/adventure/ninja-girl-escape.md) — Dive into Ninja Girl Escape, where your reflexes are put to the test in an endless, action-packed run. Leap, slide, and 
+- [Ninja Run](../games/adventure/ninja-run-2.md) — Embark on a limitless adventure in Ninja Run! Master impeccable timing as you leap over obstacles and evade bombs, colle
+- [Ninja Stick](../games/adventure/ninja-stick.md) — Ninja Stick is a GREAT game that helps learning mesurement, training your brain to track measurements, sizes and distanc
+- [Ninja Survival](../games/adventure/ninja-survival.md) — Unleash your inner ninja to survive relentless onslaughts in a thrilling adventure. Master stealth, agility, and combat 
+- [Ninja Sword Adventure](../games/adventure/ninja-sword-adventure.md) — Embark on an exhilarating turn-based journey in Ninja Sword Adventure, where your strategic choices and cunning stealth 
+- [None Shall Get Through: Save Cappuccina!](../games/adventure/none-shall-get-through-save-cappuccina.md) — "None Shall Get Through: Save Cappuccina!" - physics puzzle with a gravity gun. Move blocks, open doors, and save the ba
+- [Nonogram - Picture Cross](../games/adventure/nonogram-picture-cross.md) — Discover the mystery of picture cross number puzzles! Solve the nonogram puzzles with simple rules and challenging solut
+- [NOOB ARCHER GAME ONLINE](../games/adventure/noob-archer-game-online.md) — Noob Archer is a puzzle game with shooting elements. The world is filled with zombies, and you must rid the world of evi
+- [Noob Click: The Rise of Noob](../games/adventure/noob-click-the-rise-of-noob.md) — Help Nubik overcome dimensions filled with creepy mobs trying to steal his emeralds. Its up to you to decide whether he 
+- [Noob Escape 3D](../games/adventure/noob-escape-3d.md) — Race through 30 heart-pounding levels in Noob Escape 3D, where pixelated worlds challenge your agility and strategy. Nav
+- [Noob: Escape Plan](../games/adventure/noob-escape-plan.md) — The noob was caught and imprisoned in an underground prison. To make an escape, you need an exact plan that you have to 
+- [Noob Fuse](../games/adventure/noob-fuse.md) — Join the crazy adventures of Noob. This time he decided to take bombs, a lighter and blow up all the houses to take the 
+- [Noob Giant](../games/adventure/noob-giant.md) — Unleash chaos as a colossal giant in Noob Giant, where crashing through foes and obstacles delivers endless excitement. 
+- [Noob Hero Adventure](../games/adventure/noob-hero-adventure.md) — Guide a charming protagonist through perilous lands in Noob Hero Adventure, where every step is a learning experience. H
+- [Noob in Mine - Sandbox & Craft](../games/adventure/noob-in-mine-sandbox-craft.md) — Welcome to block's world — a huge 3D sandbox where anything is possible! Want to build? Grab blocks and create houses, c
+- [Noob Long Hand](../games/adventure/noob-long-hand-2.md) — In Noob Long Hand, you wield a golden appendage to traverse treacherous terrains, reaching keys and unlocking enigmatic 
+- [Noob Playground](../games/adventure/noob-playground.md) — Noob Playground is a whimsical sandbox game where pure creative chaos reigns. Summon crash-test dummies, unleash an arse
+- [Noob save the village](../games/adventure/noob-save-the-village.md) — Upgrade your weapons, unlock powerful spells and abilities to stop the invasion of enemies. Build defenses, improve your
+- [Noob saves the village](../games/adventure/noob-saves-the-village.md) — The village has been attacked by merciless monsters! Become a real hero and defeat dangerous enemies with your fighting 
+- [Noob Saving Friends](../games/adventure/noob-saving-friends.md) — Join Nubik on an epic quest to save friends in a vibrant world. Mine ores, upgrade tools, and unravel hidden secrets. Ch
+- [Noob VS. Choo-Choo Charles](../games/adventure/noob-vs-choo-choo-charles-2.md) — Outrun terrifying foes in Noob VS. Choo-Choo Charles, an exhilarating endless runner. Navigate through heart-pounding ch
+- [Noob vs Pro Squid Challenge](../games/adventure/noob-vs-pro-squid-challenge-2.md) — Dive into Noob vs Pro Squid Challenge, an action-packed game of agility and quick thinking. Navigate thrilling pixelated
+- [Noob vs TNT Boom](../games/adventure/noob-vs-tnt-boom-2.md) — Join a charming noob in a pixelated quest to conquer explosive challenges. Navigate through levels, strategically manipu
+- [Noob vs Zombie](../games/adventure/noob-vs-zombie.md) — Join the adventure in "Noob vs Zombie" and navigate through the mazes of different biomes filled with zombies and enemie
+- [Noob vs Zombie 2](../games/adventure/noob-vs-zombie-2.md) — Are you ready for a thrilling adventure? Look no further than "Noob vs Zombie 2" – the exciting sequel to the hit game! 
+- [Noobpool and NoobSpider](../games/adventure/noobpool-and-noobspider.md) — Noobpool and noobspider must reach the safe zone by avoiding monsters and guns in the city. noobpool must reach the door
+- [Noobs and Squid Challenge](../games/adventure/noobs-and-squid-challenge.md) — hey are you noob squid challenge? Be careful the competitors are coming from everywhere and don't let it go to the finis
+- [Norway Rat Rescue](../games/adventure/norway-rat-rescue.md) — Norway Rat Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village ther
+- [Not Your Seafood Salad](../games/adventure/not-your-seafood-salad-2.md) — Dont be they prey! Youve had enough of the food chain and are rebelling against your fate.Using treasures washed ashore,
+- [Nubic vs Huggy Wuggy](../games/adventure/nubic-vs-huggy-wuggy.md) — Huggy Wuggy broke into the world of Minecraft! Help Nubic defeat them all! Pick up various weapons and go into battle! B
+- [Nubik Courier: An Open World](../games/adventure/nubik-courier-an-open-world.md) — Nubik Courier: An Open World is an exciting delivery game that turns you into a skilled pizza courier racing through liv
+- [Nubik vs Herobrin's Army](../games/adventure/nubik-vs-herobrin-s-army.md) — Brave a perilous world as Nubik, crafting and upgrading dynamic weapons to face Herobrine’s army. Utilize strategy and d
+- [Nuclear Fish](../games/adventure/nuclear-fish.md) — Nuclear Fish is a fun clicker game about radioactive mechanized fish. The goal of the game is to score as many points as
+- [Nugget Man Survival Puzzle](../games/adventure/nugget-man-survival-puzzle.md) — Are you ready for adventure with the Nugget man character? To save the Nugget Man character who is stranded in the deser
+- [Number Expedition Math Adventures](../games/adventure/number-expedition-math-adventures.md) — Embark on a captivating math adventure with Number Expedition Math Adventures. Customize your challenge as you journey t
+- [Nutcracker New Years Adventures](../games/adventure/nutcracker-new-years-adventures-2.md) — Unleash your creativity in Nutcracker New Years Adventures as you enter a magical world of fairy tales and fashion. Dres
+- [Nyan Cat Flappy](../games/adventure/nyan-cat-flappy.md) — Do you think that only a bird can flap it's wings and fly? Ask Nyan Cat for the answer in her newest adventure in Flappy
+- [Obbie Zombie Land](../games/adventure/obbie-zombie-land.md) — Embark on an epic adventure battling hordes of zombies! Experience straightforward gameplay, delightful graphics, amusin
+- [Object 73: Survival Clicker](../games/adventure/object-73-survival-clicker-2.md) — A post-apocalyptic survival clicker with idle and RPG elements. You awaken inside the underground Jericho Complex as Obj
+- [Object Hunter](../games/adventure/object-hunter.md) — Object Hunter is an exciting and addictive online game. Stunning visuals immerse you in a beautifully designed environme
+- [Obscure Village Escape](../games/adventure/obscure-village-escape.md) — Obscure Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village
+- [Obunga's Backrooms](../games/adventure/obunga-s-backrooms.md) — Navigate the unnerving corridors of Obunga's Backrooms, where every turn intensifies the psychological and physical horr
+- [Ocean Danger](../games/adventure/ocean-danger-2.md) — Engage in exhilarating speedboat races across unpredictable ocean terrains. Master sharp turns and dodge obstacles with 
+- [Octopus Escape](../games/adventure/octopus-escape.md) — Octopus Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on
+- [Off Road Mountain](../games/adventure/off-road-mountain.md) — Mountain Rider is a physics simulation game template where you ride down the challenging mountain terrain on your bicycl
+- [Off The Hook Pro](../games/adventure/off-the-hook-pro.md) — Spin the Metal shape and drop all the ring in the hole.Some shapes are tricky so you have to control rotation and speed.
+- [Off the Hook: Ring Puzzle](../games/adventure/off-the-hook-ring-puzzle.md) — Spin and drop all the rings in Off the Hook: Ring Puzzle, a relaxing logic and brain training game. Rotate interlocked r
+- [Office Escape](../games/adventure/office-escape.md) — Office Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Office; there yo
+- [Office Room Escape](../games/adventure/office-room-escape.md) — Office Room Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Office; the
+- [Offroad Cargo Truck Driver 3D](../games/adventure/offroad-cargo-truck-driver-3d.md) — The people who love truck games, then this is the place to be. Welcome to new &ldquo;Offroad Cargo Truck Driver:Uphill L
+- [Ogli Cats](../games/adventure/ogli-cats.md) — Dive into Ogli Cats, a captivating 2D platformer where the thrill of cookie collection meets daring escape. Navigate tre
+- [Oink Escape](../games/adventure/oink-escape.md) — OinkEscape is a fun 3D survival game where you control a cute pig and dodge dangerous traps on a limited arena. Move qui
+- [Oiseau House Escape](../games/adventure/oiseau-house-escape.md) — Oiseau House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Desert, O
+- [Old Bear Escape](../games/adventure/old-bear-escape.md) — Old Bear Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; o
+- [Old Beethoven Dog Escape](../games/adventure/old-beethoven-dog-escape.md) — Old Beethoven Dog Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Beethoven t
+- [Old Blue House Escape](../games/adventure/old-blue-house-escape.md) — Old Blue House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Old Brick House Escape](../games/adventure/old-brick-house-escape.md) — Old Brick House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; 
+- [Old Green Villa Escape](../games/adventure/old-green-villa-escape.md) — Old Green Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Villa; 
+- [Old Man and Demon](../games/adventure/old-man-and-demon.md) — Embark on a perilous journey through hell's dark underworld to save your friend. Navigate eerie tunnels with only a lant
+- [Old Man Escape](../games/adventure/old-man-escape.md) — Old Man Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on
+- [Old Man Escape 2](../games/adventure/old-man-escape-2.md) — Old Man Escape 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; 
+- [Old Man Walking Stick Escape](../games/adventure/old-man-walking-stick-escape.md) — Old Man Walking Stick Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Old Man h
+- [Old Prisoner Escape](../games/adventure/old-prisoner-escape.md) — Old Prisoner Escape is a point and click game developed by 8B Games/Games2mad. Imagine that your old friend had been too
+- [Old Prisoner Escape 2](../games/adventure/old-prisoner-escape-2.md) — Old Prisoner Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that your old friend had been t
+- [Old Teacher Escape](../games/adventure/old-teacher-escape.md) — Old Teacher Escape is a point and click escape game developed by 8BGames. Imagine that you went to your Teacher's home. 
+- [Old Village Escape](../games/adventure/old-village-escape.md) — Old Village Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village; th
+- [Old William Escape](../games/adventure/old-william-escape.md) — Old William Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Old William house. 
+- [On the Away-Flippy Adventure Epic Skater](../games/adventure/on-the-away-flippy-adventure-epic-skater-2.md) — Experience high-octane street skating in "On the Away-Flippy Adventure Epic Skater," where fluid cityscapes become your 
+- [One block survival](../games/adventure/one-block-survival.md) — In this BLOCK PUZZLE PLATFORMER GAME (tetras type game) based on same blocks as a classic blocks game, save the Tetras, 
+- [One Night at Chica's](../games/adventure/one-night-at-chica-s.md) — Survive a thrilling night at Chica's pizzeria, where quick thinking is key. Monitor cameras, manage a mischievous cast o
+- [One Roof Escape](../games/adventure/one-roof-escape.md) — One Roof Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a House, On the
+- [Online Cats Multiplayer Park](../games/adventure/online-cats-multiplayer-park-2.md) — Dive into feline frenzy with Online Cats - Multiplayer Park! Compete in real-time with adorable kittens across dynamic a
+- [Only Up Or Lava](../games/adventure/only-up-or-lava.md) — Get ready for an exhilarating adventure, test your skills to the limit! Conquer levels, leap over perilous obstacles, an
+- [Only UP Skibidi toilet](../games/adventure/only-up-skibidi-toilet.md) — Going up as far as possible, as sikibidi toilet jump around to be the top
+- [Orange Peel](../games/adventure/orange-peel.md) — By a strange coincidence, the oranges ended up in outer space, where acid rain is about to begin. This unusual natural p
+- [OrbaDrone - Robot Escape](../games/adventure/orbadrone-robot-escape.md) — ℹ️About You’re an Orb-shaped drone with the ability to repel and attract objects, awakened in a strange cave-like struct
+- [Orbit Escape](../games/adventure/orbit-escape.md) — In the game Orbit Escape you have to tap the screen at the right time to make the spaceship move in a straight line towa
+- [Orbit Escape](../games/adventure/orbit-escape-2.md) — Navigate the cosmos in Orbit Escape, a thrilling arcade adventure where impeccable timing is vital. Leap from planet to 
+- [Orbit Loop Revolution](../games/adventure/orbit-loop-revolution.md) — Master the cosmic loop in Orbit Loop Revolution! Simple controls, deep challenge. FLIP TO SURVIVE: Tap or use keys to in
+- [Orbital Adventure](../games/adventure/orbital-adventure.md) — Navigate a nimble rocket through perilous asteroid fields in Orbital Adventure. Tap to steer, dodge obstacles, and colle
+- [Orc Hero](../games/adventure/orc-hero.md) — Embark on a thrilling pixel-art turn-based adventure! Fight fierce enemies, level up your heroes, and master strategic b
+- [Orcs: new lands](../games/adventure/orcs-new-lands.md) — Unusual mechanics for RPG games. Raid villages and develop your hero. You play as an orc who is exploring new lands for 
+- [Otaho Bird 2](../games/adventure/otaho-bird-2-2.md) — Guide a brave bird in Otaho Bird 2, a thrilling 2D adventure. Dodge enemy birds, evade fiery traps, and gather bread in 
+- [Otaho Bird](../games/adventure/otaho-bird-3.md) — Navigate dynamic levels as a daring bird in Otaho Bird, collecting bread and dodging perilous obstacles. Master precise 
+- [Out House Escape](../games/adventure/out-house-escape.md) — Out House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to an out house wi
+- [Outer Space](../games/adventure/outer-space.md) — Help the alien to collect the diamonds
+- [Outer Space](../games/adventure/outer-space-2.md) — Navigate the cosmos as a fearless astronaut in Outer Space. Blast asteroids, dodge lethal hazards, and harness crystal p
+- [OUTSIDE](../games/adventure/outside.md) — OUTSIDE is a minimalist puzzle game where every move counts. Guide your one-eyed character across a grid to collect the 
+- [Overjoyed Boy Escape](../games/adventure/overjoyed-boy-escape.md) — Overjoyed Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Boy house to take
+- [Owl Block](../games/adventure/owl-block-2.md) — Navigate through an exhilarating platform adventure in Owl Block! Race against intricate obstacles using quick reflexes 
+- [Owl Cant Sleep](../games/adventure/owl-cant-sleep.md) — Why can't the Owl sleep? Because he thinks about adventure OWL day long! (Get it?) Join adventurous Owl as he embarks on
+- [Owl Land Escape](../games/adventure/owl-land-escape.md) — Owl Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to an owl Land, On
+- [Owl Rescue](../games/adventure/owl-rescue.md) — Owl Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on the
+- [Pac Ring Adventure](../games/adventure/pac-ring-adventure.md) — Embark on a thrilling journey with Pac Ring Adventure, a captivating arcade-style game that brings a fresh twist to the 
+- [Pac Ring Adventure](../games/adventure/pac-ring-adventure-2.md) — Navigate intricate mazes in Pac Ring Adventure, where strategy and quick reflexes are key. Snatch power-ups to fend off 
+- [Pac Ring Adventure PRO](../games/adventure/pac-ring-adventure-pro.md) — Pac Ring Adventure Pro is a thrilling twist on the classic Pacman experience! Navigate a fast-paced circular maze as Pac
+- [Pacman Escape](../games/adventure/pacman-escape.md) — Pacman Escape is a point and click escape game developed by 8BGames. Imagine that you bought a Pacman Toy to gift to you
+- [PacMan2D](../games/adventure/pacman2d.md) — Pacman2D Game where you need to eat dots and to avoid your enemies. When you eat big dots you can eat your enemies and t
+- [PacRing Adventure](../games/adventure/pacring-adventure.md) — Embark on a thrilling journey with Pac Ring Adventure, a captivating arcade-style game that brings a fresh twist to the 
+- [Painter Boy escape](../games/adventure/painter-boy-escape.md) — Painter Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to painter boy house to 
+- [Painter House Escape](../games/adventure/painter-house-escape.md) — Painter House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house, On
+- [Painter House Escape 2](../games/adventure/painter-house-escape-2.md) — Painter House Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house, 
+- [Painter John Escape](../games/adventure/painter-john-escape.md) — Painter John Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Painter john house
+- [Palkovil The Way Home](../games/adventure/palkovil-the-way-home.md) — The unique world of "Palkovil" will allow you to immerse yourself in the crazy atmosphere of the New Year! Hundreds of m
+- [Panda Adventure](../games/adventure/panda-adventure.md) — Panda Adventure is an exciting and immersive platformer game where players step into the paws of a brave and curious pan
+- [Panda Escape with Piggy 2](../games/adventure/panda-escape-with-piggy-2-2.md) — Navigate vibrant jungle landscapes in Panda Escape with Piggy 2, where strategic double jumps and agile maneuvers are ke
+- [Panda Run Game](../games/adventure/panda-run-game.md) — Become a Panda Run master at Panda Running!
+- [Pannai House Escape](../games/adventure/pannai-house-escape.md) — Pannai House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Pannai Ho
+- [Papa Buzja](../games/adventure/papa-buzja.md) — Embark on an adventurous journey with Papa Buzja as he braves lush forests, murky swamps, and towering mountains. Overco
+- [Paper Ball Adventure Go](../games/adventure/paper-ball-adventure-go.md) — Paper Ball Adventure is a hand-drawn single-player puzzle-platform adventure. Guide a brave paper ball through 12 creati
+- [Paper Flight 2](../games/adventure/paper-flight-2.md) — Play now and have fun with this new casual game Paper Flight 2 play it now on kiz10.com !!!!! Get to launch the paper pl
+- [Paper Minecraft](../games/adventure/paper-minecraft.md) — Paper Minecraft is a 2D sandbox adventure inspired by the famous block world of Minecraft. Explore a pixel world, mine b
+- [Paper Stick Figures](../games/adventure/paper-stick-figures.md) — Paper Stick Figures is a fast-paced tower defense battle drawn on a notebook page. Build your hand-sketched army, deploy
+- [Paper Survival](../games/adventure/paper-survival.md) — Embark on an imaginative 2D adventure in Paper Survival. Forage, craft, and build in a procedurally generated, paper-sty
+- [PAPERLY: PAPER PLANE ADVENTURE](../games/adventure/paperly-paper-plane-adventure.md) — Go on an exciting paper plane flight adventure, learn different flight mechanics &amp; reach your destination. PAPERLY: 
+- [Paperly - Paper Plane Adventure](../games/adventure/paperly-paper-plane-adventure-2.md) — Soar through imaginative skies in Paperly: Paper Plane Adventure, a soothing arcade flight game. Navigate endlessly, col
+- [Parachute Down](../games/adventure/parachute-down.md) — In Parachute Down, master the skies as a daring skydiver avoiding deadly rockets while ensuring your safe descent. With 
+- [Parcel Delivery](../games/adventure/parcel-delivery.md) — Venture into an eerie apartment building as a parcel delivery person, uncovering unsettling mysteries hidden within a se
+- [Park Escape](../games/adventure/park-escape.md) — Park Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a park, on there you
+- [Park Escape 2](../games/adventure/park-escape-2.md) — Park Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a park, on there y
+- [Park House Escape](../games/adventure/park-house-escape.md) — Park House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a park to have
+- [Parmesan Partisan Deluxe](../games/adventure/parmesan-partisan-deluxe.md) — Brace yourself for a cheesy showdown in Parmesan Partisan Deluxe. As the lone guardian, defend against relentless Mice P
+- [Parrot Escape](../games/adventure/parrot-escape.md) — Parrot Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on 
+- [Parrot House Escape](../games/adventure/parrot-house-escape.md) — Parrot House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Parrot hou
+- [Parrot Rescue](../games/adventure/parrot-rescue.md) — Parrot Rescue is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On ther
+- [Parrots Escape](../games/adventure/parrots-escape.md) — Parrots Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Fort, On there 
+- [Party House Escape](../games/adventure/party-house-escape.md) — Party House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. for 
+- [Passenger Airplane: Flight 3D](../games/adventure/passenger-airplane-flight-3d.md) — Passenger Airplane: Flight 3D Experience the most realistic passenger flight simulation! 2 Exciting Modes: World Map Mod
+- [Patagonians](../games/adventure/patagonians.md) — Explore horror and mystery in Patagonians! Search for your missing daughter, battle monsters, solve puzzles, and survive
+- [Path Paint 3D](../games/adventure/path-paint-3d.md) — Path Paint 3D is fun addictive hyper casual arcade game.Click and hold to paint the road. Can you paint all the way to f
+- [Patient House Escape](../games/adventure/patient-house-escape.md) — Patient House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Pattern Puzzle 3D](../games/adventure/pattern-puzzle-3d.md) — Welcome to Pattern Puzzle 3D, an exciting brain-training puzzle game designed to challenge your observation skills, logi
+- [Pavilostas Forest Adventure](../games/adventure/pavilostas-forest-adventure.md) — This year, you decided to explore the forest. You searched for the interesting forest locations to visit and Pavilostas 
+- [Peak Land Escape](../games/adventure/peak-land-escape.md) — Peak Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Peasant Escape](../games/adventure/peasant-escape.md) — Peasant Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Peasant house. Unfortun
+- [Peikin Duck Escape](../games/adventure/peikin-duck-escape.md) — Peikin Duck Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, O
+- [Pekko Robot 2](../games/adventure/pekko-robot-2-2.md) — Embark on a thrilling sci-fi adventure in Pekko Robot 2. Navigate intricate 2D levels as a robot collecting eggs and dod
+- [Pekko Robot](../games/adventure/pekko-robot-3.md) — Embark on an electrifying adventure in Pekko Robot, where you dash through intricate 2D challenges set in a sleek future
+- [Pen Run - 3D Pen Race Game](../games/adventure/pen-run-3d-pen-race-game.md) — On the way avoid all the obstacles that you encounter and collect lots of coins. Go to the end of the path to win yourse
+- [Penguin Adventure](../games/adventure/penguin-adventure.md) — Penguin Adventure is a puzzle game where you need to control the penguin to collect all diamonds and to unfreeze his gir
+- [Penguin Bridge](../games/adventure/penguin-bridge.md) — Welcome to the Penguin Bridge World. This is a crazy puzzle adventure game. Tap and hold to create Bridge and release to
+- [Penguin Caretaker Escape](../games/adventure/penguin-caretaker-escape.md) — Penguin Caretaker Escape is a point and click escape game developed by 8BGames. Imagine that you left your pet penguin t
+- [Penguin Dash](../games/adventure/penguin-dash.md) — In this box-style world, players will play as a cute penguin and control it to run on the automatically generated box ma
+- [Penguin Ice Breaker](../games/adventure/penguin-ice-breaker-2.md) — Bounce into strategic chaos with Penguin Ice Breaker! Master the art of precision as you guide a lovable penguin. Crush 
+- [Penguin Rescue 2](../games/adventure/penguin-rescue-2.md) — Penguin Rescue 2 is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Penguin Wars](../games/adventure/penguin-wars.md) — Penguin Wars is a game in which you play as a penguin trying to conquer Antarctica. You are going to do this by pushing 
+- [Peppa Pig: Pig Escape](../games/adventure/peppa-pig-pig-escape.md) — I thought I would share my Piggy Escape scary pig Quiz knowledge in this fun and unique UNOFFICIAL call game! This is Ne
+- [Perfect Food Slices](../games/adventure/perfect-food-slices.md) — Chop food like a real master. It's so satisfying! - Easy control - Addictive gameplay - Simple and fun - Interesting foo
+- [Perfect Turn Game](../games/adventure/perfect-turn-game.md) — Perfect Turn is a fun, addictive, and skill-based puzzle game that challenges your timing, precision, and reflexes. Desi
+- [Persia Prince Dash](../games/adventure/persia-prince-dash.md) — Prince of Persia Dash is a puzzle adventure game. Control an armored prince to collect gold coins and break through the 
+- [Persue Girl Escape](../games/adventure/persue-girl-escape.md) — Persue Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Peruse Girl's house
+- [Pet Doctor Caring Game](../games/adventure/pet-doctor-caring-game.md) — Step into the role of a caring pet doctor and help adorable animals feel better! In this fun and engaging game, you will
+- [Pet's Adventure A Day To Remember](../games/adventure/pet-s-adventure-a-day-to-remember.md) — Guide five charming pets on joyful quests blending beauty with fun. From stylish makeovers to strategic clean-ups, each 
+- [PetaPeta Nightmare School](../games/adventure/petapeta-nightmare-school.md) — Survive the eerie halls of PetaPeta Nightmare School, where a porcelain-faced entity relentlessly follows you. Collect c
+- [Peter Uncle Rescue](../games/adventure/peter-uncle-rescue.md) — Peter Uncle Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, O
+- [Pets Adventure A Day To Remember](../games/adventure/pets-adventure-a-day-to-remember.md) — Join Midge, Polly, Doug, Cooper, and Luca in the wildest Petventure! Each pet has a unique quest: Midge craves a glamoro
+- [Philatelic Escape Fauna Album](../games/adventure/philatelic-escape-fauna-album.md) — Dive into Philatelic Escape Fauna Album, an enthralling adventure blending intricate puzzles with the allure of stamp co
+- [Philatelic Escape - Fauna Album 2](../games/adventure/philatelic-escape-fauna-album-2.md) — Embark on a thrilling stamp-collecting adventure in Philatelic Escape - Fauna Album 2. Solve intricate puzzles and searc
+- [Philatelic Escape - Fauna Album 3](../games/adventure/philatelic-escape-fauna-album-3.md) — Dive into a puzzling adventure as a stamp collector seeking rare stamps. Navigate mysterious apartments, solve intricate
+- [Philatelic Escape - Fauna Album 4](../games/adventure/philatelic-escape-fauna-album-4.md) — Embark on a thrilling stamp-hunting adventure, delving into a mysterious apartment filled with clever puzzles. Explore e
+- [Photographer Escape 2](../games/adventure/photographer-escape-2.md) — Photographer Escape 2 is a point and click escape game developed by 8BGames. Imagine that you went to a Photographer hou
+- [Pickman Model](../games/adventure/pickman-model.md) — Unravel the chilling tale of Pickman in this Lovecraftian adventure. Immerse yourself in a dark, atmospheric world brimm
+- [Picnic Friends](../games/adventure/picnic-friends.md) — Picnic Friends is awesome fun games for family and kids!
+- [Pig Ball Impostor](../games/adventure/pig-ball-impostor-2.md) — Embark on a whimsical forest quest with Pig Ball Impostor, where you assist a charming ball pig in vanquishing impostors
+- [Pig Bros Adventure](../games/adventure/pig-bros-adventure.md) — The Pig brothers have been good friends since they were young. This time they went out to explore the countryside and fo
+- [pig dasher](../games/adventure/pig-dasher.md) — run and reach the maximum score you are a little pig and you have to run to live Only level, memory is your best allianc
+- [Pigeon Bomber](../games/adventure/pigeon-bomber.md) — Soar through the skies as Jack, the Pigeon Bomber, spreading chaos from above. Navigate the bustling city skyline and un
+- [Pigeon Escape](../games/adventure/pigeon-escape.md) — Pigeon Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on 
+- [Pigeon Escape 2](../games/adventure/pigeon-escape-2.md) — Pigeon Escape 2 is a point and click escape game developed by 8BGames. Imagine that you have a cute Pigeon in your house
+- [Piggy Bank Adventure](../games/adventure/piggy-bank-adventure.md) — PiggyBank Adventure is a fun addictive Physics puzzle Game made up of 24 levels. It’s time to save some money! Take the 
+- [Piggys Forest Panic](../games/adventure/piggys-forest-panic.md) — Piggys Forest Panic is a fast-paced, fun-filled escape adventure set in a wild and wacky forest! Play as Piggy, a cute b
+- [Piglet Escape](../games/adventure/piglet-escape.md) — Pig decided to escape and you in the game Piglet Escape will help her in this adventure. In front of you on the screen y
+- [Pin Puzzle Escape](../games/adventure/pin-puzzle-escape.md) — Guide a brave lady in Pin Puzzle Escape as you cleverly pull pins to unlock safety and uncover treasures. With each leve
+- [Pin Rescue 3D](../games/adventure/pin-rescue-3d.md) — Challenge and break through, show your wisdom, plan and layout countless difficulties, and help you avoid danger with th
+- [Ping Pong Ball Game](../games/adventure/ping-pong-ball-game.md) — Ping Pong is one of the most practiced sports in the world. Not only in China, where it has been declared the national s
+- [Pingu & Friends](../games/adventure/pingu-friends.md) — Pingu and friends is a really cute and easy game to play. You just have to tap on the screen to make jump the character 
+- [Pink Bird Rescue](../games/adventure/pink-bird-rescue.md) — Pink Bird Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, On 
+- [Pink Gate Escape](../games/adventure/pink-gate-escape.md) — Pink Gate Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Land, On the
+- [Pink House Escape 2](../games/adventure/pink-house-escape-2.md) — Pink House Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Pink house. Yo
+- [PINK ROOM ESCAPE](../games/adventure/pink-room-escape.md) — Pink Room Escape is a point and click escape game developed by 8BGames. Imagine that you fell asleep at night. When you 
+- [Pink Villa Escape](../games/adventure/pink-villa-escape.md) — Pink Villa Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a blue villa. 
+- [Pinkii 2](../games/adventure/pinkii-2-2.md) — Leap into Pinkii 2, a vibrant 2D platformer, where you'll collect yellow flowers, evading crafty foes and soaring monste
+- [Pinkii](../games/adventure/pinkii-3.md) — Leap into Pinkii's colorful world, where dodging monsters and spikes to reach the pink flag is just the beginning. Trave
+- [Pinky Princess Escape](../games/adventure/pinky-princess-escape.md) — Pinky Princess Escape is a point and click escape game developed by 8BGames. Imagine that you went to a house to see Pin
+- [Pinugs Frees Aivin](../games/adventure/pinugs-frees-aivin.md) — Embark on a daring rescue mission in Pinugs Frees Aivin! Leap and wall-jump your way through alien-infested environments
+- [Pipe Out Game](../games/adventure/pipe-out-game.md) — Pipe Out is a fun and challenging puzzle game where your goal is to connect pipes and create a complete path for the flo
+- [Pirate Bombs 2](../games/adventure/pirate-bombs-2-2.md) — Plunge into a whimsical seafaring adventure with Pirate Bombs 2! Navigate treacherous waters with Jack, leaping over per
+- [Pirate Bombs](../games/adventure/pirate-bombs-3.md) — Dive into a thrilling escapade with Jack the pirate! Navigate treacherous waters teeming with killer green whales, leap 
+- [Pirate Boy Escape](../games/adventure/pirate-boy-escape.md) — Pirate Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Pirate Boy house to 
+- [Pirate Jack](../games/adventure/pirate-jack-2.md) — Embark on an adventurous quest with Pirate Jack, where reaching his precious chest means surviving a ship teeming with h
+- [Pirate Kid](../games/adventure/pirate-kid.md) — Set sail on a thrilling seaside journey as a daring pirate youngster! Navigate treacherous shores, gather glittering dia
+- [Pirate To Escape](../games/adventure/pirate-to-escape.md) — Navigate perilous mazes as a daring pirate in "Pirate To Escape." Outsmart enemies, utilize teamwork, and strategically 
+- [Pirate Treasure Escape](../games/adventure/pirate-treasure-escape.md) — Pirate Treasure Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Pirate home, yo
+- [Pirates and Cannons](../games/adventure/pirates-and-cannons.md) — Embark on a thrilling pirate adventure, unleashing torpedoes, triple bombs, and sky dynamite to sink rival fleets. Hunt 
+- [PirateTreasure](../games/adventure/piratetreasure.md) — Fun and interactive pirate treasure game. Kill the zombies and find the treasure and escape the route.
+- [Pitfall](../games/adventure/pitfall-2.md) — Navigate an invisible world using your unique ability to reveal hidden threats. Traverse treacherous landscapes and surv
+- [Pity Dog Escape](../games/adventure/pity-dog-escape.md) — Pity Dog Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On t
+- [Pixcade 2 Player Escape](../games/adventure/pixcade-2-player-escape-2.md) — Pixcade 2 Player Escape immerses you in a thrilling cooperative adventure. Navigate maze-like rooms with a friend, using
+- [Pixel Adventure](../games/adventure/pixel-adventure.md) — Let enjoy the pixel adventure now!
+- [Pixel Adventure 3D](../games/adventure/pixel-adventure-3d.md) — Enter the exciting world of Pixel Adventure 3D, a thrilling action-adventure game filled with exploration, challenges, a
+- [Pixel Combat Multiplayer](../games/adventure/pixel-combat-multiplayer.md) — Pixel style action multiplayer fps game,You can fight with friends or other peoples.Try Deathmatch and Team deathmatch.N
+- [Pixel hero survivor](../games/adventure/pixel-hero-survivor.md) — Pixel Hero Survivor is a Survivor-type game where you must survive endless waves of incoming monsters. Choose from three
+- [Pixel on Titan](../games/adventure/pixel-on-titan.md) — Engage in fast-paced aerial combat in Pixel on Titan. Master your moves to protect citizens while slashing titans with p
+- [Pixel Santa Adventure](../games/adventure/pixel-santa-adventure.md) — Embark on a festive quest with Pixel Santa! Navigate enchanting pixelated landscapes, gather scattered gifts, masterfull
+- [Pixel Santa Escape](../games/adventure/pixel-santa-escape.md) — Join Santa in a thrilling endless run through a winter wonderland. Collect gifts for points as you leap over obstacles a
+- [Pixel Wizard](../games/adventure/pixel-wizard.md) — In Pixel Wizard, you step into the robes of a lone 2D wizard, battling relentless waves of enemies across multiple days 
+- [Pixelkenstein: Merry merry Christmas](../games/adventure/pixelkenstein-merry-merry-christmas-2.md) — Help Santa on a festive adventure as he zips through a snowy wonderland, gathering gifts to spread Christmas cheer. Navi
+- [Pixelpool - 2 Player](../games/adventure/pixelpool-2-player-2.md) — Guide the blue and red pixelpool characters through challenging obstacles as you race to the finish line. Jump, dodge, a
+- [Pixl Patches](../games/adventure/pixl-patches.md) — Pixl Patches is a little wholesome game that leads you through a short journey about loss and friendship.
+- [PixWars 2](../games/adventure/pixwars-2.md) — PixWars 2 is a multiplayer shooter game where you have to face off against a horde of zombies. You are all dropped in a 
+- [PixZombies](../games/adventure/pixzombies.md) — Smash waves of relentless zombies in PixZombies, an exhilarating arcade game where speed is your ally. Tap swiftly to fe
+- [PIZZA](../games/adventure/pizza.md) — Pizza is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Kitchen, A hungry girl a
+- [PJ MASKS 2](../games/adventure/pj-masks-2.md) — Choose your favourite hero character to play with, and journey across the moonlit rooftops and through the night, collec
+- [Placid Boy Escape](../games/adventure/placid-boy-escape.md) — Placid Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Boy house to take hi
+- [Placid House Escape](../games/adventure/placid-house-escape.md) — Placid House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Plane Escape Puzzle](../games/adventure/plane-escape-puzzle.md) — Plane Escape Puzzle is a fun, brain-challenging puzzle game designed to test your logic, focus, and problem-solving skil
+- [Planes Control‏](../games/adventure/planes-control.md) — Take control of the sky and land your planes avoiding collisions and enemies. Guide your planes to ensure a safe landing
+- [Planet 404. Episode 1](../games/adventure/planet-404-episode-1.md) — In this exciting puzzle platformer players embark on an amazing journey with Alice, a brave and curious explorer who fin
+- [Planetary Plunge](../games/adventure/planetary-plunge.md) — Planetary Plunge hurls you into a thrilling cosmic free-fall across the galaxy! Navigate your way through asteroid field
+- [Planktons Pernicious Plot](../games/adventure/planktons-pernicious-plot.md) — Plankton's hypnotized jellyfish are taking over Bikini Bottom in the Plankton's Pernicious Plot game! The evil genius ha
+- [Plants vs Undead](../games/adventure/plants-vs-undead.md) — Plants vs Undead is a tower deffense strategy game. If you are gamers, of course you are familiar with the name of this 
+- [Playful Kid Escape](../games/adventure/playful-kid-escape.md) — Playful Kid Escape is a point and click escape game developed by 8BGames. Imagine that you went to a kid house to play w
+- [Playful Land Escape](../games/adventure/playful-land-escape.md) — Playful Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, 
+- [Playtime Killer Chapter 4](../games/adventure/playtime-killer-chapter-4-2.md) — Navigate a chilling toy kingdom with a sinister purple cat in Playtime Killer Chapter 4. Employ cunning and stealth to e
+- [Playtime Night Scary](../games/adventure/playtime-night-scary.md) — The hunt for creepy ghosts with glowing eyes will last for 10 levels. They go in turn one after another, and at first ea
+- [Pleasing Bourg Escape](../games/adventure/pleasing-bourg-escape.md) — Pleasing Bourg Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a bourg fo
+- [Pocket Jump](../games/adventure/pocket-jump.md) — Pocket Jump – this is a great (flat style) arcade game with very beautiful graphics. The game is ideally suited for mobi
+- [Pocket Universe](../games/adventure/pocket-universe.md) — Pocket Universe is an adventure game where players build and expand their own tiny world.
+- [Pocket Zone](../games/adventure/pocket-zone-2.md) — Explore the eerie remnants of Chernobyl, navigating a treacherous world where your choices shape unique events. Survive 
+- [Pocong and Kuntilanak Terror Horror](../games/adventure/pocong-and-kuntilanak-terror-horror.md) — pocong and kuntilanak, a horror folk from indonesia make terror again. in abandoned restrict area!
+- [Pocong and Kuntilanak Terror Horror](../games/adventure/pocong-and-kuntilanak-terror-horror-2.md) — Navigate an eerie Indonesian folklore realm where the spirits Pocong and Kuntilanak haunt an abandoned area. Solve puzzl
+- [Pocong Creepy Video Call Horror](../games/adventure/pocong-creepy-video-call-horror.md) — Now creepy pocong call you in misterious way!
+- [Pocong Dungeon](../games/adventure/pocong-dungeon.md) — Pocong ghost adventure in a dungeon that's not scary at all. Grab the key to go to the next level.
+- [Pocong found Kuntilanak night horror](../games/adventure/pocong-found-kuntilanak-night-horror.md) — Pocong and kuntilanak is horror from indonesia
+- [Point Adventure](../games/adventure/point-adventure.md) — Dive into Point Adventure, where vibrant visuals meet fast-paced action. Navigate daring levels, gather points, and outw
+- [POKEMON GO](../games/adventure/pokemon-go.md) — Join Trainers across the globe who are discovering Pokémon as they explore the world around them. Pokémon GO is the glob
+- [Pokemon Pikachu Escape](../games/adventure/pokemon-pikachu-escape.md) — Pokemon Pikachu Escape is a point and click escape game developed by 8BGames. Imagine that you got a call that Pikachu f
+- [pokemon run jump](../games/adventure/pokemon-run-jump.md) — Monster Squad Rush
+- [Pond Forest Escape](../games/adventure/pond-forest-escape.md) — Pond Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, the
+- [Pong Fish](../games/adventure/pong-fish-2.md) — Dive into an aquatic twist on classic Pong, where you’ll compete globally in thrilling paddle battles. With easy control
+- [Poppy Granny](../games/adventure/poppy-granny.md) — If you want to have a scary time, play Poppy Granny V 3.1 : Horror Scary MOD 2019 now and try to escape from the horror 
+- [Poppy Huggy Horror Sliding](../games/adventure/poppy-huggy-horror-sliding.md) — Rearrange creepy tiles to reveal eerie images of Huggy Wuggy. Enjoy spine-tingling moments as you piece together chillin
+- [poppy huggy playtime horror](../games/adventure/poppy-huggy-playtime-horror.md) — The higher the level plays, the more difficult the challenge becomes. You will have to find a way to overcome the obstac
+- [Poppy Imposter PlayTime](../games/adventure/poppy-imposter-playtime.md) — Poppy Imposter PlayTime - Fun io game is a super cool, easy and relaxing game. To win this, your mission is simple: Smas
+- [Poppy Office Nightmare](../games/adventure/poppy-office-nightmare.md) — Poppy Office Nightmare is a 3D horror game, you are trapped in dark scary office and your mission is to find all lost to
+- [Poppy Play Night](../games/adventure/poppy-play-night.md) — You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned t
+- [Poppy Playtime](../games/adventure/poppy-playtime.md) — you must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned t
+- [Poppy Playtime Chapter 3](../games/adventure/poppy-playtime-chapter-3.md) — The new online game Poppy PlayTime 3 is based on the well-known Poppy Playtime character, and you may play it for free. 
+- [Poppy Playtime Differences](../games/adventure/poppy-playtime-differences.md) — Now it's time for popular game named Poppy Playtime Differences, let's have fun! Behind these pictures are small differe
+- [Poppy Playtime Full Game](../games/adventure/poppy-playtime-full-game.md) — Poppy Playtime Full Game is not yet fully available at this time. For now, you can only enjoy the first chapter, which m
+- [Poppy Playtime Game](../games/adventure/poppy-playtime-game.md) — Play Poppy Playtime Game in your web browser for free at Superkidgames.com. Poppy Playtime Huggy Wuggy Game is a horror 
+- [Poppy Playtime - Maze Escape](../games/adventure/poppy-playtime-maze-escape.md) — Welcome to the poppy Playtime Maze Escape! Run and be careful of the poppy monster. Find your way out to escape! Let's b
+- [Poppy Playtime Online](../games/adventure/poppy-playtime-online.md) — Poppy Playtime is a new horror where you will be trapped in the giant toy factory alone with a frightening creature chas
+- [Poppy Playtime Online Port](../games/adventure/poppy-playtime-online-port.md) — you must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned t
+- [Poppy Playtime : Shourcut Race](../games/adventure/poppy-playtime-shourcut-race.md) — Race against opponents, and stack all the plank pieces you can pick up along the way! If you're smart enough, get out of
+- [Poppy Playtime Survival](../games/adventure/poppy-playtime-survival.md) — This new horror game quickly gained popularity because of well-detailed graphics and thrilling atmosphere. And the inter
+- [Poppy vs Friday Fight FNF](../games/adventure/poppy-vs-friday-fight-fnf.md) — Poppy playtime vs Friday Fight FNF is an incredible game duel in the battlegrounds full of traps. Сhoose your hero and f
+- [Poppy vs Garten of banban House escape](../games/adventure/poppy-vs-garten-of-banban-house-escape.md) — Poppy vs Garten of Banban, a horror game filled with terrifying monsters and a mysterious, haunted mansion. Can you esca
+- [Portal Series_1](../games/adventure/portal-series-1.md) — this game is a puzzle game so solve a puzzle open the door and go to the next level. play games for a more fun
+- [Postman Escape](../games/adventure/postman-escape.md) — Postman Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Postman house to take h
+- [Pot Store Escape](../games/adventure/pot-store-escape.md) — Pot Store Escape is a point and click game developed by Games2Live. Imagine that you had been to a Pot Store; there you 
+- [Potrick Garage Storage](../games/adventure/potrick-garage-storage.md) — Enter the chilling world of Potrick Snaps Meatly Storage, a horror game that plunges you into dark, eerie rooms brimming
+- [Power Rangers Spaces Mystery](../games/adventure/power-rangers-spaces-mystery.md) — Go with Power Rangers and uncover the mysteries in the universe
+- [Pretty Flower Garden Escape](../games/adventure/pretty-flower-garden-escape.md) — Pretty Flower Garden Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a F
+- [Pretty School Boy Escape](../games/adventure/pretty-school-boy-escape.md) — Pretty School Boy Escape is a point and click escape game developed by 8BGames. Imagine that you a Pretty School Boy inv
+- [Primal Druid - Kingdom of Animals](../games/adventure/primal-druid-kingdom-of-animals.md) — As a Primal Druid, your mission is to capture, train, and command an army of creatures — from fierce battle cats and hyb
+- [Prime Ball Adventure Game](../games/adventure/prime-ball-adventure-game.md) — Welcome to the world of prime ball games. Are you ready to embark on a thrilling journey filled with brain-teasing chall
+- [Primeval House Escape](../games/adventure/primeval-house-escape.md) — Primeval House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to an old hou
+- [princess escape](../games/adventure/princess-escape.md) — Princess Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On t
+- [Princess Escape 2021](../games/adventure/princess-escape-2021.md) — Princess Escape is a fun game where you control a princess that tries to escape from the evil castle. Play Princess Esca
+- [princess frozen doll house decoration](../games/adventure/princess-frozen-doll-house-decoration.md) — If you love to decorate the house then why not convert this creativity into the fun dream home design activity. But this
+- [Princess Goldblade and the Dangerous Waters - Onli](../games/adventure/princess-goldblade-and-the-dangerous-waters-onli.md) — In a magical world far away, there is an island where Trinks live, very friendly creatures. They have the loyalty of his
+- [Princess Goldsword and the Land of Water](../games/adventure/princess-goldsword-and-the-land-of-water-2.md) — Join Princess Goldsword in her enchanting quest through the Land of Water. Engage in thrilling challenges and strategic 
+- [Princess Messy House Cleaning](../games/adventure/princess-messy-house-cleaning.md) — Welcome to Princess Messy House Cleaning : Girls Activities.A cute little princess is at home, there was a party in hous
+- [Princess Run: Temple and Ice](../games/adventure/princess-run-temple-and-ice.md) — “Princess Run: Temple and Ice” - a new game for girls is now free! An amazing running adventure through the forest, vill
+- [Princesses at Horror School](../games/adventure/princesses-at-horror-school-2.md) — In Princesses at Horror School, dive into the spooky, stylish world of monster girl fashion. Mix princess elegance with 
+- [Prison Break - prison escape plan](../games/adventure/prison-break-prison-escape-plan.md) — Are You Ready To Take Action on a Great Prison Escape Plan to prove that you are not what they think you are.. You are n
+- [Prison Escape](../games/adventure/prison-escape-2.md) — Conquer 60 physics-based puzzles in Prison Escape by strategically eliminating obstacles and guiding the prisoner to saf
+- [Prison Escape Game](../games/adventure/prison-escape-game-2.md) — Become a wrongly accused inmate in a thrilling quest for freedom. Outsmart vigilant guards by solving intricate puzzles 
+- [Prison Escape Online](../games/adventure/prison-escape-online.md) — Prison Escape Online is a fantastically stickman game where you... Well, help him to escape the prison! After being thro
+- [Prison Escape Plan 3D](../games/adventure/prison-escape-plan-3d.md) — Prisoners are sentenced to prison for things they've never done. They try to make a plan to escape the prison and find j
+- [Prison Escape Puzzle: Adventure](../games/adventure/prison-escape-puzzle-adventure.md) — You suddenly find yourself charged as a criminal and locked up in an old city prison in Alcatraz. Solve puzzles and find
+- [Prison Escape Puzzle Master](../games/adventure/prison-escape-puzzle-master.md) — Think prison life is boring? Think again! Prison Master: Escape Journey 3D turns everyday life into a thrilling strategy
+- [Prison Escape: Stickman Story](../games/adventure/prison-escape-stickman-story.md) — A fan of Ars&egrave;ne Lupin, a fictional gentleman thief and master of disguise, calls himself Lupin 19th. His hobby is
+- [Prison Jail Escaping Game](../games/adventure/prison-jail-escaping-game.md) — Dive into a heart-pounding adventure where your survival hinges on cunning strategies. In a world of suspense and high-s
+- [Prison Plan Escape](../games/adventure/prison-plan-escape.md) — Prisoners are sentenced to prison for things they've never done. They try to make a plan to escape the prison and find j
+- [Prison Survive Break Escape](../games/adventure/prison-survive-break-escape.md) — Get ready in this epic prison escape Survival mission. You will have to use all your skills for survive in this city! Es
+- [Prisoner Bob](../games/adventure/prisoner-bob-2.md) — Navigate a tense 3x3 grid in Prisoner Bob, where every choice could mean freedom or capture. Outsmart guards and fierce 
+- [Prisoner Escape](../games/adventure/prisoner-escape.md) — Prisoner Escape is a point and click game developed by Games2Live. Imagine that you had been to a Prison; there you got 
+- [Prisoner Escape Plan](../games/adventure/prisoner-escape-plan.md) — Make a plan to escape from the prison and watch out from the gaurds. Draw the escape route and help the prisoners to esc
+- [Prisoners Run](../games/adventure/prisoners-run.md) — A brutal prison where guards show no mercy. You play as a powerful inmate who can smash doors, outsmart guards, and free
+- [Private Land Escape](../games/adventure/private-land-escape.md) — Private Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, O
+- [Professor Escape 2](../games/adventure/professor-escape-2.md) — Professor Escape 2 is a point and click escape game developed by 8BGames. Imagine that you went to a Professor house to 
+- [Professor House Escape](../games/adventure/professor-house-escape.md) — Professor House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Professor h
+- [Project: Survival](../games/adventure/project-survival-2.md) — Enter a zombie-infested city where every step is a battle for survival. Navigate perilous maps, scavenge for weapons, an
+- [Psychological Horror Tile Picture Challenge](../games/adventure/psychological-horror-tile-picture-challenge.md) — Dive into a chilling puzzle adventure where each solved sliding tile reveals a piece of an unsettling mystery. Test your
+- [Pug Dog Escape](../games/adventure/pug-dog-escape.md) — Pug Dog Escape is a point and click escape game developed by 8BGames. Imagine that you have a pet pug dog in your house.
+- [Pull Him NeoxGame](../games/adventure/pull-him-neoxgame.md) — The hunter begins his journey for treasure, but the puzzles in front of the hunter trapped him. What you need to do is t
+- [Pull Him Out](../games/adventure/pull-him-out.md) — The hunter begins his journey for treasure, but the puzzles in front of the hunter trapped him. What you need to do is t
+- [Pull Him Out - Free](../games/adventure/pull-him-out-free.md) — The hunter begins his journey for treasure, but the puzzles in front of the hunter trapped him. What you need to do is t
+- [Pull Him Out Game](../games/adventure/pull-him-out-game-2.md) — Embark on a puzzle-solving adventure in Pull Him Out Game! Navigate intricate scenarios by interacting with your surroun
+- [Pull Him Out Online](../games/adventure/pull-him-out-online.md) — The hunter begins his journey for treasure, but the puzzles in front of the hunter trapped him. What you need to do is t
+- [Pull Mermaid Out](../games/adventure/pull-mermaid-out.md) — The little mermaid fell into the lost ancient city on the way home. This ancient city has fallen. Only the drainage pipe
+- [Pull The Pin 3D: Help Police](../games/adventure/pull-the-pin-3d-help-police.md) — Assist the courageous police officer who is on a mission to capture an escaped criminal. Use your ingenuity and cunning 
+- [Pulse Of Fear](../games/adventure/pulse-of-fear.md) — Trapped in an abandoned place where something unspeakable lives, your survival depends on two things: light and silence.
+- [Pumpkin Drop](../games/adventure/pumpkin-drop.md) — Pumpkin Drop is the coolest physics-based puzzle game. Drop the Pumpkin down onto a metal block by destroying all the ot
+- [Pumpkin Dungeon Of Doom](../games/adventure/pumpkin-dungeon-of-doom.md) — Pumpkin Dungeon Of Doom is an epic adventure through 100 levels of monsters, traps and danger!!! Have you got the brains
+- [Pumpkin Forest Escape](../games/adventure/pumpkin-forest-escape.md) — Pumpkin Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, 
+- [Pumpkin Night](../games/adventure/pumpkin-night.md) — Guide fearless Jack through haunted trails in Pumpkin Night, a captivating blend of skill and strategy. Navigate spooky 
+- [Pumpkin Pursuit](../games/adventure/pumpkin-pursuit.md) — Embark on a moonlit quest in Pumpkin Pursuit! Navigate a haunted minefield, snatch elusive pumpkins, and outsmart lurkin
+- [Punch The Wall](../games/adventure/punch-the-wall.md) — Are you angry ? Release your anger not on others but on game. Yes!! Break every wall that stands in your way! Release yo
+- [Puppet Master](../games/adventure/puppet-master.md) — Do you want to throw a knife, fire a machine gun or launch a rocket? Unlock weapons by damaging the ragdoll in this acti
+- [Puppets Cemetery](../games/adventure/puppets-cemetery-2.md) — Brace yourself for a spine-chilling adventure in Puppets Cemetery. Navigate a haunting graveyard, strategically blasting
+- [Puppy Escape](../games/adventure/puppy-escape.md) — Puppy Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on t
+- [Purify the last forest](../games/adventure/purify-the-last-forest.md) — The last magical forest is home to many wonderful creatures. Multicolored birds, white deer... and poor little helpless 
+- [Purple Bird Escape](../games/adventure/purple-bird-escape.md) — Purple Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Land, On t
+- [Purple Boy Adventure](../games/adventure/purple-boy-adventure.md) — Join Purple Boy on a colorful quest overflowing with challenges and hidden wonders. Navigate tricky traps, outsmart clev
+- [Purple House Escape](../games/adventure/purple-house-escape.md) — Purple House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Royal house. Y
+- [Purple Monster Adventure](../games/adventure/purple-monster-adventure.md) — Join an adorable purple monster on a platform adventure through a magical valley. Master precise jumps and evade lively 
+- [Push In Boots Escape](../games/adventure/push-in-boots-escape.md) — Push In Boots Escape is a point and click escape game developed by 8BGames. Imagine that you are went to see Push In Boo
+- [Push Noob](../games/adventure/push-noob-2.md) — Get ready to unleash physics fun in Push Noob! Use snowballs to knock resilient characters from dizzying heights. Master
+- [Push Out - Puzzle Adventure](../games/adventure/push-out-puzzle-adventure.md) — Dive into Push Out - Puzzle Adventure, where strategic swiping and quick thinking guide blocks through tricky doors. Wit
+- [Push Puzzle Rescue Adventure](../games/adventure/push-puzzle-rescue-adventure.md) — Embark on a heartwarming rescue mission where clever strategy meets pure affection. Maneuver through intriguing puzzles 
+- [Pusha Pusha](../games/adventure/pusha-pusha.md) — Pusha Pusha is a puzzle game where you must push boxes into the target area in order to pass the level. One wrong move c
+- [Putot 2](../games/adventure/putot-2-2.md) — Embark on an adventurous quest in Putot 2, navigating through eight increasingly challenging 2D levels. Master the art o
+- [Putot](../games/adventure/putot-3.md) — Embark on an action-packed quest in Putot's 2D world. Conquer eight thrilling levels filled with hostile aliens and trea
+- [Puzzle Candle](../games/adventure/puzzle-candle.md) — Your goal is simple: Reach the end of each level -- but getting there won't be easy. Solve tricky puzzles and master pre
+- [Puzzle House Escape](../games/adventure/puzzle-house-escape.md) — Puzzle House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house, On 
+- [Puzzling Adventure](../games/adventure/puzzling-adventure.md) — Puzzling Adventure immerses you in a vibrant world where clever movement is key. Solve intricate puzzles and collect coi
+- [Puzzling Estate Escape](../games/adventure/puzzling-estate-escape.md) — Puzzling Estate Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to an estete
+- [Pyramid Exit : Escape Game](../games/adventure/pyramid-exit-escape-game.md) — Enter in unknown pyramids and to try to exit pharaonic treasures. You must find the way to move out the sarchophagus fro
+- [Python Snake Kill Skibidi Toilet Backrooms](../games/adventure/python-snake-kill-skibidi-toilet-backrooms-2.md) — Navigate eerie backrooms as a cunning python, striking quirky Skibidi toilets using precision and speed. Delve into this
+- [Quarantine Girl Escape](../games/adventure/quarantine-girl-escape.md) — Quarantine Girl Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house, 
+- [Queen Escape](../games/adventure/queen-escape.md) — Queen Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a palace; on 
+- [Queen Rescue Game](../games/adventure/queen-rescue-game.md) — Welcome to Queen Rescue: Dragon Puzzle &ndash; an exhilarating and immersive casual rescue puzzle game where your strate
+- [Queer Village Escape](../games/adventure/queer-village-escape.md) — Queer Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village f
+- [Questlike: Web](../games/adventure/questlike-web.md) — Join the Hunt! Questlike: Web is a beat-bumping, monster-hunting RPG! Battle Beasts in rhythm-based combat, collect and 
+- [Quevi 2](../games/adventure/quevi-2-2.md) — Embark on a heart-pounding journey in Quevi 2, where quick reflexes and sharp strategy are your allies. Maneuver through
+- [Quevi](../games/adventure/quevi-3.md) — Dive into Quevi's thrilling 2D sci-fi platformer world, where cunning agility is key. Navigate complex levels filled wit
+- [R.E.P.O and Tralalero Tralala Breakout](../games/adventure/r-e-p-o-and-tralalero-tralala-breakout.md) — Navigate a crumbling labyrinth as you collect scattered instant noodles to unlock your escape. Pursued by the eerie duo,
+- [R.E.P.O Horror Escape](../games/adventure/r-e-p-o-horror-escape.md) — Navigate a chilling facility filled with unpredictable horrors in REPO Horror Escape. Outsmart twisted creatures, collec
+- [R.E.P.O vs Tralalero Tralala in Hospital](../games/adventure/r-e-p-o-vs-tralalero-tralala-in-hospital.md) — Navigate the eerie corridors of an abandoned hospital as you engage in a slow, tactical showdown. Play as R.E.P.O, battl
+- [Rabbit Kitten Escape](../games/adventure/rabbit-kitten-escape.md) — Rabbit Kitten Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a pla
+- [Rabbit Land Escape](../games/adventure/rabbit-land-escape.md) — Rabbit Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village, th
+- [Rabbit Samurai 2](../games/adventure/rabbit-samurai-2.md) — Swing through vibrant levels as a nimble rabbit samurai, perfecting your timing to collect every elusive carrot. Master 
+- [Rabbit Samurai](../games/adventure/rabbit-samurai-3.md) — Embark on an adventurous journey with Rabbit Samurai! Master the art of swinging with precise angles to rescue mice and 
+- [raccoon adventure game](../games/adventure/raccoon-adventure-game.md) — raccoon World Jungle Adventure bring you little jungle boy adventure for android games 2020 new games. Once upon a time,
+- [Rage](../games/adventure/rage.md) — Race through a dazzling cyberpunk world in Rage, where survival means mastering speed and precision. Navigate challengin
+- [Railroad Crossing Mania Game](../games/adventure/railroad-crossing-mania-game.md) — Control railway crossing gates in Railroad crossing mania - Ultimate train simulator game. This game is great and funny 
+- [Rainbow Friends](../games/adventure/rainbow-friends.md) — Come play Rainbow Friends, Rope Game and enjoy the first-rate, smooth animations as heroes swing freely through the Gang
+- [Rainbow Friends Run](../games/adventure/rainbow-friends-run.md) — Je suis Red Monster - votre guide dans ce jeu Survivor In Rainbow Monster io. La première version mobile de Rainbow Game
+- [Rainbow Friends. Survival](../games/adventure/rainbow-friends-survival.md) — In this intense survival game you find yourself trapped in a haunted environment where you must endure five days and fiv
+- [Rainbow Friends Survival Puzzle](../games/adventure/rainbow-friends-survival-puzzle.md) — Dart around the room in a rush to survive in this thrilling action game! Control the Among Us crewmate and avoid being s
+- [Rainbow Monster Impostor Catcher](../games/adventure/rainbow-monster-impostor-catcher.md) — Look no further than Rainbow Monster Impostor Catcher! In this thrilling game, youll take control of Rainbow Blue as you
+- [Rainbow Survivor](../games/adventure/rainbow-survivor.md) — Blue Monster Impostor Survivor - where you will play as a person who has been kidnapped during a school trip to an amuse
+- [Rainbow Valley Escape](../games/adventure/rainbow-valley-escape.md) — Rainbow Valley Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a valley,
+- [Rajuchan 2](../games/adventure/rajuchan-2-2.md) — Embark on a thrilling adventure in Rajuchan 2, a captivating 2D platformer. Skillfully dodge diverse foes and deadly spi
+- [Rajuchan](../games/adventure/rajuchan-3.md) — Embark on an exhilarating platformer adventure with Rajuchan, where precision and strategy are your best allies. Navigat
+- [Raka vs Kaka 2](../games/adventure/raka-vs-kaka-2-2.md) — Embark on a thrilling quest in Raka vs Kaka 2, navigating treacherous platforms and battling aerial foes. Master the art
+- [Raka vs Kaka](../games/adventure/raka-vs-kaka-3.md) — Dash through vibrant, intricate levels in Raka vs Kaka, a thrilling platformer adventure. Master double jumps, dodge cra
+- [Raktoo 2](../games/adventure/raktoo-2-2.md) — Embark on a delightful platforming quest in Raktoo 2. Navigate perilous landscapes, dodge fearsome enemies, and perfect 
+- [Rat Land Escape](../games/adventure/rat-land-escape.md) — Rat Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On th
+- [Rat Purrsuit](../games/adventure/rat-purrsuit.md) — in this game you have cat and catch the rat and complete the level every level diffcult and share with your friend enjoy
+- [Ratomilton Meets Sprunki Adventure](../games/adventure/ratomilton-meets-sprunki-adventure.md) — Ratomilton Meets Sprunki is an exciting physics-based puzzle game where players must use their wits and strategic thinki
+- [Ratomilton Meets Sprunki Physics Puzzle Adventure](../games/adventure/ratomilton-meets-sprunki-physics-puzzle-adventure.md) — Guide Rato Milton through quirky physics puzzles to reunite with his friend Sprunki. Cleverly manipulate gravity and str
+- [Raven Estate](../games/adventure/raven-estate.md) — Raven Estate is a fast-paced shoot-'em-up where you become a fearless crow reclaiming a haunted estate. Blast through wa
+- [Ravishing Land Escape](../games/adventure/ravishing-land-escape.md) — Ravishing Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place fo
+- [Real Apple Catcher Extreme fruit catcher surprise](../games/adventure/real-apple-catcher-extreme-fruit-catcher-surprise.md) — The Real Battle between YOU and APPLES. Prove yourself the real apple catcher. In This awesome game users have to clear 
+- [Real Mountain Climber Game](../games/adventure/real-mountain-climber-game.md) — Welcome to the world of real mountain climber games. Get ready to climb the challenging mountain peaks and become the Ki
+- [Real MTB Downhill 3D](../games/adventure/real-mtb-downhill-3d.md) — Real MTB Downhill 3D game is an adventurous simulation on different mountain roads. Try to complete 5 different roads in
+- [Reco Ball 2](../games/adventure/reco-ball-2-2.md) — Navigate through vibrant 2D worlds as a daring ball on a quest for copper coins. Execute skillful double jumps to dodge 
+- [Reco Ball](../games/adventure/reco-ball-3.md) — Embark on an energetic adventure in Reco Ball, where skillful maneuvering and double-jumps propel you through a colorful
+- [ReCoil](../games/adventure/recoil-2.md) — You play as a little character and using various weapons you will need to kill the nasty pink viruses ! You cannot move 
+- [Recoil Arena 1VS1](../games/adventure/recoil-arena-1vs1-2.md) — Master recoil and strategy in Recoil Arena 1VS1, an intense head-to-head combat game. Navigate dynamic maps and outwit y
+- [Red and Blue Adventure 2](../games/adventure/red-and-blue-adventure-2-2.md) — Embark on an exhilarating journey with Red and Blue Adventure 2, where controlling two characters adds a dynamic twist. 
+- [Red and Blue Adventure](../games/adventure/red-and-blue-adventure-3.md) — Join Red and Blue on a perilous journey packed with thrilling challenges. Navigate inventive levels using simple control
+- [Red and Blue Red Forest](../games/adventure/red-and-blue-red-forest.md) — More extreme challenges await you in the 3rd game of the red and blue series. Welcome to the most challenging part of th
+- [Red and Blue Stickman Rope](../games/adventure/red-and-blue-stickman-rope.md) — Are you ready for the adventure of two very cute brothers, namely blue and red stickman? Brothers red and blue need to g
+- [Red and Green 3](../games/adventure/red-and-green-3.md) — red and green 3 is a two player game. An adventurous game for two, depicting the friendship between the red man and the 
+- [Red and Green 6: Color Rain](../games/adventure/red-and-green-6-color-rain-2.md) — Survive the vibrant chaos in Red and Green 6: Color Rain, a thrilling pixelated challenge. Navigate colorful storms with
+- [Red Ball 4](../games/adventure/red-ball-4.md) — Roller Ball 4 Adventure : Ball Hero Volume 3 is the third installment to the hit jump ball series. Evil minions want to 
+- [Red Ball 4 Bounce Adventure](../games/adventure/red-ball-4-bounce-adventure.md) — Bounce Ball 4: Level 4 is the new edition to the hit red big ball 4 series. Evil minions want to squeeze the planet into
+- [Red Ball Christmas love](../games/adventure/red-ball-christmas-love.md) — Play now our new exclusive RedBall Christmas Love game here first on kiz10.com !!! Enjoy a new installment of the adorab
+- [Red Bird Escape](../games/adventure/red-bird-escape.md) — Red Bird Escape is a point and click escape game developed by 8B Games/Games2mad. Imagine that you had been to a forest 
+- [Red Bird Escape 1](../games/adventure/red-bird-escape-1.md) — Red Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Land, On ther
+- [Red Escape](../games/adventure/red-escape.md) — Red Escape is a captivating adventure puzzle game that puts your wits and problem-solving skills to the test! Trapped in
+- [Red Forest Escape](../games/adventure/red-forest-escape.md) — Red Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, ther
+- [Red Hero 4](../games/adventure/red-hero-4.md) — Are you a crazy fan of Bounce Ball 5 adventure series? Big Ball 3, Bounce Ball 4 Love and Roller Ball 3 is designed for 
+- [Red Light, Green Light - Squid Game](../games/adventure/red-light-green-light-squid-game.md) — Red Light, Green Light is a classic free competitive parkour game. After the three-second countdown, all people can no l
+- [Red Moon](../games/adventure/red-moon.md) — Once a decade, the moon shines Red... on that day, we, the Red Samurais, gain its immense power. Can you feel it? With i
+- [Red Parrot Rescue](../games/adventure/red-parrot-rescue.md) — Red Parrot Rescue is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Red Riding Hood Run](../games/adventure/red-riding-hood-run.md) — Dash through the forest as Red Riding Hood, skillfully avoiding wolves and obstacles. Collect baskets to climb the leade
+- [Red Room Escape](../games/adventure/red-room-escape.md) — Red Room Escape is a point and click escape game developed by 8BGames. Imagine that you fell asleep at night. When you w
+- [Red Square Adventure](../games/adventure/red-square-adventure-2.md) — Guide the Red Square through a vibrant pixelated world filled with tricky paths and daunting obstacles. Master the art o
+- [Red Stickman and Blue Stickman](../games/adventure/red-stickman-and-blue-stickman-2.md) — Guide Red Stickman and Blue Stickman through perilous temples, dodging hidden traps and collecting coins. Master dual co
+- [Red Up Survival Offline Game](../games/adventure/red-up-survival-offline-game.md) — Red up is an amazing platformer game, where you can control fireboy on his stick adventure to rescue watergirl. They are
+- [Red Villa Escape](../games/adventure/red-villa-escape.md) — Red Villa Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a red villa. Yo
+- [Red Wood House Escape](../games/adventure/red-wood-house-escape.md) — Red Wood House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [RedBall Adventure](../games/adventure/redball-adventure-2.md) — Roll into the captivating charm of RedBall Adventure, where the challenge lies in precision and skill. Navigate intricat
+- [Reef Color Challenge](../games/adventure/reef-color-challenge.md) — Dive into the vibrant underwater world of Reef Color Challenge! In this fast-paced logic game, you control a single bloc
+- [Regal Academy School Mysteries](../games/adventure/regal-academy-school-mysteries.md) — The game is based on an Italian animated television series co-created by Iginio Straffi and Joanne Lee. The series follo
+- [Regular Agents](../games/adventure/regular-agents.md) — It is a game where 2 agents overcome the difficulties and collect the eggs and pass the levels. This game played for two
+- [Reign of Wars](../games/adventure/reign-of-wars.md) — Get your Lands back!​ Reign of Wars! Defeat the enemies that have invaded your Reign. Rock, paper, scissor style battle.
+- [Reindeer Escape 2](../games/adventure/reindeer-escape-2.md) — Reindeer Escape 2 is a point and click escape game developed by 8BGames. Imagine that you bought a Reindeer for Christma
+- [Reporter House Escape](../games/adventure/reporter-house-escape.md) — Reporter House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Reptolia 2](../games/adventure/reptolia-2-2.md) — Embark on a thrilling 2D adventure with Reptolia 2, where treacherous landscapes test your platforming prowess. Master d
+- [Reptolia](../games/adventure/reptolia-3.md) — Embark on a vibrant, thrilling journey in Reptolia, a 2D platformer where quick reflexes and strategic double jumps are 
+- [Rescue Casual Pin Puzzle](../games/adventure/rescue-casual-pin-puzzle.md) — Welcome to Rescue Casual Pin Puzzle, the brain-teasing adventure filled with love, strategy, and excitement. In this add
+- [Rescue Escape](../games/adventure/rescue-escape.md) — Guide agile stick figures through perilous prison mazes in Rescue Escape. Dodge spike traps and navigate tight corridors
+- [Rescue Friend](../games/adventure/rescue-friend.md) — Rescue Boy: Pull The Pin is a brain burning high IQ puzzle game, but it is especially addictive and has been playing!How
+- [Rescue Girl](../games/adventure/rescue-girl.md) — This is an interesting puzzle in the genre of Pin Pull! There are many modes, go through unique levels with varying diff
+- [Rescue Machine Puzzle](../games/adventure/rescue-machine-puzzle.md) — Rescue Machines is a fun hypercasual game. People are caught under a rockslide! Can you build a machine to rescue them? 
+- [Rescue Man From Prison](../games/adventure/rescue-man-from-prison.md) — Rescue Man from Prison is a point and click game developed by 8B Games/Games2mad. Imagine that your friends had been too
+- [Rescue Mission](../games/adventure/rescue-mission.md) — Embark on a thrilling arcade-style quest in Rescue Mission: Volcanic Adventure. Navigate vibrant pixel landscapes, dodgi
+- [Rescue My Love](../games/adventure/rescue-my-love.md) — 1. Simple picture style of the game, move your brain, pass is not easy; 2. It's very easy to play, but every level is di
+- [Rescue Pins](../games/adventure/rescue-pins.md) — This should be a happy day because this friends will meet today after a while no see. But there is a problem now, so man
+- [Rescue Rangers](../games/adventure/rescue-rangers.md) — Embark on a thrilling cave exploration in Rescue Rangers, a captivating 2D platformer. Navigate puzzling environments so
+- [Rescue The Ant](../games/adventure/rescue-the-ant.md) — Rescue The Ant is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there yo
+- [Rescue The Blue Bird 2](../games/adventure/rescue-the-blue-bird-2.md) — Rescue The Blue Bird 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest 
+- [Rescue The Blue Crab](../games/adventure/rescue-the-blue-crab.md) — Rescue the Blue Crab is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest th
+- [Rescue The Boy](../games/adventure/rescue-the-boy.md) — Rescue The Boy is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villa there you
+- [Rescue the Brinjal](../games/adventure/rescue-the-brinjal.md) — Rescue the Brinjal is a point and click escape game developed by 8BGames/Games2live. Imagine you went to the place where
+- [Rescue The Bunny](../games/adventure/rescue-the-bunny.md) — Rescue The Bunny is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there 
+- [Rescue the Cage Bird](../games/adventure/rescue-the-cage-bird.md) — Rescue the Cage Bird is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village,
+- [Rescue The Cartoon Book](../games/adventure/rescue-the-cartoon-book.md) — Rescue the Cartoon Book is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a place 
+- [Rescue The Cat](../games/adventure/rescue-the-cat.md) — Rescue The Cat is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place. There 
+- [Rescue The Charming Pup](../games/adventure/rescue-the-charming-pup.md) — Rescue The Charming Pup is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest
+- [Rescue The Chimpanzee](../games/adventure/rescue-the-chimpanzee.md) — Rescue The Chimpanzee is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest t
+- [Rescue The Cosmologist](../games/adventure/rescue-the-cosmologist.md) — Rescue The Cosmologist is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a space f
+- [Rescue The Cow](../games/adventure/rescue-the-cow.md) — Rescue The Cow is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there yo
+- [Rescue The Cute Bird](../games/adventure/rescue-the-cute-bird.md) — Rescue The Cute Bird is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village t
+- [Rescue The Cute Dog](../games/adventure/rescue-the-cute-dog.md) — Rescue The Cute Dog is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest the
+- [Rescue The Cute Girl](../games/adventure/rescue-the-cute-girl.md) — Rescue The Cute Girl is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place. 
+- [Rescue The Cute Girl 2](../games/adventure/rescue-the-cute-girl-2.md) — Rescue The Cute Girl 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place
+- [Rescue The Cute Squirrel](../games/adventure/rescue-the-cute-squirrel.md) — Rescue The Cute Squirrel is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a pla
+- [Rescue The Dog 2](../games/adventure/rescue-the-dog-2.md) — Rescue The Dog 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there 
+- [Rescue the Doggy](../games/adventure/rescue-the-doggy.md) — Rescue the Doggy is a point and click game developed by 8B Games/Games2mad.Imagine that you had been to a village, On th
+- [Rescue The Donkey](../games/adventure/rescue-the-donkey.md) — Rescue The Donkey is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there
+- [Rescue the Duck Family](../games/adventure/rescue-the-duck-family.md) — Rescue The Duck Family is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place
+- [Rescue The Duck Family 2](../games/adventure/rescue-the-duck-family-2.md) — Rescue The Duck Family 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a pla
+- [Rescue The Egyptian Cat](../games/adventure/rescue-the-egyptian-cat.md) — Rescue The Egyptian Cat is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fort t
+- [Rescue The Elephant Calf](../games/adventure/rescue-the-elephant-calf.md) — Rescue The Elephant Calf is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fores
+- [Rescue The Elephant Calf 2](../games/adventure/rescue-the-elephant-calf-2.md) — Rescue The Elephant Calf 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a for
+- [Rescue the girl](../games/adventure/rescue-the-girl.md) — Rescue the Girl is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On th
+- [Rescue the Girl 1](../games/adventure/rescue-the-girl-1.md) — Rescue The Girl 1 is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Rescue The Goat](../games/adventure/rescue-the-goat.md) — Rescue The Goat is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village there 
+- [Rescue The Golden Cat](../games/adventure/rescue-the-golden-cat.md) — Rescue The Golden Cat is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest t
+- [Rescue The Hen](../games/adventure/rescue-the-hen.md) — Rescue The Hen is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there yo
+- [Rescue The Hen 2](../games/adventure/rescue-the-hen-2.md) — Rescue The Hen 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there 
+- [Rescue The Hungry Camel](../games/adventure/rescue-the-hungry-camel.md) — Rescue The Hungry Camel is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a plac
+- [Rescue The Hungry Cat](../games/adventure/rescue-the-hungry-cat.md) — Rescue The Hungry Cat is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place.
+- [Rescue The Hungry Girl](../games/adventure/rescue-the-hungry-girl.md) — Rescue the Hungry Girl is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a fantasy
+- [Rescue the kangaroo](../games/adventure/rescue-the-kangaroo.md) — Rescue the kangaroo is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a fore
+- [Rescue The King](../games/adventure/rescue-the-king.md) — 1. There are many unique levels in the game, and the old king of each level will be in different difficulties; 2. By obs
+- [Rescue the kitty](../games/adventure/rescue-the-kitty.md) — Rescue the kitty is a point and click escape game developed by 8BGames/Games2Mad. The little cute kitty cat is locked in
+- [Rescue The Lazy Bear](../games/adventure/rescue-the-lazy-bear.md) — Rescue The Lazy Bear is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest th
+- [Rescue The Lion](../games/adventure/rescue-the-lion.md) — Rescue The Lion is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there y
+- [Rescue The Lion 2](../games/adventure/rescue-the-lion-2.md) — Rescue The Lion 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest house
+- [Rescue The Lion Cub](../games/adventure/rescue-the-lion-cub.md) — Rescue The Lion Cub is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place. T
+- [Rescue The Little Cub](../games/adventure/rescue-the-little-cub.md) — Rescue The Little Cub is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest t
+- [Rescue The Little Girl](../games/adventure/rescue-the-little-girl.md) — Rescue The Little Girl is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest 
+- [Rescue The Man](../games/adventure/rescue-the-man.md) — Rescue The Man is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villa there you
+- [Rescue The Monkey](../games/adventure/rescue-the-monkey.md) — Rescue The Monkey is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there
+- [Rescue The Monkey 2](../games/adventure/rescue-the-monkey-2.md) — Rescue The Monkey 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest the
+- [Rescue The Mother Rabbit](../games/adventure/rescue-the-mother-rabbit.md) — Rescue The Mother Rabbit is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fores
+- [Rescue The Mountain Goat](../games/adventure/rescue-the-mountain-goat.md) — Rescue The Mountain Goat is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a villa
+- [Rescue The Naughty Kitten](../games/adventure/rescue-the-naughty-kitten.md) — Rescue The Naughty Kitten is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fore
+- [Rescue The Oceanographer](../games/adventure/rescue-the-oceanographer.md) — Rescue The Oceanographer is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to under s
+- [Rescue The Officers](../games/adventure/rescue-the-officers.md) — Rescue The Officers is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a place ther
+- [Rescue the Old Bear](../games/adventure/rescue-the-old-bear.md) — Rescue the Old Bear is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a plac
+- [Rescue The Ostrich Chick](../games/adventure/rescue-the-ostrich-chick.md) — Rescue The Ostrich Chick is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a pla
+- [Rescue The Panda Cub](../games/adventure/rescue-the-panda-cub.md) — Rescue The Panda Cub is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest th
+- [Rescue the Panda Explorer](../games/adventure/rescue-the-panda-explorer.md) — Rescue The Panda Explorer is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fore
+- [Rescue the Pet Dog](../games/adventure/rescue-the-pet-dog.md) — Rescue the Pet Dog is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village, On
+- [Rescue The Pigeon](../games/adventure/rescue-the-pigeon.md) — Rescue The Pigeon is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there
+- [Rescue The Pigeon 2](../games/adventure/rescue-the-pigeon-2.md) — Rescue The Pigeon 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest the
+- [Rescue The Pirate Parrot](../games/adventure/rescue-the-pirate-parrot.md) — Rescue The Pirate Parrot is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fores
+- [Rescue The Pretty Puppy](../games/adventure/rescue-the-pretty-puppy.md) — Rescue The Pretty Puppy is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house 
+- [Rescue The Prisoned Sheep](../games/adventure/rescue-the-prisoned-sheep.md) — Rescue The Prisoned Sheep is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fore
+- [Rescue the Pup](../games/adventure/rescue-the-pup.md) — Rescue the Pup is a point and click escape game developed by 8BGames/Games2Mad. The little cute pup is locked inside the
+- [Rescue The Puppies](../games/adventure/rescue-the-puppies.md) — Rescue the puppies is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a farm house 
+- [Rescue The Puppy](../games/adventure/rescue-the-puppy.md) — Rescue The Puppy is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there 
+- [Rescue The Rabbit 2](../games/adventure/rescue-the-rabbit-2.md) — Rescue The Rabbit 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest the
+- [Rescue The Raccoon](../games/adventure/rescue-the-raccoon.md) — Rescue The Raccoon is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest ther
+- [Rescue The Red Parrot 2](../games/adventure/rescue-the-red-parrot-2.md) — Rescue the Red Parrot 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest
+- [Rescue the Seahorse](../games/adventure/rescue-the-seahorse.md) — Rescue The Seahorse is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a cave there
+- [Rescue The Slothful Bear](../games/adventure/rescue-the-slothful-bear.md) — Rescue The Slothful Bear is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fores
+- [Rescue The Squirrel](../games/adventure/rescue-the-squirrel.md) — Rescue the squirrel is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest for
+- [Rescue The Squirrel 2](../games/adventure/rescue-the-squirrel-2.md) — Rescue The Squirrel 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place.
+- [Rescue The Squirrel 3](../games/adventure/rescue-the-squirrel-3.md) — Rescue The Squirrel 3 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place.
+- [Rescue The Tied Man](../games/adventure/rescue-the-tied-man.md) — Rescue The Tied Man is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a place. T
+- [Rescue The Tiger](../games/adventure/rescue-the-tiger.md) — Rescue The Tiger is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there 
+- [Rescue the Tiger Cub](../games/adventure/rescue-the-tiger-cub.md) — Rescue The Tiger Cub is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest th
+- [Rescue The Tiny Bird](../games/adventure/rescue-the-tiny-bird.md) — Rescue The Tiny Bird is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village t
+- [Rescue The Tiny Old Man](../games/adventure/rescue-the-tiny-old-man.md) — Rescue The Tiny Old Man is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villag
+- [Rescue The Toucan](../games/adventure/rescue-the-toucan.md) — Rescue The Toucan is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Rescue The Tribal Woman](../games/adventure/rescue-the-tribal-woman.md) — Rescue The Tribal Woman is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest
+- [Rescue the Whale](../games/adventure/rescue-the-whale.md) — Rescue the Whale is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On t
+- [Rescue The Wolf](../games/adventure/rescue-the-wolf.md) — Rescue The Wolf is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there y
+- [Rescue The Wolverine](../games/adventure/rescue-the-wolverine.md) — Rescue The Wolverine is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest th
+- [Rescue The Yellow Bird](../games/adventure/rescue-the-yellow-bird.md) — Rescue the yellow bird is a point and click escape game developed by 8B Games/Games2mad. Imagine that you had been to a 
+- [Resident Evil Purge Operation](../games/adventure/resident-evil-purge-operation-2.md) — Dive into Resident Evil: Purge Operation, a gripping shooter where every second matters. Scavenge for weapons, survive r
+- [Resort Escape](../games/adventure/resort-escape.md) — Resort Escape is a point and click game developed by Games2Live. Imagine that you had been to a Resort; there you got tr
+- [Restaurant Escape](../games/adventure/restaurant-escape.md) — Restaurant Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Restaurant ,
+- [Restaurant Kitchen Escape](../games/adventure/restaurant-kitchen-escape.md) — Restaurant Kitchen Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Rest
+- [Restful Park Escape](../games/adventure/restful-park-escape.md) — Restful Park Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a park for f
+- [Reticent Forest Escape](../games/adventure/reticent-forest-escape.md) — Reticent Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest,
+- [Retoena 2](../games/adventure/retoena-2-2.md) — Embark on a vibrant sci-fi adventure in Retoena 2! Navigate thrilling 2D platformer levels as a daring heroine, collecti
+- [Retro Rogue](../games/adventure/retro-rogue.md) — In this game you need to do these simple actions: Run, Jump, Collect, Survive! In this exhilarating game, youll get on a
+- [Return To Alsunga Forest](../games/adventure/return-to-alsunga-forest.md) — Return To Alsunga Forest is point and click adventure game from Escape Fan. Someone told you that this forest has a ches
+- [Return To The Frozen Forest](../games/adventure/return-to-the-frozen-forest.md) — Return To The Frozen Forest is the newest outdoor escape game from Escape Fan. Explore the frozen forest and try to find
+- [Rice Attack](../games/adventure/rice-attack.md) — Unleash your inner warrior in the intense world of Rice Attack, where pixel-art foes challenge your strategic prowess. S
+- [Rich Run](../games/adventure/rich-run.md) — 1. There is no difficulty in operation. Multiple interesting games are waiting for players to join, and the experience i
+- [Rick and Josh adventures](../games/adventure/rick-and-josh-adventures.md) — Each of the heroes must activate their portal by picking up a special stone. Everyone has their own abilities, for examp
+- [Ricosan 2](../games/adventure/ricosan-2-2.md) — Guide a charming robot through a vibrant world in Ricosan 2, gathering pineapples and dodging tricky obstacles. Engaging
+- [Ricosan](../games/adventure/ricosan-3.md) — Dive into Ricosan's charming 2D realm, where your mission is to gather pineapples while navigating tricky obstacles and 
+- [Riddle Colony Escape](../games/adventure/riddle-colony-escape.md) — Riddle Colony Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Riddle C
+- [Riko vs Tako 2](../games/adventure/riko-vs-tako-2-2.md) — Embark on an exhilarating sci-fi adventure in Riko vs Tako 2, a dynamic 2D platformer. Navigate through intricate terrai
+- [Riko vs Tako](../games/adventure/riko-vs-tako-3.md) — Dive into the thrilling Sci-fi world of Riko vs Tako, where you, a cybernetic hero, navigate complex levels filled with 
+- [Ring Of Love 3D](../games/adventure/ring-of-love-3d.md) — 1. The unique ring parkour is full of fun. 2. More strange obstacles will continue to block you, all kinds of difficult 
+- [Ring Robbery Escpae](../games/adventure/ring-robbery-escpae.md) — "Ring Robbery Escape is a point and click game developed by 8B Games/Games2live. Imagine that you are going to do Ring R
+- [Ring Soul Samara Escape](../games/adventure/ring-soul-samara-escape.md) — Ring Soul Samara Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Rachel in he
+- [RISE UP BALLON 2021](../games/adventure/rise-up-ballon-2021.md) — The most challenging and fun game of 2018! Protect your balloon with your shield while it is rising! Beware of obstacles
+- [River Land Escape](../games/adventure/river-land-escape.md) — River Land Escape is a point and click game developed by 8B Games/Games2live. Imagine you went on a tour and you want to
+- [Riverside Escape](../games/adventure/riverside-escape.md) — Riverside Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been trapped in a River
+- [Riyoo 2](../games/adventure/riyoo-2-2.md) — Embark on a captivating journey with Riyoo 2, where you'll navigate a charming 2D platform world as a fearless girl. Mas
+- [Riyoo](../games/adventure/riyoo-3.md) — Guide a courageous girl through a vibrant and dynamic 2D platformer, using agility and reflexes to collect flowers and o
+- [Road Block Escape](../games/adventure/road-block-escape.md) — Road Block Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had stuck in front Road Bl
+- [Road Draw: Amoung us](../games/adventure/road-draw-amoung-us.md) — Road Draw: Climb Your Own Hills Next Generation of hill racing games. Draw your roads and climb the hills\u003cbr\u003e 
+- [Road of the Dead](../games/adventure/road-of-the-dead.md) — Navigate through a zombie-infested wasteland in Road of the Dead, where speed meets survival. Dodge the undead using int
+- [Rob The Treasure](../games/adventure/rob-the-treasure.md) — Rob The Treasure is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a villa there y
+- [Robbery Bob Game](../games/adventure/robbery-bob-game.md) — Step into the shoes of a clever thief in Robbery Bob Game, an exciting stealth adventure full of action, strategy, and f
+- [Robby Bomberman](../games/adventure/robby-bomberman.md) — Join Robby on a thrilling quest through a ghost-infested labyrinth. Outsmart hordes of spectral enemies, blast open crat
+- [Rober Run](../games/adventure/rober-run.md) — Join the exhilarating chase in Rober Run, where your reflexes and quick thinking are your best allies. Outrun the relent
+- [Robes de princesse - Aventure](../games/adventure/robes-de-princesse-aventure.md) — She is kind, funny, honest and brave girl. Sofia is dreaming about the same things as all kids allover the world: about 
+- [Roblox Block](../games/adventure/roblox-block.md) — Mine Block Jumper game is funn and very addictive ,jump as much you can higher to gain points,need many skill and focusi
+- [Roblox World Builder](../games/adventure/roblox-world-builder.md) — Roblox World Builder provides a free-form exploration and building experience&mdash;you&rsquo;re not just an adventurer,
+- [Robot Escape](../games/adventure/robot-escape.md) — Robot Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on t
+- [Robot Escape](../games/adventure/robot-escape-2.md) — Guide your robot through a daring escape in a vibrant pixelated world. Master the art of precision and quick reflexes to
+- [Robot House Escape](../games/adventure/robot-house-escape.md) — Robot House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Robot house
+- [Rock Paper Scissors Adventure](../games/adventure/rock-paper-scissors-adventure-2.md) — Embark on an epic quest with your chosen symbol—rock, paper, or scissors. Outsmart opponents in strategic duels and clai
+- [Rock Shelter Escape](../games/adventure/rock-shelter-escape.md) — Rock Shelter Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Rock Shelt
+- [Rocket Craze](../games/adventure/rocket-craze.md) — Build your own rocket and launch it into space. Fly as high as you can and up to the Moon. Compete with your friends for
+- [Rocket Missile Attack](../games/adventure/rocket-missile-attack.md) — Gear up for an electrifying adventure in Rocket Missile Attack, the ultimate missile command game that blends strategy, 
+- [Rocket Odyssey](../games/adventure/rocket-odyssey.md) — Rocket Odyssey is a simple yet addictive game where you control a rocket ship as it flies through a series of obstacles.
+- [Rocket Sky!](../games/adventure/rocket-sky.md) — In Rocket Sky! you tap and hold the screen to launch your rocket as far into the sky as you can. Make sure not to overhe
+- [Rocky Village Escape](../games/adventure/rocky-village-escape.md) — Rocky Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Rocky vil
+- [Rodent Land Escape](../games/adventure/rodent-land-escape.md) — Rodent Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped in Ro
+- [Rogue Seas Adventure](../games/adventure/rogue-seas-adventure.md) — Set sail with a fearless straw-hat kid and his rubber-quick reflexes in Rogue Seas Adventure! Hop between tiny islands, 
+- [Roilaw](../games/adventure/roilaw.md) — Roilaw thrusts you into the role of a daring lawyer navigating eight intense levels of platformer chaos. Collect crucial
+- [Roll and Escape](../games/adventure/roll-and-escape.md) — About the game Welcome to the thrilling adventure of Roll and Escape! As a ball-like character in this game, you&rsquo;l
+- [Roll or Fall](../games/adventure/roll-or-fall.md) — Roll diagonally and test your timing in Roll or Fall! Control your dice as it moves across tricky platforms filled with 
+- [Rolling Adventure](../games/adventure/rolling-adventure.md) — Guide delightful, vibrant balls through dynamic landscapes filled with challenges and treasures in Rolling Adventure. Ou
+- [Rolling Speed Ball](../games/adventure/rolling-speed-ball.md) — Rolling Speed Ball Run Challenge is a fast-paced and exhilarating arcade game that puts your reflexes, timing, and contr
+- [Romp House Escape](../games/adventure/romp-house-escape.md) — Romp House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. You g
+- [Rooftop Pursuit The Great Penitentiary Escape](../games/adventure/rooftop-pursuit-the-great-penitentiary-escape.md) — Chase escaped prisoners across treacherous rooftops in Rooftop Pursuit: The Great Penitentiary Escape. Navigate obstacle
+- [Room Escape](../games/adventure/room-escape.md) — Escape by collecting the keys. Fight against the virus and go on
+- [Room Escape 1](../games/adventure/room-escape-1.md) — Room Escape 1 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to house. You got loc
+- [Room Escape 3D](../games/adventure/room-escape-3d.md) — Room Escape 3D is an interesting puzzle online game for free. You need to use cunning means to sneak around the guards, 
+- [Rooster Hen Escape](../games/adventure/rooster-hen-escape.md) — Rooster Hen Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place
+- [Rooster Resort Escape](../games/adventure/rooster-resort-escape.md) — Rooster Resort Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Resort,
+- [Rope Rescue Puzzle](../games/adventure/rope-rescue-puzzle-2.md) — Save lives in "Rope Rescue Puzzle" by cleverly guiding your rope through intricate, fiery challenges. This strategic adv
+- [Rope Stick Hero](../games/adventure/rope-stick-hero.md) — Swing into action with Rope Stick Hero, where a nimble stickman conquers intricate courses using precise rope-swinging s
+- [Rotate to Escape](../games/adventure/rotate-to-escape.md) — Rotate to Escape is a captivating puzzle adventure where you must navigate 60 treacherous dungeon levels to find the key
+- [Rotating Santa](../games/adventure/rotating-santa-2.md) — Guide Santa through a whimsical world as you rotate the landscape to gather lost presents. With 40 intricately designed 
+- [Rotuman 2](../games/adventure/rotuman-2-2.md) — Embark on a thrilling 2D platforming journey in Rotuman 2. Collect golden keys while dodging crafty ground and aerial en
+- [Rotuman](../games/adventure/rotuman-3.md) — Embark on a thrilling robotic odyssey in Rotuman, a vibrant 2D platformer. Navigate complex, perilous landscapes using i
+- [Royal House Escape](../games/adventure/royal-house-escape.md) — Royal House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Royal Kitchen](../games/adventure/royal-kitchen.md) — Embark on a magical quest in Royal Kitchen, where you guide the princess through enchanted realms to save her father and
+- [Royal Residence Escape](../games/adventure/royal-residence-escape.md) — Royal Residence Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a royal r
+- [Royal Smash Puzzle Game](../games/adventure/royal-smash-puzzle-game.md) — Royal Smash Puzzle Game is a fun and addictive puzzle game where players match, smash, and combine colorful pieces to co
+- [Ruler Survival Game](../games/adventure/ruler-survival-game.md) — Enter the intense world of strategy and survival in Ruler Survival Game, where every decision determines your fate. Buil
+- [Rumpus House Escape](../games/adventure/rumpus-house-escape.md) — Rumpus House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, the
+- [Run 2 Spooky](../games/adventure/run-2-spooky.md) — Released in 2022 for the 10th anniversary of "Rockman Xover", here is an HTML5 port of a fangame I put together in 2012.
+- [run and  jump](../games/adventure/run-and-jump.md) — manage to dodge all the helicopters and get the highest score, competing with yourself and reaching the highest record l
+- [Run from 67](../games/adventure/run-from-67.md) — A first-person game of hide-and-seek in a dark school. Find 6 backpacks on each floor to unlock the seventh door and get
+- [Run from Baba Yaga](../games/adventure/run-from-baba-yaga.md) — Navigate a magical, ever-shifting forest filled with treasure and peril. Control six unique characters as you outsmart t
+- [Run Goat Run](../games/adventure/run-goat-run.md) — Run Goat Run game has a lot of success review and player this MONTH that significantly improves overall game performance
+- [Run Guys: The Chaos Race](../games/adventure/run-guys-the-chaos-race.md) — Embark on a whimsical journey across the USA, dodging, leaping, and launching past everyday obstacles. Race against othe
+- [Run Pig Run](../games/adventure/run-pig-run.md) — It's a super fun game where you have to dodge the cannon balls that are falling on you! The balls drop more frequently a
+- [Run Rich 3D Game](../games/adventure/run-rich-3d-game.md) — Get to the end of the track and try to collect as many money bills as possible along the way! The more money you collect
+- [Run Santa Run](../games/adventure/run-santa-run.md) — Another interesting Christmas game with Santa Claus in main role. This time Santa had an accident and fell out of the sl
+- [Run to Glory Obstacle Dash Adventure](../games/adventure/run-to-glory-obstacle-dash-adventure.md) — Dive into a pulse-pounding race with Run to Glory: Obstacle Dash Adventure. Navigate vibrant terrains packed with tricky
+- [Run Vovan run 2](../games/adventure/run-vovan-run-2.md) — Run Vovan run
+- [Runic Curse](../games/adventure/runic-curse.md) — Runic Curse is an action-adventure game where you step into the boots of Adrian, a shipwreck survivor stranded on a myst
+- [Rush Toilet Game](../games/adventure/rush-toilet-game.md) — Get ready for a hilarious and fast-paced adventure in Rush Toilet Game, where every second counts! Race against time, av
+- [Russian Strike](../games/adventure/russian-strike-2.md) — Immerse yourself in the heat of intense battlefield action with Russian Strike. Hone your shooting skills, navigate dive
+- [Sailor Escape](../games/adventure/sailor-escape.md) — Sailor Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Sailor house to go out f
+- [Sailor Girl Escape](../games/adventure/sailor-girl-escape.md) — Sailor Girl Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to seashore; on 
+- [Same Room Same Day](../games/adventure/same-room-same-day.md) — Experience the thrilling psychological horror of "Same Room Same Day." As Rosaline, explore a terrifying building filled
+- [Samurai Brawling](../games/adventure/samurai-brawling.md) — Embark on an exhilarating 3D adventure in Samurai Brawling as Arashin, a fierce Yakuza warrior. Engage in strategic, pul
+- [Samurai Cow Man](../games/adventure/samurai-cow-man.md) — Samurai Cow Man is a wild, action-packed adventure like no udder! Step into the hooves of a fearless cow with the heart 
+- [Samurai Escape](../games/adventure/samurai-escape.md) — You are in a samurai village and the gate to the exit is locked. Explore the mysterious place and look for helpful thing
+- [Samurai Survivor](../games/adventure/samurai-survivor.md) — In the land of ancient Japan, a mysterious portal has opened, unleashing hordes of monstrous creatures into the world. A
+- [Sanctuary Rescue Plan](../games/adventure/sanctuary-rescue-plan.md) — This is a secret room rescue game with simple gameplay and multiple levels. In the game, the player needs to help Stickm
+- [Sand Cave Escape](../games/adventure/sand-cave-escape.md) — Sand Cave Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, there
+- [Sand.Draw](../games/adventure/sand-draw.md) — Draw On Sand in that you can write a note or message to someone on your screens as well as suitable for all because they
+- [Sand Fort Escape](../games/adventure/sand-fort-escape.md) — Sand Fort Escape is a point and click game developed by Games2Live. Imagine that you had been to a Fort; there you got t
+- [Sand Pit Escape](../games/adventure/sand-pit-escape.md) — Sand Pit Escape is a point and click game developed by Games2Live. Imagine that you had been to a Pit; there you got tra
+- [Sand Shore Escape](../games/adventure/sand-shore-escape.md) — Sand Shore Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a sand shore f
+- [Santa Balls Fill](../games/adventure/santa-balls-fill.md) — Santa Balls Fill is fun addictive hyper casual puzzle game.Christmas is round the corner enjoy this wonderful game on Ch
+- [Santa Bomber 3D](../games/adventure/santa-bomber-3d.md) — Santa 3d Bomber Help Santa to Defeat all enemies to complete the levels. total 20 level use arrow key to move the player
+- [Santa Christmas Jump](../games/adventure/santa-christmas-jump.md) — Santa Christmas Jump is a simple, easy to play and beautiful endless runner game. Celebrate this Christmas playing the s
+- [Santa Escape](../games/adventure/santa-escape.md) — Santa Escape is a point and click escape game developed by 8BGames. Imagine that you bought a Santa for Christmas. But s
+- [Santa Fight 3D Game](../games/adventure/santa-fight-3d-game.md) — The game is a street fight between the hero Santa Fight 3D Game in the anime named Santa Fight 3D Game and the enemies i
+- [Santa Flight Game](../games/adventure/santa-flight-game.md) — Play as Santa and his reindeer by flying Santas sleigh. Tap the game screen or use the mouse to make Santa fly. Collect 
+- [Santa Gift Escape](../games/adventure/santa-gift-escape.md) — Santa Gift Escape is a point and click escape game developed by 8BGames/Games2Mad. Here is a Santa Gift hidden somewhere
+- [Santa Holiday Adventure Game](../games/adventure/santa-holiday-adventure-game.md) — Fly with Santa, deliver gifts, and spread Christmas cheer in a magical holiday adventure!
+- [Santa House Escape](../games/adventure/santa-house-escape.md) — Santa House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to santa claus h
+- [Santa Run](../games/adventure/santa-run.md) — The Santa lost his presents. Now you need to help the emu collect these gifts and protect them from dangerous elves, evi
+- [Santa Run Adventure](../games/adventure/santa-run-adventure.md) — Guide Santa through a winter wonderland in Santa Run Adventure, an endless runner packed with festive challenges. Jump a
+- [Santa's Quest](../games/adventure/santa-s-quest.md) — Santa had an accident! He lost his way and all the gifts. Help him get to his goal by sliding road tiles to form a path.
+- [Santa Soosiz](../games/adventure/santa-soosiz.md) — In this game you control Santa moving them around a world that revolves around you! As you move around the landscape you
+- [SantaCraft](../games/adventure/santacraft.md) — SantaCraft is a 3D is a third-person shooter in which you must survive the zombies and try to reach the portal. Enjoy an
+- [Santas Gift Hunt](../games/adventure/santas-gift-hunt-2.md) — Embark on a festive quest in Santa's Gift Hunt, where quick thinking meets strategic movement. Navigate in straight path
+- [Santas Present 2](../games/adventure/santas-present-2-2.md) — Jump into Santa's boots in Santas Present 2, a lively 2D platformer. Navigate treacherous environments, collect scattere
+- [Santas Present](../games/adventure/santas-present-3.md) — Embark on a charming 2D platformer journey with Santa, collecting gifts across eight challenging levels. Master precise 
+- [Santas Snowy Sprint](../games/adventure/santas-snowy-sprint.md) — Santas Snowy Sprint is a festive adventure packed with holiday cheer and nonstop action! Help Santa dash across snowy ro
+- [Sassy Villa Escape](../games/adventure/sassy-villa-escape.md) — Sassy Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villa, ther
+- [Saturday Night Linker](../games/adventure/saturday-night-linker.md) — Go back to the '70s with crazy parties and the sound of disco in Saturday Night Linker. Inside a flamboyant nightclub, y
+- [Sausage Game](../games/adventure/sausage-game.md) — Sausage Flip is a fun arcade game that lets you fling a silly sausage with googly eyes! To play, just drag your finger o
+- [Sausage Survival Master](../games/adventure/sausage-survival-master.md) — Stay alive for 30 seconds by engaging in battles and races across various randomly generated 3D mini-games. Accumulate e
+- [Sausage Survival Master](../games/adventure/sausage-survival-master-2.md) — Dive into the chaotic kitchen world of Sausage Survival Master! Navigate deadly traps and dodge sizzling hazards in this
+- [Save Her Tour](../games/adventure/save-her-tour.md) — This complex and relaxing puzzle game youve read about has finally become a reality! Only the smartest can pass these br
+- [Save juan](../games/adventure/save-juan.md) — Save juan is a fun casual puzzle game. The aim of the game is to protect our horror juan cat from chocho charles attacks
+- [Save Me Game](../games/adventure/save-me-game.md) — Save Me Game is a fun and addictive puzzle adventure where your mission is to protect and rescue characters from dangero
+- [Save Me Helicopter](../games/adventure/save-me-helicopter.md) — Are you ready to pilot your very own rescue army helicopter and save hundreds of lives? You can wear your emergency hats
+- [Save My Girl](../games/adventure/save-my-girl.md) — Will you be able to help the lost girl through the difficulties that come her way? Solve puzzles and help the girl! You 
+- [Save My Pet Game](../games/adventure/save-my-pet-game.md) — Save My Pet Game is a fun and exciting puzzle game where your mission is to protect adorable pets from dangerous obstacl
+- [Save Nemo](../games/adventure/save-nemo.md) — Save Nemo is an underwater puzzle adventure where every choice can save the day! Help a brave little fish escape dangero
+- [Save Power Rangers From Ocean Zombies - Pin Pull](../games/adventure/save-power-rangers-from-ocean-zombies-pin-pull.md) — Save our power rangers from oceans zombies
+- [Save The Animal Kingdom](../games/adventure/save-the-animal-kingdom.md) — "Save the Animal Kingdom" is a tapping game where players control an animal character trying to escape a lava-filled wor
+- [Save The Cat](../games/adventure/save-the-cat.md) — Save The Cat is fun addictive hyper casual game. Complete all levels as fast you can!. Cat is stuck in the building floo
+- [Save The Dry Tree](../games/adventure/save-the-dry-tree.md) — Save The Dry Tree is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place;
+- [Save the Earth](../games/adventure/save-the-earth-2.md) — Engage in thrilling Pong-style battles in Save the Earth, a game designed to combine nostalgic fun with eco-friendly act
+- [Save The Fish](../games/adventure/save-the-fish.md) — Help the fish escape from the aquarium, through the barrier of the sewer, back to the sea.
+- [Save the Girl Puzzle Escape](../games/adventure/save-the-girl-puzzle-escape.md) — Navigate quirky scenarios in Save the Girl: Puzzle Escape! Exercise your mind by choosing the right actions to guide the
+- [Save The Hungry Girl](../games/adventure/save-the-hungry-girl.md) — Save The Hungry Girl is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a pla
+- [Save The Hungry Girl 2](../games/adventure/save-the-hungry-girl-2.md) — Save The Hungry Girl 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a p
+- [Save The Hungry Girl 3](../games/adventure/save-the-hungry-girl-3.md) — Save The Hungry Girl 3 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a p
+- [Save The Hungry Girl 4](../games/adventure/save-the-hungry-girl-4.md) — Save The Hungry Girl 4 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a p
+- [Save The Hungry Old Man](../games/adventure/save-the-hungry-old-man.md) — Save The Hungry Old Man is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a 
+- [Save The Hungry Old Man 2](../games/adventure/save-the-hungry-old-man-2.md) — Save The Hungry Old Man 2 is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to 
+- [Save The Mermaid](../games/adventure/save-the-mermaid.md) — Help the mermaid escape from the aquarium, through the barrier of the sewer, back to the sea.
+- [Save The Penguin](../games/adventure/save-the-penguin.md) — Penguins are stuck on an ice floe and they need your help! Trim the ice around the edges to make it smaller. But do it c
+- [Save The Princess](../games/adventure/save-the-princess.md) — Play simple leisure puzzle puzzle puzzle game, start your brain each level; The design of each level is very interesting
+- [Save The Princess 1](../games/adventure/save-the-princess-1.md) — Save the Princess 1: The Legend of the Pure Heart A night of peace. A promise whispered beneath the stars. At dawn&helli
+- [Save The Santa Claus](../games/adventure/save-the-santa-claus.md) — Come and play fun Christmas games with My Santa Claus, save the Santa Claus to reach the earth without touching the bomb
+- [Save the Thief](../games/adventure/save-the-thief.md) — Be quick and sneaky and grab tons of loots! Watch out for the patrols and become the king of thieves!
+- [Save The Uncle](../games/adventure/save-the-uncle.md) — Save The Uncle is a free online adventure game played on PuzzleGame for boys. You need to save the uncle who is in dange
+- [Save Winnie](../games/adventure/save-winnie.md) — Embark on a whimsical adventure with Save Winnie, where quick wit and strategy are your allies. Protect Winnie from bee 
+- [Save Your Cogs](../games/adventure/save-your-cogs.md) — In Save Your Cogs, navigate a dystopian world where clever puzzle-solving is your key to survival. Master the art of mov
+- [Saws Key](../games/adventure/saws-key.md) — In the game Saws Key, your ultimate goal is to collect the key, which will unlock the door to progress to the next level
+- [Scacchic House Escape](../games/adventure/scacchic-house-escape.md) — Scacchic House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Scale the Depths](../games/adventure/scale-the-depths.md) — Scale the Depths brings you into a peaceful underwater adventure where fishing becomes a relaxing and rewarding experien
+- [Scarecrow Escape](../games/adventure/scarecrow-escape.md) — Scarecrow Escape is a point and click escape game developed by 8BGames. Imagine that you went to a house to get a scarec
+- [Scared Boy Escape 2](../games/adventure/scared-boy-escape-2.md) — Scared Boy Escape 2 is a point and click escape game developed by 8BGames. Imagine that you went to a new house with a b
+- [Scared Girl Escape](../games/adventure/scared-girl-escape.md) — Scared Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a new house with a Gi
+- [Scary Baby in Yellow](../games/adventure/scary-baby-in-yellow.md) — Have fun with this 3D horror game with a lot of suspense. Scary Baby in Yellow is a game of intrigue, terror, search, le
+- [Scary Baby Pink Horror Game](../games/adventure/scary-baby-pink-horror-game.md) — Welcome to the chilling world of Scary Baby Pink, where babysitting takes on a terrifying twist! Brace yourself for an i
+- [Scary Doll](../games/adventure/scary-doll.md) — Trapped in a decaying house with a vengeful porcelain doll, you must stealthily explore eerie rooms, solve chilling puzz
+- [Scary Face Match](../games/adventure/scary-face-match.md) — Line up monstrous faces in Scary Face Match, a thrilling puzzle experience combining strategic swaps and time-sensitive 
+- [Scary Forest Escape 2](../games/adventure/scary-forest-escape-2.md) — Scary Forest Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, 
+- [Scary Forest Escape 3](../games/adventure/scary-forest-escape-3.md) — Scary Forest Escape 3 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, 
+- [Scary Frankenstein Difference](../games/adventure/scary-frankenstein-difference.md) — Scary Frankenstein Difference is a free online coloring and kids game! In this game you will find eight different pictur
+- [Scary Ghost Finder](../games/adventure/scary-ghost-finder.md) — Evade capture as a ghost navigating treacherous labyrinths in Scary Ghost Finder. Skillfully dodge surveillance and cunn
+- [Scary Ghosts](../games/adventure/scary-ghosts.md) — Prepare for a heart-pounding challenge in Scary Ghosts, where spectral foes relentlessly approach. Tap swiftly to banish
+- [Scary Granny: Basement Escape](../games/adventure/scary-granny-basement-escape.md) — Scary Granny: Basement Escape is a brand new game where you will face with Scary Evil Granny that want to find and kill 
+- [Scary Granny House](../games/adventure/scary-granny-house.md) — This is a Scary Granny House game where you have to explore the house of Scary Granny and find next door to escape safel
+- [Scary Granny House - The Horror Game](../games/adventure/scary-granny-house-the-horror-game.md) — Welcome to Scary Granny House - The Horror Game... Granny keeps you locked in her house. Now you have to try to get out 
+- [Scary Halloween Adventure](../games/adventure/scary-halloween-adventure.md) — Scary Halloween Adventure takes you on a spooky journey through eerie landscapes filled with ghosts, ghouls, and terrify
+- [Scary Halloween Differences](../games/adventure/scary-halloween-differences.md) — Scary Halloween Differences is interesting kids game and it's time for you to have fun!In this game you need to find the
+- [Scary Halloween Party](../games/adventure/scary-halloween-party.md) — Scary Halloween Party is a free online skill and hidden object game. Find out the hidden stars in the specified images. 
+- [Scary Halloween: Spooky Nights](../games/adventure/scary-halloween-spooky-nights.md) — Scary Halloween: Spooky Nights is a game in a spooky Halloween setting that can be enjoyed all over the year. With fanta
+- [Scary Halloween Spooky Nights](../games/adventure/scary-halloween-spooky-nights-2.md) — Swap spooky symbols and solve eerie puzzles as time slips away in Scary Halloween: Spooky Nights. Dive into a chilling H
+- [Scary House Clown Evil](../games/adventure/scary-house-clown-evil.md) — Scary House Clown Evil is an Exciting Thriller 3D horror game, inspired by all horror films about the best serial killer
+- [Scary House Clown Evil](../games/adventure/scary-house-clown-evil-2.md) — Enter the chilling world of a haunted mansion in Scary House Clown Evil. Navigate eerie corridors, unlock secrets, and o
+- [Scary Joker Game](../games/adventure/scary-joker-game.md) — Scary Joker Game is a thrilling horror adventure that puts you face-to-face with a terrifying joker in a dark and myster
+- [Scary Land Escape](../games/adventure/scary-land-escape.md) — Scary Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Scary Land,
+- [Scary Mad Shark](../games/adventure/scary-mad-shark.md) — Mad shark, is a fascinating and beautiful game in which you have to collect fish, stars, life, super features and variou
+- [Scary Math](../games/adventure/scary-math.md) — Enter the spooky realm of Scary Math, where chilling thrills meet educational fun. Tackle math problems amid a monster-t
+- [Scary Maze 7](../games/adventure/scary-maze-7.md) — Do you enjoy the rush of a good scare? Online games that test your courage have a special pull. The scary maze genre sta
+- [Scary maze html5](../games/adventure/scary-maze-html5.md) — Scary maze html5 is a one-player game based on the retro Scary maze flash version, here were added three more levels. Th
+- [Scary Memory](../games/adventure/scary-memory.md) — Halloween is coming! Are you ready to plunge into the spine-chilling atmosphere of Halloween and test your memory skills
+- [Scary Midnight Hidden Bats](../games/adventure/scary-midnight-hidden-bats.md) — Scary Midnight Hidden Bats is a free online skill and hidden object game. Find out the hidden bats in the specified imag
+- [Scary Rainbow](../games/adventure/scary-rainbow.md) — This game is the greatest RPG action game, is combination of fighting games and shooting games. Like other fighting game
+- [Scary Rainbow Friends](../games/adventure/scary-rainbow-friends.md) — It starts after you get out from that haunted building, where many giant color monster coming out chasing you and your f
+- [scary rainbow friends 2023](../games/adventure/scary-rainbow-friends-2023.md) — Welcome to the Rainbow Friends Escape Game, where many scary Blue Monsters and bad toys are waiting for you And someone 
+- [Scary Run](../games/adventure/scary-run.md) — You like to defeat ghost by running away from them . do you like horror movies and feel those scenes where the hero must
+- [Scary Stickman House Escape](../games/adventure/scary-stickman-house-escape.md) — Scary Stickman House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a ho
+- [Scary Teacher 2](../games/adventure/scary-teacher-2.md) — Enter the world of Scary Neighbor Teacher 3D and face off against the worst high school teacher on the planet. The teach
+- [Scary Tiki Mask Memory](../games/adventure/scary-tiki-mask-memory.md) — Scary Tiki Mask Memory is a free online game from genre of memory and monsters games. Flip the tiles and try to match th
+- [Scary Train Station](../games/adventure/scary-train-station.md) — Scary Train Station is a hidden object game playable on all devices. The game objective is to discover all hidden object
+- [Scary Vending Machine](../games/adventure/scary-vending-machine-2.md) — Master math skills while having fun with Scary Vending Machine! Drag and drop coins to match prices on diverse vending m
+- [Scary Village Escape](../games/adventure/scary-village-escape.md) — Scary Village Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village,
+- [School Child Escape](../games/adventure/school-child-escape.md) — School Child Escape is a point and click escape game developed by 8BGames. Imagine that you went to a School Child house
+- [School Escape](../games/adventure/school-escape.md) — School Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a School; there yo
+- [School Life](../games/adventure/school-life.md) — The life of a high school student is full of interesting events and trials! You have to constantly make a choice on whic
+- [School Run Puzzle Adventure](../games/adventure/school-run-puzzle-adventure.md) — Navigate intricate routes as a school bus driver, solving strategic puzzles in vibrant, cartoony landscapes. Carry just 
+- [Schoolboy: Escape from Parents!](../games/adventure/schoolboy-escape-from-parents.md) — Welcome to “Schoolboy: Escape from Parents!” — an exciting stealth quest where you must escape the house without being s
+- [Schoolboy Escape: Runaway](../games/adventure/schoolboy-escape-runaway.md) — Schoolboy Escape: Runaway is a stealth-based adventure where you help a determined kid outsmart strict parents and break
+- [Schoolboy Runaway: room escape](../games/adventure/schoolboy-runaway-room-escape.md) — Skuf dad won't let you go for a walk, can you escape room? Make first stealth room escape! Schoolboy kid wants to runawa
+- [Scientist girl escape](../games/adventure/scientist-girl-escape.md) — Scientist Girl is a point and click escape game developed by 8BGames. Imagine that you going to meet Scientist Girl in h
+- [Scooby Shaggy Run](../games/adventure/scooby-shaggy-run.md) — Our heroes Scooby Doo and Shaggy are running away from evil ghosts. Jump over obstacles to avoid getting caught. Run ver
+- [Scream Girl Escape](../games/adventure/scream-girl-escape.md) — Scream Girl Escape is a point and click escape game developed by 8BGames. Imagine that a girl is been kidnapped and lock
+- [Screw Escape](../games/adventure/screw-escape.md) — Screw Escape is a challenging screw puzzle adventure game. Dive into this twisted world of twisted iron where you can un
+- [Scrubland Escape](../games/adventure/scrubland-escape.md) — Scrubland Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Scrubland. Yo
+- [Sea Adventure](../games/adventure/sea-adventure.md) — Sea Adventure Online Game is a free-to-play arcade game. Sea Adventure Online Game is an online game where you can parti
+- [Sea Kings](../games/adventure/sea-kings.md) — &zwj; Sea Kings &ndash; Clash of Pirates Rule the Waves. Crush the Competition. Become the King of the Sea! Set sail in 
+- [Sea Plumber](../games/adventure/sea-plumber.md) — Dive into the ocean and become an extreme plumber in Sea Plumber. Put your brain to the test in this puzzle game: Repair
+- [Sea side Cleaning Day](../games/adventure/sea-side-cleaning-day.md) — In this game you play as an eco activist. Your goal is to clean the beach as fast as you can.
+- [Seahorse Escape](../games/adventure/seahorse-escape.md) — Seahorse Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fantasy sea 
+- [Search for Treasure](../games/adventure/search-for-treasure.md) — You were hired as a diver to go and collect 7 items from the ocean and also to find the skeleton key to open the treasur
+- [Search for Treasure 2](../games/adventure/search-for-treasure-2.md) — You heard that recently there was a shipwreck and a bunch of gold coins were spilled out into the ocean so you decided t
+- [Season Change](../games/adventure/season-change.md) — Experience the magic of nature in Season Change Game, a fun and engaging casual puzzle adventure where players explore t
+- [Secret House Escape](../games/adventure/secret-house-escape.md) — Secret House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Secret House Escape 2](../games/adventure/secret-house-escape-2.md) — Secret House Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; t
+- [Secret Inca](../games/adventure/secret-inca.md) — Dive into the ancient Incan temple as the daring explorer Jack in Secret Inca. This 2D platformer challenges your skills
+- [Secret Land Escape](../games/adventure/secret-land-escape.md) — Secret Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place for r
+- [Secret of the Island Escape](../games/adventure/secret-of-the-island-escape.md) — You find yourself stranded on a pirate island and the only way to escape is a small boat. But it won't be easy to get it
+- [Secret Villa Escape](../games/adventure/secret-villa-escape.md) — Secret Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, the
+- [Seek Find](../games/adventure/seek-find.md) — Dive into a fun puzzle hidden object game with intrigue and excitement in Seek &amp; Find-Hidden Object Game, where keen
+- [Senior Dog Escape](../games/adventure/senior-dog-escape.md) — Senior Dog Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Senita 2](../games/adventure/senita-2-2.md) — Embark on a thrilling 2D platformer journey in Senita 2. Tackle eight escalating levels, collecting chocolate bars while
+- [Senita](../games/adventure/senita-3.md) — Embark on an adventurous quest in Senita, a vibrant 2D platformer. Navigate colorful landscapes, dodge treacherous traps
+- [Serene Escape](../games/adventure/serene-escape.md) — Serene Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Serene; there yo
+- [Set Bot 2](../games/adventure/set-bot-2-2.md) — Set Bot 2 immerses you in a thrilling 2D sci-fi platformer. Navigate intricate levels as a high-tech bot, collecting red
+- [Set Bot](../games/adventure/set-bot-3.md) — Set Bot plunges you into a fast-paced 2D sci-fi adventure as a nimble robot. Navigate through increasingly challenging l
+- [Sewage Cave Escape](../games/adventure/sewage-cave-escape.md) — Sewage Cave Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Cave, there
+- [Shadow Adventure](../games/adventure/shadow-adventure-2.md) — Embark on a thrilling journey through the shadowy realm of the dead in Shadow Adventure. Test your reflexes as you dodge
+- [Shadow Chase](../games/adventure/shadow-chase.md) — Shadow Chase is a power-packed action-adventure game of Ninja, An addictive platformer game where you control a brave Ni
+- [Shadow Escape](../games/adventure/shadow-escape.md) — Soar into an endless vertical adventure in Shadow Escape! Equipped with a powerful jetpack, your mission is simple&mdash
+- [Shadowbound Depths](../games/adventure/shadowbound-depths.md) — Descend into Shadowbound Depths, where every step counts in this turn-based dungeon crawler. Navigate randomly generated
+- [Shadoworld Adventure](../games/adventure/shadoworld-adventure-2.md) — Embark on a thrilling journey as a whimsical humanoid navigating through a shadowy realm in Shadoworld Adventure. Dodge 
+- [Shaman Academy](../games/adventure/shaman-academy.md) — Immerse yourself in Shaman Academy's strategic duel of wits and magic. Engage in intense card battles where every move c
+- [Shanghai Cowboy Escape](../games/adventure/shanghai-cowboy-escape.md) — Shanghai Cowboy Escape is a point and click escape game developed by 8BGames. Imagine that you went to shangai to see yo
+- [Shape Havoc](../games/adventure/shape-havoc.md) — Get ready for an extremely new, simple, original, but at the same time challenging.
+- [Shark Adventure](../games/adventure/shark-adventure.md) — Dive into the ocean as a hungry shark on a thrilling quest for survival. Navigate aquatic depths using agile movements, 
+- [Shark Attack 3D](../games/adventure/shark-attack-3d.md) — Shark Attack 3D interesting funny adventure game you have to doge all the enemy to win the game
+- [Shark Escape](../games/adventure/shark-escape.md) — Dive into an underwater thrill ride in Shark Escape! Navigate dangerous seas swarming with relentless sharks as you deft
+- [Shark Io3](../games/adventure/shark-io3.md) — Try to survive in the game where the big fish eats the small fish. Catch fish that are smaller and weaker than you aroun
+- [Sheep Escape: Farm Sorting Challenge](../games/adventure/sheep-escape-farm-sorting-challenge.md) — Sheep Escape: Farm Sorting Challenge is an exciting casual puzzle game about a farm full of animals! Help the sheep find
+- [Sheep Farm Escape](../games/adventure/sheep-farm-escape.md) — Sheep Farm Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Farm; there 
+- [Shelter House Escape](../games/adventure/shelter-house-escape.md) — Shelter House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a house, O
+- [Sheon Panda 2](../games/adventure/sheon-panda-2-2.md) — Guide a charming panda through vibrant worlds in Sheon Panda 2, a thrilling 2D platformer. Dodge threatening enemies, pe
+- [Sheon Panda](../games/adventure/sheon-panda-3.md) — Join Sheon Panda in a delightful 2D quest, dodging spikes and spinning blades while collecting bamboo amidst escalating 
+- [Shield House Escape](../games/adventure/shield-house-escape.md) — Shield House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Shoe Desinger](../games/adventure/shoe-desinger.md) — You are creative? Try the shoe designer you can design your own shoes and share with your friends or you would like your
+- [Shoe Outlet](../games/adventure/shoe-outlet.md) — Step into the world of retail and become the ultimate business tycoon in Shoe Outlet! Manage your own shoe store, serve 
+- [Shore Land Escape](../games/adventure/shore-land-escape.md) — Shore Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a shore ,On t
+- [Shortcut Run 3D Huggy](../games/adventure/shortcut-run-3d-huggy.md) — In this running game, collect as much as planks as possible and build shortcut bridges to overcome your opponents. There
+- [Shred and Crush](../games/adventure/shred-and-crush.md) — Shred and Crush features sword fighting with different mythical creatures across vast fantasy location.
+- [Shred and Crush 2](../games/adventure/shred-and-crush-2.md) — Shred and Crush 2 continues the sword fighting against different mythical creatures across vast fantasy locations.
+- [Shred and Crush 3](../games/adventure/shred-and-crush-3.md) — Shred and Crush 3 features bloody sword fighting with different mythical creatures across vast fantasy locations. Defeat
+- [shutter escape](../games/adventure/shutter-escape.md) — Shutter Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Landscape area
+- [Siege Battleplan](../games/adventure/siege-battleplan.md) — Conquer in Siege Battleplan, where quick thinking and sharp strategy forge your path to victory. Command your troops wit
+- [Sift Heads World Ultimatum](../games/adventure/sift-heads-world-ultimatum.md) — Sift Heads World: Ultimatum is the final game in the Sift Heads World series of point and click action games. You play a
+- [Silent Asylum 2](../games/adventure/silent-asylum-2-2.md) — Silent Asylum 2 traps you in a chaotic abyss, where fearsome creatures lurk at every corner. Navigate this treacherous m
+- [Silent Valley Escape](../games/adventure/silent-valley-escape.md) — Silent valley escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to this place,
+- [Simper Girl Escape](../games/adventure/simper-girl-escape.md) — Simper Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a girl house as a bab
+- [Simple Boxing](../games/adventure/simple-boxing.md) — Knockout the competition and see exactly how well you match up against your opponents, and other players! Now with sound
+- [Simple Villa Escape](../games/adventure/simple-villa-escape.md) — Simple Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villa, the
+- [Singer Escape](../games/adventure/singer-escape.md) — Singer Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Singer house to take him
+- [Sins and Desires](../games/adventure/sins-and-desires.md) — “Sins and Desires” is a captivating visual novel in the detective genre with romance elements. As detective Felicia, you
+- [Siren Head 3d](../games/adventure/siren-head-3d.md) — You woke up in the middle of the forest, there is only a car nearby, and in the distance you can hear the terrible sound
+- [Siren Head Nightmare Scary Survival](../games/adventure/siren-head-nightmare-scary-survival.md) — Escape a haunted mansion pursued by the eerie Siren Head creature. Navigate in tense silence, staying hidden and collect
+- [Siren Head SCP-6789: The Hunt Continues](../games/adventure/siren-head-scp-6789-the-hunt-continues.md) — Few months ago my wife and I escaped from siren head. Or we thought so...Siren head was hunting us, trying to kill us. S
+- [Siren Head Vs Cartoon Cat](../games/adventure/siren-head-vs-cartoon-cat.md) — Siren Head Vs Cartoon Cat Archer an intense physic-based archery game. At first, you play as a cartoon cat, collect as m
+- [Six Helix](../games/adventure/six-helix.md) — Six Helix is fun hypercasual game. In this game a bouncing ball is go through the helix tower but it is not that easy th
+- [Six Nights at Horror House](../games/adventure/six-nights-at-horror-house.md) — Welcome to Five Nights at Talking Juans creepy &amp; scary place where you can tickle your nerves and get the right dose
+- [Skate Boy Escape](../games/adventure/skate-boy-escape.md) — Skate Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Skate Player house.Un
+- [Skate Park Escape](../games/adventure/skate-park-escape.md) — Skate Park Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Skate Park. You 
+- [SkaterGirl](../games/adventure/skatergirl.md) — Play with keyboard (arrow keys and mouse or enter) or play with XboxOne controller. Haven't tested with Playstation cont
+- [Skeleton Lab](../games/adventure/skeleton-lab.md) — Dive into the thrilling world of Skeleton Lab, where quick reflexes are your best ally. Navigate labyrinths, gather coin
+- [Ski in Sky](../games/adventure/ski-in-sky.md) — MPOSTOR SKY SKI is an arcade game where you have to ski down the mountain to complete each level. IMPOSTOR SKY SKI is a 
+- [Skibidi 2](../games/adventure/skibidi-2.md) — In this game you control Skibidi Toilet; so moving them around a world that revolves around you. As you move around the 
+- [Skibidi Jump Adventure](../games/adventure/skibidi-jump-adventure.md) — Playing as a small child named Skibidi, youll engage in nonstop platforming action in the game Skibidi Jump Adventure. S
+- [Skibidi Jump Adventure](../games/adventure/skibidi-jump-adventure-2.md) — Leap into Skibidi Jump Adventure, where dance and platforming collide! Tackle challenging levels with acrobatic moves to
+- [Skibidi Jump Challenge](../games/adventure/skibidi-jump-challenge.md) — Skibidi Jump Challenge is a fun yet challenging game to play. Here, the player has to make a stack of dustbins and jump 
+- [Skibidi Jumping](../games/adventure/skibidi-jumping.md) — Cube Jumping is a 3D Game that you absolutely like. the game aimes to test your reaction speed by making mutliple platfo
+- [Skibidi Survival Challenge](../games/adventure/skibidi-survival-challenge-2.md) — Race down an endless road in Skibidi Survival Challenge, where every swipe and tap dodges deadly obstacles. Keep your Sk
+- [Skibidi Toilet Adventure](../games/adventure/skibidi-toilet-adventure.md) — Skibidi Toilet Adventure is a fun and challenging platformer game that is perfect for fans of the Skibidi Toilet meme. I
+- [Skibidi Toilet Adventure](../games/adventure/skibidi-toilet-adventure-2.md) — Dive into the wacky world of Skibidi Toilet Adventure, where you'll leap through quirky levels inspired by the Skibidi T
+- [Skibidi Toilet Cross The Road](../games/adventure/skibidi-toilet-cross-the-road.md) — Embark on a wild adventure with Skibidi Toilet Cross the Road! The Skibidi Toilet is stranded in the middle of a mysteri
+- [Skibidi Toilet Escape Hotel Escape Horror](../games/adventure/skibidi-toilet-escape-hotel-escape-horror.md) — This game will be a game where you will bury your hours with its fluent and eye-pleasing visuals, I wish you a good game
+- [Skibidi Toilet Jumper](../games/adventure/skibidi-toilet-jumper.md) — Skibidi Toilet Jump is a fast-paced, challenging arcade game that will test your reflexes and coordination. In this game
+- [Skibidi Toilet Melon Sandbox](../games/adventure/skibidi-toilet-melon-sandbox.md) — Welcome to Skibidi Toilet Melon Sandbox, where youll embark on a journey in epic battlefield with brave warrior. These C
+- [skibidi toilet terror](../games/adventure/skibidi-toilet-terror.md) — Night Skibidi Toilet Simulator plays your role for a man named CameraHead Skibidi Night Toilet Simulator takes place in 
+- [Skibidi Toilet TopDown Survival](../games/adventure/skibidi-toilet-topdown-survival.md) — In the game Skibidi Toilet TopDown Survival, players take on the role of a resourceful cameraman faced with an unusual c
+- [Skip Love](../games/adventure/skip-love.md) — Ready for a funny, brain-teasing love adventure? Play an addictive brain teaser puzzle game in Skip Love. A funny little
+- [Skitty Rat Rescue](../games/adventure/skitty-rat-rescue.md) — Skitty Rat Rescue is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Skull Den Escape](../games/adventure/skull-den-escape.md) — Skull Den Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a Den, on there
+- [Skull Forest Escape](../games/adventure/skull-forest-escape.md) — Skull Forest Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a forest, on
+- [Skull Gate Escape](../games/adventure/skull-gate-escape.md) — Skull Gate Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [skull man escape](../games/adventure/skull-man-escape.md) — Skull Man Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On 
+- [Skull vs Zombies](../games/adventure/skull-vs-zombies.md) — Skull vs Zombies is an exciting physics-based game that promises hours of fun. Each level is a unique challenge that dem
+- [Sky Ball  - Adventure 3D](../games/adventure/sky-ball-adventure-3d.md) — Roll, jump & rush through sky tracks! Avoid obstacles and beat the challenge.
+- [Sky Fall](../games/adventure/sky-fall.md) — Welcome to Skyfall Skyfall is an exciting endless game, where you need to avoid obstacles like the helicopter, birds and
+- [Sky Man](../games/adventure/sky-man.md) — Welcome to Sky Man, a thrilling and addictive platformer game where you control a daring aviator navigating through the 
+- [Sky Rider Flight](../games/adventure/sky-rider-flight.md) — Get ready for an extremely new, simple, original, but at the same time challenging.
+- [SKY TOUCH](../games/adventure/sky-touch.md) — Shift Run is a fun addictive hyper-casual game. Just Click to Adjust Angle and Shift Direction, New Addictive Concept. H
+- [Sky way Escape](../games/adventure/sky-way-escape.md) — Take flight in Sky way Escape, where precision and patience rule. Navigate through soaring pillars using jetpack finesse
+- [SkyFall Survival](../games/adventure/skyfall-survival.md) — In SkyFall Survival, food showers from the sky while you dodge sly bombs. Test your reflexes and skill as waves accelera
+- [Skyscraper](../games/adventure/skyscraper-2.md) — Soar through an infinite cityscape as a daring bird in Skyscraper. Navigate expertly with simple controls to dodge hazar
+- [Skyslime Adventures](../games/adventure/skyslime-adventures.md) — Skyslime Adventures is a fun puzzle adventure where you guide a clever slime through floating platforms to unlock hidden
+- [Slap hands kings](../games/adventure/slap-hands-kings.md) — Challenge your friends to play for two and see which is the best in the hand games! Ready? Alleeee !!! Clap Hands - 2 Pl
+- [Slash Knight](../games/adventure/slash-knight.md) — Knight Survival is an action-packed dungeon survival adventure where you play as a brave wandering knight trapped in a d
+- [Sleepwalkers](../games/adventure/sleepwalkers.md) — Discover a magical world with Sleepwalkers, where colorful characters need your help to find their beds. Navigate challe
+- [Slender Boy Escape Robbie](../games/adventure/slender-boy-escape-robbie.md) — Navigate a shadowy forest alongside a friend, evading a mysterious figure as you gather coins to unlock new costumes. Wi
+- [slenderman kill 2](../games/adventure/slenderman-kill-2.md) — The Best Real Slenderman Game. Collect 8 pages / Save 8 kids. The Most Recommended Slender Man Game Ever! **************
+- [Slenderman Lost at School](../games/adventure/slenderman-lost-at-school.md) — Slenderman Lost at School is a chilling online horror game that thrusts players into a dark and eerie school where the i
+- [Slendrina Must Die: The Asylum](../games/adventure/slendrina-must-die-the-asylum.md) — Slendrina Must Die is back in a new scary adventure! The Asylum! She is much more angry then usual. Be careful, she is p
+- [Slick House Escape](../games/adventure/slick-house-escape.md) — Slick House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been lo
+- [Slime Escape](../games/adventure/slime-escape.md) — Slime Escape is a puzzle-adventure game where you control a flexible Slime sliding through challenging mazes to find the
+- [Slime Escape](../games/adventure/slime-escape-2.md) — Guide a wobbly Slime through intricate mazes filled with twists and tight passageways. Strategically maneuver to uncover
+- [Slime Smile](../games/adventure/slime-smile.md) — Today is the story of Slime! Get a better clearance experience by matching attributes. If you like it, we will continue 
+- [Slimoban 2](../games/adventure/slimoban-2.md) — Slimoban 2 is the sequel of the Sokoban-inspired game, Slimoban, about a little girl and her adventures in the dungeon f
+- [Slimoban V2](../games/adventure/slimoban-v2.md) — Slimoban 2 is the sequel of the Sokoban-inspired game, Slimoban, about a little girl and her adventures in the dungeon f
+- [Sling Tomb 2D](../games/adventure/sling-tomb-2d-2.md) — Escape a flooding tomb by catapulting creatures upward in Sling Tomb 2D. With a unique elasticity mechanic, navigate tra
+- [Slither Escape](../games/adventure/slither-escape.md) — Slither Escape is the perfect snake puzzle for playing online on your mobile or PC. In Slither Escape, guide the colored
+- [Slope Extra](../games/adventure/slope-extra.md) — Slope Extra is a great ball rolling game and you have to avoid obstacles on sloping ramps. This game is a great endless 
+- [Slothful Boy Escape](../games/adventure/slothful-boy-escape.md) — Slothful Boy Escape is a point and click escape game developed by 8BGames. Imagine that a slothful boy got trapped in th
+- [SMALL BUSINESS SATURDAY ESCAPE](../games/adventure/small-business-saturday-escape.md) — Small Business Saturday Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to 
+- [Small Child Escape](../games/adventure/small-child-escape.md) — Small Child Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Small Child house a
+- [Small Unicorn Escape](../games/adventure/small-unicorn-escape.md) — Small Unicorn Escape is a point and click escape game developed by 8BGames/Games2live. Imagine you went to the place whe
+- [Smart Boy Escape](../games/adventure/smart-boy-escape.md) — Smart Boy Escape is a point and click escape game developed by 8BGames. Imagine that you a Smart Boy invited you to his 
+- [Smart Looter](../games/adventure/smart-looter.md) — Smart Looter is a hypercasual robbery game. Your goal is to rob the houses of different levels and collect all items wit
+- [Smart Thief Escape Game](../games/adventure/smart-thief-escape-game.md) — Unleash your inner mastermind in Smart Thief Escape! Collaborate to solve challenging puzzles, crack codes, and beat the
+- [Smashing Land Escape](../games/adventure/smashing-land-escape.md) — Smashing Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village f
+- [Smiley Ball](../games/adventure/smiley-ball.md) — Get smiley ball to the end of each of 20 levels. Avoid obstacles all the way long. Good luck.
+- [Smiley House Escape](../games/adventure/smiley-house-escape.md) — Smiley House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Snail Squash](../games/adventure/snail-squash.md) — Snail Squash is a casual survival game where your main goal is to protect a snail and help it stay alive. React quickly 
+- [Snake Chain Escape](../games/adventure/snake-chain-escape.md) — Snake Chain Escape is a fun and challenging puzzle game where colorful snakes made of connected circles are tangled toge
+- [Snake Escape](../games/adventure/snake-escape.md) — Classic snake game with furious puzzle
+- [Snake Escape](../games/adventure/snake-escape-2.md) — Navigate through a modern twist on a classic experience with Snake Escape. Choose between endless food-chasing in classi
+- [Snake Forest Escape](../games/adventure/snake-forest-escape.md) — Snake Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, th
+- [Snake Game 2025](../games/adventure/snake-game-2025.md) — Classic Snake Game &ndash; HTML5 + Responsive + Touch Support Bring back the nostalgia with this modern take on the clas
+- [Snake Out Puzzle Game](../games/adventure/snake-out-puzzle-game.md) — Snake Out Puzzle Game is a fun and addictive brain puzzle where your goal is to free every colorful snake by moving them
+- [Snake Puzzle 3D Game](../games/adventure/snake-puzzle-3d-game.md) — Enter the world of Snake Puzzle 3D, a fun and addictive brain-teasing puzzle game where every move matters! Guide your c
+- [Snake Resort Escape](../games/adventure/snake-resort-escape.md) — Snake Resort Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a resort to 
+- [Snake Sorting](../games/adventure/snake-sorting.md) — Get ready for a fun and addictive puzzle challenge in Snake Sorting! Train your brain by sorting colorful snakes into th
+- [Snake Survival](../games/adventure/snake-survival.md) — Guide your ever-growing snake through a dynamic maze, consuming snacks and testing your reflexes. Master tight maneuvers
+- [Snake War Game](../games/adventure/snake-war-game.md) — Snake War Game ek exciting aur addictive arcade-style game hai jahan aap apni snake ko control karte hain aur maze ke an
+- [Snakes &amp; Ladders](../games/adventure/snakes-amp-ladders.md) — one hundred squares full of traps and tricks Roll the dice and try you luck ladders will take you up but snakes will tak
+- [Snoopy Escape](../games/adventure/snoopy-escape.md) — Snoopy Escape is a point and click escape game developed by 8BGames. Imagine that someone stole your Snoopy doll from yo
+- [Snow Land Escape](../games/adventure/snow-land-escape.md) — SnowLand Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an SnowLand. You
+- [SnowBall Adventure](../games/adventure/snowball-adventure-2.md) — Plunge into the frosty excitement of SnowBall Adventure, where your skillful snowball maneuvers are key. Navigate treach
+- [Snowball Destroyer](../games/adventure/snowball-destroyer.md) — Unleash the thrill of guiding a snowball to greatness in Snowball Destroyer. Master the art of rolling, breaking objects
+- [Snowball The Cat Catch and Go](../games/adventure/snowball-the-cat-catch-and-go-2.md) — Join Snowball the Cat in an endless sprint across vibrant worlds! Leap over obstacles, collect keys, and rescue adorable
+- [Snowland Adventure](../games/adventure/snowland-adventure-2.md) — Embark on a frosty escapade in Snowland Adventure! Master platforming skills amidst chilling winds as you outmaneuver in
+- [Snowma and Fighter Jet](../games/adventure/snowma-and-fighter-jet.md) — How to play Destory enemy planes to safe the gifts move jet up and down using arrows . Your objective is to knock all th
+- [Snowman Escape 2](../games/adventure/snowman-escape-2.md) — Snowman Escape 2 is a point and click escape game developed by 8BGames. Imagine that you bought a snowman for Christmas.
+- [Snowman House Escape](../games/adventure/snowman-house-escape.md) — Snowman House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Snowmans Naughty Trap](../games/adventure/snowmans-naughty-trap.md) — Welcome to Snowman&rsquo;s Naughty Trap! Santa Claus is in trouble, and only you can help! A mischievous snowman has tra
+- [Snowy Adventures with Noob and Pro!](../games/adventure/snowy-adventures-with-noob-and-pro.md) — Snowy Adventures with Noob and Pro! — a fun snowy adventure where you play solo or with a friend, leveling up your tree 
+- [Soda Block Jam](../games/adventure/soda-block-jam.md) — Soda Block Jam is a refreshing twist on classic puzzle games. Navigate through vibrant levels by swiping soda crates in 
+- [Soda Shop Escape](../games/adventure/soda-shop-escape.md) — Soda Shop Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Soda Shop. You go
+- [Soldier Run Evolution](../games/adventure/soldier-run-evolution-2.md) — Embark on an exhilarating journey where quick reflexes and sharp wits are key. Guide your soldier through thrilling leve
+- [Something Below The Sea](../games/adventure/something-below-the-sea-2.md) — Dive into the depths as you control drones tasked with cleaning oceans of trash. Uncover mysteries lurking beneath the w
+- [Somewhere](../games/adventure/somewhere.md) — Enter the minimalist yet challenging world of Somewhere, where every level demands strategic navigation through intricat
+- [Sonic Hidden Diamonds](../games/adventure/sonic-hidden-diamonds.md) — Sonic Hidden Diamonds is a fun online skill and hidden object game. Find out the hidden diamonds in the specified images
+- [Sonic Revert](../games/adventure/sonic-revert.md) — Sonic Revert is a reimagining of the Sonic gameplay but where Sonic is controlled like a car when he's in running mode. 
+- [Sonic Superstars](../games/adventure/sonic-superstars.md) — Adventure through the mystical Northstar Islands in this all-new take on classic 2D Sonic high-speed action platforming.
+- [Sorcerers Refuge](../games/adventure/sorcerers-refuge.md) — You wake up in a strange living room. There are no doors. Only whispers behind the wall and darkness in the eyes. Welcom
+- [Soul Essence Adventure](../games/adventure/soul-essence-adventure.md) — Soul Essence Adventure immerses you in a 2D journey where you find yourself trapped within the somber confines of a dark
+- [Sound Guess](../games/adventure/sound-guess.md) — Listen to the sound and try to guess it Spell your answer Difficult? A hint will appear in a few seconds:)
+- [Spa Girl Escape](../games/adventure/spa-girl-escape.md) — Spa Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Girl house to take her
+- [Space Adventure](../games/adventure/space-adventure-2.md) — Embark on a cosmic odyssey in Space Adventure, where you'll explore mysterious galaxies, meet alien civilizations, and s
+- [Space Adventure Fun Game](../games/adventure/space-adventure-fun-game.md) — This is a fun, casual space game. Collect as much gold as possible and earn points. I wish everyone who plays the game g
+- [Space Attracts](../games/adventure/space-attracts.md) — Space Attracts is an online jump adventure game that challenges your skills and reflexes. With NapTech Games, you can en
+- [Space Challenge](../games/adventure/space-challenge-2.md) — Blast through the cosmos in Space Challenge, a thrilling multiplayer race where agility and speed define your destiny. N
+- [Space Doodles](../games/adventure/space-doodles.md) — Defend the cosmos in Space Doodles by maneuvering your spaceship with intuitive controls to fend off alien threats. Upgr
+- [Space Escape Run](../games/adventure/space-escape-run.md) — This game is completely like story based. One Spaceship is going to blast so you are going to see alert saying that this
+- [Space Girl Escape](../games/adventure/space-girl-escape.md) — Space Girl Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that a girl trapped in Space Statio
+- [Space Girl Escape 2](../games/adventure/space-girl-escape-2.md) — Space Girl Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that a girl trapped in Space Stat
+- [Space House Escape](../games/adventure/space-house-escape.md) — Space House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Space Junk](../games/adventure/space-junk.md) — The astronaut accidentally found himself in the space junk room. Keep him alive for as long as you can with the joystick
+- [Space Love](../games/adventure/space-love.md) — Your emoji lover wants to meet his girl in space, can you help him? meeting his girl in space is not so easy.
+- [Space Prison Escape](../games/adventure/space-prison-escape.md) — Would you like to participate the adventure of friends who are kidnapped by a robotic alien group? The friends got rid o
+- [Space Room Escape](../games/adventure/space-room-escape.md) — Space Room Escape is a fun puzzle game. Fan of cat games? Looking for more addictive games about cats? Come give it a tr
+- [Space Scale](../games/adventure/space-scale.md) — Experience a rhythm-infused cosmic adventure with Space Scale. Guide Giba through thrilling 2D platforming challenges, u
+- [Space Squid Challenge Game](../games/adventure/space-squid-challenge-game.md) — We are taking you to space in this Space Squid Game Challenge! The famous squid game is now ready to be played by you, a
+- [Spacecraft Fighter](../games/adventure/spacecraft-fighter-2.md) — Engage in cosmic warfare with Spacecraft Fighter, where strategy meets adrenaline. Customize and pilot your ship through
+- [Spaceman Escape Adventure](../games/adventure/spaceman-escape-adventure.md) — Spaceman Escape Adventure is an addictive space adventure game. Help the isolated astronauts in space successfully get t
+- [SpaceShip Fight](../games/adventure/spaceship-fight.md) — Space Ship by gamed Fight is an action-packed mobile game that thrusts you into intense space battles. As the pilot of a
+- [SparkSnap](../games/adventure/sparksnap.md) — SparkSnap is a clicker game where fire-crackers are flowing from left and right and you have to click and drag the requi
+- [Spartacus Arena](../games/adventure/spartacus-arena.md) — Welcome to the Arena! Take part to the ancient gladiator battles in this 3D simulation game. Take your weapons and armor
+- [Spatial Inverse: Gravity Puzzle Adventure](../games/adventure/spatial-inverse-gravity-puzzle-adventure.md) — Spatial Inverse is an innovative, free-to-play physics puzzle game where you manipulate gravity to guide glowing marbles
+- [Speakerman: Skibidi Dop Yes Yes](../games/adventure/speakerman-skibidi-dop-yes-yes.md) — &ldquo;Speakerman: Skibidi Dop Yes&rdquo;, is a fun game to play. To move to the next pillar, all you have to do is make
+- [Special Alien](../games/adventure/special-alien.md) — Dive into a fun and thrilling adventure with Special Alien, where you control a unique alien character navigating throug
+- [Speed Run Game](../games/adventure/speed-run-game.md) — Speed Run Game is a fun, fast-paced, and exciting running game where players need to run quickly, avoid obstacles, colle
+- [Spider Escape](../games/adventure/spider-escape.md) — In Spider Escape, play as a spider smashing random enemies in a quirky comic world. Use quick clicks to wield your hamme
+- [Spider Escape Link](../games/adventure/spider-escape-link.md) — Spider Escape is a fast-paced arcade game where your mission is to help a clever spider escape from dangerous traps and 
+- [Spider House Escape](../games/adventure/spider-house-escape.md) — Spider House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Spider Man Adventure](../games/adventure/spider-man-adventure.md) — Spiderman and his enemies sandman and venom game. In this game spider man encounters his enemies while walking in the ci
+- [Spider-Man: Laboratory Lockdown](../games/adventure/spider-man-laboratory-lockdown.md) — Spider-Man's archenemies like the Green Goblin and Doctor Octopus are up to no good again. This time they are developing
+- [Spider Man MOD Minecraft PE](../games/adventure/spider-man-mod-minecraft-pe.md) — SpiderMan No Way Home MCPE is a free utility launcher for MC PE where you will find Spider Man with tons of suits and a 
+- [Spider Man Stickman](../games/adventure/spider-man-stickman.md) — Press anywhere to shoot your rope and release to let go. Build up speed and momentum to get a nice swing going!
+- [spider man super warior](../games/adventure/spider-man-super-warior.md) — Protect your spide rMan and launch your spider web to kill the monster and win in very level
+- [Spider Man vs Goblin](../games/adventure/spider-man-vs-goblin.md) — Protect the city from the bad green goblin. Fight for peace. Destroy Goblin's bomb and watch and wait for the entry of g
+- [Spider Noob](../games/adventure/spider-noob.md) — How To Play? You’re a noob and you know how to throw nets, throw nets where you need to net and reach the finish line. R
+- [Spiderman 2 Web Shadow](../games/adventure/spiderman-2-web-shadow.md) — find mysteries between spiderman 2
+- [SPIDERMAN 3D](../games/adventure/spiderman-3d.md) — Spider Rope Hero Game - Gangster New York City is a strange gangster simulator in third person view, where you become a 
+- [Spiderman Climb Building](../games/adventure/spiderman-climb-building.md) — In this mini-game, spider-man is climbing the building. There are many obstacles ahead. Green goblin, Doctor octopus etc
+- [Spiderman Sea Adventure - Pill Pull Game](../games/adventure/spiderman-sea-adventure-pill-pull-game.md) — Save our Spiderman from oceans zombies
+- [Spiffy House Escape](../games/adventure/spiffy-house-escape.md) — Spiffy House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a smart hous
+- [Spill It! - Drop balls](../games/adventure/spill-it-drop-balls.md) — Drop balls to knock over glasses and spill everything!
+- [Spill the wine](../games/adventure/spill-the-wine.md) — Spill It! is an addictive physics-based puzzle game where you drop balls to knock over glasses and spill everything. Enj
+- [Spiral Rush](../games/adventure/spiral-rush.md) — 1. Players can use their imagination to make carvings according to the wood given by the system, and get rich rewards af
+- [spongbob among us](../games/adventure/spongbob-among-us.md) — sponge among us is a fun and engaging Adventure game. Your mission is simple: Run, Kill and Let no one survive. This act
+- [Sponge Neighbor Escape 3D](../games/adventure/sponge-neighbor-escape-3d.md) — You play for a guy whose name is Bob. You came to the bottom neighborhood of the city and settled next to the sponge nei
+- [spongebob 2021](../games/adventure/spongebob-2021.md) — Join SpongeBob SquarePants on a hilarious culinary adventure through the restaurants and kitchens of Bikini Bottom! When
+- [Spongebob Adenture Run and Jump](../games/adventure/spongebob-adenture-run-and-jump.md) — Spongebob Adenture Run and Jump
+- [Spongebob Among Us](../games/adventure/spongebob-among-us.md) — Among Us online is offline multiplayer game in which you are imposter and have to kill all of your crewmates without bei
+- [spongebob Hero](../games/adventure/spongebob-hero.md) — spongebob meme spongebob popsicle spongebob movie spongebob squarepants spongebob characters spongebob and patrick spong
+- [spongebob iron](../games/adventure/spongebob-iron.md) — spongebob meme spongebob popsicle spongebob movie spongebob squarepants spongebob characters spongebob and patrick spong
+- [spongebob iron man](../games/adventure/spongebob-iron-man.md) — SpongeRobert SqaurePants, is a sea resident of Bikini Bottom. He assists Sandy in a project using "imagination", a suit 
+- [Spongebob Ironman](../games/adventure/spongebob-ironman.md) — welcome to the best game Spongebob Ironman
+- [Spongebob Racer 3D](../games/adventure/spongebob-racer-3d.md) — Many years ago, great and greedy magician decided to get rich. He found a treasure map, but these treasures were hidden 
+- [spongebob  Spaider](../games/adventure/spongebob-spaider.md) — Welcome to the best game spongebob Spaider man
+- [SpongeBob SquarePants Falling](../games/adventure/spongebob-squarepants-falling.md) — Fly up all-new worlds in SpongeBob Squarepants Falling! SpongeBob is flying to find the lost Krabby Patty formula somewh
+- [spongebob Superhero](../games/adventure/spongebob-superhero.md) — spongebob meme spongebob popsicle spongebob movie spongebob squarepants spongebob characters spongebob and patrick spong
+- [spongebob turtles](../games/adventure/spongebob-turtles.md) — super spongebob turtles
+- [spongebob World](../games/adventure/spongebob-world.md) — spongebob meme spongebob popsicle spongebob movie spongebob squarepants spongebob characters spongebob and patrick spong
+- [Spooky Camp Escape](../games/adventure/spooky-camp-escape.md) — Your parents sent you to a camp for the weekend, and it's really spooky! All you want to do is escape! Look around, see 
+- [Spooky Cat Escape](../games/adventure/spooky-cat-escape.md) — A cute cat kidnapped you seven days ago. She left for lunch and will be back at 12:20. Can you solve puzzles and escape 
+- [Spooky Escape](../games/adventure/spooky-escape.md) — Spooky Escape is a great adventure game, which needs you have the high reaction. In this game, you will be a spooky, the
+- [Spooky Halloween](../games/adventure/spooky-halloween.md) — Spooky Halloween is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place that is
+- [Spore Guard](../games/adventure/spore-guard.md) — Defend a living spore core against waves of animated microbes. The core fires automatically while you tap priority targe
+- [Spot Differences Bird Adventure](../games/adventure/spot-differences-bird-adventure.md) — Spot Differences: Bird Adventure is a fun and relaxing puzzle game where you find differences between two bird pictures.
+- [Spring Land Escape](../games/adventure/spring-land-escape.md) — Spring Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village, th
+- [Sprunki Adventure 3](../games/adventure/sprunki-adventure-3.md) — 🎮 Welcome to the exciting world of "Sprunki Adventure 3"! 🏞️
+- [Sprunki Adventure 4](../games/adventure/sprunki-adventure-4.md) — 🎮 Welcome to the frozen world of "Sprunki Adventure 4"! ❄️🏔️
+- [Sprunki Adventure 5](../games/adventure/sprunki-adventure-5.md) — 🎮 Welcome to the scorching world of "Sprunki Adventure 5"! ☀️🌵
+- [Sprunki Castle Panic Skibidi Toilet](../games/adventure/sprunki-castle-panic-skibidi-toilet.md) — Now Sprunki Castle Panic Skibidi Toilet must escape from Skibidi Toilet in Castle Incredibox. Get all coin to get access
+- [Sprunki Craft - Sandbox 3D](../games/adventure/sprunki-craft-sandbox-3d.md) — 🌟 Discover the World of Sprunki! 🌟
+- [Sprunki Epic Mystery](../games/adventure/sprunki-epic-mystery.md) — Sprunki Epic Mystery is a real horror game in sprunki world. Collect all item before meet any evil sprunki!
+- [Sprunki Escape Incredibox 2025](../games/adventure/sprunki-escape-incredibox-2025.md) — Now you must escape from Sprunki terror, find all item before escape, and beware of this never ending nightmare by sprun
+- [Sprunki Horror](../games/adventure/sprunki-horror.md) — Enter the quirky world of Sprunki Horror, where creating music is an adventure! Assemble unique tunes using famous chara
+- [Sprunki in Backrooms](../games/adventure/sprunki-in-backrooms.md) — 🎮 Welcome to Sprunki in Backrooms! 🟨🚪
+- [Sprunki in Backrooms Christmas Skibidi Terrors](../games/adventure/sprunki-in-backrooms-christmas-skibidi-terrors.md) — Now Sprunki must escape from Skibidi Toilet in Christmas day. Get all coin to get access to exit. Backroom is so creepy 
+- [Sprunki in Squid Game Chamber](../games/adventure/sprunki-in-squid-game-chamber.md) — In the heart of the notorious Squid Game Chamber, there is only one thing on Sprunki&rsquo;s mind: survival. A place whe
+- [Sprunki Lava Escape 2Player](../games/adventure/sprunki-lava-escape-2player-2.md) — Team up with a friend to guide quirky Sprunki characters to safety from relentless lava. Leap continuously through peril
+- [Sprunki Murdered Incredibox](../games/adventure/sprunki-murdered-incredibox.md) — Now its time to murder Sprunki inin this epic fight! Grab any item to burn Sprunki to the eternal flame of death!
+- [Sprunki Music Scary Beat Box](../games/adventure/sprunki-music-scary-beat-box-2.md) — Immerse yourself in Sprunki Music Scary Beat Box, where rhythm adventure awaits. Navigate eerie modes with simple drag-a
+- [Sprunki Retake FINAL v4](../games/adventure/sprunki-retake-final-v4.md) — Sprunki Retake: Your Soundtrack to Stardom Lights, Camera, Action! Enter Sprunki Retake, where music production meets bl
+- [Sprunki s WORLD All MOD](../games/adventure/sprunki-s-world-all-mod.md) — Discover Sprunki Incredibox: A Fan-Made Musical Adventure If youre a fan of Incredibox, youre going to love Sprunki Incr
+- [Sprunki X Granny Incredibox](../games/adventure/sprunki-x-granny-incredibox.md) — When Sprunki collabs with Granny in this awesome game, who can resist?
+- [Squadron Hero : Alien Invasion](../games/adventure/squadron-hero-alien-invasion.md) — The intergalactic warriors are in the middle of a fierce battle against aliens. The extra-terrestrials have invaded our 
+- [Squid All Challenges](../games/adventure/squid-all-challenges.md) — Welcome to this fantastic hyper-casual squid game called' squid all challenges '. Squid game is a survival royale game b
+- [Squid Crowd Pusher](../games/adventure/squid-crowd-pusher.md) — In Squid Crowd Pusher, one of the legendary game series of Squid game, your goal is to collect players of the same color
+- [Squid Escape But Blockworld](../games/adventure/squid-escape-but-blockworld-2.md) — Race through a vibrant, blocky universe in Squid Escape But Blockworld, where nerve-wracking chases and cunning obstacle
+- [Squid Escape Game](../games/adventure/squid-escape-game.md) — Welcome, this app is dedicated to fans of the Squid Game series, it's a game where you help your favorite actors to run 
+- [Squid Escape Game](../games/adventure/squid-escape-game-2.md) — Navigate a complex labyrinth in Squid Escape Game, where teamwork and strategy are your keys to freedom. Collect scatter
+- [Squid Game 3D VIP](../games/adventure/squid-game-3d-vip.md) — After premiering on Netflix earlier this year, Squid Game became a worldwide success. The premise of the show combined s
+- [Squid Game 456 Survival Challenge](../games/adventure/squid-game-456-survival-challenge.md) — Survival games are becoming a reality in the modern world. In case of victory, the best one gets a cash prize and recogn
+- [Squid Game All Challenges](../games/adventure/squid-game-all-challenges.md) — Welcome to Squid Game All Challenges the thrilling and fascinating 3D traditional simulator K- games that are based on f
+- [Squid Game - Clash Gang](../games/adventure/squid-game-clash-gang.md) — All balls have to go into the pipe … can you remove the pins in the right order and make it happen? 1.Pull The Pin Game 
+- [SQUID GAME DOLL 3D](../games/adventure/squid-game-doll-3d.md) — All players are poor and want money for their future and present life. Don't get eliminated and make your way to the top
+- [Squid Game Find the Differences](../games/adventure/squid-game-find-the-differences.md) — Squid Game Find the Differences is a wonderful game where you have to find 7 differences in 20 levels. Before you on the
+- [Squid Game Pro](../games/adventure/squid-game-pro.md) — Squid Game 3D it's new run game, it's challenging game make you have fun. in this new run game you can become the winner
+- [Squid Game Red Green Light](../games/adventure/squid-game-red-green-light.md) — Play squid Red Light Green Light game for free Red Light Green Light is the best version of squid game When the girl dol
+- [Squid Game Space](../games/adventure/squid-game-space.md) — Squid Game is survival shooting games based on Red Light, Green Light. Begin your survival adventure with the unlimited 
+- [Squid Game Stacky Maze](../games/adventure/squid-game-stacky-maze.md) — A brand new game from Squid Game web browser games meets you with the difference of meyagames. You have to collect all t
+- [Squid Game the 7 challenge](../games/adventure/squid-game-the-7-challenge.md) — Squid Game is survival shooting games based on Red Light, Green Light. Begin your survival adventure with the unlimited 
+- [Squid Game To Play](../games/adventure/squid-game-to-play.md) — Squid Game: Survival Challenge Squid Game: Survival Challenge is the game based on the korean tv show / tv series. The l
+- [Squid Game Try To Survive](../games/adventure/squid-game-try-to-survive.md) — The series revolves around a contest where 456 players, all of whom are in deep financial debt, risk their lives to play
+- [Squid Maze Challenge](../games/adventure/squid-maze-challenge-2.md) — Dive into the electrifying labyrinth of Squid Maze Challenge, where every twist demands quick thinking and agility. Outs
+- [Squid Scape](../games/adventure/squid-scape.md) — Navigate a world of masked guards in Squid Scape, where every step counts. Test your wits through 30 nerve-wracking leve
+- [Squid Sprunki Game Red Light](../games/adventure/squid-sprunki-game-red-light.md) — Navigate perilous rooms in Squid Sprunki Game Red Light, strategically collecting coins to upgrade your bed for survival
+- [Squid Stacky Maze](../games/adventure/squid-stacky-maze.md) — You have to collect all the stack to escape from the game island where scary Squid Game games are played. Jump over the 
+- [Squid Survival Game](../games/adventure/squid-survival-game.md) — Carefully extract shapes from fragile honeycomb candy, testing your precision and nerves. Succeed to advance, but a sing
+- [Squid  Triple Jump Game](../games/adventure/squid-triple-jump-game.md) — Squid Triple Jump Game, a single-touch jumping reaction game, has everything you need to make your next app store hit! U
+- [SquidGame3D](../games/adventure/squidgame3d.md) — Engaging Puzzles: Each level offers a unique challenge, whether it&rsquo;s rhythm-based action, strategic battles, or co
+- [Squidly Game: 123, Stop](../games/adventure/squidly-game-123-stop.md) — Attention Game Lovers! Your Favourite squid game is here.Knock Down your competitors in squid game. Enjoy Real Fun Of Sq
+- [Squirrel Farm Escape](../games/adventure/squirrel-farm-escape.md) — Squirrel Farm Escape is a point and click game developed by Games2Live. Imagine that you had been to a Farm; there you g
+- [Squirrel Land Escape](../games/adventure/squirrel-land-escape.md) — Squirrel Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a calm land
+- [Squirrel Rescue](../games/adventure/squirrel-rescue.md) — Squirrel Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest there y
+- [Stack Jump 3D](../games/adventure/stack-jump-3d.md) — This is a adventurous game. In this game the player has to jump on the stacks to reach as much as high he/she can. This 
+- [Star Trooper: War for Survival](../games/adventure/star-trooper-war-for-survival.md) — In Star Trooper: War for Survival, command your squad to defend against relentless enemy waves. Upgrade your character, 
+- [Star Wars Yoda Escape](../games/adventure/star-wars-yoda-escape.md) — Star wars Yoda Escape is a point and click escape game developed by 8BGames. Imagine that you went to see Star Wars fami
+- [Starbust Strike](../games/adventure/starbust-strike.md) — Control your ship and overcome all the barriers with thrilling adventure. Starburst Strike game is a ship controlling ga
+- [Statue House Escape](../games/adventure/statue-house-escape.md) — Statue House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Steal a Bird](../games/adventure/steal-a-bird.md) — Customize skins and bases while stealing birds from other players in the 3D world. Join friends in this free multiplayer
+- [Steal The Gold Coins](../games/adventure/steal-the-gold-coins.md) — Steal The Gold Coins is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest ca
+- [Steal The Haunted Treasure](../games/adventure/steal-the-haunted-treasure.md) — Steal the haunted treasure is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a hau
+- [Stealth Master 3D Game](../games/adventure/stealth-master-3d-game.md) — Stealth Master 3D is a free online action and leisure game for boys played on PuzzleGame. In the game, you play the role
+- [Stealth Master: Assassin Ninja](../games/adventure/stealth-master-assassin-ninja.md) — Have you only learned about these mysterious martial arts from ancient Japanese legends? Don't you think that's the less
+- [Steve Alex Drive](../games/adventure/steve-alex-drive-2.md) — Embark on an exhilarating race in Steve Alex Drive, where you and friends navigate treacherous terrains filled with thri
+- [Steve and Alex House Escape](../games/adventure/steve-and-alex-house-escape-2.md) — In Steve and Alex House Escape, navigate a pixelated labyrinth, solving puzzles with unique dual-character mechanics. Us
+- [Steve and Wolf](../games/adventure/steve-and-wolf.md) — Steve and his wolf are stuck in a dungeon. Play with your friend and help them escape from the dark dungeon.
+- [Steve SurvivalCraft Easy](../games/adventure/steve-survivalcraft-easy-2.md) — Embark on a pixelated quest with Steve, mastering double jumps and precise attacks as you navigate dangerous forests. Co
+- [Steve vs Alex Rocketman](../games/adventure/steve-vs-alex-rocketman-2.md) — Guide astronauts Steve and Alex through a perilous skyblock adventure. Strategically time movements to avoid sharp TNTs 
+- [Steveman Horror](../games/adventure/steveman-horror-2.md) — Steveman Horror thrusts you into a spine-chilling adventure where speed and precision are crucial. Navigate shadowy leve
+- [Stick Bros Leave Prison](../games/adventure/stick-bros-leave-prison.md) — Stick Bros Leave prison is the latest installment in the stickman jail series, where you get to control not one but two 
+- [Stick Monkey](../games/adventure/stick-monkey-2.md) — Guide a cheeky monkey across perilous gaps using your extendable stick in this vibrant adventure. Master timing and prec
+- [Stick New Year in Prison](../games/adventure/stick-new-year-in-prison.md) — You will play as a Stickman character. Your character ended up behind bars in a prison cell on New Year's Eve. Your task
+- [Stick Ninja Survival](../games/adventure/stick-ninja-survival-2.md) — Stick Ninja Survival delivers thrilling rogue-like action as stickman warriors battle endless monster waves under a crim
+- [Stickman Adventure](../games/adventure/stickman-adventure.md) — This is an adventure that will take you through time and space! Along the way, you'll encounter various traps and monste
+- [Stickman Base Jumper](../games/adventure/stickman-base-jumper.md) — Pack your parachute and jump down the highest buildings in the world and experience the amazing feeling of Stickman Base
+- [Stickman Bros In Fruit Island 2](../games/adventure/stickman-bros-in-fruit-island-2.md) — Stickman Brothers In Fruit Island Adventure 2 - New two players game dev by to43.com. This time their three brothers cam
+- [Stickman Bros In Fruit Island 3](../games/adventure/stickman-bros-in-fruit-island-3.md) — Stickman Bros In Fruit Island 3 - Stickman Brothers In Fruit Island Adventure! This time their three brothers came to Fr
+- [StickMan Bros Vs Zombies](../games/adventure/stickman-bros-vs-zombies.md) — The Stickman brothers come to the fantasy world. In this world, zombies run rampant and people are hurt. Stickman bros c
+- [Stickman Differences](../games/adventure/stickman-differences.md) — Now it's time to take a look at some pictures with Stickman. Behind these pictures are small differences. Can you find t
+- [Stickman Escape](../games/adventure/stickman-escape.md) — Yoga Instructor Escape is a point and click escape game developed by 8BGames. Imagine that you went to yoga instructor’s
+- [Stickman Escape Out](../games/adventure/stickman-escape-out.md) — Stickman Escape Out is a tunnel-digging game centered on helping criminals escape from prison. Drag your mouse to dig th
+- [Stickman Escape - Plane and Ship](../games/adventure/stickman-escape-plane-and-ship.md) — Prove to everyone that you are a rich man! Only those players who have money can make a purchase in this game. The conti
+- [stickman hook 2 game](../games/adventure/stickman-hook-2-game.md) — Game .io about the race ahead of the curve between people. Move using the rope, dodge obstacles and jump as high as poss
+- [Stickman Hook Animation](../games/adventure/stickman-hook-animation.md) — Stickman Hook is a fun game where you can test your skills. You play as a swinging stickman through hundreds of challeng
+- [Stickman Huggy 456 Squid](../games/adventure/stickman-huggy-456-squid-2.md) — Guide a daring blue monster through a perilous lab, navigating deadly traps and collecting coins in "Stickman Huggy 456 
+- [Stickman Huggy Escape](../games/adventure/stickman-huggy-escape-2.md) — Guide the Stickman Huggy brothers through a pixelated prison escape. Outsmart guards, dodge surveillance, and discover s
+- [Stickman Huggy Spooky Holiday](../games/adventure/stickman-huggy-spooky-holiday-2.md) — Embark on a spine-chilling Halloween quest with Red and Blue Huggy! Navigate eerie landscapes, collect candies, and purc
+- [Stickman Jetpack](../games/adventure/stickman-jetpack.md) — Defy gravity in Stickman Jetpack, a thrilling adventure with physics-based challenges. Guide your stickman through trick
+- [Stickman Restaurant Rush Game](../games/adventure/stickman-restaurant-rush-game.md) — Welcome to Stickman Restaurant Rush Game, a fast-paced restaurant management adventure where you serve hungry customers,
+- [Stickman Rope Heroes](../games/adventure/stickman-rope-heroes.md) — Have you ever seen a stickman throwing a web before? yes he is throwing net and trying to reach the finish line to fulfi
+- [Stickman Rope Heroes](../games/adventure/stickman-rope-heroes-2.md) — Navigate treacherous terrains in Stickman Rope Heroes, where your skill and timing in swinging from rope to rope are par
+- [stickman sky 3D](../games/adventure/stickman-sky-3d.md) — Stickman Sky 3D is a fast-paced action game where you control a stickman running through floating sky platforms, dodging
+- [StickMan Stunt Race 3D](../games/adventure/stickman-stunt-race-3d.md) — StickMan Stunt Race 3D is an action-packed game that combines parkour and racing in a fun and exciting way. You will com
+- [Stickman Swing Rope hero](../games/adventure/stickman-swing-rope-hero.md) — Welcome to Stickman Superhero Hook - Super Stick Heroes Swing! Play as the stickman superheroes and flip like a spider a
+- [Stickman Swing Star](../games/adventure/stickman-swing-star.md) — Stickman Swing Star is fun addictive hypercasual game.Click and hold the stickman to grab the nearest ring. Swing back a
+- [Stickman vs Noob Hammer](../games/adventure/stickman-vs-noob-hammer-2.md) — Smash through obstacles with precision in Stickman vs Noob Hammer! Team up with a friend in this pixelated adventure, us
+- [stickman vs zombies](../games/adventure/stickman-vs-zombies.md) — Discover the unforgettable stickman anger, how fierce could it be? A new madbox arena. A strange squad of rivals invaded
+- [StickManHook](../games/adventure/stickmanhook.md) — Complete the adventure with the hero, The game has multiple levels, each level has a number of anchor points, the use of
+- [Stilt House Escape](../games/adventure/stilt-house-escape.md) — Stilt House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house on th
+- [Stirring Land Escape](../games/adventure/stirring-land-escape.md) — Stirring Land Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village, 
+- [stomp-stomp](../games/adventure/stomp-stomp.md) — A relaxing game about destroying the world! Hit the button when the green notes hit the red area.
+- [Stone Cave Escape](../games/adventure/stone-cave-escape.md) — Stone Cave Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, ther
+- [Stone Cave Forest Escape](../games/adventure/stone-cave-forest-escape.md) — Stone Cave Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fores
+- [Stone Forest Escape](../games/adventure/stone-forest-escape.md) — Stone Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, th
+- [Stone Prison Escape](../games/adventure/stone-prison-escape.md) — Stone Prison Escape is a point and click game developed by Games2Live. Imagine that you had been to a Prison; there you 
+- [Stone Smacker](../games/adventure/stone-smacker.md) — "Stone Smacker" is a Puzzle / Top Down game where the player needs to push the stones into the holes, to clear areas and
+- [Stony Forest Escape](../games/adventure/stony-forest-escape.md) — Stony Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, th
+- [Stony Forest Escape 2](../games/adventure/stony-forest-escape-2.md) — Stony Forest Escape 2 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a forest, 
+- [STORMBREAKER](../games/adventure/stormbreaker.md) — 1. You can use a variety of weapons lasers and missiles to launch attacks and kill targets to unlock the next level. 2. 
+- [Strange Packages](../games/adventure/strange-packages.md) — Unravel the sinister mystery of constant deliveries in "Strange Packages." Navigate through haunting transformations as 
+- [Stray Souls: Dollhouse Story](../games/adventure/stray-souls-dollhouse-story.md) — Unravel chilling mysteries with Danielle and her animated doll companion in Stray Souls: Dollhouse Story. Navigate eerie
+- [Street Escape](../games/adventure/street-escape.md) — Street Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went for walking at evening an
+- [Street Escape 2](../games/adventure/street-escape-2.md) — Street Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you went for walking at evening 
+- [StreetBoard](../games/adventure/streetboard-2.md) — StreetBoard combines skateboarding with survival, challenging you to conquer perilous nighttime tracks. Use intuitive co
+- [Stressed Man Escape](../games/adventure/stressed-man-escape.md) — Stressed Man Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Stressed Man house
+- [Strong High Heels](../games/adventure/strong-high-heels.md) — Kid's high-heeled shoes game is an agility clearance game to wear high-heeled shoes for perfect Parkour. What kind of ex
+- [Stud Farm Escape](../games/adventure/stud-farm-escape.md) — Stud Farm Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Stud Farm; th
+- [Stunning Boy Escape](../games/adventure/stunning-boy-escape.md) — Stunning Boy Escape is a point and click escape game developed by 8BGames. Imagine that you a Stunning Boy invited you t
+- [Stunning House Escape](../games/adventure/stunning-house-escape.md) — Stunning House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been
+- [Stunt House Escape](../games/adventure/stunt-house-escape.md) — Stunt House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, ther
+- [Stunt Jack](../games/adventure/stunt-jack-2.md) — Test your flying prowess as Stunt Fly Pumpkin in Stunt Jack! Navigate intricate levels, collecting stars and potions whi
+- [Stunt Land Escape](../games/adventure/stunt-land-escape.md) — Stunt Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Stunt Witch](../games/adventure/stunt-witch-4.md) — Embark on a high-flying adventure as a daring Stunt Witch! Maneuver through hoops, dodge hazards, and collect stars whil
+- [Subby Quest](../games/adventure/subby-quest.md) — Welcome to a world swallowed by darkness. An underwater cave stretches endlessly before you, full of mystery, danger, an
+- [Subway Madness Surf Rush](../games/adventure/subway-madness-surf-rush.md) — surfers and run as fast as you can in the Subway Surface but take care the guard will try to prevents you from entering 
+- [Subway Stone](../games/adventure/subway-stone.md) — Do you have the patience and skill to master Subway Stone? This none stop, action packed, fast paced arcade game will re
+- [Sugarland Adventure](../games/adventure/sugarland-adventure.md) — Sugarland Adventure is a platformer game, lets journey beautiful world, eat cake, defeat enemies and collect 5 candy to 
+- [Sugarland Adventure](../games/adventure/sugarland-adventure-2.md) — Embark on a sugary escapade in Sugarland Adventure, guiding a young girl through candy-laden stages. Jump and dodge craf
+- [Sum Forest Adventure](../games/adventure/sum-forest-adventure.md) — Navigate the mystical Sum Forest, where clever calculations unlock enchanting paths. Strategize by combining numbers to 
+- [Sunken Treasure Escape](../games/adventure/sunken-treasure-escape.md) — You explore a sunken ship deep under the sea surface. The only way to escape is to reveal the secrets of the ship and fi
+- [SUNLAND PARROT ESCAPE](../games/adventure/sunland-parrot-escape.md) — Sunland Parrot Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Land, O
+- [sunny escape](../games/adventure/sunny-escape.md) — "Sunny Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, that v
+- [Sunset Driver 2021](../games/adventure/sunset-driver-2021.md) — Drive your favorite car to the sunset in this mad drifting experience.
+- [Super Adventure World](../games/adventure/super-adventure-world.md) — Super Land Adventure 3D is a 3D platform land game, discover and collect all the jewels in the island, snow and desert l
+- [Super Alien Rabbit](../games/adventure/super-alien-rabbit.md) — Step into a unique and exciting world with Super Alien Rabbit, where a brave little alien bunny is on a mission to survi
+- [Super Arrowman](../games/adventure/super-arrowman-2.md) — Unleash your inner hero in Super Arrowman, a thrilling 2D platformer where agility meets strategy. Navigate Zion City's 
+- [Super Brothers Adventure](../games/adventure/super-brothers-adventure.md) — Here are 2 little brothers trapped in this mysterious place, you need to help them to cooperate and escape. You need to 
+- [Super Chains](../games/adventure/super-chains.md) — Super Chains a fun puzzle game. To capture and use them, create long links of chain blocks by simply touching an adjoini
+- [Super Charlie](../games/adventure/super-charlie.md) — Join Charlie on an adrenaline-fueled journey through treacherous landscapes, where nimble maneuvers and ace swordplay ar
+- [Super Chop: Forest Hero](../games/adventure/super-chop-forest-hero.md) — Super Chop: Forest Hero is a first-person 3D chopping adventure. Pull the Hero Axe from the stone, chop your way through
+- [Super Christmas](../games/adventure/super-christmas.md) — Christmas is coming again! Play this Christmas game with 600+ levels of match 3 fun, filled with lots of new challenges!
+- [Super Dangerous Dungeons - action](../games/adventure/super-dangerous-dungeons-action.md) — Hop into a challenging platforming adventure with the little treasure hunter Timmy! Run and jump your way through trap a
+- [Super Ferme Mini](../games/adventure/super-ferme-mini.md) — Préparez-vous pour les vacances avec une mise à jour festive sur Google Play Crée ta propre ferme personnalisée sur Supe
+- [Super Fowlst](../games/adventure/super-fowlst.md) — The world has been overrun by demons and there’s only one chicken that can stop them. How? By smashing into them head-fi
+- [super Hero of City](../games/adventure/super-hero-of-city.md) — City Hero is action-shooting game. You action hero is got a assignment to save the city. Alians and demons attack the ci
+- [Super Huggie Adventure](../games/adventure/super-huggie-adventure.md) — Embark on a perilous platforming adventure in Super Huggie Adventure! Navigate mysterious islands, battle fearsome monst
+- [Super Huggie Bros](../games/adventure/super-huggie-bros-2.md) — Guide the adorable yet notorious Huggy Wuggy through a fiery escape in this engaging 2D platformer. Navigate treacherous
+- [Super Knight Adventure](../games/adventure/super-knight-adventure-2.md) — Embark on an exhilarating quest in Super Knight Adventure, where you navigate treacherous jungles teeming with zombies. 
+- [SUPER MARIO ADVENTURE 2D](../games/adventure/super-mario-adventure-2d.md) — Super Mario Adventure Kids Game platformer game The best action adventure game on your Android! And it's free! Welcome t
+- [Super Mario Go](../games/adventure/super-mario-go.md) — Super Mario Go Adventure game How to play: keyboard buttons 'Left' and 'Right' to move and button 'SPACE' to jump and 'D
+- [Super mario jungle adventure](../games/adventure/super-mario-jungle-adventure.md) — Super mario vous fera remonter le temps dans votre enfance avec la mission légendaire: Princess Rescue. Votre tâche cons
+- [Super Mario jungle run](../games/adventure/super-mario-jungle-run.md) — Welcome to the Super Mario jungle run. This time, Adventurer will have a magical adventure with his friends! You control
+- [Super Mario Run](../games/adventure/super-mario-run.md) — Run with Mario and friends and help to rescue the princess, tap the screen to jump and make some tricks movements, Rush 
+- [Super Mario Run 2](../games/adventure/super-mario-run-2.md) — A new kind of Mario game that you can play with one hand, to rescue the princess and save the world. You have to time yo
+- [Super Mario Run World](../games/adventure/super-mario-run-world.md) — Super Mario Run World a new kind of Mario game that you can play with one hand. You control Mario by tapping as he const
+- [super mario santa claus game](../games/adventure/super-mario-santa-claus-game.md) — Santa Claus - Santa New Game 2021! Christmas is coming, help our Santa Claus and collect everything that was stolen from
+- [Super monkey](../games/adventure/super-monkey.md) — Supermonkey : This game's goal is to avoid fire obstacles by jumping If you want to avoid obstacles , you can do double 
+- [Super Onion Boy - Save The Princess](../games/adventure/super-onion-boy-save-the-princess.md) — Your lover, the princess has been caught by the bad guy. Let us step on an adventure to save her. It is a perilous journ
+- [Super Peaman Adventure](../games/adventure/super-peaman-adventure.md) — Bobby's life has been nothing but empties since the Princess got kidnapped into the castle. But then, the adventure begi
+- [Super Penguin](../games/adventure/super-penguin.md) — Help the Penguins rescue their friends and turn the tide against the evil octopus, jump over obstacles and eat delicious
+- [Super Pikachu](../games/adventure/super-pikachu.md) — Super Pika Bros-Flash Game
+- [Super Ski - Adventure Hill](../games/adventure/super-ski-adventure-hill.md) — This is a free game about skiing, specifically designed for alpine skiing fans. This game is optimized for ease of playi
+- [Super spongebob Adventure](../games/adventure/super-spongebob-adventure.md) — spongebob meme spongebob popsicle spongebob movie spongebob squarepants spongebob characters spongebob and patrick spong
+- [Super spongebob spiderman](../games/adventure/super-spongebob-spiderman.md) — Welcome to the best game Super spongebob spiderman
+- [super sprunki adventure game](../games/adventure/super-sprunki-adventure-game.md) — super sprunki adventure game - Jungle Adventure - Classic Run Game gives you the chance to step back in time to your chi
+- [Super Stickman Biker](../games/adventure/super-stickman-biker.md) — Avoid amazing obstacles while you master the tricky tracks perform insane stunts and wheelies or relax while riding the 
+- [Super Titans Go Teen](../games/adventure/super-titans-go-teen.md) — It's a new crazy game again from Teen Super Titans Go Adventure. Help your favorite character Titans Games to collect th
+- [Super Tom Adventure Game](../games/adventure/super-tom-adventure-game.md) — Super Bino Go, a totally new old school adventure game, will surprise you with the greatest adventure of Bino to the Won
+- [Super Tony - 3D Jump n Run Game](../games/adventure/super-tony-3d-jump-n-run-game.md) — Super Tony 3D - Adventure World gives you the chance to step back in time to your childhood. Tony's World has been nothi
+- [Super Wario Riders](../games/adventure/super-wario-riders.md) — Join in a race in the world of mushrooms and magic stars, select and play with any of Mario's friends, Luigi, Toadette o
+- [Super Willie World 2](../games/adventure/super-willie-world-2.md) — Join Willie and Minnie as they embark on a whimsical rescue mission across 18 exhilarating levels. Outsmart treacherous 
+- [Super World Adventure](../games/adventure/super-world-adventure.md) — Super World Adventure is a Platform &ndash; Adventure game where you will help the little hero rescue the princess in a 
+- [Super World Adventure Pro](../games/adventure/super-world-adventure-pro.md) — Guide a daring hero through vibrant worlds, leaping over obstacles, dodging foes, and collecting power-ups to save the d
+- [SuperCowboyRun](../games/adventure/supercowboyrun.md) — Super Cowboy Run, is a fascinating and beautiful game in which you must collect coins, lives, ammunition, and kill monst
+- [Superhero Adventure](../games/adventure/superhero-adventure-2.md) — Embark on an adrenaline-charged adventure in Superhero Adventure, where you can craft your own protagonist or antagonist
+- [Superhero Kid Escape](../games/adventure/superhero-kid-escape.md) — Superhero Boy Escape is a point and click escape game developed by 8BGames. Imagine that you are about to pick up a Boy 
+- [SuperHeroRope](../games/adventure/superherorope-2.md) — Swing through perilous terrains in SuperHeroRope, where being Spidey-savvy with a net is crucial. Dodge lethal spikes an
+- [Supermarket Grocery Shopping New](../games/adventure/supermarket-grocery-shopping-new.md) — Supermarket Games are a amusing manner to play, shop, and take a look at out like a actual consumer on the Grocery Store
+- [Superstore Escape](../games/adventure/superstore-escape.md) — 9minutegames - Superstore Escape is another point and click room escape game developed by 9minutesgames. Assume, unfortu
+- [Surfer Cat](../games/adventure/surfer-cat.md) — Surf the dynamic waves with a cat protagonist in Surfer Cat. Collect seashells, dodge vibrant marine obstacles, and mast
+- [Surfer House Escape](../games/adventure/surfer-house-escape.md) — Surfer House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Surprise Egg: Dino Party](../games/adventure/surprise-egg-dino-party.md) — A few years ago dinosaurs were living in our world. Unfortunately they are extinct. Many of us know them from photograph
+- [Surval Master 456 Challenge](../games/adventure/surval-master-456-challenge.md) — Join the thrilling second season of intense challenges where only the focused prevail. Navigate through daunting tests, 
+- [Survival Action](../games/adventure/survival-action-2.md) — Survival Action thrusts you into a relentless battle where clever strategies and quick reflexes are your only weapons. N
+- [Survival by Boat](../games/adventure/survival-by-boat.md) — Set sail on a captivating maritime adventure where every decision counts. Navigate vast oceans, discover mysterious isla
+- [Survival Commando](../games/adventure/survival-commando-2.md) — Survive relentless zombie hordes in Survival Commando, a top-down shooter brimming with action and puzzle-solving. Navig
+- [Survival Escape Quest](../games/adventure/survival-escape-quest.md) — Dive into the vibrant, perilous world of Survival Escape Quest. Dodge monstrous foes across vividly designed landscapes 
+- [Survival Fairy](../games/adventure/survival-fairy-2.md) — Guide a nimble fairy through perilous landscapes in Survival Fairy. Master resource collection and dodging tactics to ou
+- [Survival Island](../games/adventure/survival-island-2.md) — Stranded on a lush island, transform raw resources into essential tools and shelters in Survival Island. Navigate with i
+- [Survival Island EVO](../games/adventure/survival-island-evo.md) — Stranded on a mysterious island, gather resources and craft tools to survive. Build a shelter, fend off wild animals, an
+- [Survival Monk](../games/adventure/survival-monk-2.md) — Guide a nimble monkey through a perilous jungle, collecting bananas and dodging obstacles with intuitive controls. Each 
+- [Survival On Raft Multiplayer](../games/adventure/survival-on-raft-multiplayer-2.md) — Embark on a thrilling survival journey in Raft Multiplayer, where every scrap counts. Hunt for food, gather essential re
+- [Survival On Worm Planet](../games/adventure/survival-on-worm-planet.md) — Worms have invaded our planet. The planet needs you. Try to clean up the planet full of worms that surround your gun. Yo
+- [Survival Pumpkin](../games/adventure/survival-pumpkin.md) — Survival Pumpkin is a fun and addictive Halloween-themed endless survival game where you control a cheerful pumpkin as i
+- [Survival Pumpkin](../games/adventure/survival-pumpkin-2.md) — Leap into a whimsical Halloween world with Survival Pumpkin, where a cheeky pumpkin tackles spine-chilling foes. One-tap
+- [Survival RPG Island Escape](../games/adventure/survival-rpg-island-escape-2.md) — Set off on a thrilling adventure in Survival RPG Island Escape, where every step through dense forests and dark caves te
+- [Survival Sandbox for 99 Nights](../games/adventure/survival-sandbox-for-99-nights.md) — Four children have gone missing in the forest. You have 99 nights to find them before the woods claim them forever.
+- [Survival Snowman](../games/adventure/survival-snowman-2.md) — Survival Snowman challenges you to keep a snowman alive in a perilous winter landscape. Navigate hazards and evade preda
+- [Survival Starfish](../games/adventure/survival-starfish.md) — Survival Starfish is an online game that challenges players to survive underwater. By using strategy and quick thinking,
+- [Survival Starfish](../games/adventure/survival-starfish-2.md) — Guide your starfish through breathtaking underwater realms in Survival Starfish. Navigate perilous pathways using nimble
+- [Survival UFO](../games/adventure/survival-ufo-2.md) — Survive in a vast alien world, navigating treacherous terrains and battling diverse creatures. Gather resources to craft
+- [Survival War](../games/adventure/survival-war.md) — Survival War is an exciting survival adventure game where you explore a mysterious island, gather resources, and expand 
+- [Survival - Zombie Outbreak Multiplayer](../games/adventure/survival-zombie-outbreak-multiplayer.md) — Dive into a chaotic cartoon arena where waves of undead swarm relentlessly. Equip diverse weapons to match your combat v
+- [Survive Alone](../games/adventure/survive-alone.md) — Survive Alone on this lonely island craft items ,farm food, hunt animals, light a fire and eat fruits. Remember to keep 
+- [Survive Lava for Brainrots!](../games/adventure/survive-lava-for-brainrots.md) — Run faster and collect Brainrots! 🏃 Avoid the rising lava! 🌋 Upgrade your Brainrots! 💸 Upgrade your base to place mor
+- [Survive The Night](../games/adventure/survive-the-night.md) — Are you ready for the most terrifying night of your life? Survive The Night is an intense horror survival game where you
+- [Survive the Sharks](../games/adventure/survive-the-sharks.md) — You were out on a boat and accidentally fell overboard into the ocean. Unfortunately no one noticed and the boat left yo
+- [Surze](../games/adventure/surze.md) — Surge is a horror 3D game where the devil opened gates to hell on planet earth. A scary devil's monster has come from th
+- [Sushi MasterSushi Master](../games/adventure/sushi-mastersushi-master.md) — Get ready for an extremely new, simple, original, but at the same time challenging.
+- [Swamp Rat Escape](../games/adventure/swamp-rat-escape.md) — "Swamp Rat Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On
+- [Swan Land Escape](../games/adventure/swan-land-escape.md) — Swan Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Swan Land, O
+- [Sweet Bite Idle Game](../games/adventure/sweet-bite-idle-game.md) — Welcome to Sweet Bite Idle Game, a fun and relaxing tycoon adventure! Build your own confectionery empire and turn a sma
+- [Swimming Bee](../games/adventure/swimming-bee-2.md) — Embark on an aquatic adventure with Swimming Bee, where precision and strategy are your greatest allies. Navigate intric
+- [Swimming Club Escape](../games/adventure/swimming-club-escape.md) — Swimming Club Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Swimming Club
+- [Swimming Club Escape 2](../games/adventure/swimming-club-escape-2.md) — Swimming Club Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Swimming Cl
+- [Swing Hero](../games/adventure/swing-hero-2.md) — Swing Hero is an action-packed adventure game where a monkey swings down a cliff using a rope! As the monkey slides down
+- [Sword Master](../games/adventure/sword-master.md) — Sword Master is fun addictive hyper casual action game.Kill the opponent before he kills you.Aim the arrow to kill the o
+- [Swordmaiden](../games/adventure/swordmaiden.md) — Swordmaiden features sword bloody fighting with different mythical creatures across vast fantasy locations. The mission 
+- [Swordsman Adventure](../games/adventure/swordsman-adventure-2.md) — Embark on a thrilling journey in Swordsman Adventure, where strategic swordplay and quick reflexes are your greatest all
+- [Syntagma](../games/adventure/syntagma.md) — A puzzle adventure with platformer elements.
+- [Tadashi Baymax Suit Escape](../games/adventure/tadashi-baymax-suit-escape.md) — Tadashi Baymax Suit Escape is a point and click escape game developed by 8BGames. Imagine that you went to meet Tadashi 
+- [Taichi Martial Arts Woman Escape](../games/adventure/taichi-martial-arts-woman-escape.md) — Taichi Martial Arts Woman Escape is a point and click escape game developed by 8BGames. Imagine that you went to learn M
+- [Tails Dash](../games/adventure/tails-dash.md) — Tails Dash is a fun game app for FREE - tails friend Sonic alone face to jungle dangers. Tails Dash is a fun game app fo
+- [Takes Gifts](../games/adventure/takes-gifts.md) — Play with the boy and collect Christmas gifts, but be careful not to drop the gift and avoid the snowmen.
+- [Taleans](../games/adventure/taleans.md) — A Fairytale of Hansel and Gretel in Taleans. Trapped in the dark forest. Help them to find their way home. solve the puz
+- [Talk me down](../games/adventure/talk-me-down.md) — Brace yourself for high-stakes tension in Talk me down, where every decision counts. Navigate a failing aircraft by heed
+- [Talking Tom Gold Run Online](../games/adventure/talking-tom-gold-run-online.md) — Talking Tom Gold Run Online is the best cat running game. Enjoy hours of fun with your loved cat, run to collect gold co
+- [Talking Tom Hidden Bells](../games/adventure/talking-tom-hidden-bells.md) — Talking Tom Hidden Bells is a free online skill and hidden object game. Find out the hidden bells in the specified image
+- [Talking Tom Run Gold](../games/adventure/talking-tom-run-gold.md) — One of the most fun endless runner games! Players join Talking Tom and his heroic friends on a mission to run, get gold 
+- [Tangled Climber Escape](../games/adventure/tangled-climber-escape.md) — Tangled Climber Escape is a challenging puzzle game where stranded climbers have become tangled together on a mountainsi
+- [Tank Attack 2](../games/adventure/tank-attack-2-2.md) — Dive into chaos with Tank Attack 2! Command your tank through action-packed battles, strategically using terrain to evad
+- [Tank Bros Adventure](../games/adventure/tank-bros-adventure.md) — The fun tank game is out, this time the author carefully designed, the props are fun and fun. The tanks in the game need
+- [Tank Survival: Blitz War](../games/adventure/tank-survival-blitz-war.md) — Command your tank through relentless enemy hordes, strategize your survival, and rise as a legendary war hero in an imme
+- [Tank vs Tiles](../games/adventure/tank-vs-tiles.md) — Tank and Tiles is a game of shooting bullets of the same color with obstacles. There are 2 pink and blue. Players need t
+- [Tanks 1944](../games/adventure/tanks-1944.md) — Tanks 1944 is an exciting game about realistic tanks. battles. Choose a tank, learn how to fight, develop your own game 
+- [Tap switch](../games/adventure/tap-switch.md) — You have a falling down ball and you have to stop and control it by tapping on the screen. The gravity is forcing the ba
+- [TAP TAP Music](../games/adventure/tap-tap-music.md) — Tap Tap Music-Pop Songs A new music rhythm game. Continuously update various types of songs every week. Pop,Anime,Classi
+- [Tappy Dumont - Aeroplane](../games/adventure/tappy-dumont-aeroplane.md) — Help Santos Dumont stay as long as possible on the plane and cross Paris. With just a few simple touches on the screen, 
+- [Tappy Tower](../games/adventure/tappy-tower.md) — In this game, you have to build houses on top of houses, building floors on top of each other. If not even one floor is 
+- [Tatertot Towers](../games/adventure/tatertot-towers.md) — Help Tatertot defend the mouse town! Build towers and fight off hoards of enemies. Collect resources and upgrade your bu
+- [Tax Escape](../games/adventure/tax-escape.md) — Race through a city as you evade relentless tax collectors, dodging dynamic barrels that add a unique challenge at every
+- [Teach Me Love](../games/adventure/teach-me-love.md) — Step into the shoes of a schoolgirl navigating love for the first time. Make choices, win hearts, and explore friendship
+- [Tebo](../games/adventure/tebo-2.md) — Guide the charming alien Tebo through a vibrant universe with strategic leaps and physics puzzles. With simple controls,
+- [Ted House Escape](../games/adventure/ted-house-escape.md) — Ted House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Ted House .T
+- [Teddy Escape](../games/adventure/teddy-escape.md) — You are a poor teddy bear (with a jetpack!) who is being chased by a jet fighter! You can only orbit in a circle and the
+- [Teddy House Escape](../games/adventure/teddy-house-escape.md) — Teddy House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Teen Titans Go Adventures](../games/adventure/teen-titans-go-adventures.md) — Team Titans Go Adventures - Super Teen Run Jungle 3D is a thrilling, exciting and FREE 3D running game. Carefully design
+- [Teko vs Doov 2](../games/adventure/teko-vs-doov-2-2.md) — In Teko vs Doov 2, navigate a sci-fi world as robot Teko. Overcome enemy bots, spikes, and saws across eight thrilling l
+- [Teko vs Doov](../games/adventure/teko-vs-doov-3.md) — Teko vs Doov propels you through a thrilling 2D Sci-Fi landscape. Dodge menacing robots and treacherous obstacles as you
+- [Temple Quest](../games/adventure/temple-quest-2.md) — Embark on a perilous journey through intricate temple ruins in Temple Quest. Skillfully navigate your way by timing jump
+- [Tenno 2](../games/adventure/tenno-2-2.md) — Dive into the exciting world of Tenno 2, where an office worker's stealth is tested against cunning rivals. Navigate com
+- [Tenno](../games/adventure/tenno-3.md) — Tenno plunges you into the high-stakes world of corporate espionage. Navigate through eight escalating, danger-filled le
+- [Terminal Nine](../games/adventure/terminal-nine.md) — Explore three industrial districts in a third-person stealth game. Avoid patrols, complete objectives and reach extracti
+- [Terra Craft World](../games/adventure/terra-craft-world.md) — Terra Craft World invites you to explore an open world where every decision shapes your journey. Begin an unforgettable 
+- [Terraria Playground](../games/adventure/terraria-playground-2.md) — Dive into Terraria Playground's whimsical world, where imagination thrives. Experiment with quirky items, discover uniqu
+- [Testimony](../games/adventure/testimony.md) — In Testimony, navigate a menacing labyrinth filled with mind-bending puzzles and shadowy threats. Outsmart your doppelga
+- [Thank you flash](../games/adventure/thank-you-flash.md) — 8B Thank you flash is a point and click mini escape game developed by 8B Games/Games2Mad. Imagine that you are a flash e
+- [Thanksgiving Caterpillar Escape](../games/adventure/thanksgiving-caterpillar-escape.md) — Thanksgiving Caterpillar Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had be
+- [Thanksgiving Episode1](../games/adventure/thanksgiving-episode1.md) — Thanksgiving Episode1 is another point and click escape game developed by 8BGames/Games 2Mad. In this escape game, you n
+- [Thanksgiving Episode2](../games/adventure/thanksgiving-episode2.md) — Thanksgiving Episode2 is another point and click escape game developed by 8BGames/Games 2Mad. In this escape game, you n
+- [Thanksgiving Episode3](../games/adventure/thanksgiving-episode3.md) — Thanksgiving Episode3 is another point and click escape game developed by 8BGames/Games 2Mad. In this escape game, you n
+- [Thanksgiving Episode4](../games/adventure/thanksgiving-episode4.md) — Thanksgiving Episode4 is another point and click escape game developed by 8BGames/Games 2Mad. In this escape game, you n
+- [Thanksgiving Escape Series Episode 1](../games/adventure/thanksgiving-escape-series-episode-1.md) — Thanksgiving Escape Series Episode1 is another point and click escape game developed by 8BGames/Games 2Mad. In this esca
+- [Thanksgiving Escape Series Episode 2](../games/adventure/thanksgiving-escape-series-episode-2.md) — Thanksgiving Escape Series Episode 2 is another point and click escape game developed by 8BGames/Games 2Mad. In this esc
+- [Thanksgiving Escape Series Final Episode](../games/adventure/thanksgiving-escape-series-final-episode.md) — Thanksgiving Escape Series Final Episode is another point and click escape game developed by 8BGames/Games 2Mad. In this
+- [Thanksgiving Final Episode](../games/adventure/thanksgiving-final-episode.md) — Thanksgiving Final Episode is another point and click escape game developed by 8BGames/Games 2Mad. In this escape game, 
+- [Thats Not My Neighbor 2](../games/adventure/thats-not-my-neighbor-2.md) — Thats Not My Neighbor is a detective puzzle game. You are going to be the new janitor in this building when you are watc
+- [Thats not my Neighbor Spot the Difference](../games/adventure/thats-not-my-neighbor-spot-the-difference.md) — &ldquo;Thats not my Neighbor: Spot the Difference &rdquo; is a classic puzzle game where you evaluate two pictures side 
+- [The Adventure](../games/adventure/the-adventure.md) — Embark on a nostalgic pixelated quest in The Adventure, where quick reflexes and strategy are key. Tackle increasingly c
+- [The Adventure 2](../games/adventure/the-adventure-2.md) — Embark on an adrenaline-fueled journey in The Adventure 2, where each of the four intense levels demands strategic prowe
+- [The Adventure Hail](../games/adventure/the-adventure-hail.md) — Plunge into the exhilarating world of The Adventure Hail, where you guide tumbling hailstones. Dodge obstacles and gathe
+- [The Adventures of Big Joe](../games/adventure/the-adventures-of-big-joe.md) — Join the pirate Big Joe on an adventure!
+- [The Adventures of Merlock and Doteson - Part 1](../games/adventure/the-adventures-of-merlock-and-doteson-part-1.md) — Dive into a world of mystery with Merlock and Doteson, where intuitive exploration meets a suspenseful narrative. Unrave
+- [The Beginning](../games/adventure/the-beginning.md) — Venture into a spine-tingling horror where reality blurs with nightmares. Trapped in a living, breathing mansion haunted
+- [The Block Escape](../games/adventure/the-block-escape.md) — Block Escape is a relaxing yet challenging 3D puzzle game where your goal is to clear all the colorful blocks from the s
+- [The Boy Escape](../games/adventure/the-boy-escape.md) — Navigate thrilling mazes and outsmart traps in The Boy Escape. This dynamic arcade game challenges your reasoning and qu
+- [The Bulb Girlfriend 2](../games/adventure/the-bulb-girlfriend-2-2.md) — Embark on a thrilling 2D platformer adventure in The Bulb Girlfriend 2. Traverse hazardous landscapes and conquer red bu
+- [The Cave   Escape](../games/adventure/the-cave-escape.md) — The rules are simple: Explore a dark and complex cave from a third-person perspective. Navigate obstacles and traps, usi
+- [The Doggy II - Forgotten Lands](../games/adventure/the-doggy-ii-forgotten-lands.md) — Embark on a thrilling platform adventure in The Doggy II - Forgotten Lands. Traverse enchanting islands filled with secr
+- [The Escape Series](../games/adventure/the-escape-series.md) — The Escape Series is an intriguing game that tests your intellect and analytical abilities. Explore detailed environment
+- [The Floor is Lava Run](../games/adventure/the-floor-is-lava-run.md) — In "The Floor is Lava Run," race against time and gravity over volatile platforms. Each precise jump decides your fate a
+- [The Forest Friends](../games/adventure/the-forest-friends.md) — Step into a magical woodland adventure in The Forest Friends! Match colorful forest items like berries, leaves, mushroom
+- [The Fungies Spelungies](../games/adventure/the-fungies-spelungies.md) — As Seth, dig a tunnel downward to reach the cavern below. Collect as many fossils and gems as you can. A star rating met
+- [The Ghost Game](../games/adventure/the-ghost-game.md) — This game is in early access.
+- [The Halloween](../games/adventure/the-halloween.md) — Dive into relentless terror with The Halloween, where every shadow hides a terrifying secret. Unravel sinister mysteries
+- [the home of pleia](../games/adventure/the-home-of-pleia.md) — Forced to a new world, Pleia must cultivate the landscape and gather magic to restore her companion, Briony who's spirit
+- [The House 2](../games/adventure/the-house-2.md) — Step into a chilling mystery as you explore a haunted house shrouded in tragedy. Uncover secrets by interacting with eer
+- [The Impossible Dash](../games/adventure/the-impossible-dash.md) — The Impossible Dash is a click-moving game, the game has 7 levels with different obstacles, you need to click to move so
+- [The Killer Imposter Among Us](../games/adventure/the-killer-imposter-among-us.md) — The Impostor Killer Among us _ is a fun and engaging puzzle game. Your mission is to Execute all living crewmates in the
+- [The Last 15 Minutes](../games/adventure/the-last-15-minutes.md) — The Last 15 Minutes &ndash; Horror Puzzle Game Trapped in a dark basement with flickering lights, you have only 15 minut
+- [The Last Hunter](../games/adventure/the-last-hunter.md) — Step into "The Last Hunter" as a daring knight navigating tumultuous dimensions. Engage in epic battles, gather precious
+- [The Last Ritual](../games/adventure/the-last-ritual.md) — Step into the shoes of Daniel, a determined paranormal investigator, trapped in a treacherous mansion. Unravel the myste
+- [The Last ruin](../games/adventure/the-last-ruin.md) — The Last Ruin est un jeu de plate-forme et d'aventure en pixel art qui raconte l'histoire d'un chevalier courageux qui v
+- [the last spartan](../games/adventure/the-last-spartan.md) — You are the last Spartan, defend your city
+- [The long way home](../games/adventure/the-long-way-home.md) — Your ship is gone. You are a very long way from Earth, with a suit, a tank of fuel, and the air in your lungs.
+- [The Lost Labyrinth](../games/adventure/the-lost-labyrinth.md) — Enter the castle of traps to obtain the treasure, but avoid the traps and obstacles Explore an ancient temple. Avoid tra
+- [The malevolent mansion of evil](../games/adventure/the-malevolent-mansion-of-evil.md) — Unveil the chilling secrets of a gothic manor in this first-person action horror adventure. Immerse yourself in intense,
+- [The Man Escape](../games/adventure/the-man-escape.md) — The Man Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On th
+- [The Man from the Window](../games/adventure/the-man-from-the-window.md) — Assume the role of Mama Rabbit in a suspenseful mystery. Protect your family from lurking danger by unraveling a dark na
+- [The Metro Anomaly](../games/adventure/the-metro-anomaly.md) — Navigate a haunting labyrinth in an abandoned subway where reality twists at every turn. Embrace the silence and eerie p
+- [The Office Guy](../games/adventure/the-office-guy.md) — Office Guy is an epic fighting game about an office guy who wants to overthrow his corrupt boss. The boss has hired thug
+- [The Patagonians: Part 1](../games/adventure/the-patagonians-part-1.md) — The daughter of the protagonist of the game disappears on her tenth birthday. He rushes in search and accidentally learn
+- [The Pig Escape](../games/adventure/the-pig-escape.md) — Embark on a puzzling adventure in The Pig Escape, where strategic block manipulation frees trapped pigs. Navigate engagi
+- [The Pirate Sea. The Smuggler's Way](../games/adventure/the-pirate-sea-the-smuggler-s-way.md) — In the game you have to take on the role of a smuggler.
+- [The Plumber Game - Mobile-friendly Fullscreen](../games/adventure/the-plumber-game-mobile-friendly-fullscreen.md) — Mobile-friendly, fullscreen gameplay. The plumber is out to take up challenges. Multiple complex arrangements of pipes a
+- [The Pond Adventure](../games/adventure/the-pond-adventure-2.md) — Guide your pelican through vibrant ponds, collecting fish while cleverly evading a mischievous monkey and racing against
+- [The Puppet](../games/adventure/the-puppet.md) — One fine day you and your brother went to watch puppet show in your town…. End of puppet show we went to meet puppet art
+- [The Rabbit Adventure](../games/adventure/the-rabbit-adventure.md) — Join the delightful and brave rabbit on an epic adventure through lush forests, towering mountains, and mysterious castl
+- [The Rescue Rocket](../games/adventure/the-rescue-rocket.md) — People in the world are in danger! Save people with your rescue rocket. Every person you save will earn you points. Peop
+- [The Road Home: Granny Escape](../games/adventure/the-road-home-granny-escape.md) — The Road Home: Granny Escape is a terrifying 3D horror survival game where your only goal is to escape a haunted house f
+- [THE ROBOT](../games/adventure/the-robot.md) — Now we are in some unknown house and it was locked and there was a small robot who wanted very badly to grow tall. But t
+- [The Room that Look Familiar](../games/adventure/the-room-that-look-familiar.md) — Unveil hidden mysteries as Wilhelm in a chilling atmospheric adventure through your uncle's haunting mansion. Navigate u
+- [The Rooms-Escape Challenge](../games/adventure/the-rooms-escape-challenge.md) — Navigate interconnected rooms, using keen observation and puzzle-solving skills to uncover hidden keys and mechanisms. E
+- [THE RUNAWAY](../games/adventure/the-runaway.md) — Kala Brown, a south Carolina woman was found Chained in a house after she had been missing for nearly 3 days. She had be
+- [The Secret of the Toy Factory](../games/adventure/the-secret-of-the-toy-factory.md) — An atmospheric first-person horror game where you must explore an abandoned factory and uncover its dark secrets. Solve 
+- [The Superhero League](../games/adventure/the-superhero-league-2.md) — Unleash your inner hero in The Superhero League, a vibrant puzzle adventure where strategic thinking reigns supreme. Mas
+- [The Tall Man](../games/adventure/the-tall-man.md) — The Tall Man is a horror game where you explore darkness, searching for clues with only a weak light to guide you. But s
+- [The Untitled Happiness Project](../games/adventure/the-untitled-happiness-project.md) — As a worker for the Happiness corporation you are sent to the Phaseolus town to make two of its inhabitants - Jonathan P
+- [The Upside Down](../games/adventure/the-upside-down.md) — A tactical RPG where strategy meets the 80s: Outsmart the Gloom-Walkers and bring your dog home.
+- [The Wall Breaker](../games/adventure/the-wall-breaker.md) — Just play it to relax your brain. Be focus on breaking wall breaker and you will find it more funny and exciting! Smash 
+- [The Warlock's Prisoner](../games/adventure/the-warlock-s-prisoner.md) — The Warlock's Prisoner is a dark adventure with elements of horror, survival, and puzzles. You wake up imprisoned, deep 
+- [The Witcher](../games/adventure/the-witcher.md) — The Witcher follows the story of Geralt of Rivia, a solitary monster hunter, who struggles to find his place in a world 
+- [The Wizard Adventure](../games/adventure/the-wizard-adventure.md) — Embark on an enchanting journey in The Wizard Adventure. Strategically conquer 10 dynamic levels, using bow and arrow pr
+- [The wizard Elion](../games/adventure/the-wizard-elion.md) — When the old wizard Elion tried to conjure a sphere of light, a mistake transported him to a modern shopping mall full o
+- [The Wizard Elion : Halloween Edition](../games/adventure/the-wizard-elion-halloween-edition.md) — Although you may have lived this little adventure, you will live it again but in a different climate! Take the wizard El
+- [The Wizard Green Skibidis Fury](../games/adventure/the-wizard-green-skibidis-fury.md) — The green wizard in a parallel universe now escapes from the Skibidi toilet! Quickly! Find the exit! Le sorcier vert dun
+- [The Wizard in Green](../games/adventure/the-wizard-in-green.md) — Guide a mischievous green wizard through a maze-like mall filled with foes. Dash to discover hidden zones, evade relentl
+- [The Wizard in Green - Skibidi's Fury](../games/adventure/the-wizard-in-green-skibidi-s-fury.md) — Embark on a mystical journey as a stranded wizard in a mall teeming with eerie creatures and enigmatic Skibidi. Strategi
+- [The Wyoming Incident 3D](../games/adventure/the-wyoming-incident-3d.md) — Get lost in a TV's eerie world where ghostly heads lurk. Navigate a maze as you fend off specters with your arsenal. Sur
+- [Theatre Escape](../games/adventure/theatre-escape.md) — Theatre Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Theatre, there 
+- [Theme Park Escape](../games/adventure/theme-park-escape.md) — Theme Park Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a Theme Park. You 
+- [Thief Escapes](../games/adventure/thief-escapes.md) — Are you a devoted member of the Mafia, tasked with undertaking audacious heists, seizing invaluable treasures, all while
+- [Thief Puzzle Long Hand Game](../games/adventure/thief-puzzle-long-hand-game.md) — Thief Puzzle Long Hand Game is a fun and challenging puzzle game where you control a thief with an incredibly long and f
+- [Thief Stick Puzzle: Man Escape](../games/adventure/thief-stick-puzzle-man-escape.md) — Enjoy a hilarious and brain-twisting adventure in Thief Stick Puzzle: Man Escape. It&rsquo;s a mix of stickman comedy, c
+- [Thief Stick Puzzle Man Escape](../games/adventure/thief-stick-puzzle-man-escape-2.md) — Embark on a comedic journey as a sly stickman thief navigating through laugh-out-loud and tricky escape puzzles. Outsmar
+- [Thor Boss Battles](../games/adventure/thor-boss-battles.md) — The Grandmaster has stolen relics from Odin’s vault and only Thor can retrieve them. Play as Thor and venture into cosmi
+- [Thor Treasury Viking Key Conquest](../games/adventure/thor-treasury-viking-key-conquest.md) — Embark on an epic journey as a fearless Viking in Thor Treasury Viking Key Conquest. Navigate detailed mazes, battle myt
+- [Thriller House Escape](../games/adventure/thriller-house-escape.md) — Thriller House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a house. Y
+- [Thriving Boy Escape](../games/adventure/thriving-boy-escape.md) — Thriving Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Thriving Boy house
+- [Through the Cloudss](../games/adventure/through-the-cloudss.md) — The pillar is full of glass tiles . Tap the player to ascend and break the glass tiles.Use the thrust to move up. Very e
+- [Throw Best](../games/adventure/throw-best.md) — Challenge your accuracy and timing in Best Throw Game, a fun and addictive skill-based throwing adventure! Control the b
+- [Thung Thung Sahur Burning Desire](../games/adventure/thung-thung-sahur-burning-desire.md) — In the chilling silence of a snowy island, a new terror rises &mdash; Tung Tung Sahur, a cursed wooden figure, now posse
+- [Thung Thung Sahur Night Escape](../games/adventure/thung-thung-sahur-night-escape.md) — Thung Thung Sahur Night Escape is an immersive first-person horrorstealth game set in a spooky, abandoned village where 
+- [Thung Thung Sahur Night Escape](../games/adventure/thung-thung-sahur-night-escape-2.md) — Unleash your stealth skills in the haunting world of Thung Thung Sahur Night Escape. Navigate a chilling, deserted villa
+- [Thung Thung Sahur Playgrounds Escape](../games/adventure/thung-thung-sahur-playgrounds-escape.md) — Thung Thung Sahur Playgrounds Escape is a survival horror. You must find a way to complete the quest with certain time b
+- [Thung Thung Sahur Playgrounds Escape](../games/adventure/thung-thung-sahur-playgrounds-escape-2.md) — Survive the eerie Thung Thung playgrounds as you complete perilous quests before time runs out. Evade the relentless Thu
+- [Tic Tac Toe Pro](../games/adventure/tic-tac-toe-pro.md) — Tic Tac Toe Pro is an enhanced version of the classic game, featuring a sleek design, various difficulty levels, and mul
+- [tic tac toe tic tac toe](../games/adventure/tic-tac-toe-tic-tac-toe.md) — play Tic Tac Toe No need waste paper to play puzzle games! Now you can play Tic Tac Toe on your Phone. Tic Tac Toe Glow 
+- [Tied Man Escape](../games/adventure/tied-man-escape.md) — Tied Man Escape is a point and click game developed by 8B Games/Games2mad. Imagine that an old man is kidnapped and lock
+- [Tiki Cave Escape](../games/adventure/tiki-cave-escape.md) — Tiki Cave Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village; ther
+- [Tile Farm Story](../games/adventure/tile-farm-story.md) — The game "Tile Farm Story" is an exciting and challenging adventure that you won't be able to put down! This chip collec
+- [Tile Hill Descent](../games/adventure/tile-hill-descent.md) — Tile Hill Descent is a fast-paced arcade game where you guide a bouncing emoji down a never-ending path of tiles. Move d
+- [Tim Adventures 2](../games/adventure/tim-adventures-2-2.md) — Embark on a thrilling journey in Tim Adventures 2's mesmerizing 2D world. Dodge enemies and traps with skillful double j
+- [Tim Adventures](../games/adventure/tim-adventures-3.md) — Embark on a thrilling, treat-laden journey as you navigate perilous 2D landscapes in Tim Adventures. Master the art of d
+- [Timber House Escape](../games/adventure/timber-house-escape.md) — Timber House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Timberman](../games/adventure/timberman.md) — Timberman game has a lot of success review and player this MONTH that significantly improves overall game performance, e
+- [Time Master](../games/adventure/time-master.md) — Take control of time itself in a thrilling world where every move counts. Navigate through a landscape full of dormant d
+- [Tiny Bird Rescue](../games/adventure/tiny-bird-rescue.md) — Tiny Bird Rescue is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, there 
+- [Tiny Blue Bird Escape](../games/adventure/tiny-blue-bird-escape.md) — Tiny Blue Bird Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village
+- [Tiny Fighters Crash](../games/adventure/tiny-fighters-crash.md) — Tiny Crash Fighters is a fast-paced action game where you build your ultimate machine to fight against the CPU or challe
+- [Tiny Red Owl Escape](../games/adventure/tiny-red-owl-escape.md) — Tiny Red Owl Escape is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, 
+- [Titan&rsquo;s Journey](../games/adventure/titan-rsquo-s-journey.md) — Titan&rsquo;s Journey is an epic adventure where you step into the colossal footsteps of a mighty titan on a quest acros
+- [Titans Go Island Adventure](../games/adventure/titans-go-island-adventure.md) — You will love this super hero teen titans adventure and running game! It is the ultimate run adventure with a lot of obs
+- [Toby's Adventures](../games/adventure/toby-s-adventures.md) — Toby's Adventures is a puzzle-platformer. Collect all food and reach the door to finish the level. Break bricks, avoid o
+- [Toco Escape](../games/adventure/toco-escape.md) — "Toco Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, On ther
+- [Toco Toucan Escape](../games/adventure/toco-toucan-escape.md) — Toco Toucan Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, O
+- [Toilet Rush Race Game](../games/adventure/toilet-rush-race-game.md) — Toilet Rush Race Game is a fun and fast-paced racing game where you must help your character reach the toilet as quickly
+- [Tokyo Treats](../games/adventure/tokyo-treats.md) — In this engaging puzzle game, youre tasked with matching a variety of colorful fruit hues to clear the board and earn sw
+- [Toll Gate Escape](../games/adventure/toll-gate-escape.md) — Toll Gate Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you are on the way to school; t
+- [tom and jerry among us](../games/adventure/tom-and-jerry-among-us.md) — Tom an jerry Among Us is offline multiplayer game in which you are imposter and have to kill all of your crewmates witho
+- [Tom And Jerry In Cooperation](../games/adventure/tom-and-jerry-in-cooperation.md) — After a long time of opposition. Tom and Jerry realize that only cooperation can win. So, they work together to find the
+- [TOM AND JERRY - PUZZLE ESCAPE](../games/adventure/tom-and-jerry-puzzle-escape.md) — Tom and Jerry Puzzle Escape is an entertaining point-and-click puzzle game based on the popular Tom and Jerry cartoon se
+- [Tomb Escape](../games/adventure/tomb-escape.md) — Tomb Escape is a point and click game developed by Games2Live. Imagine that you had been to a Tomb; there you got trappe
+- [Tomb Escaper](../games/adventure/tomb-escaper.md) — Tomb Escaper is a thrilling puzzle-adventure game where you must escape from a mysterious ancient tomb filled with deadl
+- [Tomb of the Mask Color Maze](../games/adventure/tomb-of-the-mask-color-maze.md) — Test your skills and see how many levels you can conquer in this thrilling 25 maze challenge! Your task is to paint the 
+- [Tommy and the Fire](../games/adventure/tommy-and-the-fire.md) — Race against time in "Tommy and the Fire" where speed meets danger. Navigate intricate courses using deft agility to out
+- [Tommy the Monkey Pilot](../games/adventure/tommy-the-monkey-pilot.md) — Guide Tommy the Monkey through stormy skies in his triplane, collecting lost balloons and shimmering stars while dodging
+- [Toms Adventure](../games/adventure/toms-adventure.md) — Join Tom in a heart-racing rescue mission as you navigate through 21 exhilarating levels to save his sister from alien k
+- [Tony House Escape](../games/adventure/tony-house-escape.md) — Tony House Escape is another point and click escape game developed by 8B Games/Games2Mad. Imagine that you have been loc
+- [Toons Dino Escape](../games/adventure/toons-dino-escape.md) — Toons Dino Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Village, On
+- [Topple Adventure](../games/adventure/topple-adventure.md) — Topple Adventure is a very fun and exciting game. Is your goal not to topple over, difficult? Explore the 30 levels of t
+- [Topple Adventure](../games/adventure/topple-adventure-2.md) — Embark on a thrilling quest in Topple Adventure, where you're a daring rectangle racing to capture the flag. Balance is 
+- [Tora Boy Adventure](../games/adventure/tora-boy-adventure-2.md) — Join Tora Boy on an exciting platforming quest through ten wild levels. Gather cakes, outsmart enemies, and collect hidd
+- [Toto Adventure](../games/adventure/toto-adventure.md) — Play great adventure game Toto Adventure. You have 24 levels. Avoid obstacles, collect 3 keys to get to finish of level.
+- [Toto Double Trouble](../games/adventure/toto-double-trouble.md) — Play great 2 players game Toto Double Trouble. Lead two players to help each other thru 20 levels. Enjoy!
+- [Toto World](../games/adventure/toto-world.md) — Play great adventure game Toto World. Choose between 3 characters and avoid obstacles thru 20 levels to complete this ga
+- [Touba 2](../games/adventure/touba-2-2.md) — Touba 2 invites you into a captivating 2D platformer realm, challenging you to gather grains while navigating perilous l
+- [Touba](../games/adventure/touba-3.md) — Soar through vibrant skies as a daring yellow bird in Touba! Navigate treacherous terrains, evading enemy birds and dead
+- [Toucan Escape](../games/adventure/toucan-escape.md) — Toucan Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a fantasy forest
+- [Toucan Rescue](../games/adventure/toucan-rescue.md) — Toucan Rescue is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On ther
+- [Touch the Alphabet in the Order](../games/adventure/touch-the-alphabet-in-the-order.md) — Touch the Alphabet in the Order - in this educational game on gamemonitize you need to touch the letters in the order of
+- [Tourist Guide Escape](../games/adventure/tourist-guide-escape.md) — Tourist Guide Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Tourist Guide hou
+- [Tower Builder Challenge](../games/adventure/tower-builder-challenge.md) — Tower Builder Challenge is a hyper casual game that you should build a tower like Lego. How high can you raise the tower
+- [Tower Climb](../games/adventure/tower-climb.md) — "Climb the Tower" is an exciting mini-game for speed and reaction, where you have to play the role of a real ninja who n
+- [Tower Land Escape](../games/adventure/tower-land-escape.md) — Tower Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On 
+- [Town Home Escape](../games/adventure/town-home-escape.md) — Town Home Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a town home. Yo
+- [Township Escape](../games/adventure/township-escape.md) — Township Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village for re
+- [Toxic Arena: Biological Threat](../games/adventure/toxic-arena-biological-threat.md) — Toxic Arena: Biological Threat is a thrilling action-roguelike "survivors" game where your only goal is to survive in th
+- [Toxic Drip](../games/adventure/toxic-drip.md) — Toxic Drip is an eerie and thrilling match-3 puzzle game set in a dark and spooky world. Players must match toxic-themed
+- [Toy House Escape](../games/adventure/toy-house-escape.md) — Toy House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; there 
+- [Toy Rumble 3D](../games/adventure/toy-rumble-3d-2.md) — Join the wild excitement of Toy Rumble 3D, where every second counts! Navigate chaotic courses, dodge crafty traps, and 
+- [Tractor Escape](../games/adventure/tractor-escape.md) — Tractor Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a farm; there los
+- [Tractor Escape 2](../games/adventure/tractor-escape-2.md) — Tractor Escape 2 is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a farm; there y
+- [Tractor Express Agricultural](../games/adventure/tractor-express-agricultural.md) — Agriculture is the main source of economy in most countries of the world. People like to cultivate and build farms for t
+- [Traditional Villa Escape](../games/adventure/traditional-villa-escape.md) — Traditional Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villa
+- [Traffic Escape Puzzle](../games/adventure/traffic-escape-puzzle.md) — Come to enter a complex maze in the Traffic Escape Puzzle! In this exciting puzzle game, get your car out safely. Find t
+- [Traffic Escape Puzzle](../games/adventure/traffic-escape-puzzle-2.md) — Navigate intricate mazes in Traffic Escape Puzzle, where precision and strategy rule. Slide vehicles skillfully to clear
+- [Traffic Game](../games/adventure/traffic-game.md) — Navigate through intricate traffic puzzles in Traffic Game, where each swipe challenges your planning skills. Strategica
+- [Traffic Inspector House Escape](../games/adventure/traffic-inspector-house-escape.md) — Traffic Inspector House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a
+- [Train Bandit](../games/adventure/train-bandit.md) — Become a daring outlaw in Train Bandit, an exhilarating Wild West adventure. Leap between trains, dodge bullets, and out
+- [Train Travels](../games/adventure/train-travels.md) — You are a train driver and i tell you that it’s really hard to keep a train on the railway, so first you have to take th
+- [Tralalero Tralala Creepy Brainrot](../games/adventure/tralalero-tralala-creepy-brainrot.md) — Dive into a surreal nightmare where survival demands cunning and courage. Navigate a decaying, haunted house filled with
+- [Tralalero Tralala escape Tung Tung Sahur](../games/adventure/tralalero-tralala-escape-tung-tung-sahur.md) — Dive into chaos with Tralalero Tralala, the sneaker-loving shark! Dash through a vibrant cityscape, outmaneuvering the r
+- [Tralalero Tralala Last Fight](../games/adventure/tralalero-tralala-last-fight.md) — Awaken trapped in a decaying hospital, armed only with a burning torch against a monstrous, shark-headed foe. Navigate c
+- [Tranquil House Escape](../games/adventure/tranquil-house-escape.md) — Tranquil House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a House; t
+- [Tranquil Village Escape](../games/adventure/tranquil-village-escape.md) — Tranquil Village Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villag
+- [Trap Craft](../games/adventure/trap-craft.md) — The Hacker is ready to fulfill any desire of a Princess, Noob, Pro, Herobrine and the rest. He offers them to play a gam
+- [Trap Craft](../games/adventure/trap-craft-2.md) — Hacker once again staged a zombie apocalypse in a monster school. And offers you to play a game with him. The game has a
+- [Trap Path - Survival Rush](../games/adventure/trap-path-survival-rush.md) — Race through perilous paths in Trap Path: Survival Rush, where lightning-fast reflexes and strategic precision are your 
+- [Trap The Enemy 3D](../games/adventure/trap-the-enemy-3d.md) — Welcome to Trap The Enemy 3D, where strategic thinking is your greatest asset! Navigate through intricate traps and obst
+- [Treasure Hunt Adventure](../games/adventure/treasure-hunt-adventure.md) — Build your own tropical island in this beautiful world. Now you will have to find a way to live in this free game!
+- [Treasure Hunt Escape](../games/adventure/treasure-hunt-escape.md) — Treasure Hunt Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a place hav
+- [Treasure Hunter Jack](../games/adventure/treasure-hunter-jack.md) — Have you met Jack before? Jack loves collecting treasures! Gold and diamonds are very valuable to him. Jack's on a treas
+- [Treasure Hunting Robot](../games/adventure/treasure-hunting-robot-2.md) — Embark on an adventurous quest with your trusty robot companion in Treasure Hunting Robot. Navigate captivating landscap
+- [Treasure Robbery](../games/adventure/treasure-robbery.md) — Treasure Robbery is a point and click game developed by 8B Games/Games2live. Imagine that you are going to do Robbery, H
+- [Tree House Forest Escape](../games/adventure/tree-house-forest-escape.md) — Tree House Forest Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a fores
+- [Tricky Land Escape](../games/adventure/tricky-land-escape.md) — Tricky Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Tricky Lan
+- [Tricky Village Escape](../games/adventure/tricky-village-escape.md) — Tricky Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village 
+- [Trippi Troppi Brainrot Escape](../games/adventure/trippi-troppi-brainrot-escape.md) — Dive into a whirlwind of surreal madness with Trippi Troppi. Navigate mind-bending landscapes, dodge bizarre foes, and o
+- [Trivia Adventure](../games/adventure/trivia-adventure.md) — Dive into Trivia Adventure, a thrilling quiz journey where your knowledge unlocks treasure. Choose your character, tackl
+- [Troll Stick Face Escape](../games/adventure/troll-stick-face-escape-2.md) — Guide two mischievous brothers through a thrilling adventure in Troll Stick Face Escape. Master precision controls and s
+- [Trophy Escape](../games/adventure/trophy-escape.md) — Trophy Escape is another point & click escape game developed by 8bGames. Imagine that you have a got Trophy as a gift. B
+- [Truefalse](../games/adventure/truefalse.md) — Truefalse players are presented with a series of statements or scenarios, and their task is to discern whether each one 
+- [Trump Flying Adventure](../games/adventure/trump-flying-adventure.md) — Play Trump Flying Adventure direct in your browser or mobile device! The all time classic game has a Trump version now. 
+- [Tsunami Escape](../games/adventure/tsunami-escape-2.md) — Tsunami Escape plunges you into a heart-racing quest to outrun nature's fury. Master high-speed navigation through evolv
+- [Tuk Tuk Auto Rikshaw](../games/adventure/tuk-tuk-auto-rikshaw.md) — Tuk Tuk Auto Rikshaw is a fun and realistic driving simulator where you become a professional tuk tuk driver. Pick up pa
+- [Tumult Villa Escape](../games/adventure/tumult-villa-escape.md) — Tumult Villa Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a villa, the
+- [Tung Sahur And   R E P O](../games/adventure/tung-sahur-and-r-e-p-o.md) — Tung Sahur And R.E.P.O is a modern take on the classic jigsaw puzzle, featuring stunning and realistic 3D graphics that 
+- [Tung Sahur Bots Chase Room](../games/adventure/tung-sahur-bots-chase-room.md) — Horror brainrot bots are on the hunt! Watch out, stay alive! Welcome to Tung Sahur Bots Chase Room &ndash; the ultimate 
+- [Tung Sahur Horror Escape](../games/adventure/tung-sahur-horror-escape.md) — Dive into a nightmarish labyrinth in Tung Sahur Horror Escape. Outsmart the eerie Tung Sahur as you navigate sinister co
+- [Tung Tung Sahur at Backrooms](../games/adventure/tung-tung-sahur-at-backrooms.md) — Navigate the unnerving Backrooms as Ballerina Cappucina, pirouetting through a nightmare in search of magical noodles. D
+- [Tung Tung Sahur Big Stick](../games/adventure/tung-tung-sahur-big-stick-2.md) — Join Tung Tung Sahur on his thrilling quest through the city, dodging traps and leaping over obstacles to reclaim his mi
+- [Tung Tung Sahur Chase R.E.P.O](../games/adventure/tung-tung-sahur-chase-r-e-p-o.md) — Guide the agile robot R.E.P.O through a maze of endless corridors, collecting stolen TVs while evading the relentless Tu
+- [Tung Tung Sahur GTA Miami](../games/adventure/tung-tung-sahur-gta-miami.md) — Tung Tung Sahur: GTA Miami drops you into the chaotic, neon-soaked streets of Miami during the holy month of Ramadan. As
+- [Tung Tung Sahur Haunted Asylum](../games/adventure/tung-tung-sahur-haunted-asylum.md) — In Tung Tung Sahur: Haunted Asylum, navigate a chilling horror landscape where survival hinges on collecting phones for 
+- [Tung Tung Sahur Hidden Bedug](../games/adventure/tung-tung-sahur-hidden-bedug.md) — Get ready to dive into a festive hidden object adventure with a twist! In Tung Tung Sahur: Hidden Bedug, your mission is
+- [Tung Tung Sahur in Geometry Dash](../games/adventure/tung-tung-sahur-in-geometry-dash.md) — Join Tung Tung Sahur, the wooden drum-carrying dawn caller, as he bounces and flips through a neon cityscape just before
+- [Tung Tung Sahur Midnight Terror](../games/adventure/tung-tung-sahur-midnight-terror.md) — In a small, forgotten town where time seems to stand still, every night of Ramadan echoes with an eerie sound... &ldquo;
+- [Tung Tung Sahur Midnight Terror 2](../games/adventure/tung-tung-sahur-midnight-terror-2.md) — Step into the shadowy chaos of Tung Tung Sahur: Midnight Terror 2 as you dash through a sprawling parking lot to gather 
+- [Tung Tung Sahur Midnight Terror](../games/adventure/tung-tung-sahur-midnight-terror-3.md) — Trapped in a haunted house during Ramadan nights, collect instant noodles to escape the eerie, noodle-loving Tung Tung. 
+- [Tung Tung Tung Tung Sahur](../games/adventure/tung-tung-tung-tung-sahur.md) — Enter a dark, eerie forest haunted by the mysterious Tung Sahur. Your goal is to collect all the lost souls scattered ac
+- [Tunko 2](../games/adventure/tunko-2-2.md) — Embark on a juicy quest in Tunko 2, a delightful 2D adventure platformer. Navigate through intricate levels, dodging dea
+- [Tunko](../games/adventure/tunko-3.md) — Guide Tunko through a vibrant 2D world, collecting grapes and outsmarting foes across eight immersive levels. Master sha
+- [Tunnel Heist](../games/adventure/tunnel-heist.md) — You just cracked the vault. Now dig your way out. Tunnel through a dark vault floor collecting rubies, emeralds, diamond
+- [Tunnel Village Escape](../games/adventure/tunnel-village-escape.md) — Tunnel Village Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a village,
+- [Tunno Boy 2](../games/adventure/tunno-boy-2-2.md) — Dive into the charming chaos of Tunno Boy 2, a vibrant 2D platformer. Master increasingly tricky levels as you leap past
+- [Tunno Boy](../games/adventure/tunno-boy-3.md) — Dive into the enchanting world of Tunno Boy, a captivating 2D platformer. Traverse through eight increasingly difficult 
+- [Tuny vs Osu 2](../games/adventure/tuny-vs-osu-2-2.md) — Guide Tuny, the courageous robot, through a mesmerizing 2D sci-fi world filled with perilous traps and foes. Navigate ei
+- [Tuny vs Osu](../games/adventure/tuny-vs-osu-3.md) — Embark on an adrenaline-fueled journey through a captivating 2D sci-fi realm in Tuny vs Osu. Master precise controls, us
+- [Turkey Escape](../games/adventure/turkey-escape.md) — Turkey Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on 
+- [Turkey Rescue](../games/adventure/turkey-rescue.md) — Turkey Rescue is a point and click Rescue game developed by 8BGames/Games2Mad. Imagine that you had been to a place; on 
+- [Turtle Hero](../games/adventure/turtle-hero.md) — The poor animals are captured by the wicked witch, but there is a good turtle, he wants to save all these animals from t
+- [Turtle Hero Run](../games/adventure/turtle-hero-run.md) — Embark on a heartwarming journey in Turtle Hero Run, where you become a valorous turtle saving fellow creatures from evi
+- [Tutor Escape](../games/adventure/tutor-escape.md) — Tutor Escape is a point and click escape game developed by 8BGames. Imagine that you to your tutor to ask few doubt. Unf
+- [Tuu Bot 2](../games/adventure/tuu-bot-2-2.md) — Tuu Bot 2 thrusts you into a high-stakes dash through a futuristic labyrinth. Navigate deadly traps, evade relentless fo
+- [Tuu Bot](../games/adventure/tuu-bot-3.md) — Embark on a thrilling journey in Tuu Bot, a 2D platformer set in a futuristic universe. Navigate through eight exhilarat
+- [Twilight Tails](../games/adventure/twilight-tails.md) — Embark on an enchanting cooperative adventure as nocturnal animals, each with special skills, to outwit the mischievous 
+- [Twist And Roll](../games/adventure/twist-and-roll.md) — Twist And Roll is an engaging skill puzzle game where you rotate the terrain and control balls to roll to the correct de
+- [Two Cups](../games/adventure/two-cups.md) — Run, jump, and slide through a vibrant pixel-art world in Two Cups. Embark on a charming rescue mission to save Cupgirl 
+- [Typical Land Escape](../games/adventure/typical-land-escape.md) — Typical Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, 
+- [Ufo Mars](../games/adventure/ufo-mars.md) — Steer ufo ship using controls button
+- [Ultimate Bottle Flip Game](../games/adventure/ultimate-bottle-flip-game.md) — Offline Master Bottle 3D: Tap, Flip &amp; Jump, the ultimate bottle flipping adventure where excitement meets challenge!
+- [Ultimate Evolution](../games/adventure/ultimate-evolution.md) — Fight. Evolve. Dominate the arena.
+- [Ultimate Flying Eagle Game](../games/adventure/ultimate-flying-eagle-game.md) — Eagle Empire is a game created for those who love arcade games and overcoming obstacles and adversities. It is also a gr
+- [Ultimate Strike](../games/adventure/ultimate-strike-2.md) — In Ultimate Strike, step into a thrilling FPS multiverse where strategy and reflexes are key. Navigate disorienting maps
+- [Ultraman Monster Island Adventure 2](../games/adventure/ultraman-monster-island-adventure-2.md) — Ultraman Monster Island Adventure 2 - html5 adventure game. People found a new island in the Pacific Ocean, it is surpri
+- [Ultraman Monster Island Adventure 3](../games/adventure/ultraman-monster-island-adventure-3.md) — Ultraman Monster Island Adventure 3 - html5 adventure game. People found a new island in the Pacific Ocean, it is surpri
+- [Umber House Escape](../games/adventure/umber-house-escape.md) — Umber House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Unblocked Forest Fireboy and Watergirl](../games/adventure/unblocked-forest-fireboy-and-watergirl-2.md) — Dive into a thrilling forest temple adventure with Fireboy and Watergirl. Solve intricate puzzles solo or with friends, 
+- [Undead Walking](../games/adventure/undead-walking-2.md) — Battle relentless zombie hordes in Undead Walking, where you are Brando, a survivor in a grim, atmospheric world. Wield 
+- [UNDER WORLD ESCAPE](../games/adventure/under-world-escape.md) — Under World Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to an Under Wor
+- [Undercover Escape](../games/adventure/undercover-escape.md) — Dive into Undercover Escape, where teamwork and quick thinking are your only allies. Solve intricate puzzles, decipher h
+- [Underground Dungeon Escape](../games/adventure/underground-dungeon-escape.md) — Underground Dungeon Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Un
+- [Underground Escape](../games/adventure/underground-escape.md) — Underground Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Underground
+- [Underground Prison Escape](../games/adventure/underground-prison-escape.md) — Underground Prison Escape offers an exciting escape experience with a hyper casual game full of action and strategy. Pla
+- [Underground Scout](../games/adventure/underground-scout.md) — Navigate a perilous labyrinth in your advanced scout ship, collecting precious oxygone ore to avert an oxygen crisis. Ma
+- [Underground Tunnel Escape](../games/adventure/underground-tunnel-escape.md) — Underground Tunnel Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to an Und
+- [Underwater Creatures Escape](../games/adventure/underwater-creatures-escape.md) — Underwater Creatures Escape is a point and click Escape game developed by 8BGames/Games2Mad. Imagine that you had been t
+- [Underwater Survival: Deep Dive](../games/adventure/underwater-survival-deep-dive.md) — In this immersive underwater survival simulator, you find themselves stranded on an alien ocean planet, faced with the d
+- [Unfair Adventure 2](../games/adventure/unfair-adventure-2.md) — Very difficult game that tests your patience. Overcome the obstacles, avoid the traps and advance. Have fun with this ad
+- [Unfamiliar Object](../games/adventure/unfamiliar-object.md) — Unfamiliar Object is a first-person office-horror inspection game about finding the one thing that does not belong. Read
+- [Unicorn Kitty Save The Kingdom](../games/adventure/unicorn-kitty-save-the-kingdom.md) — Unicorn Kitty save the kingdom: This game has you taking control of UniKitty and her friends. you need to travel the lan
+- [Unroll Ball Slide Puzzle](../games/adventure/unroll-ball-slide-puzzle.md) — Unroll Ball - Slide Block Puzzle is a classic tile puzzle with a modern challenging twist. Move the sliding tiles to unb
+- [Untangle Snake Frenzy](../games/adventure/untangle-snake-frenzy.md) — Untangle Snake Frenzy is a fun and challenging puzzle game where a tangled mess of snakes blocks every path. Your goal i
+- [Upside Down - Online Multiplayer](../games/adventure/upside-down-online-multiplayer.md) — Dive into "Upside Down," where a pixelated world challenges you to escape through crafty puzzles and cunning survival. O
+- [Urban Sniper Multiplayer](../games/adventure/urban-sniper-multiplayer-3.md) — Engage in nerve-wracking sniper duels as you navigate a dynamic urban landscape. Flex your strategic acumen, stay hidden
+- [Urban Traffic Commander](../games/adventure/urban-traffic-commander.md) — I dont know about you, but I find it hard to stay focused when theres a lot of traffic. This is your chance to be in con
+- [Valentines Day Adventures](../games/adventure/valentines-day-adventures-2.md) — Navigate a charming pixel world in Valentine's Day Adventures, where you'll collect chocolates for your sweetheart. Mast
+- [Vampire Survival](../games/adventure/vampire-survival.md) — Vampire's Survival is a fast-paced, multiplayer, survival game. Destroy your enemies and become a legend! Become a vampi
+- [Vampire Survival](../games/adventure/vampire-survival-2.md) — Enter a mythical vampire world in "Vampire Survival," a thrilling multiplayer experience filled with high-stakes battles
+- [Vampire Survivors Dark](../games/adventure/vampire-survivors-dark.md) — Vampire Survivors Dark is an online action game where you choose your beloved hero among four characters and defeat the 
+- [Van Escape](../games/adventure/van-escape.md) — Van Escape is a point and click game developed by Games2Live. Imagine that you had been to a park; there lost your van k
+- [Vangers 3D](../games/adventure/vangers-3d.md) — Embark on an extraordinary adventure in Vangers 3D, merging racing thrills with RPG depth. Explore vast, ever-changing l
+- [Vangers HD](../games/adventure/vangers-hd.md) — Embark on an otherworldly adventure in Vangers HD, where explosive vehicular combat meets strategic upgrading. Navigate 
+- [Vault Escape](../games/adventure/vault-escape.md) — Vault Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a bank; there you g
+- [Vegetable Spelling Puzzle](../games/adventure/vegetable-spelling-puzzle.md) — In the game, you have to look at the vegetables and write their names in the box below to complete the word. As soon as 
+- [Verdant Wilds](../games/adventure/verdant-wilds.md) — Explore an isometric survival voxel world. Gather wood, stone and ores, craft tools, build campfires and shelters, mine 
+- [Verde Village Escape](../games/adventure/verde-village-escape.md) — Verde Village Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Village 
+- [Verity Block Survival](../games/adventure/verity-block-survival.md) — Enter a mysterious block-based world where survival is your only goal! Explore a dark and dangerous environment, gather 
+- [Vexed Girl Escape](../games/adventure/vexed-girl-escape.md) — Vexed Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Girl house to get pl
+- [Viking Brawl](../games/adventure/viking-brawl.md) — You must be fast, think logically, defeat your opponent.cIn this fun and great graphics game, you will fight with differ
+- [Viking Dragons](../games/adventure/viking-dragons.md) — is a game in which you control a Viking flying on a dragon, the Viking must go its way to the end to get out of a dark f
+- [Viking Escape](../games/adventure/viking-escape.md) — Viking escape – is a game in which you control a Viking flying on a dragon, the Viking must go its way to the end to get
+- [Viking Escape](../games/adventure/viking-escape-2.md) — Navigate a shadowy forest astride a fire-breathing dragon in Viking Escape. Test your speed and strategy as you fend off
+- [Viking escape games](../games/adventure/viking-escape-games.md) — Hallo Viking Warriors! Ride your dragon in the haunted forest to kill all enemy monsters. Hooola! Viking Escape - Boo Bo
+- [Vikings: An Archer's Journey](../games/adventure/vikings-an-archer-s-journey.md) — Join the thrilling endless runner in "Vikings: An Archer's Journey," where you control Nott, a bold Valkyrie archer, nav
+- [Village Escape](../games/adventure/village-escape.md) — Village Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On the
+- [Village Gate Escape 1](../games/adventure/village-gate-escape-1.md) — Village Gate Escape 1 is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village
+- [Vintage House Escape](../games/adventure/vintage-house-escape.md) — Vintage House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Violaceous House Escape](../games/adventure/violaceous-house-escape.md) — Violaceous House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a house
+- [Virtual Boy Escape](../games/adventure/virtual-boy-escape-2.md) — Dive into the retro charm of Virtual Boy Escape, where you guide a boy through vibrant, monster-infested landscapes. Mas
+- [Virtuous Girl Escape](../games/adventure/virtuous-girl-escape.md) — Virtuous Girl Escape is a point and click escape game developed by 8BGames. Imagine that you went to the Virtuous Girl h
+- [Virus House Escape](../games/adventure/virus-house-escape.md) — Virus House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Vital Spark Land Escape](../games/adventure/vital-spark-land-escape.md) — Vital Spark Land Escape escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a
+- [Vlog House Escape](../games/adventure/vlog-house-escape.md) — Vlog House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Vlog House,
+- [Volcanic Danger Adventure](../games/adventure/volcanic-danger-adventure.md) — Embark on a heart-racing journey through fiery volcanic realms where sharp reflexes and quick thinking are your only all
+- [VortexTunnel 3D](../games/adventure/vortextunnel-3d.md) — Get into the mesmerizing 3D world of Tunnel, where all you’ve got to do is survive for as long as possible as you race d
+- [Voxel Frontier](../games/adventure/voxel-frontier.md) — Voxel Frontier is a Minecraft parody that is VoxelWork Games very first project. There are mobs and other tools in the g
+- [Vulpin Adventure](../games/adventure/vulpin-adventure.md) — Vulpin Adventure is an adventure game to create and control your little dragon and fight the enemies. Buy items to upgra
+- [Waiter Escape](../games/adventure/waiter-escape.md) — Waiter Escape is a point and click escape game developed by 8BGames. Imagine that you went to a Waiter house to take him
+- [Wake Rider Escape](../games/adventure/wake-rider-escape.md) — Race against time in Wake Rider Escape, a thrilling speedboat adventure that tests your reflexes as you dodge obstacles 
+- [Wall Of Danger Dash](../games/adventure/wall-of-danger-dash.md) — A journey to save a Friend and to teach a lesson to the bad monster. Game story begins with Jake and Lily, among them Li
+- [Wanderer Liam](../games/adventure/wanderer-liam.md) — Game story begins with Liam&rsquo;s amazing explorer mindsets, he wants to explore a nearby mysterious forest so he star
+- [War Lands 2](../games/adventure/war-lands-2.md) — War Lands is a fantastic action RPG adventure. Immerse yourself in a magical world and destroy the evil creatures encroa
+- [War of Tanks 3D](../games/adventure/war-of-tanks-3d.md) — Command your tank in intense battles where strategy and precision are key. Navigate dynamic terrains, meticulously aim y
+- [Warlock](../games/adventure/warlock.md) — A fun crawl through dungeons with various characters. Perform quests and grow powerful. Complete the adventure today.
+- [Warrior Kingdom](../games/adventure/warrior-kingdom-2.md) — Embark on an epic journey in Warrior Kingdom, where your strategic prowess and combat abilities face the ultimate test. 
+- [Wasteland Hunter: puzzle RPG](../games/adventure/wasteland-hunter-puzzle-rpg.md) — Wasteland Hunter: puzzle RPG — a unique combination of Tetris puzzle mechanics integrated into a turn-based combat syste
+- [Water Ball Sorting Puzzle](../games/adventure/water-ball-sorting-puzzle.md) — Sorting Puzzle Game is a fun, relaxing, and brain-boosting puzzle game designed for players who enjoy logical challenges
+- [Water Blast](../games/adventure/water-blast.md) — In this puzzle game, you must burst elements to trigger a chain reaction in order to eliminate them. You need to elimina
+- [Water Slide Adventure](../games/adventure/water-slide-adventure.md) — Dive into the ultimate water slide adventure with Extreme Water Slide Adventure! Experience the thrill of speeding down 
+- [Water The Plant](../games/adventure/water-the-plant.md) — Addictive puzzle game the aim is find the correct path to lead water to trees, increasing your brain power IQ with this 
+- [Water Warfare](../games/adventure/water-warfare.md) — Fight intense naval battles in Water Warfare, where strategic boat upgrades and sharp shooting lead to thrilling victori
+- [Watermeleon Drop Puzzle](../games/adventure/watermeleon-drop-puzzle.md) — Get ready for a fun and addictive puzzle experience with Watermelon Drop Puzzle, where you drop fruits, merge them, and 
+- [Watermelon Day 2](../games/adventure/watermelon-day-2-2.md) — Guide a quirky watermelon character through whimsical worlds of increasing peril. Maneuver past treacherous terrains and
+- [Watermelon Day](../games/adventure/watermelon-day-3.md) — Guide the charming Watermelon boy through a vibrant 2D world, dodging foes and traps while collecting life-saving water.
+- [Watto Boy](../games/adventure/watto-boy.md) — Embark on a platforming adventure with Watto Boy, a bulb-shaped hero. Navigate hazardous landscapes, collect glowing cub
+- [Wave Rider](../games/adventure/wave-rider-2.md) — Dive into Wave Rider, where precision meets peril on the high seas. Navigate dynamic wave patterns and dodge lurking dan
+- [Way Down](../games/adventure/way-down.md) — Way Dawn – is a game in which you need to properly place and adjust the platforms to launch the ball and deliver it to t
+- [Wayfarers Return](../games/adventure/wayfarers-return.md) — Wayfarers Return is a challenging puzzle adventure where you guide a young traveler on his journey back home. Explore da
+- [We Bare Bears Difference](../games/adventure/we-bare-bears-difference.md) — Cute Bears Difference is a free online difference and kids game! In this game you will need to find 7 differences in eve
+- [Wedding Rush Race](../games/adventure/wedding-rush-race.md) — Wedding Rush Race is a fun and exciting racing game where players must rush through challenging tracks and reach the fin
+- [Weekend Sudoku 08](../games/adventure/weekend-sudoku-08.md) — Sudoku is one of the most popular puzzle games of all time. The goal of Sudoku is to fill a 9×9 grid with numbers so tha
+- [Weekend Sudoku 16](../games/adventure/weekend-sudoku-16.md) — Sudoku is one of the most popular puzzle games of all time. The goal of Sudoku is to fill a 9×9 grid with numbers so tha
+- [Wendie Player Escape](../games/adventure/wendie-player-escape.md) — Wendie Player Escape is a point and click escape game developed by 8BGames. Imagine that you went to see wendie who is a
+- [Western Bluebird House Escape](../games/adventure/western-bluebird-house-escape.md) — Western Bluebird House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a 
+- [Western Escape](../games/adventure/western-escape.md) — Western Escape game is a game that aims the cowboys you control to reach the target by making them move on the line you 
+- [Whaito 2](../games/adventure/whaito-2.md) — Embark on a challenging adventure in Whaito 2, where delightful graphics meet intricate gameplay. Navigate perilous leve
+- [Whaito](../games/adventure/whaito-3.md) — Embark on an enchanting journey in Whaito's 2D realm, collecting elusive red cubes across eight perilous levels. Navigat
+- [Where is My Cat : The Adventure](../games/adventure/where-is-my-cat-the-adventure.md) — our cute little cat is missing again… and this time, the ultimate hide-and-seek adventure takes place across the entire 
+- [Where is my Water](../games/adventure/where-is-my-water.md) — Help Swampy by guiding water to his broken shower. Each level is a challenging physics-based puzzle with amazing life-li
+- [Whiskers Adventures](../games/adventure/whiskers-adventures.md) — Whiskers Adventures is a fun mobile game offering exciting adventures as players control a clever cat through various le
+- [White Brick Backyard Escape](../games/adventure/white-brick-backyard-escape.md) — White Brick Backyard Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Ba
+- [White Brick House Escape](../games/adventure/white-brick-house-escape.md) — White Brick House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house
+- [White Dog Rescue](../games/adventure/white-dog-rescue.md) — White Dog Rescue is a point and click game developed by 8B Games/Games2Live. Imagine that you had been to a village, On 
+- [White House Escape](../games/adventure/white-house-escape.md) — White House Escape is another point and click escape game developed by 8B Games. Imagine that you have been locked insid
+- [White Knight Adventure](../games/adventure/white-knight-adventure.md) — Embark on a thrilling medieval platformer in White Knight Adventure. Master precision jumps, unleash skillful swordplay,
+- [Who Is The Joker?](../games/adventure/who-is-the-joker.md) — Who is the Joker is a horror adventure online game for free. It combines werewolf killing and hide-or-seek gameplay. As 
+- [Wild Island Quest](../games/adventure/wild-island-quest.md) — Explore, gather, and build your way to success in Wild Island Quest! Start on a remote island where every resource count
+- [Wild Love](../games/adventure/wild-love.md) — An adventure awaits you on a mysterious island where the heroine is in danger at every turn. Make the right decisions, t
+- [Wild Wolves](../games/adventure/wild-wolves.md) — You are a becoming alpha wolf and you have to accomplish your duty like a leader by protecting and feeding your pack. Fe
+- [Winter Adventures](../games/adventure/winter-adventures.md) — Embark on a charming journey with Winter Adventures, guiding a lovable green monster across the snowy screen. Collect co
+- [Winter Craft](../games/adventure/winter-craft.md) — Winter Craft is a fantastic building and crafting game inspired by Minecraft. In Winter Craft you can build, mine and cr
+- [Winter Labubu Pacman Adventure](../games/adventure/winter-labubu-pacman-adventure.md) — Winter Labubu Pacman Adventure is a super fun online game inspired by classic Pac-Man gameplay. Navigate the icy maze, a
+- [Winter Snowy Adventures 1](../games/adventure/winter-snowy-adventures-1.md) — Complete all 10 levels and collect stars!
+- [Winter Wonderland Forest Adventure](../games/adventure/winter-wonderland-forest-adventure.md) — Every minute in this frozen forest gets colder and colder so you have to escape quickly. Winter Wonderland Forest is the
+- [Witch Dog Escape](../games/adventure/witch-dog-escape.md) — Witch Dog Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you went to a scary fores
+- [Witch Jump](../games/adventure/witch-jump.md) — Witch Jump Game is a spooktacular jumping adventure that will test your reflexes.Watch the game become progressively mor
+- [Witch Owl Escape](../games/adventure/witch-owl-escape.md) — Witch Owl Escape is a point and click escape game developed by 8BGames. Imagine that you got an Owl as a gift from a goo
+- [Witch to Princess Potion Maker Game](../games/adventure/witch-to-princess-potion-maker-game.md) — You can’t miss this dramatic princes and unicorn game! How can an evil witch dress up and become a noble queen and win t
+- [Witch Wolf Escape](../games/adventure/witch-wolf-escape.md) — Witch Wolf Escape is a point and click escape game developed by 8BGames. Imagine that a witch wolf got trapped inside a 
+- [Witchy and the Puzzle Adventures](../games/adventure/witchy-and-the-puzzle-adventures.md) — Embark on a magical forest quest in Witchy and the Puzzle Adventures, where strategy and charm intertwine. Solve clever 
+- [Wizard Adventure](../games/adventure/wizard-adventure.md) — Wizard Adventure is a survival adventures masterpiece.This Wizard Adventure game will challenge your capability to defen
+- [Wizzard Adventure](../games/adventure/wizzard-adventure.md) — Wizzard Adventure is an exciting adventure game where you control a wizard embarking on a journey to overcome challengin
+- [Wobble Boss](../games/adventure/wobble-boss.md) — Wobble Boss is a fun game where the player has to escape from the office!
+- [Wobble Boss Game](../games/adventure/wobble-boss-game.md) — Find a way to escape from office and unlock new characters.Easy to play Hard to master. Easy control to play: - avoid ca
+- [Wobble Boy Escape](../games/adventure/wobble-boy-escape.md) — Wobble Boy Escape puts players in a thrilling situation where they must avoid capture by the police. Similar to a robber
+- [Wobble Hitman](../games/adventure/wobble-hitman.md) — Find a way to escape from the office and unlock new characters. Easy to play Hard to master. Easy control to play: – avo
+- [Wobble Man Masters](../games/adventure/wobble-man-masters.md) — New Wobble man 2 is the best game in 2020 You play as an agent to find secrets in the infinite floor building! To comple
+- [Wobble Man Online](../games/adventure/wobble-man-online.md) — In the 3D puzzle game Wobble Man Online, you just need to open the door and come to the next level. Special attention sh
+- [Wobble Robber Man](../games/adventure/wobble-robber-man.md) — Wobble Man is a casual game where your objective is to help a suit-clad man navigate upstairs without being detected. To
+- [Wobble Thief](../games/adventure/wobble-thief.md) — The Police you face will get stronger, but don't worry, your weapons will continue to be upgraded. It is difficult to kn
+- [Wobbly Ligs](../games/adventure/wobbly-ligs.md) — Smash the walls, set yourself free from the boring energy of office space, classroom or crowded streets. Breaking walls 
+- [wolf pup escape2](../games/adventure/wolf-pup-escape2.md) — Wolf Pup Escape 2 is a point and click escape game developed by 8BGames. Imagine that your friend bought a little Wolf P
+- [Wolfoo Maze Adventure](../games/adventure/wolfoo-maze-adventure.md) — Guide Wolfoo and friends through colorful mazes! Explore, collect coins and stars, dodge tricky obstacles like sliding g
+- [Wolfoo Town Dream](../games/adventure/wolfoo-town-dream.md) — Wolfoos Town Dream City is a bright, friendly pretend-play world for young children! Roam a cheerful town with Wolfoo an
+- [Wood House Escape](../games/adventure/wood-house-escape.md) — Wood House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a House; there
+- [Wood Land Escape](../games/adventure/wood-land-escape.md) — Wood Land Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On t
+- [Wood Man Cutter](../games/adventure/wood-man-cutter.md) — Welcome to Wood Man Cutter 3D Game! Tap and hold to start walking, rotating with an elastic rope. Begin cutting wood fro
+- [Wooden Attic Escape](../games/adventure/wooden-attic-escape.md) — Wooden Attic Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Wooden House Escape](../games/adventure/wooden-house-escape.md) — Wooden House Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you went to a wooden house. 
+- [Wooden House Escape 4](../games/adventure/wooden-house-escape-4.md) — Wooden House Escape 4 is a point and click escape game developed by 8BGames. You are trapped inside a wooden house. Find
+- [Wooden House Escape 5](../games/adventure/wooden-house-escape-5.md) — Wooden House Escape 5 is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a House; t
+- [Wooden Rooms Escape](../games/adventure/wooden-rooms-escape.md) — Wooden Rooms Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to trapped insi
+- [Woodland Escape](../games/adventure/woodland-escape.md) — Woodland Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a Woodland. You 
+- [Woodland House Escape](../games/adventure/woodland-house-escape.md) — Woodland House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Village
+- [Woods of Nevia: Forest Survival](../games/adventure/woods-of-nevia-forest-survival.md) — Woods of Nevia: Forest Survival is a one-tap action adventure where you battle and survive in the wild. Wield your axe t
+- [Woods of Nevia: Forest Survival](../games/adventure/woods-of-nevia-forest-survival-2.md) — Dive into Woods of Nevia and conquer the wilderness with a single tap. Battle beasts, gather resources, and build your h
+- [Woody House Escape](../games/adventure/woody-house-escape.md) — Woody House Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Woody Hous
+- [Words Glory](../games/adventure/words-glory.md) — this is a word search game by Mohsin Games
+- [Words Story](../games/adventure/words-story.md) — A man is framed and imprisoned, but he never gives up and plans to self-salvation. Persevere, day after day, year after 
+- [World Cup Flag Match](../games/adventure/world-cup-flag-match.md) — The World CupFlag Match is an online game that tests your knowledge of flags from around the world. Match three flags in
+- [World of Blocks 3D](../games/adventure/world-of-blocks-3d.md) — Do you like building games? World of Blocks 3D invites you into a completely open and huge craft world. In this world, y
+- [World War III](../games/adventure/world-war-iii.md) — There are 50 robots in this game and you win by killing the robots in the game, but since there are robots in it, do you
+- [Worm Path](../games/adventure/worm-path.md) — Worm Path is a challenging logic puzzle game where you guide a clever worm through tricky mazes to reach the exit. Move 
+- [Worm Slither](../games/adventure/worm-slither.md) — Worm Slither is fun addictive adventure game.Eat the bugs to make your worm bigger and be aware of that bigger slither .
+- [Wounded Summer](../games/adventure/wounded-summer.md) — Embark on a daring rescue mission as Tecumseh, a skilled young hunter. Master the bow and terrain, outsmart outnumbering
+- [Wrecked House Escape](../games/adventure/wrecked-house-escape.md) — Wrecked House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; th
+- [Wrestler Escape](../games/adventure/wrestler-escape.md) — Wrestler Escape is a point and click escape game developed by 8BGames/Games2Mad. Imagine that you had been to a place; o
+- [XLR8 ESCAPE](../games/adventure/xlr8-escape.md) — XLR8 Escape is a point and click game developed by 8B Games/Games2Mad. Imagine that you had been to a village, On there 
+- [Xmas Candy Survival Game](../games/adventure/xmas-candy-survival-game.md) — Do you want to try a puzzle-free game about Christmas? Xmas Candy Survival is perfect for kids, you just need to make Sa
+- [Xoka 2](../games/adventure/xoka-2-2.md) — Experience transcendent thrills in Xoka 2, a supernatural 2D platformer where you navigate fire-laden realms as a ghost.
+- [Xoka](../games/adventure/xoka-3.md) — Xoka invites players into a thrilling 2D platformer where you become a ghost collecting spirit orbs. Navigate increasing
+- [Xtrue](../games/adventure/xtrue.md) — In Xtrue, experience vibrant, fast-paced arcade action as you navigate dynamic levels full of obstacles. Master unique a
+- [Yaatu Ball](../games/adventure/yaatu-ball-2.md) — Bounce into adventure with Yaatu Ball, a charming platformer where you navigate tricky terrains as an adorable ball. Gat
+- [Yacht Escape](../games/adventure/yacht-escape.md) — Yacht Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to Seashore; there you
+- [Yarn Untangle](../games/adventure/yarn-untangle.md) — Untangle Yarn is a puzzle game in which you use your trusty kittens to unravel the balls of yarn. Just select the yarn a
+- [Yatosan 2](../games/adventure/yatosan-2-2.md) — Yatosan 2 delivers an exhilarating platforming adventure with your cheese-loving robot hero. Navigate through eight trea
+- [Yatosan](../games/adventure/yatosan-3.md) — Guide a charming robot through perilous traps and cunning foes in Yatosan, an adrenaline-pumping adventure. Navigate inc
+- [Yellow Alien Escape!](../games/adventure/yellow-alien-escape.md) — Play as the Alien called Jeff and make your way through the levels. Featuring 3 Normal levels and 4 Secret Levels. Just 
+- [Yellow Baby Horror](../games/adventure/yellow-baby-horror.md) — Welcome to the game where you will take care of a child. A pretty strange one, we must admit! Despite the fact that this
+- [Yellow Baby Horror Hide & Seek](../games/adventure/yellow-baby-horror-hide-seek.md) — This new version of this horror game has many cool novelties. So if you are a huge fan of the original Baby in Yellow, t
+- [Yellow bird](../games/adventure/yellow-bird.md) — Do not allow bird to touch on wood. Tap to play
+- [Yellow Duckling Escape](../games/adventure/yellow-duckling-escape.md) — Yellow Duckling Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a Farm, 
+- [Yellow House Escape](../games/adventure/yellow-house-escape.md) — Yellow House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; the
+- [Yellow Land Escape](../games/adventure/yellow-land-escape.md) — Yellow Land Escape is a point and click game developed by 8B Games/Games2live. Imagine that you had been to a village, O
+- [Yeti Adventure](../games/adventure/yeti-adventure-2.md) — Dive into Yeti Adventure's thrilling platformer excitement! Navigate through over 100 dynamic levels filled with obstacl
+- [Yoga Instructor Escape](../games/adventure/yoga-instructor-escape.md) — Yoga Instructor Escape is a point and click escape game developed by 8BGames. Imagine that you went to yoga instructor’s
+- [Yolk Patrol Easy](../games/adventure/yolk-patrol-easy.md) — Yolk Patrol Easy - is an easy version of previous game where eggs collection is replaced by candies by buying some candy
+- [Your Obby Escape](../games/adventure/your-obby-escape.md) — Join an exciting multiplayer escape adventure. Team up with friends worldwide to discover hidden secrets, messages, priz
+- [Yuas Quest 2](../games/adventure/yuas-quest-2-2.md) — Embark on an exhilarating adventure in Yuas Quest 2, a 2D platformer where quick reflexes and strategic double jumps are
+- [Yuas Quest](../games/adventure/yuas-quest-3.md) — Leap into Yuas Quest and navigate a thrilling 2D platformer adventure. Evade menacing zombies, dodge deadly traps, and c
+- [Yui Christmas Adventure 2](../games/adventure/yui-christmas-adventure-2-2.md) — Join Yui in a festive 2D platformer as she collects candies and evades menacing snow monsters. Master daring jumps over 
+- [Yui Christmas Adventure](../games/adventure/yui-christmas-adventure-3.md) — Immerse yourself in Yui Christmas Adventure, a vibrant 2D platformer bursting with holiday cheer. Navigate through eight
+- [Zad Jewels](../games/adventure/zad-jewels.md) — Dive into the dazzling world of Jewels, a captivating match-3 puzzle game that combines strategic gameplay with sparklin
+- [Zaho Bot 2](../games/adventure/zaho-bot-2-2.md) — Embark on an electrifying journey in Zaho Bot 2's sci-fi world, mastering eight challenging levels. Maneuver with skill 
+- [Zaho Bot](../games/adventure/zaho-bot-3.md) — Guide your robot through a labyrinth of high-tech dangers in Zaho Bot, a thrilling action-platformer. Collect elusive ch
+- [Zany House Escape](../games/adventure/zany-house-escape.md) — Zany House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house, there
+- [Zero G Wind Escape](../games/adventure/zero-g-wind-escape.md) — Along the way, you&rsquo;ll need to collect useful items like keys and briefcases to unlock routes and complete objectiv
+- [Zigzag Adventure](../games/adventure/zigzag-adventure-2.md) — Zigzag Adventure offers a thrilling ride where quick reflexes and timing are key. Maneuver your zippy car through endles
+- [Zigzag Snow Adventure](../games/adventure/zigzag-snow-adventure.md) — Control a bouncy red ball as it rolls down a snowy mountain! Dodge trees, rocks, and other obstacles while trying to sur
+- [Zigzag Zombie](../games/adventure/zigzag-zombie-2.md) — Outlast relentless zombies in Zigzag Zombie, a thrilling maze adventure. Master the art of zigzagging to dodge obstacles
+- [Zilda Legend](../games/adventure/zilda-legend.md) — Zilda Legend is a role-playing adventure game in which you will play the hero linck and fight the devil in the world. Be
+- [Zipline Valley](../games/adventure/zipline-valley.md) — To rescue the friends waiting at the starting point of this dangerous valley, draw a line with mouse and after reaching 
+- [Zodiac Wars](../games/adventure/zodiac-wars.md) — Use your starship laser to destroy all blocks and zodiac signs!
+- [Zombie Adventure](../games/adventure/zombie-adventure.md) — Guide an enigmatic zombie through challenging terrains in this captivating fusion of platformer and runner. Precision an
+- [Zombie Bros In Frozen World](../games/adventure/zombie-bros-in-frozen-world.md) — The three zombie brothers came to the Icelandic world to find gems. In the dangerous Iceland, can they successfully coll
+- [Zombie Buster](../games/adventure/zombie-buster.md) — You can hunt zombies and be a city king. Defend against the zombie army An exciting, incredibly dynamic and terribly atm
+- [Zombie Buster](../games/adventure/zombie-buster-2.md) — Survive the zombie apocalypse from a unique side-view perspective in Zombie Buster. Armed with powerful weapons, protect
+- [Zombie Check: Survival Shelter](../games/adventure/zombie-check-survival-shelter.md) — Zombie Check: Survival Shelter is a tense quarantine inspection simulator set during a zombie outbreak.
+- [Zombie Colosseum](../games/adventure/zombie-colosseum.md) — Survive in the relentless Zombie Colosseum, where strategic resource management and tactical combat are your keys to sur
+- [Zombie Defence Team](../games/adventure/zombie-defence-team-2.md) — Face relentless hordes of undead in Zombie Defence Team! As a lone, well-armed soldier, strategically use your arsenal t
+- [Zombie Defense](../games/adventure/zombie-defense.md) — Survive a relentless zombie invasion in Zombie Defense, where your countryside home becomes a battleground. Master intui
+- [Zombie Escape: Horror Factory](../games/adventure/zombie-escape-horror-factory.md) — Zombie Escape Horror Factory is an exciting survival game that immerses you in a zombie infested apocalyptic world. Your
+- [Zombie Horror House Escape](../games/adventure/zombie-horror-house-escape.md) — Zombie Horror House Escape is a point and click escape game developed by 8BGames. Imagine that you went to nighbour hous
+- [Zombie Hunter Adventure](../games/adventure/zombie-hunter-adventure.md) — Embark on an exhilarating quest in Zombie Hunter Adventure. As a daring ninja, battle relentless zombies, collect dazzli
+- [Zombie Hunter Survival](../games/adventure/zombie-hunter-survival-2.md) — Wield an arsenal of auto-firing weapons as you battle relentless zombie hordes in a fast-paced adventure. Strategize you
+- [Zombie Massacre](../games/adventure/zombie-massacre-2.md) — Unleash chaos in the Wild West as you fend off relentless zombie hordes in Zombie Massacre. Collect coins to unlock powe
+- [Zombie Monster Survivors](../games/adventure/zombie-monster-survivors.md) — In a world ravaged by a zombie virus, you are one of the last survivors. Each playthrough features randomly generated ma
+- [Zombie Raid](../games/adventure/zombie-raid.md) — Zombie Raid is a fast-paced survival action game where you must fight off hordes of zombies, complete dangerous missions
+- [Zombie Ranch](../games/adventure/zombie-ranch.md) — Zombies against Monsters in the jungle and farms! - Kill or be killed! It’s one or the other! It's the breathtaking conf
+- [Zombie Strike 2](../games/adventure/zombie-strike-2-2.md) — Endure relentless zombie onslaughts in Zombie Strike 2. Armed with diverse weapons, withstand escalating waves on a haun
+- [Zombie Treasure Adventure](../games/adventure/zombie-treasure-adventure-2.md) — Venture into the eerie forest of Zombie Treasure Adventure, where action-packed platforms and relentless undead foes awa
+- [Zombie Tsunami Online](../games/adventure/zombie-tsunami-online.md) — Zombies Tsunami is an endless running game, in which players need to control a group of zombies to keep running. Avoid m
+- [Zombie Village](../games/adventure/zombie-village.md) — Survive the undead apocalypse in Zombie Village, where strategic planning and sharpshooting keep you alive. Scavenge for
+- [Zombie Vs Monster Truck](../games/adventure/zombie-vs-monster-truck.md) — Drive & Kill Zombies With your Monster truck Amazing addictive monster truck game. Drive through all obstacles & kill th
+- [Zombie vs Warriors](../games/adventure/zombie-vs-warriors.md) — This is an action/adventure match 3 game with 60 unique levels and enemies. But in this one, you control two mighty and 
+- [zombies mini militia live](../games/adventure/zombies-mini-militia-live.md) — zombies mini militia live zombies mini militia live 2 is intense multiplayer combat! Compete against up to 1 players in 
+- [Zoo Run](../games/adventure/zoo-run.md) — Zoo Run is awesome endless isometric runner game, with 8 animal characters to choose from, background elements changing 
+- [Zookeeper Escape 3](../games/adventure/zookeeper-escape-3.md) — Zookeeper Escape 3 is a point and click escape game developed by 8BGames. Imagine that you went to a Zookeeper house to 
+- [Zoological Zeppelin](../games/adventure/zoological-zeppelin.md) — The game is all about to rescuing themselves from that Cave.In the path of rescuing there were lots of obstacles to face

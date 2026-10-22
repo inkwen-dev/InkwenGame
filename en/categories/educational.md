@@ -1,0 +1,774 @@
+# Educational
+
+Short educational games on InkwenGame built around a question or lesson. Practice for free in the browser—open a title and learn while you play, with no download.
+
+- <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
+
+## Games
+
+- [123 Draw](../games/educational/123-draw.md) — 123 Draw With the 123 Draw game, you learn to draw numbers in a fun way on your phone, tablet, or computer. Game develop
+- [195 Country Flag Quiz](../games/educational/195-country-flag-quiz.md) — Challenge your geography skills in the 195 Country Flag Quiz. Test your memory by identifying flags from every nation. W
+- [2048 Classic edition](../games/educational/2048-classic-edition.md) — The great puzzle classic, 2048, is back in this edition for all you number lovers out there who enjoy a good challenge f
+- [2048 Cubes](../games/educational/2048-cubes.md) — Endless 2048 game with a twist, blocks with physics. Blocks will colliide and bounce after collision. Drop and merge sam
+- [4 images 1 Word](../games/educational/4-images-1-word.md) — Guess the word in common for 4 images. Can you find it?
+- [4 Pics 1 Flick](../games/educational/4-pics-1-flick.md) — 4 Pics 1 Flick is great puzzle game for all fans of logic games!
+- [9 Patch Puzzle Quest](../games/educational/9-patch-puzzle-quest.md) — Dive into engaging logic challenges with &lsquo;9-Patch Puzzle Quest&rsquo;, where your goal is to fill a grid with numb
+- [A &amp; B Kids](../games/educational/a-amp-b-kids.md) — A &amp; B Kids is the best way for your kids to learn their ABCs! Our educational games are designed specifically for te
+- [A Day With Naughty Kelly](../games/educational/a-day-with-naughty-kelly.md) — Barbie's good friend Teresa wants to ask her to go shopping, but because her parents are not at home, Barbie has to take
+- [ABC Animals Game](../games/educational/abc-animals-game.md) — Embark on a delightful learning adventure in ABC Animals Game, where playful mini-games and vibrant graphics bring lette
+- [ABC Halloween](../games/educational/abc-halloween.md) — ABC Halloween is a delightful educational game for kids ages 2-6, combining alphabet learning with Halloween fun! Childr
+- [ABC Halloween](../games/educational/abc-halloween-2.md) — ABC Halloween sweeps kids aged 2-6 into an enchanting world where friendly ghosts and playful witches guide them through
+- [ABC Halloween Game](../games/educational/abc-halloween-game.md) — Step into the ABC Halloween Game, where spooky thrills meet educational fun. Navigate enchanting landscapes brimming wit
+- [ABC words](../games/educational/abc-words.md) — ABC words is a game developed for children with the aim of teaching words through pictures. Excellent educational conten
+- [Add to Half](../games/educational/add-to-half.md) — Sharpen your fraction skills in Add to Half, a fast-paced and brain-teasing math puzzle! In this game, your goal is simp
+- [Addition Brain Teaser](../games/educational/addition-brain-teaser.md) — A challenging math puzzle game where all you have to do is add all of the numbers on the board together. But there is a 
+- [Addition Practice](../games/educational/addition-practice.md) — This is a math puzzle game. where you will find addition problems. Solve addition problems like you would on paper or a 
+- [Aimistry](../games/educational/aimistry.md) — Aimistry &ndash; Learn Chemistry Through Precision and Play! Get ready to test your aim and your knowledge of the period
+- [Aliens Memory Game](../games/educational/aliens-memory-game.md) — Aliens Memory Game is an educational memory game – Memory improvement is part of this educational memory game, the proce
+- [Aliens Memory - Memory Game](../games/educational/aliens-memory-memory-game.md) — Educational Memory Game (Cartoon Aliens) – Memory improvement is part of this educational memory game, the process can b
+- [Aliens Vs Math](../games/educational/aliens-vs-math.md) — Aliens are invading our planet! Solve the math question, and attack the alien with your laser. Covers addition, subtract
+- [Alpha Balls](../games/educational/alpha-balls.md) — Alpha Balls is a stimulating word puzzle game that sharpens your mind and vocabulary. Enjoy it online for free on any de
+- [Alphabet for Child](../games/educational/alphabet-for-child.md) — Alphabet for Child a fun and intuitive game to play. Learning is always fun while playing. This special game will help y
+- [Alphabet for Child](../games/educational/alphabet-for-child-2.md) — Embark on a fun-filled educational adventure with Alphabet for Child! Engage young minds with intuitive, click-based gam
+- [Alphabet Memory Game](../games/educational/alphabet-memory-game.md) — One of the best ways to teach something to children is using some kind of game. This memory game is aimed to teach child
+- [Alphabet Soup For Kids](../games/educational/alphabet-soup-for-kids.md) — Alphabet Soup for Kids is a fun and educational game for all ages. Learning with fun gives more attention and interest t
+- [Alphabet Soup for Kids](../games/educational/alphabet-soup-for-kids-2.md) — Dive into a bowl of tasty alphabet fun with Alphabet Soup for Kids! This engaging educational game enchants with swift c
+- [Alphabet Writing For Kids](../games/educational/alphabet-writing-for-kids.md) — “Alphabet Writing For Kids” is one of the best educational app for toddlers, preschoolers and kindergarten kids to learn
+- [Alphabet Writing for Kids](../games/educational/alphabet-writing-for-kids-2.md) — "Alphabet Writing for Kids" transforms letter learning into a playful adventure. Youngsters trace letters with interacti
+- [Alphabetic Train](../games/educational/alphabetic-train.md) — Alphabetic train is a game that is educational and fun. In this game the turtle on the train has a board with a letter o
+- [Amaze Flags: Asia](../games/educational/amaze-flags-asia.md) — Find out how much you are of the nations and countries of Asia by taking this short quiz. Examine each flag and select t
+- [Amaze Flags: Europe](../games/educational/amaze-flags-europe.md) — e. Enjoy this short quiz to see how much you know about European countries and nations in general. Examine the flags and
+- [Amaze Fruits](../games/educational/amaze-fruits.md) — All ages can enjoy playing the straightforward educational word-building game Amaze Fruits. Discover the adorable and de
+- [Amazing Word Twist](../games/educational/amazing-word-twist.md) — ⭐⭐Challenge your brain with the Amazing Word Twist!⭐⭐ One of the best word board game for adult,kids and whole familly. 
+- [Animal Dental Hospital - Surgery Game](../games/educational/animal-dental-hospital-surgery-game.md) — Is being a dentist your dream job? Then you must not miss this game! Come to play at Baby Panda's dental salon! Experien
+- [Animal House](../games/educational/animal-house.md) — Animal House With the Animal House game you learn the natural habitat of each animal in a fun way. Game developed by: Na
+- [Animal  House game](../games/educational/animal-house-game.md) — Animal House With the Animal House game, you learn the natural habitat of each animal in a fun way. Game developed by: N
+- [Animal Name Puzzle](../games/educational/animal-name-puzzle.md) — Animal Name Puzzle is an exciting word scramble game where players must rearrange a set of scrambled letters to form the
+- [Animal Puzzle](../games/educational/animal-puzzle.md) — Animal Puzzle With the game Animal Puzzle, you will find the missing piece to solve the puzzle on your phone, tablet, or
+- [Animal Puzzle Game For Kids](../games/educational/animal-puzzle-game-for-kids.md) — This animals puzzle game helps your kids develop their matching skills . It is a fun and educational learning game for p
+- [Animal Quiz](../games/educational/animal-quiz.md) — In this application, you will find 100 pictures of famous mammals, 89 photos of birds, 19 reptiles and 4 amphibians, 44 
+- [Animal Sounds](../games/educational/animal-sounds.md) — Animal Sounds Learn the sound of each animal in a fun way using your cell phone, tablet or computer. Game developed for 
+- [Animals Skin](../games/educational/animals-skin.md) — Animals Skin Kids match missing skin pieces to animals, learning about different furs and textures. Fun, educational, an
+- [Animals Word for Kids](../games/educational/animals-word-for-kids.md) — Dive into a vibrant animal kingdom, where kids joyfully learn A to Z animal names through captivating images. Challenge 
+- [Anime Quiz Party](../games/educational/anime-quiz-party.md) — Anime Quiz Party invites you to journey through a realm of beloved anime, testing your knowledge across eras in thrillin
+- [App For Kids - Edu games](../games/educational/app-for-kids-edu-games.md) — Unleash your child's potential with App For Kids - Edu games, a delightful fusion of math and word challenges. Featuring
+- [Aquatic Word Search](../games/educational/aquatic-word-search.md) — Find the word in straight line of blocks (Horizontally, vertically or diagonally with any direction), press the block sh
+- [Are You Tom or Jerry?](../games/educational/are-you-tom-or-jerry.md) — Play Are You Tom or Jerry? Game online in your web browser and mobile at Superkidgames.com for free and more html5 games
+- [Arrows Escape](../games/educational/arrows-escape.md) — Welcome to Arrows Escape, a minimalist puzzle game that challenges your logic, planning, and spatial thinking. Your goal
+- [Asian countries capital Quiz (part-1)](../games/educational/asian-countries-capital-quiz-part-1.md) — Find countries flag as soon as possible. Beat the timer and come first in the leaderboard
+- [Asmr Doctor Crazy Hospital](../games/educational/asmr-doctor-crazy-hospital.md) — This is a doctor educational game for girls. Have you ever wanted to be a doctor? If thats a dream youve ever had, our g
+- [Astro Adventure Tour](../games/educational/astro-adventure-tour.md) — Embark on an interplanetary journey in Astro Adventure Tour, where you navigate the cosmos, visiting unique planets and 
+- [AtomLinker](../games/educational/atomlinker.md) — AtomLinker is a fast-paced, chemistry-themed chain-matching puzzle game where your goal is to link three or more identic
+- [Baby Cat Daycare](../games/educational/baby-cat-daycare.md) — Baby Cat Daycare is a super adorable virtual pet care experience where players take care of a cute little kitten. It&rsq
+- [Baby Color Crafts](../games/educational/baby-color-crafts.md) — Let's decorate the crystal ball! Start the machine and fill the crystal ball with sequins. Then put colored stickers on 
+- [Baby Fantastic Rescue Team](../games/educational/baby-fantastic-rescue-team.md) — This is a game for girls about earthquake safety. The game atmosphere has three parts, earthquake, fire, and rescue char
+- [Baby Games For Preschool Kids](../games/educational/baby-games-for-preschool-kids.md) — Baby Games For Preschool Kids is a very cute educational game at yiv.com. This baby games:2+ kids, and toddlers, has 3 p
+- [Baby Good Habits - Learn To Be A Baby](../games/educational/baby-good-habits-learn-to-be-a-baby.md) — What good habits for your kids do you know, moms? Let learn these good habits with your children together. Remember to b
+- [Baby Happy Cleaning](../games/educational/baby-happy-cleaning.md) — The doll is dirty! Let’s help! Can you clean the dirt bike? [Happy Clean], makes tidying up fun and exciting! Follow the
+- [Baby Happy House Cleaning](../games/educational/baby-happy-house-cleaning.md) — The doll is dirty! Let’s help! Can you clean the dirt bike? [Happy Clean], makes tidying up fun and exciting! Follow the
+- [Baby Panda Animal Farm](../games/educational/baby-panda-animal-farm.md) — Baby Panda Animal Farm is a cute farming game where you can learn how to run a farm. In Little Pandatown: My farm, you c
+- [Baby Panda Earthquake Safety](../games/educational/baby-panda-earthquake-safety.md) — This is an educational game designed for children. Do you know what to do when there is an earthquake? Our game will tel
+- [Baby Panda House Design](../games/educational/baby-panda-house-design.md) — In this game, players can experience the joy of building different houses for four adorable animals: Mr. Hippo, Prince O
+- [Baby Panda Hurricane Safety](../games/educational/baby-panda-hurricane-safety.md) — This is an educational game about typhoon safety. When typhoon weather comes, gusty winds can blow down trees and torren
+- [Baby Panda Kids Crafts DIY](../games/educational/baby-panda-kids-crafts-diy.md) — Baby Panda Kids Crafts DIY is a very popular game. Come and make crafts with Baby Panda. You can choose to make cool veh
+- [Baby Panda Kindergarten](../games/educational/baby-panda-kindergarten.md) — Welcome to Baby Panda: My Kindergarten, an enchanting game that offers a delightful and interactive experience for young
+- [Baby Panda Summer Vacation](../games/educational/baby-panda-summer-vacation.md) — Baby Panda Summer Vacation is an interesting educational game. Summer is a season that people love and hate. In summer, 
+- [Baby Piano Children Song](../games/educational/baby-piano-children-song.md) — Do you like playing musical instruments? If you love music, we have just the game for you. This educational game offers 
+- [Baby Piano Children Song](../games/educational/baby-piano-children-song-2.md) — Embark on a musical adventure with Baby Piano Children Song. Choose from five instruments to craft enchanting melodies. 
+- [Baby Preschool Learning - For Toddlers & Preschool](../games/educational/baby-preschool-learning-for-toddlers-preschool.md) — What color is the apple? What does the kitty like to eat? What does the number 1 look like? Do you have answers to them?
+- [Baby Princess Unicorn Mobile Phone](../games/educational/baby-princess-unicorn-mobile-phone.md) — Baby Princess Unicorn Mobile Phone is an educational game. Congratulations, you will have a unicorn-themed mobile phone.
+- [Baby Smartphone](../games/educational/baby-smartphone.md) — This fun educational game is the perfect tool to engage your little one in a world of learning and entertainment! With i
+- [Baby Supermarket](../games/educational/baby-supermarket-2.md) — Help a curious baby navigate the vibrant aisles of a bustling supermarket. Discover diverse foods, learn about packaging
+- [Baby Supermarket For Kids](../games/educational/baby-supermarket-for-kids.md) — Baby Supermarket is a vibrant and educational game designed for young children, offering a fun and interactive virtual s
+- [Baby Supermarket - Fun Shopping](../games/educational/baby-supermarket-fun-shopping.md) — Welcome to the biggest supermarket in the Town! Baby and Mommy Panda have to do the supermarket shopping today! Play tog
+- [Baby Taylor Bed Time - Girl Game](../games/educational/baby-taylor-bed-time-girl-game.md) — It's bedtime! Moon has appeared and stars are shining in the sky. Our lovable Baby Taylor is also sleepy. Get Baby Taylo
+- [Baby Taylor Caring Story Illness](../games/educational/baby-taylor-caring-story-illness.md) — Now baby Taylor is 5 years old, today she seems uncomfortable, let's see what happened and help her, maybe you need to t
+- [Baby Taylor Caring Story Learning](../games/educational/baby-taylor-caring-story-learning.md) — Now the baby is already 8 months, she can learn different life skills. Help her parents to teach her some skills and tak
+- [Baby Taylor Defeats Nightmare - Sweet Dreams](../games/educational/baby-taylor-defeats-nightmare-sweet-dreams.md) — Taylor often has nightmares at night recently, which makes her feel scared and can't sleep well. Taylor's mother is very
+- [Baby Taylor Family Camping - Happy Together](../games/educational/baby-taylor-family-camping-happy-together.md) — I wonder if you want to go somewhere during the holiday! Going for a picnic is a great idea! Now going out of town, into
+- [Baby Taylor Fun Park](../games/educational/baby-taylor-fun-park.md) — Baby Taylor Fun Park is an educational game for young children. In the fascinating game, you will go to the amusement pa
+- [Baby Taylor Hand Doctor](../games/educational/baby-taylor-hand-doctor.md) — There is a beach near Baby Taylor's home. Everyone likes to go to the beach to spend a good holiday, and Taylor is the s
+- [Baby Taylor Learn Seasons](../games/educational/baby-taylor-learn-seasons.md) — It's season learning time for Baby Taylor! Yes, today Taylor will learn about four different seasons in a year through f
+- [Baby Taylor Memory Quest](../games/educational/baby-taylor-memory-quest.md) — Step into a world of cute challenges and brain-boosting fun with Baby Taylor Memory Quest! Join Baby Taylor on an exciti
+- [Baby Taylor Messy Home Cleaning](../games/educational/baby-taylor-messy-home-cleaning.md) — The summer vacation has finally arrived. Our lovely Tyler kid decided to spend the whole hot summer at home, but because
+- [Baby Taylor New Born Story](../games/educational/baby-taylor-new-born-story.md) — Here is the story of Taylors birth. Are you curious about what happened when Taylor was born? This game will take you in
+- [Baby Toy](../games/educational/baby-toy.md) — Funny sounds for babies will entertain your kid while developing their perception and attentiveness. Baby phone games is
+- [Babys Crazy Daycare](../games/educational/babys-crazy-daycare.md) — Newborn babies need so much care. That's why we have made this game to teach lots of baby care activities. In this baby 
+- [Babysitter Madness](../games/educational/babysitter-madness.md) — Do you want to be a babysitter? Let's learn about the babysitter and baby care! Help the babysitter to take care of thes
+- [Balloon Pop Addition 3D Game](../games/educational/balloon-pop-addition-3d-game.md) — This is an addition game which requires user to click on the some that has the lowest value, then increased value and so
+- [Basic Inorganic Chemistry Quiz](../games/educational/basic-inorganic-chemistry-quiz.md) — Challenge your chemistry prowess with this exciting quiz game! Test your inorganic knowledge, identify weak spots, and g
+- [Basic Math](../games/educational/basic-math.md) — Basic Math is the best math game suitable for kids who are starting to learn about basic arithmetic. In this game, they 
+- [Basic Physics Single Choice](../games/educational/basic-physics-single-choice.md) — This is a single-choice correct Physics quiz where each question is knockout and timed. Time over, you lose. Single inco
+- [Batty Math](../games/educational/batty-math.md) — Batty Math is a simple but fun to play puzzle math game. It's called Batty Math because the position of the letters in t
+- [Bear and Shapes](../games/educational/bear-and-shapes.md) — Join two adorable teddy bears on a puzzle-filled journey! Test young minds as they strategically match shapes to build p
+- [Bear Home](../games/educational/bear-home.md) — This is a funny, challenging and an Educational game. In this game you need to count how many bears are going inside the
+- [Beautiful Line](../games/educational/beautiful-line.md) — Encourage fun to learn Maths It is a beautiful app, let you learning how line to form curve. By linking the line to form
+- [Become the Ultimate Quiz Champion](../games/educational/become-the-ultimate-quiz-champion.md) — Conquer the world of trivia and rise to the top in this thrilling quiz experience. Navigate through challenging question
+- [Black Holes](../games/educational/black-holes.md) — In this fast-paced, action-packed game, you control a stone that is being pulled towards a fast-moving galaxy object in 
+- [Blaze Monster Machines Memory](../games/educational/blaze-monster-machines-memory.md) — Blaze Monster Machines Memory is an educational and kids memory game. It is time to test your memory skills! See how man
+- [BlockFit Puzzler](../games/educational/blockfit-puzzler.md) — Step into a world of challenging puzzles and intriguing perspectives with BlockFit Puzzler! Strategically align the bloc
+- [Books With Numbers](../games/educational/books-with-numbers.md) — There are three books and each of it has numbers on it. Look for the number which is not seen to the other, there's one 
+- [Boxing Quiz](../games/educational/boxing-quiz.md) — Knock out your boredom with Boxing Quiz, where your mental agility outshines physical prowess. Test your trivia knowledg
+- [Brain Doctor](../games/educational/brain-doctor.md) — Experience the thrill of brain surgery as you diagnose and treat patients, mapping out complex procedures and ensuring a
+- [Brain Test: IQ Challenge](../games/educational/brain-test-iq-challenge.md) — Brain Training: Logic & Puzzle Games Educational puzzle game for all ages! Improve logical thinking with pattern recogni
+- [Brain Test Tricky Puzzles](../games/educational/brain-test-tricky-puzzles.md) — Brain Test Tricky Puzzles is a fun and smart 2D quiz puzzle game for kids. You have to solve different but simple questi
+- [Brain Trainer Trivia](../games/educational/brain-trainer-trivia.md) — Trivia - Animals, Flags, History, Food What is the top speed of a cheetah? And where did mankind originate? These, and m
+- [Brainrot sahuuur](../games/educational/brainrot-sahuuur.md) — Are you brairot enough to survive this absurd meme quiz? Step into the world of chaotic Italian memes, pure nonsense, an
+- [Build An Island](../games/educational/build-an-island.md) — Educational games for kids in kindergarten are the most popular way to study nowadays and our building games will help t
+- [Bungonoid](../games/educational/bungonoid.md) — Bungonoid is a simple one touch arcade game that is a little like break out and a little like pinball. There are three m
+- [Bus n Ball Jam](../games/educational/bus-n-ball-jam.md) — Bus n Ball Jam is a fun and engaging color puzzle game where every bus, every ball, and every drop counts!
+- [Butterbean Cafe: Letter Drop](../games/educational/butterbean-cafe-letter-drop.md) — Play Butterbean Cafe: Letter Drop game in your web browser for free at Superkidgames.com and more fun games. Letters are
+- [Calculame](../games/educational/calculame.md) — Have fun playing with the numbers. Solve mathematical calculations before your time runs out. -Try to reach the third di
+- [Cat Family Educational Games](../games/educational/cat-family-educational-games.md) — Cat Family Educational Games is specially designed for preschoolers. The happy adventures of kittens emphasize the socia
+- [Cat Family Educational Games - Game For Kids](../games/educational/cat-family-educational-games-game-for-kids.md) — Cat Family Educational Games is a very interesting casual game. Your task is to play games with the Cat family and exper
+- [Cat Stretch 2D](../games/educational/cat-stretch-2d.md) — Cat Stretch is a really simple game where you suppost to help the cat to get into the spot where it has to go to and avo
+- [Chemical FlowTint](../games/educational/chemical-flowtint.md) — Dive into a world where color meets chemistry in FlowTint &mdash; a vibrant puzzle game that challenges both your logic 
+- [Chill Math Addition](../games/educational/chill-math-addition.md) — In this game, a winter image is hidden beneath addition expression tiles. Players must drag and drop the correct number 
+- [Chill Math Averaging](../games/educational/chill-math-averaging.md) — In this game, a winter image is hidden beneath averaging expression tiles. Players must drag and drop the correct number
+- [Chill Math Division](../games/educational/chill-math-division.md) — In this game, a winter image is hidden beneath division expression tiles. Players must drag and drop the correct number 
+- [Chill Math Multiplication](../games/educational/chill-math-multiplication.md) — In this game, a winter image is hidden beneath multiplication expression tiles. Players must drag and drop the correct n
+- [Chill Math Subtraction](../games/educational/chill-math-subtraction.md) — In this game, a winter image is hidden beneath subtraction expression tiles. Players must drag and drop the correct numb
+- [Choo Choo Train for Kids](../games/educational/choo-choo-train-for-kids-2.md) — Choo Choo Train for Kids invites young explorers on a vibrant educational journey. Children enhance their knowledge by c
+- [Christmas Dentist Doctor](../games/educational/christmas-dentist-doctor.md) — Christmas Dentist Doctor is an educational dentist game for kids. Christmas is coming soon. Have you ever thought about 
+- [Christmas Math](../games/educational/christmas-math.md) — This is a casual game in which there are four operations that are calculations from zero or more input values to an outp
+- [Christmas Tree Addition](../games/educational/christmas-tree-addition.md) — Decorate the Christmas tree by creating ornaments with numbers that match the numbers found on the Christmas tree. Click
+- [Circle Word](../games/educational/circle-word.md) — Circle Word is a HTML5 game is a word challenge game that you have to connect all letters to form a word, play from 3 to
+- [Cities Game](../games/educational/cities-game.md) — Cities game is a timeless game that puts your knowledge and vocabulary to the test. Your challenge is simple: name citie
+- [Classic Hangman](../games/educational/classic-hangman.md) — You’ve got five minutes in the subway but you don’t know what you should do to occupy your hands? You like doodles, scra
+- [Clean Ocean](../games/educational/clean-ocean.md) — Clean Ocean With the game, Clean Ocean helps to clean the ocean in a fun way on your phone, tablet, or computer. Game de
+- [Clean Up Kids - Cleaning Game](../games/educational/clean-up-kids-cleaning-game.md) — This game is the best way to learn how to keep your house always tidy and clean. Enjoy this cleaning adventure while hav
+- [Color Maze Puzzle - Fun & Run 3D Game](../games/educational/color-maze-puzzle-fun-run-3d-game.md) — Color maze is a free puzzle game designed and updated continuously for true lovers of maze puzzle!✨
+- [Color Mixed Up](../games/educational/color-mixed-up.md) — Color Mixed Up an educational game to play on! Opps all the word got mixed up! all the words got messy, so make the bloc
+- [Color Patterns](../games/educational/color-patterns.md) — Embark on a vibrant journey with Color Patterns, a delightful puzzle adventure where kids unlock bridges by completing c
+- [Color Stars](../games/educational/color-stars.md) — Color Stars is a beautiful educational puzzle game in which you must match the color of a rotating ball to the balls sur
+- [Color Water Sort](../games/educational/color-water-sort.md) — Just simple control by tapping. Are you smart to complete all challenges? Let's sort the different color liquids into di
+- [Colorindo a Criaçao do Mundo](../games/educational/colorindo-a-cria-ao-do-mundo.md) — Embark on a creative journey through the biblical story of Genesis with Colorindo a Criação do Mundo. Unleash your artis
+- [Colors](../games/educational/colors.md) — Collect all the colored keys. You have to match the color of the key in order to collect it. Mixing primary colors makes
+- [Colors Puzzle](../games/educational/colors-puzzle.md) — Click the bucket filled with the color whose name is falling from the sky before is touch the black danger bucket. Use p
+- [Colors & Shapes - Kids Learn Color and Shape](../games/educational/colors-shapes-kids-learn-color-and-shape.md) — When you look out the window, what do you see? Colors and shapes, green trees, square windows, a whole world of things t
+- [Comparing Numbers? &ndash; Quick Math Game](../games/educational/comparing-numbers-ndash-quick-math-game.md) — Test your math skills in this fun and fast number comparison game! Look at the numbers and decide which one is greater, 
+- [ConfusionsInMath 5 8](../games/educational/confusionsinmath-5-8.md) — Many a times student use numbers in Std. 5-8 and have common confusions over their multiplications resulting in numbers 
+- [Connect The Dots Game](../games/educational/connect-the-dots-game.md) — Educational game designed for number learning and tracing with the help of fun activities along. With each completed pic
+- [Construction Set - 3D Builder](../games/educational/construction-set-3d-builder.md) — Construction Set - 3D Builder is a creative building puzzle game that lets you step into the role of a master builder. Y
+- [Cool Math Games For Kids](../games/educational/cool-math-games-for-kids.md) — This is a free learning game designed to teach children numbers and maths. Our game has 4 modes where you can learn addi
+- [Correct Word](../games/educational/correct-word.md) — Dive into the vibrant world of Correct Word, where playful adventures transform learning into fun. Engage youngsters wit
+- [Count And Compare 2](../games/educational/count-and-compare-2.md) — First Count the items of both pictures then tap the suitable comparison sign.
+- [Count With Two](../games/educational/count-with-two.md) — Embark on a joyful numerical journey with Count With Two! Designed for curious toddlers, this engaging game teaches the 
+- [Country Flag Quiz](../games/educational/country-flag-quiz.md) — This is quiz game where you need to guess the flags of the countries. Learn the flags and the countries in interesting w
+- [Craig of the Creek Learning the Body Online](../games/educational/craig-of-the-creek-learning-the-body-online.md) — Craig of the Creek Learning the Body Online is an engaging educational game that takes young players on an exciting jour
+- [Crazy Math](../games/educational/crazy-math.md) — Crazy Math is one of the most educational math games. Test how quickly you can perform math operations by selecting the 
+- [Crazy Math Game for kids and adults](../games/educational/crazy-math-game-for-kids-and-adults.md) — Crazy Math Game for kids and adults is a funny and challenging math game where you need to calculate math operations ( a
+- [Crazy Math Quick Test](../games/educational/crazy-math-quick-test.md) — Crazy Math Quik Games - Tricky Riddles is an addictive free puzzle &amp; math game with a series of tricky riddles and t
+- [Creative Collage Design](../games/educational/creative-collage-design.md) — You can design all kinds of creative collages: princess dresses made of flower petals, animals made of leaves; you can a
+- [Crossword for Kids](../games/educational/crossword-for-kids-2.md) — Crossword for Kids blends puzzle excitement with learning, challenging young minds to identify unique numbers across thr
+- [Crosswords: Big Collection](../games/educational/crosswords-big-collection.md) — Crosswords: Big Collection is a classic crossword game for anyone who loves to think. You get over 800 levels with more 
+- [Cryptograms: Secret Text](../games/educational/cryptograms-secret-text.md) — Cryptograms: Secret Text - is a puzzle game where you decipher encrypted phrases, gradually uncovering letters and pieci
+- [Cube Quiz](../games/educational/cube-quiz.md) — CubeQuiz is a relaxing 3D spatial-reasoning puzzle. Two sandy voxel blocks fit together when one slides down and the oth
+- [Cute Family Shopping - Fun & Love](../games/educational/cute-family-shopping-fun-love.md) — Cute Family Shopping is a very fun shopping game. Abundant merchandise department stores, attractive supermarket food, l
+- [Cute Kitty Memory Challenge](../games/educational/cute-kitty-memory-challenge.md) — Cute Kitty Memory Challenge is a paw-sitively adorable memory game that will tickle your brain and warm your heart! Desi
+- [Cute Panda Supermarket - Fun Shopping](../games/educational/cute-panda-supermarket-fun-shopping.md) — From now on, you are the manager of the supermarket in baby panda's town! You can run your own supermarket, sell all kin
+- [Cute Shapes](../games/educational/cute-shapes.md) — "Cute Shapes" is an adorable casual observation puzzle for the whole family. Spot the differences among cute shapes with
+- [Dechipher](../games/educational/dechipher.md) — Welcome to the exciting and challenging world of &ldquo;Decipher,&rdquo; a game that will test your ability to decode sy
+- [Decode the Movie Quote](../games/educational/decode-the-movie-quote.md) — Welcome to an exciting game where you guess famous movie quotes one letter at a time! Show your wit and prove you're a t
+- [Decode the Movie Quote](../games/educational/decode-the-movie-quote-2.md) — Welcome to an exciting game where you guess famous movie quotes one letter at a time! Show your wit and prove youre a tr
+- [Decorate My Dream Castle Game](../games/educational/decorate-my-dream-castle-game.md) — The little princess will hold a grand ball in the castle. She is planning to redecorate the castle to prepare for the ba
+- [Delete Puzzle: Erase One Part](../games/educational/delete-puzzle-erase-one-part.md) — Delete Puzzle: Erase One Part definitely is a game that everyone will enjoy. It will test your intelligence and logic sk
+- [Detective Loupe Puzzle](../games/educational/detective-loupe-puzzle.md) — Detective Loupe Puzzle is a thinking point-and-click game where you are a detective whose job is to solve various cases.
+- [Difference Find Master Game](../games/educational/difference-find-master-game.md) — Put your observation skills to the ultimate test with Difference Find Master, a fun and challenging puzzle game where yo
+- [Digital Circus Find The Differences](../games/educational/digital-circus-find-the-differences.md) — Step into the whimsical and wacky world of Amazing Digital Circus: Find The Differences, where fun meets challenge! Expl
+- [Dino Color](../games/educational/dino-color.md) — Dino Color Dino Color is an educational game aimed at children with the aim of combining identical colors in a fun way u
+- [Dinosaur Dig](../games/educational/dinosaur-dig.md) — Set out in search of ancient fossils and experience the work of a paleontologist. Explore different locations, uncover h
+- [Discover Animals](../games/educational/discover-animals.md) — Embark on a vibrant adventure in Discover Animals, where young explorers can enhance their reflexes and recognition skil
+- [Division Bird Image Uncover](../games/educational/division-bird-image-uncover.md) — In this game, a bird image is hidden beneath division expression tiles. Players must drag and drop the correct number bu
+- [Division Math Quiz](../games/educational/division-math-quiz.md) — Challenge your division skills with Division Math Quiz, a dynamic HTML5 game for all ages. Solve timed problems with inc
+- [Doctor Kids](../games/educational/doctor-kids.md) — Children are coming to the clinic and they need your help to get better. Once you appoint the little patients to the rig
+- [Doctor Kids 2 - Doctor Game](../games/educational/doctor-kids-2-doctor-game.md) — Check the respiratory system, fix sore throat problems, get rid of head lice, heal digestive problems, use a head MRI sc
+- [Doctor Kids - Learn To Be A Doctor](../games/educational/doctor-kids-learn-to-be-a-doctor.md) — Welcome to the hospital for children, where medicine meets kindness. You can become the chief of medicine and learn how 
+- [Doctor Pets - Be Vet and Help Animals](../games/educational/doctor-pets-be-vet-and-help-animals.md) — Doctor Pets brings you a great chance to make animals healthy and happy again. Nature is home to a playful motley crew o
+- [Doctor Teeth](../games/educational/doctor-teeth.md) — Experience the thrill of being the dentist in Doctor Teeth! Use exciting tools, master fast-paced mini-games, and drive 
+- [Doctor Teeth 2](../games/educational/doctor-teeth-2.md) — Doctor Teeth 2 is a medical-themed simulation game. Use a variety of different tools to clean up and tend to your patien
+- [Dog Hospital](../games/educational/dog-hospital.md) — Dog Hospital is a very cute caring game. In the game, you play as an experienced vet. There are 4 very cute puppies. The
+- [Doll Dreamhouse Adventure](../games/educational/doll-dreamhouse-adventure.md) — What kind of house do you have in mind? Do you want to own and design your own dolls house? In Doll Dreamhouse Adventure
+- [Domestic Animals Memory](../games/educational/domestic-animals-memory.md) — Domestic Animals Memory is a free online game from genre of memory and animals games. Match all identical cards before t
+- [Dot to Shape!](../games/educational/dot-to-shape.md) — Connect the dots, unveil cute animals, and enjoy a delightful surprise with each completed shape. Dot to Shape! combines
+- [Drag n Drop Games Color Match](../games/educational/drag-n-drop-games-color-match.md) — Welcome to Color Match!, the ultimate interactive learning experience for children! This game is designed to help young 
+- [Dragon ball quiz](../games/educational/dragon-ball-quiz.md) — Test your knowledge of the Dragon Ball universe with Dragon Ball Quiz Master! Dive into a series of challenging question
+- [Dragon Ball Trivia Showdown](../games/educational/dragon-ball-trivia-showdown.md) — Test your knowledge of the Dragon Ball universe with Dragon Ball Quiz Master! Dive into a series of challenging question
+- [Draw Cute Animals](../games/educational/draw-cute-animals-2.md) — Embark on a delightful creative journey with "Draw Cute Animals," where young artists draw and color a charming menageri
+- [Draw Half](../games/educational/draw-half.md) — Draw half is a fun and satisfying game which makes you happy and enjoyable reduces stress vast varieties of drawing and 
+- [Drum For Kids](../games/educational/drum-for-kids.md) — It's the classic kid version of the Drums! It's a great app for your little one! Enjoy!
+- [Drum for Kids](../games/educational/drum-for-kids-2.md) — Dive into musical fun with Drum for Kids! This vibrant drumming game effortlessly blends play with learning. Young playe
+- [Easiest Maths](../games/educational/easiest-maths.md) — Learn. Play. Win! Easiest Maths is a bright and playful math quiz game made especially for kids up to 10 years old. It h
+- [Eco Block Puzzle](../games/educational/eco-block-puzzle.md) — Discover the intriguing realm of Eco Block Puzzle, where strategy and environmental healing converge. Solve complex puzz
+- [Educational Games Kids](../games/educational/educational-games-kids.md) — Fun & educational toddler learning games that help pre-k kids to learn easily. These kids' games include connecting the 
+- [Emma Physical Examination](../games/educational/emma-physical-examination.md) — Let's make our princess comfortable when she gets the eye and ear checkup. She needs complete ear wash cleaning and eye 
+- [Emoji Couple Puzzle](../games/educational/emoji-couple-puzzle.md) — Embark on a delightful puzzle-solving adventure with Emoji Couple Sliding Puzzle! This charming game combines the excite
+- [Emoji Guess](../games/educational/emoji-guess.md) — Show off your skills as an emoji interpreter in this supremely fun and frenetic puzzle game where you have to pick the r
+- [Emoji Matching  Puzzle](../games/educational/emoji-matching-puzzle.md) — Welcome to the Emoji Matching Puzzle. It is a new educational puzzle game for kids. Draw a line from the left side block
+- [Emoji Math Quiz](../games/educational/emoji-math-quiz.md) — Embark on a brain-teasing adventure with Emoji Math, the game that blends math puzzles with emoji fun! Challenge yoursel
+- [Emoji Skill Puzzles](../games/educational/emoji-skill-puzzles.md) — Emoji Skill Puzzles is an engaging skill game. Featuring levels constructed entirely with popular emojis. The game offer
+- [English Grammar Jul Quiz](../games/educational/english-grammar-jul-quiz.md) — English Grammar Jul Quiz is a fun quiz game with 3 difficulties and a score system.
+- [EraMind](../games/educational/eramind.md) — EraMind is a fast-paced history quiz game that challenges your knowledge across time. From ancient civilizations to mode
+- [Excellent Pet Groomer](../games/educational/excellent-pet-groomer.md) — You own a pet store and the most important business is pet grooming. One day a girl come in with her pets. The dog and c
+- [EXIT](../games/educational/exit.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Fairy Land Rescue](../games/educational/fairy-land-rescue.md) — Fairy Land Rescue is a creative and fantasy educational game. Winter Queen loves to cause trouble.This time, she turned 
+- [Falling Balls](../games/educational/falling-balls-2.md) — Guide a cascade of colorful, bouncing balls through dynamic 2.5D puzzles by carving pathways with precision. Strategical
+- [Farm House - Farming Games for Kids](../games/educational/farm-house-farming-games-for-kids.md) — Farm House is the best village farming and town-building game. The farmhouse is a classic simulation game, as a farmer, 
+- [Farm Land And Harvest - Farming Life Game](../games/educational/farm-land-and-harvest-farming-life-game.md) — Do you know where does flour come from? Do you know what farmers do to grow and harvest wheat? In this game, you will le
+- [Farm of Words](../games/educational/farm-of-words.md) — Farm of Words is a fun and relaxing word game in a wordcross style format made for the smartest brains! This game is a c
+- [Farm Shadow Match](../games/educational/farm-shadow-match.md) — This is an educational and fun game which enhances both finding and matching skills. This game creates fun of both hidde
+- [Fast Math Quiz](../games/educational/fast-math-quiz.md) — Fast Math Quiz offers a colorful journey into the world of numbers, challenging players with fun arithmetic puzzles. Com
+- [Find 7 Differences](../games/educational/find-7-differences.md) — “Find Seven Differences” is a great game to help children improve their abilities and speed in solving problems. There a
+- [Find Fruits Names](../games/educational/find-fruits-names.md) — This is an educational word puzzle game where you need to identify the name of fruit- image given in right panel and fin
+- [Find Number Biggest and Smallest](../games/educational/find-number-biggest-and-smallest.md) — Find Biggest and Smallest Number is a fun and fast brain puzzle game. Look at the numbers on the screen and quickly tap 
+- [Find On Earth](../games/educational/find-on-earth.md) — An exciting trivia game awaits you in the Find On Earth game. A multitude of questions, answers, characters, and surpris
+- [Find Out The Criminal - Detective Masters](../games/educational/find-out-the-criminal-detective-masters.md) — If you like to play detective games, you can't miss Find Out The Criminal, an addictive detective casual puzzle game. Th
+- [Find The Color](../games/educational/find-the-color-2.md) — Dive into colorful adventures with Find The Color, an engaging game designed to sharpen young minds. Match vibrant objec
+- [Find the Colors](../games/educational/find-the-colors.md) — Embark on a vibrant challenge with Find the Colors! Sharpen your reflexes and keen eye to identify subtly different hues
+- [Find The  Correct Shadow](../games/educational/find-the-correct-shadow.md) — Find The Correct Shadow is a fun and educational puzzle game designed to challenge your visual skills! In each round, yo
+- [Find The Differences - Spot Them All](../games/educational/find-the-differences-spot-them-all.md) — Find-The-Differences is an interesting puzzle game. You need to seek the differences between the two pictures. It needs 
+- [Find The Lost Letter](../games/educational/find-the-lost-letter-2.md) — Embark on a playful educational journey in Find The Lost Letter. Engage young minds by matching letters to images, enhan
+- [Find the Missing Letter](../games/educational/find-the-missing-letter-2.md) — Find the Missing Letter is a delightful game for kids that enhances letter recognition. Players pick and drag the correc
+- [Find the Missing Number](../games/educational/find-the-missing-number.md) — Find the Missing Number is a fun and educational math puzzle game. Look at the number sequence and identify the missing 
+- [Find The Missing Part](../games/educational/find-the-missing-part.md) — With 100 levels of increasingly challenging puzzles, this game will put your observation skills to the test like never b
+- [Find The Missing Part](../games/educational/find-the-missing-part-2.md) — Immerse yourself in "Find The Missing Part," a fast-paced puzzle quest that sharpens your observation skills. Spot hidde
+- [Find the Odd](../games/educational/find-the-odd.md) — It is a colorful puzzle game, in which you need to find 1 different item from a group of 4 items. To find accurate diffe
+- [Find The Odd One](../games/educational/find-the-odd-one-2.md) — Ignite young minds with Find The Odd One, where kids delve into visually vivid puzzles to detect the standout item. As c
+- [Find the shadow](../games/educational/find-the-shadow.md) — Hone your observational skills with "Find the Shadow," where players match images to their true silhouettes. With vibran
+- [FIND THE WORDS](../games/educational/find-the-words.md) — FIND THE WORD in a straight line of blocks (horizontally, vertically or diagonally with any direction), press the block 
+- [Flag Learn](../games/educational/flag-learn.md) — Flag Learn is a geography quiz game that helps you truly memorize every flag, capital, and US state — not just guess the
+- [Flag Master](../games/educational/flag-master.md) — Flag Master invites you to an exciting quest of flag identification, merging fun with learning. Test your geography prow
+- [Flag Puzzle Jam: Collect Flags](../games/educational/flag-puzzle-jam-collect-flags.md) — Explore the intriguing realm of Flag Puzzle Jam, where puzzle-solving and flag collection unite. This engaging and free 
+- [Foot Doctor - Surgery Game For Kids](../games/educational/foot-doctor-surgery-game-for-kids.md) — Help! Doctor, I hurt my feet, ouch! It is so painful! Could you please help me to cure my feet? I know you have the best
+- [Free Educational Games](../games/educational/free-educational-games.md) — Learning is joyful with Khan Academy Kids! Our award-winning app includes thousands of educational activities, books, so
+- [Free Educational Games - Reading & Math](../games/educational/free-educational-games-reading-math.md) — Are you tired of educating your child? This game will release your hand. You could just lie on the sofa. There are kinds
+- [Fridge Master 3D](../games/educational/fridge-master-3d.md) — Are you a master of space organization? There's a whole lot of food and drink in here, but even more stuff will fit if y
+- [FrogHouse](../games/educational/froghouse.md) — This is just a drag and drop game about the frog house! Grab items and have fun! Many items 4 rooms Funny sounds
+- [Frozen Learning The Body Online](../games/educational/frozen-learning-the-body-online.md) — Frozen Learning The Body Online is an innovative, interactive, and engaging educational game that takes learning about t
+- [Fruit Monster](../games/educational/fruit-monster.md) — Fruit Monster game for kids. With the Fruit Monster game, learn the name of various fruits in a fun way on your phone, t
+- [Fruit Names](../games/educational/fruit-names.md) — Fruit Names Fruit Names is an educational game aimed at children where you will learn the different fruits and their nam
+- [Fruit Picking Fun Game](../games/educational/fruit-picking-fun-game.md) — Welcome to Fruit Picking Fun, a delightful and engaging game for all ages! Dive into the vibrant world of a lush orchard
+- [Fruit Sort Puzzle - Color Puzzle](../games/educational/fruit-sort-puzzle-color-puzzle.md) — What flavor of candy cane do you like to eat? Come and join Fruit Sort Puzzle to make your own candy cane to suit your t
+- [Fruits and Vegetables](../games/educational/fruits-and-vegetables.md) — Fruits and Vegetables With the Fruits and Vegetables game you learn the quantities in a fun way from your phone, tablet 
+- [Fruits Equations](../games/educational/fruits-equations.md) — Fruits Equations is a math puzzle game. In this game you need to find the values of some fruits by solving given equatio
+- [Fruits Scramble](../games/educational/fruits-scramble.md) — This is a photo word scramble game with fruits theme. In this game first try to find the name of fruit using scramble le
+- [Fruity Quiz Extravaganza](../games/educational/fruity-quiz-extravaganza.md) — Embark on a fruity adventure with Fruity Quiz Extravaganza, where vibrant visuals and tantalizing trivia await. Sharpen 
+- [Fun Farm for Kids](../games/educational/fun-farm-for-kids-2.md) — Step into a charming farm world and explore with adorable animal friends. Simple touch and click mechanics bring delight
+- [Fun Learning For Kids](../games/educational/fun-learning-for-kids.md) — This education game is suitable for the toddlers and kids. It helps improve their awareness of shapes and surrounding th
+- [Fun With Flags - Ultimate Quiz Game](../games/educational/fun-with-flags-ultimate-quiz-game.md) — Fun With Flags – Quiz Game is the ultimate challenge for players who love geography, trivia, and brain-teasing fun! Test
+- [Funny Quiz](../games/educational/funny-quiz.md) — Dive into the vibrant world of Funny Quiz, where quick thinking meets colorful fun. Challenge your instincts in a race a
+- [Galaxy Tour](../games/educational/galaxy-tour.md) — Embark on an exciting cosmic adventure in Galaxy Tour! This educational game brings our solar system to life with intera
+- [GasSpark](../games/educational/gasspark.md) — Welcome to GasSpark, the high-pressure arcade reaction game where every barrel is a ticking time-bomb of volatile gas! Y
+- [Gem Fusion](../games/educational/gem-fusion.md) — Solve the puzzle blocks by set their position to the right one Game starts with a girl named Lily, a puzzle loving girl.
+- [Geo Champs](../games/educational/geo-champs.md) — Get ready to shape up with Geo Champs! Designed for young learners aged 5 to 8, this fun and educational game helps kids
+- [Geo Champs](../games/educational/geo-champs-2.md) — Jump into the vibrant world of Geo Champs, where young explorers master geometric shapes through playful adventures. Wit
+- [Geography Quiz](../games/educational/geography-quiz.md) — Immerse yourself in Geography Quiz, an educational trivia adventure through the wonders of our world. Challenge your kno
+- [Geography Quiz - Countries Flag Capitals](../games/educational/geography-quiz-countries-flag-capitals.md) — Embark on a global challenge with our geography quiz, testing your knowledge of flags, capitals, and countries. Expand y
+- [Geography Quiz countries flags capitals](../games/educational/geography-quiz-countries-flags-capitals.md) — We invite you to embark on an unforgettable adventure around the world with our unique geography quiz. Here you can demo
+- [Geography QUIZ Game](../games/educational/geography-quiz-game.md) — Test your geography knowledge in this fun and educational quiz game designed for kids and youth. Navigate through 50 eng
+- [Geometry Quiz](../games/educational/geometry-quiz.md) — Check your geometric skills by answering interesting questions. You will get 4 options for each question. Answering corr
+- [GeoSmarty](../games/educational/geosmarty.md) — GeoSmarty &ndash; Fun Geography Quiz for Kids! Get ready to explore the world with GeoSmarty, an exciting geography quiz
+- [GeoVex - Daily Geography Challenge](../games/educational/geovex-daily-geography-challenge.md) — The daily map challenge for flag and geography nerds.
+- [Get the Word!](../games/educational/get-the-word.md) — Test your linguistic skills and strategic prowess in Get the Word! Decipher hidden words with just six attempts. With ea
+- [Girls Pajama Party](../games/educational/girls-pajama-party.md) — Hey girls! Get ready to host the most amazing pajama party ever with Girls Pajama Party, a super fun casual simulation g
+- [Goal the Answer](../games/educational/goal-the-answer.md) — Use your brain and your aim! Solve tricky math problems and kick the ball into the goal with the correct answer. Learn, 
+- [Good Habits](../games/educational/good-habits.md) — Empower kids to learn good daily habits through engaging tasks! Shop, learn, and share progress. Good Habits: Fun Learni
+- [Good Habits](../games/educational/good-habits-2.md) — Step into an enchanting world where learning meets fun in Good Habits. Through engaging tasks and customizable character
+- [Graphing Puzzle Halloween](../games/educational/graphing-puzzle-halloween.md) — Plot the points on the coordinate grid in this Halloween mystery picture game. Choose to plot coordinate pairs in either
+- [Guess Animal Names](../games/educational/guess-animal-names.md) — This is an educational word puzzle game where you need to identify the name of animal- image given in right panel and fi
+- [Guess Monster Voice](../games/educational/guess-monster-voice.md) — Get ready for a thrilling sound-based challenge with "Guess Monster Voice." In this exciting online game, you’ll identif
+- [Guess The Days](../games/educational/guess-the-days-2.md) — Dive into a vibrant world with Guess The Days, a delightful game where young learners master the days of the week. Throu
+- [Guess The Flag Quiz](../games/educational/guess-the-flag-quiz.md) — Guess The Flag Quiz is a great option if you are looking for some trivia games for free. Discover the world and learn ge
+- [Guess The Flags](../games/educational/guess-the-flags.md) — Embark on a thrilling journey around the globe with Guess The Flag &ndash; the ultimate test of your knowledge about fla
+- [Guess The Fruit World Quiz](../games/educational/guess-the-fruit-world-quiz.md) — Welcome to Guess The Fruit World Quiz, the vibrant and juicy picture trivia game that challenges you to identify fruits 
+- [Guess the Myth](../games/educational/guess-the-myth.md) — Dive into the captivating world of Guess the Myth, where you unravel the names of mythical creatures using given letters
+- [Guess the Quiz - Emoji IQ Games](../games/educational/guess-the-quiz-emoji-iq-games.md) — Dive into the ultimate emoji quiz adventure, where solving puzzles, identifying flags, and decoding logos create endless
+- [Guess the Song](../games/educational/guess-the-song.md) — The song quiz full of free music
+- [Guess The Song - Music Quiz](../games/educational/guess-the-song-music-quiz.md) — The song quiz full of free music
+- [Guess the Word](../games/educational/guess-the-word.md) — Guess the Word is a fun game where you have six chances to guess a randomly selected word. Each time you guess, you’re t
+- [Guess Words Fast](../games/educational/guess-words-fast.md) — Guess Words Fast challenges players to swiftly decipher words from clues provided. In this high-paced game, players race
+- [Halloween Games for Kids](../games/educational/halloween-games-for-kids.md) — Dive into Halloween Games for Kids, where spooky meets educational. Enjoy an enchanting blend of puzzles, word games, an
+- [Halloween Hangman](../games/educational/halloween-hangman.md) — Halloween Hangman is an educational and casual game that has the function of stimulating people's memories. Discover wor
+- [Halloween Hide & Seek](../games/educational/halloween-hide-seek.md) — Do you like Hide and seek game? Wowescape.com has brought you a new escape game called Halloween hide and seek, in this 
+- [Halloween Tom Math Challenge](../games/educational/halloween-tom-math-challenge.md) — Halloween Tom Math Challenge is a super fun and completely free math game that lets you test your quick-thinking and bas
+- [Hand Doctor - Surgery Game For Kids](../games/educational/hand-doctor-surgery-game-for-kids.md) — Hey, do you want to become a hand doctor? Wearing a stethoscope and looking professional? Then this hand doctor game is 
+- [Hangman 2-4 Players](../games/educational/hangman-2-4-players.md) — The legend game which you play on papers, Hangman is on web now! Over and above you don't have to play against the PC, y
+- [Hangman Challenge 2](../games/educational/hangman-challenge-2.md) — Hangman Challenge 2 challenges you and you need to win, and to do this, guess the words, targets or letters and do not l
+- [Hangman Game](../games/educational/hangman-game.md) — “Hangman Game” is an educational and casual game that has the function of stimulating people’s memories. Try to find the
+- [Hangman Saga](../games/educational/hangman-saga.md) — Enjoy endless word-guessing fun with Hangman Saga! With thousands of levels, each word comes with a helpful category hin
+- [Happy Doctor Mania - Doctor Game](../games/educational/happy-doctor-mania-doctor-game.md) — The doctorate is the most enviable profession in the world. Do you want to be a qualified doctor? Our lovely young docto
+- [Happy Farm For Kids](../games/educational/happy-farm-for-kids.md) — Designed especially for toddlers 1.5 to 5 years, this exciting and educational game will teach your kids the names of fa
+- [Happy Four Seasons](../games/educational/happy-four-seasons.md) — Embark on a delightful journey through the seasons with Happy Four Seasons. Designed for young minds, explore vibrant mi
+- [Hello Kitty Educational Games](../games/educational/hello-kitty-educational-games.md) — Enjoy presents Hello Kitty Educational Games! Help Hello Kitty to complete a lot of activities and boost your creativity
+- [Hero Wars Rescue](../games/educational/hero-wars-rescue.md) — Hero Wars Rescue is an arcade simulator puzzle about the knight who saves beautiful princesses, defeats evil orсs and fi
+- [Hexa Word](../games/educational/hexa-word-2.md) — Hexa Word is a skill game where you have to create words using letters from the hexa size, challenge yourself by tapping
+- [Hidden Totals](../games/educational/hidden-totals.md) — Hidden Totals is a fun and engaging counting game where you test your observation skills by finding how many times a spe
+- [High School Teacher Games Life](../games/educational/high-school-teacher-games-life.md) — Welcome to the High School Teacher Games Life, where you can experience the real life of a high school teacher. Unlike t
+- [Hippo Christmas Calendar](../games/educational/hippo-christmas-calendar.md) — Christmas is the most awaited holiday. Everyone looks forward to the holidays. The Hippo Christmas Calendar was created 
+- [Hippo Dentist - Animal Dental Clinic](../games/educational/hippo-dentist-animal-dental-clinic.md) — The hippo's dental office is crowded. Piglet, Puppy, and Lion cub all have a toothache! So they gather at Hippo's dental
+- [Hippo Family Airport Adventure](../games/educational/hippo-family-airport-adventure.md) — Hippo Family Airport Adventure is a very lovely educational game. Hippo's Dad bought a lottery and let's check what he w
+- [Hippo Good Morning](../games/educational/hippo-good-morning.md) — This is an educational game designed for kids. Each citizen has his interesting tasks in the morning. We will bush our t
+- [hyper casual puzzle games](../games/educational/hyper-casual-puzzle-games.md) — hyper casual puzzle games is a Free casual Ring Toss game. It is also a fun game to kill time! It's exciting and it reli
+- [HypeTest - Minecraft fan test](../games/educational/hypetest-minecraft-fan-test.md) — Prove that you are not a noob in the fan minecraft game. These are applications for testing the knowledge of real minecr
+- [Icon Epic Quiz](../games/educational/icon-epic-quiz.md) — Unleash your inner detective with Icon Epic Quiz, a captivating game of visual puzzles. Guess the iconic logos, characte
+- [Image Quiz](../games/educational/image-quiz.md) — Challenge your mind with Image Quiz, a captivating game where players identify over 100 vibrant images across varied cat
+- [Image To Word Match](../games/educational/image-to-word-match-2.md) — Dive into Image To Word Match, where kids and families bond over matching pictures with words. Enjoy a playful learning 
+- [Incredible Kids Dentist](../games/educational/incredible-kids-dentist.md) — This is a dentist game for kids. Have you ever wanted to be a dentist? If this was your dream before, you should not mis
+- [Incredible Kids Dentist](../games/educational/incredible-kids-dentist-2.md) — Embark on an engaging dental adventure in Incredible Kids Dentist, where young players become dentists in a vibrant hosp
+- [Infrared Escape](../games/educational/infrared-escape.md) — EarthGames is proud to announce Infrared Escape, a game that combines frantic arcade fun with... learning about the gree
+- [Insane Math Game](../games/educational/insane-math-game.md) — Insane Math Game How good are your math skills? You only have 20 seconds to solve each math equation. The equations get 
+- [It&#x27;s Story Time!](../games/educational/it-x27-s-story-time.md) — It&#x27;s Story Time is a puzzle game developed by Sakkat Studio that will challenge your problem-solving skills. The ga
+- [Italian Brainrot Guess Who](../games/educational/italian-brainrot-guess-who.md) — Welcome to the Italian Brainrot Guess Who quiz game with the characters from Strange Animals! Choose your difficulty and
+- [Italian Brainrot Quiz &mdash; Meme Mastery](../games/educational/italian-brainrot-quiz-mdash-meme-mastery.md) — Test your knowledge of the wildest Italian brainrot memes! Guess the correct answers, recognize absurd characters, and s
+- [Italian Brainrot tung Tung Quiz](../games/educational/italian-brainrot-tung-tung-quiz-2.md) — Dive into Italian Brainrot's zany quiz chaos, where each bizarre name demands the correct character match! With hand-cra
+- [Jenny's Math Puzzle](../games/educational/jenny-s-math-puzzle.md) — "Jenny's Math Puzzle" is an engaging educational puzzle game that combines math challenges with interactive gameplay. Pl
+- [Jewel Match Puzzle](../games/educational/jewel-match-puzzle.md) — Explore a World of Jewels and Adventure Step into a sparkling journey through deserts, glaciers, and beyond. Jewel Match
+- [Jump Over Alphabets](../games/educational/jump-over-alphabets.md) — Jump into learning with Jump Over Alphabets! Leap across the open sky, landing on clouds labeled with letters in order. 
+- [Jump Over Alphabets](../games/educational/jump-over-alphabets-2.md) — Embark on a sky-high adventure with Jump Over Alphabets! Leap across cloud formations, mastering the alphabet sequence w
+- [Jungle Doctor](../games/educational/jungle-doctor.md) — The jungle is a perilous place, full of unknown viruses and undiscovered species. Many animals living in the wilderness 
+- [Jungle Math Online Game](../games/educational/jungle-math-online-game.md) — A Jungle Math Online Game is a game that lets players explore and learn jungle math concepts. The game is designed to pr
+- [Just Draw](../games/educational/just-draw.md) — Just Draw is an interesting educational painting game. It is very useful to open kids' minds. Just draw the lost part of
+- [Kid Puzzle ABCD](../games/educational/kid-puzzle-abcd.md) — This free Super ABC puzzle game teaches alphabets in an interesting and fun way to kids and toddler! Kids learn to read 
+- [Kids Airport Adventure Game](../games/educational/kids-airport-adventure-game.md) — Hippo family are going to travel all over the World. They arrive at the aiport and have no idea about the places to go. 
+- [Kids Alphabet](../games/educational/kids-alphabet.md) — Educational Game, Specifically Made for Children! Introducing &ldquo;Kids Alphabet&rdquo;, the latest educational game d
+- [Kids Alphabet](../games/educational/kids-alphabet-2.md) — Kids Alphabet invites little learners on a colorful educational journey. With engaging sounds and visuals, kids trace an
+- [Kids Anatomy](../games/educational/kids-anatomy.md) — Discover body parts! fun anatomy learning game for kids with puzzles, quizzes, and facts. Unveil the wonders of the huma
+- [Kids Anatomy](../games/educational/kids-anatomy-2.md) — Dive into a vibrant exploration of the human body with Kids Anatomy! Tailored for young minds, this engaging game blends
+- [Kids Animal Farming](../games/educational/kids-animal-farming.md) — Kids Animal Farm is an educational game. I believe you must have dreamed of owning a farm, producing fresh food, and car
+- [Kids Camping 2](../games/educational/kids-camping-2.md) — Kids camping is an educational game. In this game, you will help the little bear family to complete the camping successf
+- [Kids Dentist Asmr Salon](../games/educational/kids-dentist-asmr-salon.md) — Do you like dentist games? Or do you dream of opening a dental clinic? Then you will enjoy playing this educational doct
+- [Kids Dentist Games](../games/educational/kids-dentist-games.md) — Kids Dentist Games is a cute dentist game. In the game, you play as an experienced dentist. You need to rescue the chara
+- [Kids Education](../games/educational/kids-education.md) — Kids Education is game that aims to educate kids in a funny way without them getting bored or feel like they are studyin
+- [Kids Educations ABC](../games/educational/kids-educations-abc.md) — Dive into a world of fun and learning with Kids Educations ABC! This vibrant app transforms English education into excit
+- [Kids Flurry Educational Puzzle Game](../games/educational/kids-flurry-educational-puzzle-game.md) — Kids Flurry Puzzle is an educational game that challenges children to use their logical thinking skills. The pieces are 
+- [Kids Flurry Educational Puzzle Game](../games/educational/kids-flurry-educational-puzzle-game-2.md) — Embark on a detective adventure with Kids Flurry Educational Puzzle, uncovering hidden animals in intricate patterns. Sh
+- [Kids Forest Dentist](../games/educational/kids-forest-dentist.md) — Kids Forest Dentist is a very cute game. Mr. Owl opened a dental clinic. And he treats many animals in the forest every 
+- [Kids Fun Birthday Party](../games/educational/kids-fun-birthday-party.md) — Kids Fun Birthday Party is an educational game that exercises your imagination. This game has a birthday party theme and
+- [Kids Geometry](../games/educational/kids-geometry.md) — Description: Kids Geometry is an educational game designed to help children learn and recognize various geometric shapes
+- [Kids Geometry Game](../games/educational/kids-geometry-game.md) — Embark on an animated geometric adventure with Kids Geometry Game, where children seamlessly blend learning and play. Na
+- [Kids Good Habits](../games/educational/kids-good-habits.md) — Kids Good Habits is a lovely educational game. This game has beautiful graphics and animations, as well as very detailed
+- [Kids Guitar Music Time](../games/educational/kids-guitar-music-time.md) — Kids Guitar Music Time is a delightful and free online game designed especially for kids! Enjoy playing the guitar, cust
+- [Kids Hangman](../games/educational/kids-hangman.md) — Hangman Game is an educational and casual game that has the function of stimulating people's memories. Try to find the h
+- [Kids Home Cleanup](../games/educational/kids-home-cleanup.md) — Kids home cleanup is an educational game. In this game, you can experience cleaning the rooms in Hippos house. Not only 
+- [Kids Instruments](../games/educational/kids-instruments.md) — Kids Instruments is a very fun game! This game is designed for children, in which there is music from 4 instruments. In 
+- [Kids Learn Professions Puzzle](../games/educational/kids-learn-professions-puzzle.md) — Kids Learn Professions is a very popular educational game. This game contains lots of minigames for you to have fun. And
+- [Kids Math   Easy](../games/educational/kids-math-easy.md) — Kids Math - Easy is a math quiz with numbers involved are 0-3 only. This is a rapid quiz designed for children &lt; 10 y
+- [Kids Math Online](../games/educational/kids-math-online.md) — Kids Math Online is a Educational game that offers a variety of free online math games for kids of all ages. The games a
+- [Kids Math Quiz](../games/educational/kids-math-quiz.md) — Dive into Kids Math Quiz, where learning meets fun! Tackle a series of timed arithmetic challenges designed to sharpen y
+- [Kids Pet Hotel](../games/educational/kids-pet-hotel.md) — Welcome to Kids Pet Hotel &ndash; the addictive and delightful mobile game that allows you to experience the joy of runn
+- [Kids Quiz](../games/educational/kids-quiz.md) — Kids Quiz is an interactive learning game designed to help children learn various subjects like math, flags, currencies,
+- [Kill Shot Zombie: Blast Them All](../games/educational/kill-shot-zombie-blast-them-all.md) — Zombie buster is an action shooting game. Not a shooting game , but Blasting the zombies game. Don't forget to load up y
+- [Kindergarten School Teacher](../games/educational/kindergarten-school-teacher.md) — You are welcome to the kindergarten school teacher online game an original childrens studying game with all-in-one educa
+- [Kitten's Way Home: Word Associations](../games/educational/kitten-s-way-home-word-associations.md) — Looking for a game for the evening? A puzzle that brings people together! Play against a friend on one screen or against
+- [Kitty Love Story](../games/educational/kitty-love-story.md) — Kitty's love is very strong. And as normal lovers, they never want to be separated. But unfortunately, they left each ot
+- [Kitty Scramble Stack Word](../games/educational/kitty-scramble-stack-word.md) — Move through the levels with a cute cat who has prepared a lot of surprises for you. Transform your cat into a real poly
+- [Lafufu Typer](../games/educational/lafufu-typer-2.md) — Unleash your typing prowess in Lafufu Typer! Fend off mischievous Lafufus by quickly typing their letters before they br
+- [Large Medium Small](../games/educational/large-medium-small.md) — Large Medium Small it is a very fun game for children. Your objective is to place the objects in the wagons, large, medi
+- [Learn Maths MCQs](../games/educational/learn-maths-mcqs.md) — Learn Maths MCQs is a captivating educational game designed to help you master essential math concepts in a fun and inte
+- [Learn The Alphabet](../games/educational/learn-the-alphabet.md) — Embark on an enchanting alphabet adventure with Learn The Alphabet. This interactive game transforms language learning i
+- [Learning English: Word Connect](../games/educational/learning-english-word-connect.md) — This is a fun and challenging game for reviewing your vocabulary. Tap and drag to form the correct words (all the words 
+- [Learning Farm Animals: Educational Games For Kids](../games/educational/learning-farm-animals-educational-games-for-kids.md) — Farm animals are cute, happy and funny! Our interactive educational games for kids kindergarten are creative and help ch
+- [Learning Farm Animals Games For Kids](../games/educational/learning-farm-animals-games-for-kids.md) — Train your farming skills in different sections of your farm: animal caring, farming, Greenhouse, fun with play. Trade f
+- [Learning Letters and Words](../games/educational/learning-letters-and-words.md) — Embark on a vibrant learning adventure with "Learning Letters and Words." Designed for young minds, this game merges enc
+- [Lets Pop It](../games/educational/lets-pop-it.md) — Pop It Fidget Ball! Lets Pop the poppers, sensory Play game for ADHD &amp; Autism Lets pop the poppers for stress &amp; 
+- [Letter Match Words](../games/educational/letter-match-words.md) — Dive into a world of fun challenges where visual clues and scattered letters collide. Perfect your vocabulary by deciphe
+- [Letterland Lollipops](../games/educational/letterland-lollipops-2.md) — Embark on a delightful journey in Letterland Lollipops, where fun meets education. Pair lollipop letters to score points
+- [Letters Dash](../games/educational/letters-dash.md) — Brace yourself for a typing frenzy in Letters Dash, where rockets rain from the sky carrying crucial letters. Match them
+- [Letters Memory](../games/educational/letters-memory.md) — Unlock vibrant challenges in Letters Memory, where fun and learning unite! Match hidden letters to boost your memory whi
+- [Life of a Tree](../games/educational/life-of-a-tree-2.md) — Embrace the tranquil journey of nurturing nature in Life of a Tree. Plant seeds, tend to saplings, and guide them to maj
+- [Linking Puzzles](../games/educational/linking-puzzles.md) — Draw lines to connect numbers in ascending order. Don't let the lines overlap on other lines, numbers, other objects and
+- [Little Lovely Dentist - Fun & Educational](../games/educational/little-lovely-dentist-fun-educational.md) — Lots of people want to be great dentists. Is that your dream? Now you get a chance to treat those poor patients at the c
+- [Little Panda Math Genius Game For Kids eduction](../games/educational/little-panda-math-genius-game-for-kids-eduction.md) — Crazy Math Game for kids and adults is a funny and challenging math game where you need to calculate math operations ( a
+- [Little Panda Truck Team - Build The City](../games/educational/little-panda-truck-team-build-the-city.md) — Little Panda's truck Team is a very addictive game. In this game, you need to help the truck team build the railway stat
+- [Little Princess Magical Tale](../games/educational/little-princess-magical-tale.md) — Looking for princess games for girls? Let's play kids' games for girls 5 to 7 years old and older! Become a part of a fa
+- [Lofys   Numbers](../games/educational/lofys-numbers.md) — Lofys - Numbers is an educational game for children with more than 40 exercises aimed at teaching the names of numbers, 
+- [Logic Vault](../games/educational/logic-vault.md) — Welcome to Logic Vault, the ultimate cognitive test designed to challenge your wit and deduction across a vast range of 
+- [Logo Quiz Master](../games/educational/logo-quiz-master.md) — Test your knowledge and challenge your brain with Logo Quiz Master, the ultimate trivia game for logo enthusiasts! Dive 
+- [Lovely Dog Daycare](../games/educational/lovely-dog-daycare.md) — This is an educational pet care game. If you love caring for puppies, then this game is for you.You can feed your puppy 
+- [Lovely Virtual Cat](../games/educational/lovely-virtual-cat.md) — Meet Bubbu, your new virtual pet cat. He is a cute, emotional, and adorable cat who loves to eat tasty food, take selfie
+- [Lowercase Loops](../games/educational/lowercase-loops.md) — Lowercase Loops is a fun and interactive educational game where you practice drawing lowercase letters using your mouse!
+- [Mad Dentist - Fun Doctor Game](../games/educational/mad-dentist-fun-doctor-game.md) — Candies, candies, kids love candies. However, children never think of the pain of toothache when they eat sweets. Come t
+- [Magic Highschool Love Story](../games/educational/magic-highschool-love-story.md) — Hailey is the daughter of the Wicked Witch. Shes a cool, bad girl just like her mum. She will attend the prestigious Hei
+- [Magic Numbers for Kids](../games/educational/magic-numbers-for-kids.md) — Magic Numbers for Kids is an educational adventure filled with colorful excitement. Young learners drag and drop numbers
+- [Magical Forest](../games/educational/magical-forest.md) — Magic Forest is a popular and addictive pair matching puzzle game. Master the game by training your brain thinking and m
+- [Master of Numbers](../games/educational/master-of-numbers.md) — Experience the excitement of mathematics with Master of Numbers, a fast-paced online game. Race to collect beneficial nu
+- [Match Challenge](../games/educational/match-challenge.md) — A simple but engaging matching challenge! Look at the variety of items at the bottom of the screen, and tap four that be
+- [Match Missing Pieces Kids Educational Game](../games/educational/match-missing-pieces-kids-educational-game.md) — This game is for a kids to learn. This is educational game. Find and drag and drop correct pieces to correct position to
+- [Match Pictures To Words](../games/educational/match-pictures-to-words.md) — You just need to match the pictures to the correct words. How To Play: It’s really simple and intuitive… just use your m
+- [Matching Pair Game](../games/educational/matching-pair-game.md) — Matching Pair Game offers a relaxing yet challenging gameplay experience where players must find and connect matching pa
+- [Math Box Balance](../games/educational/math-box-balance.md) — Math Box Balance is a puzzle game with numbers. Early levels have 2 boxes, and as you progress you can reach up to 8 box
+- [Math Boxing Christmas Addition](../games/educational/math-boxing-christmas-addition.md) — Santa needs to get in shape for his long night of delivering gifts. Have Santa throw punches and kicks at the Bah Humbug
+- [Math Candies](../games/educational/math-candies.md) — 'Math Candies' is a math puzzle game. In this game you need to find the price of some candies by solving given equations
+- [Math challenge online](../games/educational/math-challenge-online.md) — Math Challenge is an exciting and educational game where you can test your arithmetic skills in a fun and competitive se
+- [Math Charge Multiplication](../games/educational/math-charge-multiplication.md) — Sink the enemy subs before they sink you. Just dial in their depth (which happens to be the answer to their multiplicati
+- [Math Class](../games/educational/math-class.md) — Math Class is a game in which you need to solve various problems with addition, subtraction, division and multiplication
+- [Math Crosswords](../games/educational/math-crosswords.md) — A crossword where numbers take the place of words. Equations cross each other, so a single number has to fit two of them
+- [Math Duel - 2 Players](../games/educational/math-duel-2-players.md) — Are your ready for an excitement struggle with your buddy? Does your answer "YES" ?You can make a mathematic competition
+- [Math Educational For Kids](../games/educational/math-educational-for-kids.md) — with the help of this game you can learn math but also you can test your knowledge. This game is for beginners in mathem
+- [Math For Kids](../games/educational/math-for-kids.md) — It's never too early to start your child's education. Preschoolers, kindergarteners, toddlers, and older kids are eager 
+- [Math Forest Match](../games/educational/math-forest-match.md) — Embark on an exciting mathematical journey deep into the heart of the enchanted forest! In Math Forest Match, explore th
+- [Math Fun](../games/educational/math-fun.md) — A fun and educational app for learning mathematics. Learn to add, subtract, multiply and division. Math game are free to
+- [Math Game](../games/educational/math-game.md) — Math Game is a very fun educational game that will test your math skills. Try to get as many mathematical operations as 
+- [Math Game - Educational Game](../games/educational/math-game-educational-game.md) — “Math Game” is a very fun educational game that will test your math skills. Try to get as many mathematical operations a
+- [Math is easy!](../games/educational/math-is-easy.md) — Math is Easy! is an exciting and challenging game for anyone who wants to practice math! Test your skills by combining e
+- [Math Jackpot](../games/educational/math-jackpot.md) — This is a jackpot game but different: the pictures have been replaced by numbers and mathematical signs. So, each time y
+- [Math Kids Game](../games/educational/math-kids-game.md) — Math Kids is a free learning game designed to teach children numbers and mathematics. your kids will love to play, and t
+- [Math Mania](../games/educational/math-mania.md) — Math Mania is a fast-paced educational game where quick thinking is the key! Solve rapid-fire math equations by tapping 
+- [Math Memory Match](../games/educational/math-memory-match.md) — This is a car memory game with math puzzles. You don’t need to predict anything to find a matching pair of reveled card.
+- [Math Puzzles CLG](../games/educational/math-puzzles-clg.md) — Do not worry about classical mathematical examples. This game can be as addition, subtraction, multiplication and divisi
+- [Math Quiz - Addition](../games/educational/math-quiz-addition.md) — Sharpen your math skills with Math Quiz - Addition, an engaging educational game. Solve a range of addition challenges b
+- [Math Quiz Game](../games/educational/math-quiz-game.md) — How good are you at Math? Play this game to confirm that. It's good for brain training. Play now!
+- [Math Quiz - Multiplication](../games/educational/math-quiz-multiplication.md) — Sharpen your multiplication skills with this engaging flashcard challenge. Answer random questions, score points, and ma
+- [Math Quiz - Subtraction](../games/educational/math-quiz-subtraction.md) — Sharpen your subtraction skills with this lively quiz game! Tackle problems with results from zero up, choosing from fou
+- [Math Rockets Addition](../games/educational/math-rockets-addition.md) — In this game, youll have the opportunity to enhance your problem-solving skills and mathematical abilities. Your objecti
+- [Math Rockets Averaging](../games/educational/math-rockets-averaging.md) — In this game, youll have the opportunity to enhance your problem-solving skills and mathematical abilities. Your objecti
+- [Math Signs Game](../games/educational/math-signs-game.md) — “Math Signs Game” is an educational math game that encourages people to think fast to solve math operations. With the fo
+- [Math Tank](../games/educational/math-tank.md) — Math tank is an 11 Mini games pack in one. Play the math as per your choice.
+- [Math Train Addition](../games/educational/math-train-addition.md) — Math Train Addition is an educational and fun game. In this game you will see a math addition-problem on the balloon and
+- [Math Trivia](../games/educational/math-trivia.md) — Math Trivia is a Fun Math Trivia Game containing Brainy Math Puzzles &amp; Quizzes which helps you to learn basic proble
+- [Mathematics: Master of Arithmetic](../games/educational/mathematics-master-of-arithmetic.md) — The puzzle game &ldquo;Mathematics: Master of Arithmetic&rdquo; promotes brain development, trains logical thinking, imp
+- [MathMates 3D: Brain Quest](../games/educational/mathmates-3d-brain-quest.md) — A fun 3D math adventure! Choose your skill level, solve smart puzzles, and play with animated number characters. With sm
+- [Maths for Standard II](../games/educational/maths-for-standard-ii.md) — Add the numbers and choose the correct option. This is simple maths game for giving puzzles to students who are below or
+- [Maths for Standard V](../games/educational/maths-for-standard-v.md) — This is a game designed for school children from Std. 3-5, who should be able to add numbers till 100 and multiply/divid
+- [Maths Puzzle](../games/educational/maths-puzzle.md) — Maths Puzzle is a fun and engaging logic-based game that challenges your mathematical skills and problem-solving abiliti
+- [Maths Quiz with Negative Numbers](../games/educational/maths-quiz-with-negative-numbers.md) — Sharpen your mind with the challenge of adding and subtracting positive and negative numbers! This fast-paced knockout-s
+- [MathTaless](../games/educational/mathtaless.md) — There will be a addition/subtraction problem in given para. You have to choose CORRECT option. To Score best, keep choos
+- [Maze Lover](../games/educational/maze-lover.md) — This is a romantic puzzle game where boy has to reach to his girl. As usual, there are many obstacles between both of th
+- [Meet The Birds](../games/educational/meet-the-birds.md) — Meet the Birds is an engaging and educational game designed for children to learn about different bird species in a fun 
+- [Memory and Vocabulary of Fruits](../games/educational/memory-and-vocabulary-of-fruits.md) — Get ready to boost your memory and vocabulary skills in multiple languages! Challenge yourself with this delightful game
+- [Memory Mystery](../games/educational/memory-mystery.md) — Memory Mystery is an engaging and challenging memory game designed to test and improve your memory skills. The game pres
+- [Mia Dentist Ice Cream](../games/educational/mia-dentist-ice-cream.md) — Oh, god! The boy ate too much ice cream! And now he has got a toothache, please help him better! Thanks!
+- [Middleearth Quiz](../games/educational/middleearth-quiz.md) — Dive into enchanting Middle-earth and challenge your wits! Explore mystical realms by quizzing yourself on elves, spells
+- [Millionaire - Best Quiz](../games/educational/millionaire-best-quiz.md) — Everyone wants to be a millionaire, but in the game Millionaire - Best Quiz, you are given the opportunity. 15 questions
+- [Millionaire Kids Game](../games/educational/millionaire-kids-game.md) — Millionaire Kids Game is an exciting question and answer game that brings all the excitement of the famous TV show right
+- [Millionaire Quiz Trivia](../games/educational/millionaire-quiz-trivia.md) — Do you want to get rich and become a Millionaire? Win your first $1,000,000 It's time to test and increase your knowledg
+- [Millionnaire Quiz 2021](../games/educational/millionnaire-quiz-2021.md) — The Official Who Wants to Be a Millionaire? Trivia Game! Do you love game show trivia? Have you always dreamed of taking
+- [Millonario 2021 : Trivia Quiz Game](../games/educational/millonario-2021-trivia-quiz-game.md) — The Official Who Wants to Be a Millionaire? Trivia Game! Do you love game show trivia? Have you always dreamed of taking
+- [Mind Games for 2 Player](../games/educational/mind-games-for-2-player.md) — We collected some brain and board games that you can play as two player in a single game. We are presenting you eight br
+- [Mindblow](../games/educational/mindblow.md) — Welcome to Mindblow: Guess the Word! Experience a word-guessing game like no other, where every image cleverly hides a w
+- [Minesweeper Duel](../games/educational/minesweeper-duel.md) — Compete with friends one-on-one online. Play for free against computer. Minesweeper Duel is a new mode for the game fami
+- [Monster math: addition, multiplication, division](../games/educational/monster-math-addition-multiplication-division.md) — Monster Math (addition multiplication subtraction division) is a competitive multilevel math game that let you start sol
+- [Mora Rush - Fun & Run 3D Game](../games/educational/mora-rush-fun-run-3d-game.md) — Have you played a guessing game? Rock-paper-scissors game, I think you should have played this game. Then, you will like
+- [Mr Hacker The Museum Hunt](../games/educational/mr-hacker-the-museum-hunt.md) — Join the thrilling heist in &lsquo;Mr Hacker: The Museum Hunt.&rsquo; As a hired hacker, your mission is to crack 150 va
+- [Multiplication Roulette](../games/educational/multiplication-roulette.md) — Touch in the Spin button, then in the roulettes to stop them. You’ll have 10 turns. Each one will point a number, you mu
+- [Music Tools](../games/educational/music-tools.md) — Play music on three instruments, piano, drums, and guitar. Become a pro musician by learning and playing all the instrum
+- [My First 100 Words](../games/educational/my-first-100-words.md) — Immerse your child in "My First 100 Words," a vibrant language adventure! They will explore multiple languages through p
+- [My First Robot](../games/educational/my-first-robot.md) — This is an educational game to assemble robots for kids. All the robots in the lab are incomplete,lets fix it together. 
+- [My Little Phone](../games/educational/my-little-phone.md) — This fun educational game will teach your kids and toddlers to learn numbers and songs for hours on end with classic nur
+- [My Little Pony Learning The Body](../games/educational/my-little-pony-learning-the-body.md) — Certainly! Heres a description in English for the game My Little Pony Learning The Body. Join your favorite pony friends
+- [My Teacher Classroom Fun](../games/educational/my-teacher-classroom-fun.md) — My Teacher Classroom Fun is not only a room cleaning but also an educational puzzle game that is made of 2D cartoon Disn
+- [My Tiny Cute Piano](../games/educational/my-tiny-cute-piano-2.md) — Unleash your child's musical creativity with My Tiny Cute Piano! Designed for endless fun, this game transforms learning
+- [My Virtual Pet Shop - Cute Animals](../games/educational/my-virtual-pet-shop-cute-animals.md) — My Virtual Pet Shop is a pet simulator game. In this pet shop game suitable for children of all ages, you can choose you
+- [Mysterious elevator](../games/educational/mysterious-elevator.md) — Immerse yourself in the thrilling adventure of &ldquo;Mysterious Elevator&rdquo;! You are trapped in a skyscraper with 1
+- [Nail Doctor](../games/educational/nail-doctor-2.md) — Become the Nail Doctor and dive into the intriguing world of foot care. Treat a variety of intriguing nail ailments usin
+- [Name That Fruit](../games/educational/name-that-fruit.md) — Dive into a cheerful journey with Name That Fruit, where vibrant fruit images meet their names in a lively, educational 
+- [Newborn Puppy Baby Shower](../games/educational/newborn-puppy-baby-shower.md) — This is a fun and educational game for taking care of puppies. If you usually like to take care of pets, this game is ju
+- [Nostalgic Playstation1 Quiz](../games/educational/nostalgic-playstation1-quiz.md) — Step back into the golden age of gaming with Nostalgic Playstation1 Quiz! Test your memory and knowledge of the legendar
+- [Number Bee](../games/educational/number-bee.md) — NumberBee is a colorful 3-level kids math adventure where little learners help Buzzy the Bee fly through the Honey Meado
+- [Number Block](../games/educational/number-block.md) — The addition and subtraction in this math puzzle game isn't tough at all. What is challenging is figuring out what block
+- [Number kids](../games/educational/number-kids.md) — Number Kids is an engaging and educational game designed to help children enhance their number recognition and counting 
+- [Number Quest](../games/educational/number-quest.md) — Embark on a thrilling adventure with Number Quest, an engaging and educational puzzle game designed to sharpen your math
+- [Number Quest Game](../games/educational/number-quest-game.md) — Embark on a vibrant journey with Number Quest, where quick thinking and sharp observation unlock exciting levels. Match 
+- [Number Sums](../games/educational/number-sums.md) — Number Sums is a challenging number puzzle to train your mental math. The goal is to make the sum of numbers in each row
+- [Numeral Crawl   Easy](../games/educational/numeral-crawl-easy.md) — This is Numeral Crawl - Easy which is designed to make it easy for kids to score points in the popular numbers based sna
+- [Numeric Leap](../games/educational/numeric-leap.md) — Leap into action with Numeric Leap, a vibrant test of reflexes and number skills. Navigate dynamic clouds in precise ord
+- [Numpuz Classic](../games/educational/numpuz-classic.md) — Welcome to Numpuz Classic. It's a new educational puzzle game for kids. Start drag to match the perfect sequence of the 
+- [Nutrition School](../games/educational/nutrition-school.md) — Make nutrition fun with Nutrition School! A captivating game where kids learn about healthy foods, shop for nutritious i
+- [Nutrition School](../games/educational/nutrition-school-2.md) — Dive into Nutrition School, an engaging mix of learning and fun where players study foods, shop smartly, and feed their 
+- [Ocean Math Game Online](../games/educational/ocean-math-game-online.md) — Play games online free. Practice math and improve mental arithmetic. Ocean Math Game Online is a free math game that hel
+- [Ocean Small Hospital Doctor](../games/educational/ocean-small-hospital-doctor.md) — Dive into the exciting world of Ocean Small Hospital - Doctor! This casual and educational game is an absolute blast for
+- [One Plus Two](../games/educational/one-plus-two.md) — Welcome to 1+2=? &ndash; the fun and educational casual game that puts your math skills to the test in a simple yet addi
+- [One Plus Two is Three](../games/educational/one-plus-two-is-three.md) — Try your brain skills with this great math game! Play this fun math game with an intense adrenaline booster on your head
+- [Oomee Pop](../games/educational/oomee-pop.md) — Immerse yourself in Oomee Pop, where balloon-bursting mastery is key. This colorful adventure challenges your skills wit
+- [Opposite Photo Match](../games/educational/opposite-photo-match.md) — This is simple educational puzzle game. In this game you need to continuously touch or click 2 photos which show opposit
+- [Order of Operation Challenge](../games/educational/order-of-operation-challenge.md) — Follow the order of operations to solve each expression. Use BODMAS / PEMDAS rules. Solve brackets (parentheses) first, 
+- [Organize The Alphabet](../games/educational/organize-the-alphabet.md) — Organize The Alphabet captivates young minds with its colorful puzzle challenges, encouraging kids to arrange letters sw
+- [Pac Maze: Alphabet Escape](../games/educational/pac-maze-alphabet-escape.md) — Pac Maze: Alphabet Escape is an escape game. In this game youll play as an alphabet Pac-man and try to get to the finish
+- [Paint The Numbers](../games/educational/paint-the-numbers.md) — Unleash your child's creativity and number skills with Paint The Numbers. Transform dull digits into vibrant characters 
+- [Pair Matching Puzzle 2D](../games/educational/pair-matching-puzzle-2d.md) — Engage your mind with Pair Matching Puzzle 2D! Exercise your memory and concentration in this addictive matching game. E
+- [Pair Up Shapes](../games/educational/pair-up-shapes.md) — ntroduce your kids to shapes in a playful way with Shapes! This educational game is perfect for young children to learn 
+- [Pair Up Shapes](../games/educational/pair-up-shapes-2.md) — Explore the vibrant world of Pair Up Shapes, where young adventurers match and identify colorful geometric forms. With t
+- [Panda Shark Family](../games/educational/panda-shark-family.md) — Little Panda Shark Family is a very cute educational game. Join the Shark family and keep the underwater animals safe. T
+- [Paper Fold Super Smart](../games/educational/paper-fold-super-smart.md) — Click the picture to form a completed picture. Pass the level
+- [Paper Room Diy](../games/educational/paper-room-diy.md) — Have you ever wanted to create a world of your own? If you want to design a room, our game is just right for you. The de
+- [Penguin Rescue Squad](../games/educational/penguin-rescue-squad.md) — Oops! The poor penguin is trapped, come to Penguin Rescue Squad and set up a rescue team to act together! Penguin Rescue
+- [Pentaword](../games/educational/pentaword.md) — Guess the hidden five-letter word in just six tries! Use logic, spelling, and word skills in this brain teaser. Can you 
+- [Pets Sever](../games/educational/pets-sever.md) — Pets Sever is game which you will like for sure its a game of puzzles kind. The game goal is to drew a box that had your
+- [Phone Case DIY 2 - Casetify Game](../games/educational/phone-case-diy-2-casetify-game.md) — Do you have artistic talent? If you are not sure about your artistic talent. The newly released Phone Case DIY game can 
+- [Phone for Baby](../games/educational/phone-for-baby-2.md) — Introduce your little one to a world of musical fun with Phone for Baby. Delight in classic rhymes and captivating visua
+- [Phone for Kids](../games/educational/phone-for-kids-2.md) — Let your little ones dive into a world of fun learning, where catchy nursery rhymes and cute visuals make education enjo
+- [Physics: Electro Magnetism Quiz](../games/educational/physics-electro-magnetism-quiz.md) — Check out this Physics: Electro-magnetism quiz from Immanitas. This is good for students or educators who just want a qu
+- [Physics: Heat Temperatuie Quiz](../games/educational/physics-heat-temperatuie-quiz.md) — Try out our new Quiz on Heat and Temperature in Physics. This quiz is designed for a quick checkpoint about your knowled
+- [Physics   Optics Quiz](../games/educational/physics-optics-quiz.md) — This quiz is a quick test of Optics (Physics) concepts. Good for both students and educators. Learn everything and take 
+- [Physics: Semiconductos Quiz](../games/educational/physics-semiconductos-quiz.md) — This quiz on Semiconductors (Physics) gives you a quick review of your knowledge, for basic knowledge. Try it before an 
+- [Piano And Drum For Kids](../games/educational/piano-and-drum-for-kids.md) — It's the classic collection of game suitable for all kids and family! -You've a kid version of the Classic Piano! -You'v
+- [Pick-a-Path The Loud House](../games/educational/pick-a-path-the-loud-house.md) — Play Pick-a-Path The Loud House Game online in your web browser and mobile at Superkidgames.com for free and more html5 
+- [Pick The Number](../games/educational/pick-the-number.md) — Pick The Number is an educational and addictive puzzle game designed to boost your brainpower! Sharpen your number recog
+- [Pick the Number](../games/educational/pick-the-number-2.md) — Jump into Pick The Number, where speed meets education in a colorful, engaging puzzle. Enhance your memory and math skil
+- [Picnic With Cat Family](../games/educational/picnic-with-cat-family.md) — It's picnic time! Play games for four-year-old and older, take some food, and feed the cat! A lot of fun for girls and b
+- [Pics 2 Word](../games/educational/pics-2-word.md) — Can you guess the word? Four pictures, one answer! Test your brain with this addictive puzzle game where every image is 
+- [Picsword Puzzles](../games/educational/picsword-puzzles.md) — Check 2 pictures and find a single meaningful word.
+- [PictureCipher](../games/educational/picturecipher.md) — PictureCipher isn&rsquo;t just a game; it&rsquo;s a fusion of art, language, and skill. It&rsquo;s a test of your abilit
+- [Pirate Treasures Gems Puzzle](../games/educational/pirate-treasures-gems-puzzle.md) — This classic matching puzzle game is easy for all every age. Hunt no tales, but solve puzzle games to write your own sto
+- [Planet Explorer Addition](../games/educational/planet-explorer-addition.md) — Planet explorer addition is a math puzzle game. In this game, you will explore different planets with a big treasure of 
+- [Plumber Game](../games/educational/plumber-game.md) — Dive into the ocean and become a plumber of the extreme in Sea Plumber. Put your brain to the trial in this puzzle game,
+- [Plumber Rescue: Water Puzzle](../games/educational/plumber-rescue-water-puzzle.md) — You like puzzle and you want to challenge your brain? So Master Plumber: Pipe Lines is another way to train your brain !
+- [Plush Eggs Vending Machine](../games/educational/plush-eggs-vending-machine.md) — Do you like to collect mega super cute surprises plush or toys like Skibidi, Poppy, Pomni, Grimace, etc... etc... So wha
+- [Pokémon Puzzle Blocks](../games/educational/pok-mon-puzzle-blocks.md) — A fun and addicting game to train your brain. If you love the Tetris game, and you also love the Pokémons, then this gam
+- [Pokemon Go Adventures puzzle](../games/educational/pokemon-go-adventures-puzzle.md) — Pokemon, happens on the fake island of Pasio. Pokemon and their Trainers called sync sets—share a unique bond. Each Poke
+- [Pop Balloons & Learn Colors](../games/educational/pop-balloons-learn-colors.md) — Burst into a vibrant world of learning as children pop balloons and discover colorful surprises! This delightful game ma
+- [Pregnant Mommy Caring](../games/educational/pregnant-mommy-caring.md) — Pregnant Mommy Caring is a very fun and popular caring game. This time, we will face the challenge of taking care of Mom
+- [Pregnant Princess Caring](../games/educational/pregnant-princess-caring.md) — Take care of her diet, give her a thorough health checkup and decorate a room for the yet to come little miracle. You ar
+- [Preschool Math](../games/educational/preschool-math.md) — The objective of the game is to help players learn basic math concepts, such as counting, addition, subtraction, and sha
+- [Primary Math](../games/educational/primary-math.md) — In game Primary Math, you are given mainly 40 levels through that you have to go. In each level, the difficulty of the g
+- [Princess Dental: Dentist Games](../games/educational/princess-dental-dentist-games.md) — Welcome to the city dental clinic, where princesses come for their smiles! Help adorable princess patients take care of 
+- [Professions For Kids](../games/educational/professions-for-kids.md) — Looking for an engaging and educational game for your kids? Look no further than Professions for Kids! This online game 
+- [Puzzle Blocks Ancient](../games/educational/puzzle-blocks-ancient.md) — Puzzle game with several original solutions. The player has to solve the riddles of ancient civilizations, the game pres
+- [Puzzle Game Boys - Cartoon](../games/educational/puzzle-game-boys-cartoon.md) — Puzzle Game Boys is a great game to help children improve their abilities and speed in solving problems. There are 9 (ni
+- [Puzzle Game Cartoon](../games/educational/puzzle-game-cartoon.md) — Puzzle Game Cartoon is a great game to help children improve their abilities and speed in solving problems. There are 9 
+- [Puzzle Game Girls - Cartoon](../games/educational/puzzle-game-girls-cartoon.md) — Puzzle Game Girls is a great game to help children improve their abilities and speed in solving problems. There are 9 (n
+- [Puzzles for kids with animals sounds](../games/educational/puzzles-for-kids-with-animals-sounds.md) — Dive into a captivating world where kids learn about animals through engaging puzzles. Drag and drop images to match sil
+- [Qolor Quiz Game](../games/educational/qolor-quiz-game.md) — Test your knowledge and challenge yourself with this fun and engaging quiz game! Answer a variety of questions, use life
+- [Quantities](../games/educational/quantities.md) — Wouldn't it be just wonderful if there was a simple game for preschoolers that made learning numbers and basic math skil
+- [Quick Math](../games/educational/quick-math.md) — Quick Math is a fast-paced brain training game where players solve math problems before time runs out. Improve your calc
+- [Quick Quiz](../games/educational/quick-quiz.md) — Are you ready to play in the Quick Quiz game? The goal is really simple: try to answer all possible questions without ru
+- [Quick Quiz](../games/educational/quick-quiz-2.md) — Quick Quiz challenges your speed and accuracy with thrilling, fast-paced trivia. Answer questions across diverse categor
+- [QuickSolve](../games/educational/quicksolve.md) — QuickSolve is a fast-paced timed math challenge designed to sharpen your mind under pressure. Each round presents a new 
+- [Quiz Categories](../games/educational/quiz-categories-2.md) — Dive into Quiz Categories and challenge your mind across exciting themes like films, music, and biology. Select your pre
+- [Quiz Education](../games/educational/quiz-education.md) — Quiz Education: A Fun and Interactive Way to Learn! Tired of boring textbooks? Transform your study sessions into an exc
+- [Quiz Find the Italian brainrot Letters](../games/educational/quiz-find-the-italian-brainrot-letters.md) — Quiz Italian Brainrot: Hidden Letter is a hilarious and easy-to-play word game where chaos meets challenge! Dive into a 
+- [QUIZ GAME](../games/educational/quiz-game.md) — quiz game live in your phone - every day! Primetime is easy to play, fun and educating! What are you waiting for? :) Dev
+- [Quiz Goose Math](../games/educational/quiz-goose-math.md) — Looking for a fun and educational game? Look no further than Quiz Goose Math! Roll the dice and step into the boxes, but
+- [Quiz Guess the Country](../games/educational/quiz-guess-the-country.md) — The colorful geography quiz game that turns learning maps into a fun and addictive challenge for all ages! Whether you&r
+- [Quiz   Guess the flag](../games/educational/quiz-guess-the-flag.md) — In the game you have to guess which countrys flag is shown in the photo, From the game you will memorize more than 200 f
+- [Quiz: marvel](../games/educational/quiz-marvel.md) — This quiz is dedicated to the amazing and diverse Marvel Universe. You will face over 100 questions that will test how w
+- [Quiz Math](../games/educational/quiz-math.md) — Quiz Math invites young minds on a thrilling numerical adventure. Solve captivating math problems across dynamic difficu
+- [Quiz Me](../games/educational/quiz-me.md) — Quiz is a great way to spend time in a fun and useful way. The game will help you expand your horizons, train your memor
+- [Quiz Painters](../games/educational/quiz-painters.md) — Quiz Painters Dive into the world of timeless masterpieces with Quiz Painters! This captivating quiz game challenges you
+- [Quiz Quest The Ultimate Knowledge Challenge](../games/educational/quiz-quest-the-ultimate-knowledge-challenge.md) — Embark on Quiz Quest, where your intellect meets excitement! Tackle multiple-choice, fill-in-the-blank, and interactive 
+- [Quiz Trivia Guess The Animal Music Flags](../games/educational/quiz-trivia-guess-the-animal-music-flags.md) — Test your knowledge in animals, music, and flags with this captivating trivia game. Guess correctly from intriguing clue
+- [Quizmania: Trivia game](../games/educational/quizmania-trivia-game.md) — Sharpen your mind across exciting levels. Answer a variety of questions from different topics and use strategic hints to
+- [Quizmasters](../games/educational/quizmasters.md) — QuizMasters is a colorful trivia quiz-show game where you answer questions, climb the prize ladder, and aim for the gran
+- [Quiztopia](../games/educational/quiztopia.md) — Dive into the vibrant world of Quiztopia, where knowledge meets excitement. Tackle diverse categories with interactive m
+- [Quizzing Measurement](../games/educational/quizzing-measurement.md) — Check your measurement skills by answering interesting questions. You will get 4 options for each question. Answering co
+- [Rabbit Portal](../games/educational/rabbit-portal.md) — Rabbit Portal is a fast-paced space-timing puzzle game where precision is everything. In the vastness of outer space, a 
+- [Read Random Words](../games/educational/read-random-words.md) — Discover new vocabulary effortlessly with every click in Read Random Words. This simple tool provides a fresh word each 
+- [Recycle Game](../games/educational/recycle-game.md) — Turn trash into order and save the planet!
+- [Recycling](../games/educational/recycling.md) — Dive into "Recycling," a captivating journey to save marine life through engaging waste sorting. Test your reflexes as y
+- [Recycling Time](../games/educational/recycling-time.md) — Dive into Recycling Time's vibrant world, where kids learn the importance of recycling through interactive gameplay. Exp
+- [Rolling Puzzle](../games/educational/rolling-puzzle.md) — Rolling Puzzle is a puzzle game where you try to drop the balls in the shape by rotating the shape on the screen. In thi
+- [Russian is easy](../games/educational/russian-is-easy.md) — Russian is easy&rdquo; is an exciting game for those who want to improve their skills in the Russian language. It offers
+- [Sasquatch Memory Match & Educational](../games/educational/sasquatch-memory-match-educational.md) — Embark on a brain-boosting adventure in a mysterious forest! Hone your memory by matching pairs of forest-themed cards b
+- [Save My Skibidi](../games/educational/save-my-skibidi.md) — Pets Sever is game which you will like for sure its a game of puzzles kind. The game goal is to drew a box that had your
+- [Save The Girl](../games/educational/save-the-girl.md) — A girl will encounter various kinds of dangers in the game Save The Girl. You need some props or articles to help the li
+- [Save The Planet](../games/educational/save-the-planet.md) — Learn the art of waste sorting with Save The Planet! Test your skills as you drag and drop items into the correct recycl
+- [Save the Sea](../games/educational/save-the-sea.md) — Dive into Save the Sea and embark on a thrilling mission to cleanse the ocean. Navigate through increasingly challenging
+- [Scary Math: Learn with Monster Math](../games/educational/scary-math-learn-with-monster-math.md) — Scary Math is an educational game. Here players need to choose right or wrong from the following equations. Each equatio
+- [Scatty Maps Africa](../games/educational/scatty-maps-africa.md) — Great educational game to learn about geography of Asia. Two modes of play, easy and full map, will amuse both younger a
+- [Scatty Maps: Asia](../games/educational/scatty-maps-asia.md) — Great educational game to learn about geography of Asia. Two modes of play, easy and full map, will amuse both younger a
+- [Scatty Maps: Europe](../games/educational/scatty-maps-europe.md) — Maps of European countries are scattered around. Place them where they should be.
+- [Science QUIZ](../games/educational/science-quiz.md) — Dive into Science QUIZ, where fun meets knowledge! Challenge your brain across 50 captivating science topics, as each co
+- [SciWhy](../games/educational/sciwhy.md) — SciWhy &ndash; The Fun Science Quiz Adventure for Kids! Welcome to SciWhy, an exciting quiz game where curious kids expl
+- [SciWhy Easy](../games/educational/sciwhy-easy.md) — SciWhy Easy&ndash; The Fun Science Quiz Adventure for Kids made much easier to help score well! The kids had been findin
+- [Screw Jam Puzzle](../games/educational/screw-jam-puzzle.md) — Welcome to Screw Jam Puzzle, where the challenge of unscrewing puzzles and sorting colorful screws, pins, and nuts takes
+- [Shape Connect](../games/educational/shape-connect.md) — Shape Connect is a cute and fun game where kids help two teddy bears meet each other! There&rsquo;s a broken road betwee
+- [Shape Whiz](../games/educational/shape-whiz.md) — Get ready for a sweet learning adventure with Shape Whiz &ndash; the donut-themed educational game that helps kids learn
+- [Shape Whiz](../games/educational/shape-whiz-2.md) — Embark on a vibrant donut-filled journey in Shape Whiz, where young minds match colorful treats to their shapes. Easy ta
+- [Shapes Game](../games/educational/shapes-game.md) — Shapes Game is a educational game for kids to explore the fascinating world of geometric shapes on their cell phones, ta
+- [Shapes Using Dots](../games/educational/shapes-using-dots.md) — Shapes Using Dots is a fun and challenging puzzle game that tests your spatial reasoning and problem-solving skills. You
+- [Silly Quiz](../games/educational/silly-quiz.md) — Silliness levels are dropping and the world is in big trouble! Dr. Dimbus needs you to take on the weirdest trivia game 
+- [Simple Math Quiz](../games/educational/simple-math-quiz.md) — Sharpen your arithmetic skills with Simple Math Quiz! Solve quick-fire math problems under the pressure of a timer. Corr
+- [Simple Words](../games/educational/simple-words.md) — Simple word game where match 3 falling mechanics meet word game. Game is a Puzzle word game. Select letter make words an
+- [Simply Simple Maths](../games/educational/simply-simple-maths.md) — Simply Simple Maths: Make Math a Blast! Looking for a fun and engaging way to help your child master basic math skills? 
+- [Skibidi Toilet Math Prank](../games/educational/skibidi-toilet-math-prank.md) — Skibidi Toilet Math Prank test you to answer the math quickly before time run out! Beware Skibidi Toilet will haunt you 
+- [Sleepy Santa](../games/educational/sleepy-santa.md) — Welcome to the Sleepy Santa. Help to wake up the Santa before Christmas. Click and clear the blocks to wake up the Santa
+- [Slice And Solve](../games/educational/slice-and-solve.md) — Slice &amp; Solve is a fun and interactive math puzzle game that challenges you to master fractions! Slice objects into 
+- [Slider Puzzl for Kids](../games/educational/slider-puzzl-for-kids.md) — Slider Puzzl for Kids game has a lot of success review and player this MONTH that significantly improves overall game pe
+- [SlovoLom](../games/educational/slovolom.md) — SlovoLom - is an exciting word puzzle , in which you need to make new words from one big word. What awaits you: - traini
+- [Smart Number](../games/educational/smart-number.md) — Smart Numbers! Logic puzzle variation of classic game with some changes. Touchscreen mouse control juicy graphics and di
+- [Social Duties](../games/educational/social-duties.md) — In Social Duties, immerse yourself in a heartwarming adventure, as you guide a young child through enriching scenarios t
+- [Solo Quiz ing](../games/educational/solo-quiz-ing.md) — Step into the shadowy world of Solo Leveling with this fast-paced anime quiz! Test your knowledge of Sung Jin-Woo&rsquo;
+- [Solve or Suffer](../games/educational/solve-or-suffer.md) — Think fast or face the consequences! Solve or Suffer puts you in the hot seat of the worlds strictest math classroom. Yo
+- [Sorting Ball Quiz](../games/educational/sorting-ball-quiz.md) — Test your brain and sharpen your logic skills with Sorting Ball Quiz! This addictive puzzle game challenges you to sort 
+- [Space Hidden Alphawords](../games/educational/space-hidden-alphawords.md) — Space Hidden AlphaWords is an educational hidden object game in which you need to find the alphabet letters hidden in th
+- [Speed Math](../games/educational/speed-math.md) — Dive into the exciting world of Speed Math, a brain-teasing puzzle game designed to make math thrilling and improve your
+- [Speedy Quiz Maths](../games/educational/speedy-quiz-maths.md) — Speedy Quiz Maths is a fast-paced game testing your arithmetic skills against the clock. With a sleek, user-friendly des
+- [spelling words](../games/educational/spelling-words.md) — spelling words is a fun puzzle game. it's good to learn to spell for your kids and very interesting and it has 30 levels
+- [SpongeBob Find The Differences](../games/educational/spongebob-find-the-differences.md) — Dive into the underwater fun with Sponge Find The Differences, a thrilling puzzle game inspired by the lovable world of 
+- [Spot&amp;Differs](../games/educational/spot-amp-differs.md) — A new exciting game Spot&amp;Differs for children and adults! Find differences between two pictures and train your brain
+- [Spot The Difference City](../games/educational/spot-the-difference-city.md) — This is a Spot the difference type of puzzle game where players must find at least 5 differences between two otherwise s
+- [Spot The Odd One](../games/educational/spot-the-odd-one.md) — Spot the Odd One is a fun game where user taps the picture that doesn&rsquo;t match the others. With colorful cartoons a
+- [Sprunki Find The Differences](../games/educational/sprunki-find-the-differences.md) — Inspired by the charming world of Sprunki, this game takes your observation skills to the next level. Dive into beautifu
+- [Squid Dentist Game](../games/educational/squid-dentist-game.md) — Take care of all the Squid patients in this great Dentist Office game! Now let yourself be a great dentist and take care
+- [Squid Fan Test](../games/educational/squid-fan-test.md) — Did you watch the squid game series? Well! this game is a squid game quiz test. Try to answer all all the quiz answers t
+- [SQUID PUZZLE](../games/educational/squid-puzzle.md) — SQUID PUZZLE is a really funny educational game which is a patience game from the puzzle category which involves reconst
+- [Stairs Trivia](../games/educational/stairs-trivia.md) — Stairs Trivia is an exciting online quiz game that lets players elevate their knowledge by correctly answering questions
+- [Stamp It Puzzle](../games/educational/stamp-it-puzzle.md) — An engaging puzzle game that challenges you to gather all the ink bottles and mark the correct location. While it appear
+- [Sticker Puzzles Album](../games/educational/sticker-puzzles-album.md) — In Sticker Puzzles Album, children can strengthen their problem-solving skills, develop hand-eye coordination, boost cre
+- [Stickman Mental Math](../games/educational/stickman-mental-math.md) — Learn math by playing with Stickman. Brain game, math problem. Practice your skills in arithmetic. You must have heard a
+- [Strawberry Genius](../games/educational/strawberry-genius.md) — In Strawberry Genius, young adventurers embark on a playful educational journey. Seamlessly merging vibrant activities w
+- [Strawberry Scholar Pro](../games/educational/strawberry-scholar-pro.md) — Strawberry Scholar Pro combines learning and fun as kids explore interactive sections that teach numbers through spellin
+- [Stretch huggy Monster](../games/educational/stretch-huggy-monster.md) — Navigate through the levels by extending the limbs of the character while steering clear of obstacles. Be cautious not t
+- [Subtraction Practice](../games/educational/subtraction-practice.md) — This is a math subtraction practicing educational game. Solve subtraction problems like you would on paper or a notebook
+- [Sudoku](../games/educational/sudoku.md) — The playing field is a grid with 9x9 cells, divided into smaller grids with a side of 3 cells. Thus, the entire playing 
+- [Sudoku](../games/educational/sudoku-2.md) — Sudoku Deluxe is for all players : from beginners to advanced players. If you like easy sudoku where you can have fun, e
+- [Sudoku Master](../games/educational/sudoku-master.md) — Sharpen your mind and dive into the ultimate number challenge with Sudoku Master! This exciting puzzle experience transf
+- [Sudoku Vault](../games/educational/sudoku-vault.md) — Sudoku Vault is a logic-based puzzle game featuring 4x4, 6x6, and 9x9 boards &mdash; each with four difficulty levels: B
+- [SUM+SUM](../games/educational/sum-sum.md) — Match the numbers. The numerical grid awaits your solution. Your task is to retain only those numbers that add up to the
+- [Super Doctor Body Examination](../games/educational/super-doctor-body-examination.md) — Super Doctor Body Examination is an educational game. Do you hate every physical examination, but the physical examinati
+- [Super Word Search Game](../games/educational/super-word-search-game.md) — “Super Word Search” is a casual game that has the function of stimulating people’s memory. Also, according to studies, i
+- [Superhero Dentist Surgery Game For Kids](../games/educational/superhero-dentist-surgery-game-for-kids.md) — Be the best dentist at this Superhero clinic! All our patient is Superhero, who is dedicated to fighting crime, protecti
+- [Supermarket Mania](../games/educational/supermarket-mania-2.md) — Get ready for a whirlwind shopping adventure in Supermarket Mania. Navigate vibrant aisles, fulfill your shopping list, 
+- [Talking Tom Math Test](../games/educational/talking-tom-math-test.md) — Talking Tom Math Test Challenge is an online game that you can play for free. This is a challenging math game that you c
+- [Tangram Puzzle](../games/educational/tangram-puzzle.md) — Try Tangram Puzzle game to develop fun intelligence. In this game you have to place puzzle pieces right into the square 
+- [Tangram Triangle](../games/educational/tangram-triangle.md) — Tangram Triangle is a captivating mobile puzzle game that reimagines the classic tangram tradition with triangular block
+- [TastyFarm](../games/educational/tastyfarm.md) — Tasty Farm is a fun and addictive sorting puzzle! Organize your fresh harvest in two exciting modes: match juicy fruits 
+- [Tech-Quiz](../games/educational/tech-quiz.md) — Check your general knowledge in Tech field by attempting these cool quizzes.
+- [The Best Pizza](../games/educational/the-best-pizza-2.md) — Create mouthwatering pizzas without the mess! Guided by a chef, plan and craft each pizza masterpiece using a variety of
+- [The Cutest Squishy Pet - My Cute House Pet](../games/educational/the-cutest-squishy-pet-my-cute-house-pet.md) — Smolsies are very cute plush creatures! Whether you are a toddler or a cute boy or girl, you will fall in love with thei
+- [The Genius Crow](../games/educational/the-genius-crow.md) — The Genius Crow is a fun and educational puzzle game inspired by the classic fable. Help the smart crow drop stones into
+- [The Hyperbolic Trivia Chamber](../games/educational/the-hyperbolic-trivia-chamber.md) — Step into The Hyperbolic Trivia Chamber, where only the strongest minds survive! Test your Dragon Ball Z knowledge acros
+- [The Mazes of Infinity](../games/educational/the-mazes-of-infinity.md) — The Mazes of Infinity is an exciting game that offers a unique adventure for all lovers of maze passing. Discover an exc
+- [The Musical Instruments](../games/educational/the-musical-instruments.md) — The Musical Instruments is a game developed for children where they will learn musical instruments and their sounds in a
+- [The Odd Element Game](../games/educational/the-odd-element-game.md) — Enter a charming world of mental challenges with The Odd Element Game. Sharpen your observation skills by spotting the s
+- [The Quest for Knowledge](../games/educational/the-quest-for-knowledge-2.md) — Dive into The Quest for Knowledge, where solving diverse puzzles sharpens your mind and boosts problem-solving skills. E
+- [The Quiz Game](../games/educational/the-quiz-game.md) — Challenge your mind with The Quiz Game, where your knowledge is your greatest ally. Navigate through captivating questio
+- [Theme Words](../games/educational/theme-words.md) — Embark on a wordy adventure in Theme Words, where you uncover themed puzzles by unscrambling hidden words. This engaging
+- [Tic Tac Toe At School](../games/educational/tic-tac-toe-at-school.md) — What could be better than being with your friends at school? A game that you will play as if you are playing in the real
+- [Tic Tac Toe: Paper Note](../games/educational/tic-tac-toe-paper-note.md) — You may have played many Tic-Tac-Toe game until now. But, probably, you haven't played such a entertaining Tic-Tac-Toe g
+- [Tic Tac Toe Princess](../games/educational/tic-tac-toe-princess.md) — You may have played many Tic-Tac-Toe games by now. But you haven't played this colorful and glittering game for princess
+- [Tickling Cat](../games/educational/tickling-cat.md) — Tickling Cat game has a lot of success review and player this MONTH that significantly improves overall game performance
+- [Tiny Word Grid](../games/educational/tiny-word-grid.md) — Tiny Word Grid challenges your vocabulary as you fill grids using clever clues. Progress from simple to complex puzzles 
+- [Tiny Word Grid&nbsp;](../games/educational/tiny-word-grid-nbsp.md) — Tiny Word Grid is a fun and engaging crossword game designed to challenge your vocabulary and word skills! Solve excitin
+- [Toca Avatar My Hospital](../games/educational/toca-avatar-my-hospital.md) — The hospital in the town has received many patients. Come to the town medical center with doctors to treat the patients!
+- [Toca Find The Differences](../games/educational/toca-find-the-differences.md) — Dive into a fun and colorful world of puzzles with Toca Find The Differences, inspired by the creativity and charm of th
+- [Toddler Baby Phone](../games/educational/toddler-baby-phone.md) — This is an educational game for children. Have you ever wanted to have a virtual cell phone? Our game can fulfill your w
+- [Top Notch Trivia](../games/educational/top-notch-trivia.md) — Welcome to Top Notch Trivia, where the quest for knowledge knows no bounds! Get into a treasure trove of captivating que
+- [Toy Game For Kids](../games/educational/toy-game-for-kids.md) — This is a collection of games for toddlers. Our games offer a variety of game modes including spinner, bubble blower, an
+- [Toys Math](../games/educational/toys-math.md) — This is a math puzzle game where you buy a set of toys in each level. Each toy has a different price tag. For buying, co
+- [Traffic Control Math](../games/educational/traffic-control-math.md) — This is a traffic control game where you control the flow of traffic by starting the traffic in a lane by clicking an op
+- [Traffic Control Time](../games/educational/traffic-control-time.md) — This is a traffic control game where you control the flow of traffic by starting and stopping the traffic in a lane by c
+- [Tri Puzzle](../games/educational/tri-puzzle.md) — Welcome to Tri Puzzle. Hey kids! welcome to the new challenges of the puzzle game. Drag the block and drop and correct p
+- [Tricky Prank: Annoying Quest](../games/educational/tricky-prank-annoying-quest.md) — Tricky Prank: Annoying Quest is a hilarious puzzle game that turns clever pranks, tricky situations, and unexpected twis
+- [Tricky Square Roots](../games/educational/tricky-square-roots.md) — Tricky Square Roots is a fun and brain-teasing number puzzle game designed to sharpen your math skills while keeping thi
+- [Trivia Crack 2](../games/educational/trivia-crack-2.md) — TESTEZ VOTRE CULTURE GÉNÉRALE Invitez votre famille et vos amis à un quiz et montrez qui est le meilleur! REMUEZ VOS MÉN
+- [Trivia Crack 94%](../games/educational/trivia-crack-94.md) — Trivia Crack 94% is a thrilling trivia game! Test your knowledge and prove you are the smartest not only by answering tr
+- [Trivia Millionaire](../games/educational/trivia-millionaire.md) — Trivia Millionaire is a trivia game where players answer questions by choosing the correct option from four possible ans
+- [Trivia Mind Game](../games/educational/trivia-mind-game.md) — Get ready for fast thinking and quick decisions in Trivia Mind Game! Face challenging questions under pressure and choos
+- [Trivia Quiz](../games/educational/trivia-quiz.md) — Trivia Quiz features 6 categories, score system, good graphics and a lot of fun.
+- [True False - Quiz](../games/educational/true-false-quiz.md) — "True False - Quiz" is a fun interactive game with interesting facts that you can confirm or disprove! 40+ levels will h
+- [True or False Game 26](../games/educational/true-or-false-game-26.md) — Test your erudition and intuition in this addictive quiz! You have to dive into a world of amazing facts and decide whet
+- [True or false quiz](../games/educational/true-or-false-quiz.md) — True or False is a game where you have to show your knowledge and guess if the written fact is true or false. The game p
+- [Try To Count The Boxes Brain Training](../games/educational/try-to-count-the-boxes-brain-training.md) — Challenge your memory, speed and attention in "Try To Count The Boxes Brain Training". Watch boxes appear, remember the 
+- [Turbo Tables](../games/educational/turbo-tables.md) — Turbo Tables is a fast-paced and exciting math game that puts your multiplication skills to the test! Race against the c
+- [Turbo Tables](../games/educational/turbo-tables-2.md) — Compete against time and test your multiplication prowess in Turbo Tables. Mastering times tables becomes exciting with 
+- [Twinkle My Unicorn Cat Princess Caring](../games/educational/twinkle-my-unicorn-cat-princess-caring.md) — Help baby cat Twinkle hatch from her magical egg! Show the kitty around the royal palace and take good care of her! Watc
+- [Ultimate Trivia Quiz](../games/educational/ultimate-trivia-quiz.md) — Ultimate Trivia Quiz is an exciting quiz game with two types of questions. Test your knowledge by answering the question
+- [Unicorn Math](../games/educational/unicorn-math.md) — Do you also struggle with your math grades and are always uninterested in the subject of math? Maybe the learning method
+- [Unite Words](../games/educational/unite-words.md) — Find groups of 4 related words and place them in the same row to complete a set. Swap words between rows to arrange them
+- [Unsigned Int](../games/educational/unsigned-int.md) — This is a math puzzle game with 2 modes. Easy mode starts with addition and subtraction puzzles. Hard levels, which use 
+- [Veggie Friends](../games/educational/veggie-friends.md) — Join cheerful veggie pals on an educational adventure! Explore vibrant worlds, gathering and sorting vegetables while un
+- [Veggie Friends Game](../games/educational/veggie-friends-game.md) — Veggie Friends is an engaging and educational game designed to teach kids about different vegetables while providing hou
+- [Virus vaccine coronavirus covid-19](../games/educational/virus-vaccine-coronavirus-covid-19.md) — Coronavirus covid-19 virus vaccine. you have to collect the same color items as your jar.
+- [Vowels Vs Consonants](../games/educational/vowels-vs-consonants.md) — Challenge your brain with Vowel Vs Consonant! This fun educational game helps children and learners practice identifying
+- [Vowels VS Consonants](../games/educational/vowels-vs-consonants-2.md) — Enhance your letter recognition skills with rapid decisions in Vowels VS Consonants. Dive into this educational challeng
+- [Water Color Sort Game](../games/educational/water-color-sort-game.md) — Water Color Sort is a perfectly simple yet addictive, and challenging puzzle game! This is the best free water-sorting p
+- [Water Me Please!](../games/educational/water-me-please.md) — Guide water to thirsty plants by arranging puzzle pieces in over 600 levels. Enjoy a serene journey in Relax Mode or tac
+- [What Comes Next](../games/educational/what-comes-next.md) — Look at the pattern and drag the next thing to the blank place.
+- [What kind of Santa Claus are you](../games/educational/what-kind-of-santa-claus-are-you.md) — Santa Clauses are different: strict, funny and even a little strange. Have you ever thought about which of the main wiza
+- [What Letter is It?](../games/educational/what-letter-is-it.md) — "What Letter is It?" transforms learning into a playful adventure, offering a delightful twist on alphabet mastery. With
+- [What Number is it?](../games/educational/what-number-is-it.md) — Dive into the auditory world of "What Number is it?" where numbers come alive through sound. Hone your listening skills 
+- [What Organ Is This?](../games/educational/what-organ-is-this.md) — Embark on an engaging journey through the human body in "What Organ Is This?"—a delightful blend of puzzle-solving and b
+- [Which Is Different Animal](../games/educational/which-is-different-animal.md) — Click on a image which is different from others.
+- [Who Is?](../games/educational/who-is.md) — "Who Is Who?" is a fun logic game that offers you over a hundred scenarios and you need to think outside the box to solv
+- [Who Wants to Be a Millionaire?](../games/educational/who-wants-to-be-a-millionaire.md) — The Official Who Wants to Be a Millionaire? Trivia Game! Do you love game show trivia? Have you always dreamed of taking
+- [Wild Animal Hospital Veterinarian](../games/educational/wild-animal-hospital-veterinarian.md) — In the world, there are many different, important, and necessary professions. One such wonderful profession is a doctor.
+- [Winter Gems 10x10](../games/educational/winter-gems-10x10.md) — 10x10 Winter Gems is a pure matching puzzle game with different 2D gems on a 10x10 platform. As an endless game, if you 
+- [Winter Warm Up Math](../games/educational/winter-warm-up-math.md) — Winter Math Warm-up is a math puzzle game. In this game you need to find the values of some winter items by solving give
+- [Wolfoo Word Wonders](../games/educational/wolfoo-word-wonders.md) — Wolfoo Word Wonders: swipe letters on the wheel to spell words and fill the crossword! 30 levels (Easy&rarr;Expert), hin
+- [Word Animals for Kids](../games/educational/word-animals-for-kids.md) — Embark on a vibrant adventure in Word Animals for Kids, where young minds discover the wonders of the animal kingdom. In
+- [Word Challenge](../games/educational/word-challenge.md) — Games using anagrams are very popular and the appearance of the new Word Challenge toy will not steal at all, but will a
+- [Word Chef](../games/educational/word-chef.md) — Word Chef is a classic word search puzzle game. This free word game makes learning new words fun. It comes with 6 diffic
+- [Word Chef Search Puzzle](../games/educational/word-chef-search-puzzle.md) — Welcome to the Word Chef Search Puzzle, where you embark on a culinary adventure through a savory maze of letters to unc
+- [Word Connect Game](../games/educational/word-connect-game.md) — Word Connect is an exciting puzzle game! Focus on finding all the hidden words in a given letter and connecting them in 
+- [Word Cross](../games/educational/word-cross.md) — Word Cross is an excellent way to loosen up and relax your mind. Find as many hidden words as you can and improve your v
+- [Word Factory](../games/educational/word-factory.md) — Word Scramble, Cross-Word and Word Making, all have been put together in this interesting game. To create a word, move t
+- [Word Finder](../games/educational/word-finder.md) — 🐹Playing Word Finder 10 minutes a day sharpens your mind and prepares you for your daily life and challenges!🐹
+- [Word Game 2026](../games/educational/word-game-2026.md) — Welcome to Words Game 2026 &mdash; a relaxing and addictive crossword adventure! Travel through beautiful locations whil
+- [Word it UP](../games/educational/word-it-up.md) — Word it UP challenges players to drag letters and create words to complete each level. With multiple levels awaiting, th
+- [Word Jam Association Puzzle](../games/educational/word-jam-association-puzzle.md) — Dive into the ultimate brain puzzle challenge with Word Jam - Association Puzzle! It&rsquo;s a word lover&rsquo;s dream!
+- [Word Maker](../games/educational/word-maker.md) — Word Maker is a fun word puzzle game where you create real words from scrambled letters. Drag the letters into the corre
+- [Word Maker Game](../games/educational/word-maker-game.md) — Unleash your word wizardry by unscrambling letters to form meaningful words. Start easy with 3-letter challenges, then t
+- [Word Master](../games/educational/word-master.md) — Word Master is an exciting online game that tests your vocabulary skills. In this game, you are given a set of letters a
+- [Word: Online Hunt](../games/educational/word-online-hunt.md) — Word: Online Hunt Word: Online Hunt is a fun and addictive word search puzzle game where your goal is to find hidden wor
+- [Word Puzzle Connect Words and Letters](../games/educational/word-puzzle-connect-words-and-letters.md) — Word Puzzle Connect Words and Letters is a fun word game where you connect letter bubbles to form words on various theme
+- [Word Puzzle Travel](../games/educational/word-puzzle-travel.md) — Word Puzzle Travel offers an exciting journey through language and exploration. In this captivating game, players embark
+- [Word Quest](../games/educational/word-quest.md) — Here come some tasty Word Cookies hot out of the oven! Take a bite! Word Cookies is an addictive mix of all the word gam
+- [Word Search](../games/educational/word-search.md) — An educational puzzle game with more than 2000 levels to solve! Seek Hidden words, find success in different vocabulary 
+- [Word Search Challenge](../games/educational/word-search-challenge.md) — Animals ask you to find their names on the game board on the right. There are scattered in the chaotic order of the lett
+- [Word Search Countries](../games/educational/word-search-countries.md) — Find the word in straight line of blocks (Horizontally, vertically or diagonally with any direction), press the block sh
+- [Word Search Game](../games/educational/word-search-game.md) — Word Search Game developed for fun and work in child development. Find the words hidden in the middle of the frame lette
+- [Word Search Hidden Words](../games/educational/word-search-hidden-words.md) — Ready to search for Hidden Words? Dive into the best Word Search Game Puzzle which will keep you searching for hours on 
+- [Word Search: Offline Puzzle](../games/educational/word-search-offline-puzzle.md) — Swipe across the letters to find hidden words in the grid — a cozy word search and word puzzle you can play offline, wit
+- [Word Search & Quiz](../games/educational/word-search-quiz.md) — 🔍 WORD SEARCH & QUIZ — Train Your Brain with 5 Exciting Game Modes!
+- [Word Search Time](../games/educational/word-search-time.md) — Find the word in straight line of blocks (Horizontally, vertically or diagonally with any direction), press the block sh
+- [Word Search Universe 2](../games/educational/word-search-universe-2.md) — Word Search Universe 2 is a fun and relaxing puzzle game where you find hidden words across many themed levels. Explore 
+- [Word Search Universe Animals](../games/educational/word-search-universe-animals.md) — Explore the animal kingdom in Word Search Universe Animals! Solve 45 exciting levels filled with hidden words from mamma
+- [Word Search Universe Easter](../games/educational/word-search-universe-easter.md) — Word Search Universe: Easter is a fun and relaxing word puzzle game with a cheerful Easter theme. Find hidden words, and
+- [Word Searching](../games/educational/word-searching.md) — Take your mind on an exotic journey with the most exciting, on word searching game! In this word search game, Search for
+- [WORD SHUFFLE](../games/educational/word-shuffle.md) — Pop the letter bubbles and form the correct words before time runs out. Each correct word gives you points. You can also
+- [Word Slide Game](../games/educational/word-slide-game.md) — Word Slide is a puzzle game where you rearrange columns of letters to form meaningful words. Your job is to come up with
+- [Word String](../games/educational/word-string.md) — 🧠 Challenge Your Mind with Word Chains! 🧠 Do you love word games, brain teasers, and puzzle challenges? Get ready for 
+- [Word Tangle](../games/educational/word-tangle.md) — Word Tangle is a fun and brain-teasing word puzzle game where you unscramble mixed-up letters to form the correct words!
+- [Word Up Challenge](../games/educational/word-up-challenge.md) — Word Up Challenge is a fun and addictive word puzzle game that tests your vocabulary and boosts your brainpower. Swipe l
+- [Wordix](../games/educational/wordix.md) — Wordix is an engaging logic game where your task is to guess the word within a limited number of attempts. It&rsquo;s th
+- [Wordle Guess Word](../games/educational/wordle-guess-word.md) — The rules are very simple: You need to guess the hidden word (from 4 to 11 letters) in 6 tries. To get started, just typ
+- [Words Crush : Find Hidden Words](../games/educational/words-crush-find-hidden-words.md) — The aim is to simply find all the hidden words. The words on each level are related to each other. With this game you ca
+- [Words game](../games/educational/words-game.md) — Words With the Words game, learn various words in a fun way. From mobile phone, tablet or computer. Game developed by: N
+- [World Flag Quiz](../games/educational/world-flag-quiz-2.md) — Dive into World Flag Quiz, a vibrant and captivating game that tests your geographic prowess. Match countries with their
+- [World Flags: Color Puzzle](../games/educational/world-flags-color-puzzle.md) — A unique flag-coloring puzzle combined with world exploration. Test your geography knowledge by painting flags correctly
+- [World Flags Memory](../games/educational/world-flags-memory.md) — We are with you in the game World Flags Memory. Together with you we will try to find all the pairs of some world flags.
+- [World Flags Quiz](../games/educational/world-flags-quiz.md) — World Flags Quiz is a fast-paced, fun, and educational mobile game that challenges players to match countries with their
+- [World Flags Trivia](../games/educational/world-flags-trivia.md) — Challenge your geography skills in World Flags Trivia! Identify the nation for each flag from three choices across 100 q
+- [World of Alice  Animal Habitat](../games/educational/world-of-alice-animal-habitat.md) — World of Alice - Animal Habitat World of Alice - Animal Habitat is an educational game developed for children where they
+- [World of Alice   Animal Numbers](../games/educational/world-of-alice-animal-numbers.md) — World of Alice - Animal Numbers World of Alice - Animal Numbers is an educational game developed for children to teach n
+- [World of Alice   Animal Sounds](../games/educational/world-of-alice-animal-sounds.md) — World of Alice - Animal Sounds World of Alice - Animal Sounds is an educational game developed for children where they w
+- [World of Alice   Animals Puzzle](../games/educational/world-of-alice-animals-puzzle.md) — World of Alice - Animal Puzzle World of Alice - Animal Puzzle is an educational game developed for children where you wi
+- [World of Alice   Archeology](../games/educational/world-of-alice-archeology.md) — World of Alice - Archeology World of Alice - Archeology is an educational game developed for children where they will le
+- [World of Alice   Body Organs](../games/educational/world-of-alice-body-organs.md) — World of Alice - Body Organs World of Alice - Body Organs is an educational game developed for children where they will 
+- [World of Alice   Daily Routine](../games/educational/world-of-alice-daily-routine.md) — 346 / 5 000 Resultados da tradu&ccedil;&atilde;o Resultado de tradu&ccedil;&atilde;o World of Alice - Daily Routine Worl
+- [World of Alice   Dino Fossil](../games/educational/world-of-alice-dino-fossil.md) — World of Alice - Dino Fossil World of Alice - Dino Fossil is an educational game aimed at children. With Alices help, yo
+- [World of Alice   Emotions](../games/educational/world-of-alice-emotions.md) — World of Alice - Emotions World of Alice - Emotions is an educational game developed for children where they will learn 
+- [World of Alice   First Letter](../games/educational/world-of-alice-first-letter.md) — World of Alice - First Letter World of Alice - First Letter is an educational game developed for children where you will
+- [World of Alice   Food Puzzle](../games/educational/world-of-alice-food-puzzle.md) — World of Alice - Food Puzzle World of Alice - Food Puzzle is a game developed for children where they can play a fun puz
+- [World of Alice   Footprints](../games/educational/world-of-alice-footprints.md) — World of Alice - Footprints is an educational game developed for children where they will learn different animal footpri
+- [World of Alice   Images and Words](../games/educational/world-of-alice-images-and-words.md) — World of Alice - Images and Words World of Alice - Images and Words is an educational game developed for children where 
+- [World of Alice   Make Words](../games/educational/world-of-alice-make-words.md) — World of Alice - Make Words World of Alice - Make Words is an educational game developed for children with the aim of te
+- [World of Alice - Make Words](../games/educational/world-of-alice-make-words-2.md) — Join Alice on an enchanting vocabulary-building adventure! Drag letters to craft simple words, enhancing spelling and vo
+- [World of Alice   Memory Game](../games/educational/world-of-alice-memory-game.md) — World of Alice - Memory Game is an enchanting educational game designed for children to boost their memory and logical t
+- [World of Alice   Moon Jump](../games/educational/world-of-alice-moon-jump.md) — World of Alice - Moon Jump World of Alice - Moon Jump is an educational game developed for children where you will train
+- [World of Alice   My Dog](../games/educational/world-of-alice-my-dog.md) — World of Alice - My Dog World of Alice - My Dog is an educational game developed for children in which you can have the 
+- [World of Alice   Numbers Shapes](../games/educational/world-of-alice-numbers-shapes.md) — World of Alice - Numbers Shapes World of Alice - Numbers Shapes is an educational game developed for children where they
+- [World of Alice   Occupations](../games/educational/world-of-alice-occupations.md) — Alices World - Occupations World of Alice - Occupations is an educational game developed for children where they will le
+- [World of Alice - Opposites game](../games/educational/world-of-alice-opposites-game.md) — World of Alice - Opposites World of Alice - Opposites is an educational game developed for children in which they will l
+- [World of Alice   Parts of the House](../games/educational/world-of-alice-parts-of-the-house.md) — World of Alice - Parts of the House World of Alice - Parts of the House is an educational game developed for children wh
+- [World of Alice   Pirate Treasure](../games/educational/world-of-alice-pirate-treasure.md) — World of Alice - Pirate Treasure World of Alice - Pirate Treasure is an educational game developed for children with the
+- [World of Alice   Plant Game](../games/educational/world-of-alice-plant-game.md) — World of Alice - Plant Game is an educational game developed for children with the aim of teaching them how to cultivate
+- [World of Alice   Puzzle Numbers](../games/educational/world-of-alice-puzzle-numbers.md) — World of Alice - Puzzle Numbers World of Alice - Puzzle Numbers is an educational game developed for children where, thr
+- [World of Alice   Quantities](../games/educational/world-of-alice-quantities.md) — World of Alice - Quantities is an educational game developed for children where you will learn the quantities of numbers
+- [World of Alice   Rocks Textures](../games/educational/world-of-alice-rocks-textures.md) — World of Alice - Rocks Textures is an educational game developed for children where they will learn the different textur
+- [World of Alice   Search and Find](../games/educational/world-of-alice-search-and-find.md) — World of Alice - Search and Find World of Alice - Search and Find is an educational game developed for children where yo
+- [World of Alice Sequencing Numbers](../games/educational/world-of-alice-sequencing-numbers.md) — World of Alice -&nbsp;Sequencing Numbers World of Alice - Sequencing Numbers is an educational game developed for childr
+- [World of Alice   Shapes of Musical Instruments](../games/educational/world-of-alice-shapes-of-musical-instruments.md) — World of Alice - Shapes of Musical Instruments World of Alice - Shapes of Musical Instruments is an educational game dev
+- [World of Alice   Sizes](../games/educational/world-of-alice-sizes.md) — World of Alice - Sizes World of Alice - Sizes is a game developed for children to teach the difference in size scale in 
+- [World of Alice   Solar System](../games/educational/world-of-alice-solar-system.md) — World of Alice - Solar System World of Alice - Solar System is an educational game for children where you will learn, wi
+- [World of Alice   Star Sequence](../games/educational/world-of-alice-star-sequence.md) — World of Alice - Star Sequence World of Alice - Star Sequence is an educational game developed for children where they w
+- [World of Alice   The Bones](../games/educational/world-of-alice-the-bones.md) — World of Alice - The Bones World of Alice - The Bones is a game developed for children to teach the bones of the human b
+- [World of Alice   Uppercase and Lowercase](../games/educational/world-of-alice-uppercase-and-lowercase.md) — World of Alice - Uppercase and Lowercase World of Alice - Uppercase and Lowercase is an educational game developed for c
+- [Write The Missing Letter](../games/educational/write-the-missing-letter.md) — Dive into a world of words with Write The Missing Letter, an engaging game that sharpens literacy skills effortlessly. S
+- [X-Mas Math](../games/educational/x-mas-math.md) — XMAS Math is a simple but fun to play puzzle math game. The word XMAS is used to represent the numbers in the boxes. The
+- [Xmas Word Puzzles](../games/educational/xmas-word-puzzles.md) — Classic word scramble game with Xmas theme.
+- [Xmas Wordering](../games/educational/xmas-wordering.md) — This is an interesting word puzzle game with Christmas theme. Try to find the name of Item using scramble letters then t
+- [Yes or No Challenge](../games/educational/yes-or-no-challenge.md) — A quiz show is beginning in the Yes Or No Challenge game in single player and 2 player gaming modes. There are lots of q
+- [Yummy Cupcake](../games/educational/yummy-cupcake.md) — Enter Yummy Cupcake's delicious world, where you're the master pastry chef! Bake, decorate, and create irresistible cupc
+- [Zoo Zoom Shapes](../games/educational/zoo-zoom-shapes.md) — Get ready for a wild shape-matching adventure in Zoo Zoom Shapes! Match the adorable animal pictures with their correspo

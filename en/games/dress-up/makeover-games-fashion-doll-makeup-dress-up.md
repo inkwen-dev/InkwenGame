@@ -1,0 +1,24 @@
+# Makeover Games: Fashion Doll Makeup Dress up
+
+<a href="https://inkwengame.com/games/makeover-games-fashion-doll-makeup-dress-up" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/makeover-games-fashion-doll-makeup-dress-up/cover.jpg)
+
+Princess fashion of salon mania becomes the girl of your dreams and play the adventure of fashion dress up girl makeover game. Become a Fashion designer and a…
+
+## How to play
+
+Princess fashion of salon mania becomes the girl of your dreams and play the adventure of fashion dress up girl makeover game Become a Fashion designer and a Star Fashion Designer in girl makeup beauty game by beating the most stylist opponents in this d
+
+## About
+
+Princess fashion of salon mania becomes the girl of your dreams and play the adventure of fashion dress up girl makeover game. Become a Fashion designer and a Star Fashion Designer in girl makeup beauty game by beating the most stylist opponents in this dress up fashion salon. Best Makeup Kit Factory with Classic Fashion Games and modern salon makeover games 2020 You are in Magic Fairy Beauty Game at the right place of virtual salon having Dresses of Magic Princess Fashion Dress Up Salon, Hairstyles, and Shopping of outfits for ameliorate kids make up skills and makeover skills. Super Style your character in dressup modern makeup salon fashion games Princess dress up game for the party. A dress up game for adults and kids where your style in mermaid makeup games your character in the most glamorous way. Fashion stylist and Fashion Designers skills will enhance while playing this super game of dressing. You were young and princess of your home when your mom used to dress up you in most funky, princess dress up, party dress up, wedding dress up to make you glam girl of dress up games. You are a dress-up salon designer and you know how to dress up games your fashion glam girls for office and wedding. Open your dream closet and chose then the way you want to dress kids makeup candy games. Are you ready to dress up as princess and makeover in this Dress up Fashion salon - Girls makeover dress up and makeup games. Best makeup and dress up game for you to spend a good time in magic royal princess other modes for hairstyling and free design and dressing. Go through the whole process. wash the hairs cut the hairs to make them curls or straight after shampoo. Do a complete makeover of your dress-up doll. once your doll princess is ready for dressing, Select the Dress for your princess from the fashion games and dress up games cupboard for free. If you are going on a luxury wedding chose the wedding dress. and make up your princess in the dress-up game. If you are going in the party dress up with favorite party wear. You have casual wear and office formal wear options as well. This dress up makeover game of 2020 will teach you the real process of dressing and makeover for free. Learn how to use eyelashes and mascara for the princess in self-improving makeover games. This Dress up fashion salon is the number 1 and top game from the dress up games. This dress up and makeover princess game has more than 500 dresses for princess and doll to chose for dressing game. Piles of accessories, glasses, hair bands, wrist watches, necklaces, and a variety of glam girl shoes. You can get ready for any event dress up. Even the red carpet dress up and a makeover can be done in this Dress up Fashion salon fashion wedding dress up and winter wedding games. Fairy Makeup Spa Salon Dressup Game become the star fashion, salon girl royal princess with the Makeup. After the makeover of the doll princess in Fashion salon, Use the camera and snapshot your favorite look to share with your friends. Compare your dress up sense with your friends and win the hearts of your friends and family in this dress up fashion salon game. Glam Dress Up Fashion Salon - Girls Makeover Game Features: - Variety of Dresses for all type of events, parties, luxury weddings, friends birthdays, date, and even for Christmas and new year - Stay home and learn the dress up games makeover in your favorite fashion dream glam salon - More than 500 dresses, shoes, accessories - Makeover the girls like never before - Try and learn the dress up and fashion games skills - Beauty parlor and dress up boutique game - Super addictive gameplay and levels - Rewards at the end of best dress up and makeover - Share favorite outfit style look of your princess and doll with your friends Play and win the hearts of your friends become beauty diva and fashion girls by the makeover and dress up in the best outfit of glam beauty girls.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Dress Up, Fashion, Girls, Princess

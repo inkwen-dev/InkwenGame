@@ -1,0 +1,24 @@
+# Tinkerbell Jigsaw Puzzle Collection
+
+<a href="https://inkwengame.com/games/tinkerbell-jigsaw-puzzle-collection" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/tinkerbell-jigsaw-puzzle-collection/cover.jpg)
+
+The Tinkerbell fairies gathered in the clearing to take a walk together and play with the butterflies, who are very fond of fairies. Insects, birds and animals…
+
+## How to play
+
+mouse
+
+## About
+
+The Tinkerbell fairies gathered in the clearing to take a walk together and play with the butterflies, who are very fond of fairies. Insects, birds and animals come running to the clearing, meeting the fairies. This picture you can see in front of you, but first you need to collect it from many parts, depending on the level of the game. Control of the game: left mouse button.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Jigsaw

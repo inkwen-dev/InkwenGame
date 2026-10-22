@@ -1,0 +1,24 @@
+# Spiderman Assassin
+
+<a href="https://inkwengame.com/games/spiderman-assassin" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/spiderman-assassin/cover.jpg)
+
+Control the Spiderman and hunt down your targets one by one. Use your surroundings and shadows to stay hidden from flashlights. Targets with automatic machine…
+
+## How to play
+
+Tap to move and kill target
+
+## About
+
+Control the Spiderman and hunt down your targets one by one. Use your surroundings and shadows to stay hidden from flashlights. Targets with automatic machine guns can be lurking around each corner. Attack them swiftly and escape without being spotted. Can you help Spideman complete his mission?
+
+## Details
+
+- Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Kill, Killing, Spiderman, Super, Superhero

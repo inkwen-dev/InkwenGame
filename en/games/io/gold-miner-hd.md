@@ -1,0 +1,24 @@
+# Gold Miner HD
+
+<a href="https://inkwengame.com/games/gold-miner-hd" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/gold-miner-hd/cover.jpg)
+
+Get all the gold on screen and complete level
+
+## How to play
+
+Click to play
+
+## About
+
+Get all the gold on screen and complete level
+
+## Details
+
+- Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: .io, Gold, Hypercasual, Miner, Puzzle

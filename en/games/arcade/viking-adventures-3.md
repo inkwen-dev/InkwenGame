@@ -1,0 +1,24 @@
+# Viking Adventures 3
+
+<a href="https://inkwengame.com/games/viking-adventures-3" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/viking-adventures-3/cover.jpg)
+
+Be careful not to get burned and collect all the gold while completing 3 different levels with the viking!
+
+## How to play
+
+w a d
+
+## About
+
+Be careful not to get burned and collect all the gold while completing 3 different levels with the viking!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 1 Player, 2D, Action, Adventure, Arcade

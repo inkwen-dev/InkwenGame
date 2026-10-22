@@ -1,0 +1,4758 @@
+# Action
+
+Fast action games on InkwenGame—parkour runners, fighting rounds, and other quick-reflex titles. Play free in your browser whenever you want a short, intense session—no app install.
+
+- <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
+
+## Games
+
+- [1 2 3, Stop](../games/action/1-2-3-stop.md) — Today I will provide you 1 2 3, Stop . 1 2 3, Stop is a game that is very popular with people because there are so many 
+- [+1 Speed: Escape Prison](../games/action/1-speed-escape-prison.md) — Get ready for a wild prison break in this dynamic obstacle parkour game with +1 Speed boosts! Your goal is to escape fro
+- [+1 SPEED: Escape School](../games/action/1-speed-escape-school.md) — +1 SPEED: Escape School is an exciting parkour game with unique +1 to speed mechanics, where you have to escape from a s
+- [+1 Speed per Step | Obby Mode](../games/action/1-speed-per-step-obby-mode.md) — Welcome to +1 Speed per Step | Obby Mode.
+- [+1 Speed Superhero Obby](../games/action/1-speed-superhero-obby.md) — +1 Speed Superhero Obby is a 3D obby where every step adds speed. Run the colorful towers, train on treadmills, smash sp
+- [+1 Strength for escape](../games/action/1-strength-for-escape.md) — 💪 Become the strongest and break out of dangerous zones!
+- [11 Kisses](../games/action/11-kisses-2.md) — Angel-Girl and Demon-Boy were separated by fate. Help the Angel get to her lover and disenchant him with a kiss. You wil
+- [11 Kisses](../games/action/11-kisses-3.md) — Join Angel-Girl on a heartwarming quest in 11 Kisses, where love conquers all amidst cunning puzzles. Think outside the 
+- [12 minutes to survive](../games/action/12-minutes-to-survive.md) — Step into the shoes of a powerful mage in 12 Minutes to Survive, an intense survival game where every second counts! Bat
+- [1945 Air Force Airplane](../games/action/1945-air-force-airplane-2.md) — Engage in relentless, heart-pounding aerial clashes as you master nimble maneuvers and devastating firepower in "1945 Ai
+- [2 Player Games 1v1 Battle](../games/action/2-player-games-1v1-battle.md) — Dive into thrilling 1v1 battles where speed and reflexes reign supreme! Challenge a friend in diverse settings, from tre
+- [2 Player Santa Battle](../games/action/2-player-santa-battle.md) — Race against time in this holiday showdown between Santa and the Green Monster! Collect gifts and dodge the cursed ones 
+- [2 Player Tank Battle](../games/action/2-player-tank-battle.md) — Lots of action and fun, two player tank war game.
+- [2 Side Jump](../games/action/2-side-jump.md) — Survive an endless barrage of obstacles in 2 Side Jump, a thrilling one-tap arcade adventure. Master timing and quick de
+- [2048 3d Game](../games/action/2048-3d-game.md) — 2048 3D is a fun running game with little balls of numbers. Its not difficult to control your ball, swipe to control you
+- [2048 ABC Runner](../games/action/2048-abc-runner.md) — 2048 ABC Runner is a strange letter-running arcade game with 3D models and a platform. You are required to control a cha
+- [2048 Cube Runner ultimate](../games/action/2048-cube-runner-ultimate.md) — Cube Runner is a fast-paced endless runner game where players control a cube racing through a dynamic track full of obst
+- [2048 parkour](../games/action/2048-parkour.md) — Parkour 2048 is a Parkour level game, the combination of Parkour and 2048, giving players the most unique way to play, c
+- [2048 Run 3D](../games/action/2048-run-3d.md) — 2048 Run 3D is a brand-new free digital online game for boys. In the game, control your ball to merge in different numbe
+- [2D Game Ariplane Wars 1942](../games/action/2d-game-ariplane-wars-1942.md) — Grab the control yoke of a warplane and also delve into the battlegrounds of Globe Battle 2 in this thrilling battle tri
+- [2D Infinite Lap Runner](../games/action/2d-infinite-lap-runner.md) — Guide a high-speed robot through endless thrilling tracks in 2D Infinite Lap Runner. Test your reflexes as the terrain s
+- [2D Obby Rainbow Parkour](../games/action/2d-obby-rainbow-parkour.md) — In the Rainbow Obby, you must complete the course without falling down. The Rainbow Obby is difficult, and sometimes, ev
+- [2D Obby Rainbow Parkour](../games/action/2d-obby-rainbow-parkour-2.md) — Conquer a vibrant maze of challenges in 2D Obby Rainbow Parkour. Leap and dodge through dynamic, colorful levels, master
+- [2D Platformer Coin](../games/action/2d-platformer-coin.md) — Navigate a whimsical world as a daring adventurer in 2D Platformer Coin. Master unique skills to collect elusive gold co
+- [3 Warrior Team Force](../games/action/3-warrior-team-force.md) — Unite your band of brave warriors! Travel across dangers to free the kingdom from evil dominion! In Warriors League, you
+- [3D Block Gladiator: Sword Draw](../games/action/3d-block-gladiator-sword-draw.md) — Step into the gladiator arena where only the strongest and smartest warriors survive! In 3D Block Gladiator: Sword Draw,
+- [3D cube](../games/action/3d-cube.md) — 3D cube
+- [3D Cube Runner](../games/action/3d-cube-runner-2.md) — Dive into the thrilling world of 3D Cube Runner, where your reflexes are put to the ultimate test. Navigate a vibrant, o
+- [3D Desert Parkour](../games/action/3d-desert-parkour.md) — A super cute tower defense game, many people have been obsessed with it and cannot extricate themselves. Multiple levels
+- [3D laane runner](../games/action/3d-laane-runner.md) — Run through stunning 3D landscapes in 3D Laane Runner, adjusting camera angles and navigating with skill. Master platfor
+- [3D Lane Runner](../games/action/3d-lane-runner.md) — 3D Lane Runner offers a thrilling endless race through vibrant worlds. Master quick lane changes and dodge obstacles, as
+- [3D Quiz: Fight of Four](../games/action/3d-quiz-fight-of-four.md) — 3D Quiz: Fight of Four resembles the well-known project "Own Game". Compete with 4 rivals on a variety of topics at once
+- [3D Run Tom! - Escape](../games/action/3d-run-tom-escape.md) — Help Tom! Find the key on the map and free Tom from the room. It will make you rich... Run with Tom in 3D Running, the p
+- [3D Stacky Dash Craft Run](../games/action/3d-stacky-dash-craft-run.md) — Stacky Run is an interesting new arcade game, but also a rare 3D art-style parkour game. Your job is to control the park
+- [3D stickman sky challenge](../games/action/3d-stickman-sky-challenge.md) — 3D stickman sky challenge is one of the absolute best runner games. It has full of adventures and offers you unique game
+- [3Dcube](../games/action/3dcube.md) — Dive into a colorful 3D world with 3Dcube, where your agility and quick wit are key. Identify and capture the correct nu
+- [3DLane Runner](../games/action/3dlane-runner.md) — Race through exhilarating lanes in 3DLane Runner, dodging obstacles with swift swipes. Master timing and agility as spee
+- [4 Colors Battle](../games/action/4-colors-battle.md) — 4 Colors Battle is puzzle game where you need to tap on the screen to rotate the circle and to be the same color as the 
+- [5 minutes in space](../games/action/5-minutes-in-space.md) — 5 minute game in space, the goal is for the player to last 5 minutes without dying.
+- [8 BALL PRO](../games/action/8-ball-pro.md) — Do you want to play in the world of pool games? 8 Ball Pool is an addictive challenging game based on real 3D pool games
+- [90 Degrees Escape](../games/action/90-degrees-escape.md) — At this game you need to avoid coming objects only with maneuver from 90 degrees. It is hard from beginning but after so
+- [99 Nights In The Forest - Battle Squads](../games/action/99-nights-in-the-forest-battle-squads.md) — 99 Nights In The Forest - Battle Squads - Defeat monsters and rescue lost children!
+- [A Little Walk in the Woods](../games/action/a-little-walk-in-the-woods.md) — Embark on a serene pixelated adventure in A Little Walk in the Woods. Navigate lush landscapes, leap over obstacles, and
+- [A Penguin Love](../games/action/a-penguin-love.md) — Help Mr Penguin to find his children and join his wife in this simple and intuitive platform game. Travel through four w
+- [A Pixel Adventure Legion](../games/action/a-pixel-adventure-legion.md) — A Pixel Adventure Legion - Explore various locations of the dark castle, in order to find and save the princess. The sto
+- [A Silly Journey](../games/action/a-silly-journey.md) — You've lost your wallet and you are ready to face everything to have it back! Collect all the coins in each level, and f
+- [ABC Runner](../games/action/abc-runner.md) — ABC Runner is a racing game that combines typing. When you typing the correct answer you can pass, continue to the next 
+- [ABC Runner Master](../games/action/abc-runner-master.md) — ABC Runner game which is very fun and challenging. you must try and feel the sensation
+- [Ace Brawl Battle 3D Game](../games/action/ace-brawl-battle-3d-game.md) — Ace Brawl Battle 3D is an online game which you can play on mobile and tablet for free. Ace Brawl Battle 3D is an epic m
+- [Ace Force Air Warfare Joint Combat Modern Warplane](../games/action/ace-force-air-warfare-joint-combat-modern-warplane.md) — "Ace Force Air Warfare Joint Combat Modern Warplane" transfers you to the world of modern supersonic jet fighters of lea
+- [Ace plane decisive battle](../games/action/ace-plane-decisive-battle.md) — Control your fighter, dodge local attacks, survive, and get high scores
+- [Acorn Bot](../games/action/acorn-bot.md) — Acorn Bot is a 2D platformer where you have to collect all of the ice cream cones while avoiding enemy bots, spikes, gro
+- [Acorn Bot 2](../games/action/acorn-bot-2.md) — Acorn Bot 2 is a 2D platformer where you have to collect all of the ice cream cones while avoiding the enemy bots, flyin
+- [Adou Adventure](../games/action/adou-adventure.md) — Adou Adventure is a 2D Platformer where you have to collect the jewels while avoiding the enemies, rotating blades and s
+- [Advanture Of Tommy](../games/action/advanture-of-tommy.md) — Explore the adventure and fun game Adventure of Tommy In this adventure many mysterious traps and dangers were waiting f
+- [Adventure Girl](../games/action/adventure-girl.md) — adventure girl is a platformer game in html5, as a girl you must collect fruit on level and collect 3 or 5 bottle to unl
+- [Adventure Hero](../games/action/adventure-hero.md) — Enjoy playing a new platformer game called Adventure Hero. Crab all the fruit as much you can and collect the trophies. 
+- [Adventure Hero 2](../games/action/adventure-hero-2.md) — From the series of Adventure Hero game here we release the next levels of the game. Enjoy playing a new platformer game 
+- [Adventure Home](../games/action/adventure-home.md) — Welcome to Adventure Home: Run Adventure, the ultimate mobile game that will take you on a thrilling journey of running,
+- [Adventure Jumper](../games/action/adventure-jumper.md) — Leap through exhilarating levels in Adventure Jumper! Perfectly time your double jumps to conquer tricky platforms, dodg
+- [Adventure Of Tommy](../games/action/adventure-of-tommy.md) — Explore the adventure and fun game Adventure of Tommy. In this adventure many mysterious traps and dangers were waiting 
+- [Adventure of Zenny](../games/action/adventure-of-zenny.md) — Join Princess Zenny on a thrilling quest to save her father from a wicked curse. Dodge traps, collect crystal coins, and
+- [Adventure Platform](../games/action/adventure-platform.md) — Stage platform game, 11 stages + final stage. Go through precision challenges, through falling platforms, spears and run
+- [Adventure Rush](../games/action/adventure-rush.md) — Adventure Rush is an online platform game full of action and challenges. Run through paths packed with traps, jump at th
+- [Adventures of the Medieval Capybara](../games/action/adventures-of-the-medieval-capybara.md) — Aventuras da Capivara Medieval is an exciting endless runner, where you become the powerful and courageous capybara that
+- [Aether War](../games/action/aether-war.md) — In Aether War, dive into a dynamic blend of real-time strategy and tower defense. Manage resources wisely, craft the ult
+- [Age Evolution Run](../games/action/age-evolution-run.md) — Age Evolution Run is a runner game that takes you on a wild sprint through the ages of humanity. You&rsquo;ll dash from 
+- [Age man](../games/action/age-man.md) — Well,this is a very simple game where you have to run from left to right and jump on enemeis to kill them and also does 
+- [Age Of Apes](../games/action/age-of-apes.md) — Enter the Age of the Apes, a monkey war of adventure, evolution and passion. This is a fun multiplayer battle game world
+- [Age of Apes Run](../games/action/age-of-apes-run.md) — Dive into the wild ape adventure, where every step is a thrilling platform challenge. Dash through obstacles, collect ba
+- [Age of Apes Unblocked](../games/action/age-of-apes-unblocked.md) — Enter a wild, post-apocalyptic world in Age of Apes Unblocked. Control your ape in exhilarating arena battles, collectin
+- [Age Of Quest](../games/action/age-of-quest.md) — In the Age of Quest, relentless hordes of monsters and skeletons besiege your castle. Armed with a sword, endowed with p
+- [Age of Tanks Warriors: TD War](../games/action/age-of-tanks-warriors-td-war-2.md) — Embark on a tactical journey through time in Age of Tanks Warriors: TD War. Begin in the Stone Age, advancing to modern 
+- [Age of War 2](../games/action/age-of-war-2-2.md) — Embark on a strategic journey in Age of War 2, where you lead a duck army from cavemen to future warriors. Resourcefully
+- [Age Of War 3](../games/action/age-of-war-3.md) — Enter the Age of War, an interesting game filled with passion and strategy! In this game, guide your duck army in a nerv
+- [Agent Skibidi](../games/action/agent-skibidi-2.md) — Dare to dive into Agent Skibidi's world, where toilet monsters lurk! Team up in fast-paced, two-player action, obliterat
+- [AgeOfBattle](../games/action/ageofbattle.md) — Send troops to break through the enemys castle. Killing soldiers can earn you gold coins, and gold coins can unlock high
+- [Agumo](../games/action/agumo.md) — Agumo is a 2D platformer where you have to collect all of the cookies while avoiding the enemies, saws, spikes and reach
+- [Agumo 2](../games/action/agumo-2.md) — Agumo 2 is a 2D platformer where you have to collect all of the cookies while avoiding the enemies, saws, spikes and rea
+- [Aidan in Danger](../games/action/aidan-in-danger-2.md) — Join Aidan, a brave elf with a slingshot, on a thrilling quest to save Drakor, Earth's last dragon. Navigate time-twisti
+- [Aim Locker](../games/action/aim-locker.md) — A small game about aim. In this game you have 60 seconds to destroy as many balls as possible. 3 levels of balls (points
+- [Air Block](../games/action/air-block.md) — Leap into the whimsical world of Air Block where squirrel-bears use magic blocks to navigate obstacles. Strategize block
+- [Air Combat](../games/action/air-combat.md) — Experience the greatest air battles in Air Combat! Embark on daring aerial war and nerve-shredding tactical dogfights. F
+- [Air Fighters](../games/action/air-fighters.md) — Prepare for missions and take up the challenge of world supremacy now. Destroy your targets, whether land, sea or air. F
+- [Airforce Combat 2021](../games/action/airforce-combat-2021.md) — This is a Airforce Combat 2021 game shoot all the enemies aircraft before they shoot you. Complete all levels as fast yo
+- [Airport Inspection](../games/action/airport-inspection.md) — There are three parts, passport control, body check and backpack check. Passengers name, age and occupation must match t
+- [Aisa Bot](../games/action/aisa-bot.md) — Aisa Bot is a 2D Sci-fi themed platformer where you play as a bot who have to collect all of the cubes while avoiding th
+- [Aisa Bot 2](../games/action/aisa-bot-2.md) — Aisa Bot 2 is a 2D Sci-fi themed platformer where you play as a bot who have to collect all of the cubes while avoiding 
+- [Aisa vs Dragon Bots](../games/action/aisa-vs-dragon-bots.md) — Embark on a thrilling journey with Aisa bot, collecting red balls while dodging relentless Dragon bots, perilous traps, 
+- [Akihiko vs Cannons](../games/action/akihiko-vs-cannons.md) — Akihiko vs Cannons is a 2D platformer where you play as a guy called Akihiko who have to collect Gold Bars while avoidin
+- [Akihiko vs Cannons 2](../games/action/akihiko-vs-cannons-2.md) — Akihiko vs Cannons 2 is a 2D platformer where you have collect gold bars while avoiding ground enemy cannon bots, flying
+- [Akihiko vs Cannons 3](../games/action/akihiko-vs-cannons-3.md) — Akihiko vs Cannons 3 is a 2D platformer where you have to collect gold bars while avoiding cannon robots, flying cannon 
+- [Akochan Quest](../games/action/akochan-quest.md) — Akochan Quest is a 2D anime themed platformer where you play as Akochan, a girl, who have to collect all of the necklace
+- [Akochan Quest 2](../games/action/akochan-quest-2.md) — Akochan Quest 2 is a 2D Anime themed platformer where you play as a girl, Akochan, who have to collect all of the neckla
+- [Aladdin Platformer](../games/action/aladdin-platformer.md) — Embark on an exhilarating adventure with Aladdin! Leap through vibrant worlds, toss apples, and wield your sword to defe
+- [Aladdin Run 2021](../games/action/aladdin-run-2021.md) — Aladdin Run 2021 is an awesome endless runner game that takes inspiration from the amazing Disney film Aladdin. In this 
+- [Alex and Steve Miner Two Player](../games/action/alex-and-steve-miner-two-player.md) — Alex and Steve accidentally enter a cave, and you need to help them find their way out. Team up with a friend and work t
+- [Alex Meets Ally Exotica](../games/action/alex-meets-ally-exotica.md) — Join Alex on a whimsical adventure to reunite with Ally in vibrant settings. Master intuitive swinging mechanics, collec
+- [Alex Meets Ally Spring](../games/action/alex-meets-ally-spring.md) — Guide Alex through intriguing platformer levels filled with monsters and mind-bending puzzles. Race against time to coll
+- [Alex The Alien](../games/action/alex-the-alien.md) — Alex the alien is lost on a strange planet! Help him collect coins and open the portal to get to the next level. Travel 
+- [Alex Whiskers](../games/action/alex-whiskers.md) — Join Alex Whiskers, the adventurous town cat, on a fast-paced hunt for tasty fish! Dash through busy streets, bounce hig
+- [Alex World](../games/action/alex-world.md) — Defeat the 3 bosses in their castles and claim the gems! The world of this game contains well-designed levels, multiple 
+- [Alien Buster](../games/action/alien-buster-2.md) — Alien Buster thrusts you into a pulse-pounding battle against alien foes. Navigate treacherous levels armed with guns an
+- [Alien Clicker Invaders](../games/action/alien-clicker-invaders.md) — Alien Clicker Invaders is a thrilling action and reflex game where you face endless waves of alien invaders! Get ready t
+- [Alien Cube - Runner](../games/action/alien-cube-runner.md) — Alien Cube - Runner is a dynamic arcade game where precision and timing are everything. Guide your alien skyward by tapp
+- [Alien Hunter Remastered](../games/action/alien-hunter-remastered.md) — Alien Hunter Remastered plunges you into high-octane battles across alien-infested landscapes. Master your sword skills,
+- [Alien Hunters](../games/action/alien-hunters.md) — Embark on an electrifying hunt as an alien slayer armed with a light dagger. Navigate through 140 intense levels, perfec
+- [Alien Planet](../games/action/alien-planet.md) — The Alien Planet Online Jump Adventure Game is an intense and thrilling game that will challenge your skills and reflexe
+- [Aliens vs Zombies](../games/action/aliens-vs-zombies.md) — "ALIENS VS ZOMBIES - THIS IS VERY COOL GAME IN WHICH YOU ARE THE BRAVE ALIEN, KILLS ZOMBIES IN THE AIR AND ON LAND, WITH
+- [Aloo](../games/action/aloo.md) — Aloo is a 2D platformer where you play as the main character called Aloo, the potato man, and your mission is to collect
+- [Aloo 2](../games/action/aloo-2.md) — Aloo 2 is a 2D platformer where you play as Aloo, the potato man, and you have to reach the finish flag while collecting
+- [Aloo 3](../games/action/aloo-3.md) — Aloo 3 is a 2D platformer where you play as a Potato Man called Aloo and you have to collect energy drinks while avoidin
+- [Alpaca Run](../games/action/alpaca-run.md) — Run away from the wolf. Cactus placed on every path can be avoided by touch.
+- [Alphabet Lore 3](../games/action/alphabet-lore-3.md) — c'est un simulateur amusant avec des alphabets, Meilleures animations alphabétiques et jeu de sons Êtes-vous amusant de 
+- [Alphabet Lore Transform](../games/action/alphabet-lore-transform.md) — Il s'agit d'un jeu de simulation amusant d'Alphabet Lore ; il a toutes les étoiles de l'Alphabet de A à Z. Avec ce jeu a
+- [Alphabet Run](../games/action/alphabet-run.md) — Welcome to Alphabet Run 3D, an amazing game! You play as Alphabet A, and your mission is to collect as many alphabets as
+- [Alvin Super Hero](../games/action/alvin-super-hero.md) — Join the, Alvin Super Hero , in an action-packed superhero training game. Theodore has created a high-speed Superboard, 
+- [Alvin Super Run](../games/action/alvin-super-run.md) — Alvin will rush forward with all his might, gradually gaining speed. You will have to make your hero jump using the cont
+- [Amazing Circus Adventure](../games/action/amazing-circus-adventure.md) — Embark on a captivating 2D adventure in Amazing Circus Adventure. Swing, jump, and navigate through whimsical landscapes
+- [Amazing Digital Runner Circus](../games/action/amazing-digital-runner-circus.md) — The incredible Digital Runner Circus offers an enjoyable and demanding experience where you dash and gather your crates 
+- [Amazing Redpanda](../games/action/amazing-redpanda.md) — Jump & Slash! Become the Amazing red panda, avoid the enemies and kill as much as you can!
+- [Amazing Run 3D](../games/action/amazing-run-3d.md) — Can you believe you have superpowers? Here, you have been given a superpower, you can slow down all obstacles, and throu
+- [Ambidieztro](../games/action/ambidieztro.md) — Control two characters at the same time, one with each hand! Ambidieztro is a unique skill game that challenges your coo
+- [Ambidieztro](../games/action/ambidieztro-2.md) — Control two characters at the same time, one with each hand! Ambidieztro is a unique skill game that challenges your coo
+- [Among Akero Bots](../games/action/among-akero-bots.md) — Among Akero Bots is a 2D Sci-fi themed platformer where you play as Akero Bot who have to collect red magical gems while
+- [Among Akero Bots 2](../games/action/among-akero-bots-2.md) — Among Akero Bots 2 is a 2D Sci-fi themed platformer where you play as Akero Bot who have to collect red magical gems whi
+- [Among and meteors](../games/action/among-and-meteors.md) — An addicting game of speed and reaction in which you have to play as an among and dodge meteors in time! Choose a charac
+- [Among As Running](../games/action/among-as-running.md) — Guys, are you ready to stretch your fingers a little and arrange a free race with the cosmonauts "Among Us"? Then, welco
+- [Among Chen Bots](../games/action/among-chen-bots.md) — Among Chen Bots is a 2D Sci-Fi themed platformer where you have to collect the Blue Energy boxes while avoiding the enem
+- [Among Chen Bots 2](../games/action/among-chen-bots-2.md) — Among Chen Robots 2 is a 2D platformer where you have to collect blue energy boxes while avoiding the enemy bots, bullet
+- [Among escape](../games/action/among-escape.md) — An addicting game of speed and reaction in which you have to play as an among and overcome various obstacles on your way
+- [Among Golden Run 3D](../games/action/among-golden-run-3d.md) — Among Golden Run 3D is a thrilling parkour runner featuring familiar characters. Dash through obstacles in a fast-paced 
+- [Among Robots](../games/action/among-robots.md) — Among Robots is a 2D platformer where you have to collect key cards in order to unlock the door and to go to the next le
+- [Among Robots 2](../games/action/among-robots-2.md) — Among Robots is a 2D platformer where you have to collect all of the key cards in order to unlock the Exit door which le
+- [Among Run](../games/action/among-run.md) — Can your impostor survive? Prove it in Among Us like HTML5 game. All you need is to run as much as possible! Collect coi
+- [Among running](../games/action/among-running.md) — Amoung run is an interactive game of choosing time in which you have to get as far as possible with the hero in the game
+- [Among Squid Challenge](../games/action/among-squid-challenge.md) — Navigate a shadowy maze in Among Squid Challenge, a stealth-driven thriller where cunning and patience are your weapons.
+- [Among Stacky Runner](../games/action/among-stacky-runner.md) — Among Stacky Runner is an adventure game where you have to collect yellow blocks in order to overcome the stairs and var
+- [Among Tau Bots](../games/action/among-tau-bots.md) — Dive into the vivid 2D world of Among Tau Bots, where strategic jumps and quick reflexes are your best allies. Guide the
+- [Among Tau Bots 2](../games/action/among-tau-bots-2.md) — Dive into the electrifying world of Among Tau Bots 2, a thrilling 2D platformer. Navigate perilous traps and cunning ene
+- [AMONG THEM JUMPER 2](../games/action/among-them-jumper-2.md) — Run Imposter is a fun running game. In run imposter, you protect yourself from falling objects from space. It's a simple
+- [Among Tito](../games/action/among-tito.md) — Among Tito is a 2D Sci-fi themed platformer where you have to collect all of the adamant stones while avoiding the enemy
+- [Among Tito 2](../games/action/among-tito-2.md) — Among Tito 2 is a 2D Sci-Fi themed platformer where you have to collect adamant stones while avoiding the enemy bots, fl
+- [Among Us a Space Tasks](../games/action/among-us-a-space-tasks.md) — Game of tasks inside a ghost spaceship. Complete all tasks to fix your ship, and don't let the enemy catch you! Super fu
+- [Among Us Bouncy Rush](../games/action/among-us-bouncy-rush.md) — Amongus Bouncy Rush, your excitement will peak in this great game, be very careful, don't hit dangerous cogs. Hurry up c
+- [Among Us Cairo Run](../games/action/among-us-cairo-run.md) — If you're a Ninja lover, you won't want to miss the Among Us Cairo Run game. This game has more features than older vers
+- [Among Us Danger Run](../games/action/among-us-danger-run.md) — You will love this super game Among us Run! All you need is to run as fast as possible! But be careful, in the running g
+- [among us escape 3D](../games/action/among-us-escape-3d.md) — This could be one of the top fun free games which you can play as an agent to find the secret in the unlimited floor bui
+- [Among us Gravity Runner](../games/action/among-us-gravity-runner.md) — Play your new “Among us Gravity Runner” – Gravity Transformer from the makers of “RUN RUN 2D”, Transporter & Bike racing
+- [Among us imposter: hour of reckoning](../games/action/among-us-imposter-hour-of-reckoning.md) — Do you like Among Us? This game is for you! Mock the traitor in different ways, accumulating points and unlocking new we
+- [Among Us Jumper](../games/action/among-us-jumper.md) — Among Us Jumper is a very fun casual game that will test your skills. With taps on the screen, make the Among Us charact
+- [Among Us Online Edition - Find The Imposter](../games/action/among-us-online-edition-find-the-imposter.md) — Among Us Online Edition plays like the classics play rules as it on Steam. As a professional killer and a murderer, you 
+- [Among Us Parkour](../games/action/among-us-parkour.md) — Try to finish the game with the among us character! Touch the disabled and collect all the gold to reach the end!
+- [Among Us Play Online : Imposter Killer 3D](../games/action/among-us-play-online-imposter-killer-3d.md) — Imposter Galaxy: Imposter Killer 3D performs missions together or hunt them all. Play to find impostors today. Play as a
+- [Among Us Run](../games/action/among-us-run.md) — Impostors have invaded and sabotaged the spaceship! You must run around the ship collecting oxygen and coins while you a
+- [Among Us Run Super Fast](../games/action/among-us-run-super-fast.md) — Try to run and escape zombies, collect powerful item will help you faster. Red Imposter is a fun and engaging Action gam
+- [Among Us Runner](../games/action/among-us-runner.md) — A funny and cheerful alien landed in the city and decided to quickly explore all its sights. You in the game Among Us Ru
+- [Among Us Running From Imposter](../games/action/among-us-running-from-imposter.md) — Among Us is a multiplayer game for four to fifteen players, although recommended for at least five.[11] Up to three play
+- [Among Us Space Run](../games/action/among-us-space-run.md) — Among Us Space Run is fun arcade game suitable for all ages. You, as a Among Us character need to stay on the screen as 
+- [Among Us Space Rush](../games/action/among-us-space-rush.md) — Play Among Us Rush now on kiz10.com !!! A new game comes to the best style and with the characters of Among Us run and d
+- [Among Us Subway](../games/action/among-us-subway.md) — Welcome to Among us Subway Your goal is to reach the end of the level and collect as many eggs as possible. Jump over ob
+- [Among us The imposter](../games/action/among-us-the-imposter.md) — Play Now Among Us The Imposter a new game exclusive to kiz10.com !! with many achievements to unlock very fun within our
+- [Among Us Unstoppable](../games/action/among-us-unstoppable.md) — The Among Us Unstoppable, Amongus character is waiting for you to help him on an all-new exciting and addictive platform
+- [Among Yetto Bots](../games/action/among-yetto-bots.md) — Among Yetto Bots is a 2D Sci-fi themed platformer where you have to collect all of the golden balls while avoiding the e
+- [Among Yetto Bots 2](../games/action/among-yetto-bots-2.md) — Among Yetto Bots 2 is a 2D Sci-fi themed platformer where you have to collect all of the golden balls while avoiding the
+- [Amongus Imposter](../games/action/amongus-imposter.md) — In amongus imposters you play the role of one of the most kind hearted crewmates abord the aurrora space station.Kill as
+- [AmongUs Run](../games/action/amongus-run.md) — Run from the Impostor! Press the emergency meeting button before he gets you, but be careful of eadly traps like lasers,
+- [Amoung US : Detecting The Real IMPOSTER!!](../games/action/amoung-us-detecting-the-real-imposter.md) — Amoung US : Detecting The Real IMPOSTER!! is a fun and engaging puzzle game. Your mission is simple: Execute all living 
+- [Anaconda disaster](../games/action/anaconda-disaster.md) — This is an interesting leisure magical swallowing game. It continues the classic greedy snake playing method, controls a
+- [and Again](../games/action/and-again.md) — Together with the main character of the new online game And Again, you will go on a journey through the painted world in
+- [Aneye Bot](../games/action/aneye-bot.md) — Aneye Bot is a 2D Sci-Fi themed platformer where you play as a Robot with an eye and your mission is to collect all of t
+- [Aneye Bot 2](../games/action/aneye-bot-2.md) — Aneye Bot 2 is a 2D Sci-Fi themed platformer where you have to collect the ice cream while avoiding the enemy robots, fl
+- [Angle Fight 3d](../games/action/angle-fight-3d.md) — Angle Fight 3D is a very fun action fighting game. In the game, the player will control a matchmaker to fight and break 
+- [Angry Battle Birds Mania](../games/action/angry-battle-birds-mania.md) — Angry Battle Bird Mania is an action-packed bird-flinging adventure where precision and strategy lead to victory! Load y
+- [Angry Bird Jump](../games/action/angry-bird-jump.md) — The Angry Bird Jump Adventure Online Game is a fun and addicting game that can be played by people of all ages. The obje
+- [Angry Bird Jungle](../games/action/angry-bird-jungle.md) — Enter Bird Island in Angry Birds Evolution – a visually stunning RPG with hundreds of new Angry Birds to collect. It’s u
+- [Angry Birds Mad Jumps](../games/action/angry-birds-mad-jumps.md) — A fun and very simple jump game about Angry Birds. Choose a bird and get as high as possible. Beware of Bad Piggies and 
+- [Angry Dad Cute Baby](../games/action/angry-dad-cute-baby.md) — Angry father and his sweet son take a stroll through toy land.They must collect all the candies in this world where ther
+- [Angry Goat Revenge Crazy](../games/action/angry-goat-revenge-crazy.md) — Enjoy this Angry Goat Revenge -- Wild Animal-free full version with amazing features and exciting levels. Reach the goal
+- [Angry Goat Revenge HTML5](../games/action/angry-goat-revenge-html5.md) — An open-world game where you embody an irate goat in a bustling city. Utilize wild goat abilities, headbutt foes, and fl
+- [Angry Grandmother Run](../games/action/angry-grandmother-run.md) — \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Evil Granny, Run!\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+- [Angry Ninja](../games/action/angry-ninja-2.md) — Engage in intense, mid-air battles as a vengeful ninja, using swift agility and precision in throwing star combat. Maste
+- [Angry parkour](../games/action/angry-parkour.md) — This is a great casual pass through mobile game. In this small game, players need to control the box to keep sprinting f
+- [Angry Plants Fighting](../games/action/angry-plants-fighting.md) — Angry Plants is a thrilling survival contest where charming and remarkable Plants face off against fearsome monsters. Yo
+- [Angry zombies monstar](../games/action/angry-zombies-monstar.md) — Join thousands of players for FREE and start the slingshot adventure with zombies now ! Show your skills and strategy to
+- [Animal Boxing](../games/action/animal-boxing.md) — Animal Boxing is a fun action game where you control animal warriors participating in intense boxing matches. Dodge punc
+- [Animal Dash and Jump](../games/action/animal-dash-and-jump.md) — You can choose from 48 characters in this game full of Animal Crossing, challenging obstacles and fast animals. Choose t
+- [Animal Impossible Track Rush](../games/action/animal-impossible-track-rush.md) — Ready for an exciting animal parkour arcade challenge? In the Animal Impossible Track Rush, you&rsquo;ll become a brave 
+- [Animal Impossible Track Rush](../games/action/animal-impossible-track-rush-2.md) — Embrace the thrill in Animal Impossible Track Rush as you dash, jump, and roll through intense parkour courses. Choose y
+- [Animal Runner](../games/action/animal-runner.md) — The Thrilling Runner Game with Animals: Avoiding Obstacles at Full Speed Get ready for an adrenaline-fueled adventure wi
+- [Animal Runner](../games/action/animal-runner-2.md) — Dash through vibrant worlds with your favorite adorable animal, each sporting unique skills. Overcome tricky obstacles, 
+- [Animal Runner Game](../games/action/animal-runner-game.md) — Embark on a vibrant jungle adventure as adorable animals dash, leap, and gather coins. With its seamless controls and th
+- [Animal Runner Safari Game](../games/action/animal-runner-safari-game.md) — Become the best in this awesome endless runner game. Surf through the city with loads of exciting characters who can use
+- [Animal World](../games/action/animal-world.md) — An open-world sandbox where you can catch and tame Brainrots, Palmons, and cute pets! Build your home, gather resources,
+- [Animalon : Epic Monster Battle](../games/action/animalon-epic-monster-battle.md) — Lead your team of tiny monsters in the battle arena. Beat them all ! Train your mini creatures, and upgrade their fighti
+- [Animals Battle](../games/action/animals-battle.md) — Are you attracted to adorable animals, and do you have the talent of a great commander? The new game combines these two 
+- [Animals Fall](../games/action/animals-fall.md) — There is a Animals who fall with parashoot. But of course there is obstacles in the sky. First the rock will show in the
+- [Animals Party](../games/action/animals-party.md) — Animals Party is the ultimate knockout game with both fun and surprising traps! Monsters race and unknown traps and obst
+- [Anime Blade](../games/action/anime-blade.md) — Colorful anime beauties are waiting for you! Fight in battles, earn points and become the best! If you like Anime and ka
+- [Annoying Boss Game](../games/action/annoying-boss-game.md) — Step into the craziest office stress-relief adventure with Annoying Boss Punch Game! Smash, slap, punch, and kick your a
+- [Annoying Uncle   Punch the Meme](../games/action/annoying-uncle-punch-the-meme.md) — Annoying Uncle Punch The Meme Game Get ready for a fun and chaotic meme-style experience! Annoying uncles pop up from di
+- [Ant Colony](../games/action/ant-colony-2.md) — Command a thriving ant empire in Ant Colony, a captivating 2D strategy game. Manage your colony, gather resources, and l
+- [Ant Destroyer 2](../games/action/ant-destroyer-2-2.md) — Ant Destroyer 2 challenges you to unleash your tapping skills in a fast-paced, insect-smashing frenzy. Conquer seven thr
+- [Ant Flow](../games/action/ant-flow.md) — Introducing Ant Flow, a laid-back puzzle game where your creativity takes the lead. Put your finger to work as you sketc
+- [Ants Quest](../games/action/ants-quest.md) — Ants Quest is a 2D platformer where you have to collect the sugar cubes while avoiding the enemy ants, flying ants, spik
+- [Ants Quest 2](../games/action/ants-quest-2.md) — Ants Quest 2 is a 2D platformer where you have to collect all of the sugar cubes while avoiding the enemy ants, three-ey
+- [Apache Helicopter Air Fighter - Modern Heli Attack](../games/action/apache-helicopter-air-fighter-modern-heli-attack.md) — The Apache Helicopter Air Fighter - Modern Heli Attack has begun, the enemies are coming with all the forces they have w
+- [Apex Combat](../games/action/apex-combat.md) — Apex Combat is a fast-paced 2.5D arcade beat em up. Battle through hordes of cybernetic enemies in futuristic cyberpunk 
+- [Apex Prime](../games/action/apex-prime.md) — Step into a prehistoric wilderness where giant beasts rule the land! Master survival skills, craft primitive weaponry, a
+- [Aqua Man Sea Fight](../games/action/aqua-man-sea-fight.md) — Your mission is to go to destination and collect anything what is offering the mission, you are in the water and you are
+- [Aqua Park Shark](../games/action/aqua-park-shark.md) — Jack is going to spend today at the water park. There are plenty of slides on which he can have fun and get the thrill. 
+- [Aquapark Shark](../games/action/aquapark-shark.md) — Aquapark Shark Have fun with this exclusive game Aquapark Shark is an awesome fun casual game help the little character 
+- [Arcade Thief Runner](../games/action/arcade-thief-runner.md) — Arcade Thief Runner is an exciting, fast-paced endless runner where you play as a daring thief on the run! Dash through 
+- [Archer Arcane](../games/action/archer-arcane.md) — Step into the enchanting world of Archer Arcane, where your archery skills and tactical prowess are your greatest allies
+- [Archer Clash](../games/action/archer-clash.md) — Archer Clash is a fast-paced io game where you guide a lone hero racing across a rolling, hill-like battle arena. You&rs
+- [Archer Hero](../games/action/archer-hero.md) — HTML5 Platform adventure / action game, where the archer must cross the monster valley, where he encounters many challen
+- [Archer Hero](../games/action/archer-hero-2.md) — Embark on an epic archery quest in Archer Hero, where you'll navigate a monster-filled valley. With vibrant 2D visuals, 
+- [Archer Huntsman Game](../games/action/archer-huntsman-game.md) — Archer Huntsman is a fun confrontation arcade game. You can either choose the parkour hunting mode or the endless breako
+- [Archer Warrior](../games/action/archer-warrior.md) — The Archer Warrior is a casual shooting game. The rubber man rides on the horse and rushes forward. You should control t
+- [Arctic Pong](../games/action/arctic-pong.md) — Little seal needs your help! Gather enough coins to free his friends. Be quick and avoid all the hungry polar bears! Arc
+- [Arena Box](../games/action/arena-box-2.md) — Experience the adrenaline rush of Arena Box, where strategy and reflexes collide in intense sword duels. Battle your riv
+- [Arena of Janissary](../games/action/arena-of-janissary.md) — Janissary game series is here with you with a great struggling game. This struggle can be played by up to four players. 
+- [Arkanoid For Painters](../games/action/arkanoid-for-painters-2.md) — Draw the line under the ball to prevent it from falling and to make it destroy blocks
+- [Army Fight 3d](../games/action/army-fight-3d.md) — Begin the nervous army battles in Army Fight 3D. Here you need strategic thinking and quick reflexes.In this fun action 
+- [Aroka](../games/action/aroka.md) — Aroka is a 2D anime themed platformer where you play as a cute anime girl who have to collect all of the bottles contain
+- [Aroka 2](../games/action/aroka-2.md) — Aroka 2 is a 2D anime themed platformer where you play as a cute anime girl who have to collect all of the bottles conta
+- [Around The World With Jumping](../games/action/around-the-world-with-jumping.md) — Travel around world with jumping. Time your jump and avoid hitting the Eiffel tower. If you hit the tower the game will 
+- [Arrow Fest 3D](../games/action/arrow-fest-3d.md) — Pick the best gates and destroy everyone on your way in Arrow Fest ! It is time to control your arrow fest . Try to reac
+- [Arrow Fever](../games/action/arrow-fever.md) — Arrow Fever is an exciting action game where players use a bow and arrow to defeat foes. It's a trending, free, and no-r
+- [Arrow Fight](../games/action/arrow-fight.md) — Hone your archery skills in Arrow Fight, where precise aim and timing are your only defenses against relentless waves of
+- [Arrow Hit](../games/action/arrow-hit-2.md) — Unleash your inner archer in Arrow Hit, an exhilarating challenge of precision and timing. Tap to release your arrows, h
+- [Arrow Mystery Puzzle](../games/action/arrow-mystery-puzzle.md) — Unleash your strategic prowess in Arrow Mystery Puzzle, a game of creative problem-solving. Tackle intricate puzzles tha
+- [Arrow Shot](../games/action/arrow-shot-2.md) — Arrow Shot delivers heart-pounding action wrapped in strategic precision, challenging players to aim and shoot while dod
+- [Arrow Survival - 15 Seconds](../games/action/arrow-survival-15-seconds-2.md) — Survive frenetic action in Arrow Survival: 15 Seconds! Master 40 relentless, pixelated levels as a quick-thinking archer
+- [Arrow Ultimate](../games/action/arrow-ultimate.md) — Arrow Ultimate blends classic archery charm with modern action, challenging you to perfect your aim and timing. Master i
+- [Arrows](../games/action/arrows.md) — Move the arrow, don't go and hit the borders and the orange color obstacles
+- [Asian War - ww3 Mode Demo](../games/action/asian-war-ww3-mode-demo.md) — There are more mobile games than any of the epic military strategy games! Your choices and strategy are key to the succe
+- [ASMR Obby Slicer](../games/action/asmr-obby-slicer.md) — ASMR Obby Slicer is a colorful 3D sword arena. Slice blocky pinatas and robots to pieces: they are filled with paint, so
+- [Asmr Slicing](../games/action/asmr-slicing.md) — ASMR Slicing is a simple app game. Do you like the Fruit Ninja game? You could continue to experience slicing fruit, but
+- [Assassin Ninja Rush](../games/action/assassin-ninja-rush.md) — Experience high-octane ninja action in Assassin Ninja Rush! Take control of an assassin ninja, sprinting and dodging thr
+- [Asteroid](../games/action/asteroid.md) — Navigate treacherous asteroid fields in a pulse-pounding space adventure. Master agile dodging, unleash powerful firepow
+- [Asteroid 2](../games/action/asteroid-2.md) — In Asteroid 2, Earth's fate rests on your shoulders as you tap and click through a relentless meteoric assault. Your rap
+- [Asteroids: Space War](../games/action/asteroids-space-war.md) — Spaceships, maneuvers, laser guns and cold space await you in the exciting game Asteroids : Space War! A game of skill, 
+- [Astra runner 3d](../games/action/astra-runner-3d.md) — Bounce your way through a colorful world full of moving platforms, tricky gaps, and endless challenges! Control a ball w
+- [ASTRO CHICKENS](../games/action/astro-chickens.md) — Pilot a spaceship across 10 unique environments and blast through endless waves of alien chickens before they reach you.
+- [Astro Jump Galaxy](../games/action/astro-jump-galaxy.md) — Leap into Astro Jump Galaxy, where you navigate a cosmic landscape with a charming astronaut. Dodge enemies, collect coi
+- [Astronaut Run 3D](../games/action/astronaut-run-3d.md) — Run through the universe. In the game, players need to constantly avoid various obstacles, such as meteor showers, meteo
+- [Astronaut Warrior](../games/action/astronaut-warrior.md) — It’s time to see what’s going on in space! Put on your space suit and get on your new spaceship. Look at the gorgeous si
+- [ASTRONEST - The Beginning Star Space Purge](../games/action/astronest-the-beginning-star-space-purge.md) — Your goal in this game is to protect our planet Earth. Control your spaceship to shoot asteroids and small planets to ma
+- [At the end Zombies Win](../games/action/at-the-end-zombies-win.md) — It’s time to lock and load and grab everything you can use as a weapon. Confront masses of disgustingly absurd zombies i
+- [Atanu Boy](../games/action/atanu-boy.md) — Atanu Boy is a 2D platformer where you have to collect money while avoiding the enemy gangsters, spikes, saws, and reach
+- [Atanu Boy 2](../games/action/atanu-boy-2.md) — Atanu Boy 2 is a 2D platformer where you have to collect money while avoiding the enemy gangsters, flying drones and the
+- [Atiko vs Squid](../games/action/atiko-vs-squid.md) — Dive into Atiko vs Squid, a thrilling 2D platformer where you'll dodge enemy squids, evade cunning traps, and collect hi
+- [Ato Adventures](../games/action/ato-adventures.md) — Ato Adventures is a 2D simple platformer where your mission is to collect roses in order to unlock the Exit door. You ne
+- [Attack](../games/action/attack.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Attack Of Monsters!](../games/action/attack-of-monsters.md) — Monsters Are So Angry! Attention, they are attacking us, we need to protect ourselves. The only way to defeat monsters i
+- [Attack of the Memes](../games/action/attack-of-the-memes.md) — Dive into space battles where memes come to life! In Attack of the Memes, face hilarious yet monstrous foes in nostalgic
+- [Attack of the Robots](../games/action/attack-of-the-robots.md) — You'll love the Ant-Man and the WASP: Attack of the Robots game if you have always wanted to go on a mission with the Ma
+- [Attack on titan assault fighting](../games/action/attack-on-titan-assault-fighting.md) — Attack on titans fighting is an awesome game
+- [Autumn Endless Runner](../games/action/autumn-endless-runner.md) — You went out for a walk in a wooded area to view the beautiful autumn scenery, but then a creepy pumpkin ghost started c
+- [axe castle](../games/action/axe-castle.md) — to score points by hitting the opponent with an ax throw on moving platforms Whoever wins 5 points wins the game
+- [Axe of Fury](../games/action/axe-of-fury-2.md) — In Axe of Fury, wield your sharpened axe against relentless zombies in a decimated world. Experience fast-paced action, 
+- [Axe Run](../games/action/axe-run.md) — Dive into the excitement of Axe Run! Chop through barriers, collect wood, gain speed through gates, and upgrade your cha
+- [Ayane Quest](../games/action/ayane-quest.md) — Ayane Quest is a 2D anime themed platformer where you play as an anime girl who have to collect all of the magical flowe
+- [Ayane Quest 2](../games/action/ayane-quest-2.md) — Ayane Quest 2 is a 2D anime themed platformer where you play as an anime girl who have to collect all of the magical flo
+- [Aztec Adventure](../games/action/aztec-adventure.md) — Father and daughter who had gone to Inca remains, succeeded to take out the treasure from mysterious pyramid. An interes
+- [Aztec Escape](../games/action/aztec-escape.md) — Aztec Escape is a addictive game with a cool graphic. Use arrow to move the player to avoid object. Sounds Easy? Believe
+- [Aztec Escape Subway RUN](../games/action/aztec-escape-subway-run.md) — Subway Run - Train Surf 3D Is Subway Surface run as fast as you can! Subway Run - Train Surf 3D is an amazing running ga
+- [Babie Panoz Fighter](../games/action/babie-panoz-fighter.md) — Fight with Babie Panoz in the city underground against her terrible enemy Lizy for her survival ! Combatti con Babie Pan
+- [Baby Chicco Adventures](../games/action/baby-chicco-adventures-2.md) — Guide Baby Chicco, the brave penguin, through enchanting pixel worlds as you dodge foes and collect treasures. With retr
+- [Baby Injection](../games/action/baby-injection.md) — The Baby Injection Jump Adventure Online Game is a great way for babies to relieve some pressure. By playing this game, 
+- [Baby Noob Help! Steve](../games/action/baby-noob-help-steve.md) — Baby Noob needs to reach home. You must help him, Steve. Steve should help so that Baby Noob arrives home safely. Once N
+- [Baby Noob vs Baby Obby Horse](../games/action/baby-noob-vs-baby-obby-horse.md) — Two baby siblings need to find a key and a chest in the forest. Help the baby siblings find the key and, after finding i
+- [Baby Noob vs Baby Obby Horse](../games/action/baby-noob-vs-baby-obby-horse-2.md) — Embark on a whimsical treasure hunt with two baby siblings through a perilous forest. Defend against beasts using bottle
+- [Baby Runner Game](../games/action/baby-runner-game.md) — Baby Runner Game is a fun and exciting endless running adventure where you control a cute baby character and help them r
+- [Baby the Great](../games/action/baby-the-great.md) — Engage in thrilling battle as Baby the Great, an infant warrior on a hack-and-slash adventure. Navigate stunning landsca
+- [Backflip Master: Parkour Stunts](../games/action/backflip-master-parkour-stunts.md) — Test your nerves, timing, and stunt skills in the ultimate physics-driven backflipping challenge! In Backflip Master 3D,
+- [Bad Santa](../games/action/bad-santa.md) — Help Santa get home, don't forget the road is long and hurdles
+- [Bad Timing](../games/action/bad-timing.md) — Navigate a gripping zombie world where every decision is life or death. With limited resources and increasing threats, p
+- [Badger Runner](../games/action/badger-runner.md) — Help to feed the hungry Mr. badger and save him from Mrs. Hen Game story begins with an argument between Mr. Badger and 
+- [Bag Defense](../games/action/bag-defense.md) — Bag Defense is an action-packed adventure where strategy and skill are the key to survival! Carefully choose and manage 
+- [Balance Duel](../games/action/balance-duel.md) — Engage in thrilling, humor-packed duels where balance is everything. Swing weapons with precision, master timing, and ou
+- [Bald Boy Adventure](../games/action/bald-boy-adventure.md) — Embark on a thrilling side-scrolling journey with Bald Boy Adventure. Leap and slide over deadly traps, vanquish enemies
+- [Baldman Run](../games/action/baldman-run.md) — Guide Baldman through a fast-paced, endless platforming adventure. Leap across shifting terrains, dodge surprise foes fr
+- [Ball and Target](../games/action/ball-and-target-2.md) — Conquer the shifting challenge of Ball and Target, where precision and strategy are your best allies. Launch a ball at a
+- [Ball Down](../games/action/ball-down.md) — Ball Down is a funny arcade game where you need to control the ball that falls from the top of the game to the bottom. Y
+- [Ball Duet-Ball Duet](../games/action/ball-duet-ball-duet.md) — Move and drag your finger to smash the circles！Keep your pace with fancy rhythm! Sound easy? You wish!!
+- [Ball Fall](../games/action/ball-fall.md) — Ball Fall is challenging platform game. Aim of the game is to throw colored balls from a height and include a point thro
+- [Ball Giant Rush](../games/action/ball-giant-rush.md) — Ball Giant Rush is an interesting arcade game for free. Slide the screen to control the ball to collect the balls which 
+- [Ball Gradient](../games/action/ball-gradient.md) — Move the ball left and right to avoid spectacular obstacles. You have to be careful on the tracks full of swinging axes,
+- [Ball Or Nothing](../games/action/ball-or-nothing.md) — Ball Or Nothing is a 2D platformer where the goal is to get the ball to the blue door at the end of each level by jumpin
+- [Ball Platformer Red and Blue](../games/action/ball-platformer-red-and-blue.md) — Navigate puzzles in Ball Platformer Red and Blue as a lively ball, maneuvering through clever obstacles and locating hid
+- [Ball Race 3D](../games/action/ball-race-3d.md) — Crazy Ball: Swift Motion is a game for the real fans of speed. You will play a quick ball that rushes headlong towards v
+- [Ball Run](../games/action/ball-run.md) — Your sense of color will help you go further.
+- [Ball Run 2048 Space](../games/action/ball-run-2048-space.md) — 🚀 Roll into a cosmic puzzle run! Steer your ball across a vibrant space track, merge matching values, and grow your num
+- [Ball Thief vs Police](../games/action/ball-thief-vs-police.md) — Ball Thief vs Police is a 2D platformer where you play as thief and you have to collect bags of money while avoiding the
+- [Ball Thief vs Police 2](../games/action/ball-thief-vs-police-2.md) — Ball Thief vs Police 2 is a 2D platformer where you play as a thief and you have to collect the bags of money while avoi
+- [Ballon Pop](../games/action/ballon-pop.md) — Balloon Pop is an Arcade Game , where you must dodge Cactus to avoid exploding, and be careful the Heat of the Sun will 
+- [Ballon Pop 67](../games/action/ballon-pop-67.md) — Balloon Pop 67 is an Arcade Game , where you must dodge Cactus to avoid exploding, and be careful the Heat of the Sun wi
+- [Balloon Paradise](../games/action/balloon-paradise-2.md) — Dive into Balloon Paradise, a captivating arcade experience where vibrant skies await you. Swap colorful balloons to for
+- [Balloonaa](../games/action/balloonaa.md) — Balloonaa is a 2D little platformer where you play as a balloon boy and you have to collect the containers of helium gas
+- [Balloonaa 2](../games/action/balloonaa-2.md) — Balloonaa 2 is a 2D platformer where you play as balloon boy who have to collect all of the helium gas containers while 
+- [Ballot Boxing](../games/action/ballot-boxing.md) — Enter the vibrant arena of Ballot Boxing, a pixel-art brawler where political foes collide. Choose your candidate and un
+- [Balls Burst](../games/action/balls-burst.md) — In this game your mission is full of dotted lines, but you can not let balls drop off the platform. To complete the leve
+- [Balls Go High](../games/action/balls-go-high.md) — Balls Go High, a popular ball game, is suitable for all ages. Your job in this game is to control the balls pass all the
+- [Ban Ban Parkour](../games/action/ban-ban-parkour.md) — Have you ever run to the door in the dark like this before? Run to the door with your friend in the dark one by one. Col
+- [Ban Ban Parkour](../games/action/ban-ban-parkour-2.md) — Navigate the shadowy depths of Ban Ban Parkour, where quick reflexes and strategic toy collection determine your fate. R
+- [Banana Kong Adventure](../games/action/banana-kong-adventure.md) — Banana Kong Adventure is a 2D game that lets you go on an adventure with the monkey king! You will follow Kong through v
+- [Banana Quest](../games/action/banana-quest.md) — Get ready for a thrilling jungle adventure in Banana Quest! Play as a brave monkey on a mission to collect as many banan
+- [BananaCAT Clicker](../games/action/bananacat-clicker.md) — Dive into the whimsical world of BananaCAT Clicker, where tapping your screen leads to adorable cat antics and banana tr
+- [Bananas Aminowanas](../games/action/bananas-aminowanas.md) — Classic Platform retro game. Jumpin monkey. Grab all the baneines XD. Cmon its just a simple game, i dont want to write 
+- [Bank Boom Tung Tung Sahur](../games/action/bank-boom-tung-tung-sahur.md) — Are you ready for a bank heist? You have 20 seconds to crack the safe! Compete with your friend &mdash; the first to ope
+- [BAPBAP](../games/action/bapbap.md) — BAPBAP reinvents the battle royale genre with strategic, top-down gameplay where every champion's abilities can turn the
+- [Barbarian Hunter](../games/action/barbarian-hunter.md) — War with the barbarians.
+- [Barbarian Hunter 2](../games/action/barbarian-hunter-2.md) — Save all the maidens and kill all the Barbarian. Defend your base as long as you can! Unlock achievements and upgrades a
+- [Barbarian Trunk](../games/action/barbarian-trunk.md) — Barbarian Trunk is an oldschool arcade style casual game. Become a Barbarian, cut wood and avoid thorns. Sound like an e
+- [Barbarian Trunk](../games/action/barbarian-trunk-2.md) — Channel your inner lumberjack with Barbarian Trunk. Swiftly chop timber while dodging deadly thorns in this adrenaline-p
+- [Barbarian VS Mummy](../games/action/barbarian-vs-mummy.md) — “Barbarian Vs Mummy” is a super fun and challenging 2D side-scroller game in the same style as blockbuster games like Su
+- [Barbarian VS Mummy](../games/action/barbarian-vs-mummy-2.md) — Embark on a vibrant side-scrolling adventure as a daring barbarian battling relentless mummies. Navigate six challenging
+- [Barbie Rides Bike](../games/action/barbie-rides-bike.md) — Come join Barbie on a fun bike ride adventure! In this exciting game, you'll get to ride through beautiful landscapes, c
+- [Barrel Roller: Stack & Run 3D](../games/action/barrel-roller-stack-run-3d.md) — 🎮 Barrel Roller - The Ultimate Stack Runner Game! 🎮
+- [Barry On The Space](../games/action/barry-on-the-space.md) — In this game, the player takes on the role of a small creature Barry exploring space, jumping on platforms to reach new 
+- [Barry Prison: Hide And Seek](../games/action/barry-prison-hide-and-seek.md) — Immerse yourself in the thrilling escape of Barry Prison: Hide And Seek! Choose between the cunning escapee or the relen
+- [Barry Prison: Parkour Escape!](../games/action/barry-prison-parkour-escape.md) — Embark on an epic adventure in Barry Prison: Parkour Escape! Outwit the warden, pass the tests, collect all the coins an
+- [Bast Space](../games/action/bast-space.md) — Battle for survival in Bast Space, where precision and timing define your cosmic adventure. Navigate your spaceship thro
+- [BatGirl Jump Force](../games/action/batgirl-jump-force.md) — Naruto Jump Force is an online HTML5 game , it's playable in browsers such as safari and chrome. You can play the game o
+- [Batman Ninja Game Adventure - Gotham Knights](../games/action/batman-ninja-game-adventure-gotham-knights.md) — Batman will be forced into precarious new roles. The Riddler has returned to terrorize Gotham City, but his gruesome puz
+- [Batman Skycreeper](../games/action/batman-skycreeper.md) — Joker has caught Batman between two buildings, and he drops all sorts of stuff on him in the Batman Skycreeper game! Luc
+- [Batman Super Run Fast](../games/action/batman-super-run-fast.md) — You are a speed enthusiast, so you should try the Batman Super Run Fast game. The game will give you a new feeling that 
+- [Batman: The Cobblebot Caper](../games/action/batman-the-cobblebot-caper.md) — Don't miss out on The Cobblebot Caper game if you have ever dreamed of playing the role of Batman! The superhero protago
+- [Battboy Adventure](../games/action/battboy-adventure.md) — Battboy Adventure is a platform game, where the hero must overcome all the levels by dodging the thorns and eliminating 
+- [Battery Run](../games/action/battery-run.md) — Do you have any knowledge about batteries? Now we recommend you a collecting arcade game that is made from 3D battery mo
+- [Battery Run 3D](../games/action/battery-run-3d.md) — Dash as a tiny battery, avoid hazards, collect energy to charge up, and reach the finish to power the device! Fast lanes
+- [Battle](../games/action/battle-2.md) — Engage in a thrilling showdown against cunning AI opponents. Seek out hidden enemies, rely on luck and strategy, and aim
+- [Battle 2048](../games/action/battle-2048.md) — Swipe to move the tiles. When two tiles with the same number touch, they merge into one. Reach the 2048 tile and keep pl
+- [Battle Arena](../games/action/battle-arena.md) — Battle Arena is a game where you can choose the player, and than wait to see your rivals. You will play against dozen op
+- [Battle Chess: Puzzle](../games/action/battle-chess-puzzle.md) — Amazing puzzles! Merge your knights and dont let the enemy do it! Exciting battles of knights will not let you get bored
+- [Battle Cubes 3D](../games/action/battle-cubes-3d.md) — Battle of the Cubes 3D is a new dynamic action shooter set in a fictional neon city. The hero, alone, against crowds of 
+- [Battle Farmer   2 Player](../games/action/battle-farmer-2-player.md) — Have you ever caught runaway chickens before? You must catch all the chickens. To catch the runaway chickens, you need t
+- [Battle Farmer - 2 Player](../games/action/battle-farmer-2-player-2.md) — Dive into pixelated mayhem with Battle Farmer - 2 Player, where farming meets fierce competition! Capture runaway chicke
+- [Battle Hamsters](../games/action/battle-hamsters-2.md) — Lead a troupe of quirky hamsters in Battle Hamsters, where strategic fun meets comical combat. Assign roles and wield sp
+- [Battle Monsters](../games/action/battle-monsters.md) — You have to mutate and turn into a giant monster to defeat your enemies. Turn from a cute little animal into a terrifyin
+- [Battle of Banners](../games/action/battle-of-banners.md) — A war of banners on a hexagonal battlefield! In this turn-based medieval strategy you command a squad of knights, claim 
+- [Battle of Heroes RPG](../games/action/battle-of-heroes-rpg.md) — Embark on an epic journey in Battle of Heroes RPG, where each chapter unveils thrilling battles against formidable monst
+- [Battle of Pirate Caribbean Battle](../games/action/battle-of-pirate-caribbean-battle.md) — Command your formidable pirate ship through epic naval battles in the Caribbean, facing off against ruthless rivals and 
+- [Battle of Tank Steel](../games/action/battle-of-tank-steel-2.md) — Dive into the exhilarating world of tank warfare with Battle of Tank Steel. Command a fleet of uniquely powerful tanks, 
+- [Battle of the Battles](../games/action/battle-of-the-battles.md) — For thousands of years Battle of the Battles happens, and it is most exciting battle of all time! This year the team the
+- [Battle of the Battles](../games/action/battle-of-the-battles-2.md) — Strategize your way to victory in Battle of the Battles! Lead Marin through an intense arcade-style tournament by predic
+- [Battle of Zombie Armies! Necromancers](../games/action/battle-of-zombie-armies-necromancers.md) — Command your undead forces in thrilling, fast-paced 40-second battles. Master strategic summoning and unleash surprise b
+- [Battle on road](../games/action/battle-on-road.md) — Jump behind the wheel and brace for intense high-speed chases in Battle on Road. Master the art of maneuvering through c
+- [Battle Pixel](../games/action/battle-pixel.md) — Enter this battle, fight and conquer as many victories as you can.
+- [Battle Ring](../games/action/battle-ring.md) — Battle Ring is amazing boxing games
+- [Battle Robots](../games/action/battle-robots.md) — This is a very interesting and fun battle game, in the game, players need to carry out military combat, skilled use of d
+- [Battle Simluator - Counter Stickman](../games/action/battle-simluator-counter-stickman.md) — Counter Stickman thrusts you into a world of strategic warfare, commanding stickman soldiers in 3D battles. Navigate dyn
+- [Battle Space](../games/action/battle-space-2.md) — Embark on a thrilling space odyssey in Battle Space, where strategic maneuvering and intense arcade action collide. Pilo
+- [Battle Space Legacy](../games/action/battle-space-legacy.md) — Engage in intense cosmic warfare as you command and strategize your fleet to conquer enemy territories. In Battle Space 
+- [Battle Tanks](../games/action/battle-tanks.md) — Battle Tanks delivers thrilling 2D tank warfare, challenging players to outwit foes across diverse terrains. Command uni
+- [Battle Tanks 2](../games/action/battle-tanks-2.md) — Command your tank in Battle Tanks 2's explosive, action-packed warfare. Engage in thrilling, strategic battles as you up
+- [Battle Tanks City of War Game](../games/action/battle-tanks-city-of-war-game.md) — Great tank battle for two players! Every time we mention the concept of tank, each of the gamers who love shooting games
+- [Battle Tung Tung Sahur 2Player](../games/action/battle-tung-tung-sahur-2player.md) — Are you ready for the battle of the Tung Tung Sahurs? Two teams are fighting each other, and the one who reaches the che
+- [Battle Tung Tung Sahur 2Player](../games/action/battle-tung-tung-sahur-2player-2.md) — Engage in an epic stick-battle showdown with friends in Battle Tung Tung Sahur! Strategize and brawl your way to victory
+- [Battle Universe 2D](../games/action/battle-universe-2d.md) — Battle Universe 2D is an exhilarating arcade-style game where players command a spaceship in a dynamic 2D universe. As t
+- [Battle Wheels](../games/action/battle-wheels.md) — Battle Wheels is an explosive vehicle combat arcade where two armored cars smash into each other until one driver loses 
+- [Battlefield Brawl Co op Challange](../games/action/battlefield-brawl-co-op-challange.md) — Are you ready for the soldiers duel? Choose the weapon and character that suits you best. Start the duel in normal game 
+- [BattleGrid online PvP tank battles](../games/action/battlegrid-online-pvp-tank-battles.md) — Command your fleet in BattleGrid, a fast-paced PvP strategy game. Move, fire, and adapt in real-time as you clash with o
+- [Battleship - Infinity War](../games/action/battleship-infinity-war.md) — Navigate an intense 14x14 grid in Battleship - Infinity War, where strategic ship placement and tactical maneuvers are k
+- [Battleship War Multiplayer](../games/action/battleship-war-multiplayer.md) — Battleship War is a HTML5 Multiplayer Game. Hit all the ships of your enemy and lead your fleet to the victory! Collect 
+- [Be a Lucky Block: Boss Fight](../games/action/be-a-lucky-block-boss-fight.md) — Enter the chaotic world, where you become a fast-moving Lucky Block trying to survive an endless chase. Bosses are alway
+- [Be like a Lucky Block](../games/action/be-like-a-lucky-block.md) — Enter the chaotic world of Life of a Happy Block, where you become a fast-moving Lucky Block trying to survive an endles
+- [Bean Party Obby](../games/action/bean-party-obby.md) — Bean Party Obby is a colorful 3D party game where you race, jump and survive against 14 computer-controlled beans. Pick 
+- [Bear Adventure](../games/action/bear-adventure.md) — Bear Adventure is an online fun kids game. Is there something happier than collecting a fish? There is a cute bear who w
+- [Bear Adventure Online Game](../games/action/bear-adventure-online-game.md) — Free online adventure game Bear Adventure! Easy to play and fun to create! You start out as a bear, looking for your fri
+- [Bear Chase](../games/action/bear-chase.md) — In this platform game your job is to collect presents jumping around platforms and to earn points. But suddenly from you
+- [Beast Boy Teen Titans Adventure 2D](../games/action/beast-boy-teen-titans-adventure-2d.md) — Beast Teen Boy-Titans Go game! Find treasures & survive through the jungle! Beast Teen Boy & leisa rayven incredible tee
+- [Beat Em Up Street fight 2D](../games/action/beat-em-up-street-fight-2d.md) — Beat Em Up Street fight 2D is and awesome fight where you will face with bad enemy on street. Have fun!
+- [Bee Colony](../games/action/bee-colony.md) — Bag Defense is an action-packed adventure where strategy and skill are the key to survival! Carefully choose and manage 
+- [Beer Clicker](../games/action/beer-clicker.md) — Welcome to the Beer Clicker Game! In this addictive and fun-filled game, youll embark on a journey through the world of 
+- [Ben 10 3D Game](../games/action/ben-10-3d-game.md) — The game is a street fight between the hero Ben 10 the Cartoon named Ben 10 and the enemies in the same Cartoon, where y
+- [Ben 10 adventure](../games/action/ben-10-adventure.md) — C'EST L'HEURE DES HÉROS ! Les ennemis les plus célèbres et redoutés de Ben Tennyson sont de retour, et ils menacent d'en
+- [Ben 10: Alien Attack](../games/action/ben-10-alien-attack.md) — Ben 10: Alien Attack Earth rescue alien 10 from evil alien attack
+- [Ben 10 Alien Force](../games/action/ben-10-alien-force.md) — Ben 10 Alien Force is the follow-up to the hit free-to-play game Super Slime Blitz, and this time the challenges are big
+- [Ben 10 Alien Run](../games/action/ben-10-alien-run.md) — When 10-year-old Ben Tennyson discovers a mysterious watch called Ominitrix, he gains the ability to transform into diff
+- [Ben 10 Christmas Run](../games/action/ben-10-christmas-run.md) — Ben 10 Christmas Run
+- [Ben 10 Island Run](../games/action/ben-10-island-run.md) — Ben 10 Island Run
+- [Ben 10 Jump Force](../games/action/ben-10-jump-force.md) — Ben 10 Jump Force is an online HTML5 game , it's playable in browsers such as safari and chrome. You can play the game o
+- [BEN 10 PUZZLE](../games/action/ben-10-puzzle.md) — Ben 10: Super Slime Ben is the follow-up to the hit free-to-play game Super Slime Blitz, and this time the challenges ar
+- [Ben 10 Run](../games/action/ben-10-run.md) — Run, jump and smash your way past enemies, obstacles and supervillains in Ben 10: Up to Speed
+- [Ben 10 Run Adventure](../games/action/ben-10-run-adventure.md) — Ben Tennyson jumps over obstacles to find his cousin Gwen in this adventure. Tap the screen at the right time to jump ov
+- [Ben 10 Space Run](../games/action/ben-10-space-run.md) — In this platform game, Ben cannot use his watch because the omnitrix clock is broken. He hasn't aliens. He has to overco
+- [Ben 10 Ultimate Alien](../games/action/ben-10-ultimate-alien.md) — An evil alien attack that descends to dominate the world, then be an object of the Cosmic meteor in the hands of a child
+- [Ben 10 World Rescue Evolution](../games/action/ben-10-world-rescue-evolution.md) — Prepare to join Ben on a round-the-world rescue mission to rescue Gwen and Grandpa Max! Play as your favorite aliens in 
+- [Ben10 Omnirush](../games/action/ben10-omnirush.md) — Play now and have fun with Ben10 Omnirush first here at kiz10.com !!! Have fun with this spectacular game of action, adv
+- [Berries](../games/action/berries.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Berries Jump](../games/action/berries-jump.md) — The newspapers tell of a small savage boy living in the Berries Forest… And they are right ! He has a peculiar look. He 
+- [Bezo Alien](../games/action/bezo-alien.md) — Bezo Alien is a 2D Sci-Fi themed platformer where you play as an alien who have collect the blue cubes while avoiding th
+- [Bezo Alien 2](../games/action/bezo-alien-2.md) — Bezo Alien 2 is a 2D Sci-Fi themed platformer where you have to collect blue cubes while avoiding the enemy aliens, flyi
+- [Bhoolu](../games/action/bhoolu.md) — Bhoolu is a 2D platformer where you have to collect all of the candies while avoiding spikes, saws and enemies and reach
+- [Bhoolu 2](../games/action/bhoolu-2.md) — Bhoolu 2 is a 2D platformer where you need to collect all of the candies while avoiding enemies, saws, spikes and reach 
+- [Bhulu Cats](../games/action/bhulu-cats.md) — Embark on a whimsical journey in Bhulu Cats, a colorful 2D platformer where you play as a playful cat collecting fish. N
+- [Big Bad Ape 2](../games/action/big-bad-ape-2.md) — Unleash chaos in Big Bad Ape 2 by embodying a colossal ape bent on destruction. Smash through cityscapes, hurl vehicles,
+- [Big eater PK](../games/action/big-eater-pk.md) — This is a game about eating competition. The game is decompressing and the rules are simple and understandable. Click on
+- [Big FLAPPY Tower VS Tiny Square](../games/action/big-flappy-tower-vs-tiny-square.md) — Fling, flip, and FLAP your way over pipes and pits on your way to rescue your Pineapple in the 4th instalment of the Big
+- [Big hand](../games/action/big-hand.md) — Collect dumbbells so that your hand becomes big and strong, with which you will deal a crushing blow to the villain. Dod
+- [Big NEON Tower VS Tiny Square](../games/action/big-neon-tower-vs-tiny-square.md) — Ride the vaporwaves and avoid the neon nusiences in the 3rd instalment of the Big Tower Tiny Square series played by MIL
+- [Big Sumo Must Jump](../games/action/big-sumo-must-jump.md) — In this game Big Sumo Must Jump, you need to control the big Sumo Wrestler and to click on it to jump over the small Sum
+- [Bighead Ninja!](../games/action/bighead-ninja-2.md) — Leap into a thrilling adventure with Bighead Ninja! Navigate perilous platforms and dodge relentless obstacles as you st
+- [Bike Burger](../games/action/bike-burger.md) — In Bike Burger, race across scenic tracks to create towering burgers by collecting ingredients with your skewer. Master 
+- [Bike Obby Draw Pencil](../games/action/bike-obby-draw-pencil.md) — Use your creativity and reflexes to complete the missing paths in 3D Side Platform Obby Draw Pencil! Draw paths with you
+- [Bike Offroad Stunts 2024](../games/action/bike-offroad-stunts-2024.md) — Drive your bike offroad in an excellent environment; you can choose from 3 bikes and upgrade, finish levels by driving y
+- [Bike Stunts Pro HTML5](../games/action/bike-stunts-pro-html5.md) — Engage in thrilling super bike stunt races against friends or random online opponents &ndash; its an unmatched experienc
+- [Billy Smach 3d](../games/action/billy-smach-3d.md) — ring fighting games challenges you to all take combos in the ring fighting games, whereas a tag team gym fighting games 
+- [Biome Conquest](../games/action/biome-conquest.md) — Take over territories in a game of strategy. Steal your enemy's tiles by placing tiles with higher numbers next to them.
+- [Bird Hunter](../games/action/bird-hunter.md) — Bird Hunter is a 2D game where you hunt flying birds with a bow and arrow. The aim of the game is to score as many point
+- [Bird Obstacle Flappy](../games/action/bird-obstacle-flappy.md) — Bird Obstacle Flappy is a simple yet addictive arcade-style game where players control a flying bird through endless obs
+- [Birdy Trip](../games/action/birdy-trip.md) — You are not alone in the sky! It&rsquo;s time to migrate to sunny lands. Grab your cute friends on the way and be carefu
+- [Black Thrones](../games/action/black-thrones.md) — Play as 'Black', an assassin on his last run to redeem himself and protect those he loves against legions of undead on t
+- [Black Thrones](../games/action/black-thrones-2.md) — Leap into the action-packed world of Black Thrones as an agile assassin on a quest for redemption. Vault over and slide 
+- [BlackHoleRush](../games/action/blackholerush.md) — You are a predatory black hole in a city! You have to devour surrounding objects, including chairs, trees, and even buil
+- [Blacko Ball](../games/action/blacko-ball.md) — Blacko Ball is a 2D weird little platformer where you play as a Black ball and you have to collect small red balls while
+- [Blacko Ball 2](../games/action/blacko-ball-2.md) — Blacko Ball 2 is a 2D simple platformer where you have to collect the small red balls while avoiding Red and Orange enem
+- [Blade And Bedlam](../games/action/blade-and-bedlam.md) — Blade &amp; Bedlam is a thrilling top-down melee game focused on physics-based swordplay. Use your sword to parry, defle
+- [Blade & Bedlam](../games/action/blade-bedlam.md) — A top-down, physics-based, medieval melee fighter! Block projectiles and melee attack with your weapons and try to hit t
+- [Blade n Vines](../games/action/blade-n-vines.md) — Blade &amp; Vines is an action-packed Amazonian battle adventure where nature itself becomes your greatest weapon! As a 
+- [Blast](../games/action/blast-3.md) — Blast into exhilarating action where precision and strategy are your best allies. Plant bombs with accuracy, avoiding pe
+- [Blast Out Battle Royale](../games/action/blast-out-battle-royale-2.md) — Dive into Blast Out Battle Royale, where strategic combat and exploration are your tools for survival. Navigate expansiv
+- [Blastix](../games/action/blastix.md) — Blastix is a game where you have popping out fire-crackers and you need to hit them with given hammer. You have challeng
+- [Blaze on!](../games/action/blaze-on.md) — Leap through the air in Blaze on!, a dynamic parkour adventure where you navigate intricate obstacles and traps. Choose 
+- [Blend - A Unique Twist to a Platformer](../games/action/blend-a-unique-twist-to-a-platformer.md) — Navigate as a blendable cube through complex environments in this captivating platformer. Master the art of camouflage t
+- [Bless Magic](../games/action/bless-magic.md) — In Bless Magic, dive into a medieval fantasy where autonomous heroes demand your strategic prowess. Upgrade and arm your
+- [Blip](../games/action/blip.md) — Embark on a lively pixelated journey in Blip, where a heartwarming square character navigates mesmerizing landscapes. Co
+- [Blitz Slices](../games/action/blitz-slices.md) — Embark on a thrilling adventure with Blitz Slices, an exhilarating game where your nimble knife skills are put to the te
+- [Blob Adventures](../games/action/blob-adventures.md) — Leap into a thrilling challenge with Blob Adventures. Master precise jumps to dodge perilous spikes and perfect your ski
+- [Blob Dash   Endless Runner](../games/action/blob-dash-endless-runner.md) — Blob Dash - Endless Runner is an exciting adventure game that takes you on a fast-paced journey through a colorful world
+- [Blob Giant 3D](../games/action/blob-giant-3d.md) — In Blob Giant 3D, you will be exploring a seaside trial as a growing giant. Absorb to grow even bigger! What color of li
+- [Blob Giant Rush](../games/action/blob-giant-rush.md) — Do you want to participate in an incredibly fascinating race? Blob Giant Rush is the perfect running game for you! If yo
+- [Blob Hero](../games/action/blob-hero.md) — In Blob Hero, you become a brave hero facing endless waves of enemies and monsters! This survival game offers a true rog
+- [Blob Man Run](../games/action/blob-man-run.md) — Collect diamonds on your way and the right door to make you stronger. The Stronger, the easier to take out the boss and 
+- [Blob Runner 3D](../games/action/blob-runner-3d.md) — Blob Runner 3D has proven to be one of the most popular parkour games this year. With addictive game content and 3D art 
+- [Blob Runner 3D - Fun & Run 3D Game](../games/action/blob-runner-3d-fun-run-3d-game.md) — Blob Runner 3D is a funny avoiding arcade game that is made from 3D blob liquid man game art animation. Your body could 
+- [Blob Runner 3D Online](../games/action/blob-runner-3d-online.md) — Blob Runner 3D is a popular game that worth your time. Running towards the destination is your only goal. What's more, d
+- [Block Battle - Noob vs Pro](../games/action/block-battle-noob-vs-pro.md) — Fight and build in the World of Blocks! Develop your abilities, defeat huge Bosses! Become a Legend in the player rankin
+- [Block Breaker: Miner Quest](../games/action/block-breaker-miner-quest.md) — Tap, Dash, Survive! Dive into the depths in Miner Dash: Endless Escape! Smash through blocks, dodge falling rocks, and g
+- [Block Craft Jumping Adventure](../games/action/block-craft-jumping-adventure.md) — Block Craft Jumping Adventure is fun online game developed for kids and adults. Jump as high as possible and make a high
+- [Block Jewel 2024](../games/action/block-jewel-2024.md) — The game features stunning graphics and sound effects that will make you feel like you are playing with real jewels. You
+- [Block Party: Obby, Robby, Mini games!](../games/action/block-party-obby-robby-mini-games.md) — 🏆 Compete with other players and earn cups and coins for every victory! Use your coins to unlock new skins or upgrade y
+- [Block Ship Battle](../games/action/block-ship-battle.md) — Raise the sails and fight for the richest hold on the reef! Block Ship Battle is a fast pirate brawler with real broadsi
+- [Block Toggle](../games/action/block-toggle.md) — Block Toggle is a puzzle platformer where you need to turn blocks on or off to reach the exit portal.
+- [Block Zero](../games/action/block-zero.md) — Block Zero is a third-person action game in an open low-poly city. You are a blocky mutant born of the outbreak: every w
+- [Blockadventure io](../games/action/blockadventure-io.md) — 🌍 Welcome to BlockAdventure!
+- [Blocker Fit Guy](../games/action/blocker-fit-guy.md) — Blocker Fit Guy is a fun and challenging puzzle-action game where you guide a flexible hero through tight spaces and tri
+- [BLOCKINS](../games/action/blockins.md) — In Blockins, use your puzzle-solving skills to stack Tetris-style blocks and reach the portal. With blocks of different 
+- [Blockman Climb 2 Player](../games/action/blockman-climb-2-player.md) — Navigate intricate mazes and towering structures as a blockman in this thrilling 3D adventure. Test your agility and str
+- [Blocks - Platformer](../games/action/blocks-platformer.md) — Navigate a vibrant block-based world where your agility and strategy will be tested. Avoid the perilous red blocks, aim 
+- [Blocks Stack Rush](../games/action/blocks-stack-rush.md) — Enjoy an addictive stacking adventure. In Blocks Stack Rush, you&rsquo;ll control a little block character running and b
+- [Blockworld Parkour](../games/action/blockworld-parkour-2.md) — In Blockworld Parkour, navigate a pixelated block universe teeming with challenges. Master agile maneuvers and strategic
+- [Blocky Adventures](../games/action/blocky-adventures.md) — Blocky Adventures is a fast platformer where every jump counts. Guide your little block hero through 50 levels across fi
+- [Blocky Fighting 2022](../games/action/blocky-fighting-2022.md) — A spectacular kung fu combat experience is provided by this hero karate game, City Fighter: Fighting Games, in this figh
+- [Blocky Fish](../games/action/blocky-fish.md) — Blocky Fish is a fun and addicting online game that you can play for free! The objective is simple- help the blocky fish
+- [Blocky Parkour Ninja](../games/action/blocky-parkour-ninja.md) — Ninja Blocky Parkour is an amazing 3d parkour game where you have to jump from platform to platform.
+- [Blocky road runner game](../games/action/blocky-road-runner-game.md) — Explore the blocky temple in one of the greatest mobile adventures of all time. Survive pitfalls, spikes, traps, blades,
+- [Blocky Skater Rush](../games/action/blocky-skater-rush.md) — Blocky Skater Rush is an interesting arcade game, which can challenge your skateboard's skill well. Press and hold the s
+- [Bloom in the Dark](../games/action/bloom-in-the-dark.md) — Guide a bird through a monochrome world, collecting precious water droplets to nurture a lonely flower. Navigate intrica
+- [Blow Out Bomb Blast Ninja](../games/action/blow-out-bomb-blast-ninja-2.md) — Can you handle the ninja's challenge of saving the day? In Blow Out Bomb Blast Ninja, your fast reflexes and strategic s
+- [Bloxy Block Parkour](../games/action/bloxy-block-parkour.md) — Bloxy Block Parkour is a fun jumping game that you can play for free on Pc and Mobile. No download needed to play. Game 
+- [Bloxy Block Parkour](../games/action/bloxy-block-parkour-2.md) — Leap through a vibrant blocky world in Bloxy Block Parkour! Master challenging jumps and clever strategies as you maneuv
+- [Blue and Red Ball Love](../games/action/blue-and-red-ball-love.md) — Dive into Blue and Red Ball Love, a thrilling two-player platformer where teamwork and strategy are your keys to success
+- [Blue Chameleon](../games/action/blue-chameleon.md) — Dodge one-eyed monsters and gather gold coins in Blue Chameleon. Strategically collect hearts to boost health as you nav
+- [Blue Fighting Friends](../games/action/blue-fighting-friends.md) — Embark on a vivid adventure with Blue Fighting Friends, where your mission is to outsmart red foes with agile dodges and
+- [Blue Rabbit](../games/action/blue-rabbit.md) — Hop into adventure with Blue Rabbit! Collect gold coins while dodging sneaky cats and frogs. Restore your health by find
+- [Bluebo](../games/action/bluebo.md) — Bluebo is a 2D Platformer where you need to collect all of the gems while avoiding enemies and spikes and reach the fini
+- [Blueman Adventure](../games/action/blueman-adventure.md) — Embark on a thrilling platformer journey with Blueman! Dash through dynamic levels, collecting coins and outsmarting per
+- [Blumgi Slime Jump Game](../games/action/blumgi-slime-jump-game.md) — Blumgi Slime is an arcade game that will put your timing and aiming skills to the test by jumping to the finish line. Yo
+- [Bob Cat Runner](../games/action/bob-cat-runner.md) — Take control of a cute cat and dodge the objects that come your way!
+- [Body Race 2023](../games/action/body-race-2023.md) — There is no weight limit on beauty! Own the runway and race to the finish line to stun in cutting-edge fashion. Stay bod
+- [Bodybuilder Karate Fighting](../games/action/bodybuilder-karate-fighting.md) — In Bodybuilder Karate Fighting, unleash muscle-clad warriors in intense 3D brawls where brute strength meets strategic f
+- [BodyBuilder Ring Fighting Club: Wrestling Games](../games/action/bodybuilder-ring-fighting-club-wrestling-games.md) — BodyBuilder Ring Fighting Club: Wrestling Games is most adventrous 3d fighting action game in which gym bodybuilder figh
+- [Bomb!](../games/action/bomb.md) — Dash through this vibrant, fast-paced scrolling adventure in Bomb! Race against time to reach the portal within just 60 
+- [Bomb Evolution](../games/action/bomb-evolution.md) — Bomb Evolution is an exhilarating cannon shooting arcade game that boasts vibrant 3D cartoon game art animation. On the 
+- [BOMB PONG: ONLINE](../games/action/bomb-pong-online.md) — Bomb Pong Online multiplayer timing game where every hit makes the battle more intense.
+- [Bomb Royale Online](../games/action/bomb-royale-online.md) — Enter an explosive online battle royale inspired by classic bomber-style arcade games. Fight inside dangerous maze arena
+- [Bombardino Crocodilo Terror Jumpscare](../games/action/bombardino-crocodilo-terror-jumpscare.md) — Welcome to Bombardino Crocodilo: Terror Jumpscare, a spine-chilling horror game that will test your nerves, reflexes, an
+- [Bomber Battle Arena](../games/action/bomber-battle-arena.md) — Bomber Battle Arena is an exciting 3D collecting game that lets you play as a bomb-wielding character. Your goal is to s
+- [Bomber Friends](../games/action/bomber-friends.md) — Get Bomber Friends now and be part of this extremely exciting and fun online multiplayer game! Bomb your friends and be 
+- [Bomber Friends](../games/action/bomber-friends-2.md) — Navigate explosive mazes in Bomber Friends, a dynamic blend of puzzle, action, and strategy. Unleash your inner tacticia
+- [Bomber Friends 2 Player](../games/action/bomber-friends-2-player.md) — Bomber 3D game presents you a true classic, bombing field battles, in 3D gaming experience. Find your friend for this mu
+- [Bonecrypt](../games/action/bonecrypt.md) — Bonecrypt is a dungeon action roguelite with a hand-drawn ink look. Fight through branching crypt floors full of skeleto
+- [Boneless](../games/action/boneless.md) — Survive as a one-armed warrior in a harsh, alien-ridden world where ammo is scarce, strategy is key, and quick reflexes 
+- [Bonk Islands](../games/action/bonk-islands.md) — Blast, bounce, and bonk your way to victory! Bonk Islands is a colorful physics battle game where four quirky fighters c
+- [Bonkhalla](../games/action/bonkhalla.md) — Choose one of 6 heroes and battle endless waves of monsters across three unique biomes: Forest, Desert, and Graveyard.
+- [Boom Battle Arena](../games/action/boom-battle-arena.md) — Adventure begins in Bomb Battle Arena game. Use your bombs to counter the enemies and collect items in 85 different leve
+- [Boom Duello](../games/action/boom-duello.md) — Boom Duello is a fast-paced 2-player TNT battle game where only one can survive. Face off against your friend on two uni
+- [Boom Room](../games/action/boom-room.md) — Boom Room is fun hml5 game for boys and girls!
+- [BoomBoom](../games/action/boomboom.md) — This is still very much a prototype, but I just needed to release what I had.
+- [BoomCraft](../games/action/boomcraft.md) — BoomCraft is a 2 player TNT game in a minecraft world where you defeat your friend and become the survivor. With 4 diffe
+- [Boots n Bounds](../games/action/boots-n-bounds.md) — Boots &amp; Bounds Saddle up and hang tight &mdash; it&rsquo;s a wild ride! In Boots &amp; Bounds, you take control of a
+- [Boss Hunter Run](../games/action/boss-hunter-run.md) — Boss Hunter Run is an exciting parkour adventure game that blends battling, and high-speed running into one thrilling ex
+- [Boss Hunter Run](../games/action/boss-hunter-run-2.md) — Race through thrilling parkour challenges in Boss Hunter Run! Dodge deadly traps, gather allies, and face formidable bos
+- [Bottle Avenger Royale](../games/action/bottle-avenger-royale-2.md) — Prepare to unleash your inner warrior in Bottle Avenger Royale. Dive into intense battles, upgrading and merging your we
+- [Bottle Battle](../games/action/bottle-battle.md) — This is a puzzle game, the game provides different volumes of the kettle, according to the game level prompts each kettl
+- [Bottle Flip](../games/action/bottle-flip.md) — Can you flip bottle and put it flat on the bottom? And on the neck? And if you need to throw it on a tiny platform?
+- [Bottle Jump 3D](../games/action/bottle-jump-3d.md) — You have to flip a plastic bottle in the exciting arcade game Bottle Jump 3D! Just tap the screen at the right moment an
+- [Bounce challenge : Colors Game](../games/action/bounce-challenge-colors-game.md) — Bounce from wall to wall and avoid the spikes! You can jump as many times as you like, but beware of the spikes at the t
+- [Bounce Heroes](../games/action/bounce-heroes-2.md) — Bounce Heroes is a thrilling blend of idle RPG, merge puzzle, and roguelite action where your hero battles fierce monste
+- [Bounce Odyssey](../games/action/bounce-odyssey.md) — Embark on a thrilling journey with Bounce Odyssey, where your quick reflexes guide a lively ball through a vibrant, ever
+- [BouncePop Quest](../games/action/bouncepop-quest-2.md) — Guide the charming Jumpo through vibrant landscapes in BouncePop Quest. Master the art of bouncing with precision to ove
+- [Bouncing Bunny](../games/action/bouncing-bunny.md) — The jumping bunny is hungry. It needs to jump across the platforms to reach the carrots. Sometimes it has to move throug
+- [Bouncy Ninja](../games/action/bouncy-ninja.md) — Leap into action as a nimble ninja in Bouncy Ninja, a vividly animated adventure of swift reflexes and strategic combat.
+- [Bouncy Rush](../games/action/bouncy-rush.md) — Bouncy Rush, click right away if you want to experience endless excitement on endless platform. Watch out for interestin
+- [Bouncy Rush HD](../games/action/bouncy-rush-hd.md) — Try to reach the sky! Really challenging and fun action!
+- [Bouncy Santa Claus](../games/action/bouncy-santa-claus.md) — Bouncy Santa Claus is super fun jumping game that you can play Online & Unblocked for free. No download needed to play!.
+- [Bouncy Stick](../games/action/bouncy-stick.md) — The wild spring begins its adventurous sprint! As long as there is a point I can play! The direction must hold well! You
+- [Bound to defend](../games/action/bound-to-defend.md) — Looter, endless wave defender. Stand your ground (you can only move the camera around) Defend the outpost against hordes
+- [Box Breaker](../games/action/box-breaker.md) — Box Breaker immerses you in a fast-paced challenge where quick reflexes and sharp shooting are key. Navigate shifting te
+- [Box Journey](../games/action/box-journey.md) — Dive into the enchanting realm of Box Journey, a platformer masterpiece that seamlessly weaves together precision gamepl
+- [Box Man vs Pumpkins](../games/action/box-man-vs-pumpkins.md) — Embark on an enchanting 2D adventure with Box Man as you outsmart crafty Pumpkin guards and dodge airborne pumpkins. Mas
+- [Box VS Triangles](../games/action/box-vs-triangles.md) — Tap right or Tap left to hit the triangles. Try to break as many triangles as possible. You can get special bonuses for 
+- [BoxBash](../games/action/boxbash.md) — BoxBash is a game where a wrestler has to punch the sand-boxes to increase the score and has to avoid the box with a let
+- [Boxed Platformer](../games/action/boxed-platformer.md) — Boxed Platformer is a kid's platform game. Your job as a player is to control the little player to collect all stars. Ju
+- [Boxed Platformer](../games/action/boxed-platformer-2.md) — Leap through endless challenges in Boxed Platformer! Tap to jump and double-jump, collecting stars while dodging obstacl
+- [Boxes Chaser](../games/action/boxes-chaser.md) — Hey help the little color Boxes to escape from the Chaser! Avoid all obstacles and try to resit the more you can! Comple
+- [Boxes Chaser](../games/action/boxes-chaser-2.md) — Guide the adorable Color Boxes through treacherous space in Boxes Chaser. Outsmart relentless foes with strategic moves 
+- [Boxes Wizard](../games/action/boxes-wizard.md) — Boxes Wizard is a 2D pixel art platformer with 40 levels, where you play as a wizard wielding a wooden staff. With the p
+- [Boxhead Highway Runner Game](../games/action/boxhead-highway-runner-game.md) — Navigate endless highways dodging obstacles and collecting boosts in this fast-paced runner game. Players control a bloc
+- [Boxing Fighter Shadow Battle-3](../games/action/boxing-fighter-shadow-battle-3.md) — Boxing Fighter Shadow Battle is a cool HTML5 game that is playable both on your desktop and on your mobile phone!
+- [Boxing Gang Stars](../games/action/boxing-gang-stars.md) — The stars are in the boxing ring and it is time to fight! These funny boxing characters are trying to destroy each other
+- [Boxing Hero 2077](../games/action/boxing-hero-2077.md) — In Boxing Hero 2077, you step into the future of boxing as a rookie boxer striving for greatness. Train your fighter, up
+- [Boxy Boo - Poppy Playtime](../games/action/boxy-boo-poppy-playtime.md) — The game is a street fight between the hero in the Game Boxy Boo - Poppy Playtime and the enemies in the same serie wher
+- [Boxy Horror House](../games/action/boxy-horror-house.md) — Welcome to Project Playtime Boxy Boo, with a fantastic appearance, a new survivor, and the boxy boo monster. Choose your
+- [Boy Adventure](../games/action/boy-adventure.md) — boy adventure is a html5 platformer game, collect fruits to get scores and more bottles to unlock levels
+- [Boy's Journey](../games/action/boy-s-journey.md) — Embark on a shadowy adventure with Boy’s Journey, where agility and cleverness are your best allies. Navigate treacherou
+- [Boy vs Zombies](../games/action/boy-vs-zombies.md) — Jump over obstacles and zombies. You can jump over zombies head to kill them. Good luck!
+- [Boys - Battle for the District](../games/action/boys-battle-for-the-district.md) — Boys - Battle for the District is an addictive idle clicker game where you tap to battle and conquer urban turf against 
+- [Brain Teasers](../games/action/brain-teasers.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Brainrot Auto Fight](../games/action/brainrot-auto-fight.md) — Enter the chaotic world of Brainrot Auto Fight, where memes meet mayhem! Select your wacky warriors and unique arenas, t
+- [Brainrot Express](../games/action/brainrot-express.md) — **Brainrot Jump** is a dynamic platform adventure in which your task is to collect the most legendary Brainrots! Jump ov
+- [Brainrot Mega Parkour](../games/action/brainrot-mega-parkour.md) — Step into the wildest parkour adventure yet. Brainrot Mega Parkour brings together four intense modes, forty handcrafted
+- [Brainrot Tung Sahur Battle](../games/action/brainrot-tung-sahur-battle.md) — Are you ready for a battle between Brainrot characters Trallero and Tung Tung? You must dodge the cannonballs fired by t
+- [Brainrot Tung Sahur Battle](../games/action/brainrot-tung-sahur-battle-2.md) — Dive into a frantic duel between Trallero and Tung Tung. Dodge relentless cannonballs from Bananamonkey launchers in a r
+- [Brave Soldier](../games/action/brave-soldier.md) — Join a fearless red soldier in "Brave Soldier," where immersive action meets strategic challenge. Navigate dynamic level
+- [Brave Soldier Invasion](../games/action/brave-soldier-invasion.md) — In "Brave Soldier Invasion," defend the city in thrilling side-scrolling action. Shoot enemies from all directions, coll
+- [Brave Soldier - Invasion Of Cyborgs](../games/action/brave-soldier-invasion-of-cyborgs.md) — "Brave Soldier - Invasion Of Cyborgs" is a pixel art platform/side scrolling game where the player must fulfill his miss
+- [Brave Warriors](../games/action/brave-warriors.md) — This platform adventure and action game, where warriors must cross the valley of devils, where they encounter many chall
+- [Brave Warriors Game](../games/action/brave-warriors-game.md) — HTML5 platform adventure / action game, where warriors must cross the valley of devils, where they encounter many challe
+- [Brawl Poo](../games/action/brawl-poo-2.md) — Leap into action as a courageous poo in dynamic arenas. Precision aim transforms each battle, with stylish outfits addin
+- [Brawl Star Leon Rush](../games/action/brawl-star-leon-rush.md) — Have fun with this survival race game Brawl Rush Leon Run is an entertaining game where a little Leon will need your hel
+- [Brawl Stars Hidden Skulls](../games/action/brawl-stars-hidden-skulls.md) — Brawl Stars Hidden Skulls is a free online kids and hidden object game. That is 10 skulls on 8 levels. Use mouse and cli
+- [Brawl Stars Memory](../games/action/brawl-stars-memory.md) — Brawl Stars Memory is a fun memory game. Match all the identical cards before time runs out! This game has 18 levels wit
+- [Brawl Us!](../games/action/brawl-us.md) — Battle of Black And White Among Us Characters
+- [Brawler Man Fist of Fury](../games/action/brawler-man-fist-of-fury.md) — Engage in an adrenaline-charged brawler where each fight is a thrilling test of reflexes and strategy. Master powerful c
+- [Brawlers Arena Battle Stars](../games/action/brawlers-arena-battle-stars-2.md) — Enter intense arena skirmishes and emerge victorious in Brawlers Arena Battle Stars! Navigate dynamic battlegrounds with
+- [Brazen Ball](../games/action/brazen-ball.md) — You play as a robotic ball as you roll your way through challenging obstacles like sawblades, lasers, meteor showers, tr
+- [Break a Lucky Block!](../games/action/break-a-lucky-block.md) — Break lucky blocks, unlock rare rewards, collect brainrots, escape the guards, and bring everything back to your plot in
+- [Break a Lucky Blocks: Catch Brainrots](../games/action/break-a-lucky-blocks-catch-brainrots.md) — Whats inside the Lucky Blocks? Break lucky blocks before you get caught! Grab the brainrots that spawn! Bring them back 
+- [Break a Tower: Obby](../games/action/break-a-tower-obby.md) — "Break a Tower: Obby" - a demolition simulator in the spirit of the best obby modes! This unique obby mode combines dyna
+- [Break and Steal Eggs](../games/action/break-and-steal-eggs.md) — 🥚 Break and Steal Eggs! 🥚
+- [Break the Ice](../games/action/break-the-ice.md) — Brace yourself for the frosty challenge of Break the Ice, where your speed and precision will be relentlessly tested. Fr
+- [Breakout Champion](../games/action/breakout-champion.md) — Breakout Champion is a classic breakout game. Lines of bricks are coming down toward you. Your goal is to destroy them a
+- [BreakTheHoops!!](../games/action/breakthehoops.md) — It is one of the most fun games. Select your ball and start to break the ground with your ball. There is only one jump c
+- [Brick Battle](../games/action/brick-battle.md) — Prepare for high-speed building action in Brick Battle! Stack bricks against the clock, racing others to construct faste
+- [Brick Game](../games/action/brick-game.md) — Brick Game is the compilation of the best games from the most popular console of the 1990s. Do you feel tired of with co
+- [Brick Rush 3D](../games/action/brick-rush-3d-2.md) — Dive into Brick Rush 3D, where swift bridge-building meets high-speed racing. Collect bricks to craft stable bridges and
+- [Brick Surfer](../games/action/brick-surfer.md) — In the game, we need to help the lumberjack pick up the fallen wood on the way, build a bridge between the two high plat
+- [Brick War](../games/action/brick-war.md) — This is an interesting brick moving game. You can compete with the characters in the game to move bricks, transport them
+- [Bridal Race 3D](../games/action/bridal-race-3d.md) — Rush on the high runway and collect bridal elements as many as possible and better your outfit's look. As you dress up o
+- [Bridge Bounce: Jump Challenge](../games/action/bridge-bounce-jump-challenge.md) — Bridge Bounce: Jump Challenge is a fast-paced arcade runner where every jump counts. Bounce across a high bridge, flip t
+- [Bridge Builders](../games/action/bridge-builders.md) — Race against time in Bridge Builders, a thrilling competition of speed and strategy. Collect materials, construct swift 
+- [Bridge Cleaner Runner Game](../games/action/bridge-cleaner-runner-game.md) — Welcome to Bridge Cleaner Runner Game, an exciting and addictive running adventure where speed, timing, and cleaning ski
+- [Bridge Constructor](../games/action/bridge-constructor.md) — Bridge Constructor combines speed, precision and creativity. You will feel the adrenaline rush when running on the bridg
+- [Bridge Race Stairs Run Build](../games/action/bridge-race-stairs-run-build.md) — Race against the clock in a high-octane adventure, collecting colorful blocks to construct your path across perilous gap
+- [Bridge Runner Race Game 3D](../games/action/bridge-runner-race-game-3d.md) — Try to build your own Bridge by competing with others for collectible blocks! You should look out for potential looters.
+- [Bridge Wars](../games/action/bridge-wars.md) — Gear up for Bridge Wars, a mobile gaming epic blending creativity and strategy. Immerse in a world where tactical master
+- [Brikzo](../games/action/brikzo.md) — Brikzo is a game where there are sand-blocks coming which wrester hits and breaks using his arms or legs. There are limi
+- [Brokun 2](../games/action/brokun-2.md) — Brokun 2 is a 2D cute little platformer where you play as a human being called Brokun who have to collect all of the mag
+- [Brotato Alien Survivor](../games/action/brotato-alien-survivor.md) — Blast through waves of relentless alien foes as a tenacious potato hero in this exhilarating top-down shooter. Juggle up
+- [Brr Brr Patapim Rage Tung Sahur](../games/action/brr-brr-patapim-rage-tung-sahur.md) — Jump into thrilling urban chaos with Brr Brr Patapim! Battle quirky foes using powerful combos in vibrant, dynamic envir
+- [Brutal Defender](../games/action/brutal-defender-2.md) — Dive into Brutal Defender, a relentless battle for survival where strategy meets chaos. As a valiant soldier, use your v
+- [Bu Bunny Two Rabbit](../games/action/bu-bunny-two-rabbit.md) — Cute rabbit - 2 black and white rabbits are lost in the land of Dop5 and are looking to find their way back home. Please
+- [Buckshot Roulette](../games/action/buckshot-roulette.md) — Do you dare to bet your life on an exciting roulette wheel showdown? Buckshot Roulette is a gun simulator that combines 
+- [Buddy Rescue](../games/action/buddy-rescue.md) — Main object of this game is Rescuing Bruno.Hence Jackson went for the rescue.During crossover the player has face many o
+- [Bug Destroyer](../games/action/bug-destroyer-2.md) — Dive into the thrilling chaos of Bug Destroyer, where quick reflexes and precision are your best allies. Crush swarms of
+- [Build An Obby](../games/action/build-an-obby.md) — Build your Obby! How big can you make it? &bull; Buy blocks, walls, ramps, lava, and more to BUILD your obby! &bull; Pla
+- [Build and Fly Obby](../games/action/build-and-fly-obby.md) — Build a plane from random parts — and see if it can actually fly.
+- [Build And Run](../games/action/build-and-run.md) — Build And Run is an exciting arcade game where you navigate, construct, and triumph! Play instantly on various devices w
+- [Build House 3D](../games/action/build-house-3d.md) — This is a placement game, the user's house in the game is blown up by meteorites, so they need to employ workers, improv
+- [Build Obby World](../games/action/build-obby-world.md) — 🌈 Welcome to Build Obby World!
+- [Build Your Vehicle Run](../games/action/build-your-vehicle-run.md) — Welcome to Build Your Vehicle Run, an exciting and creative parkour game! In this game, you&rsquo;ll collect different p
+- [Build Your Vehicle Run](../games/action/build-your-vehicle-run-2.md) — Unleash your creativity and speed in Build Your Vehicle Run! Construct your dream car from scattered parts and race thro
+- [Builder](../games/action/builder.md) — As a builder, you will build more tall buildings for your city, making your city more prosperous.
+- [Building construction](../games/action/building-construction.md) — A game where you have to stack building layers and make the tallest building in the city , and if youre good you can try
+- [Buildy Island 3d Game](../games/action/buildy-island-3d-game.md) — This is a trending idle game, a new Sims experience is about to begin. You go from being a woodcutter with nothing to an
+- [Bullet 3D Overload](../games/action/bullet-3d-overload.md) — Bullet 3d Overload is the newest puzzle from makers of Laser Overload and Laser Overload 2. The goal is to set all the e
+- [Bullet and Cry in Space](../games/action/bullet-and-cry-in-space.md) — Navigate a chilling spaceship where danger lurks in every shadow. Experience intense action as you fight grotesque creat
+- [Bullet Army Run](../games/action/bullet-army-run.md) — Welcome to the most exciting army-run challenge! In Bullet Army Run, youll be a commander and lead your Bullet Army on t
+- [Bullet Bender 3d](../games/action/bullet-bender-3d.md) — Bullet Overload is the new biggest hit about rotating elements to point the gun at the mafia boss. Eliminate all enemies
+- [Bullet Swarm Runner](../games/action/bullet-swarm-runner.md) — Bullet Swarm Runner is a fast-paced 3D endless runner where you dodge deadly obstacles and take down a massive boss with
+- [Bum Brawl Heaven](../games/action/bum-brawl-heaven.md) — Brawl through five heavenly locations against sixty angels in Bum Brawl: Heaven. Battle runners, sentinels, and scribes,
+- [Bumb Robot Escape](../games/action/bumb-robot-escape.md) — Guide your robot through an endless journey, collecting coins while dodging monsters and rock formations. Outsmart adver
+- [Bump the Robot Adventure](../games/action/bump-the-robot-adventure.md) — Embark on a thrilling ride with Bump the Robot Adventure, where every leap and slide tests your reflexes! Navigate throu
+- [Bunge Jungle: Endless Platformer Action Game](../games/action/bunge-jungle-endless-platformer-action-game.md) — Bored of all the games you played? Are you tired of tapping with your fingers? Then stop playing these orthodox games. B
+- [Bunns Adventure](../games/action/bunns-adventure.md) — Bunn's Adventure is a fun classic adventure platformer game in which you collect coins and jump over obstacles, traps an
+- [Bunny Angel](../games/action/bunny-angel.md) — bunny angel sweetie welcome to the life of the sweet rabbit. help bunny angel and beat all levels. Skip the stages to vi
+- [Bunny Coin Hop](../games/action/bunny-coin-hop.md) — Join the adventure in Bunny Coin Hop, where you'll guide an adorable bunny through vibrant 3D landscapes. Leap across pl
+- [Bunny Collect Eggs](../games/action/bunny-collect-eggs.md) — Embark on a charming adventure as a bunny collecting Easter eggs in this delightful platformer. Navigate vibrant levels,
+- [Bunny Devil](../games/action/bunny-devil.md) — "Bunny Devil" Little crazy cry devil bunny. Welcome to the world of the devil rabbit. You have to survive in the legenda
+- [Bunny Punch](../games/action/bunny-punch.md) — Bunny Punch - is a game where you and your bunny have to punch and destroy the boxes without touching the spikes before 
+- [Bunny Run Escape](../games/action/bunny-run-escape.md) — Help a swift bunny navigate through a thrilling, trap-laden landscape in Bunny Run Escape. With simple controls, skillfu
+- [Bunny Stack Jump](../games/action/bunny-stack-jump.md) — Little Bunny is jumping constantly. Your child will stack jump endlessly into the air without worrying about falling in 
+- [BuS](../games/action/bus.md) — Unleash your rebellious side in BuS, where chaos reigns supreme. Navigate a vibrant pixel world, smashing vehicles and c
+- [Bus Rush](../games/action/bus-rush.md) — Bus Rush is an amazing arcade game with an endless mechanism. Try to pull off some epic stunts and tricks and show off w
+- [Bus Rush - Bus Surfer](../games/action/bus-rush-bus-surfer.md) — It is evident that Bus Rush is a parkour arcade game with 3D game art animation according to what the cover looks like. 
+- [Bus Subway](../games/action/bus-subway.md) — Bus & Subway combines endless runner and multiplayer modes. You run switching between Bus roads and Subway tracks laid t
+- [Bus Subway Runner](../games/action/bus-subway-runner.md) — All this boy wanted to do was ride his new hoverboard around his hometown. Then a mean police officer tried to bust him.
+- [Bushido Bear Chase We Bare Bears Quest for NomNom](../games/action/bushido-bear-chase-we-bare-bears-quest-for-nomnom.md) — "Bushido Bear Chase We Bare Bears Quest for NomNom"In this platform game your job is to collect presents jumping around 
+- [Buto Square](../games/action/buto-square.md) — Buto Square is a 2D platformer where you have to collect all of the special red hats while avoiding the square enemies, 
+- [Buto Square 2](../games/action/buto-square-2.md) — Buto Square 2 is a 2D platformer where you have to collect all of the special red hats while avoiding the square enemies
+- [Buuno 2](../games/action/buuno-2.md) — Buuno 2 is a 2D platformer where you play as an office worker who have to collect the important documents while avoiding
+- [Buyoda Sensei Kendo Academy](../games/action/buyoda-sensei-kendo-academy.md) — Test you Kendo Skills as you defend from attacks by Sensei, He will start off slowly, but beware, not only does he get f
+- [Byte Dash](../games/action/byte-dash.md) — Dive into Byte Dash, a captivating platformer where retro pixel art meets constantly evolving levels. Each run is a thri
+- [Cactus Cartel Clash](../games/action/cactus-cartel-clash.md) — Roll into the Wild West as a spiky cactus, shooting spines and outmaneuvering rivals in a vibrant desert arena. Grab mir
+- [Cake Protector](../games/action/cake-protector.md) — Cake Protector is a fun tower defense game where you must protect the cake from hungry ants. Set traps, block paths, and
+- [Call of Duty Modern Warfare 4: Beat Em Up](../games/action/call-of-duty-modern-warfare-4-beat-em-up.md) — Call of Duty Modern Warfare 4: Beat Em Up is a five-chapter modern military arcade beat em up. Fight, shoot, dodge, and 
+- [Call of Tanks](../games/action/call-of-tanks.md) — Call of Tanks is an action game to deploy tanks on the battlefield to defeat your opponent. Deploying the right units as
+- [Call to Action Multiplayer](../games/action/call-to-action-multiplayer-2.md) — Dive into intense multiplayer battles with Call to Action Multiplayer, where strategic maneuvers and quick reflexes are 
+- [Candy Catcher](../games/action/candy-catcher.md) — Catch the candies to be able to upgrade your chest and unlock more candies
+- [Candy Kingdom Skyblock Parkour](../games/action/candy-kingdom-skyblock-parkour.md) — In this adventure, the king and queen need to escape from the skyblock world. You must help them escape from this world.
+- [Candy Kingdom Skyblock Parkour](../games/action/candy-kingdom-skyblock-parkour-2.md) — Join the royal duo in Candy Kingdom Skyblock Parkour for a thrilling sky-high escape! Navigate vibrant candy-themed stag
+- [Candy Quest](../games/action/candy-quest-2.md) — Dive into Candy Quest, a vibrant side-scrolling platformer adventure across 10 candy worlds. Master intuitive moves and 
+- [Candy Xmas](../games/action/candy-xmas.md) — Xmas is coming. Santa need candys for childrens. Help Santa to collect more candys to all childrens but be carefull, sno
+- [Canjump](../games/action/canjump.md) — Canjump is a game in which you can only jump, but you have to do it at the right time.
+- [Cannon Ball](../games/action/cannon-ball-2.md) — Leap into action with Cannon Ball, where strategic planning and precision aiming are vital. Launch your character from c
+- [Cannon Balls](../games/action/cannon-balls-3.md) — Dive into Cannon Balls, where strategic shooting and agility are your tools against ever-moving obstacles. Aim precisely
+- [Cano Bunny](../games/action/cano-bunny.md) — Cano Bunny is a 2D platformer where you play as a cute bunny who have to collect all of the carrots while avoiding the t
+- [Cano Bunny 2](../games/action/cano-bunny-2.md) — Cano Bunny 2 is a 2D platformer where you play as a cute bunny who have to collect all of the carrots while avoiding the
+- [Cant Run](../games/action/cant-run.md) — This Game awesome and challenging endless runner
+- [Cap Boy Run](../games/action/cap-boy-run.md) — Join Cap Boy on a high-speed adventure filled with tricky terrains and dynamic obstacles. Leap, dodge, and collect gems 
+- [Capboy Run](../games/action/capboy-run.md) — Cap Boy Run is a side scrolling auto runner game, tab to jump and avoid the enemy. Collect Jewel in the street to earn s
+- [Captain](../games/action/captain.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Capture The Chickens](../games/action/capture-the-chickens.md) — Ariel lost his chickens from the farm where he lives and now our hero has decided to go in search of them. In Capture Th
+- [Capybara Go!](../games/action/capybara-go.md) — Enter the wonderful world of Capybara. In Capybara Go, begin a strategic adventure. Youll be forming and commanding your
+- [Capybara Go!](../games/action/capybara-go-2.md) — Embark on a strategic adventure with Capybara Go! Command your capybara army, merging identical troops to enhance their 
+- [Career Rush](../games/action/career-rush.md) — Have you ever dreamed of your favorite career? Career Rush plays like both a collecting arcade game and an avoiding vert
+- [Carrot-man 2](../games/action/carrot-man-2.md) — Step into Carrot-man 2's heart-pounding pixelated dungeon as a daring bunny. Navigate perilous paths, face ferocious foe
+- [Cartoon Battle Sky](../games/action/cartoon-battle-sky.md) — Arcade Shoot 'Em Up Game has arrived and it brings you one of the most compelling and satisfying experiences in the worl
+- [Carve Cookie, Candy](../games/action/carve-cookie-candy.md) — Carve Cookie Candy is a special game for cookies shape. multiple cookie handle puzzle game. Best game of real time game 
+- [Cash Climb Rush](../games/action/cash-climb-rush.md) — Cash Climb Rush is a fast and satisfying click runner where money becomes your power. Collect cash along the track, then
+- [Cast iron sword](../games/action/cast-iron-sword.md) — This is a leisure game that can fully relieve the pressure of your daily life. In this game, you can use grindstones of 
+- [Castel Runner](../games/action/castel-runner.md) — Castel Runner - Run on the castle, jump over the obstacle and pick up stars. Make a best resault and beat your friends.
+- [Castel Wars: Middle Ages](../games/action/castel-wars-middle-ages.md) — Castel Wars continues with its new episode, Middle Ages! With the new episode, you can try out Medieval weapons and equi
+- [Castel Wars Modern](../games/action/castel-wars-modern.md) — The modern edition is beginning with the Castel Wars series! The battle will happen in various places like on the moon, 
+- [Caster Crawler](../games/action/caster-crawler.md) — Dive into Caster Crawler, a spellbinding boss rush adventure where strategic upgrades and spellcasting skill are key. Na
+- [Castle Defence!](../games/action/castle-defence.md) — Castle Defence! A game where you have to defend your castle from monsters. You will fight ultimate battles while defendi
+- [Castle Defense Battle Heroes](../games/action/castle-defense-battle-heroes.md) — The war between many races is over. But… After all, the continent was ravaged, war began again of water and the resource
+- [Castle Defense Online](../games/action/castle-defense-online.md) — Castle Defense is an interesting tower defense game with a popular Origami style. There are many unknown scary monsters 
+- [Castle Game](../games/action/castle-game.md) — Can you protect our lovely character from danger? Avoid the reels and protect our lovely character! Have fun!
+- [Castle II](../games/action/castle-ii.md) — Embark on a whimsical journey in Castle II, a vibrant multiplayer platformer. Seize the crown to unlock exhilarating pow
+- [Castle Raid 3D Game](../games/action/castle-raid-3d-game.md) — As a collecting drawing puzzle arcade game, Castle Raid 3D requires you to group a team to invade the castle at each lev
+- [Castle Wars: Cell Battle](../games/action/castle-wars-cell-battle.md) — Dive into an exciting strategy game! You will find a map divided into segments, full of obstacles and enemies of differe
+- [Castle Wars Cell Battle](../games/action/castle-wars-cell-battle-2.md) — Immerse yourself in Castle Wars Cell Battle, where strategic hero deployment and crafty coin management are key. Tackle 
+- [Castle Wars: Knights vs Orcs](../games/action/castle-wars-knights-vs-orcs.md) — Strategize a plan, upgrade your knights, fight the horde and destroy their castle! Move the knight and strategize to kil
+- [Cat and Granny](../games/action/cat-and-granny.md) — Cat and Granny is a chaotic first-person action game where you play as a clever orange cat outsmarting the new black cat
+- [CAT CITY](../games/action/cat-city.md) — CityCat is a fast-paced parkour platformer set in a lively urban city full of rooftops, alleys, and towering buildings. 
+- [Cat Evolution Clicker](../games/action/cat-evolution-clicker-2.md) — Transform your kitten into a divine feline entity in Cat Evolution Clicker. Merge idle gameplay with rapid-fire clicking
+- [Cat Girl Skater](../games/action/cat-girl-skater.md) — Meet this vibrant cat-girl skater, a feline force of energy gliding through a sun-drenched park. Sporting a bold yellow 
+- [Cat Lovescapes](../games/action/cat-lovescapes.md) — Help a lovesick black cat navigate whimsical puzzles to reach his beloved bell cat in Cat Lovescapes. Engage your inner 
+- [Cat Runner](../games/action/cat-runner.md) — Race through vibrant landscapes in Cat Runner, an exhilarating endless runner where you must outpace an evil monster. Te
+- [Catch a Brainrot From Bosses](../games/action/catch-a-brainrot-from-bosses.md) — How many Brainrots can you STEAL? Remember… don’t anger the Brainrot guarding the base! 😡
+- [Catch a Fish Obby](../games/action/catch-a-fish-obby.md) — Catch a Fish Obby is a chaotic collector raider set in a bright OBBY world full of Fish and Brainrot Fish characters. Bu
+- [Catch Cats](../games/action/catch-cats.md) — Catch Cats delivers non-stop fun as you tap your way to a high score by catching adorable, quick-moving kittens. Set in 
+- [Catch The Berry](../games/action/catch-the-berry.md) — Catch The Berry is a free hypercasual platform adventure game where you run, move, and collect juicy berries to reach th
+- [Catch the Berry](../games/action/catch-the-berry-2.md) — Leap into vibrant landscapes in Catch the Berry, an addictive platform adventure! Collect juicy berries, dodge cunning o
+- [Catch the roober](../games/action/catch-the-roober.md) — Put on your badge and clean up the streets in Catch the Robber! In this fast-paced action game, you play as a fearless s
+- [CatnRobot Idle TD Battle Cat](../games/action/catnrobot-idle-td-battle-cat.md) — Command your mighty cat robot and defend your tower in CatnRobot Idle TD Battle Cat. Engage in thrilling battles as you 
+- [Cats Arena](../games/action/cats-arena.md) — Take part in the merciless battle of space seals. To win you need to score 30 points. For each point you will receive mo
+- [CATS: Crash Arena Turbo Stars](../games/action/cats-crash-arena-turbo-stars.md) — From the creators of the hit games Cut the Rope and King of Thieves, comes the most ingenious and stylish battle bot con
+- [Cats Go!](../games/action/cats-go.md) — Cats Go! - is a game from the genre of obstacle course passage. In this game you need to play as a cat to pass the map a
+- [Cats Vs Ninja](../games/action/cats-vs-ninja.md) — You're a great Ninja so try to avoid Cats the more you can!
+- [Cats Vs Ninja](../games/action/cats-vs-ninja-2.md) — Dive into the whirlwind world of Cats Vs Ninja, where quick reflexes and sharp evasion skills are your best allies. Navi
+- [Catsh the robber](../games/action/catsh-the-robber.md) — Catch the robber 3D game. you mission: chase them, catch them, earn money & upgrade your skills! The control is easy to 
+- [Catwalk Battle - Fun & Run 3D Game](../games/action/catwalk-battle-fun-run-3d-game.md) — Modeling seems to be a very simple profession, but in real life, models must be trained for a long time to walk. Models 
+- [Cave Miner](../games/action/cave-miner.md) — Embark on a subterranean adventure in Cave Miner, where relentless tapping unearths hidden treasures! Upgrade your tools
+- [Caveman Buster](../games/action/caveman-buster.md) — Cave Buster is a platformer game where you play as an little alien who crash landed on dangerous plant Play as a little 
+- [Cavern Run Endless Runner Game](../games/action/cavern-run-endless-runner-game.md) — Run for your life! Because Cavern Run will make you choose - it’s either run and avoid obstacles, or die! Cavern Run int
+- [Cavern Run Endless Runner Game](../games/action/cavern-run-endless-runner-game-2.md) — Venture into the thrilling Cavern Run, where endless excitement meets peril in a gripping side-scrolling race. Evade for
+- [Cemetery of Skeletons](../games/action/cemetery-of-skeletons.md) — Survive the relentless undead in Cemetery of Skeletons, a tense adventure set in an eerie graveyard. Wield your pistol a
+- [Chaki Sky Jump](../games/action/chaki-sky-jump.md) — This time Chaki jump over platforms in the sky. Help him to jump on all platforms without fall. Tap on screen to move le
+- [Chaki - Water Hop](../games/action/chaki-water-hop.md) — Pass the Chaki through the water without drowning. Jumping on the platform and be careful not to slip. Use right arrow k
+- [Challenge adventure of cute rabbit](../games/action/challenge-adventure-of-cute-rabbit.md) — Accompany the cute rabbits adventure together and have fun. I think it will be a little difficult to progress on the cha
+- [Chamber Challenge](../games/action/chamber-challenge.md) — Chamber Challenge plunges players into an exhilarating quest through enigmatic chambers teeming with devious traps and c
+- [Chaotic Mage Dungeons](../games/action/chaotic-mage-dungeons.md) — Dive into a whirlwind of magic and mayhem as a powerful mage. Survive relentless enemy waves, unleash spellbinding abili
+- [Chaotix Royale](../games/action/chaotix-royale.md) — Dive into Chaotix Royale, an unpredictable battle royale experience bursting with chaos and adrenaline. Engage in high-o
+- [Chase the Stars](../games/action/chase-the-stars.md) — Dive into "Chase the Stars," a captivating platformer where precision and skill are your allies. Master tricky jumps, co
+- [Cheese Chopper](../games/action/cheese-chopper-2.md) — Unleash your inner samurai in Cheese Chopper! Swiftly slice flying cheese, but beware of hidden bombs ready to end your 
+- [Cheese Collector: Rat Runner](../games/action/cheese-collector-rat-runner.md) — Fond of the rat race? It's time to grab some cheese. The rats are hungry! So make them grab those cheese right away! The
+- [Cheese Collector-Rat Runner](../games/action/cheese-collector-rat-runner-2.md) — Dodge dangerous obstacles as you race along the rope in Cheese Collector - Rat Runner. Fast-paced, one-tap controls crea
+- [Cheesy Run](../games/action/cheesy-run.md) — Embark on an exhilarating dash as a fearless hamster fleeing a relentless cat. Navigate through obstacles, snag power-up
+- [Cheno vs Reeno](../games/action/cheno-vs-reeno.md) — Cheno vs Reeno is a 2D cute little platformer where you have to collect gold coins while avoiding the enemies, flying cr
+- [Cheno vs Reeno 2](../games/action/cheno-vs-reeno-2.md) — Cheno vs Reeno 2 is a 2D cute little platformer where you have to collect gold coins while avoiding different kinds of e
+- [Chess Move](../games/action/chess-move.md) — Capture the Red King on each level in this fun chess-like puzzle game. The pieces move like chess pieces but you don't n
+- [Chibi Hero](../games/action/chibi-hero.md) — HTML5 platform adventure game where little Chibi Hero must cross the shadow valley where he meets many challenges. Colle
+- [Chibi Hero Adventure](../games/action/chibi-hero-adventure.md) — Take control and recover with the hero on a journey through the colorful world. It looks like the world of Mario, there 
+- [Chicken 11](../games/action/chicken-11.md) — Guide your helicopter through vibrant landscapes, helping charming chickens on thrilling escapades. Dodge obstacles and 
+- [Chicken Charge Race](../games/action/chicken-charge-race.md) — Chicken Charge Race Get ready for Chicken Charge Race, a super fun and free-to-play online game designed for kids! Your 
+- [Chicken Dash](../games/action/chicken-dash.md) — Chicken Dash is a fun and fast platform game where you help a little chicken run and jump its way to the finish line. Ea
+- [Chicken Dash](../games/action/chicken-dash-2.md) — Guide a speedy chicken through thrilling platformer challenges! Navigate spikes and gaps with perfect timing, while coll
+- [Chicken Escape](../games/action/chicken-escape-2.md) — Its possible now to play Miraculous Memory Match Up game in your web browser for free at superkidgames.com. Chicken Esca
+- [Chicken Jockey Helix Jump](../games/action/chicken-jockey-helix-jump.md) — Embark on a wild descent with Chicken Jockey Helix Jump! Maneuver your baby zombie and chicken duo through a spiraling t
+- [Chicken Jockey Plane Runner](../games/action/chicken-jockey-plane-runner.md) — Soar through perilous skies as a daring baby zombie on a chicken-steered plane. Navigate voxel landscapes, dodge towerin
+- [Chicken Jockey Terror](../games/action/chicken-jockey-terror.md) — Enter the eerie world of Chicken Jockey Terror, where you, a zombie child on a brave chicken, navigate a creepy warehous
+- [Chicken Jockey Tung Tung Sahur Fight](../games/action/chicken-jockey-tung-tung-sahur-fight-2.md) — Dive into "Chicken Jockey: Tung Tung Sahur Fight," where a baby zombie and its trusty chicken battle a vibrant cityscape
+- [Chicken Jump](../games/action/chicken-jump.md) — Chicken Jump is a casual game. In this gravity game you control chicken. Avoid obstales and run and jump on platforms. B
+- [Chicken Ko](../games/action/chicken-ko.md) — Chicken Ko is a 2D platformer where you have to collect bowls of grain and reach the red flag while avoiding enemies and
+- [Chicken Love](../games/action/chicken-love.md) — Chicken Love – where you take control of the brave chicken. In this game you will control the chicken, who will have to 
+- [Chicken Scream](../games/action/chicken-scream.md) — Guide a spirited chicken through entertaining obstacles using only your voice! Whisper for a gentle stroll or shout for 
+- [Chicken Yeet](../games/action/chicken-yeet.md) — Chicken Yeet is a fast, funny arcade launcher about one brave chicken, one very enthusiastic farmer, and a completely un
+- [Chikis Chase](../games/action/chikis-chase.md) — Enjoy this entertaining new game CHIKIS CHASE is a casual game help the little character to survive as long as possible 
+- [Chinu Neko](../games/action/chinu-neko.md) — Chinu Neko is a 2D cute little platformer where you play as a neko(cat) who have to collect cat food bowls while avoidin
+- [Chinu Neko 2](../games/action/chinu-neko-2.md) — Chinu Neko 2 is a 2D cute little platformer where you play as a neko(cat) who have to collect cat food bowls while avoid
+- [Chipi Chipi Chapa Chapa Cat Glass Bridge](../games/action/chipi-chipi-chapa-chapa-cat-glass-bridge.md) — Guide an adventurous cat across a treacherous glass bridge, choosing between blocks, where only one is stable. Merge qui
+- [Chipolino Another Day](../games/action/chipolino-another-day.md) — This is interesting adventure game for kids. Chipollino is a running-jumping fun game. Tray to avoid all the traps on yo
+- [Chippolino](../games/action/chippolino.md) — Chipollino is a running-jumping game. Run over the obastacles and pickup bloud to make your run more longer then other.
+- [Chitu Adventures](../games/action/chitu-adventures.md) — Chitu Adventures is a 2D platformer where you play as an employee called Chitu who have to collect all of the important 
+- [Chitu Adventures 2](../games/action/chitu-adventures-2.md) — Chitu Adventures 2 is a 2D platformer where you play as an employee called Chitu who have to collect all of the importan
+- [Choco Benno](../games/action/choco-benno.md) — Choco Benno is a 2D cute little platformer where you have to collect all the glasses of the chocolate milkshake while av
+- [Choco Benno 2](../games/action/choco-benno-2.md) — Choco Benno 2 is a 2D cute little platformer where you have to collect all the glasses of the chocolate milkshake while 
+- [Choo Choo Charles Survival](../games/action/choo-choo-charles-survival.md) — Are you looking for horror game? Choo choo charlies is horror game with amazing graphics and thrilling adventures gamepl
+- [Chop Fruits Master](../games/action/chop-fruits-master.md) — Fruit Cut Smash is an interesting fruitgame! Tap the knife to cut the fruit, chopped fruit and enjoy the splashing juice
+- [Christmas Bridge Runner](../games/action/christmas-bridge-runner.md) — Choose your route, grab enough socks, and build faster than your rivals. The more you collect, the easier it is to climb
+- [Christmas Bridge Runner](../games/action/christmas-bridge-runner-2.md) — Race to the finish by building bridges with Christmas stockings in Christmas Bridge Runner. Quick thinking and speedy co
+- [Christmas Candy Cane](../games/action/christmas-candy-cane.md) — Christmas Candy Cane is an online jump action game that will keep you entertained for hours. The objective of the game i
+- [Christmas Chuni Bot](../games/action/christmas-chuni-bot.md) — Christmas Chuni Bot is a 2D Sci-fi themed platformer where you have collect all of the battery cells while avoiding the 
+- [Christmas Chuni Bot 2](../games/action/christmas-chuni-bot-2.md) — Christmas Chuni Bot 2 is a 2D Sci-fi themed platformer where you have collect all of the battery cells while avoiding th
+- [Christmas Deno Bot](../games/action/christmas-deno-bot.md) — Christmas Deno Bot is a 2D Sci-fi themed platformer on a Christmas setting in which you play as a robot called Deno, who
+- [Christmas Deno Bot 2](../games/action/christmas-deno-bot-2.md) — Christmas Deno Bot 2 is a 2D Sci-fi themed platformer where you play as Deno Bot who have to collect the fuel containers
+- [Christmas Deno Bot 2](../games/action/christmas-deno-bot-2-2.md) — Embark on a sci-fi adventure with Deno Bot, navigating treacherous mazes in search of vital fuel. Master the art of doub
+- [Christmas Deno Bot](../games/action/christmas-deno-bot-3.md) — Guide a festive robot through perilous, holiday-themed levels in Christmas Deno Bot. Navigate dangerous obstacles, dodge
+- [Christmas Kenno Bot](../games/action/christmas-kenno-bot.md) — Christmas Kenno Bot is a 2D Christmas themed platformer where you play as a bot who have to collect green gift boxes whi
+- [Christmas Kenno Bot 2](../games/action/christmas-kenno-bot-2.md) — Christmas Kenno Bot 2 is a 2D Christmas themed platformer where you play as a bot who have to collect green gift boxes w
+- [Christmas Land Adventure](../games/action/christmas-land-adventure.md) — Christmas Land Adventures invites you to the magical world of Christmas, where youll assist Santa in overcoming challeng
+- [Christmas Lollipop](../games/action/christmas-lollipop.md) — Christmas Lollipop is a 2D Christmas themed platformer where you have to collect lollipops while avoiding the enemies, s
+- [Christmas Lollipop 2](../games/action/christmas-lollipop-2.md) — Christmas Lollipop 2 is a 2D Christmas themed platformer where you have to collect all of the lollipops while avoiding t
+- [Christmas Lollipop 2](../games/action/christmas-lollipop-2-2.md) — Embark on a festive adventure in Christmas Lollipop 2, a charming 2D platformer. Traverse eight challenging levels, coll
+- [Christmas Lollipop](../games/action/christmas-lollipop-3.md) — Dive into the whimsical world of Christmas Lollipop, a vibrant platformer where you gather lollipops amidst festive chal
+- [Christmas Memichan](../games/action/christmas-memichan.md) — Christmas Memichan is a 2D Christmas themed platformer where you play as a Santa Cat called Memichan who have to collect
+- [Christmas Memichan 2](../games/action/christmas-memichan-2.md) — Christmas Memichan 2 is a 2D Christmas themed platformer where you play as a Santa Cat called Memichan who have to colle
+- [Christmas Panda Adventure](../games/action/christmas-panda-adventure.md) — The main hero of our game is a fun and cheerful panda Teddy. He lives near the forest and the magical New Year's Eve San
+- [Christmas Run](../games/action/christmas-run.md) — Run fast little Santa, run! The kids are counting on you to collect as many sweets as you can. Don't let them down! Doub
+- [Christmas Runner](../games/action/christmas-runner.md) — For children's Christmas gifts, you play Santa Claus to collect children's gifts.
+- [Christmas Runner 3D](../games/action/christmas-runner-3d.md) — Dash through glittering snow trails in Christmas Runner 3D! Swiftly dodge obstacles, gather gifts, and embrace the festi
+- [Christmas Shiboman](../games/action/christmas-shiboman.md) — Christmas Shiboman is a 2D Christmas themed cute little platformer where you have to collect blue gift boxes while avoid
+- [Christmas Snowball Arena](../games/action/christmas-snowball-arena.md) — Christmas Snowball Arena is a 3D stickman snowball IO game that challenges you to an icy battle. You have to compete wit
+- [Chrome Dino Game (Original)](../games/action/chrome-dino-game-original.md) — Chrome Dino Game is an endless side-scrolling runner: jump and duck to dodge cacti and pterodactyls, chase a high score,
+- [Chrome Dino Run](../games/action/chrome-dino-run.md) — A 8-bit game comes for the people who love old-school styled graphics, with a dinosaur at an infinite desert. Your goal 
+- [Cimb Masters](../games/action/cimb-masters.md) — Accept the challenge and conquer the truest of natures wonders! Tap the screen to climb the rocks but dont miss or you w
+- [Circle Runners](../games/action/circle-runners.md) — Run on the circle and avoid obstacles. Click on right time to move the obstacle and to pass without hurts. Tap on the sc
+- [Circle Rush Trolley Run](../games/action/circle-rush-trolley-run.md) — Circle Rush Trolley Run is a super addictive arcade racing and running game that will hook you from the very first secon
+- [Circle Twirls](../games/action/circle-twirls.md) — In this game you have to rotate the central circles so that the colors of the smaller balls match when they collide.
+- [CIRCUS FUN](../games/action/circus-fun.md) — Circus Fun is amazing Circus Game in which you have to jump to earn coins and save yourself from fire rings and other ob
+- [City Ball](../games/action/city-ball.md) — City Ball is a rolling ball game set in the streets of a city. To be successful, you must overcome the obstacles that co
+- [City Banana Man Agent](../games/action/city-banana-man-agent-2.md) — Embrace your role as a secret banana agent navigating vibrant city streets. Engage in dynamic aerial and street battles,
+- [City Fighter vs Street Gang](../games/action/city-fighter-vs-street-gang.md) — City Fighter vs Street Gang provides you with a super fighting experience in this heroic karate game. Street fighter her
+- [City Run 3D](../games/action/city-run-3d.md) — This is a pretty enjoyable game that you cannot miss out on because of its easy gameplay, which is also really addicting
+- [City Rush Run](../games/action/city-rush-run.md) — Do not let the police officer catch you. Run as fast as you can. Collect the coins to upgrade all the properties to get 
+- [Clan Samurai](../games/action/clan-samurai.md) — Ninja warrior survival hero is an epic fun game in which you will show all your fighting skills and kung fu martial arts
+- [Clash Master Running Game](../games/action/clash-master-running-game.md) — Clash Master Game is a thrilling mobile game that puts you in control of an unstoppable hero on a quest for supremacy. A
+- [Clash Of Orcs](../games/action/clash-of-orcs.md) — Clash of Orcs is the next instalment of this fantastic series. In this title you take control of an Orc Warlord and have
+- [Cleaner Run](../games/action/cleaner-run.md) — Welcome to Cleaner Run Hypercasual 3D Game! Clean the road faster to win by choosing the right item to clean. Explore to
+- [CLICK!](../games/action/click.md) — Race against the clock in CLICK!, a frantic tap-based challenge that tests your speed and reflexes. With each tap, drive
+- [Clicker Knights Vs Dragons](../games/action/clicker-knights-vs-dragons.md) — Clicker Knights vs Dragons is a pixel-art idle clicker RPG where players tap for "Hero Tap DMG" while auto-attacking foe
+- [Clickerdon](../games/action/clickerdon-2.md) — Enter the adrenaline-fueled realm of Clickerdon, where the thrill of rapid taps propels you up the leaderboard. Simple y
+- [Clock Runner : Game online Run Race](../games/action/clock-runner-game-online-run-race.md) — With City Runner.io, Try to go as far as possible,, beat your opponents be the first. Think fast and tap to change lanes
+- [Clone Jumping](../games/action/clone-jumping.md) — Welcome to Clone Jumping. It's a new puzzle game for kids. Use your keyboard right and left keyboard buttons to move the
+- [Clone Runner](../games/action/clone-runner.md) — Clone Runner delivers a thrilling arcade experience, pushing your reflexes to the limit. Strategically generate clones t
+- [CloneUp: Stack Yourself](../games/action/cloneup-stack-yourself.md) — CloneUp &ndash; Stack Yourself is a 2D pixel-art platformer where your greatest tool is&hellip; yourself! Create clones,
+- [CloneUp - Stack Yourself](../games/action/cloneup-stack-yourself-2.md) — CloneUp - Stack Yourself is a captivating 2D pixel-art platformer where you cleverly use your clones to maneuver around 
+- [CluckNRun](../games/action/clucknrun.md) — Embark on a thrilling journey through the countryside in ClucknRun, where your mission is to return a lost chickens to t
+- [Cobalt Forest](../games/action/cobalt-forest.md) — Embark on a high-stakes adventure in Cobalt Forest, a thrilling platformer where agility and quick reflexes are key. Rac
+- [Cocktail Run](../games/action/cocktail-run.md) — Cocktail Run is a 2D pixel platformer built for quick arcade fun. Run, jump, and dodge dangerous spikes or shooting plan
+- [Cocoman](../games/action/cocoman.md) — Cocoman is a 2D cute little platformer where you have to collect bottles of coconut milk which act as the source of your
+- [Cocoman 2](../games/action/cocoman-2.md) — Cocoman 2 is a 2D cute little platformer where you have to collect bottles of coconut milk which act as the source of yo
+- [Code Runner: Binary Confusion](../games/action/code-runner-binary-confusion.md) — A fast-paced binary runner where logic and reflexes collide. Match the rule, dodge the wrong digit &mdash; survive the c
+- [Code Runner Binary Confusion](../games/action/code-runner-binary-confusion-2.md) — In Code Runner Binary Confusion, race against time where logic meets quick reflexes. Match rules, navigate a binary maze
+- [Coe Rabbit](../games/action/coe-rabbit.md) — Guide an adorable bunny through tricky puzzles and teleport across platforms to collect power-ups. Master the perfect ro
+- [Coffee Stack](../games/action/coffee-stack.md) — Here is a collecting arcade game called Coffee Stack. On the conveyor belt platform track, it is managed for you to coll
+- [Coffin Dancer](../games/action/coffin-dancer.md) — everyone's favorite coffin dancer Meme. all you have to do is to catch people to coffin. updated v1.2 (4/28/2020).
+- [Coin Chase 3D](../games/action/coin-chase-3d.md) — Race through a vibrant 3D landscape in Coin Chase 3D. Dodge unexpected obstacles and collect coins, testing your reflexe
+- [Coin Craze](../games/action/coin-craze.md) — Coin Craze is an adventure RPG game in which you need to control a boy who is collecting coin. The boy is standing on a 
+- [Coin Master Runner](../games/action/coin-master-runner.md) — Coin Master Run: Rush 3D is designed to provide a straightforward and accessible experience without complicated mechanic
+- [Coin Royale](../games/action/coin-royale.md) — Collect all the coins scattered in the Coin Royale game and start earning. You can increase your money with some math op
+- [Coin Running](../games/action/coin-running.md) — 1. In the game, players will continuously guide the direction of gold coins through simple manipulation; 2. Break throug
+- [Coin Rush](../games/action/coin-rush.md) — Let race with the coin! Coin rush now!
+- [Coinbound Voodoo Nightmare](../games/action/coinbound-voodoo-nightmare.md) — Coin Bound is a fastpaced arcade runner where every second counts. Dash through tight maze paths, grab coins, dodge zomb
+- [Collect And Break](../games/action/collect-and-break.md) — Dive into a adventure in Collect And Break which is running game! In this fun arcade game keep collecting coin and food(
+- [Collect Brainrot Arena](../games/action/collect-brainrot-arena-2.md) — Collect Brainrot Arena is a chaotic multiplayer collecting and stealing game where luck, strategy, and timing are equall
+- [Collect Brainrots on a Skateboard Online](../games/action/collect-brainrots-on-a-skateboard-online.md) — The guard looks away - that Brainrot is yours. Grab it and ride before he turns back.
+- [Color 3D   Bump it Up](../games/action/color-3d-bump-it-up.md) — The main principle is pretty simple &ndash; you are controlling a small ball that is always moving forward. On your way,
+- [Color Ball Run 2048](../games/action/color-ball-run-2048.md) — Color Ball Run 2048 is a new popular game with 2018 ball. Just swipe left and right to control the direction of the numb
+- [Color Battle Filler](../games/action/color-battle-filler.md) — **Color Battle Filler** is an exciting singleplayer strategy puzzle game where your goal is to conquer the entire board 
+- [Color Blocks vs Blocks 3D](../games/action/color-blocks-vs-blocks-3d.md) — Have Fun With Blocks Here New Blocks Puzzle game with ultimate Levels Beautiful and oddly satisfying Game , More than 10
+- [Color Brick Battle](../games/action/color-brick-battle.md) — Color the Brick Battle is a fast and addictive brick breaker game where color is the key to victory. Control the paddle,
+- [Color Crowd](../games/action/color-crowd-2.md) — Lead your lively Color Crowd through a vibrant maze, changing their hue to match obstacles. With a simple tap or swipe, 
+- [Color Cube Flip](../games/action/color-cube-flip.md) — This is a platform game with cube. You need to move the cube on the platform. Each side of the cube is a with different 
+- [Color Dash - Chameleon Runner](../games/action/color-dash-chameleon-runner.md) — Run, jump, and switch colors to survive! Fast-paced endless runner challenge.
+- [Color Line](../games/action/color-line.md) — Now control the color cube go to destination,be careful about the obstacles on the road!
+- [Color Path Line 3D Draw and Roll Puzzle Runner](../games/action/color-path-line-3d-draw-and-roll-puzzle-runner.md) — Embark on a vibrant journey in Color Path Line 3D, where drawing your path guides a rolling cube through mesmerizing puz
+- [Color Pathio](../games/action/color-pathio.md) — Get ready for a thrilling and colorful adventure with Color Pathio, the ultimate hyper casual mobile game! In this fast-
+- [Color Plates HD](../games/action/color-plates-hd.md) — Color Plates – is a gamein which you need to destroy bombs and collect rings
+- [Color Race 3D](../games/action/color-race-3d.md) — Welcome to the Color Race 3D! Colorful game that will keep you on your toes all the very end! Grow, Fight, and Win! Coll
+- [Color Runner](../games/action/color-runner.md) — Dash through a kaleidoscope of cubes in Color Runner, a vibrant arcade race that tests your reflexes. Match colors with 
+- [Color Warz](../games/action/color-warz.md) — Dive into the vibrant chaos of Color Warz, a thrilling arena brawl! Outsmart rivals in a tug-of-war, paint the arena, an
+- [Colorful ball X](../games/action/colorful-ball-x.md) — Are you ready for a colorful adventure? Take the ball to the exit to win the game. Press the buttons to unlock the locke
+- [Colorful Ball X](../games/action/colorful-ball-x-2.md) — Guide a brightly colored sphere through a dazzling journey in Colorful Ball X. With simple tap controls, glide past obst
+- [Colors Runners](../games/action/colors-runners.md) — Colors Runners is an interesting game that you can not miss. Slide to gather your companions of the same color and rush 
+- [Colosseum Battle](../games/action/colosseum-battle.md) — Youre the man in the Arena!!! Survive the tigers in the old Colosseum in Rome, show the world that youre worthy!! Develo
+- [Colosseum Battle](../games/action/colosseum-battle-2.md) — Step into the epic Colosseum, where survival hinges on your warrior skills. Face waves of fierce tigers in a thrilling, 
+- [Combat Battle](../games/action/combat-battle.md) — Survive relentless waves of monsters in the high-stakes adrenaline rush of Combat Battle. Precise shooting and strategic
+- [Commando Adventure](../games/action/commando-adventure.md) — Arcade-type game with adventure across enemies and obstacles with two dimensions and easy to play
+- [Commandos Battle for Survival 3D](../games/action/commandos-battle-for-survival-3d.md) — Destroy the enemy forces with stealth attack and render their weapons useless. Go quietly and infiltrate your sole. Use 
+- [Compound 82](../games/action/compound-82.md) — Embark on a perilous quest to retrieve a life-saving shard hidden within the enigmatic Compound 82. Navigate challenging
+- [Control Mob](../games/action/control-mob.md) — Control Mob immerses you in a vibrant, action-packed world where strategic decisions shape your mob’s destiny. Launch yo
+- [Conviction of Gun Dude](../games/action/conviction-of-gun-dude.md) — Unleash your inner hero in Conviction of Gun Dude, an exhilarating pixel-art platformer! Navigate a treacherous world pa
+- [Cool Escape Obby Man](../games/action/cool-escape-obby-man.md) — Navigate a treacherous prison escape, outsmarting guards at every turn. Leap over perilous platforms, dodge deadly traps
+- [Cool Man](../games/action/cool-man.md) — Dive into Cool Man's vibrant world, where precision and strategy are your allies. Navigate challenging platforms, dodge 
+- [Cool Snakes](../games/action/cool-snakes.md) — Cool Snakes is slithering snakes game in 3d snowy world. Become the grand snake in game by eating others and grow longer
+- [Coopter War](../games/action/coopter-war.md) — Black Operations 2 is an epic and addictive combat strategy game filled with exciting adventures and explosive fun. Trai
+- [Cop Run 3D](../games/action/cop-run-3d-2.md) — Dive into a high-speed chase in Cop Run 3D, where you become a determined cop navigating a bustling city. Master thrilli
+- [Copter Attack](../games/action/copter-attack.md) — Hellcopter is a new 3D shooting game. Jump into a helicopter and go on a deadly mission! Load your machine gun, aim and 
+- [Corona Virus Spine](../games/action/corona-virus-spine-2.md) — Unleash strategic blasts to combat a digital virus outbreak in Corona Virus Spine. Engage in a dynamic blend of action a
+- [CoronAA](../games/action/coronaa.md) — You have caught the insanely harmful virus. Corona... Kill it with your medical spears. Be careful if you miss the virus
+- [Cosmic Battle RPG](../games/action/cosmic-battle-rpg.md) — Unleash your strategic prowess in Cosmic Battle RPG, where memory fuels your spaceship's arsenal. Match cosmic icons to 
+- [Cosmic Dash](../games/action/cosmic-dash-2.md) — Navigate the cosmic expanse as a fearless cosmonaut in Cosmic Dash. Swiftly dodge or destroy asteroids with simple touch
+- [Cosmic Leap An Epic Space Adventure](../games/action/cosmic-leap-an-epic-space-adventure.md) — Jump into a vibrant cosmic world in Cosmic Leap An Epic Space Adventure! Master your timing as you collect shimmering co
+- [COSMOS 404](../games/action/cosmos-404.md) — Explore the galaxy in Cosmos 404! Run across procedurally generated tiny planets, collect coins, and dodge hostile alien
+- [Cosmos 404](../games/action/cosmos-404-2.md) — Embark on a thrilling interstellar journey in Cosmos 404! Navigate dynamically generated planets, dodge fierce aliens, a
+- [Count Alphabets Rush](../games/action/count-alphabets-rush.md) — Welcome to play Count Alphabets Rush! You have to collect the alphabet and push enemies. Make your friend attack the oth
+- [Count and Bounce](../games/action/count-and-bounce.md) — Count And Bounce is a ball puzzle game. It guides the ball forward. Release your hand and the ball will keep moving forw
+- [Count Clash](../games/action/count-clash.md) — Charge into mathematical mayhem in Count Clash! Race through challenging corridors, selecting gates that boost your crow
+- [Count Escape Rush](../games/action/count-escape-rush-2.md) — Sprint backward in Count Escape Rush, fending off enemies in a captivating 3D stickman setting. Assemble your team, boos
+- [Count Master: Crowd Runner 3D](../games/action/count-master-crowd-runner-3d.md) — Select the highest gate, pass through it and assemble stickman warriors to confront the opposing crowd. Overcome obstacl
+- [Count Master Match Color Run](../games/action/count-master-match-color-run-2.md) — Lead a lively team of colorful characters in a strategic race! Maneuver through obstacles, merge matching colors, and na
+- [Count Master Rush](../games/action/count-master-rush.md) — Count Masters: Stickman Games About this game Choose the best gate, pass through it, and bring stickman warriors togethe
+- [Count Masters](../games/action/count-masters.md) — In Count Masters, embark on a thrilling parkour journey as a stickman. Navigate through doors with mathematical puzzles 
+- [Count Masters: Clash Pusher 3D](../games/action/count-masters-clash-pusher-3d.md) — How to beat a strong enemy with a weak team? Count Masters: Clash Pusher 3D is not merely collecting and but also an avo
+- [Count Masters: Crowd Runner 3D](../games/action/count-masters-crowd-runner-3d.md) — Count Masters Crowd Runner 3D is both a puzzle and a running arcade game with 3D stickman models on a platform track. It
+- [Count Pusher](../games/action/count-pusher.md) — Lead your group of multiplying humanoids through perilous paths in Count Pusher's vibrant world. Strategically gather nu
+- [Cowboy Desert Runner](../games/action/cowboy-desert-runner.md) — Run fast. Shoot sharp. Get what's yours! Your precious treasure is stolen. Enemies are all around. Be the hero and take 
+- [Cowboy Jungle Adventures](../games/action/cowboy-jungle-adventures.md) — Cowboy Jungle Adventures is so easy and super exciting runner game to jump and run to avoid obstacles while you are in t
+- [Cowboy Runner](../games/action/cowboy-runner.md) — Cowboy Runner is the best looking Endless Runner type of game. Your task is to collect as much money as you can before y
+- [Cowboy Runners Dash](../games/action/cowboy-runners-dash.md) — Dash through subway tunnels and busy city streets! Dodge trains, vault barriers, collect coins, and upgrade power-ups. S
+- [Cowboy Running adventure](../games/action/cowboy-running-adventure.md) — Super Cowboy Run, is a fascinating and beautiful game in which you must collect coins, lives, ammunition, and kill monst
+- [Craft Boy Runner Game](../games/action/craft-boy-runner-game.md) — Race through the vibrant kingdom as Craft Boy, leaping over obstacles and dodging mischievous mice. Collect coins and po
+- [Craft Bros Boy Runner](../games/action/craft-bros-boy-runner.md) — Craft Bros Boy Runner
+- [Craft Bros Boy Runner](../games/action/craft-bros-boy-runner-2.md) — Race through a whimsical fusion of Minecraft and Super Mario worlds in Craft Bros Boy Runner. Dodge obstacles, gather co
+- [Craft Man Vs Giant TNT](../games/action/craft-man-vs-giant-tnt-2.md) — Immerse yourself in a chaotic, block-filled adventure where your creativity and strategy are your greatest weapons. As a
+- [Craft of Wars](../games/action/craft-of-wars.md) — Engage in epic cubic battlefield clashes as you join the Reds or Blues in Craft of Wars. Experience fierce sword and bow
+- [Crash Fighters](../games/action/crash-fighters.md) — Start the crazy fight with your crash battle cars. Enter the battle with your opponents by preparing your tiny collision
+- [Crash Landing 3D](../games/action/crash-landing-3d.md) — Take control of an airplane, avoid falling down in the ocean and get as many points as possible.
+- [CrashDown Voxel Destruction](../games/action/crashdown-voxel-destruction.md) — Crash Down - Smash Everything is a voxel-based sandbox game. The player is given complete freedom of action. There are v
+- [Crazy Backflip 3D](../games/action/crazy-backflip-3d.md) — Crazy Backflip 3D is a seemingly simple but very difficult to master backflip game. You need to land in the designated p
+- [Crazy Bar Brawl](../games/action/crazy-bar-brawl.md) — Crazy Bar Brawl 🍻🥊 throws you straight into the most chaotic, hilarious, and action-packed bar battles ever! If you’ve
+- [Crazy BBQ](../games/action/crazy-bbq.md) — This is a very interesting casual parkour game. The game is very simple and easy to operate. You will control the charac
+- [Crazy Bus Escape Runner](../games/action/crazy-bus-escape-runner.md) — Lead a fearless crowd through chaotic city roads in Crazy Bus Escape Runner. Swipe or use the keyboard to dodge dangerou
+- [Crazy Climber 3D](../games/action/crazy-climber-3d.md) — Crazy Climber 3D is a 3D hyper casual game where you try to reach the finish line by avoiding obstacles. The gameplay of
+- [Crazy Color Run 3D](../games/action/crazy-color-run-3d.md) — Guide your stickman through a vibrant, ever-changing world in Crazy Color Run 3D. Match colors, dodge obstacles, and enh
+- [Crazy Cowboy - Hard Running](../games/action/crazy-cowboy-hard-running.md) — Most wanted cowboy is running away from police and western gangs. You have one chance to survive! run fast and collect g
+- [Crazy Eggs](../games/action/crazy-eggs.md) — Dive into the colorful labyrinth of Crazy Eggs, where tapping or clicking uncovers hidden patterns and explosive challen
+- [Crazy Gravity](../games/action/crazy-gravity.md) — Crazy Gravity is a platform casual game, where the astronaut must overcome challenges on the unknown planet. Beat all le
+- [Crazy Gravity - Astronaut Game](../games/action/crazy-gravity-astronaut-game.md) — “Crazy Gravity” is a platform / casual game, where the astronaut must overcome challenges on the unknown planet. Beat al
+- [Crazy Gunner 3D](../games/action/crazy-gunner-3d.md) — "Crazy Shooter"! Here you will find a sea of ​​​​adventure, where you will need to show dexterity and speed. This runner
+- [Crazy Head Runner](../games/action/crazy-head-runner.md) — Experience the thrill of evolving as you navigate through dynamic gates! Each gate you pass will boost your strength and
+- [Crazy Helicopter](../games/action/crazy-helicopter.md) — Make the right shot without touching the ground and destroy your enemy. The one who shoots five accurate shots and destr
+- [Crazy Jumper Online Game](../games/action/crazy-jumper-online-game.md) — Crazy Jumper is the Jump Platformer online jumping game! How far will you jump? Play Crazy Jumper online for free - a fu
+- [Crazy Jumps](../games/action/crazy-jumps.md) — Leap into Crazy Jumps, an addictive adventure where precision and quick reflexes are your allies. Conquer deadly spikes 
+- [Crazy Miner](../games/action/crazy-miner.md) — Cubic Miner 3D Game is an idle game where players collect and sell resources from mines. Players start as the owner of a
+- [Crazy Platform](../games/action/crazy-platform.md) — Embark on a thrilling arcade adventure in Crazy Platform, where dynamic levels challenge your agility and courage. Navig
+- [Crazy Revolution   Police Runner : Hyper Casual](../games/action/crazy-revolution-police-runner-hyper-casual.md) — Crazy Revolution - Police Runner - Hyper Casual is a hyper-casual , fast-paced, addictive runner game! &zwj; Choose your
+- [Crazy Revolution Police Runner - Hyper Casual](../games/action/crazy-revolution-police-runner-hyper-casual-2.md) — Dive into a thrilling chase where you decide your destiny. Choose to uphold the law or fuel the rebellion in a fast-pace
+- [Crazy Roads](../games/action/crazy-roads.md) — Best endless runner game for free! Run, slide and leap your way across the city, rivers, park and train rails! Dash forw
+- [Crazy Runner](../games/action/crazy-runner.md) — Crazy Runner &ndash; is a classic and cool is never ending runner game where you have to run on the beautiful road, jump
+- [Crazy Runner 007](../games/action/crazy-runner-007.md) — Crazy Runner 007 Your character is John Agent 007 Run, avoid obstacles and jump over buildings to collect coins. the gam
+- [Crazy Runner](../games/action/crazy-runner-2.md) — Crazy Runner throws you into an exhilarating jungle sprint where timing is everything. Dodge obstacles, gather gold star
+- [Crazy Runner Boy](../games/action/crazy-runner-boy.md) — Dodge obstacles and perform daring flips in Crazy Runner Boy, a thrilling arcade experience where speed is key. Navigate
+- [Crazy Runner in City](../games/action/crazy-runner-in-city.md) — Crazy Runner in City is an incredible endless running game in the hyper casual game genre. The gameplay of the game is s
+- [Crazy Santa](../games/action/crazy-santa.md) — Do you know santa adventure? This is the max country boy you will play with this game a few days before Christmas, Santa
+- [Crazy Sea Battle](../games/action/crazy-sea-battle.md) — Crazy Sea Battle is an exciting ocean-based battle royale where you compete against players from around the world. Sail 
+- [Crazy Shark](../games/action/crazy-shark-2.md) — Embark on a thrilling underwater adventure as a daring shark in Crazy Shark. With high-speed action, devour foes, collec
+- [Crazy snail](../games/action/crazy-snail.md) — The crazy snail races along Tenman, can you win the championship?
+- [Crazy Snow Skier: Platformer](../games/action/crazy-snow-skier-platformer.md) — Slide through icy slopes, collect coins , upgrade your speed and buy hearts ! Face 10 increasingly difficult levels . Av
+- [Crazy Snow Skier Platformer](../games/action/crazy-snow-skier-platformer-2.md) — Embark on a thrilling snowbound adventure, mastering ten challenging levels as you race down icy slopes. Collect coins t
+- [Crazy Stickman Escape](../games/action/crazy-stickman-escape.md) — Crazy Stickman Escape is a puzzle-platform game in which you control two stickman characters who are trying to break out
+- [Create Bombardiro Crocodilo](../games/action/create-bombardiro-crocodilo.md) — Unleash chaos by fusing crocodiles with absurd objects to create powerful hybrids. Strategize as a Croc Tank or soar as 
+- [Create youre Obby skin](../games/action/create-youre-obby-skin.md) — Become a pro with endless robux, Exclusive Codes Packs, Claim Exclusive Codes, Get Unlimited Skins, Robux Clicker, Avata
+- [Creepy Clowns in the Graveyard](../games/action/creepy-clowns-in-the-graveyard.md) — You and your girlfriend went for a walk through the graveyard at night and met up with some creepy clowns and some other
+- [Crime Wars San Andreas](../games/action/crime-wars-san-andreas.md) — You will need to play as a hero who fights urban crime. There will be many different vehicles in the city to move around
+- [Crimson Forest](../games/action/crimson-forest.md) — Navigate the vibrant world of Crimson Forest, where players race across treacherous woodland, dodging perilous traps and
+- [Critter Munch](../games/action/critter-munch.md) — Join Critter, the fox, on an exhilarating adventure to munch watermelons in vibrant worlds of shifting platforms. With q
+- [Crocofinity](../games/action/crocofinity-2.md) — Dive into Crocofinity's vibrant underwater world as a swift crocodile. Master quick reflexes to devour fish and dodge ex
+- [Cross Miners](../games/action/cross-miners.md) — "Miners at the Crossroads" is an interesting arcade game, the gameplay of which is similar to the classic third-person r
+- [Crossy Chicken](../games/action/crossy-chicken.md) — Chicken Cross is an arcade game created by SquareLemurs with the gameplay similar to the classic Frogger game. In Chicke
+- [Crossy Miner](../games/action/crossy-miner.md) — Crossy Miner is an arcade game with the gameplay similar to the classic Frogger game. In Crossy Miner game you have to d
+- [Crossy Zombie Game](../games/action/crossy-zombie-game.md) — Welcome to Crossy Zombie Game, a fast-paced and thrilling survival adventure where danger waits at every step! Enter a w
+- [CrowCity Battleground](../games/action/crowcity-battleground.md) — Dive into the chaotic excitement of CrowCity Battleground, where urban warfare meets strategic depth. Engage in thrillin
+- [Crowd City Join Clash Runner](../games/action/crowd-city-join-clash-runner.md) — You will start the battle alone but in the end, you can join and bring a great crowd to clash with the opposite crowd an
+- [Crowd Clash Count Masters 3D](../games/action/crowd-clash-count-masters-3d.md) — Count Masters Clash : Stickman Fighting Game 3D is a fun game and full of adventure. Become a crowd leader starting toda
+- [Crowd Evolution!](../games/action/crowd-evolution.md) — Guide a burgeoning crowd through the ages, evolving from cavemen to futuristic pioneers. Navigate through intriguing evo
+- [Crowd Pusher](../games/action/crowd-pusher.md) — Get ready for a new adventure with the Crowd Pusher game. Collect the same colors, characters and numbers to kill the bo
+- [Crowd Run 3D](../games/action/crowd-run-3d.md) — ¡tienes que tener cuidado de no perder a muchos de los personajes! De vez en cuando tienes que luchar contra otro grupo 
+- [Crowd Runner](../games/action/crowd-runner.md) — Crowd Runner is a one-finger running game about turning a handful of little jelly people into an army. Drag left and rig
+- [Crowd Runner](../games/action/crowd-runner-2.md) — You start the battle alone, but trust us: you have no chance to feel alone.
+- [Crowd runner 3D](../games/action/crowd-runner-3d.md) — Welcome to the Crowd runner 3D game. It is a new arcade game that gives more entertainment and fun to the players. Pass 
+- [Crowd Runners 3D](../games/action/crowd-runners-3d.md) — Choose the best gate, pass through it, and bring stickman warriors together to clash with the opposing crowd. Become the
+- [Crowd Rush](../games/action/crowd-rush.md) — Lead a tiny crowd on a colourful sky track and turn it into an unstoppable army! Swipe to pick the best gates (+, x, -, 
+- [Crowd Rush](../games/action/crowd-rush-2.md) — Lead a crowd of adorable blue runners down the track! Drag left or right to pick your gate: &times;2 or +5? The right ca
+- [Crowd Stack 3D](../games/action/crowd-stack-3d.md) — Crowd Stack 3D is an addictive puzzle game which is free for all ages. The game play is to win more companions to pass t
+- [Crowd Zombie 3D](../games/action/crowd-zombie-3d.md) — Start fleeing, join the crowds, and build the most zombie-infested metropolis you can imagine. If your mob is large enou
+- [Crown Run Western Zombies](../games/action/crown-run-western-zombies.md) — Welcome to running the crown to become a zombie. This time you are horde of zombie and need to grow by eating Indian and
+- [Crumple Rumble](../games/action/crumple-rumble.md) — Crumple Rumble is a fast, funny stickman fighting game scribbled on notebook paper. Pick one of five doodle fighters, ch
+- [Crush these Ants](../games/action/crush-these-ants-2.md) — Test your reflexes in Crush These Ants, a vibrant clicker game where precision is as crucial as speed. Tap to squash ant
+- [Cube Adventure](../games/action/cube-adventure.md) — Cube Adventure is a great adventure game! Cross the tracks, avoid enemies and avoid getting caught in traps! You have to
+- [Cube Dash Runner](../games/action/cube-dash-runner.md) — Dive into Cube Dash Runner, an endless isometric experience where vibrant landscapes and soothing tunes guide you. Choos
+- [Cube Endless Jumping](../games/action/cube-endless-jumping.md) — Cube Endless Jumping is fun platform jumping game suitable for all ages. Jump as high as posssible and collect as many p
+- [Cube Hop Rush](../games/action/cube-hop-rush.md) — Share and play the best music-based jumping game with friends to challenge your reaction and reaction time. All you have
+- [Cube Jump](../games/action/cube-jump.md) — Jump your cube from one platform to the next without falling off into the abyss. Unlock new cubes as you attempt to top 
+- [Cube Ninja](../games/action/cube-ninja.md) — Slice! Slice!! Slice!!! Slice the cubes and try to make higher score and climb the leaderboard and show up with your fri
+- [Cube Runner 3D](../games/action/cube-runner-3d.md) — Play Cube Runner 3D online game for free. enjoy playing with avoiding obstacles and complete the levels to finish the ga
+- [Cube Runner Adventure](../games/action/cube-runner-adventure.md) — Get ready for an adrenaline-pumping adventure in Cube Runner Adventure! Maneuver a cube character through an endless maz
+- [Cube Runner: Endless](../games/action/cube-runner-endless.md) — In this endless game you need to hold out as long as possible and run as far as possible breaking your record Each level
+- [Cube Rush 3D: Survive The Rush](../games/action/cube-rush-3d-survive-the-rush.md) — Get ready for Cube Rush 3D, the ultimate high-speed physics runner! Surf through a vibrant low-poly world, stacking glow
+- [Cube Stamp it 3D](../games/action/cube-stamp-it-3d.md) — Here is a cube jumping arcade game for you to play. With 3D cubes and platforms, it is supposed for you to collect the o
+- [Cube Surfer Online](../games/action/cube-surfer-online.md) — Cube Surfer is a cool and funny 3D running game. There will be a lot of dangers and some squares on the track. You can j
+- [Cubetopia Parkour](../games/action/cubetopia-parkour.md) — Leap into the sky with Cubetopia Parkour, where precise timing and deft maneuvering are your best allies. Navigate a cha
+- [Cubic Blast](../games/action/cubic-blast.md) — Unleash chaos in Cubic Blast, where strategy meets thrill! Steer your ball to demolish explosive cubic structures, colle
+- [Cubic Ride](../games/action/cubic-ride.md) — Players need to collect boxes constantly to overcome obstacles and finally reach the finish line safely.
+- [Cubic Rush](../games/action/cubic-rush.md) — Experience the thrill in Cubic Rush, where rhythm meets precision! Guide a dynamic red cube along a slick path, jumping 
+- [Cuckoo vs Crow Monster](../games/action/cuckoo-vs-crow-monster.md) — Cuckoo vs Crow Monster is a 2D platformer where you play as a Cuckoo who have to collect your eggs while avoiding the Cr
+- [Cuckoo vs Crow Monster 2](../games/action/cuckoo-vs-crow-monster-2.md) — Cuckoo vs Crow Monster 2 is a 2D platformer where you play as a Cuckoo who have to collect the eggs while avoiding Crow 
+- [Cuphead](../games/action/cuphead.md) — Cuphead is a classic run and gun action game heavily focused on boss battles.
+- [Cuphead Halloween](../games/action/cuphead-halloween.md) — Cuphead And Mugman Halloween is a classic run and gun action game heavily focused on boss battles.
+- [Cuphead Run](../games/action/cuphead-run.md) — Cuphead And Mugman Run is a classic run and gun action game heavily focused on boss battles.
+- [Curvy Punch 2](../games/action/curvy-punch-2.md) — Ready to join the funniest and craziest punch battle ever? Play a creative 3D fight action game in Curvy Punch. You can 
+- [Curvy Punch](../games/action/curvy-punch-3.md) — Join the uproarious battle in Curvy Punch! Unleash wildly curved punches to outsmart opponents and navigate obstacles. F
+- [Cut Fruit](../games/action/cut-fruit-2.md) — Unleash your inner ninja in Cut Fruit, a fast-paced game where you masterfully slice through flying fruits while dodging
+- [Cut Grass](../games/action/cut-grass.md) — Do you know powerful a ring blade is? Cut Grass will show you a famous Mexican weapon in a 3D collecting puzzle arcade g
+- [Cut My Rope](../games/action/cut-my-rope.md) — Cut My Rope comes with a whole new cut ropes game to add on to the very successful series. Now the cute cat named Cookie
+- [Cute Girl Run](../games/action/cute-girl-run.md) — Cute Girl Run is a side scrolling auto runner game, tab to jump and avoid the enemy. Collect Jewel in the street to earn
+- [Cute Girl Run](../games/action/cute-girl-run-2.md) — Help a charming girl on an endless run filled with fun challenges in Cute Girl Run. Master the art of timing single and 
+- [Cute Girl Runner](../games/action/cute-girl-runner.md) — Join a spirited girl as she dashes through enchanting forests in this vibrant endless runner. Jump over obstacles, enjoy
+- [Cute Rifal Man](../games/action/cute-rifal-man.md) — Dive into the enchanting world of Cute Rifal Man, where whimsical landscapes and charming characters await. Solve puzzle
+- [Cute Road endless runner](../games/action/cute-road-endless-runner.md) — Cute Road is an endless runner which has cute graphics! Swipe up or Down to change the lane and tap/click to jump over t
+- [Cute Unicorn Run](../games/action/cute-unicorn-run.md) — Embark on a whimsical adventure in Cute Unicorn Run! Dash through vibrant realms, collect sparkling gems, and unlock cha
+- [Cutos Quest](../games/action/cutos-quest.md) — Cutos Quest is a 2D platformer where you have to collect all of the cream biscuits while avoiding the enemies, flying cr
+- [Cutos Quest 2](../games/action/cutos-quest-2.md) — Cutos Quest 2 is a 2D platformer where you have to collect all of the cream biscuits while avoiding the enemies, flying 
+- [Cyber Knight Slashman](../games/action/cyber-knight-slashman.md) — Embark on an exhilarating journey as a cyber knight in Cyber Knight Slashman. Engage in fierce battles against formidabl
+- [Cyber Racer Battles](../games/action/cyber-racer-battles.md) — Get ready to embark on an adventure with the Cyber Racer Battles game in which you will have moments full of battles and
+- [Cyber Soldier Destroyer Mech](../games/action/cyber-soldier-destroyer-mech.md) — Dive into thrilling, non-stop action in Cyber Soldier Destroyer Mech! Navigate five intense levels, eliminate ruthless r
+- [Cyber Switch](../games/action/cyber-switch.md) — Navigate the cosmos as a resourceful captain in Cyber Switch, mastering teleportation and swift maneuvers. Dodge obstacl
+- [Cyberbots](../games/action/cyberbots.md) — Navigate a thrilling sci-fi universe in Cyberbots, where precise strategy and quick reflexes are key to survival. Equipp
+- [CyberCore Defense Protocol](../games/action/cybercore-defense-protocol.md) — Defend your vulnerable Core against relentless rogue programs in a vibrant cyber battlefield. Strategically deploy and u
+- [Cybercrusher Runner](../games/action/cybercrusher-runner.md) — Cybercrusher Runner thrusts you into the shoes of a cyborg ninja on a covert mission. Dash through enemy territories, de
+- [Cyberman](../games/action/cyberman.md) — Take on the mechanical horde in Cyberman as you navigate treacherous landscapes, armed with advanced weapons and unique 
+- [Cyberman V](../games/action/cyberman-v-2.md) — Join Cyberman, a humanoid robot hero, in Cyberman V as he navigates treacherous levels teeming with hostile robots. Enga
+- [Cyberman V Super Blaster](../games/action/cyberman-v-super-blaster.md) — Enter a vibrant futuristic world with Cyberman V Super Blaster, where a cybernetic hero battles alien invaders. Navigate
+- [Cyberpunk 3D Game](../games/action/cyberpunk-3d-game.md) — The game is a street fight between the hero in series Squid Game and the enemies in the same serie where you must kill m
+- [Cyborg II](../games/action/cyborg-ii.md) — Dive into a futuristic battlefield as a skilled pilot in Cyborg II. Command a state-of-the-art aircraft, survive intense
+- [Cyborg Runner](../games/action/cyborg-runner.md) — Run as fast as you can! Avoid obstacles, monster and collect batteries of defense systems. You can find defense systems 
+- [Cyborg Teen Titans](../games/action/cyborg-teen-titans.md) — Cyborg Titans Adventure World 3 Are you ready to play the Cyborg Titans Adventure World 3, Main theme is help the world 
+- [Dad n Me](../games/action/dad-n-me.md) — Dad 'n Me is a cartoonish side-scrolling brawling game.
+- [DADDY MOUSE](../games/action/daddy-mouse.md) — Help a brave mouse collect cheese and return home to his family in this colorful 2D platform adventure. Explore forests,
+- [Dandys World Marathon](../games/action/dandys-world-marathon.md) — You play as your favorite characters from the Dandys World and help them collect mysterious black droplets scattered acr
+- [Danger Land 1](../games/action/danger-land-1.md) — Danger Land a HTML5 arcade Game. Avoid the fall obstacle to earn score and dont get lose!
+- [Dangerous Danny](../games/action/dangerous-danny-2.md) — Embark on a pulse-pounding plunge with Danny in Dangerous Danny. Navigate through treacherous waters teeming with perilo
+- [Dangerous Landing](../games/action/dangerous-landing-2.md) — In Dangerous Landing, master precision bombing to create a safe runway and avert disaster as you pilot a fuel-starved pl
+- [Dangerous room](../games/action/dangerous-room.md) — A game where you control with the arrow keys and jump with space and your objective is to get the most points (Tip: If y
+- [Darios Quest](../games/action/darios-quest.md) — Darios Quest is a 2D platformer where you have to collect all of the ice cream bars while avoiding the monsters, spikes 
+- [Darios Quest 2](../games/action/darios-quest-2.md) — Darios Quest 2 is a 2D platformer where you have to collect all of the ice cream bars while avoiding the monsters, flyin
+- [Dark Ages: Beat Em Up](../games/action/dark-ages-beat-em-up.md) — Doom: The Dark Ages reimagined as an illustrated arcade beat em up. Master the flail, Shield Saw, parry, and shotgun acr
+- [Dark Assassin](../games/action/dark-assassin.md) — Escape from the Dark Assassin full of traps and mysterious adventures. This Dark Castle adventure game will challenge yo
+- [Dark Dino Runner](../games/action/dark-dino-runner.md) — Get ready for an adrenaline-pumping adventure in Dark Dino Runner: Night Mode! Jump, duck, and dash through a thrilling 
+- [Dark Ninja](../games/action/dark-ninja.md) — Dark Ninja, is a hero who needs to cross the village of rocks and eliminate the red ninjas, who are his most feared enem
+- [Dark Ninja Game](../games/action/dark-ninja-game.md) — Dark Ninja, is a hero who needs to cross the village of rocks and eliminate the red ninjas, who are his most feared enem
+- [Dark Runner](../games/action/dark-runner.md) — You are THE RUNNER, the ultimate runner of the galaxy ! Run and jump into amazing lands, forests, cities, and much more.
+- [Dark Runner : Shadow Parkour](../games/action/dark-runner-shadow-parkour.md) — You are THE RUNNER, the ultimate runner of the galaxy ! Run and jump into amazing lands, forests, cities, and much more.
+- [Dark Scream](../games/action/dark-scream.md) — Enter the relentless nightmare of Dark Scream, where swift reflexes are your only ally. With zombies hot on your heels, 
+- [Dark Sector](../games/action/dark-sector.md) — Dark Sector is an intense alien-raid action game set deep inside a hostile, claustrophobic tunnel. Waves of deadly extra
+- [Dark Sector   Kids](../games/action/dark-sector-kids.md) — Dark Sector - Kids: is a game which has been made easier for kids to play. You have to make turrets at $10 per item and 
+- [Dark Sprint](../games/action/dark-sprint-2.md) — Embark on a heart-pounding adventure in Dark Sprint, where strategic thinking and quick reflexes are your allies. Dodge 
+- [Dark Survival Squid Game](../games/action/dark-survival-squid-game.md) — Based on the popular Netflix show, play ‘’ ’’ and see if you can survive. Try to reach the finish line in this epic onli
+- [Dark War](../games/action/dark-war-2.md) — In Dark War, dive into a thrilling top-down RPG as an exorcist battling sinister forces. Masterfully switch between swor
+- [Dark World](../games/action/dark-world.md) — -Dark World is a HTML5 platformer game- Dark World, the platformer youre been waiting for! Complete 30 unique levels to 
+- [Dark World](../games/action/dark-world-2.md) — Step into Dark World, where courage leads the way through a treacherous platformer full of peril and adventure. Navigate
+- [Daruma Tiger Run](../games/action/daruma-tiger-run.md) — The Daruma Tiger endless online game is a great way to pass the time. It's an endless runner game that features a tiger 
+- [Dash Hero](../games/action/dash-hero.md) — Dash Hero is a casual game where you become a courageous hero on a quest to rescue the princess. Navigate through challe
+- [Dash Party](../games/action/dash-party.md) — The Dash Party arena fight is beginning! It is time to slide over the platform ground and divide your opponents into pie
+- [Dash Runner](../games/action/dash-runner.md) — Control your ball and keep it alive as long as possible.
+- [De Loredo Fight](../games/action/de-loredo-fight.md) — De loredo and the forces of change
+- [Dead Fight](../games/action/dead-fight.md) — The fighters of the blue and red team fight each other in a mysterious arena. The challenge is to break the energy stone
+- [Dead Fight HD](../games/action/dead-fight-hd.md) — You can beat them if you can be quick against the opposing team
+- [dead shadow fight](../games/action/dead-shadow-fight.md) — dead shadow fight est un jeu captivant réunissant le RPG avec le simple jeu de comba Ce jeu vous permet d'équiper votre 
+- [Deadly Hunter online](../games/action/deadly-hunter-online.md) — Find all the hunters and form a team to kill Jungle beast.Avoid obstacle and form a big team cause beast is not so weak!
+- [Deadly Hunter Run](../games/action/deadly-hunter-run.md) — Find all the hunters and form a team to kill Jungle beast. Avoid obstacles and form a big team cause beast is not so wea
+- [Deadly hunters Game Online](../games/action/deadly-hunters-game-online.md) — Find all the hunters and form a team to kill Jungle beast.Avoid obstacle and form a big team cause beast is not so weak!
+- [Deadpool Free Fight](../games/action/deadpool-free-fight.md) — Deadpool is a Marvel game based arcade fighting game with 10 levels in which you fight alone against a bunch of opponent
+- [Death Park: Scary Clown Survival Horror Game](../games/action/death-park-scary-clown-survival-horror-game.md) — You like to defeat ghost by running away from them . do you like horror movies and feel those scenes where the hero must
+- [Death Worm](../games/action/death-worm-3.md) — Unleash chaos as the fearsome Death Worm, tunneling underground to shatter through the surface in explosive assaults. Na
+- [Deca vs Rooko](../games/action/deca-vs-rooko.md) — Deca vs Rooko is a 2D cute little platformer where you have to collect all of the hotdogs(food) while avoiding all of th
+- [Deca vs Rooko 2](../games/action/deca-vs-rooko-2.md) — Deca vs Rooko 2 is a 2D cute little platformer where you have to collect all of the hotdogs(food) while avoiding all of 
+- [Deep Fuel](../games/action/deep-fuel.md) — In Deep Fuel, you dive underground with your drill machine and race against fuel consumption. Collect gold, oil, and gem
+- [Deep Sea Run](../games/action/deep-sea-run-2.md) — Dive into Deep Sea Run, where racing shifts into an underwater odyssey filled with exhilarating gravity-flipping mechani
+- [Deep Worm](../games/action/deep-worm-2.md) — Burrow into the world of Deep Worm, where survival hinges on strategic underground maneuvers. Guide your voracious worm 
+- [Defeat the Ants TD](../games/action/defeat-the-ants-td.md) — Brace yourself for an epic showdown in Defeat the Ants TD, where cunning strategy meets relentless insect invaders. Depl
+- [Defenders of the Realm : an epic war !](../games/action/defenders-of-the-realm-an-epic-war.md) — In DEFENDER OF THE REALM : AN EPIC WAR you must command and order your army of knights to defend your kingdom from monst
+- [Defense Plants](../games/action/defense-plants.md) — Defend your territory in Defense Plants, a strategic tower defense game where powerful plants battle waves of dangerous 
+- [Defense Zone](../games/action/defense-zone.md) — Defend your territory in Defense Zone, a thrilling strategy game that tests your tactical prowess. Strategically positio
+- [Deko](../games/action/deko.md) — Deko is a 2D platformer where you have to collect the ice cream while avoiding the enemies, spikes and saws and reach th
+- [Deko 2](../games/action/deko-2.md) — Deko 2 is a 2D platformer where you have to collect ice creams and reach the pink colored flag while avoiding enemies, s
+- [Demolition Car - Rope and Hook](../games/action/demolition-car-rope-and-hook.md) — 😊Want to relax while destroying buildings with rope and grappling hooks? Do you like casual hits like "Rope and Demolis
+- [Demon Castle Adventure](../games/action/demon-castle-adventure.md) — Embark on a thrilling journey to save an abandoned village overrun by sinister forces. Navigate eerie landscapes, face m
+- [Demon Hunter: Beat Em Up](../games/action/demon-hunter-beat-em-up.md) — Doom 2016 reimagined as an illustrated arcade beat em up. Rip and tear through five chapters with melee combos, a shotgu
+- [Deril2](../games/action/deril2.md) — Dive into an intense archery showdown in Deril 2, where quick reflexes and sharp aim are your best allies. Strategize in
+- [Desolate Isle: Survival](../games/action/desolate-isle-survival.md) — Survive and escape from a mysterious island in this open-world survival adventure game. Gather resources, craft tools, b
+- [Destroy Asteroids](../games/action/destroy-asteroids.md) — Become Earth's last hope in Destroy Asteroids. Navigate your fighter plane through perilous asteroid belts with precisio
+- [Detto Man](../games/action/detto-man.md) — Detto Man is a 2D cute little platformer where you have to collect oranges(fruits) while avoiding the enemies, flying cr
+- [Detto Man 2](../games/action/detto-man-2.md) — Detto Man 2 is a 2D cute little platformer where you have to collect oranges(fruits) while avoiding the enemies, flying 
+- [Devil Flip](../games/action/devil-flip.md) — Devil Flip is a fun ragdoll based platform game aiming to fall vertically from high platforms to marked areas on the gro
+- [Devil's Road](../games/action/devil-s-road.md) — Race through deadly caves in Devil's Road, an electrifying platformer challenging your reflexes and timing. Navigate tre
+- [Diagonal Strong](../games/action/diagonal-strong.md) — A simple game to play but very challenging! With procedural difficulty and endless gameplay to get the best score. Total
+- [Diamond master](../games/action/diamond-master.md) — Diamond Master is a casual puzzle game. Players need to always collect diamonds and avoid various obstacles in front of 
+- [Dice Pixel Stealer 3D](../games/action/dice-pixel-stealer-3d.md) — Dice Pixel Stealer 3D is both a strategy and physics launch arcade game with 3D dices and stickman models on a platform.
+- [Digital Circus 2026](../games/action/digital-circus-2026.md) — Digital Circus 2026 is a colorful 3D runner game where players guide a character through obstacle-filled levels, collect
+- [Digital Circus:Parkour Game](../games/action/digital-circus-parkour-game.md) — Digital Circus : Parkour Game. Try to pass unique parkour levels. Pass the fun levels prepared by Caine inside the circu
+- [Digital Circus Tower Runner](../games/action/digital-circus-tower-runner.md) — Digital Circus Tower Runner is an electrifying Unity script-driven adventure that challenges players to ascend a towerin
+- [Digital Circus Town Builder](../games/action/digital-circus-town-builder.md) — Digital Circus Town Builder is a captivating simulation game that combines the charm of a circus with the excitement of 
+- [Dimness - the dark world Endless Runner Game](../games/action/dimness-the-dark-world-endless-runner-game.md) — Dimness – the Dark Side of an Endless Runner Game Dimness is a new, free automatic side-scrolling arcade game that chall
+- [Dimness - The Dark World Endless Runner Game](../games/action/dimness-the-dark-world-endless-runner-game-2.md) — Navigate the haunting landscape of Dimness, where your reflexes are your lifeline. This side-scrolling endless runner ch
+- [Dino Defence 2D](../games/action/dino-defence-2d.md) — Defend your land with a team of valiant dinosaurs in Dino Defence 2D. Strategically deploy these prehistoric warriors, e
+- [Dino Game Unblocked](../games/action/dino-game-unblocked.md) — Run for your life in Dino Run: Jurassic Survival! Dash through dynamic prehistoric landscapes, from lush jungles to volc
+- [Dino Meat Hunt Dry Land](../games/action/dino-meat-hunt-dry-land.md) — The dinosaurs have just started searching of meat hunt by the coming of the summer. This time a harder adventure is abou
+- [Dino Puzzle Adventure](../games/action/dino-puzzle-adventure.md) — We will present the game Dino Puzzle Adventure .it is a wonderful adventure game in the jungle with a super little Dino 
+- [Dino Robot Fighting War](../games/action/dino-robot-fighting-war.md) — Unleash the clash of giants in Dino Robot Fighting War. In this action game, you can build,customize and fight against m
+- [Dino Robot Fighting War](../games/action/dino-robot-fighting-war-2.md) — Unleash your creativity and strategic prowess in Dino Robot Fighting War. Build an ultimate dinosaur robot and face off 
+- [Dino Run Adventure](../games/action/dino-run-adventure.md) — Dino Run Adventure is the best free running game where you can run with your dinosaur friend. Collect food, and make the
+- [Dino run run](../games/action/dino-run-run.md) — Experience the classic thrill of the Chrome offline dinosaur game &mdash; now with a fresh new twist! Dino Run Run is a 
+- [Dino Runner](../games/action/dino-runner.md) — Super Dino Runner is a super fun game for children of all ages. Based on a well-known game, you will have the adventure 
+- [Dino Runner Birthday](../games/action/dino-runner-birthday.md) — Celebrate in high-speed style with Dino Runner Birthday! In this neon-soaked endless runner, you take control of a cyber
+- [Dino Squad Adventure 2](../games/action/dino-squad-adventure-2.md) — Dino Squad adventure continues from where it ended before This time another new character joins to the dinosaur team You
+- [Dino Squad Battle Mission](../games/action/dino-squad-battle-mission.md) — Dino Squad Battle Mission immerses you in a pulse-pounding journey as a lone dinosaur fighting for survival. Navigate tr
+- [Dino T Rex 3D Run](../games/action/dino-t-rex-3d-run.md) — Just enjoy the remake of the popular offline and endless game, that you know from the Google Chrome browser in a new 3D 
+- [DinoHop](../games/action/dinohop.md) — Save Dino from Obstacles! DinoHop is a T-Rex game where you have to jump and duck from enemies and still collect candies
+- [Dinosaur City Hunting Destroy](../games/action/dinosaur-city-hunting-destroy.md) — Unleash your inner beast in Dinosaur City Hunting Destroy! Control a massive, realistic dinosaur and go on a rampage thr
+- [Dinosaur Jumper](../games/action/dinosaur-jumper.md) — Welcome to our new game Dinosaur Jumper, which takes you back to prehistoric times. The little dinosaur has to jump, but
+- [Dinosaur Monster Fight](../games/action/dinosaur-monster-fight.md) — Dinosaur Monster Fight Can you think sharp enough to merge super fast and combine all the dinosaurs, make a dino squad f
+- [Dinosaur Park Jurassic Dino World](../games/action/dinosaur-park-jurassic-dino-world-2.md) — Step into Dinosaur Park Jurassic Dino World and experience life as a powerful wild dinosaur fighting to survive in a dan
+- [Dinosaur Runner 3D](../games/action/dinosaur-runner-3d-2.md) — Charge into adventure with Dinosaur Runner 3D! Build an unstoppable dinosaur army by navigating dynamic obstacles, strat
+- [Disc Battle Ultimate](../games/action/disc-battle-ultimate.md) — Disc Battle Ultimate is an exciting and fast-paced 3D hyper-casual action game! Take control of your stickman player, ai
+- [Disco Jumper](../games/action/disco-jumper.md) — Jump on the right dancefloors and keep on jumping, otherwise comes the DanceBear. He steals you the show and you get kic
+- [Disco Sheep Jump](../games/action/disco-sheep-jump.md) — Let the Sheep do the disco on every gift that lies on the game screen. Tap,jump the sheep and enlighten the gift boxes, 
+- [Disney XD: Ultimate Air](../games/action/disney-xd-ultimate-air.md) — It's possible now to play the Disney XD: Ultimate Air game in your web browser for free at Superkidgames.com and more fu
+- [DIY Doll Factory](../games/action/diy-doll-factory.md) — Welcome to DIY Doll Factory. Here you will create your dream doll factory. Begin a running journey to collect doll parts
+- [Do it up!](../games/action/do-it-up.md) — Do it up! - and nothing else! If, at times, you don&rsquo;t understand what&rsquo;s going on around you, then here you&r
+- [Do it up!](../games/action/do-it-up-2.md) — Sprint and leap through the vibrant urban landscape of "Do it up!" with captivating parkour-style action. Master agility
+- [Doctor KittyCat Strange Pro](../games/action/doctor-kittycat-strange-pro.md) — Embark on an enthralling journey with Doctor KittyCat, merging action and puzzles in beautifully crafted stages. Hone yo
+- [Doddle Warrior 2D](../games/action/doddle-warrior-2d.md) — Run, jump, and dash your way through cheerful hand-drawn worlds as you avoid obstacles and chase your own high score!
+- [Dog Fighter](../games/action/dog-fighter.md) — Become the ultimate canine hero in Dog Fighter, where fast-paced arcade excitement meets strategic coin-collecting actio
+- [Dog Runaway](../games/action/dog-runaway.md) — You slipped the leash. Your owner is already running. Do not stop. Dog Runaway is a 3D arcade chase: sprint through six 
+- [Dog Training - Idle Clicker](../games/action/dog-training-idle-clicker.md) — Hop into an endless canine adventure with Dog Training - Idle Clicker! Level up and discover new dog breeds while collec
+- [Doggy](../games/action/doggy.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Doggy Run](../games/action/doggy-run-2.md) — Embark on a fast-paced adventure as an energetic puppy in Doggy Run! Dash through colorful landscapes, leap over obstacl
+- [Doggy vs Zombie](../games/action/doggy-vs-zombie-2.md) — Guide a sprightly pup through a relentless zombie apocalypse in Doggy vs Zombie. Master timing and agility as you dodge 
+- [Doggy Vs Zombies](../games/action/doggy-vs-zombies.md) — Doggy Vs Zombies is an run game, run and avoid obstacles from zombie ambushes jump and overlap to kill the enemy, collec
+- [Dogy Kangaroo Jumping game](../games/action/dogy-kangaroo-jumping-game.md) — Dogy Kangaroo Jumping game 2021 is an exciting FREE endless jumping Dog kangaroo Game for you all to enjoy. For friends 
+- [Doll Factory 3D](../games/action/doll-factory-3d.md) — Immerse yourself in a vibrant 3D factory adventure where you control every aspect of doll production. Navigate thrilling
+- [Doll Fight Huggy](../games/action/doll-fight-huggy.md) — Are you ready to become a punch man? Punch them all and get rid of your frustration. Swipe to punch your opponents! Punc
+- [Domino Battle](../games/action/domino-battle.md) — Dominoes are back better than ever. You can choose your preferred style of game where it doesn't matter whether you choo
+- [Domino Battle](../games/action/domino-battle-2.md) — Dive into Domino Battle, where the timeless game meets modern flair. Choose Draw or Block modes, placing your tiles to c
+- [Dominoes Battle: Domino Online](../games/action/dominoes-battle-domino-online.md) — Dominoes Battle is a new version of the classic board game also called by Dominos, Domino, Bones or Dominó! Dominoes Bat
+- [Don't Step on the White Tile Revenge](../games/action/don-t-step-on-the-white-tile-revenge.md) — Test your reflexes in Don't Step on the White Tile Revenge, where precision is everything. Tap only the black tiles in t
+- [Donkey Kong Run](../games/action/donkey-kong-run.md) — An exciting journey through the jungle, caves and treetops. Run, jump, bounce and swing through vines to help Donkey Kon
+- [Dont Get Crashed by 67](../games/action/dont-get-crashed-by-67.md) — 👶💥 Dodge the sudden charges of 67, time your movements perfectly, and reach the finish before you get crushed. Every s
+- [Dont get crashed by 67](../games/action/dont-get-crashed-by-67-2.md) — Dodge the sudden charges of 67, time your movements perfectly, and reach the finish before you get crushed. Every second
+- [DONT PANIC DUDE!](../games/action/dont-panic-dude.md) — Dont Panic Dude! is a fast-paced, one-touch arcade survival game that pushes your reflexes to the limit. You&rsquo;re st
+- [Donut Stack](../games/action/donut-stack.md) — Donut Stack is a free casual online game for boys in which you need to make and collect a variety of donuts, and serve f
+- [Donutosaur 2](../games/action/donutosaur-2.md) — Monster loves candy, but is dependent on you to get him to the sweets, or the sweets to him, in this physics puzzle game
+- [Doodle Cats](../games/action/doodle-cats.md) — Guide your doodle cat ever upward through an endless world of platforms, power-ups, and enemies! Jump, double-jump, and 
+- [Doodle Jump](../games/action/doodle-jump.md) — Doodle Jump is a fun and cute platform game in which your must help our adorable doodle character jump as high as possib
+- [Dot Shot](../games/action/dot-shot.md) — Dot Shot – this is a game where you have to launch the ball and destroy all the platforms (3 different types) to pass th
+- [Dot Snap Battle](../games/action/dot-snap-battle.md) — Test your aim in Dot Snap Battle, launching balls from a spring-loaded cannon to land perfectly in levitating cups. Mast
+- [Dotto Botto](../games/action/dotto-botto.md) — Dotto Botto is a classic platformer game. Help Dotto to find his way home and try to beat all the levels! You will face 
+- [Dotto Botto - Adventure Game](../games/action/dotto-botto-adventure-game.md) — I guess most of you have heard even played a famous Nintendo game called Super Mario on FC. Dotto Botto is also a side-s
+- [Double Boy Jump](../games/action/double-boy-jump.md) — Guide two rope-linked heroes across tricky platforms in Double Boy Jump Press and hold to jump then release at the right
+- [Double Dragon: Broken District](../games/action/double-dragon-broken-district.md) — Double Dragon: Broken District is a martial arts story through four missions. Choose Mina or Ken and fight beside an AI 
+- [Double StreetFight](../games/action/double-streetfight.md) — Play Double StreetFight multiplayer campaign and also single player campaign, this game can play 2 people in campaign an
+- [Doug's Dig](../games/action/doug-s-dig.md) — Embark on a thrilling climb with Doug in "Doug's Dig," a vibrant platformer. Master wall jumps and a precise hookshot to
+- [DownHill Ball](../games/action/downhill-ball.md) — Downhill Ride challenges players to control a constantly descending ball as it navigates through tricky obstacles. Playe
+- [Dr. Rocket](../games/action/dr-rocket-2.md) — Pilot your rocket through three thrilling gameplay modes in Dr. Rocket. Master precision in launch, navigate perilous pl
+- [Dracula run](../games/action/dracula-run.md) — The Dark Lord Dracula woke up and he is completely famished! Take control of the most famous vampire of all time, satisf
+- [Drag N Boom](../games/action/drag-n-boom.md) — DragnBoom is a fun old-school arcade game combining speed and precision! &bull; Dive into an imaginary medieval universe
+- [Dragon Ball   Funny Games](../games/action/dragon-ball-funny-games.md) — This game consists 4 different game. Those are Coloring Game,Jigsaw Puzzle Game, Adventure Runner Game and Hidden Star G
+- [Dragon Ball Stickman Z](../games/action/dragon-ball-stickman-z.md) — This fighting game will give you a chance to become one of Dragon Ball Z heroes to fight with enemies and protect everyb
+- [Dragon Ball Z KAKAROT FIGHT](../games/action/dragon-ball-z-kakarot-fight.md) — New Sayain Battle and Super Dragon is a 2D action-fighting game and running game for mobile platforms A legend character
+- [Dragon Clash Adventure Pro](../games/action/dragon-clash-adventure-pro.md) — Dive into Dragon Clash Adventure Pro, a captivating 2D platformer where you become a fearless knight battling fierce dra
+- [Dragon Fight Combat](../games/action/dragon-fight-combat.md) — Dragon Shadow Battle : Super Hero Legend officially debuted as a major event on the world. The best combat action game o
+- [Dragon Fly](../games/action/dragon-fly.md) — As a newly hatched dragon pup you still have too tiny wings to fly. That however is not going to stop you from embarking
+- [Dragon Ninja Warriors](../games/action/dragon-ninja-warriors.md) — It is full of tension with Dragon Ninja Warriors and it is so fun that the battle game begins. Let's party! The Dragon N
+- [Dragon's Defense Reign of Fire](../games/action/dragon-s-defense-reign-of-fire.md) — Soar through a vivid fantasy world as a powerful dragon, defending your kingdom from relentless foes with epic aerial ba
+- [Dragon Shadow Super Hero Legend](../games/action/dragon-shadow-super-hero-legend.md) — Dragon Shadow Battle : Super Hero Legend officially debuted as a major event on the world. The best combat action game w
+- [Dragon vs Mage](../games/action/dragon-vs-mage.md) — Dragon vs Mage is a free online action and running object game. Help Mage to escape from the evil dragon, avoid bottlene
+- [Dragon vs Wizard](../games/action/dragon-vs-wizard.md) — Dragon vs Mage is a free online action and running object game. Help Mage to escape from the evil dragon, avoid bottlene
+- [dragonball](../games/action/dragonball.md) — You look for Dragon Ball Z Super fighting game ?this is one of the best DRAGON BALL games experiences that you might fin
+- [Dragons Den](../games/action/dragons-den-2.md) — Navigate treacherous mazes and evade fierce dragons in Dragons Den! Your goal: amass hidden treasures without losing you
+- [Draw Action](../games/action/draw-action.md) — Draw lines and defeat enemies effortlessly! The game is best suited for those who want to let off steam and relax now.
+- [Draw Action Freestyle Fight](../games/action/draw-action-freestyle-fight.md) — Unleash your creativity and power in Draw Action Freestyle Fight, a super fun draw-to-fight action game! Draw lines and 
+- [Draw Action: Freestyle Fight](../games/action/draw-action-freestyle-fight-2.md) — The arcade battle begins! Just swipe your finger to formulate action battles, Break the old remote sensing operation and
+- [Draw an Obby](../games/action/draw-an-obby.md) — 🔥 The Awesome Game for True Pros! 🔥
+- [Draw and Destroy](../games/action/draw-and-destroy.md) — Draw the flight path of the weapon in such a way as to avoid obstacles and destroy all enemies. Don't forget to collect 
+- [Draw Brush Running](../games/action/draw-brush-running.md) — In the game, you can freely master your own color pen and successfully complete your own test. According to the differen
+- [Draw Climber Online](../games/action/draw-climber-online.md) — Draw Climber 2 is an interesting race game. You have to draw a leg that makes sure the block could move. You will race w
+- [Draw Climber Rush](../games/action/draw-climber-rush.md) — The race of Draw Climber Rush will be beginning! Draw the animals' legs, turn them around, and the race begins. Don't fa
+- [Draw Dance Battle](../games/action/draw-dance-battle.md) — Want to have an epic dance-off? In Draw Dance Battle, you&rsquo;ll be the creative master of the stage.Combining drawing
+- [Draw Dance Battle](../games/action/draw-dance-battle-2.md) — Step into the spotlight with Draw Dance Battle! Sculpt your dance moves by sketching lines and unleash dazzling attacks 
+- [Draw Fighter 3D](../games/action/draw-fighter-3d.md) — Draw Fighter 3D is a very good and fun online drawing game for boys for free. You can draw a strong fighter through your
+- [Draw Fighter 3D Game](../games/action/draw-fighter-3d-game.md) — Draw Fighter 3d is an interesting drawing game. You can draw a powerful fighter through your imagination, draw the corre
+- [Draw Joust](../games/action/draw-joust.md) — Draw Joust is an amazing game with the style of painting and designing, you need to join many wars in it. Players need t
+- [Draw Pen Rush](../games/action/draw-pen-rush.md) — Draw Pen Rush is a fun and exciting parkour game. Players control a robot to compete in parkour races, avoiding obstacle
+- [Draw Race 3d](../games/action/draw-race-3d-2.md) — Draw Race 3D invites you into a vibrant world where you navigate as a Parkour runner using innovative draw-to-move mecha
+- [Draw Sword Runner](../games/action/draw-sword-runner.md) — Unleash your stickman warrior in Draw Sword Runner, where quick wits and swift swordplay define your journey. Tackle dyn
+- [Draw to Fish Fight](../games/action/draw-to-fish-fight.md) — Are you ready? Its time to smack some fish with Skibidi! This fun and crazy game lets you dive into Skibidis exciting ad
+- [Draw War](../games/action/draw-war.md) — Unleash your creativity in Draw War. This is a wonderful strategy game. Here drawing meets battles. Build a hero lineup,
+- [Draw War](../games/action/draw-war-2.md) — Immerse yourself in Draw War, a strategy game where your drawings come to life. Build and deploy unique armies, balancin
+- [Draw Weapon Fight Party](../games/action/draw-weapon-fight-party.md) — In Draw Weapon - Fight Party, you can draw your own weapons. Feel free to write your weapon, but keep an eye on the amou
+- [Draw Weapon - Fight Party](../games/action/draw-weapon-fight-party-2.md) — Unleash your creativity in Draw Weapon Fight Party! Design unique weapons with limited ink and enter thrilling 3D arenas
+- [Draw Weapons Rush](../games/action/draw-weapons-rush.md) — Draw Weapons Rush is an exciting arcade game. If you want to arrive at the end, you need to kill your enemies. You could
+- [Dream of Farmers](../games/action/dream-of-farmers.md) — Dream of Farmers is a casual idle farming game created by AppyApp. Leave the chaotic city life behind and start building
+- [Dream Spires](../games/action/dream-spires.md) — Embark on a thrilling quest in Dream Spires, where collecting keys unlocks magical worlds. Dodge treacherous spikes and 
+- [Dream Wedding](../games/action/dream-wedding.md) — Dream Wedding is an attractive game for people who like dress up games! Slide to select the outfits, such as, hairstyle,
+- [Dreamy Wedding Rush](../games/action/dreamy-wedding-rush.md) — Join this interesting casual parkour game. Join hands with the partners in the game to start a sweet running rush journe
+- [Drunken Boxing](../games/action/drunken-boxing.md) — The Drunken battles continues with the new game. In Drunken Boxing, the Drunken Boxers come to the arena and try to knoc
+- [Drunken Boxing 2](../games/action/drunken-boxing-2-2.md) — Step into chaos with Drunken Boxing 2, where intoxicated stickmen clash in strategic bouts of reflex and endurance. With
+- [Drunken Boxing: Ultimate](../games/action/drunken-boxing-ultimate.md) — Drunken Boxing series is here with the Ultimate version. Arenas with 3d ambiance, improved physics and special hit have 
+- [Drunken Slap Wars](../games/action/drunken-slap-wars.md) — The fun Drunk stickman games continue with Slap Wars. The aim of the game is to beat the opponents with balanced slaps. 
+- [Drunken Spin Punch](../games/action/drunken-spin-punch.md) — The new challenge of Drunken Stickmans, spinning punches begins! Swing your fists and try to stay balanced and don't for
+- [Drunken Table Wars](../games/action/drunken-table-wars.md) — The Drunken series continues with table wars. Try to draw the table to your area. Play single player mode or 2 player mo
+- [Drunken Tug War](../games/action/drunken-tug-war.md) — The Drunken game series continues with Tug War in its new episode. The aim of the game is to pull the rope as fast as po
+- [Drunken Wrestle](../games/action/drunken-wrestle.md) — The Drunken game series continues with a fun wrestle game. The goal is not to let your head touch the ground and of cour
+- [DTA 2 Maniac](../games/action/dta-2-maniac.md) — Unleash chaos with misfit maniacs in a vibrant city as you create widespread mayhem in DTA 2 Maniac. Choose your charact
+- [DTA 6](../games/action/dta-6.md) — Dive into the chaotic sandbox of DTA 6, a browser-based adventure where your only limits are your imagination and limb c
+- [DuaLight   A Reflected Game](../games/action/dualight-a-reflected-game.md) — DuaLight is a challenging 2D pixel art hyper-casual platformer. The true path lies in the reflection. Navigate levels wh
+- [Duck Jump](../games/action/duck-jump.md) — Duck Jump is a hypercasul game and can also be played on mobile devices. Fall down, jump up and try to survive as long a
+- [Duck Shift](../games/action/duck-shift.md) — Try to pass all the duck tests on each level avoiding danger in the Duck Shift game. Use your wits to take the key from 
+- [Duel of Builders](../games/action/duel-of-builders.md) — Duel of Builders is a great dueling game. You can fight with your friend or against the computer! Are you ready for this
+- [Duel Time](../games/action/duel-time.md) — Are you ready for a competitive duel? Fight against the computer with your friend or alone! Start the fun with multiple 
+- [Dungeon Cave](../games/action/dungeon-cave.md) — The objective of this game is to collect all the coins to release the key that unlocks the door. Enter the door and go t
+- [Dungeon Quest](../games/action/dungeon-quest.md) — Navigate the intricate mazes of Dungeon Quest, where strategic thinking and quick reflexes are your ultimate tools. Secu
+- [DungeonCraft](../games/action/dungeoncraft.md) — DungeonCraft is an amazing Game inspired from the famous MineCraft in this game you have to face the green creeper face 
+- [Duo Family Santa](../games/action/duo-family-santa.md) — Steve and Alex need to race against each other. The one who holds the Lucky Block wins the game. Hold onto the Lucky Blo
+- [Duo Nether](../games/action/duo-nether.md) — Things are getting even tougher in the second part of the series, so are you up for this adventure? The adventure is get
+- [Duosometric Jump](../games/action/duosometric-jump.md) — In Duosometric Jump, guide two heroes through parallel lanes with precision taps. Master the art of multitasking in this
+- [Dwarf Hero Running](../games/action/dwarf-hero-running.md) — Dwarf Hero Running is a simple running and jumping game, you help the dwarf heroes overcome the traps and be careful not
+- [Dystopia RPG](../games/action/dystopia-rpg.md) — Dystopia RPG is an 8 bit style fantasy RPG where You lost a duel to a governments shaman and ended up trapped and sealed
+- [E.T. Game](../games/action/e-t-game.md) — ET Game is a super fun and challenging 2D side-scroller game in the same style as blockbuster games like Super Mario, Do
+- [East Runner](../games/action/east-runner.md) — Race through vibrant eastern landscapes as a fleet-footed prince in East Runner! Masterfully dodge obstacles, amass coin
+- [East Running Surfer 2D](../games/action/east-running-surfer-2d.md) — Help the prince out by running faster than the rest of the crowd! Get as far away from here as you possibly can. Buy pro
+- [Easter Battle Collect Egg](../games/action/easter-battle-collect-egg.md) — You must be faster than your friend on Easter morning and collect all the colored eggs. Easter time has come. Now you mu
+- [Easter Battle Guys](../games/action/easter-battle-guys.md) — Hello, are you up for the Easter egg hunt competition? Choose one of the Jelly Bon characters and start collecting the e
+- [Easter Battle Guys](../games/action/easter-battle-guys-2.md) — Leap into the colorful chaos of Easter Battle Guys! Navigate perilous platforms as whimsical Jelly Bon characters, colle
+- [Easter Deer](../games/action/easter-deer.md) — Easter has arrived, and you must help the reindeer! The reindeer accidentally got lost in the sky above the city. In thi
+- [Easter Deer](../games/action/easter-deer-2.md) — Navigate a reindeer through an endless sky filled with obstacles in this Easter adventure. Collect colorful Easter eggs 
+- [Easter Egg Arena](../games/action/easter-egg-arena.md) — Hello, are you up for an Easter adventure where bunnies try to steal eggs from each other? Escape from the egg, and whoe
+- [Easy Obby Girl Friend](../games/action/easy-obby-girl-friend.md) — Obby and his girlfriend set out on a journey, but the road suddenly turns into a challenging obstacle course. You need t
+- [Easy Obby Girl Friend](../games/action/easy-obby-girl-friend-2.md) — Embark on a thrilling obstacle adventure with Obby and his girlfriend. Navigate challenging courses using teamwork and c
+- [Easy Obby Parkour](../games/action/easy-obby-parkour.md) — Parkour-based game. The nickname of the best player is shown to everyone at the start - beat the game and your nickname 
+- [Eat To Evolve 2](../games/action/eat-to-evolve-2.md) — Dive into the animal kingdom with Eat to Evolve! In this arcade-style game, you&rsquo;ll start as a little worm and grow
+- [Eclipse run](../games/action/eclipse-run.md) — Leap through a futuristic urban jungle in Eclipse Run, where fluid parkour meets exhilarating gunplay. Master gravity-de
+- [Eclipse Run 2](../games/action/eclipse-run-2.md) — Eclipse Run 2 offers an exhilarating mix of parkour and shooting as you race through intricate levels. Master thrilling 
+- [Eclipse Run 3](../games/action/eclipse-run-3.md) — Race through an ever-changing world in Eclipse Run 3, where each environment morphs before your eyes. Strategically navi
+- [Egg Clicker](../games/action/egg-clicker.md) — Build your egg empire in Egg Clicker! Tap away to gather eggs, invest in upgrades, and discover innovative mechanics. Wi
+- [Egg Hunt Mania](../games/action/egg-hunt-mania.md) — Get your basket ready and save all the eggs you can from a terrible fate. Make sure to empty a full basket into the stor
+- [Egg Wars Battle Arena 3D](../games/action/egg-wars-battle-arena-3d.md) — Enter the ultimate egg battle arena! Protect your precious egg, collect resources, upgrade your equipment, and fight aga
+- [Eggdog Deadflip](../games/action/eggdog-deadflip.md) — Join Eggdog in a hilarious one-shot, physics-defying backflip adventure! Perfect your timing and precision to snag stars
+- [Eggdog Red Light Green Light](../games/action/eggdog-red-light-green-light.md) — Join the adorable Eggdog in a hilarious twist on “Red Light, Green Light.” Dash toward victory while battling nerves, co
+- [Egypt Stone War](../games/action/egypt-stone-war.md) — Play as a hero who goes in search of the pharaohs to build an Egyptian empire. In this idle game, click to accumulate po
+- [Elden Ring: Beat Em Up](../games/action/elden-ring-beat-em-up.md) — Elden Ring: Beat Em Up is fighting game with a five-chapter illustrated fantasy beat em up with sword combos, dodge and 
+- [Electric Man](../games/action/electric-man.md) — Electric Man is an awesome stickman fighter Flash game in which you must fight against a range of opponents using a vari
+- [Electric Space Cage](../games/action/electric-space-cage.md) — You are in space are you need to avoid electric and magnetic fields and planets. But your space sheep turn only in right
+- [Elemental Friends Adventure](../games/action/elemental-friends-adventure.md) — Elemental Friends Adventure is a captivating online platform game that will take you on an exciting adventure in the dig
+- [Elemental Gloves Magic Power](../games/action/elemental-gloves-magic-power-2.md) — Command the elements in an electrifying arcade adventure. Wield powerful magic gloves to unleash flames, lightning, and 
+- [Elemental Rescue Adventure](../games/action/elemental-rescue-adventure.md) — Elemental Rescue Adventure is a captivating online platform game that will take you on an exciting adventure in the digi
+- [Elemental Treasures 1: The Fire Dungeon](../games/action/elemental-treasures-1-the-fire-dungeon.md) — Elemental Treasures is a series of games where you will explore dungeons. Elemental Treasures 1: The Fire Dungeon is the
+- [Elevator Fall - Break Down 2020](../games/action/elevator-fall-break-down-2020.md) — Elevator Fall is the most unique game in 2020 Lower the elevator down, Avoid a collision so that the elevator does not f
+- [Elf pet](../games/action/elf-pet.md) — This is a casual duel game with the theme of elves fighting. Players can freely choose their favorite elves to fight in 
+- [Elip Adventure](../games/action/elip-adventure.md) — Description In Elip Adventure, you engage in a thrilling quest as an ellipse, navigating through treacherous maps to loc
+- [Emerald and Amber](../games/action/emerald-and-amber.md) — Emerald and Amber is a platform game where you have to get stuck to solid surfaces to reach your loved one. It was inspi
+- [Emoji Runner](../games/action/emoji-runner.md) — Embark on a thrilling journey as a lively emoji in Emoji Runner. Navigate vibrant trails, dodge dynamic obstacles, and o
+- [EmojiChasing](../games/action/emojichasing.md) — Dodge roaring trains and slippery obstacles on bustling subway tracks in EmojiChasing. Swipe your way through thrilling 
+- [Enchanted Tower](../games/action/enchanted-tower.md) — Embark on a magical quest in Enchanted Tower, guiding a brave knight through a realm teeming with secrets and challenges
+- [Endless Assault](../games/action/endless-assault.md) — Dive into relentless mayhem as waves of enemies relentlessly spawn. Stay nimble, use your arsenal strategically, and pre
+- [Endless Blocky Platformer](../games/action/endless-blocky-platformer.md) — In this one-of-a-kind action role-playing game, you'll go on adventures filled with magic while battling a never-ending 
+- [Endless Cube Runner](../games/action/endless-cube-runner.md) — Endless Cube Runner is a fast-paced arcade game where you dodge obstacles and race forward on an endless path of cubes. 
+- [Endless Cyberpunk Runner](../games/action/endless-cyberpunk-runner.md) — An exciting endless runner set in a futuristic cyberpunk world. Player must navigate through neon-lit streets, avoiding 
+- [Endless fish fun](../games/action/endless-fish-fun.md) — This is a relaxing endless runner game with fish and ocean sound. Just keep tapping and avoid the rocks and sea urchins 
+- [Endless Helix Jump](../games/action/endless-helix-jump.md) — Fun arcade game in which you must help a falling ball navigate to the endless helix maze.
+- [Endless Ninja Runner](../games/action/endless-ninja-runner.md) — You have just stumbled onto the best infinite temple runner game there is. If you want to keep your life, you need to ge
+- [Endless Run](../games/action/endless-run.md) — Enjoy the digital jungle and obstacles in this addictive game of endless run. Collect as many coins. Keep an eye for the
+- [Endless Runner in Jungle](../games/action/endless-runner-in-jungle.md) — Amazing endless runner game
+- [Endless Runner Super Hero Stunt](../games/action/endless-runner-super-hero-stunt.md) — Keep your balance as you run and jump across perilous cliffs while avoiding large boulders as you travel from one flying
+- [Endless Zig Zag Runner](../games/action/endless-zig-zag-runner.md) — Navigate a dynamic 3D path with a single click in Endless Zig Zag Runner. Master sharp twists and turns as you guide you
+- [Epic Adventure Runner](../games/action/epic-adventure-runner.md) — Dive into Epic Adventure Runner, an addictive browser-based endless runner with top-tier graphics. Instantly play and do
+- [Epic Defense Clash](../games/action/epic-defense-clash.md) — Epic Defense Clash is an intriguing casual game. How many warriors ever came back safe and sound? Asked one ancient Chin
+- [Epic Defense Clash](../games/action/epic-defense-clash-2.md) — Unleash your inner hero in Epic Defense Clash, where strategic combat meets heart-pounding action. Wield an arsenal of w
+- [EPIC Escape from Barrys Prison](../games/action/epic-escape-from-barrys-prison.md) — EPIC Escape from Barrys Prison Evil guard Barry locked you in prison&hellip; but now it&rsquo;s time to escape! Complete
+- [Epic Race 3D](../games/action/epic-race-3d.md) — Participate in race win Against Opponents be like No 1 in all 3 Rounds to Win the Levels , and Eliminate the Opponents
+- [Epic Rivals Battle](../games/action/epic-rivals-battle.md) — Choose your faction: elves or dwarves. Start playing epic's battles in 20 amazing levels. You lead your team and spin th
+- [Epic Skibidi Toilet Clash](../games/action/epic-skibidi-toilet-clash.md) — Battle extraterrestrial skibidi toilets in this quirky, adrenaline-packed space fighter. With strategic combat and quick
+- [Epic Skibidi Toilet Clash part 1](../games/action/epic-skibidi-toilet-clash-part-1.md) — Epic Skibidi Toilet Clash part 1 is the first story of galactic superhero to fight skibidi toilet in space. This war is 
+- [Epic Sword Battle! Fight in the Ragdoll Arena!](../games/action/epic-sword-battle-fight-in-the-ragdoll-arena.md) — ⚔️ Welcome to "Epic Sword Battle! Fight in the Ragdoll Arena!" - an exciting 3D game where knights and gladiators fight 
+- [Equation Flapping](../games/action/equation-flapping.md) — This game is a mix of skills and math reasoning. Touch in the screen to make the bird fly high and pass through the tree
+- [Escalate Dack](../games/action/escalate-dack.md) — Conquer daunting heights as Dack, a brave explorer in Escalate Dack. Seamlessly tap your way up treacherous walls riddle
+- [Escape Bomber](../games/action/escape-bomber.md) — The city is attacked with bombs, and you and your colleague need to escape and save yourself from the bombs. Avoid the b
+- [Escape Dark Castle](../games/action/escape-dark-castle.md) — Guide Zenith through a haunting castle teeming with devious traps and mind-bending puzzles. With escalating intensity, t
+- [Escape from Dictatorship: Runner Game](../games/action/escape-from-dictatorship-runner-game.md) — Escape from Dictatorship: Runner Game: Are you ready for a life-or-death sprint to freedom? In this hyper-casual runner,
+- [Escape from Dictatorship Runner Game](../games/action/escape-from-dictatorship-runner-game-2.md) — Dash through a heart-pounding crimson highway, braving relentless soldiers while collecting red coins. Each run presents
+- [Escape from Hell: Crazy Runner Game](../games/action/escape-from-hell-crazy-runner-game.md) — Ready for a deadly sprint through the flames of hell? In this hyper-casual runner, you race down a scorching straight pa
+- [Escape from Hell - Runner Game](../games/action/escape-from-hell-runner-game.md) — Experience an adrenaline-pumping dash through fiery depths, dodging relentless devils and collecting shimmering coins. E
+- [Escape From River](../games/action/escape-from-river.md) — A child lost in the river and an escape journey full of dangers... Don't get caught by the dangers by jumping right and 
+- [Escape from School: Hellish Teacher!](../games/action/escape-from-school-hellish-teacher.md) — Youve entered the Strictest School in the World! Evil Teacher Mr. MeanieHead hates his students! Can you escape? Challen
+- [Escape from the Dungeon](../games/action/escape-from-the-dungeon.md) — Dive into the heart-pounding depths of a medieval dungeon where survival hinges on your wits and timing. Navigate tricky
+- [Escape from Wave for Brainrots](../games/action/escape-from-wave-for-brainrots.md) — Welcome to the game "Escape from Wave for Brainrots"! 🌊🧠
+- [Escape From Zombies](../games/action/escape-from-zombies.md) — You are a survivor of a zombie apocalypse and you're stuck in a building with a broken car and hordes of zombies are att
+- [Escape Kid](../games/action/escape-kid.md) — “Escape Kid” mixes platform and puzzle elements. Avoid all dangers, activate the gate and escape to the next challenge!
+- [Escape Noob](../games/action/escape-noob-2.md) — Dodge dangers and outsmart your ominous clone and bear companion in Escape Noob. Navigate tricky levels, collect hidden 
+- [Escape Police for Brainrots](../games/action/escape-police-for-brainrots.md) — Run from the police, collect Brainrots, and gradually improve your speed. Run across the map, avoid obstacles, and don’t
+- [Escape Police for Brainrots](../games/action/escape-police-for-brainrots-2.md) — Run from the police, collect Brainrots, and gradually improve your speed. Run across the map, avoid obstacles, and don&r
+- [Escape School Duel](../games/action/escape-school-duel.md) — Escape School Duel is a fast, funny, and tense escape challenge set inside a school that does not want to let you leave.
+- [Escape the Giant School 3D](../games/action/escape-the-giant-school-3d.md) — Shrink into a giant school and turn everyday classroom objects into an epic 3D parkour course! Jump across oversized boo
+- [Escape The Scammer](../games/action/escape-the-scammer.md) — escape the scammer is a infinty runner EtHero game.
+- [Escape Tsunami for Brainrots](../games/action/escape-tsunami-for-brainrots.md) — Run fast and collect Brainrots! 🏃 Run from the tsunamis when they appear! 🌊 Survive and collect as many Brainrots as p
+- [Escape Tsunami for Brainrots](../games/action/escape-tsunami-for-brainrots-2.md) — Run fast and collect Brainrots! Run from the tsunamis when they appear! Survive and collect as many Brainrots as possibl
+- [Escape us 3D - Multiplayer Running Game](../games/action/escape-us-3d-multiplayer-running-game.md) — Escape us 3D - Multiplayer Running Game is an addictive arcade game. I guess you will fall in love with it! The game pla
+- [Escape Waves for Lucky Blocks](../games/action/escape-waves-for-lucky-blocks.md) — Move fast and collect Lucky Blocks all around the map! 🏃‍♂️ Survive powerful waves that keep coming one after another! 
+- [Escape Waves for Lucky Blocks](../games/action/escape-waves-for-lucky-blocks-2.md) — Move fast and collect Lucky Blocks all around the map! &zwj; Survive powerful waves that keep coming one after another! 
+- [Escaping Zombie](../games/action/escaping-zombie.md) — Get your heart pumping with the Escaping Zombie Online Jump Game! With just one click, you can start playing this addict
+- [Espada de Sheris](../games/action/espada-de-sheris.md) — In the year 4000 where humans became extinct and what exists are cats and Duzker aliens who are called demons according 
+- [ET_Game](../games/action/et-game-2.md) — Dive into ET_Game, a thrilling side-scrolling platformer where strategic timing and quick reflexes are your best allies.
+- [Etano](../games/action/etano.md) — Etano is a 2D platformer where you have to collect all of the historic golden ornaments while avoiding all of the enemie
+- [Etano 2](../games/action/etano-2.md) — Etano 2 is a 2D platformer where you have to collect all of the historic golden ornaments while avoiding all of the enem
+- [Eternal Fall](../games/action/eternal-fall.md) — You will race against time with characters that only move up and down. The platform is constantly moving and you have to
+- [European War - ww3 Mode Demo](../games/action/european-war-ww3-mode-demo.md) — There are more mobile games than any of the epic military strategy games! Your choices and strategy are key to the succe
+- [EverCat In The Skeleton World](../games/action/evercat-in-the-skeleton-world.md) — New game about EverCat - a little curious kitten by 4GameGround.com! EverCat found himself in the world of skeletons, an
+- [EVERWING](../games/action/everwing.md) — EverWing game is very simple game where you have to click on your character and try to kill by it enemies without touchi
+- [Everyone Flee](../games/action/everyone-flee.md) — You must ensure that everyone can flee! But be aware that your moves apply to everyone. Move all the players in a way th
+- [EvoWarriors.fun](../games/action/evowarriors-fun.md) — EvoWarriors.fun is a free fantasy style game. Eat steaks, eggs, milk and everything you find to grow in size while you a
+- [ExoPurge BugeBreaker](../games/action/exopurge-bugebreaker.md) — Hold your ground in ExoPurge BugeBreaker as alien bugs swarm towards you. Armed with a shotgun, test your reflexes and s
+- [Expert Parkour 3D](../games/action/expert-parkour-3d.md) — Expert Parkour 3D is a 3D parkour game in which you need to run and jump from pillar to pillar. jump, and vault over obs
+- [Extreme Hand Slap](../games/action/extreme-hand-slap.md) — Hand Slap game is an entertaining game which is almost known and played by everyone in real life. What about having the 
+- [Extreme Huggy](../games/action/extreme-huggy.md) — Huggy needs to survive. Help Huggy and ensure he reaches the finish line. Do everything you can to get him into the blac
+- [Extreme Huggy](../games/action/extreme-huggy-2.md) — Guide Huggy through perilous levels brimming with obstacles in Extreme Huggy. Master double jumps and race against time,
+- [Extreme Jelly Shift 3D](../games/action/extreme-jelly-shift-3d.md) — Do you love jelly? Jelly is soft so it can flow and change its shape. Can you rush with your jelly to slide through all 
+- [Extreme Way](../games/action/extreme-way.md) — Step into the thrilling world of Extreme Way, where you embody a fearless ninja navigating treacherous landscapes. Maste
+- [Face Ninja](../games/action/face-ninja.md) — ninja face is a html5 arcade game, play as 2 ninja day and night up and down, click either up or down to move
+- [Factory Dash](../games/action/factory-dash.md) — Dive into Factory Dash, a thrilling side-scrolling adventure where you guide an intrepid engineer through a maze of obst
+- [Faded Nightmare Game](../games/action/faded-nightmare-game.md) — Faded Nightmare is an action-packed platformed game. Jump from platform to platform as you dodge the Enemy and grab ever
+- [Faded Nightmare Game](../games/action/faded-nightmare-game-2.md) — Faded Nightmare plunges you into a thrilling pixel-art platformer, challenging agility and reflexes. Dodge relentless en
+- [Fail Minecraft Runner](../games/action/fail-minecraft-runner.md) — Learn to walk before you run and Minecraft across the finish line. Put one leg in front of the other and try not to fail
+- [Fail Run](../games/action/fail-run.md) — As an early generation of a small robot, began to learn how to walk, every time to walk can not grasp the balance, can y
+- [Fairyland](../games/action/fairyland.md) — Fairyland is an arcade platformer game that features beautiful graphics and addictive gameplay. Looking for a fun and ch
+- [Fake Ninjas](../games/action/fake-ninjas.md) — There are fake ninjas in town who have caused dishonour to your master. You have to find them all and redeem yourself to
+- [Fall Beans HD](../games/action/fall-beans-hd.md) — Fun and colorful races on different race areas await you in the Fall Beans game. The aim of the game is to advance in ea
+- [Fall Beans - Ultimate Knockdown Guys](../games/action/fall-beans-ultimate-knockdown-guys.md) — Is Fall Beans undoubtedly the hottest game of the year? It contains many game elements. Almost every player likes it ver
+- [Fall Boys 2D Parkour](../games/action/fall-boys-2d-parkour.md) — In this adventure, you must complete the course to survive. Complete the entire course with your friend. The course may 
+- [Fall Boys 2D Parkour](../games/action/fall-boys-2d-parkour-2.md) — Embark on a thrilling 2D adventure with Fall Boys 2D Parkour! Tackle challenging obstacle courses with a friend, relying
+- [Fall Boys And Girls 2024](../games/action/fall-boys-and-girls-2024.md) — Fall Boys and Girls 2024 brings a thrilling twist to competitive gaming! Join colorful characters in a series of gravity
+- [Fall Boys Skibidi Toilet](../games/action/fall-boys-skibidi-toilet.md) — Prepare for a whirlwind of whimsical chaos in Fall Boys Skibidi Toilet! This vibrant and addictive multiplayer game cata
+- [Fall Boys Ulimate Tournament 2024](../games/action/fall-boys-ulimate-tournament-2024.md) — Welcome to the Fall Boys Ultimate Tournament 2024! Step into a vibrant world filled with exhilarating challenges and fie
+- [Fall Days Guys : Runner Winner](../games/action/fall-days-guys-runner-winner.md) — A fun game, fall days is everyone's favorite.Place first in the race and collect points.
+- [Fall Days Runner Winner](../games/action/fall-days-runner-winner.md) — Fall days If you want to share this excitement, play now!
+- [Fall Friends](../games/action/fall-friends.md) — Tumble through chaotic obstacle courses with wobbly friends in Fall Friends. Navigate vibrant challenges as you dodge, j
+- [Fall Girls Run Multiplayer](../games/action/fall-girls-run-multiplayer.md) — Fall Girls Run is an online multiplayer game where you will play with players from around the world in this obstacle cou
+- [Fall Guy Stick Column Runner](../games/action/fall-guy-stick-column-runner.md) — Its a game that you will have fun playing. Pass the traps and go to the next level. There are other lurks waiting for yo
+- [Fall Guys 2024](../games/action/fall-guys-2024.md) — Fall Guys 2024 is a vibrant, offline battle royale where players navigate whimsical obstacle courses and compete in zany
+- [Fall guys runner](../games/action/fall-guys-runner.md) — fall guys , fall guys run , fall guys run guys , best funny games. fall days and google play click. fall days, fall days
+- [Fall Guys Runner : Mobile](../games/action/fall-guys-runner-mobile.md) — fall days mobile gameplay and computer nice game
+- [Fall Heroes Fun Guys Run](../games/action/fall-heroes-fun-guys-run.md) — Knockout Stumble Run Royale Fall Games is an epic running royale 3D game to adventure the thrill of stumble race challen
+- [Fall Race 3D](../games/action/fall-race-3d.md) — Fall-Race-3D is an exciting arcade running game. You will race with other stickmen. Don't fall off the platforms. You mu
+- [Fall Race 3d - Fun & Run 3D Game](../games/action/fall-race-3d-fun-run-3d-game.md) — Fall Race 3D is an exciting arcade running game. You will race with other stickmen. Don't fall off the platforms. You mu
+- [Fall Skibidi Toilet](../games/action/fall-skibidi-toilet.md) — Dash through chaotic obstacle towers while Skibidi Toilets swarm&mdash;ragdoll physics, quick rounds, last one standing 
+- [Falling Balls: Sand Path](../games/action/falling-balls-sand-path.md) — Welcome to the fascinating world of the game, where balls and sand become part of an exciting adventure! Your task is to
+- [falling guys runner runner](../games/action/falling-guys-runner-runner.md) — fall guys , fall guys run , fall guys run guys , best funny games. fall days and google play click. fall days, fall days
+- [Family Dash](../games/action/family-dash.md) — Run together and build a brighter future in Family Dash! Guide two parents sprinting side by side as they collect money 
+- [Family Squid Challenge](../games/action/family-squid-challenge.md) — Hey Player, bring your friend along and team up in this Squid adventure! There are black and red masked men everywhere, 
+- [Fantasy Brothers](../games/action/fantasy-brothers.md) — Fantasy Brothers is a game where two young brothers are locked up in a beautiful fantasy world, trying to escape. It&rsq
+- [Fantasy Typing](../games/action/fantasy-typing.md) — Fantasy Typing immerses you in a magical world where your typing speed and precision are your weapons. Explore a vast fa
+- [Far Orion](../games/action/far-orion.md) — The year is 2121. Technology has advanced far beyond the bounds of our wildest fantasies, but great progress demands gre
+- [Farm Maze Runner](../games/action/farm-maze-runner.md) — In Farm Maze Runner, navigate a pixelated labyrinth as James the farmer, where clever strategy and quick decisions are k
+- [Farmer Challenge Party](../games/action/farmer-challenge-party.md) — The challenge between the farmers is beginning with the Farmer Challenge Party game in two player game mode! This war co
+- [Farmer Noob Super Hero](../games/action/farmer-noob-super-hero-2.md) — Help a farmer reunite with his lost barnyard pals in "Farmer Noob Super Hero." Explore vibrant forests, dodge lurking mo
+- [Farting Flippy jump](../games/action/farting-flippy-jump.md) — Farting Flippy jump is very interesting and unique game , there is an alien o the earth and release farts, and there is 
+- [Fast Arrow](../games/action/fast-arrow-2.md) — Fast Arrow challenges you to unleash your inner archer with perfect timing and precision. Engage in exhilarating close-r
+- [Fast Ninja](../games/action/fast-ninja.md) — Fast Ninja, it's amazing and cool game in which you play as a ninja who has set a goal to be the very steep and collect 
+- [Fat Race 3D](../games/action/fat-race-3d.md) — Navigate whimsical obstacle courses in Fat Race 3D, where the key to victory lies in strategic eating. Balance size and 
+- [FatRabbit](../games/action/fatrabbit.md) — Forget the slimming diets and make your cute rabbit fatten in this buffet of sweets, cakes and cookies, which falls on y
+- [Fatty Ken](../games/action/fatty-ken.md) — Fatty Ken is a 2D platformer where you have to collect the dumbbells while avoiding the enemies, ground saws, spikes and
+- [Fatty Ken 2](../games/action/fatty-ken-2.md) — Fatty Ken 2 is a 2D platformer where you play as a body builder who have to collect dumbbells while avoiding the enemies
+- [Feed all the MONSTERS in the Mineblock](../games/action/feed-all-the-monsters-in-the-mineblock.md) — Feed all the monsters in the Mineblock World right now! Immerse yourself in the amazing world of monsters and feed them 
+- [Feed the Frog](../games/action/feed-the-frog.md) — Feed the frog with spiders, ant and fish. Avoid bombs and try to eat all insects. If you be hit by bomb then tour game w
+- [Female Fighter](../games/action/female-fighter.md) — One night Emily had a dream. She was walking down a hallway, dressed as a warrior, and every entrance was guarded by a s
+- [FeRut](../games/action/ferut.md) — Immerse yourself in FeRut, where survival hinges on cunning tactics and relentless combat. Confront fears as you navigat
+- [Fidget spinner: 4 players game](../games/action/fidget-spinner-4-players-game.md) — Are you the best Spinner player in the world? You must battle against 4 opponents on the same screen and make the best s
+- [Fidget spinner multiplayers](../games/action/fidget-spinner-multiplayers.md) — Push the others Fidget Hand Spinner out of the circle in this multiplayers game. Are you the best Spinner player in the 
+- [Field Marshal](../games/action/field-marshal.md) — Prepare for strategic warfare in Field Marshal, where you defend against unyielding zombie hordes. Merge soldiers to bui
+- [Fight Bros](../games/action/fight-bros.md) — Have you ever thrown a stone with a slingshot before? shoot and beat your friend with slingshot. It is a game that can b
+- [Fight Bros](../games/action/fight-bros-2.md) — Engage in pixelated duels with a slingshot in Fight Bros. Outsmart opponents by claiming power-ups like fish and stars, 
+- [Fight Club: Ring Fighting Arena](../games/action/fight-club-ring-fighting-arena.md) — Do you love Real kung fu fighting games or ring fighting battles games or best street fighting games? If you love games 
+- [Fight the Ghosts](../games/action/fight-the-ghosts.md) — Enter a chilling world where your tapping skills are your only defense against relentless ghostly hordes. Each precise t
+- [Fight With Monster](../games/action/fight-with-monster.md) — Fight With Monster is an exciting action combat game where you face fierce monsters in intense battles. Move skillfully,
+- [Fighter 2D](../games/action/fighter-2d.md) — Fighter 2D is really fun game and adventure game where you can meet other players talk with them fight monsters and open
+- [Fighter Legends Duo](../games/action/fighter-legends-duo.md) — Epic fighting adventure is beginning with the Fighter Legends Duo game! The fighting adventure will be in various places
+- [Fighter Monster](../games/action/fighter-monster.md) — Embark on a pulse-pounding adventure in Fighter Monster, where you command a mighty creature through perilous realms. En
+- [FighterCube](../games/action/fightercube.md) — Dive into the nostalgic pixel world of FighterCube, where strategic battles await amidst a maze of monstrous foes. Maste
+- [Fighting: a game for the mind!](../games/action/fighting-a-game-for-the-mind.md) — Fighting: A Game for the Mind! - is a new game in the smart action genre. You will have to not only participate in fight
+- [Fighting Vehicles Arena](../games/action/fighting-vehicles-arena-2.md) — Unleash your creativity and strategic prowess in Fighting Vehicles Arena, where vehicle customization meets intense 2D b
+- [Fill The Balls](../games/action/fill-the-balls.md) — In Fill The Balls, you have to help the Santa who exploded the bomb to fill the balls into the bowl. You can adjust the 
+- [Filled Glass 4](../games/action/filled-glass-4.md) — In this game Filled Glass 4 you will see the playing field on which at the bottom there will be three glasses of differe
+- [Final Fight: Harbor Justice](../games/action/final-fight-harbor-justice.md) — Take back the waterfront in Final Fight: Harbor Justice, an arcade-style 2D brawler with two playable fighters. Choose p
+- [Final Night: Zombie Street Fight](../games/action/final-night-zombie-street-fight.md) — It's been one year since the world went down, one year since the outbreak. We've lost a lot of good people and going to 
+- [Financial Run](../games/action/financial-run.md) — Financial Run challenges players to navigate the fast-paced world of finance, where strategic decisions and quick thinki
+- [Find Brainrot Obby](../games/action/find-brainrot-obby.md) — This is an obby game about exploration, strange places, and unexpected discoveries. Brainrots are hidden everywhere — on
+- [Findamon](../games/action/findamon.md) — Capture powerful prey quickly! Enhance your catalog and annihilate goblins as a relentless hunter. NEVER BACK DOWN. Retr
+- [Finger Rage](../games/action/finger-rage-2.md) — Tap into the thrill of Finger Rage, where speed meets precision in a frenetic challenge. Earn points and riches by maste
+- [Finger Slicer](../games/action/finger-slicer-2.md) — Put your nerves to the test in Finger Slicer, a thrilling challenge of courage. Hold your finger in a virtual trap for a
+- [Finn & Bones](../games/action/finn-bones.md) — It's time for adventure, but Fin will have to deal with the difficulties on his own, because Jake was kidnapped by a lic
+- [Finn on the platform](../games/action/finn-on-the-platform.md) — "Finn on the platform" is a very fun adventure game! Complete the tracks and pass the levels! Start the great fun with y
+- [Fino Run](../games/action/fino-run.md) — Guide Fino through a perilous forest in this thrilling auto-runner. Tap to jump over obstacles, collect coins for high s
+- [Fire and Water Blockman](../games/action/fire-and-water-blockman.md) — In our adventure, you need to help the fire and water blockman characters. They need you and your friends assistance. Yo
+- [Fire Balls Online](../games/action/fire-balls-online.md) — Fire Balls Online is an interesting 3D ball shooting game. The player only needs to control the ball to hit the stacked 
+- [Fire Boy Run Adventure](../games/action/fire-boy-run-adventure.md) — Fire Boy Run Adventure is an exciting side-scrolling action game that blends adventure and running into one thrilling ex
+- [Fire & Ice - Season 2](../games/action/fire-ice-season-2.md) — Dive into an enchanting world where fire and ice clash for control. Navigate intricate levels, solve elemental puzzles, 
+- [Fire Road](../games/action/fire-road.md) — Fire Road is a one button survival game. Challenge the force of gravity! Avoid the obstacles and complete your path!
+- [FireBlob](../games/action/fireblob.md) — FireBlob is a Platform-Puzzle game where you command a small fireball in order to reach and ignite a wood fire; use the 
+- [FireBlob Winter](../games/action/fireblob-winter.md) — Sequel to FireBlob, now with more levels and detail, better graphics, new puzzles, speedrun mode, and a final boss battl
+- [FireBoom](../games/action/fireboom.md) — FireBoom is a game where there are fire-crackers appearing at top-center and there is a cannon throwing firecrackers fro
+- [Fireboy and Watergirl 2: Light Temples](../games/action/fireboy-and-watergirl-2-light-temples.md) — This time, Fireboy and Watergirl (made by Oslo Albet), are exploring the Light Temple. Use the temple light to reach the
+- [Fireboy and Watergirl 4 Crystal Temple](../games/action/fireboy-and-watergirl-4-crystal-temple.md) — Fireboy and Watergirl are now on an adventure in the crystal temple! The place has many crystal mirrors that can telepor
+- [Fireboy and Watergirl 4 Crystal Temple Game](../games/action/fireboy-and-watergirl-4-crystal-temple-game.md) — Fireboy and Watergirl on an adventure through the Crystal Temple! Teleport from one side to the other. Complete all chal
+- [Fireboy and Watergirl 5 Elements](../games/action/fireboy-and-watergirl-5-elements.md) — The Fireboy and Watergirl must work together to solve the puzzles and overcome the obstacles in each level. In this game
+- [Fireboy and Watergirl 5 Elements Game](../games/action/fireboy-and-watergirl-5-elements-game.md) — Explore the Elemental Temples in Fireboy and Watergirl 5 (by Oslo Albet)! Solve many puzzles, collect all the diamonds a
+- [Fireboy and Watergirl: Forest Temple](../games/action/fireboy-and-watergirl-forest-temple.md) — Fireboy and Watergirl is a cool adventure game, here at the Forest Temple, collect all the diamonds and get each charact
+- [Fireboy and Watergirl: Forest Temple Game](../games/action/fireboy-and-watergirl-forest-temple-game.md) — Fireboy and Watergirl made by Oslo Albet are exploring the Forest Temple in search of diamonds Switch between Fireboy Wa
+- [Fireboy and Watergirl Kiss](../games/action/fireboy-and-watergirl-kiss.md) — You are now about to play the most unique game to the Fireboy and Watergirl Games category! This is a kissing game, wher
+- [Firedungeon Escape](../games/action/firedungeon-escape.md) — You were put in the fireland. Now you want to escape. Get threw all 20 dungeons and be free again. But be careful, dunge
+- [Firefight Upgrader](../games/action/firefight-upgrader.md) — Gear up for an intense firefighting experience in Firefight Upgrader! Take on the role of a courageous firefighter, batt
+- [Firewing Dash](../games/action/firewing-dash.md) — Guide your fiery character through a high-speed aerial race in Firewing Dash. With just one-click controls, dodge deadly
+- [Fish](../games/action/fish-2.md) — Dive into a thrilling aquatic escapade where your survival instincts are tested like never before. Swiftly maneuver thro
+- [Fish Cach](../games/action/fish-cach.md) — Dive into a vibrant underwater realm in Fish Cach, where quick reflexes and sharp timing are your keys to success. Tap t
+- [Fish Feed](../games/action/fish-feed.md) — Dive into Fish Feed, the addictive browser game where you swim through ocean lanes, gobble up smaller fish, and dodge de
+- [Fish Grow Eating Fish](../games/action/fish-grow-eating-fish.md) — This adventure game is designed to help you unwind! Dive into the underwater world and strive to become the Ocean King. 
+- [Fish Hop](../games/action/fish-hop.md) — Escape the barbecue! Help a fish escape a hot grill by jumping on the clothesline ... Beat your own high score in this e
+- [Fit in the Wall](../games/action/fit-in-the-wall.md) — Fit in the Wall challenges you to guide a floating block into the matching slot on moving walls. Using quick reflexes an
+- [Fit Runner](../games/action/fit-runner-2.md) — Dodge, munch, and transform in Fit Runner! Navigate through hilarious levels while collecting foods to achieve various b
+- [Fit The Fat](../games/action/fit-the-fat.md) — Fit The Fat is a free online puzzle and funny game for boys played on PuzzleGame. In this game, you need to control your
+- [Five Nights at Spikes](../games/action/five-nights-at-spikes.md) — Night. You are struggling to sleep because there is clearly something wrong in this house... After a morning inspection,
+- [Flag Runner](../games/action/flag-runner.md) — Flag Runner &zwj; Dash, dodge, and sprint through epic obstacle courses in Flag Runner! &zwj; Grab flags, leap over barr
+- [Flag War](../games/action/flag-war.md) — Are you ready to fight with your friend? Fight with your friend and reach victory. The best player from the blue team an
+- [Flag War](../games/action/flag-war-2.md) — Dive into "Flag War," where strategic gameplay meets intense action. In this two-player showdown, wield your sword, mast
+- [Flamora](../games/action/flamora.md) — Flamora challenges you to survive a fiery battlefield as a valiant knight, relying on quick reflexes and strategic box b
+- [FlapCat Christmas](../games/action/flapcat-christmas.md) — Now things have become more difficult to FlapCat. In this special Christmas version of the hit FlapCat, FlapCat Christma
+- [FlapCat Halloween](../games/action/flapcat-halloween.md) — FlapCat Halloween is a game with mild horror theme. And keeping the difficulty of other FlapCat games.
+- [Flappy Bird Runner](../games/action/flappy-bird-runner.md) — Flappy Bird Runner is a fun and exciting arcade game. Play this cute and addictive game today. Flappy Bird Runner is a f
+- [Flappy Bird Runner](../games/action/flappy-bird-runner-2.md) — Test your reflexes in Flappy Bird Runner, an endless flight challenge where each tap guides your bird through perilous g
+- [Flappy Dove](../games/action/flappy-dove.md) — Pigeon is a very interesting game for fans of Flappy Bird Rules of the game: The rules are very simple, you need to cons
+- [Flappy Helicopter 2 Player](../games/action/flappy-helicopter-2-player-2.md) — Outmaneuver your opponent in Flappy Helicopter 2 Player, where every altitude change could be your last. Engage in a hig
+- [Flappy Horizon](../games/action/flappy-horizon.md) — Flappy frenzy continues at full speed and here is the new Flappy game "Flappy Horizon". In this game, there is a ball th
+- [Flappy Hungry Bird](../games/action/flappy-hungry-bird.md) — Flappy Hungry Bird is a nice game tap to fly up and eat as many fruits as possible
+- [Flappy Jelly](../games/action/flappy-jelly.md) — Avoid obstacles to level up, find fantastic treasures. Help the fish to swim among the obstacles and discover the intere
+- [Flappy Plane](../games/action/flappy-plane.md) — To play the game just touch the screen buttons if you use a mobile device or right click if you are using PC
+- [Flappy Smasher](../games/action/flappy-smasher.md) — Flappy Smasher game has a lot of success review and player this MONTH that significantly improves overall game performan
+- [Flappy Tweety](../games/action/flappy-tweety.md) — Cute bird Tweety is flying between challenging obstacles. Make the highest record without hitting the obstacles. let's p
+- [Flat Flapp](../games/action/flat-flapp.md) — Flat Flap is a casual game for all ages, simple one-touch control, very inspired by Flappy Bird gameplay. With a minimal
+- [Flick Master 3D](../games/action/flick-master-3d.md) — Ready to become the ultimate Flick Master 3D? In this exciting casual action game, you&rsquo;ll use powerful fingers to 
+- [Flip and Fight](../games/action/flip-and-fight.md) — In Flip and Fight, prepare for an adrenaline-pumping ragdoll adventure combining physics-based chaos and intense combat.
+- [Flip for Fortune Collecting Coins Game](../games/action/flip-for-fortune-collecting-coins-game.md) — Leap through the sky, master aerial maneuvers, and land effortlessly on platforms to amass a treasure trove of coins. Te
+- [Flip Jump Race 3D](../games/action/flip-jump-race-3d.md) — Do you have confidence in your balance skills while you are jumping from a platform to a platform? Flip Jump Race 3D is 
+- [Flip Runner](../games/action/flip-runner.md) — Flip Runner 3D is an original toy dedicated to parkour. If this discipline is close to you, then you will perfectly unde
+- [Flipped](../games/action/flipped.md) — Flipped is a platformer with a mind-bending twist, challenging your instincts as reversed controls redefine movement and
+- [Flippy Bottle](../games/action/flippy-bottle.md) — You must climb as high as you can but be careful you can fall. Play this fantastic player game and have fun climbing all
+- [Floor Jumper Escape](../games/action/floor-jumper-escape.md) — Embark on a legendary adventure in Floor Jumper Escape, a classic platformer that combines timeless gameplay with modern
+- [Floppy Penguin](../games/action/floppy-penguin.md) — Floppy Penguin is a free online game that is perfect for players of all ages. With its simple controls and easy-to-follo
+- [Fluffy Rush](../games/action/fluffy-rush.md) — Fluffy Rush is an online game that you can play for free. It is a platformer game with cute graphics and simple controls
+- [fly man](../games/action/fly-man.md) — touch and jump
+- [Fly SmasherZ](../games/action/fly-smasherz-2.md) — Prepare your fingers for Fly SmasherZ, a fast-paced reflex challenge where you swat flies as they zoom by. Every tap cou
+- [Fly vs Giant](../games/action/fly-vs-giant.md) — Tired of being swat? Its time to fight back! In Fly Revenge, you play as a tiny fly with a BIG grudge against the annoye
+- [Flying Ball](../games/action/flying-ball.md) — Flying Ball game has a lot of success review and player this MONTH that significantly improves overall game performance,
+- [FLYING BIRD](../games/action/flying-bird.md) — HTML5 GAME
+- [Flying Cut](../games/action/flying-cut.md) — Flying Cut is an attractive casual game to relieve yourself. The game play is simple to control. Just hold to fly to cut
+- [Flying Jelly](../games/action/flying-jelly-2.md) — Break into the vibrant, fast-paced challenge of Flying Jelly, where quick reflexes and precision are your allies. Burst 
+- [Flying Jelly Touch](../games/action/flying-jelly-touch.md) — Flying Jelly Touch delivers vibrant, fast-paced arcade action where precision and speed are key. Tap your way through fl
+- [Flying Orange](../games/action/flying-orange.md) — Flying Orange is a platform game in which you'll control a little orange to escape the dangers of space with the help of
+- [Flying Princess Runner](../games/action/flying-princess-runner.md) — Embark on a magical adventure as the Flying Princess. Glide through enchanting landscapes, collect hidden treasures, and
+- [FNF Music Battle 3D](../games/action/fnf-music-battle-3d.md) — Do you have confidence in music games? FNF Music Battle 3D is a skillful music arcade game with 3D models. At each level
+- [FNF Music Battle: Original Mod](../games/action/fnf-music-battle-original-mod.md) — Music Battle is a musical game of rhythm association to test your musical knowledge and reflexes where you must feel the
+- [FNF Rainbow Friends Battle Mod](../games/action/fnf-rainbow-friends-battle-mod.md) — Hey y’all!! Are you in love with our FNF songs? Spinning around with so many funkin’rhythms that you cann’t choose which
+- [Food Pusher Battle Challenge](../games/action/food-pusher-battle-challenge.md) — Welcome to Food Pusher Challenge! Food Pusher Challenge is a fun food match. Collect as much green food as possible and 
+- [Food Pusher Challenge](../games/action/food-pusher-challenge.md) — Collect and stack as many food as possible and close to your partner to win the game. The wrestling match is about to be
+- [Food: Run and Battle](../games/action/food-run-and-battle.md) — Break into a crazy run across tracks packed with food, traps, and rivals. Collect as many supplies as possible, choose a
+- [FoodHead Fighters](../games/action/foodhead-fighters.md) — Select one of the characters in the game and control their movements to fight against other characters in the street. Ea
+- [Force Master](../games/action/force-master.md) — Get a grasp on your surroundings, then throw it at your foes! Beat your enemies with other enemies! Throw explosive barr
+- [Forest](../games/action/forest.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Forest Adventure](../games/action/forest-adventure.md) — Forest Adventure is an immersive escape game set in a magical forest. As a round ball character, you must explore the fo
+- [Forest Camp](../games/action/forest-camp.md) — In Forest Camp, immerse yourself in a daring quest to claim territories within a perilous woodland. Outsmart a cunning w
+- [Forest Camp Adventure](../games/action/forest-camp-adventure.md) — Step into the thrilling world of Forest Camp, a challenging escape game set in a dense, dangerous woodland. As a player,
+- [forest dash](../games/action/forest-dash.md) — Forest Dash is a fast, colorful 3D endless runner. Sprint down a sunlit forest trail, switch lanes to dodge rocks and lo
+- [Forest Rush](../games/action/forest-rush.md) — Help Mush Mush run through the forest in this fun platform game for young kids. Avoid the spikey conker and collect the 
+- [Forest Soul](../games/action/forest-soul.md) — Brave hero, go on an exciting fantasy adventure to cleanse the soul of the forest from the darkness that filled it. On t
+- [Fort Craft](../games/action/fort-craft-2.md) — Fort Craft plunges you into a vibrant world of blocky chaos where strategy meets action. Navigate dynamic crafted forts,
+- [Fortnite Coloring Book Game](../games/action/fortnite-coloring-book-game.md) — Fortnite Coloring Book includes 12 different images of Fortnite Characters from which you can choose and color them as y
+- [Fortnite Puzzles](../games/action/fortnite-puzzles.md) — Welcome to the game called Fortnite Puzzles! In this game you have 12 puzzles with pictures from Fortnite. Assemble them
+- [Fortress Defense 2](../games/action/fortress-defense-2.md) — The thrilling battle is going to happen in this epic war games. Get charge of your castle and start protecting it by pla
+- [Fortress of the Wizard](../games/action/fortress-of-the-wizard.md) — Unleash your magical prowess as a mighty wizard defending your fortress against relentless demons. Cast explosive fireba
+- [Fox & Bear](../games/action/fox-bear.md) — Are you looking for the best 2D adventure game? Then don’t miss out fox's Adventure – Jump & Run! , the best new game in
+- [Fox Run](../games/action/fox-run.md) — Experience the thrill of Fox Run, controlling a nimble fox dashing through lush forests. Dodge obstacles, collect apples
+- [Foxob - Run Run!](../games/action/foxob-run-run.md) — (Fullscreen recommended) A fox running in the farm and escape from the animals for get the strawberries.
+- [Foxu - Run Run!](../games/action/foxu-run-run.md) — A Fox Running in the farm and escape from the animals for get the straw berries!
+- [Foxy Adventure](../games/action/foxy-adventure.md) — Embark on a whirlwind quest as Foxy in vibrant landscapes, where your agility and precision face ever-changing challenge
+- [Fps Cow-boy](../games/action/fps-cow-boy.md) — Bienvenue dans nos plus récents jeux de tir à la première personne occidentaux, jeux de cow-boy fps les jeux occidentaux
+- [FRAGMENT](../games/action/fragment.md) — You are a weaponized human test subject disguised as a robot. Your test is to shoot through the test, destroying the hea
+- [Freaky Monster Rush](../games/action/freaky-monster-rush.md) — It's time to start an afresh race. To merge the DNA of each component of your monster runner limb by limb, complete each
+- [Freaky Monster Rush - Running Game](../games/action/freaky-monster-rush-running-game.md) — Freaky Monster Rush Haunt the nightmares of your enemies with Freaky Monster Rush! Get into a new skin, shift shapes, an
+- [Freddy at Obby Backrooms](../games/action/freddy-at-obby-backrooms.md) — Navigate a chilling labyrinth in Freddy at Obby Backrooms, blending classic obstacle challenges with spine-tingling susp
+- [Freddy at Obby World](../games/action/freddy-at-obby-world.md) — Navigate through vibrant worlds teeming with treacherous traps and daunting obstacles as you outrun the relentless Fredd
+- [Freddy Run 1](../games/action/freddy-run-1.md) — Freddy Run 1 is a hyper casual spooky running game where you need to help a young boy named Freddy survive inside a terr
+- [Freddy run 3](../games/action/freddy-run-3.md) — Freddy founds himself trapped once again inside a terrifying nightmare so he needs your help in order to survive inside 
+- [Free Battleground Fire  : pubg](../games/action/free-battleground-fire-pubg.md) — Free survival: fire battlegrounds is the ultimate survival shooter game for your mobile. The best single player battle r
+- [Freehead Skate](../games/action/freehead-skate.md) — Freehead Skateis a fast-paced, arcade-style game that challenges players to jump over obstacles using only their charact
+- [Friday Night Funkin Battle](../games/action/friday-night-funkin-battle.md) — Friday Night Funkin Battle is a free online skill and hidden object game. Find out the hidden music notes in the specifi
+- [Friday Night Funkin Portrait](../games/action/friday-night-funkin-portrait.md) — This is Friday Night Funkin portrait mode, very simple and satisfying gameplay. Play from Week 1 till week 7. The game i
+- [Friday the 13th](../games/action/friday-the-13th.md) — This game contains Friday the 13th to playing New Friday The 13tH this game which consists of several levels to simplify
+- [Friends Battle Crepgun](../games/action/friends-battle-crepgun.md) — Are you ready to battle with your friend? Arrows are coming from all directions, so be careful. If you want to defeat yo
+- [Friends Battle Crepgun](../games/action/friends-battle-crepgun-2.md) — Dive into Friends Battle Crepgun's pixelated arena, dodging relentless arrows with agility and precision. Survive 10 sec
+- [Friends Battle Diamonds](../games/action/friends-battle-diamonds.md) — Hey! Are you or your friend going to collect diamonds faster? Lets see. You need to collect diamonds, and the one who co
+- [Friends Battle Diamonds](../games/action/friends-battle-diamonds-2.md) — In Friends Battle Diamonds, dive into a vibrant pixel world where speed defines success. Engage in thrilling two-player 
+- [Friends Battle Eat A Food](../games/action/friends-battle-eat-a-food.md) — Are you ready to grow and shrink? In this adventure, you need to be careful about what you eat. The one who grows the mo
+- [Friends Battle Eat A Food](../games/action/friends-battle-eat-a-food-2.md) — Dive into a fast-paced duel with edible stakes! Devour falling apples to grow while dodging the poisonous ones that shri
+- [Friends Battle Gunwars](../games/action/friends-battle-gunwars.md) — In the new game of the Friends Battle series, weapons are drawn and magazines are loaded. Fire your weapon and hit your 
+- [Friends Battle Gunwars](../games/action/friends-battle-gunwars-2.md) — Dive into "Friends Battle Gunwars," where pixelated chaos meets strategic duels. Master quick reflexes and tactical weap
+- [Friends Battle Knock Down](../games/action/friends-battle-knock-down.md) — In this adventure, two fighting friends need to push each other off a cliff. In this fun game, push your friend off the 
+- [Friends Battle Knock Down](../games/action/friends-battle-knock-down-2.md) — Face off in a thrilling duel with your friend in Friends Battle Knock Down! Outmaneuver and push each other while dodgin
+- [Friends Battle Swords Drawn](../games/action/friends-battle-swords-drawn.md) — In the third episode of the Friends Battle series, swords have been drawn, and the war is about to begin. The battle sta
+- [Friends Battle Swords Drawn](../games/action/friends-battle-swords-drawn-2.md) — Engage in gripping, pixelated sword duels within a dynamic arena. Strategize with a friend to capture and defend flags, 
+- [Friends Battle Tag Flag](../games/action/friends-battle-tag-flag.md) — In the second game of the Friends Battle series, two friends are racing for the flag this time. Whoever holds the flag l
+- [Friends Battle Tag Flag](../games/action/friends-battle-tag-flag-2.md) — Friends Battle Tag Flag pits you against a friend in a thrilling 2-minute showdown. Evade the flag to win, using nimble 
+- [Friends Battle TNT](../games/action/friends-battle-tnt.md) — Are you up for an intense challenge with your friends? You should compete against your friend. Its the perfect time for 
+- [Friends Battle TNT](../games/action/friends-battle-tnt-2.md) — Race against friends in a vibrant pixelated world in Friends Battle TNT. Two teams vie to collect airborne TNTs first, d
+- [Friends Battle Water Die](../games/action/friends-battle-water-die.md) — Are you ready to fight with your friend? Engage in battle with your friend and the one who achieves the most kills wins.
+- [Friends Battle Water Die](../games/action/friends-battle-water-die-2.md) — Engage in fast-paced, head-to-head combat in Friends Battle Water Die. Strategize smartly against your opponent amidst t
+- [Frog Adventure](../games/action/frog-adventure.md) — Leap, sneak, and strike as a pixel-art ninja frog in a fast-paced platformer adventure! Dive into a stylish retro world 
+- [Frog Block](../games/action/frog-block.md) — Frog Block is an online platformer game that is free to play. The objective of the game is to help the frog reach the en
+- [Frog Jump Online Game](../games/action/frog-jump-online-game.md) — Are you bored? Then it's time to do something fun. Play Frog Jump, a free online platform jumping game inspired by Mario
+- [Froggy Man](../games/action/froggy-man.md) — Froggy Man is a 2D cute little platformer where you play as a green frog who have to collect all of the flies while avoi
+- [Froggy Man 2](../games/action/froggy-man-2.md) — Froggy Man 2 is a 2D cute little platformer where you play as a green frog who have to collect all of the flies while av
+- [Frogie](../games/action/frogie.md) — An old school arcade game comes for retro game lovers! Try to reach to highest score by jumping from one platform to ano
+- [Frogman Run](../games/action/frogman-run.md) — Frogman Run is a html5 arcade game, tab to jump and avoid the enemy, Collect Apple in the stage to earn score.
+- [Frost Adventure](../games/action/frost-adventure.md) — Embark on a chilly expedition with Frost Adventure, where strategy meets icy landscapes. Outsmart adversaries, discover 
+- [Frozen Rush](../games/action/frozen-rush.md) — Help the characters from Frozen run through each of the levels, collecting crystals and avoiding all of the obstacles. C
+- [Fruit Adventure](../games/action/fruit-adventure.md) — “Fruit Adventure” is a very fun and colorful platform game! The player, a brave Strawberry, must go through the forest a
+- [Fruit Break](../games/action/fruit-break.md) — Mouse or touch slide to cut fruit but avoid bombs. How many scores can you get in 60 seconds?
+- [Fruit Clicker](../games/action/fruit-clicker.md) — Unleash your tapping prowess in Fruit Clicker, where collecting FruitCoins unlocks exciting upgrades. The vibrant pixela
+- [Fruit Clicker 2](../games/action/fruit-clicker-2-2.md) — Get ready to tap away in Fruit Clicker 2, where your mission is to amass FruitCoins by clicking on vibrant fruits. Use y
+- [Fruit Helix Jump](../games/action/fruit-helix-jump-2.md) — Dive into the vibrant 3D world of Fruit Helix Jump, where you smash through layers of juicy fruit. Navigate your colorfu
+- [Fruit Ninja Online](../games/action/fruit-ninja-online.md) — Fruit ninja online is classic slicing game! Test your speed and accuracy. How many fruit can you slash before losing thr
+- [Fruit Runner](../games/action/fruit-runner.md) — Race through a vibrant fruity world in Fruit Runner! Master intuitive swipe controls to dash, jump, and collect an abund
+- [Fruit Rush Game](../games/action/fruit-rush-game.md) — Fruit Rush Game is a casual game, which is suitable for all ages, especially for the kids. They can recognize a variety 
+- [Fruit Samurai](../games/action/fruit-samurai.md) — Fruit Samurai is a classic cutting fruit game,welcome to cut the sweet and delicious fruit.
+- [Fruit Slasher](../games/action/fruit-slasher.md) — Unleash your inner ninja and slice your way to victory in Fruit Slasher! Test your reflexes and precision as you carve j
+- [Fruit Slicer](../games/action/fruit-slicer-2.md) — * In FRUIT SLICER you have to cut the fruits that appear on the screen and DON'T let them fall, otherwise you lose life 
+- [Fruit Smash Master](../games/action/fruit-smash-master.md) — Become a master fruit slicer in Fruit Smash Master! Use precise swipes to slash through diverse fruits, navigating their
+- [Fruit Survivor](../games/action/fruit-survivor.md) — Fruit Survivor is a cool and exciting 3D cartoon survival arcade game. You play as a gardener who is attacked by fruit m
+- [Fruits Guess Game2D](../games/action/fruits-guess-game2d.md) — In this game player collect the given objects with the given target after win the game you know which fruit name you gue
+- [Fruits Juice Runner](../games/action/fruits-juice-runner.md) — Collecting all fruits and coins while moving glass gives you more excitement of game play. it is very easy level of play
+- [Fruits Slice Challenge](../games/action/fruits-slice-challenge.md) — Chop like a chef, fast like a ninja, it's an amazing and addictive satisfying relaxation game. Hold to chop, release to 
+- [Fun Draw Race 3D](../games/action/fun-draw-race-3d.md) — Draw on the screen to create the suitable legs for your robot and try to be the winner each race. The Differen track cou
+- [Fun Epic Run Race 3D](../games/action/fun-epic-run-race-3d.md) — In the most interesting fun race game 3D, let’s climb, slide, run and flip your way to the finish line running through t
+- [Fun Race 3D Online](../games/action/fun-race-3d-online.md) — Fun Race 3D is a cool and interesting 3D racing game, you need to control your character to run in this dangerous place.
+- [Fun Race On Ice](../games/action/fun-race-on-ice.md) — This fun winter obstacle race is about to begin. Knowing when to stop is more important than running fast and is the key
+- [Fun Sea Race 3D](../games/action/fun-sea-race-3d.md) — Fun Sea Race 3D is a popular race game. The interesting thing about it is that the surroundings is the sea. The game set
+- [Funny Crazy Watermelon](../games/action/funny-crazy-watermelon.md) — Funny Crazy Watermelon &mdash; a platformer with physics. Play as a funny creature, which is a watermelon with a funny f
+- [Funny Epic Roll](../games/action/funny-epic-roll.md) — Funny Epic Roll the player needs to react quickly as the cube rolls through an exotic world. Help the little cube avoid 
+- [Funny Pixel Adventure](../games/action/funny-pixel-adventure.md) — Bored? Do you want something exciting? Platformer game will make your day interesting and bright! Pixel Adventure is a c
+- [Funny Ragdoll Wrestlers](../games/action/funny-ragdoll-wrestlers.md) — A super fun Ragdoll fighting game is beginning with the Funny Ragdoll Wrestlers game! The game is either played as a sin
+- [Funny Spongebob Parkour Racer 3D](../games/action/funny-spongebob-parkour-racer-3d.md) — Funny Racer 3D is experience of full parkour experience with hundreds of unique levels in spongebob style. From folks wh
+- [Funny Walk Fail Run](../games/action/funny-walk-fail-run.md) — Funny Walk Fail Run is a fun-filled arcade action game with funny and magical gameplay! You will control a villain in th
+- [Furry Kung Fu](../games/action/furry-kung-fu.md) — Furry Kung Fu is a fun fighting game with cute cartoon graphics. You play as Catsei or his student Kung Fu Cat. You need
+- [Fury Bombs](../games/action/fury-bombs.md) — Fury Bombs is an arcade game where you defuse bombs that are about to explode.
+- [Fury - The Tank Battle](../games/action/fury-the-tank-battle.md) — Command the indomitable tank, Fury, in a fast-paced top-down shooter. As enemy tanks emerge from snow-hidden ambushes in
+- [Fuse Fury](../games/action/fuse-fury.md) — This is a game lovable by Children. Launch toy missiles on fire-crackers to burst them based on wind direction shown abo
+- [Fuuta](../games/action/fuuta.md) — Fuuta is a 2D platformer where you have to collect all of the lipsticks while avoiding all of the single-eyed enemy mons
+- [Fuuta 2](../games/action/fuuta-2.md) — Fuuta 2 is a 2D platformer where you have to collect all of the lipsticks while avoiding all of the single-eyed enemy mo
+- [Fyer Bot 2](../games/action/fyer-bot-2.md) — Fyer Bot 2 is a 2D Sci-fi themed platformer where you have to collect fire cubes while avoiding the enemy Fyer bots, fly
+- [Gacha life 2](../games/action/gacha-life-2.md) — ★ Welcome to Gacha Life ★ Are you ready to start a new adventure? Create your own anime styled characters and dress them
+- [Gain Tom Coin Run](../games/action/gain-tom-coin-run.md) — Tom is ready to run anywhere to fill his pockets with gold coins. Go on an adventure with Tom. Be careful, the roads lea
+- [Gakkul](../games/action/gakkul.md) — Gakkul is a 2D platformer where you play as a boy who have to collect mangoes from the gardens while avoiding the garden
+- [Gakkul 2](../games/action/gakkul-2.md) — Gakkul 2 is a 2D platformer where you play as a boy who have to collect mangoes from the gardens while avoiding the gard
+- [Galactic Pixel Storm](../games/action/galactic-pixel-storm.md) — Embark on an exciting cosmic adventure in Galactic Pixel Storm! Immerse yourself in a world of captivating pixel art gra
+- [Galaxy Crush](../games/action/galaxy-crush.md) — Navigate the cosmos in Galaxy Crush, a fast-paced tapping adventure where quick reflexes are your best defense against i
+- [Galaxy Runner](../games/action/galaxy-runner.md) — Guide Nova's spaceship through neon-lit space in Galaxy Runner. Perfectly time your jumps to evade debris and amass ener
+- [Game BattleBattle](../games/action/game-battlebattle.md) — The most exciting battle of all time is about to start again! For thousands of years BattleBattle happens. This year the
+- [Game On   Cat vs Rats](../games/action/game-on-cat-vs-rats.md) — Get ready to help and take control of brave cats, and fight against their archenemy, the Rat King! Its causing problems 
+- [Gang Street Fighting 2D](../games/action/gang-street-fighting-2d.md) — A fun and excellent vintage fighting action game, Gang Street Fighting 2D allows you to show off your specific combat te
+- [Gangsta Duel](../games/action/gangsta-duel.md) — Gangsta Duel is an exciting street duel game that brings you into a world of battles. Face off against the street Gangst
+- [Gangster Kabali Game](../games/action/gangster-kabali-game.md) — Step into the dangerous world of crime and power in Gangster Kabali Game, an action-packed adventure where you rise as a
+- [Garten Of Rainbow Monsters](../games/action/garten-of-rainbow-monsters.md) — Embark on an epic journey in Garten of Rainbow Monsters. Choose heroes Jack or Sara and battle fearsome foes like BanBan
+- [Gear Fight](../games/action/gear-fight.md) — Gear Fight is a fast-paced strategy game where every gear can change the battle. Build your combat machine, strengthen y
+- [Gears of War: Beat Em Up](../games/action/gears-of-war-beat-em-up.md) — A fan-made Gears of War arcade beat em up. Fight across five chapters with melee combos, a chainsaw, Lancer fire, and ac
+- [Gem Clicker](../games/action/gem-clicker-2.md) — Embark on a relaxing adventure in Gem Clicker, where each click on gems earns rewards. Strategize upgrades, automate inc
+- [Gem Twins](../games/action/gem-twins.md) — Gem Twins is a puzzle-platformer game where you control two brothers with the ability to turn themselves into stone to h
+- [Gentlemans Quest](../games/action/gentlemans-quest.md) — Gentleman's Quest is a 2D Platform game where you need to reach your office while collecting energy drinks. You have to 
+- [Geo-Metric Run](../games/action/geo-metric-run.md) — Dash through ever-changing geometric worlds in Geo-Metric Run, where rapid reflexes are your greatest ally. Master preci
+- [Geometrical Dash](../games/action/geometrical-dash.md) — Take control of a square and get the end, that's it! But it's not as easy as it would seem. The levels you go through ar
+- [Geometry Arrow](../games/action/geometry-arrow.md) — Geometry Arrow The game is about an arrow in a cave with obstacles.
+- [Geometry Dash Paper Note](../games/action/geometry-dash-paper-note.md) — Try to make the highest score by jumping. You can choose from different characters and play the game with the character 
+- [Geometry Goal Dash 2026](../games/action/geometry-goal-dash-2026.md) — Geometry Goal Dash 2026 is a fast-paced platformer inspired by Geometry Dash, where you control a rolling ball through c
+- [Geometry Jumping](../games/action/geometry-jumping.md) — Geometry jump is platform jumping game where you can choose some of yours favorite character to play with it. You need t
+- [Geometry Rash](../games/action/geometry-rash.md) — Geometry Rash is a high-speed action platformer where every move counts. Jump your way through 8 challenging levels fill
+- [Geometry Rash But MCraft](../games/action/geometry-rash-but-mcraft-2.md) — Dive into a vibrant, fast-paced adventure with Geometry Rash But MCraft! Master the art of precision jumping and flying,
+- [Geometry Square](../games/action/geometry-square.md) — There is a square running as if its racing towards infinity. Help the geometry square and run with it towards infinity, 
+- [Geometry Square](../games/action/geometry-square-2.md) — Embark on a mesmerizing geometric adventure in Geometry Square, where precision and quick reflexes lead a vibrant square
+- [Geometry Stack 2048 Run](../games/action/geometry-stack-2048-run.md) — Geometry Stack 2048 Run is a fun and smart online running and puzzle game. You have to slide the screen and move a block
+- [Geometry Tile Rush](../games/action/geometry-tile-rush.md) — Welcome to Geometry Tile Rush. it is a rhythm-based platforming game that currently has 30 levels. Play as a square bloc
+- [Germ Killer2](../games/action/germ-killer2.md) — Germ Killer2 propels you into a high-stakes world where timing and strategy are key. Jump to defeat relentless enemies, 
+- [Get On Toop Touch](../games/action/get-on-toop-touch.md) — Get ready for a challenging and yet fun game against your friend or artificial intelligence! You are one of two interloc
+- [Get The Star](../games/action/get-the-star.md) — “Get the Star” is a casual puzzle game. The goal is to collect all the stars of each area, get the key and proceed to th
+- [Get The Starr](../games/action/get-the-starr.md) — “Get the Star” is a casual puzzle game. The goal is to collect all the stars of each area, get the key and proceed to th
+- [Get To The Choppa](../games/action/get-to-the-choppa.md) — A fun and simple game designed specifically for you to relax and unwind. Enter the online game and get a great opportuni
+- [Ghost Land Escape](../games/action/ghost-land-escape.md) — In Ghost Land Escape, sprint and leap through a spectral world, dodging relentless phantoms. Outmaneuver your ghostly pu
+- [Ghost Ship](../games/action/ghost-ship-2.md) — Embark on an electrifying voyage in Ghost Ship, where spectral pirates haunt the seas. Test your reflexes in click-tappi
+- [Ghost Wiper](../games/action/ghost-wiper.md) — Two brothers who have opened an office to examine and search mysterious events, have received a phone call one day. The 
+- [Ghostly Night Harvest](../games/action/ghostly-night-harvest.md) — Welcome to Ghostly Night Harvest, a charming and action-packed game that blends the serenity of nighttime harvesting wit
+- [Giant Hamster Run](../games/action/giant-hamster-run.md) — Switch lanes, jump and slide to avoid obstacles such as roadblocks and police cars. Collect coins and cookies along the 
+- [Giant Head Rush](../games/action/giant-head-rush.md) — Giant Head Rush is a popular recently. Mainly use your head to pass the level, so you have to gather as many characters 
+- [Giant Run 3D](../games/action/giant-run-3d.md) — Giant Run 3D is a boy's free online game. You need to choose the correct doors to gather more people. The more people yo
+- [Giant Rush](../games/action/giant-rush.md) — Make yourself stronger and defeat the boss! You need to absorb match people of the same color as you to make you strong 
+- [Giant Rush: Imposter](../games/action/giant-rush-imposter.md) — Giant Rush Imposter is a running puzzle game. Your job is to collect the same color among us so that one is growing bigg
+- [Giant Rush Online](../games/action/giant-rush-online.md) — Giant Rush Online is one of the new arcade games with the richest gameplay, the most diverse content, and the most attra
+- [Giant Rush Online 3D](../games/action/giant-rush-online-3d.md) — Giant Rush Online is undoubtedly the most interesting new arcade game this year, with addictive gameplay and 3D art styl
+- [Giant Wanted Monster](../games/action/giant-wanted-monster.md) — The city is being occupied by giant monsters. You, as an elite sniper, pick up your sniper gun. Defeat these crazy monst
+- [Giftbound Runner](../games/action/giftbound-runner.md) — Race through wintry wonderlands in Giftbound Runner, dodging obstacles and snatching magical gifts. Test your reflexes i
+- [Girl Money Rush](../games/action/girl-money-rush.md) — an exciting journey and shape your destiny by choosing from a myriad of captivating professions. In this thrilling adven
+- [Girly Race Runner](../games/action/girly-race-runner.md) — Girly Race Runner invites players into a vibrant world of competitive racing, where they navigate colorful tracks filled
+- [Glacier Adventure](../games/action/glacier-adventure.md) — Embark on a thrilling quest through perilous icy landscapes in Glacier Adventure. Collect crystals, dodge cunning traps,
+- [Glacier Dash](../games/action/glacier-dash-2.md) — Navigate the thrilling depths of Glacier Dash with your trusty narwhal. Master one-touch controls as you speed through i
+- [Gladiator Attack](../games/action/gladiator-attack.md) — Gladiator Attack – where you take control of the brave gladiator. In this game you will control the gladiator, who will 
+- [Gladiator Fights](../games/action/gladiator-fights.md) — Step into the thrilling arenas of ancient Rome in Gladiator Fights. Master a complex combat system with strategic attack
+- [Gladiator Kampf](../games/action/gladiator-kampf.md) — Willkommen in die Arena! Nimm an den alten Gladiatorschlachten in diesem 3D-Simulationsspiel teil. Nimm deine Waffen und
+- [Gliding Box](../games/action/gliding-box.md) — Just slide and get ready to jump. Show your reflexes and your patience. If you wanted difficulty here you have it
+- [Gliding over Dunes](../games/action/gliding-over-dunes.md) — Glide the ball over the dunes, unlock new maps and images, set new records. Exciting challenges await you! An exciting a
+- [Glitch Guy Gravity Run](../games/action/glitch-guy-gravity-run.md) — Dive into the thrilling world of Glitch Guy Gravity Run, where fast-paced action meets nostalgic pixel art. Run, jump, a
+- [Gloo Bot](../games/action/gloo-bot.md) — Gloo Bot is a 2D Sci-fi themed platformer where you have to play as a robot who have to collect all of the battery cells
+- [Gloo Bot 2](../games/action/gloo-bot-2.md) — Gloo Bot 2 is a 2D Sci-fi themed platformer where you play as a robot who have to collect all of the battery cells while
+- [Go to Platform](../games/action/go-to-platform.md) — Leap into action as a nimble ball, navigating an ever-changing landscape of platforms. Precision and timing are your all
+- [Go! Up! Samurai](../games/action/go-up-samurai.md) — Go! Up! Samurai offers an action-packed HTML5 gaming experience. Dive into a vibrant samurai realm, where quick reflexes
+- [Goals](../games/action/goals.md) — Engage in a thrilling football showdown against a dynamic AI in Goals. Master intuitive controls and strategic plays to 
+- [Goblin Clan Online Game](../games/action/goblin-clan-online-game.md) — Goblin Clan is a free online fantasy game in which goblins must help each other escape the king and queen’s imprisonment
+- [Goblin run](../games/action/goblin-run.md) — Run with cute green goblin as far as you can in endless runner. Pick bonus gold and eat meat to perform in-air jumps.
+- [God Stickman: Battle of Warriors - Fighting games](../games/action/god-stickman-battle-of-warriors-fighting-games.md) — The battle war was started and the enemies are an army of strange stickman and they want to destroy your country. You wi
+- [Godzilla Runner Game](../games/action/godzilla-runner-game.md) — Godzilla Runner Game is a fast-paced endless runner where you control the legendary King of the Monsters as he charges t
+- [Going Balls 3D](../games/action/going-balls-3d.md) — Going Balls 3D is a relaxing 3D rolling game where smooth control and calm focus are the key to winning. Swipe to steer 
+- [Going Right](../games/action/going-right.md) — Bring the bird to its nest without getting hit by the obstacles A simple one touch avoid and collect game, with five dif
+- [Going Up Rooftop](../games/action/going-up-rooftop.md) — Going Up Rooftop is a 3D parkour adventure across the rooftops of a sprawling city. Climb walls, leap between ledges, cr
+- [Gold Miner Jack](../games/action/gold-miner-jack.md) — Jack heard that gold miner can be very rich, he is so excited and decides to be a gold miner too! But he doesn't know ho
+- [Golden Age Again](../games/action/golden-age-again.md) — Welcome to Knights and Glory, a game for showcasing your strategic skills and securing victory among millions of players
+- [Golden Dash](../games/action/golden-dash.md) — Leap into the fast-paced frenzy of Golden Dash, where your reflexes are tested in a thrilling endless runner. Sprint thr
+- [Golden Snake - demo (5 lvl)](../games/action/golden-snake-demo-5-lvl.md) — An action-platformer game about treasure hunter, his nick is Golden Snake, he got it while found his first artifact it w
+- [Golden Sword Princess](../games/action/golden-sword-princess.md) — Golden Sword Princess is an adventure game with multiple levels, great graphics and addictive gameplay. Help the Golden 
+- [GoldRush](../games/action/goldrush.md) — GoldRush &mdash; a thrilling 2D endless runner where you play as a grumpy little dwarf miner on the hunt for gold! Leap 
+- [Golem Adventure](../games/action/golem-adventure-2.md) — Guide a mighty golem through enchanted lands, battling mythical foes in Golem Adventure. Engage in strategic combat, mas
+- [Golem Escape](../games/action/golem-escape.md) — Golem Escape - in this game you have to help this little creature which was trapped by a hunter. Run and jump the obstac
+- [Golem Survival](../games/action/golem-survival.md) — Dive into a colorful world where every corner holds danger and riches. In Golem Survival, armed with only a blade, you m
+- [Goof Runner](../games/action/goof-runner.md) — Goof Runner – a funny game in which you play as a goof) Your task is to escape from the bandit, to collect a lot of coin
+- [Goose Blast Battle](../games/action/goose-blast-battle.md) — Unleash your explosive instincts in Goose Blast Battle! Choose your goose, strategize your moves, and outsmart opponents
+- [Gorbo the Orc: Crown Quest](../games/action/gorbo-the-orc-crown-quest-2.md) — Gorbo the Orc is a bold, funny platform adventure. The Minotaur Warlord stole the golden crown of the Tusk Clan, and Gor
+- [Gozu Adventures](../games/action/gozu-adventures.md) — Gozu Adventures is a 2D platformer where you have to collect all of the cup cakes while avoiding the enemies, flying cre
+- [Gozu Adventures 2](../games/action/gozu-adventures-2.md) — Gozu Adventures 2 is a 2D platformer where you have to collect all of the cup cakes while avoiding the various kinds of 
+- [Grab Them All](../games/action/grab-them-all.md) — Grab Them All is your ticket to thrilling fun as you take down robbers by putting them in the trap! Explore diverse trap
+- [Grand Royale Battle 2022](../games/action/grand-royale-battle-2022.md) — In the face of doomsday and zombies, make yourself stronger in the continuous breakout, and unlock powerful equipment an
+- [Granny at Obby World](../games/action/granny-at-obby-world.md) — Navigate a nightmare in Granny at Obby World, a chilling obstacle course with deadly traps and relentless pursuit. Conqu
+- [Granny Kill Skibidi Toilet Behind](../games/action/granny-kill-skibidi-toilet-behind.md) — Sneak through haunting environments as a stealthy Granny, eliminating bizarre Skibidi toilets lurking in the shadows. Ma
+- [Granny Street Rage Skibidi Toilet](../games/action/granny-street-rage-skibidi-toilet.md) — Experience the hilariously wild Granny Street Rage Skibidi Toilet. Engage in dynamic street battles as a daring camerama
+- [Granny vs Impostor](../games/action/granny-vs-impostor.md) — Granny vs Impostor is an action-shooting game. You Granny hero is got a assignment to save the city. Impostors, Alians a
+- [Graveyard Wars - Two player](../games/action/graveyard-wars-two-player.md) — Are you ready for a competitive game between the Mummy and the Pumpkin King? Yes, someone has to win! Team up with a fri
+- [Gravity Ball Game](../games/action/gravity-ball-game.md) — A small ball and more has abilities like change of gravity. In the game Gravity Ball the ball will go on a journey, and 
+- [Gravity Ball Run](../games/action/gravity-ball-run.md) — The ball can move against gravity. Move the ball up or down by touching the screen. Complete the level without hitting t
+- [Gravity Escape](../games/action/gravity-escape.md) — Gravity Escape challenges your perception with gravity-flipping platforming in a captivating retro-style adventure. Navi
+- [Gravity Frog](../games/action/gravity-frog.md) — Switch the gravity to control your Frog to avoid the obstacles and reach the door. 12 levels to go. Play now!
+- [Gravity Gnome](../games/action/gravity-gnome-2.md) — Prepare for an exhilarating journey with Gravity Gnome! Control platform movements with precise clicks to guide your gno
+- [Gravity Hole](../games/action/gravity-hole.md) — Embrace the chaos as a hungry black hole, devouring everything in your path to grow larger and mightier. Swiftly maneuve
+- [Gravity Moose](../games/action/gravity-moose.md) — Gravity Moose is an old-school gravity runner. Why is this game crazy? You are a running Moose with the ability to chang
+- [Gravity Platform : Colors Game](../games/action/gravity-platform-colors-game.md) — Avoid all obstacles to finish the level ! This game is a very difficult platform game. The difficulty is increasing leve
+- [Great Air Battle](../games/action/great-air-battle.md) — Enter the action air battle of World War1 and be a hero! You fight as a pilot from allied powers or central powers again
+- [Great PubG Air Battles](../games/action/great-pubg-air-battles.md) — THIS IS THE ULTIMATE Modern Air Combat GAME! Dominate the skies and master the world’s most advanced combat aircraft as 
+- [Greedy Rabbit Platformer](../games/action/greedy-rabbit-platformer.md) — Complete the levels by collecting score, eating vegetables and move to door. You have 45 levels to complete.
+- [Greedy Snake Battle  Interesting](../games/action/greedy-snake-battle-interesting.md) — This is a recreational game to test players' hand speed and quick reaction ability. Players need to quickly rotate the s
+- [Greedy Snake : Brain Hole Explosion](../games/action/greedy-snake-brain-hole-explosion.md) — This is a level based puzzle game where players will transform into a greedy snake and challenge different levels.Player
+- [Green Ball Po](../games/action/green-ball-po.md) — Green Ball Po is a 2D platformer where you need to collect Golden keys in order to unlock the door while avoiding spikes
+- [Green Battle](../games/action/green-battle.md) — Leap into the thrilling world of Green Battle, where you guide Handit, the voracious frog, on a bee-devouring frenzy. Ma
+- [Green Chick Jump](../games/action/green-chick-jump.md) — Green Chick Jump is a great run and jump game. Use mouse or finger on touch screen to jump with this little crazy chicke
+- [Green Chicken](../games/action/green-chicken.md) — Help the chicken to explore the. Jump, Jump and jump. Try to get more points
+- [Green Goblin Attack](../games/action/green-goblin-attack.md) — Race through a vibrant world as you dodge fearsome goblins and treacherous monsters. Jump and shoot your way to survival
+- [Green Ninja Collects Apples](../games/action/green-ninja-collects-apples.md) — Leap through vibrant levels as the agile Green Ninja, collecting apples and dodging perilous traps. Precision and quick 
+- [Green Ninja Run](../games/action/green-ninja-run.md) — Hel Green Ninja to get to the finish line. Jump over platforms and avoid enemies and bullets. Kill your opponent and cle
+- [Green Orb Adventure](../games/action/green-orb-adventure.md) — Embark on a thrilling pixelated quest in Green Orb Adventure! Master tight platforming and clever puzzles as you hunt fo
+- [GreenPEAK](../games/action/greenpeak.md) — 🎮 GreenPEAK is an atmospheric online parkour game set on a lush green mountain! 🌿⛰️ Explore scenic paths, streams, for
+- [Grenade Hit Stickman](../games/action/grenade-hit-stickman.md) — Unleash strategic chaos in Grenade Hit Stickman by destroying stickman adversaries with carefully placed grenades. Maste
+- [Grid Guardians](../games/action/grid-guardians.md) — Grid Guardians challenges you to defend your domain with fast-paced action and intuitive controls. Dodge and weave throu
+- [Grim Reaper Graveyard Battle](../games/action/grim-reaper-graveyard-battle.md) — Experience a chilling showdown in Grim Reaper Graveyard Battle. Engage in strategic turn-based combat against a formidab
+- [Grimace And Skibidi Whack A Mole](../games/action/grimace-and-skibidi-whack-a-mole-2.md) — Dive into the zany chaos of Grimace and Skibidi Whack A Mole! Swiftly tap popping Grimaces in a vibrant, fast-paced fren
+- [Grimace Shake Burn or Die](../games/action/grimace-shake-burn-or-die.md) — An epic battle between you and Grimace, burn or be killed! No more Grimace Terror. Its time to put him into eternal flam
+- [Grimace vs giant clown shoes](../games/action/grimace-vs-giant-clown-shoes.md) — Help grimace escape from the giant clown shoe. Collect the coins with Grimaces image on them to break the platforms and 
+- [Grimace Wood Cutter](../games/action/grimace-wood-cutter-2.md) — Dive into Grimace Wood Cutter, where quick reflexes and precision are your allies. Embrace the charm of pixel art as you
+- [Grimage Wall Breaker](../games/action/grimage-wall-breaker.md) — Take on the challenge in Grimace Wall Destroyer! Control your grimace character and focus on destroying walls by clickin
+- [Group Runner Brawl](../games/action/group-runner-brawl.md) — Group Runner Brawl is a frenetic multiplayer game where teamwork collides with chaos! Join forces with friends or go hea
+- [GTA VI: Beat Em Up](../games/action/gta-vi-beat-em-up.md) — GTA VI: Beat Em Up &mdash; a fan-made HTML5 arcade beat &rsquo;em up with illustrated sprite sheets. Fight through Vice 
+- [Guardians of the Dark Dungeon](../games/action/guardians-of-the-dark-dungeon.md) — Are you a true warrior? Put your shooting prowess to the test with war simulator games and delve into the realm of dunge
+- [Guess the Movies!](../games/action/guess-the-movies.md) — Welcome to the Guess the Movie game! Play against other opponents and choose the correct answer. If you choose the wrong
+- [Guitarist Hero free: Guitar hero battle, Music gam](../games/action/guitarist-hero-free-guitar-hero-battle-music-gam.md) — A fun rock style game will test your skills to play the guitar! Guitarist Pro is the ultimate music - rhythm style game 
+- [Gullo](../games/action/gullo.md) — Gullo is a 2D cute little platformer where you have to collect the chocolate donuts while avoiding the enemy monsters, g
+- [Gullo 2](../games/action/gullo-2.md) — Gullo 2 is a 2D platformer where you have to collect the chocolate donuts while avoiding the enemies, flying monsters, g
+- [Gullo 3](../games/action/gullo-3.md) — Gullo 3 is a 2D platformer where you have to collect the chocolate donuts while avoiding the enemy monsters, flying crea
+- [Gum Adventures DX](../games/action/gum-adventures-dx.md) — Gum Adventures is a platform game where you must lead a sticky character towards his loved one. Using his body skills, h
+- [gumball jumb](../games/action/gumball-jumb.md) — Gumball en a assez de faire la queue. Aide-le à récupérer la place qui lui revient : Toujours en tête ! ÉVITE DE FAIRE L
+- [Gumball Jump adventure](../games/action/gumball-jump-adventure.md) — Gumball Jump Force is an online HTML5 game , it's playable in browsers such as safari and chrome. You can play the game 
+- [Gumball: Kebab Fighter](../games/action/gumball-kebab-fighter.md) — It's possible now to play Gumball: Kebab Fighter in your web browser for free at Superkidgames.com and more fun games. I
+- [Gummy Blocks Battle](../games/action/gummy-blocks-battle.md) — Challenge your wits with Gummy Blocks Battle, a captivating puzzle adventure where strategic block placement is key. For
+- [Gun Fest](../games/action/gun-fest.md) — How many guns do you know? Gun Fest is a gun-collecting arcade game. There are many stickman robbers stealing money from
+- [Gun Sprint 3d](../games/action/gun-sprint-3d.md) — Flip the gun and move forward to reach the goal! When you tap the screen, the gun will shoot and flip forward or backwar
+- [Gundam Wing Space Emperor](../games/action/gundam-wing-space-emperor.md) — Pilot a powerful mecha spacecraft through vibrant cosmic battlegrounds in Gundam Wing Space Emperor. With intuitive cont
+- [GunMyTungtungSahur 2Player](../games/action/gunmytungtungsahur-2player.md) — The Tung Tung Sahur brothers are very angry. Both of them are furious with each other now. You must help them in their b
+- [GunnerCraft](../games/action/gunnercraft-2.md) — Dive into GunnerCraft's pixelated world where survival hinges on skillful navigation and strategic shooting. Collect hid
+- [Gunship Strike Helicopter Game](../games/action/gunship-strike-helicopter-game.md) — Gunship Strike Helicopter Battle Fighter Game is an intense action-packed air combat experience designed for players who
+- [Gunwars](../games/action/gunwars.md) — Guns drawn, are you ready to battle with your friend? Grab your weapon and fire away. You need to fight against your fri
+- [Guys Stumble Heroes](../games/action/guys-stumble-heroes.md) — Guys Stumble Heroes is a fast-paced multiplayer party game where chaotic physics and hilarious obstacles collide! Compet
+- [Guys Transform](../games/action/guys-transform.md) — Guys Transform is a free online running game for boys played on PuzzleGame! Change your character with simple clicks on 
+- [Half Life 2: Beat Em Up](../games/action/half-life-2-beat-em-up.md) — Fight through City 17, Route Kanal, Ravenholm, Nova Prospekt and the Citadel in Half-Life 2: Beat Em Up. A Flash-style H
+- [Halloween Ball](../games/action/halloween-ball.md) — This is a game with Halloween costume as the theme. In the game, we are going to participate in the Halloween dance. In 
+- [Halloween Fighters](../games/action/halloween-fighters.md) — Enter a wild Halloween arcade showdown! Choose from 11 monsters and battle through 12 haunted arenas to face three giant
+- [Halloween Island Running](../games/action/halloween-island-running.md) — Happy Halloween! This Halloween special game will show you a good time. Halloween island running is very easy to play. Y
+- [Halloween Knife](../games/action/halloween-knife.md) — Haunt your enemies in Halloween Knife, blending pulse-pounding horror with exhilarating swordplay. Tap to unleash precis
+- [Halloween Runner](../games/action/halloween-runner.md) — Help the witch to collect the pumpkins ! But be careful. Bats, tombstone and scary spiders can kill you. jump or bend ov
+- [Halloween Running Adventure](../games/action/halloween-running-adventure.md) — Halloween Running Adventure is a online game that you can play for free. This is a fun and scarry running game. Tap scre
+- [Halloween Survivor](../games/action/halloween-survivor.md) — Enter a dangerous Halloween world and survive against endless waves of enemies. Your swords orbit around your character 
+- [Hammer Head](../games/action/hammer-head.md) — Dive into Hammer Head's frenetic battles, facing a surprise boss each time. Dodge relentless real-time attacks with only
+- [Hammer Hit](../games/action/hammer-hit.md) — Now is the time to defeat the enemies using your hammer! Target the enemy with your hammer, use the warriors shield to b
+- [Hammer Raytrace 3D](../games/action/hammer-raytrace-3d.md) — Join Hammer Raytrace 3D, where we use up raytrace to attack the enemy and win. Download the free puzzle game and enjoy t
+- [Hamster Escape: Prison](../games/action/hamster-escape-prison.md) — An innocent hamster is trying to escape from prison. Help him, because alone it is very difficult. Solve puzzles and tas
+- [Hana Bot](../games/action/hana-bot.md) — Hana Bot is a 2D Sci-fi themed platformer where you play as a bot who have to collect all of the test tubes while avoidi
+- [Hana Bot 2](../games/action/hana-bot-2.md) — Hana Bot 2 is a 2D Sci-fi themed platformer where you play as a bot who have to collect all of the test tubes while avoi
+- [Handless Millionaire](../games/action/handless-millionaire-2.md) — Dare to risk it all in "Handless Millionaire," where quick reflexes and nerves of steel are your best allies. Snatch cas
+- [Handless Millionaire Unblocked](../games/action/handless-millionaire-unblocked-2.md) — Dare to risk it all in Handless Millionaire Unblocked, a thrilling game of nerve and timing. Snatch cash from beneath a 
+- [Hanuka](../games/action/hanuka.md) — Hanuka is a 2D platformer where you play as a cute athletic girl who have to collect all of the red balls while avoiding
+- [Happy Go](../games/action/happy-go.md) — Constantly find your companions and unite together to avoid obstacles along the way!
+- [Happy Hopper](../games/action/happy-hopper.md) — Happy Hopper is a limited levels made easier game for kids which is a platformer and a bunny goes to jump and clear leve
+- [Happy Obby Land](../games/action/happy-obby-land.md) — Happy Obbi Land is a bright and engaging game for the youngest players, created based on beloved children’s adventures. 
+- [Happy party](../games/action/happy-party.md) — First of all, as a life simulation business class to develop mobile games, its picture is very funny, and there are a va
+- [Hard Craft](../games/action/hard-craft.md) — You will have fun and enjoy in this amazing parkour game, you will have a great parkour experience with the levels that 
+- [Hard Crash: Zombie Rush](../games/action/hard-crash-zombie-rush.md) — The city has fallen to the undead, and only your squad can fight across the bridges to the last safe zone. Lead a crowd 
+- [Hard FLap Game](../games/action/hard-flap-game.md) — The objective of this game is to get as far as possible without touching the edges You can only use 7 consecutive jumps 
+- [Hard Glass](../games/action/hard-glass.md) — In this tap to play game, your job is to tap on the screen to show invisible glass and to save the ball not to fall. You
+- [HARD PLATFORM](../games/action/hard-platform.md) — A new puzzle hardcore game that challenges you! 10 hardcore levels. To complete the levels you will have to strain your 
+- [HardFlex: The Last Flex](../games/action/hardflex-the-last-flex.md) — HardFlex: Last Flex - a game in the genre of hardcore platformer. HardFlex is a meme with dancing in a red bandana. The 
+- [Harry&rsquo;s Flight](../games/action/harry-rsquo-s-flight.md) — Harry&rsquo;s Flight invites players to embark on an enchanting journey through the magical world. In this hypercasual g
+- [Haruz](../games/action/haruz.md) — Haruz is a 2D simple platformer where you need to collect silver coins while avoiding the various kinds of flying robots
+- [Harvy Runner](../games/action/harvy-runner.md) — Harvy Runner is a non stop action running game where you have to keep Little Harvy safe while he collects stars. Clear a
+- [Harvy Runner](../games/action/harvy-runner-2.md) — Join Little Harvy in a thrilling race against danger in Harvy Runner. Navigate a maze of deadly monsters, bombs, and tri
+- [Hasbulla Borgir Adventure](../games/action/hasbulla-borgir-adventure.md) — Hasbulla Borgir Adventure is super fun platform game suitable for all ages. The aim of the game is to help Hasbulla coll
+- [Hasbulla Running Adventure](../games/action/hasbulla-running-adventure.md) — Hasbulla Running Adventure is super fun and free to play online game for kids. You can play Hasbulla Running Adventure o
+- [Hatchling Heroes Arena](../games/action/hatchling-heroes-arena.md) — Hatchling Heroes Arena is a fast and fun arena battle game where your fighters are born from eggs&mdash;and powered up t
+- [HatGuy Run](../games/action/hatguy-run.md) — Guide HatGuy through a perilous forest in this fast-paced auto runner. Jump to dodge obstacles and gather coins to boost
+- [Haton](../games/action/haton.md) — Haton is a 2D platformer where you have to collect oranges while avoiding the spikes, and enemies wearing blue hats and 
+- [Haton 2](../games/action/haton-2.md) — Haton 2 is a 2D platformer where you have to collect oranges while avoiding enemies, flying robots, spikes, and saws in 
+- [Haunted city](../games/action/haunted-city.md) — Haunted city is a horror fighting game, you can play story mode and player 1 vs player 2
+- [Hazard Heights](../games/action/hazard-heights-2.md) — Ascend the perilous world of Hazard Heights, where split-second decisions and timing are crucial. Master the mounting ch
+- [He Likes Darkness](../games/action/he-likes-darkness.md) — Great puzzle-adventure game. Collect stars to open the portal to the next level. Collect coins to unlock new characters.
+- [Health Protection](../games/action/health-protection.md) — Health Protection is a survival journey inside the body, where you play the role of a brave beneficial bacteria warrior,
+- [Healthy girls](../games/action/healthy-girls.md) — This is a very special casual parkour game. Click the screen to control our hostess to break through the barrier. Pay at
+- [Healthy Hero](../games/action/healthy-hero-2.md) — Embark on a colorful adventure where you dodge junk food and harness the power of fresh fruits. Jump, dash, and outsmart
+- [Heart Smash](../games/action/heart-smash.md) — Heart Smash challenges you to channel your inner pixelated archer in a speedy 15-second showdown. With simple mouse cont
+- [Heart Star](../games/action/heart-star.md) — Heart Star is undoubtedly one of the most interesting new arcade games this year. It has addictive gameplay and retro pi
+- [Heart Stars](../games/action/heart-stars.md) — Heart Star is a puzzle game created by Adventure Islands. Change the world around you! Heart Star lets you control two c
+- [Heels Race 3D](../games/action/heels-race-3d.md) — "Get ready for the best high heels game EVER! This shoe game is fun, this runway is epic, this shoe race is for baddies!
+- [Heels Stacky Rush 3D](../games/action/heels-stacky-rush-3d.md) — Here is a running arcade game called Heels Stacky Rush 3D that offers you a chance to collect more heels and overpass bl
+- [Hekov Bot](../games/action/hekov-bot.md) — Hekov Bot is a 2D Sci-fi themed platformer where you have to collect all of the battery cells while avoiding the enemy b
+- [Hekov Bot 2](../games/action/hekov-bot-2.md) — Hekov Bot 2 is a 2D Sci-fi themed platformer where you have to collect all of the battery cells while avoiding the enemy
+- [Heli-Dodger](../games/action/heli-dodger.md) — Experience the thrill of high-speed airborne chases as a helicopter pilot in Heli-Dodger. Master simple controls to dodg
+- [Helicopter Battle Steve 2 Player](../games/action/helicopter-battle-steve-2-player.md) — Get on the helicopter and choose either the blue or red player. Destroy your friend&rsquo;s helicopter to win the game.W
+- [Helicopter Battle Steve 2 Player](../games/action/helicopter-battle-steve-2-player-2.md) — Hop into the cockpit for a thrilling aerial showdown! Choose your color, take flight, and maneuver to outsmart your frie
+- [Helifight](../games/action/helifight.md) — Two tiny pixel helicopter is struggling with each other. One of blue and red helicopters, is under your control and the 
+- [Helix Hover](../games/action/helix-hover.md) — Helix Hover is a fast-paced 3D arcade game where you must ride through a twisting tube without touching the walls!
+- [Helix Jump Ball](../games/action/helix-jump-ball.md) — Please beware of the Most addictive Endless Helix Jump Bouncing ball game ‼️ Swipe the screen to jump ball and fall thro
+- [Helix Skibidi Toilet Jump](../games/action/helix-skibidi-toilet-jump.md) — Helix Skibidi Toilet Jump is a whimsical and unique mobile game that blends the thrill of Helix Jump and the catchy rhyt
+- [Hell Escape](../games/action/hell-escape.md) — Embark on a thrilling journey through elaborate mazes in Hell Escape. Rely on quick reflexes to dodge unpredictable trap
+- [Helle Bot](../games/action/helle-bot.md) — Helle Bot is a 2D Sci-fi themed platformer where you play as a bot who have to collect precious red jewels while avoidin
+- [Helle Bot 2](../games/action/helle-bot-2.md) — Helle Bot 2 is a 2D Sci-fi themed platformer where you play as a bot who have to collect precious red jewels while avoid
+- [Hero adventure kill or die](../games/action/hero-adventure-kill-or-die.md) — Hero adventure kill or die is a shooting action game. This game will take you through series of classic levels, various 
+- [Hero Bounce](../games/action/hero-bounce.md) — Hero Bounce is an engaging online platformer game that blends elements of classic games like Super Mario with fresh mech
+- [Hero Buddy](../games/action/hero-buddy.md) — Embark on a daring rescue mission with Hero Buddy! Join Jackson on an action-packed quest to save Bruno, navigating trea
+- [Hero Cant Fly](../games/action/hero-cant-fly.md) — This hero cant fly, you need to help him jump the steps, and always pay attention to the flying boxes to avoid being sma
+- [Hero Inc 2](../games/action/hero-inc-2.md) — Hero Inc 2 is a unique casual game of hero creation. The Earth is suffering from the invasion of alien species, the peop
+- [Hero Inc 2 Online](../games/action/hero-inc-2-online.md) — Hero Inc 2 is a unique casual game of hero creation. The Earth is suffering from the invasion of alien species, the peop
+- [Hero Jump City Nights](../games/action/hero-jump-city-nights.md) — Hero Jump: City Nights is an addictive arcade platformer where you control a hero jumping through a neon-lit cityscape! 
+- [Hero Monster Battle Game](../games/action/hero-monster-battle-game.md) — Welcome to Incredible Hero Monster Battle Games, an action-packed superhero fighting game where you become a powerful he
+- [Hero Runner 2D Endless Run](../games/action/hero-runner-2d-endless-run.md) — Dash through ever-changing landscapes, avoiding trains and collecting coins to unlock new heroes in this thrilling endle
+- [Hero's Leap](../games/action/hero-s-leap.md) — Leap through perilous landscapes in Hero's Leap, a thrilling adventure of timing and precision. Navigate treacherous spi
+- [Hero Tales](../games/action/hero-tales.md) — A fantasy world, filed with monsters and magnificent views are waiting for you. Incarnate a charismatic and valiant char
+- [Hero Transform Run](../games/action/hero-transform-run.md) — Superheroes accumulate energy by constantly upgrading themselves, and at the end of the level they must quickly defeat d
+- [Hero Transform Run](../games/action/hero-transform-run-2.md) — Experience the thrill of shape-shifting in Hero Transform Run! Swiftly adapt hero forms to overcome dynamic obstacles, s
+- [Heroes Assemble](../games/action/heroes-assemble.md) — Enjoy an exciting mix of running and arcade action in Heroes Assemble. You will be transformed into a hero in a world fu
+- [Heroes Assemble](../games/action/heroes-assemble-2.md) — Dive into Heroes Assemble 2, where exhilarating arcade action meets strategic hero battles. Collect and upgrade powerful
+- [Heroes Battle](../games/action/heroes-battle.md) — Heroes Battle features: - multiple levels - upgrades - good graphics
+- [HEROES BEWARE](../games/action/heroes-beware.md) — Heroes Beware is a merge-defense game where you play the villains side. Hatch monster eggs onto the rune grid, drag two 
+- [Heroes Inc!](../games/action/heroes-inc.md) — Craft your army of tech-infused heroes and lead them into strategic battles in a futuristic stickman universe. Click and
+- [Heroes Inc 3D](../games/action/heroes-inc-3d.md) — Heroes Inc. is a cool superhero platform action game in which you have to create and train your own little stickman hero
+- [Heroes of Arena](../games/action/heroes-of-arena.md) — Heroes of the arena” is an exciting game where everyone can become a real hero. Here you can fight with friends, pump up
+- [Heroes vs Monsters: Idle RPG](../games/action/heroes-vs-monsters-idle-rpg.md) — Heroes vs Monsters: Idle RPG is a clicker where you assemble a team of heroes and send them into an endless battle again
+- [Heroic Barrage Easy](../games/action/heroic-barrage-easy.md) — Heroic Barrage Easy is an easy to score casual action game where a player animal has a gun that shoots down the bugs com
+- [Hetto](../games/action/hetto.md) — Hetto is a 2D platformer where you have to collect all of the bottles of magic potion while avoiding the enemies, fire, 
+- [Hetto 2](../games/action/hetto-2.md) — Hetto 2 is a 2D platformer where you have to collect all of the bottles of magic potion while avoiding the enemies, flyi
+- [Hex Wars](../games/action/hex-wars.md) — Hex Wars throws you into a 3D strategy world where balance is key. Harvest resources, construct vital structures, and ex
+- [hexa master](../games/action/hexa-master-2.md) — Hexa Master Dive into the colorful world of Hexa Master, a dazzling hexagonal match-puzzle game that&rsquo;s perfect for
+- [Hexa Two](../games/action/hexa-two.md) — Hexa Two is a fun 3D running and jumping game for 1 Player and 2 Players! Play this game online by yourself against lots
+- [Hexoboy](../games/action/hexoboy.md) — Meet Hexoboy, a new cool free-to-play platformer game with plenty of adventures, puzzles, and fun. Use your skills and w
+- [Hidden Hollow](../games/action/hidden-hollow.md) — Uncover the secrets of Hidden Hollow, where every step is a nail-biting challenge. Skillfully dodge perilous traps and t
+- [Hide And Seek Blue Monster](../games/action/hide-and-seek-blue-monster.md) — Enter a world full of mystery and fun. In Hide And Seek: Blue Monster, you will experience a unique hide-and-seek advent
+- [Hide N Seek 3D](../games/action/hide-n-seek-3d.md) — There are people hidden in the building. Explore the place, look behind doors, inside closets and search for them. But b
+- [Hide Yellow Monster Survivor](../games/action/hide-yellow-monster-survivor.md) — In Hide Yellow Monster Survivor the players objective is to evade the multicolored monster and avoid capture. The game c
+- [High Heels Collect Run](../games/action/high-heels-collect-run-2.md) — Stride through vibrant worlds as you collect high heels to scale obstacles and showcase your style in High Heels Collect
+- [High Heels - Impossible Walk](../games/action/high-heels-impossible-walk.md) — Get ready for the best high heels game EVER! This shoe game is fun, this runway is epic, this shoe race is for baddies! 
+- [High Heels Online](../games/action/high-heels-online.md) — Model Super High and Model Walk Contest is about to start. The beautiful girls started the final sprint training! The hi
+- [High Heels Online New](../games/action/high-heels-online-new.md) — High Heels Online is undoubtedly the most interesting new arcade games this year. It has addictive level design and 3D a
+- [High Heels Run!](../games/action/high-heels-run.md) — Are you ready for the best high heels game EVER? Watch out for the walls! The taller your heels are, the easier it will 
+- [High Heels running game](../games/action/high-heels-running-game.md) — Get ready for the most amazing, yet interesting high heels running game of 2021. high heels games for girls are running,
+- [High Heels Running Game- High Shortcut Heel Run](../games/action/high-heels-running-game-high-shortcut-heel-run.md) — Let's get into the most amazing idea of high tower heels stack to face the high heels challenges awaits you. A lot of di
+- [High Heels running game Online](../games/action/high-heels-running-game-online.md) — Heels Run is a top trending game you don’t want to miss launching on your own account. Have fun!
+- [High Heels Walk](../games/action/high-heels-walk.md) — Ready to have fun? Brand new high heels girl runner game with easy gameplay where your aim is to make a high heels by co
+- [High Pizza - Fun & Run 3D Game](../games/action/high-pizza-fun-run-3d-game.md) — Serve your guests with delicious pizza! High Pizza is a fun casual game with addictive gameplay and 3D art style. You ne
+- [High Shoes Boots](../games/action/high-shoes-boots.md) — The bear wants to get to the treasure chest, but for this he will need to overcome the route through the territory fille
+- [High to Jump](../games/action/high-to-jump.md) — High to Jump - A Casual Game that only provides comfort for gamers and sharpens one's focus to find the largest number o
+- [Higher Heels](../games/action/higher-heels.md) — The taller your heels are, the easier it will be to escape from the walls. Different obstacles await you at each level! 
+- [Hippo Detective](../games/action/hippo-detective.md) — Hippo Detective is a very fun game. The city is full of crises. Several crimes were reported to detective Hippo today. S
+- [Hippo vs Cow Monster](../games/action/hippo-vs-cow-monster.md) — Hippo vs Cow Monster is a 2D cute little platformer where you have to collect all of the watermelons while avoiding the 
+- [Hippo vs Cow Monster 2](../games/action/hippo-vs-cow-monster-2.md) — Hippo vs Cow Monster 2 is a 2D cute little platformer where you have to collect all of the watermelons while avoiding th
+- [HissHop](../games/action/hisshop.md) — HissHope is a dangerous games of snakes. LOL! They never bite you. You are just supposed to click on them as they come o
+- [Hit And Run: Solo Leveling](../games/action/hit-and-run-solo-leveling.md) — In Hit And Run: Solo Leveling, you turn into a brave adventurer who leveling your way through levels filled with traps a
+- [Hit And Run Solo Leveling](../games/action/hit-and-run-solo-leveling-2.md) — Embark on a thrilling journey as a stickman warrior, mastering parkour and combat to cleanse a monster-infested town. Wi
+- [Hit Animals](../games/action/hit-animals.md) — Dive into the fast-paced world of Hit Animals, where quick reflexes and keen observation are your allies. Capture valuab
+- [Hit Em Up](../games/action/hit-em-up-2.md) — Take aim in "Hit Em Up," a thrilling blend of puzzle and arcade action. As a soldier battling a zombie outbreak, strateg
+- [Hit Master 3D: Knife Assassin](../games/action/hit-master-3d-knife-assassin.md) — Hit Master 3D Knife Assassin has become the legend of the assassin, Do you want to be an intelligent and vigilant player
+- [hit war](../games/action/hit-war.md) — two man war
+- [Hog Rider](../games/action/hog-rider.md) — This is a simple game which let's you feel how it's like to be a Hog Rider. I'm sure you always dreamed about your own H
+- [Hohoman vs Chu](../games/action/hohoman-vs-chu.md) — Hohoman vs Chu is a 2D cute little platformer where you have to collect all of the apples while avoiding the enemies, sp
+- [Hohoman vs Chu 2](../games/action/hohoman-vs-chu-2.md) — Hohoman vs Chu 2 is a 2D cute little platformer where you have to collect red apples while avoiding the enemies, flying 
+- [Hole Fighters](../games/action/hole-fighters.md) — Trunk Shot is an exciting mobile puzzle game that challenges your strategic thinking and precision. In this addictive ad
+- [Hole Run 3D](../games/action/hole-run-3d.md) — Hole Run 3D is an addictive online puzzle game. Kids can play this game for free. Do you know black holes? It can absorb
+- [holey battle royale](../games/action/holey-battle-royale.md) — Holey battle royale game where you consume various items and opponents with smaller holes. You will grow bigger as you s
+- [Home Rush The Fish Fight](../games/action/home-rush-the-fish-fight.md) — Engage in an epic battle between Human and The Fish. Your task is straightforward: drag and hold to guide the Human to t
+- [Homeless Battle Royale](../games/action/homeless-battle-royale.md) — Survive in a dystopian urban jungle in Homeless Battle Royale. Outsmart foes in adrenaline-pumping combat, by forming al
+- [Honey pickers](../games/action/honey-pickers.md) — This is a leisure game for raising bees and collecting honey. The content of the game is to collect honey, sell the coll
+- [Honey Thief](../games/action/honey-thief.md) — The Bear want some honey. So you need to to throw the boomerang to bees and take the honey. Тhe boomerang will come back
+- [Hook Arena 3D](../games/action/hook-arena-3d.md) — Hook Arena is an action-packed game where you battle the opponents on opposite sides of a river using unique hook weapon
+- [Hook King Runner](../games/action/hook-king-runner.md) — Hook King Runner is a physics-based runner where you tap, swing, and time your jumps to master wild obstacle courses. Us
+- [Hook Throw 3D](../games/action/hook-throw-3d.md) — You are a brave fighter who single-handedly rushes at opponents, armed to the limit, and they are also given a special t
+- [Hoolo](../games/action/hoolo.md) — Hoolo is a 2D platformer where you have to collect all of the potato chips packets while avoiding the enemies, flying cr
+- [Hoona](../games/action/hoona.md) — Hoona is a 2D platformer where you have to collect the golden keys while avoiding the enemies, saws, spikes and reach th
+- [Hoona 2](../games/action/hoona-2.md) — Hoona 2 is a 2D platformer where you have to collect the golden keys while avoiding the enemies, flying bots, saws, spik
+- [Hoov vs Doov](../games/action/hoov-vs-doov.md) — Hoov vs Doov is a 2D platformer where you have to collect Golden keys in order to unlock the Exit door while avoiding re
+- [Hop Hop](../games/action/hop-hop.md) — Hop-Hop &ndash; Fun Jumping Game for Kids | Endless Arcade Looking for a dynamic endless runner for toddlers? Hop-Hop is
+- [Hop To Rescue](../games/action/hop-to-rescue-2.md) — Hop To Rescue is a fun and challenging platformer adventure where you help the hero rescue animals trapped in cages. Jum
+- [Hop to Rescue](../games/action/hop-to-rescue-3.md) — Leap into adventure with Hop to Rescue, a thrilling platformer where you save trapped animals. Master your timing, navig
+- [Hopeless Island Survival Hero](../games/action/hopeless-island-survival-hero-2.md) — Battle monstrous creatures in "Hopeless Island Survival Hero" as you navigate a dangerous island. Utilize your combat sk
+- [Hopless](../games/action/hopless.md) — Leap into action with Hopless, a challenging precision platformer where the ground is your enemy. Navigate through intri
+- [Hopnova](../games/action/hopnova.md) — Hopnova is a fastpaced vertical adventure where every jump takes you closer to the stars. Guide your little explorer acr
+- [Hoppy Harvest](../games/action/hoppy-harvest.md) — Leap into colorful orchards with your lively rabbit companion in Hoppy Harvest. Navigate lush landscapes, collect juicy 
+- [Hoppy Rushy](../games/action/hoppy-rushy.md) — Welcome to Hoppy Rushy, a Pixel Platform Game! Tap or click to jump over platforms and avoid falling from the edges. Can
+- [Horik Viking](../games/action/horik-viking.md) — Horik Viking is a super fun and challenging 2D side-scroller game in the same style as blockbuster games like Super Mari
+- [Horik Viking Html5 Game](../games/action/horik-viking-html5-game.md) — Horik Viking is a super fun and challenging 2D side-scroller game in the same style as blockbuster games like Super Mari
+- [Horizon: Flight Into the Light](../games/action/horizon-flight-into-the-light.md) — Glide toward the setting sun: weave between white towers, collect triangles and catch blue crystals that lift the sun ba
+- [Horn Hopper](../games/action/horn-hopper.md) — Charge through wild terrains atop a rhino in Horn Hopper, where every jump and dodge counts. As obstacles intensify, you
+- [Horror Ban Ban 1 2 Player Parkour](../games/action/horror-ban-ban-1-2-player-parkour.md) — The terrifying siblings need to escape the haunted house. They must face their fears and collect what they need to get a
+- [Horror Ban Ban 1-2 Player Parkour](../games/action/horror-ban-ban-1-2-player-parkour-2.md) — Navigate a haunted house as one of two siblings, each with unique goals. Avoid deadly traps and collect critical items, 
+- [Horror City Minecraft Survive](../games/action/horror-city-minecraft-survive.md) — Enter a chilling world of suspense and danger in Horror City Minecraft Survive, an online survival game set in a hauntin
+- [Horror Hide And Seek Game](../games/action/horror-hide-and-seek-game.md) — Horror Hide And Seek is a fun online hide-and-seek adventure game. Who will be captured and sacrificed by the angry ghos
+- [horror run](../games/action/horror-run.md) — You have to escape from a terrifying abandoned psychiatric hospital full of monsters and traps. Can you make it out of t
+- [Horse Run 3D](../games/action/horse-run-3d.md) — Horse Run 3D is the best free running game where you can meet your new best horse friend and go for a run!
+- [Horse Run Adventure](../games/action/horse-run-adventure.md) — Choose your horse and embark on an endless adventure! Horse Run Adventure is a thrilling horse racing game. Youll be lea
+- [Hovercraft Flying 3D](../games/action/hovercraft-flying-3d.md) — Hovercraft Flying 3D is an attractive game that you can not miss it. Click the screen to control the hovercraft to reach
+- [Huge Slap Run](../games/action/huge-slap-run-2.md) — Dash through vibrant platforms in Huge Slap Run, avoiding sharp cacti and perilous traps. Sprint with finesse, collect p
+- [Huggy Army Commander](../games/action/huggy-army-commander.md) — Huggy Army Commander is an interesting game for the person who wants to manage the army. Collect the military cards to s
+- [Huggy Love and Rescue](../games/action/huggy-love-and-rescue.md) — Have fun with this entertaining platform and puzzle game Huggy Love and Rescue is a casual game solve the different puzz
+- [Huggy Survival Parkour](../games/action/huggy-survival-parkour.md) — Turn into that blue monster everyone loves and help him finish the blocky track. You must be the best in these extremely
+- [Huggy Survival Parkour](../games/action/huggy-survival-parkour-2.md) — Leap into the thrilling world of Huggy Survival Parkour, where you're Huggy, the adored blue monster, in a pixelated maz
+- [Huggy Wuggy Fight Skibidi Toilet](../games/action/huggy-wuggy-fight-skibidi-toilet.md) — Huggy Wuggy and Killy Willy fight Skibidi Toilet in Poppy Playtime. Grab all rifle that cameramen has placed around, and
+- [Huggy Wuggy Run](../games/action/huggy-wuggy-run.md) — Help Hagi Wagi and Kissi Misi overcome all obstacles and reach the finish line!
+- [Hugi Wugi 2](../games/action/hugi-wugi-2-2.md) — Outsmart the charming yet spooky blue creature in Hugi Wugi 2. Navigate a maze to reach safety, using quick reflexes and
+- [Hugi Wugi](../games/action/hugi-wugi-3.md) — Race against time in Hugi Wugi, a pixelated escape game brimming with suspense. Outrun a daunting monster and find the e
+- [Hugie Wugie Runner](../games/action/hugie-wugie-runner.md) — A funny creature named Hugie Wugie will learn to ride a bike today. You in the game Hugie Wugie Runner will help him in 
+- [Hula Hoops Rush](../games/action/hula-hoops-rush.md) — Pick up the right color hula hoops and walk on! Avoid the lava pool, try to pick up as many hula hoops on the road will 
+- [Hulk Smash](../games/action/hulk-smash.md) — The hulk is very angry. It smashes cars passing through the red light. If you hit at the right time, you can smash the c
+- [Human Gun](../games/action/human-gun.md) — Human Gun is a popular game recently. Your goal is to collect stickmen to become the cooler weapons on the road. Besides
+- [Human Leap Evolution](../games/action/human-leap-evolution.md) — Want a wild evolution adventure from caveman to futuristic super warrior? Human Leap: Evolution is a high-energy action 
+- [Human Playground](../games/action/human-playground.md) — Welcome to Human Playground: Battle Arena! Carefully control your character to strike the right spots on your opponent&r
+- [Human Race](../games/action/human-race.md) — Human Race is an obstacle course control game. Move in 3D Human Race !A new kind of experience, very easy controls !Move
+- [Human Stickman Fighter](../games/action/human-stickman-fighter.md) — Unleash chaos in Human Stickman Fighter as you master shooting and strategy. Clear out obstacles, upgrade weaponry, and 
+- [Human Vehicle Battle](../games/action/human-vehicle-battle.md) — Join a thrilling ride in Human Vehicle Battle, where you gather and command an eclectic mix of vehicles. Strategically n
+- [Human Vehicle Run](../games/action/human-vehicle-run-2.md) — Embark on an exhilarating parkour adventure in Human Vehicle Run, where your stickman crew evolves into extraordinary ve
+- [Humans Playground Sandbox](../games/action/humans-playground-sandbox.md) — Unleash your creativity in Humans Playground Sandbox, a physics-driven virtual laboratory. Craft, destroy, and manipulat
+- [Humi Bot](../games/action/humi-bot.md) — Humi Bot is a 2D Sci-Fi themed platformer where you have to collect orbs while avoiding the enemy robots, saws, spikes a
+- [Humi Bot 2](../games/action/humi-bot-2.md) — Humi Bot 2 is a 2D Sci-Fi themed platformer where you have to collect yellow orbs while avoiding spikes, saws, enemy rob
+- [Hungry Bird](../games/action/hungry-bird.md) — Hungry Bird is a nice game tap to fly up, and eat as many fruits as possible
+- [Hungry Birds](../games/action/hungry-birds.md) — Hungry Bird is a nice game tap to fly up, and eat as many fruits as possible
+- [Hungry Lion](../games/action/hungry-lion.md) — The Hungry Lion online platformer is an endless runner game in which you play as a lion who is very hungry. The goal of 
+- [Hungry Rabbit](../games/action/hungry-rabbit.md) — Hungry Rabbit Arcade is an online arcade game full of fun and action. In our arcade games, hungry rabbits try to jump hi
+- [Hungry Shark](../games/action/hungry-shark-2.md) — Embark on a thrilling underwater adventure as a ravenous shark! Explore the depths, hunt relentlessly, and satisfy your 
+- [Hungry Shark Evolution 2](../games/action/hungry-shark-evolution-2.md) — Hungry Shark is back in this epic arcade game where you control a monstrous sea beast! Dive into an ocean adventure that
+- [Hungry Shark Vs Skibidi](../games/action/hungry-shark-vs-skibidi-2.md) — Dive into an oceanic adventure in Hungry Shark Vs Skibidi, where swift reflexes are key. Maneuver your shark to feast an
+- [Hungry Sheep](../games/action/hungry-sheep.md) — Hungry Sheep is an online arcade game that is sure to engage and entertain players of all ages. The objective of the gam
+- [Hungry Squirrel](../games/action/hungry-squirrel.md) — Hungry squirrel action game! Play now for free. From your computer or any device! - Hungry Squirrel Action Games. Hungry
+- [Hungry Warrior Fight](../games/action/hungry-warrior-fight.md) — This game is mobile-ready on the browser. Introducing the ultimate street combat game, Hungry Warrior Fight: a fresh gam
+- [Hungry Warriors](../games/action/hungry-warriors.md) — Hungry Warriors thrusts you into a relentless urban arena where every punch is a calculated move. Feel the tension with 
+- [Hunter and Survivor](../games/action/hunter-and-survivor.md) — Hunter and Survivor is an intense hide-and-seek game where you play as either the Hunter or the Survivor with completely
+- [Hunter Steve](../games/action/hunter-steve.md) — Hunter Steven needs to hunt down all the monsters. Take your weapon and hunt down all the monsters. Be careful, some mon
+- [Hunter Tung Tung Sahur](../games/action/hunter-tung-tung-sahur-2.md) — Fend off hordes of Tung Tung Sahur monsters with quick reflexes and sharp aim. Navigate the chaotic world, obliterate th
+- [Hunting Master](../games/action/hunting-master-2.md) — A strategic hunting game where power decides victory! Choose your wolf targets and compare your attack power with them&m
+- [Hunting - Submarine Attack](../games/action/hunting-submarine-attack.md) — Dive into high-stakes underwater warfare as a strategic submarine captain. Navigate perilous seas, target enemy warships
+- [HUNTMAN](../games/action/huntman.md) — Master the art of archery in this fast-paced stickman battle! Take down waves of calculated enemies using legendary bows
+- [HydraSword](../games/action/hydrasword.md) — This game HydraSword is about playing on land and water and fighting the creatures with your Sword. Lady Warrior goes on
+- [Hyper Pixel](../games/action/hyper-pixel.md) — Dart through dynamic neon tunnels as a lively pixel in Hyper Pixel. With every exhilarating run, dodge volatile obstacle
+- [Hyper Run 3D](../games/action/hyper-run-3d.md) — Roll Run 3D is New Unique Concept with Rolling , Just Tap to Roll Ball and Reach Destination , Be Aware with Obstacles .
+- [HyperDoll](../games/action/hyperdoll.md) — Super stickman battle is waiting for you with HyperDoll. You have to destroy the enemies with the superhero who can use 
+- [I Am Cake No Cats](../games/action/i-am-cake-no-cats.md) — **I Am Cake No Cats** is a fun and challenging arcade game where a cute cat bounces like a ball through a world full of 
+- [I hde](../games/action/i-hde.md) — Unleash your reflexes in "I hde," a thrilling clicker game where sharp taps and swift precision are your allies. Battle 
+- [I Want Ice Cream](../games/action/i-want-ice-cream.md) — Dive into the frosty fun of I Want Ice Cream ! In this delightful adventure, you take on the role of an adorable penguin
+- [I Want Ice Cream](../games/action/i-want-ice-cream-2.md) — Guide a lovable penguin through Antarctica's icy landscapes in search of tasty ice cream treats. With charming graphics 
+- [I want to delete this game](../games/action/i-want-to-delete-this-game.md) — I want to delete this game I want to delete this game I want to delete this game I want to delete this game I want to de
+- [IbraNinja 3d Game](../games/action/ibraninja-3d-game.md) — Unleash your inner ninja in the vibrant IbraNinja 3D Game! Slice through flying fruits with fluid swipes, mastering prec
+- [Ice Ball Run](../games/action/ice-ball-run.md) — Ice Ball Run is an online platformer game that challenges players to navigate through a series of levels by controlling 
+- [Ice Cream Stack Runner](../games/action/ice-cream-stack-runner.md) — Ice Cream Stack Runner is a fun game combining parkour with everyones favorite food: ice cream.Run through a world full 
+- [Ice Cube Man](../games/action/ice-cube-man.md) — Ice Cube Man is a 2D cute little platformer where you have to collect all of the bags containing ice cubes while avoidin
+- [Ice Cube Man 2](../games/action/ice-cube-man-2.md) — Ice Cube Man 2 is a 2D cute little platformer where you have to collect all of the bags containing ice cubes while avoid
+- [Ice Man 3D](../games/action/ice-man-3d-2.md) — Freeze and shatter your foes in Ice Man 3D, where you'll battle thugs with chilling powers. Master dodging and timing, u
+- [Ice Platformer Pro](../games/action/ice-platformer-pro.md) — Navigate through icy worlds in Ice Platformer Pro, a vibrant 2D adventure where you jump and shoot your way past diverse
+- [Ichikas Adventure](../games/action/ichikas-adventure.md) — Ichikas Adventure is a 2D anime themed platformer where you play as Anime girl called Ichika who have to collect all of 
+- [Ichikas Adventure 2](../games/action/ichikas-adventure-2.md) — Ichikas Adventure 2 is a 2D anime themed platformer where you play as Anime girl called Ichika who have to collect all o
+- [Idle Gang](../games/action/idle-gang.md) — In this idle/incremental game, you will build your gang, lead fighters to conquer the whole city. Beat your rivals, take
+- [Idle Gladiator](../games/action/idle-gladiator.md) — Defeat all enemies and be a winner! Connect 3 or more element with same element type, if elements that are connected are
+- [Idle Hatchimals Eggs](../games/action/idle-hatchimals-eggs.md) — Idle Hatch Eggs is an idle or incremental game where the primary objective is to hatch eggs and manage the creatures or 
+- [Idle Lumber Hero](../games/action/idle-lumber-hero-2.md) — Dive into the life of a woodsman in Idle Lumber Hero. Chop trees, sell wood, and invest strategically in upgrades to boo
+- [Idle Medieval Village](../games/action/idle-medieval-village.md) — Create a thriving medieval community as you strategically upgrade villagers and recruit new talent. Watch your village b
+- [IDLE Warrior Tales RPG](../games/action/idle-warrior-tales-rpg.md) — Fight order of orcs! Are you looking for an PVE AFK RPG game with idle leveling, many different skills, cool heroes, and
+- [Immune System Command](../games/action/immune-system-command-2.md) — Dive into the microscopic world of Immune System Command, where adrenaline-fueled clicker mechanics let you battle swarm
+- [Impossible Line](../games/action/impossible-line.md) — Impossible Line is puzzle game where you need to jump over platforms, to collect coins and to avoid different obstacles 
+- [Impossible Parkour 3D](../games/action/impossible-parkour-3d.md) — Are you ready for the impossible challenges and levels in this Impossible Parkour game? Every level has its unique exper
+- [Impossible Platform Game](../games/action/impossible-platform-game.md) — Help the little Dasher to goto the exit door to save him in this unique platform adventure. There will be many enemies a
+- [Impossible Run](../games/action/impossible-run.md) — This Game awesome and challenging endless runner
+- [Impossible To Run](../games/action/impossible-to-run.md) — This Game awesome and challenging endless runner
+- [Imposter Mission](../games/action/imposter-mission.md) — Classic pixel-style graphics, retro horizontal gameplay, rich and interesting level design. You need to control three di
+- [Imposter Run](../games/action/imposter-run.md) — Run Imposter is a fun running game. In run imposter, you protect yourself from falling objects from space. It's a simple
+- [Imposter Run Jump](../games/action/imposter-run-jump.md) — Controls the Imposter jumping over wooden bridges, collect coins tab to jump and avoid the bomb , try to collect many co
+- [Impostor Assassin](../games/action/impostor-assassin.md) — Get ready for an action-packed adventure in Impostor Assassin. With the assassin spy on the spaceship, destroy them all 
+- [Impostor Dominion](../games/action/impostor-dominion.md) — Upgrade your towers, outsmart tricky enemies, and claim every stronghold on the battlefield! Strategy meets intense conq
+- [Impostor Killer Among us](../games/action/impostor-killer-among-us.md) — Your mission will be sabotage the ship, sneak through vents, deceive, and frame others to remain anonymous and kill off 
+- [In Orbit Challenge](../games/action/in-orbit-challenge.md) — Hyper-casual fun game with minimalist visual and procedural difficulty. Jump between the platforms to get a better score
+- [In Orbit Game](../games/action/in-orbit-game.md) — Hyper-casual fun game with minimalist visual and procedural difficulty. Jump between the platforms to get a better score
+- [Indiara and the Skull Gold](../games/action/indiara-and-the-skull-gold.md) — Get the golden skull and escape from the roller and go to end. Collect the all golden skulls to complete the game. Enjoy
+- [Indiara and the Skull Gold Online](../games/action/indiara-and-the-skull-gold-online.md) — The adventure is starting! Meet and play with Indiara, a girl who loves to collect ancient artifacts. Indiara now have t
+- [Inferno Strike](../games/action/inferno-strike.md) — Inferno Strike is a high-speed endless shooter where reflexes are your best ally. Navigate intense levels, smash crates 
+- [Infinite Ascent](../games/action/infinite-ascent.md) — Embark on an exhilarating vertical journey in Infinite Ascent, where timing and perception are key. Navigate through pla
+- [Infinite Bike Trials](../games/action/infinite-bike-trials.md) — Infinite Bike Trials come with awesome environment and 200 hard levels, your mission is to complete each level, you can 
+- [INFINITE BLOCK RUNNER](../games/action/infinite-block-runner.md) — Tap to switch places and avoid spikes, try to reach the highest score
+- [Infinite Line Runner Game](../games/action/infinite-line-runner-game.md) — Infinite Line Runner Game is a fast-paced and addictive runner game that challenges your reflexes, focus, and timing. In
+- [Infinite Slice](../games/action/infinite-slice.md) — Wield twin blades and dive into thrilling, strategic battles in Infinite Slice. Master movement, dodge attacks, and defe
+- [Infinite Wander](../games/action/infinite-wander.md) — Embark on a perilous journey in Infinite Wander, navigating obstacles and fiery dangers with strategic jumps and precise
+- [Infinity Cat Adventure Runner](../games/action/infinity-cat-adventure-runner-2.md) — Embark on a dynamic journey with Infinity Cat Adventure Runner, where daring cats sprint and leap through mesmerizing wo
+- [Infinity Tank Battle](../games/action/infinity-tank-battle-2.md) — Engage in exhilarating tank battles across 610 intricate maps in Infinity Tank Battle. Strategically defend your base, o
+- [Infinity Trail](../games/action/infinity-trail.md) — Protect the planet from falling asteroids! • The planet can only take 2 hits before crashing down • How many points can 
+- [Inka Nation](../games/action/inka-nation.md) — Embark on a thrilling journey in Inka Nation, a 2D platformer where you traverse scenic landscapes for justice and reven
+- [Ino Valentines](../games/action/ino-valentines.md) — Ino Valentines is a 2D romantic platformer where you play as an anime boy who have to collect all of the heart-shaped ch
+- [Ino Valentines 2](../games/action/ino-valentines-2.md) — Ino Valentines 2 is a 2D romantic platformer where you play as an anime boy who have to collect all of the heart-shaped 
+- [Inoi](../games/action/inoi.md) — Inoi is a 2D platformer where you need to collect water containers while avoiding the cactus enemies in the desert area.
+- [Inoi 2](../games/action/inoi-2.md) — Inoi 2 is a 2D simple platformer where you need to avoid green, yellow and red cactus of different sizes and reach the r
+- [Insect World War Online](../games/action/insect-world-war-online.md) — Insect World War Online is one of an epic casual &amp; strategy animal games, cute bugs become fighters of different pro
+- [Inuko](../games/action/inuko.md) — Inuko is a 2D platformer where you have to collect all of the orange ice cream while avoiding the enemies, spikes, saws 
+- [Inuko 2](../games/action/inuko-2.md) — Inuko 2 is a 2D platformer where you have to collect all of the orange ice cream while avoiding the enemies, flying crea
+- [Invaders War](../games/action/invaders-war.md) — “Invaders War” is a game inspired by one of the first games ever created, Space Invaders. A shoot-up style game, where t
+- [Iron Man Parkour](../games/action/iron-man-parkour.md) — This is a strategy game with excellent playing methods. This game is launched in the card game mode. Many powerful chara
+- [Iron Man Plane War](../games/action/iron-man-plane-war.md) — The city is under air attack. Ironman has to destroy the enemy planes. let's destroy the enemies, save the city
+- [Iron Man War](../games/action/iron-man-war.md) — Superhero war games are an amazing way to perform a secret agent duty. Many flying superhero adventures have been comple
+- [Iron pink](../games/action/iron-pink.md) — Iron Pink is a fast-paced, hilarious fighting game where you play as a fearless pig defending against an endless onslaug
+- [Iron Snout - Fighting Game](../games/action/iron-snout-fighting-game.md) — Iron Snout is an online fighting game where you play as a pig, and have to fight the wolves. Punch, kick and flip your w
+- [IRRATIONAL KARATE GAME ONLINE](../games/action/irrational-karate-game-online.md) — Knock out your opponent in Irrational Karate! In this 3D fighting game, you can hit, kick and dodge during fights. Perfo
+- [Irresponsible ninja](../games/action/irresponsible-ninja.md) — The unreliable ninja, forgot how to fly, can you help him go further?
+- [Island Battle 3D](../games/action/island-battle-3d.md) — Jump and survive in Island Battle 3D, a 3D IO game that will keep you on your toes. You will play as a jumper who must a
+- [Island Of Treasures](../games/action/island-of-treasures.md) — Embark on a thrilling quest in "Island Of Treasures," where you're a daring pirate escaping an island filled with riches
+- [Island runner game](../games/action/island-runner-game.md) — Island runner game - a game with beautiful graphics in anime style, plunge into the relaxing atmosphere of the ocean whi
+- [iSlash Heroes](../games/action/islash-heroes.md) — ADDICTIVE GAMEPLAY Be Warned! iSlash Heroes features the same addictive slashing gameplay that kept millions of ninjas a
+- [Istint](../games/action/istint.md) — Tap into your instincts with Istint, where quick reflexes and precise timing are key. Engage in thrilling, fast-paced ac
+- [It's Coming Jump!](../games/action/it-s-coming-jump.md) — Control a nimble yellow ball in "It's Coming, Jump!" as you dash through a festive cave filled with glittering gold. Eva
+- [Italian Brainrot Bomb   2Player](../games/action/italian-brainrot-bomb-2player.md) — The dynamite bomb is left in the space hangar. Whoever has it when the time runs out wins the game, because the bomb wil
+- [Italian Brainrot Epic Wars](../games/action/italian-brainrot-epic-wars.md) — Dive into a whirlwind of comedic mayhem in Italian Brainrot Epic Wars! Choose your quirky hero, unleash mind-bending pow
+- [Italian Brainrot R.E.P.O Street of Rage](../games/action/italian-brainrot-r-e-p-o-street-of-rage.md) — Dive into chaos with R.E.P.O, a combat robot on a mission to clear streets swarming with eccentric enemies. Experience n
+- [Italian Brainrot Survival Arena](../games/action/italian-brainrot-survival-arena.md) — Are you ready for the ultimate showdown between Trallero and Tung Tung Sahur? Yes, in a lava-filled cave &mdash; let&rsq
+- [Italian Brainrot Tung Tung Tug War](../games/action/italian-brainrot-tung-tung-tug-war.md) — Dive into a world of absurdity with Italian Brainrot: Tung Tung Tug War! Engage in frenzied tap battles against bizarre 
+- [Italian Brainrot VS R.E.P.O Royale](../games/action/italian-brainrot-vs-r-e-p-o-royale.md) — Dive into a whirlwind of chaos and creativity in Italian Brainrot VS R.E.P.O Royale! Choose your quirky hero and battle 
+- [Jake Black Cat](../games/action/jake-black-cat.md) — Jake Black Cat is a 2D platformer where you play as a famous black cat who have to collect the bowls of the cat food whi
+- [Jake Black Cat 2](../games/action/jake-black-cat-2.md) — Jake Black Cat 2 is a 2D platformer where you play as a black cat whose mission is to collect the bowls containing cat f
+- [Jake vs Pirate Adventures](../games/action/jake-vs-pirate-adventures.md) — A young sailor finds a hidden treasure on a remote island and decides to take it to his ship. Yet as he soon find's out 
+- [Jake vs Pirate Run](../games/action/jake-vs-pirate-run.md) — Jake vs Pirate Run is an exciting running game where you have to help a young sailor complete a challenging obstacle cou
+- [Janissary Battles](../games/action/janissary-battles.md) — Most popular Janissary series are now in one game! Now you can play 8 unique retro-pixel games randomly as soon as you h
+- [Javelin Battle](../games/action/javelin-battle.md) — Javelin Battle is a spear-throwing physics puzzle game with 2D stickman models. We need you to eliminate all incoming en
+- [Javelin Battle](../games/action/javelin-battle-2.md) — Master the art of spear throwing in Javelin Battle, a 2D physics puzzler where strategic planning is key. Break enemy sh
+- [Jeka Dash 2](../games/action/jeka-dash-2.md) — In this dynamic game you need to dodge various obstacles and get to the finish line. The main character always moves for
+- [Jelly Battle](../games/action/jelly-battle.md) — Guide your adorable jelly through lively adventures in Jelly Battle. Engage in strategic skirmishes on a hexagonal battl
+- [Jelly Match](../games/action/jelly-match.md) — The match-3 puzzle game that’ll make you go bananas! Fruits Mania : Elly’s travel is a highly addictive and delicious ma
+- [Jelly Parkour](../games/action/jelly-parkour.md) — Jelly through the game is simple. Just put the graphics on the right number, and then wait for the wall. The game speed 
+- [Jelly Phil](../games/action/jelly-phil.md) — Jelly Phil is a 2D cute little platformer where you play as jelly man who have to collect pink jellies while avoiding th
+- [Jelly Phil 2](../games/action/jelly-phil-2.md) — Jelly Phil 2 is a 2D cute little platformer where you have to collect pink jellies while avoiding the jelly enemies, saw
+- [Jelly Runner](../games/action/jelly-runner.md) — Jelly Runner is a fun addictive game. Change the Cube shape according to space. Use the Mouse to change the shape of the
+- [Jelly Runner 3D](../games/action/jelly-runner-3d.md) — Jelly Runner 3D is a free online cartoon running game for boys played on PuzzleGame. You need to manipulate Jelly Man to
+- [Jelly runner platform](../games/action/jelly-runner-platform.md) — Jelly Runner Platform is a fun and colorful platform runner where you guide a bouncy jelly through exciting levels full 
+- [Jelly Way](../games/action/jelly-way.md) — Jelly Way is a great platform HTML5game. Jelly has lost in the sunny day. You need to help him to get out of there. You 
+- [Jelly World](../games/action/jelly-world.md) — Click the mouse to operate the character, make the character jump, leap in the air to get diamonds, and fly to victory, 
+- [Jelly World - 3D Running Game](../games/action/jelly-world-3d-running-game.md) — Get ready to jump and experience the feeling of flying! Move the jelly up and down to make the character successfully en
+- [Jeno The Big Eater](../games/action/jeno-the-big-eater.md) — Jeno The Big Eater is a 2D platformer where you have to collect all of the tasty cup cakes while avoiding the goblins, s
+- [Jeno The Big Eater 2](../games/action/jeno-the-big-eater-2.md) — Jeno The Big Eater 2 is a 2D platformer where you have to collect all of the cup cakes while avoiding the Goblins, flyin
+- [Jeremy Quest](../games/action/jeremy-quest.md) — Jeremy Quest is a 2D platformer where you have to collect all of the red gems while avoiding the monsters, fire and spik
+- [Jeremy Quest 2](../games/action/jeremy-quest-2.md) — Jeremy Quest 2 is a 2D platformer where you have to collect all of the red gems while avoiding the monsters, flying drag
+- [jerry adventure Runner](../games/action/jerry-adventure-runner.md) — you want to play in a running funny game of the most famous characters in the cartoon world? Do you really want to ventu
+- [Jessie Run](../games/action/jessie-run.md) — All you need to do is control Jessie by using the arrow keys on your keyboard. You can even jump or slide by pressing th
+- [Jet Adventure](../games/action/jet-adventure.md) — Jet Adventure Online is the perfect game for those who love a challenge. In this game, you must help your jet avoid obst
+- [Jet Jumper Adventure](../games/action/jet-jumper-adventure.md) — Fly through the skies and collect coins in this thrilling Jet Jumper game. Take to the skies in this thrilling adventure
+- [Jet Jumper Adventure](../games/action/jet-jumper-adventure-2.md) — Navigate the sky in Jet Jumper Adventure, skillfully weaving through obstacles while collecting coins to unlock new chal
+- [Jet's Run](../games/action/jet-s-run.md) — Jet's Run propels you through vibrant worlds as Jet, a nimble robot, dodging traps and foes. With intuitive controls, ey
+- [Jet Ski Runner](../games/action/jet-ski-runner.md) — Race through dynamic waterways in Jet Ski Runner, where swift reflexes are key to staying afloat. Dodge, jump, and balan
+- [Jet Sky Polygon](../games/action/jet-sky-polygon.md) — Jet-Run is a 3D Endless Runner game template where you control a jet-skin, dodging obstacles and collecting coins. Web D
+- [Jetpack Is Running Out](../games/action/jetpack-is-running-out.md) — Jetpack adventure with 2d and 3d combined , you can upgrade damage dealt by collecting coins
+- [Jetpack Jumpers](../games/action/jetpack-jumpers.md) — Jetpack Jumpers is an online game that puts you in the shoes of an intrepid adventurer, tasked with exploring a variety 
+- [Jetpack Jumpers](../games/action/jetpack-jumpers-2.md) — Jetpack Jumpers propels you through vibrant landscapes, demanding precision and speed. Fly with keyboard controls, dodgi
+- [Jetpack Kiwi Lite](../games/action/jetpack-kiwi-lite.md) — Navigate the cosmos in Jetpack Kiwi Lite, a thrilling 2D shoot 'em up adventure. Battle through enemy waves using unique
+- [JetPackBoy 3D](../games/action/jetpackboy-3d.md) — JetPackBoy 3D lets you become a daring stickman pilot through thrilling levels. Test your agility and precision as you d
+- [Jezaa](../games/action/jezaa.md) — Jezaa is a 2D anime themed platformer where you play as an anime girl who have to collect purple cubes while avoiding th
+- [Jezaa 2](../games/action/jezaa-2.md) — Jezaa 2 is a 2D anime themed platformer where you play as an anime girl who have to collect purple cubes while avoiding 
+- [Jhonny Jumper Online Game](../games/action/jhonny-jumper-online-game.md) — The Jhonny Jumper Online Game is a game that simulates the experience of being stuck on the side of the road. By providi
+- [Jhuku Vs Bro](../games/action/jhuku-vs-bro.md) — Dive into an adrenaline-fueled 2D platformer where your mission to save the forest hinges on quick thinking and strategi
+- [Jhuku Vs Bro 2](../games/action/jhuku-vs-bro-2.md) — Embark on an epic adventure in a vibrant 2D platform world with Jhuku Vs Bro 2. Collect time bombs, dodge traps, and out
+- [Jhunko Bot](../games/action/jhunko-bot.md) — Jhunko Bot is a 2D Sci-fi themed platformer where you have to collect the laptops containing technology secrets while av
+- [Jhunko Bot 2](../games/action/jhunko-bot-2.md) — Jhunko Bot 2 is a 2D Sci-fi themed platformer where you have to collect the laptops containing technology secrets while 
+- [Jiffy](../games/action/jiffy.md) — How fast can you react in a world full of obstacles and enemies? In Jiffy, a retro-style, fast-paced action platformer, 
+- [Jimmys wild apple adventure](../games/action/jimmys-wild-apple-adventure.md) — Welcome to Jimmy's Wild Apple Adventure. This is a Mobile platform adventure where you play as Jimmy, a countryboy who h
+- [Jive Jerry: Banana Bomblet](../games/action/jive-jerry-banana-bomblet.md) — Jive Jerry, the agile monkey extraordinaire, is known far and wide for his funky moves and boundless energy. With a bana
+- [John is a lifeguard](../games/action/john-is-a-lifeguard.md) — Our planet is in danger again. You need to collect a lot of rings to save our land. To do this, you will need to jump a 
+- [Johnny Runner](../games/action/johnny-runner.md) — Johnny Runner Color Hyper Casual Game is a free online game on Round Games. This is a free online game on Round Games. J
+- [Johnny Trigger - Sniper Game](../games/action/johnny-trigger-sniper-game.md) — Kill your targets with the sniper scope in incredible 3D shooter!
+- [Join and Clash 2](../games/action/join-and-clash-2.md) — The second of the popular game Join and Clash 3D game is the hypercasual game Join and Clash 2 with its renewed graphics
+- [Join Blob Clash](../games/action/join-blob-clash.md) — Come and experience this awesome 3D action breakout parkour game! Join Blob Clash is an awesome arcade game that combine
+- [Join & Clash](../games/action/join-clash.md) — The two sides are battling on the field, and the battle is going to happen at any time. Red and blue stickmen are standi
+- [Join Clash: Color Button](../games/action/join-clash-color-button.md) — Color Button is a unique and exciting game that keeps you entertained from start to finish. Your goal is to choose the r
+- [Join Numbers](../games/action/join-numbers.md) — Join Numbers is a popular puzzle game. How about your math skills? This game needs you to pass the different number's ga
+- [Join Runner Clash 3D](../games/action/join-runner-clash-3d.md) — Join Runner Clash 3D is an impressive online arcade game. Kids can play this game for free. In this game, your mission i
+- [JoJo Run](../games/action/jojo-run.md) — JoJo Run is a runner style game. With very beautiful and colorful graphics, you will have a lot of fun. Collect coins an
+- [JoJo Run Adventure](../games/action/jojo-run-adventure.md) — “JoJo Run” is a runner style game. With very beautiful and colorful graphics, you will have a lot of fun. Collect coins 
+- [Juicy Tic Tac Toe Battle](../games/action/juicy-tic-tac-toe-battle.md) — Its a fruity face-off! Get ready to pit your wits against a friend in this juicy twist on Tic-Tac-Toe. Choose your side:
+- [Juicy Tic Tac Toe Battle](../games/action/juicy-tic-tac-toe-battle-2.md) — Get ready for a fruity showdown in Juicy Tic Tac Toe Battle! Choose between playful bananas or refreshing watermelons an
+- [Jump And Run For Brainrot](../games/action/jump-and-run-for-brainrot.md) — Run and Jump for Brainrot is a fast-paced game where your goal is to collect Brainrot memes and grow stronger.
+- [Jump Ball Adventures](../games/action/jump-ball-adventures.md) — In this game your task is to control the ball through different platforms. Jump on them and collect the stars. Avoid spi
+- [Jump Boom Room](../games/action/jump-boom-room.md) — In this game your job is to collect diamonds, but there is a obstacles for you, You need to avoid bombs, jump and hide a
+- [Jump Diamond](../games/action/jump-diamond.md) — Focus on improving your jumping ability with Jump Diamond. You will try to get on the diamonds by jumping our hero, and 
+- [Jump Fight Game](../games/action/jump-fight-game.md) — Get ready for an action-packed jumping battle! Control your character, jump over obstacles, and fight your opponents as 
+- [Jump Into the Hell Inferno Leap](../games/action/jump-into-the-hell-inferno-leap.md) — Jump into the fiery chaos as Bones, a daring skeleton on a soulful quest. Navigate hellish landscapes with nimble leaps,
+- [Jump Kitty](../games/action/jump-kitty.md) — Jump and go long distance you can. Enjoy!
+- [Jump Monster](../games/action/jump-monster.md) — The "Monster Jump Adventure Online Game" is a fun and addicting game that allows players to experience the thrill of jum
+- [Jump on Jupiter](../games/action/jump-on-jupiter-2.md) — Navigate a brave astronaut through outer space in Jump on Jupiter. Master the art of timing with intuitive tap controls 
+- [Jump Pumpkin Jump](../games/action/jump-pumpkin-jump.md) — Guide a playful pumpkin through vibrant landscapes in Jump Pumpkin Jump! Bounce, leap, and dodge crafty enemies while ga
+- [Jump PumpkinJump](../games/action/jump-pumpkinjump.md) — Bounce, Collect, and Conquer! Jump Pumpkin Jump is a thrilling platformer game where you take control of a mischievous p
+- [Jump Redball](../games/action/jump-redball.md) — A little game made by your familys beloved game developer, where you try to last as long as possible by jumping on platf
+- [Jump Rocky Jump](../games/action/jump-rocky-jump.md) — Jump Rocky Jump is jumping game where you need to jump on platforms and to jump to sky. Control the chubby Rocky and ear
+- [Jump Sheep Game](../games/action/jump-sheep-game.md) — Conquer the sheep world through jumping. Discover how you'll win prizes by playing Jump Sheep, a free online game at nap
+- [Jump Tarzan](../games/action/jump-tarzan.md) — Step into the heart of the jungle with Jump Tarzan Adventure, an exciting action game that challenges your timing and re
+- [JumpDude](../games/action/jumpdude.md) — You will have to show all the care and reaction speed to pass the slippery track. If the attempt fails, you will have to
+- [Jumper - Doodle Edition](../games/action/jumper-doodle-edition.md) — A strange creature must get to the very top without falling. Try to get as far as possible and watch out for traps. Enjo
+- [Jumper Rabbit](../games/action/jumper-rabbit.md) — Jump through the platforms and collect the carrots on the way. Press the mouse to adjust the power and release it to jum
+- [Jumper - The Tower Destroyer](../games/action/jumper-the-tower-destroyer-2.md) — Jump into a world where precision meets thrill in Jumper - The Tower Destroyer. Swing and land perfectly atop towers to 
+- [Jumpers](../games/action/jumpers-2.md) — Leap into an endless world of excitement with Jumpers! Navigate an isometric landscape, unlocking unique characters as y
+- [Jumping Frog Adventure](../games/action/jumping-frog-adventure.md) — Leap into the exciting world of Jumping Frog Adventure, where precision meets fun! Guide your frog through increasingly 
+- [Jumping Japang Online Game](../games/action/jumping-japang-online-game.md) — This is a freely available game of Jump Endless Runner, which was created by someone who also believes in the infinite p
+- [Jumping Joe](../games/action/jumping-joe.md) — Jumping Joe is a platform game, very fun and challenging. Help Joe to reach the end of the level. Click to jump or tap t
+- [Jumping Kangaroo](../games/action/jumping-kangaroo.md) — Jumping Kangaroo Jump don't fall Jump by clicking on the screen on the phone and group the neighborhood and get the high
+- [Jumping Ninja](../games/action/jumping-ninja.md) — Help the Ninja to jump over the platforms and reach home. Fun and addictive game! Play with Left Mouse button or Space.
+- [Jumping Obby](../games/action/jumping-obby.md) — Take control of an obby as it jumps through a world filled with platforms and obstacles. Tap to make the obby leap, avoi
+- [Jumping Puzzle Master](../games/action/jumping-puzzle-master.md) — Fight Master is New Wrestling Puzzle Game with Ultimate Action fight Game with 100 + Missions , Enter in the action Kick
+- [Jumping Robot](../games/action/jumping-robot.md) — Jumping Robot is an exciting online game where you are in control of a nimble and agile robot that loves to jump! Your m
+- [Jumping Snowman Online Game](../games/action/jumping-snowman-online-game.md) — The Jumping Snowman game is a simple but fun game that will get you excited for the winter season. Players take on the r
+- [Jumping Squid Game](../games/action/jumping-squid-game.md) — Jump from platform to platform grab on to anything you can find to stay up! another addictive, and deliciously re-playab
+- [JumpNinja Hero](../games/action/jumpninja-hero.md) — Help the ninja to cross the shurikens that are generated and automated by an enemy.
+- [Jumps](../games/action/jumps.md) — Jump is a platform kids game with jumping elements. At this game you need to control the jumping cube. Jump over mini wa
+- [Jumpster](../games/action/jumpster.md) — Embark on an action-packed adventure with Jumpster, the ultimate platformer game that combines fast-paced running, preci
+- [Jumpy Dog Kangaroo Game](../games/action/jumpy-dog-kangaroo-game.md) — Pet Jump is the best free running game where you can meet you new best friend and go for a jump! Choose your pet pal and
+- [Jumpy Ice Age Adventures](../games/action/jumpy-ice-age-adventures.md) — Start your adventures with Mr ice age , easy and smooth game play , surely you will addict playing it help ice age jump 
+- [Jumpy Kangaroo](../games/action/jumpy-kangaroo.md) — Welcome to the kangaroos world . "Jumpy Kangaroo" is a cute casual game made for kids as well as adult a nice game to ki
+- [Jumpy Tile](../games/action/jumpy-tile.md) — Control tile and try to pass thru obstacles and other tiles. Move around them. Press on left or right mouse or arrow key
+- [Jungle Adventure Run 3D](../games/action/jungle-adventure-run-3d.md) — Enjoy the best cougar online simulator in jungle adventure fighting with a huge open-world environment. Survive in the w
+- [Jungle Dash Challenge 3D](../games/action/jungle-dash-challenge-3d.md) — Jungle Dash 3D is an 3D online game with simple controls. You must run in the jungle in this 3D running mobile game, hop
+- [Jungle Dash Run 3D - Game Online](../games/action/jungle-dash-run-3d-game-online.md) — Enjoy the adventurous Dash through the mysterious jungle. Jungle Dash - Amazon Jungle :Free Action Fantasy Running Game 
+- [Jungle Dash3D](../games/action/jungle-dash3d.md) — Play Play Jungle Dash as 3 different characters to run, dash and jump your way across the stunning levels specially desi
+- [Jungle Fight](../games/action/jungle-fight.md) — In Jungle Fight players control an army of animals to overpower the opposing players forces. The goal is to deplete the 
+- [Jungle Fury Mutant Rhino Mayhem](../games/action/jungle-fury-mutant-rhino-mayhem.md) — Enter a jungle plagued by mutant rhino warriors! As a brave tribal hero, rescue captured villagers, battle fierce enemie
+- [Jungle Fury Mutant Rhino Mayhem](../games/action/jungle-fury-mutant-rhino-mayhem-2.md) — Unleash your courage in a savage jungle overrun by mutant rhino warriors. Fight through treacherous swamps and caverns, 
+- [Jungle Jim](../games/action/jungle-jim.md) — Have fun with this entertaining new 2D platformer game. Jungle Jim will need all your jump and run skills to reach the t
+- [Jungle Parkour](../games/action/jungle-parkour.md) — Race through lush jungle landscapes in Jungle Parkour, an endless runner adventure packed with obstacles and wild creatu
+- [Jungle Runner](../games/action/jungle-runner.md) — Once start the game, youll start your adventure running through the trees and cant stop. Forget the temple, street, cave
+- [Jungle Runner](../games/action/jungle-runner-2.md) — Dash through vibrant jungles as a nimble raccoon in Jungle Runner. Jump, roll, and swipe your way past foes, collecting 
+- [Jungle Runner 2](../games/action/jungle-runner-2-2.md) — Race through vibrant railways in Jungle Runner 2, mastering intuitive controls for jumps, slides, and strategic side mov
+- [Jungle Runner Adventure](../games/action/jungle-runner-adventure.md) — Get as far as you can in the jungle in this infinite 2D sidescroller game. Select between multiple characters.New charac
+- [Jungle Runner   Animal Dash](../games/action/jungle-runner-animal-dash.md) — Panda Jungle Run is a fast-paced, fun, and colorful endless runner where you control a cheerful panda racing through a l
+- [Jungle Treasure](../games/action/jungle-treasure.md) — Jungle Treasure a side scrolling auto runner game, tab to jump and avoid the obstacle.
+- [Junk Fighter](../games/action/junk-fighter.md) — In Junk Fighter's post-apocalyptic arenas, unleash custom-built mechs in adrenaline-pumping battles. Master diverse figh
+- [Jurassic Dinosaur Mech Battle](../games/action/jurassic-dinosaur-mech-battle-2.md) — Pilot your powerful mech in a thrilling dino showdown! Soar through the air, unleash epic combat skills, and crush foes 
+- [Jurassic World Run](../games/action/jurassic-world-run.md) — You're in the Jurassic world, and there's an accident. All the dinosaurs came out. They're going to catch you and eat yo
+- [Jurrasic Theft](../games/action/jurrasic-theft.md) — Jurassic Theft is a cool platform game by playfreeonline.games in which you try to steal some precious eggs from dinosau
+- [Jushimo](../games/action/jushimo.md) — Dive into Jushimo, a captivating platformer set in a vivid fantasy world. Outsmart enemies and dodge cunning traps as yo
+- [Just Down](../games/action/just-down.md) — Try to reach the very bottom, show your dexterity!!
+- [Just Idle](../games/action/just-idle-2.md) — Embark on a heroic adventure in "Just Idle." Shape your warrior's destiny in this immersive environment through epic bat
+- [Just Jump!](../games/action/just-jump.md) — Master the art of spring compression as a nimble ninja leaping across perilous platforms in Just Jump! Hone your timing 
+- [Just Tap (or not)?](../games/action/just-tap-or-not.md) — Engage your mind and reflexes in Just Tap (or not)?, where every tap—or lack thereof—reveals a deeper challenge. Navigat
+- [K Challenge 456](../games/action/k-challenge-456.md) — Join the game and you are now traped in unknown island, there is a musterious invitation coming with 5 challenges: 123,s
+- [K-Games Challenge:456 Survival](../games/action/k-games-challenge-456-survival.md) — Today I will provide you K-Games Challenge:456 Survival . K-Games Challenge:456 Survival is a game that is very popular 
+- [Kabitis](../games/action/kabitis.md) — Dive into the adventurous world of Kabitis, a thrilling 2D side platformer where strategic gameplay reigns supreme. Navi
+- [Kadeomon](../games/action/kadeomon.md) — Kadeomon is a 2D cute little platformer where you have to collect all of the guavas(fruits) while avoiding the enemies, 
+- [Kadeomon 2](../games/action/kadeomon-2.md) — Kadeomon 2 is a 2D cute little platformer where you have to collect all of the guavas(fruits) while avoiding the enemies
+- [KaI Archer](../games/action/kai-archer.md) — Explore the wonder world of nature and find the hidden key. Are you ready to go through the mysterious adventure? Let&rs
+- [Kaido](../games/action/kaido.md) — Kaido is a 2D cute little platformer where you have to collect all of the orange ice cream bars while avoiding the enemi
+- [Kaido 2](../games/action/kaido-2.md) — Kaido 2 is a 2D cute little platformer where you have to collect all of the orange ice cream bars while avoiding the ene
+- [Kaiju Run Dzilla Enemies](../games/action/kaiju-run-dzilla-enemies-2.md) — Embark on a dynamic parkour race in Kaiju Run Dzilla Enemies. Scale towering landscapes, collect boosts to power up, and
+- [Kaitochan vs Ghosts](../games/action/kaitochan-vs-ghosts.md) — Kaitochan vs Ghosts is a 2D Halloween themed platformer where you have to collect yellow balls while avoiding the pumpki
+- [Kaitochan vs Ghosts 2](../games/action/kaitochan-vs-ghosts-2.md) — Kaitochan vs Ghosts 2 is a 2D Halloween themed platformer where you have to collect yellow balls while avoiding the Pump
+- [Kaka Bot](../games/action/kaka-bot.md) — Kaka Bot is a 2D Sci-fi themed platformer where you have to collect money while avoiding the enemy bots, spikes and rota
+- [Kaka Bot 2](../games/action/kaka-bot-2.md) — Kaka Bot 2 is a 2D Sci-fi themed platformer where you have to collect money while avoiding the enemy bots, flying bots a
+- [Kaku Quest](../games/action/kaku-quest.md) — Guide Kaku the parrot through vibrant 2D worlds, collecting rice bowls while dodging colorful rival birds and perilous t
+- [Kanaksia](../games/action/kanaksia.md) — Kanaksia is a 2D platformer where you have to collect all of the strawberries while avoiding the enemies, spikes, giant 
+- [Kanaksia 2](../games/action/kanaksia-2.md) — Kanaksia 2 is a 2D platformer where you have to collect all of the strawberries while avoiding the enemies, flying creat
+- [Karate Boy](../games/action/karate-boy-2.md) — Master precision and timing in Karate Boy, where adrenaline fuels your mission to knock down trees. Navigate with swift 
+- [Karate Fighter](../games/action/karate-fighter.md) — Play as a shadow karate master. Use all the Karate's katas, the KARATE-DO in this ultimate fighting game. Boxe and battl
+- [Karate Fighter : Real battles](../games/action/karate-fighter-real-battles.md) — Play as a karate master and fight against waves of warriors ! Are you able to raise the most epic martial art challenge 
+- [Karate Fighter Real Battles](../games/action/karate-fighter-real-battles-2.md) — Become a karate master in Karate Fighter Real Battles! Test your reaction speed and strategic thinking as you fend off w
+- [Karate king](../games/action/karate-king.md) — Karate King Online is a free online game where you can fight your way through the jungle and defeat the evil Karate King
+- [Kazu Bot](../games/action/kazu-bot.md) — Kazu Bot is a 2D Sci-fi themed platformer where you have to collect all of the tablets containing confidential informati
+- [Kazu Bot 2](../games/action/kazu-bot-2.md) — Kazu Bot 2 is a 2D Sci-fi themed platformer where you have to collect all of the tablets containing confidential informa
+- [Kei Superwoman](../games/action/kei-superwoman.md) — Kei Superwoman is a 2D platformer where you play as Kei, the Superwoman, who have to collect burgers for civilians who a
+- [Kei Superwoman 2](../games/action/kei-superwoman-2.md) — Kei Superwoman 2 is a 2D platformer where you play as a superwoman who have to collect burgers for the civilians, impris
+- [Kevin](../games/action/kevin.md) — Guide Kevin through exhilarating mini-games, where timing, skill, and cunning are your allies. Navigate challenging obst
+- [Kevo](../games/action/kevo.md) — Kevo is a 2D Platform game where you need to collect keys in order to unlock the door while avoiding saws, spikes and th
+- [Key & Sheild](../games/action/key-sheild.md) — In Key & Shield, you control a yellow blob called Buddy who has been released from a cage by a guardian angel. You’ve al
+- [Keyblade Warriors](../games/action/keyblade-warriors.md) — Join Keyblade Warriors and dive into a strategic adventure with two heroic figures mastering unique keyblades. Battle re
+- [Keyboard Escape: +1 Speed | Sweets](../games/action/keyboard-escape-1-speed-sweets.md) — 🍭 Welcome to "Keyboard Escape: +1 Speed | Sweets"!
+- [Kick Lee](../games/action/kick-lee.md) — Embrace the thrill of "Kick Lee," a survival arcade adventure where timing is everything. As a martial arts monk, unleas
+- [Kick Master 3D](../games/action/kick-master-3d.md) — Kick Master 3D is fun addictive action hyper casual game. Click to Kick the opponents and Throw out the opponents before
+- [Kick & Run](../games/action/kick-run.md) — 🥊 Sprint, smash, and survive in Kick & Run! Dash through colorful obstacle courses, dodge hazards, and send enemies fly
+- [Kick The Cowboy](../games/action/kick-the-cowboy.md) — Kick The Cowboy is a fun anti-stress game where you get to kick a cowboy. You can buy a multitude of weapons and abiliti
+- [Kick the Mario](../games/action/kick-the-mario.md) — Mario is known as a positive character who copes with all the dangers in the Mushroom Kingdom in order to save Princess 
+- [Kick The Pirate](../games/action/kick-the-pirate.md) — Kick The Pirate is a fun anti-stress game where you get to kick the pirate!
+- [Kickin it old School](../games/action/kickin-it-old-school.md) — The Kickin' it Old School game takes you on an exciting journey with the Teenage Mutant Ninja Turtles as they're transpo
+- [Kid Ball Adventure](../games/action/kid-ball-adventure.md) — Enter a fantasy world of bouncing balls and magic castles in Kid Ball Adventure is a 2D platformer where risk is balance
+- [Kid Pumpkin](../games/action/kid-pumpkin.md) — Interesting platform game for kids, where you need to collect coins and to pass all 12 levels. But there is some obstacl
+- [Kidnapped Again](../games/action/kidnapped-again.md) — Embark on a whimsical rescue mission to save the princess from a persistently villainous wizard. Engage in strategic com
+- [Kiko Adventure](../games/action/kiko-adventure.md) — Kiko Adventure is adventure platformer games on HTML5, If you enjoy platform games you shouldn’t miss this. Easy to pick
+- [Kill Birds](../games/action/kill-birds-2.md) — Unleash your tapping fury in Kill Birds, where speed and strategy collide in an exhilarating action-packed challenge. Ta
+- [Kill the Alien Blast](../games/action/kill-the-alien-blast.md) — In Kill the Alien Blast, unleash your inner superhero against ferocious alien waves with lightning-fast reflexes. Naviga
+- [Kill The Coronavirus](../games/action/kill-the-coronavirus.md) — Dangerous virus strains are spreading everywhere. Kill them by getting vaccinated. PLAY NOW!
+- [Kill The King](../games/action/kill-the-king.md) — The most important and most omnipotent has always been the king, everything was allowed to him, according to his decisio
+- [Kill The Monsters Halloween](../games/action/kill-the-monsters-halloween.md) — Halloween is coming. The monsters appear everywhere. Destroy them with your knife-dart skills, to protect everyone. Many
+- [Killy Willy vs Mommy  and Huggy](../games/action/killy-willy-vs-mommy-and-huggy.md) — Welcome to Killy Willy vs Mommy and Huggy! Choose one of the characters Huggy Wuggy or Mommy long legs and start to Run 
+- [Kim Cat](../games/action/kim-cat.md) — Kim Cat is a 2D platform game where you have to collect and eat cookies while avoiding spikes and enemies and finally, r
+- [King Endless Runner](../games/action/king-endless-runner.md) — Rule your empire in King Endless Runner by skillfully managing resources and overcoming threats. Drill for oil, trade gl
+- [King guard](../games/action/king-guard.md) — Let you command a strategic tower defense mission, your goal is very clear: to protect the crown at all costs! Build pow
+- [King of Clans](../games/action/king-of-clans.md) — Join thousands of players from around the world on this great adventure. build your village, train epic and legendary wa
+- [King of Crabs](../games/action/king-of-crabs.md) — Easy to operate the krab,The Shell Gallery will show each roles armor, speed, skill, and pelt,The Equipment shop sells 5
+- [King of Crabs](../games/action/king-of-crabs-2.md) — Dive into King of Crabs, where you battle as a crab in dynamic multiplayer oceans. Outwit 24 players, devour fish, and e
+- [King of Fighters 1.3](../games/action/king-of-fighters-1-3.md) — Dive into the exhilarating world of King of Fighters, where martial arts mastery awaits. Execute thrilling flying kicks 
+- [King of Majesty](../games/action/king-of-majesty.md) — King of Majesty is a fun game to play where the king is collecting the crown to protect his kingdom from the enemies. Af
+- [King of Pyramid](../games/action/king-of-pyramid.md) — The King is Locked inside the pyramid. Steal gems, build your defenses and win guild wars in the Arenas in this unique b
+- [King Of The Hill](../games/action/king-of-the-hill.md) — In spite of multitudinous attacks of mythical creatures Trawds, your duty is to protect the castle and your King! Choose
+- [King Rathor](../games/action/king-rathor.md) — King Rathor is a 2D platformer where you play as a King who have to save the queen who was held captive by the enemy sol
+- [King Rathor 2](../games/action/king-rathor-2.md) — King Rathor 2 is a 2D platformer where you play as a King who have to rescue the queen from the enemy soldiers and you h
+- [Kingdom Survivor](../games/action/kingdom-survivor.md) — Battle monstrous hordes and navigate a chaotic realm where every heartbeat counts. Kingdom Survivor challenges your tact
+- [KingRedLand](../games/action/kingredland.md) — The owner of the red kingdom, Red Man, needs to rescue the Blue Men captured by the skeleton army to save his kingdom. T
+- [KingRedLand](../games/action/kingredland-2.md) — Embark on a thrilling adventure in KingRedLand, where you, as Red Man, must outsmart a skeleton army to rescue Blue Men.
+- [Kings And Pigs](../games/action/kings-and-pigs.md) — Kings And Pigs invites you into a whimsical platformer experience filled with cunning challenges and adventurous quests.
+- [Kiss Me Game](../games/action/kiss-me-game.md) — Oprah is a super star and has good reputation. But she love her "secret" boyfriend so much. Now please help her making a
+- [Kite Flying](../games/action/kite-flying.md) — Maneuver your kite gracefully through endless skies in "Kite Flying," where thrilling aerial duels and unpredictable wea
+- [Kitsune-Zenko](../games/action/kitsune-zenko.md) — Kitsune is the Japanese word for fox and the Zenko mean good, literally good foxes are benevolent. Your mission is help 
+- [Kitten Hide And Seek](../games/action/kitten-hide-and-seek.md) — Kitten Hide And Seek is a puzzle online game of hide-and-seek for boys for free. In this game, your goal is to help the 
+- [Kitty Candy Game Online](../games/action/kitty-candy-game-online.md) — Kitty Candy Game - Play a free online version of the classic candy dispenser game. Get your hands on some tasty treats b
+- [Kitty Cat](../games/action/kitty-cat.md) — Kitty Cat is an exciting platformer where you join a small and brave kitty on its thrilling journey in search of delicio
+- [Kitty House Escapist](../games/action/kitty-house-escapist.md) — In Kitty House Escapist, you play as a mischievous cat determined to break free. Explore detailed houses, dodge humans, 
+- [Kitty Kuro Lab Escape](../games/action/kitty-kuro-lab-escape-2.md) — Help Kitty Kuro dodge dangerous syringes and evade the persistent doctor in a thrilling lab escape. Gather antidotes, co
+- [Knife Ninja](../games/action/knife-ninja-2.md) — Master the art of precision in Knife Ninja! Test your timing and aim by launching knives at spinning fruit targets. Avoi
+- [Knife Run Game](../games/action/knife-run-game.md) — Get ready for a fast-paced running challenge! Guide your character through exciting levels while collecting and using kn
+- [Knight 360](../games/action/knight-360.md) — In Knight 360, become a valiant knight battling eerie monsters with strategic spin attacks. Navigate intricate 3D enviro
+- [Knight Adventure](../games/action/knight-adventure.md) — Knight Adventure is a jumps and platformer game in which players take control of a knight character and must navigate th
+- [Knight Coin Quest](../games/action/knight-coin-quest.md) — Leap into a pixelated world with Knight Coin Quest! Guide your valiant knight through challenging platforms, evade misch
+- [Knight Legend](../games/action/knight-legend.md) — Knight Legend invites you to dive into an epic quest where you fight monsters, upgrade your gear, and unlock new levels.
+- [Knight Treasure](../games/action/knight-treasure-2.md) — Embark on a heart-pounding quest in Knight Treasure, where you dodge peril and gather treasures to win the princess's lo
+- [Knight Vs Orce](../games/action/knight-vs-orce.md) — This game is a drag and dropping game. Kill the more orcs to collect the score.
+- [Knight Vs Ork](../games/action/knight-vs-ork.md) — This game is a drag and dropping game. Kill the more orcs to collect the score
+- [Knights](../games/action/knights.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Knock and Run. 100 Doors Escape](../games/action/knock-and-run-100-doors-escape-2.md) — Race through hotel corridors as the cheekiest stickman prankster! Knock, slam, and escape in this thrilling game of agil
+- [Knock Balls PRO](../games/action/knock-balls-pro.md) — Throw balls at structures to make them collapse but be careful not to exceed the allowed limit! Each saved ball will cou
+- [Knock em' Pillow](../games/action/knock-em-pillow.md) — Unleash your inner feather warrior in Knock em' Pillow! Dive into whimsical cloud arenas for hectic pillow fights, wheth
+- [Knockem All](../games/action/knockem-all.md) — Knockem All is an exciting arcade running game. You will run on an endless track. There are many blocks that stop you. S
+- [Knockout RPS](../games/action/knockout-rps-2.md) — Dive into the fast-paced world of Knockout RPS where speed and wits are your best allies. Choose rock, paper, or scissor
+- [Knockout Run Royale Fall](../games/action/knockout-run-royale-fall.md) — Knockout Stumble Run Royale Fall Games is an epic running royale 3D game to adventure the thrill of stumble race challen
+- [Kodi Kapow](../games/action/kodi-kapow.md) — In a small town there lived a little boy Cody, who, like all children, went to school and studied. The boy was short for
+- [Kofi Adventure](../games/action/kofi-adventure-2.md) — Embark on a captivating platform adventure with Kofi, as you traverse enchanted forests and mysterious caves. Face magic
+- [Kong Hero Pro](../games/action/kong-hero-pro.md) — Angry monk – Crazy Fighter Kong hero is an interesting game where the monk moves with different tactics and facing diffe
+- [Kotoklan Fluffy Epic Idle](../games/action/kotoklan-fluffy-epic-idle.md) — Embark on a charming adventure in Kotoklan Fluffy Epic Idle, where adorable cats become your wealth generators. Acquire 
+- [Kuma Bear](../games/action/kuma-bear.md) — Kuma Bear is a 2D little platformer where you play as a bear who have to collect all of the chocolate bars while while a
+- [Kuma Bear 2](../games/action/kuma-bear-2.md) — Kuma Bear 2 is a 2D platformer where you play as a bear who have to collect all of the chocolate bars while avoiding the
+- [Kung Fruit Fighting](../games/action/kung-fruit-fighting.md) — Are you a fan of Kung fu and you like chopping things? This game is perfect for you! You are the leader of an ancient cl
+- [Kung Fu Gym Fighting](../games/action/kung-fu-gym-fighting.md) — Step into the breathtaking world of Kung Fu GYM Fighting, where swift ninja strikes and boxing precision meld seamlessly
+- [kung fu master](../games/action/kung-fu-master.md) — Progressive fighting game, your girlfriend has been kidnapped and you have to save her. If you find yourself trapped, us
+- [Kunoichi Run](../games/action/kunoichi-run-2.md) — In Kunoichi Run, transform into a nimble ninja racing through challenging terrains. Dash, dodge, and fly with thrilling 
+- [Labo 3D Maze](../games/action/labo-3d-maze.md) — Try to pass 24 mazes with 5 different special characters. Avoid various traps and dangers... Collect keys to unlock door
+- [Labubu and Friends   2Player](../games/action/labubu-and-friends-2player.md) — Labubu and his friend need to escape the island during summer! Be very careful as you adventure together and collect all
+- [Labubu Platform Challenge](../games/action/labubu-platform-challenge.md) — Labubu Platform Challenge is an incredibly entertaining online game designed for children. Remain on the platform for as
+- [Labubu Skate Parkour](../games/action/labubu-skate-parkour.md) — Labubu must survive the sky course! Help Labubu reach the finish line safely. Be careful you could fall from the sky or 
+- [Labubu Zombie Miner](../games/action/labubu-zombie-miner.md) — Labubu got lost in the mine while searching for gold and valuable minerals. The mines owner, a zombie miner, is chasing 
+- [Ladder Master](../games/action/ladder-master.md) — Run and collect ladder parts in order to grow your ladder with goal to reach the moon! 🏆 Welcome to Ladder Master Runne
+- [Ladder Ranking Run](../games/action/ladder-ranking-run.md) — Build ladders to win the race. This is best arcade game and hypercasual game. Welcome to the colorful fun racing world o
+- [Ladder Stacking Run](../games/action/ladder-stacking-run.md) — In Ladder Stacking Run, race through vibrant, obstacle-filled courses while stacking ladders to climb higher and reach n
+- [Ladder to Brainhot: Climb Obby](../games/action/ladder-to-brainhot-climb-obby.md) — "Ladder to Brainhot: Climb Obby" — a fun game about Brainhots!
+- [Ladders](../games/action/ladders.md) — Ladders is an addictive game where the player must collect ladders to overcome obstacles and reach the finish line. Turn
+- [Land of Monster](../games/action/land-of-monster.md) — Embark on a thrilling medieval quest in Land of Monster, where you slash through enemies across five captivating levels.
+- [Lane Runner](../games/action/lane-runner.md) — Dash through a vibrant world in Lane Runner, where quick reflexes and sharp strategy are essential. Navigate dynamic lan
+- [Lara](../games/action/lara.md) — Guide Lara through a mesmerizing world of the dead, where every step challenges your wits and bravery. Solve devious puz
+- [Laser Marathon](../games/action/laser-marathon.md) — Dive into the electrifying chaos of Laser Marathon, a fast-paced platformer where razor-sharp reflexes are your only all
+- [Laser Survivor](../games/action/laser-survivor.md) — Laser Survivor, a cyberpunk roguelike action-adventure set in a neon-drenched post-apocalypse, the last hope for humanit
+- [LAST CHAIR](../games/action/last-chair.md) — LAST CHAIR is a fast-paced musical chairs battle with 100 players. Run through a chaotic obstacle course while the music
+- [Last Knight: kings throne](../games/action/last-knight-kings-throne.md) — This is a casual dodge arcade escape game. Play as a cute little character and keep escaping from chasing monsters on th
+- [Last Stand Warrior](../games/action/last-stand-warrior.md) — Dive into relentless action as you fend off waves of enemies in Last Stand Warrior. Master precision attacks, unleash po
+- [Last to Leave Circle Obby](../games/action/last-to-leave-circle-obby.md) — Dive into a thrilling battle of endurance and agility, where the circle tightens with every move. Face dynamic challenge
+- [Last Train Escape](../games/action/last-train-escape.md) — Last Train Escape is a fast-paced action survival game where every second matters. Run, jump and slide on top of a speed
+- [Last War Survival](../games/action/last-war-survival.md) — The end is near. The world is no longer peaceful. In this game full of gunfights, zombies, and strategic challenges, you
+- [Last War Survival](../games/action/last-war-survival-2.md) — Plunge into a thrilling battle against zombies as you solve number puzzles to boost your combat prowess. Combine strateg
+- [Lava Blox](../games/action/lava-blox.md) — Dive into the fiery challenge of Lava Blox, a thrilling 3D platformer set in a lava-drenched dungeon. Leap between movin
+- [Lava Boy And Blue Girl](../games/action/lava-boy-and-blue-girl.md) — Lava Boy And Blue Girl Adventure is one of the most addictive game! Play this fire and water style game. New and nice ch
+- [Lava Cre](../games/action/lava-cre-2.md) — Navigate perilous platforms, racing to the helicopter before the lava consumes you. Your quirky companion is more tricks
+- [Lava Rush](../games/action/lava-rush.md) — Embark on a fiery quest with Jeremy in Lava Rush! Navigate treacherous lava lands, dodge dreaded red blocks, and leap to
+- [Layer Man 3d Run Collect](../games/action/layer-man-3d-run-collect-2.md) — Embark on a thrilling adventure in Layer Man 3D: Run Collect, where swift reflexes and strategy are your best allies. Do
+- [Lazy Orcs: Arena](../games/action/lazy-orcs-arena.md) — The game combines several genres, such as strategy, clicker and arena battles. You have to develop your character and fi
+- [Leafino](../games/action/leafino.md) — Leafino is a 2D platform game where you play as a leaf who needs to collect orbs while avoiding the fire ball enemies at
+- [Leap and Jump](../games/action/leap-and-jump.md) — You are running on the dangerous place. There will be many dangerous obstacles and useful tools to make you run more dif
+- [Legend of the Isles. The Hero's Path](../games/action/legend-of-the-isles-the-hero-s-path.md) — Embark on a thrilling adventure in Legend of the Isles, where mastering combat and strategy is crucial. Explore treacher
+- [Legend of The Witcher](../games/action/legend-of-the-witcher.md) — The Legend of The Witcher is an action-packed platformer game that will keep you on your toes as you battle your way thr
+- [Legend Street Fighter](../games/action/legend-street-fighter.md) — Hit the road and experience the excitement of street fighting in Legend Street Fighter. This Fighting game will challeng
+- [Legendary Warrior: Goblin Rush](../games/action/legendary-warrior-goblin-rush.md) — Play Legendary Warrior Goblin Rush and have fun, in this game you must make your way past the goblins, undead skeleton w
+- [Legends John Wicked](../games/action/legends-john-wicked-2.md) — Take on the role of John Wicked, battling through relentless enemies with a full arsenal. Navigate perilous scenes, unle
+- [Legiontide Army Runner](../games/action/legiontide-army-runner.md) — Pick a gate, grow your army, smash whatever is in the way. Each run you steer a crowd of soldiers down a long road. Gate
+- [Lego IRON MAN](../games/action/lego-iron-man.md) — Iron Man Mod - in this game you are given armor and high-tech gadgets with the abilities of a popular superhero. When yo
+- [Lemonade Ninja](../games/action/lemonade-ninja-2.md) — Slice your way to lemonade nirvana in Lemonade Ninja! Swiftly swipe through vibrant lemons to rack up the highest scores
+- [Lemonade War](../games/action/lemonade-war.md) — Would you like to pick lemons and win the race? Collect lemons to defeat your friend. You must help the blue and red pla
+- [Let's Fart Brandon](../games/action/let-s-fart-brandon.md) — Navigate treacherous mazes with Brandon in a quirky escape adventure fueled by laugh-out-loud moments. Propel yourself w
+- [Let's Kill Jeff The Killer - Jeff's Revenge (2020)](../games/action/let-s-kill-jeff-the-killer-jeff-s-revenge-2020.md) — Welcome to the new Jeff The Killer Adventure. This time you can play as Soldier or as Jeff The Killer. Soldier Story: Yo
+- [Lets Fart Brandon](../games/action/lets-fart-brandon.md) — Let's Fart Brandon is a funny action parody game featuring fart with Brandon. Brandon needs to beat up all enemies with 
+- [Level Demon 2](../games/action/level-demon-2.md) — Level Demon 2 throws you straight into a fast-paced platforming challenge where every level is a test of brains and refl
+- [Level Devil 3D](../games/action/level-devil-3d.md) — Level Devil 3D is a fast-paced game that constantly tests your ability to react to the unexpected. Navigate through sudd
+- [Life Circle](../games/action/life-circle.md) — Protect a mystical circle from endless waves of enemies in Life Circle. Navigate a kaleidoscope world, utilizing strateg
+- [Lifetime Running](../games/action/lifetime-running.md) — Lifetime Running is a life parkour game. The life of a person is short, how to live depends on your attitude. Select the
+- [Lift Defender Zombie Carnage](../games/action/lift-defender-zombie-carnage.md) — Step into the exciting realm of Lift Defender Zombie Carnage, where your role as an elevator guardian is crucial for hum
+- [Light It Rush](../games/action/light-it-rush.md) — Swing, jump, flip and slide your stickman flip master body from one neon color shape to another to make them glow and li
+- [Light It Up - Glow](../games/action/light-it-up-glow.md) — Light It Up - Glow Game Here Jump, flip and swing your tiny little body from one neon color shape to another to make the
+- [Lily Adventure](../games/action/lily-adventure.md) — Navigate through an enchanting world in Lily Adventure, collecting magical crystals and outsmarting devious traps. Swift
+- [Lily Adventure Girl](../games/action/lily-adventure-girl.md) — Join Lily on an exciting platformer journey through vibrant worlds. Solve puzzles, outsmart tricky foes, and collect hid
+- [Lily Escape](../games/action/lily-escape.md) — Help Lily dash through a rainy beach, jumping over obstacles and clever enemies. Tap to leap and push rocks to strike fo
+- [Line of Battle](../games/action/line-of-battle-2.md) — Command your steel titan through relentless warfare in Line of Battle. Strategize under fire as you navigate a dynamic b
+- [Line Pixel Adventure](../games/action/line-pixel-adventure.md) — Embark on a great adventure with your pixel character in the Line Pixel Adventure game! Destroy the enemies, improve you
+- [Line Runner](../games/action/line-runner.md) — Navigate a perilous path in Line Runner, where your quick reflexes are your only allies. Tap to switch sides, dodge clev
+- [Line Runners](../games/action/line-runners.md) — In *Line Runners*, you must run, leap, and dash across an infinite number of paths! Take control of a swift runner as it
+- [Linking Battle](../games/action/linking-battle.md) — You are a wizard. You will beat your enemies by linking elements in your brain. When 3 or more elements are linked, you 
+- [LinQuest](../games/action/linquest.md) — LinQuest is a 2D adventure-platformer game where you have the mission to help adventurer Lin to search for a mysterious 
+- [Lipstick Collector Run](../games/action/lipstick-collector-run.md) — Lipstick Collector Run is a classic vertical arcade game with a single-button control. Your mission: collect all the lip
+- [Little Big Fighters](../games/action/little-big-fighters.md) — Little Big Fighters is an action survival game where you'll embark on a thrilling journey to show the world who truly re
+- [Little Cat Doctor 2026](../games/action/little-cat-doctor-2026.md) — In Little Cat Doctor, players take on the role of a caring veterinarian tasked with nursing a sick, wide-eyed orange kit
+- [Little Dino Adventure Game](../games/action/little-dino-adventure-game.md) — Platform adventure game, where the little Dinosaur must cross the valley of fear, where he encounters many challenges. C
+- [Little Dino Adventure Returns](../games/action/little-dino-adventure-returns.md) — Little Dino Adventure Returns is a super fun and challenging 2D sidescroller game in the same style as blockbuster games
+- [Little Dino Adventure Returns 1](../games/action/little-dino-adventure-returns-1.md) — HTML5 Platform adventure game, where the little Dinosaur must cross the valley of fear, where he encounters many challen
+- [Little Dino Adventure Returns 2](../games/action/little-dino-adventure-returns-2.md) — Platform HTML5 game, where the little Dinosaur must cross the forest, desert and snow forest, where he will find many ch
+- [little Frozen Subway Temple Run](../games/action/little-frozen-subway-temple-run.md) — New Subway Frozen ; ice Princess serf Rush subway Frozen Snow In City Rail is an extremely new fun run princess games fo
+- [Little Pumpkin Online Game](../games/action/little-pumpkin-online-game.md) — The little pumpkin is back! Count up your points, collect candy and win the game! Little Pumpkin is a free online game f
+- [Little Red Riding Hood](../games/action/little-red-riding-hood.md) — Can you help Little Red Riding Hood to defeat the bad Wolf? This is a platform game. You have to go jumping avoiding hol
+- [Little Rodeo Fun](../games/action/little-rodeo-fun.md) — Little Radeo Fun - is a game for kids where you ride a fiery looking rhino and jump over obstacles to survive. There are
+- [Little Woodpecker](../games/action/little-woodpecker.md) — Peck your way to survival in Little Woodpecker, where every tap counts. Feed an adorable chick by frantically clicking, 
+- [Living Cannon DX](../games/action/living-cannon-dx.md) — Guide your lively cannon through a vibrant world of pixel art glory in Living Cannon DX. Master 90+ thrilling levels fil
+- [Locoman](../games/action/locoman.md) — Locoman is a 2D platformer where you have to collect the silver keys while avoiding the spikes and enemies and reach the
+- [Locoman 2](../games/action/locoman-2.md) — Locoman 2 is a simple 2D platformer where you have to collect silver keys while avoiding the enemies, flying creatures, 
+- [Lollipop Escape Mania Kids](../games/action/lollipop-escape-mania-kids.md) — Lollipop Escape Mania Kids is a kids game where playing has been made very easy. There are platforms filled with candies
+- [Lonely Skullboy](../games/action/lonely-skullboy-2.md) — Guide the charming Skullboy through eerie dungeons in a thrilling adventure full of secrets and surprises. Master new ab
+- [Long neck](../games/action/long-neck.md) — Collect rings of the same color as the character himself to make the neck as high as possible. If you collect more rings
+- [Long Neck Run](../games/action/long-neck-run.md) — What will you do if you are tall enough to look down the Effiel Tower? Here is a collecting arcade game with 3D stickman
+- [Long Neck Run](../games/action/long-neck-run-2.md) — Race through a vibrant landscape as a long-necked stickman, collecting color-matched rings to maintain your speed. With 
+- [Long Neck Run 3D](../games/action/long-neck-run-3d.md) — What will you do if you are tall enough to look down the Effiel Tower? Here is a collecting arcade game with 3D stickman
+- [Long Neck Runner Game](../games/action/long-neck-runner-game.md) — Whether youre big or small, at home or on the road, Long Neck Run is the perfect obstacle racing game to have fun and sh
+- [Long Night](../games/action/long-night.md) — Interesting running distance game.Walking at night when the forces of evil feel unpunished is not a good idea. But no on
+- [Long Night](../games/action/long-night-2.md) — Navigate shadowy paths in Long Night, a thrilling tap-action runner. As eerie spirits chase, your survival relies on qui
+- [Look for Boss](../games/action/look-for-boss.md) — Embark on an exhilarating retro adventure in Look for Boss. With pixelated graphics and intense action, navigate and sho
+- [Lorenzo the Runner](../games/action/lorenzo-the-runner.md) — Lorenzo the Runner is a 2D Mario-like platformer that takes you on an exhilarating adventure through a vibrant cityscape
+- [Lost Adventure](../games/action/lost-adventure.md) — "Survivors of a mid-air crash find themselves in a mysterious land. The pilot, amidst crafting, mining, and solving puzz
+- [Lost Heroes](../games/action/lost-heroes.md) — Fantasy puzzle platformer with action elements The player is given control over 3+ heroes with unique opportunities to i
+- [Lost in the Woods](../games/action/lost-in-the-woods.md) — You lost in the woods and trying to get back home! You are just a regular dude and can only jump normally. Beware of the
+- [Lost World](../games/action/lost-world.md) — A 2D platform game is a type of video game where the main character navigates through a two-dimensional environment whil
+- [Love Pig](../games/action/love-pig.md) — Guide a determined little pig on a heartwarming journey filled with obstacles and romance. Skillfully maneuver through c
+- [Love Pin 3D](../games/action/love-pin-3d.md) — Love Pin 3D is an interesting puzzle game. Your bride has been caught by bad guys, use your brain to avoid bad guys, fin
+- [Love Pins Online](../games/action/love-pins-online.md) — This should be a happy day because this couple of lovers will have a date. But there is a problem now, so many roadblock
+- [Lovei](../games/action/lovei.md) — Lovei is a 2D platform game where you need to collect heart potions while avoiding the spikes, saws and enemies and inst
+- [Lovely Bear](../games/action/lovely-bear.md) — This is an action jumping game. A cute koala child wants to go to heaven. At this time, players need to help koalas. Kee
+- [Lovo](../games/action/lovo.md) — LOVO is on a mission to reach new heights by hopping from nest to nest. Along the way, youll encounter enemy animals try
+- [Lows Adventures](../games/action/lows-adventures.md) — This is a platform game with 32 levels. You’ll guide Low in yours adventures in each one levels, wich the main goal is c
+- [Lows Adventures 2](../games/action/lows-adventures-2.md) — This is a platform game with 31 levels + BOSS. You’ll guide Low in yours adventures in each one levels, wich the main go
+- [Luka's Adventure](../games/action/luka-s-adventure.md) — Embark on a vibrant 2D platformer journey with Luka, a brave explorer navigating treacherous terrains and magical realms
+- [Lumina Robot](../games/action/lumina-robot.md) — Embark on an adventurous journey with Lumina Robot, a captivating platformer puzzle game. Navigate your robot through a 
+- [Lunar Phase Battle](../games/action/lunar-phase-battle.md) — Play Lunar Phase Battle, a simple turn-based strategy game! Connect moon phases to claim tiles and score points. Both pl
+- [Mace of Janissary](../games/action/mace-of-janissary.md) — The struggle of Janissaries continue with the mace gun. The player which dominates the mace gun better, wins the struggl
+- [Machine City Balls](../games/action/machine-city-balls.md) — Control your ball and drive on irregular roads. Sometimes you may encounter obstacles, but you may also fall into the ab
+- [Machine Eater](../games/action/machine-eater-2.md) — Create blocks using the resources you collect, expand your ship, and strategically place structures with different featu
+- [Macho Man Go](../games/action/macho-man-go-2.md) — Embark on an adrenaline-pumping adventure with Macho Man Go! Dash through thrilling levels, overcoming fierce enemies an
+- [Mackup Runner Game](../games/action/mackup-runner-game.md) — Makeup Runner Game is a fun and fast-paced endless runner game that combines speed with style. Your goal is to run throu
+- [Mad City Matrix](../games/action/mad-city-matrix-2.md) — Enter the adrenaline-fueled world of Mad City Matrix, where you, as Neo, fend off waves of relentless Agent Smith clones
+- [Mad Dash](../games/action/mad-dash.md) — Immerse yourself in the heart-pounding action of Maddash, the ultimate action platformer! With its high-octane gameplay,
+- [Mad Day 2 Special](../games/action/mad-day-2-special.md) — Mad Day 2 Special throws you back into explosive action as ex-Marine Bob takes on a full-scale alien invasion. Ride, sho
+- [Mad Hatter Rush](../games/action/mad-hatter-rush.md) — Mad Hatter Rush is a fast-paced cartoon adventure runner set in a surreal Wonderland. Help the Mad Hatter navigate throu
+- [Mad Joker](../games/action/mad-joker-2.md) — Dive into the chaotic streets with Mad Joker, where you orchestrate mayhem against oppressive enforcers in this pulse-po
+- [Mad Mad Unicorn](../games/action/mad-mad-unicorn.md) — Unleash your inner unicorn in Mad Mad Unicorn, an adrenaline-charged aerial escapade! Maneuver through the skies with on
+- [Mad Metal: Apocalypse Drift](../games/action/mad-metal-apocalypse-drift.md) — Unleash chaos in Mad Metal Apocalypse Drift, a thrilling post-apocalyptic car combat adventure. Customize and upgrade fe
+- [Mad Runner Epic Escape](../games/action/mad-runner-epic-escape.md) — Embark on a heart-pounding 2D side-scrolling escapade in Mad Runner Epic Escape. Sprint, jump, and dodge through chaotic
+- [Mad Shark](../games/action/mad-shark-2.md) — Dive into the action-packed world of Mad Shark as you navigate dangerous waters teeming with threats. Control a fierce s
+- [Mad Warrior](../games/action/mad-warrior.md) — Mad Warrior is a fun action game where you can evolve by collecting gems and eliminating your enemies.
+- [Mafia Boss Battle](../games/action/mafia-boss-battle.md) — Lead your criminal empire to the top in Mafia Boss Battle. Construct a powerful deck featuring notorious mafia figures, 
+- [MAGA Run](../games/action/maga-run.md) — The outgoing president have to escape the FBI. Find lost ballots, collect enough money and use twitter to succeed. Maybe
+- [Mage Girl Adventure](../games/action/mage-girl-adventure.md) — Wonderful platform adventure game where Mage Girl must cross the mystic valley where he meets many challenges. Collect a
+- [Mage Girl Adventure Game](../games/action/mage-girl-adventure-game.md) — HTML5 platform adventure game where Mage Girl must cross the mystic valley where he meets many challenges. Collect all s
+- [Magic Battle Online](../games/action/magic-battle-online.md) — Magic Battle Online is an epic online battle with different elements and abilities! Choose an element: fire, water, wind
+- [Magic Dash 3D](../games/action/magic-dash-3d.md) — Magic Dash is an endless runner game which has awesome graphics! Swipe up or Tap to Jump,Swipe down to roll, swipe right
+- [Magic Tunnel Rush](../games/action/magic-tunnel-rush.md) — Magic Tunnel Rush is an endless tunnel game consist of amazing gameplay and soundtrack. Players must avoid the gaps to k
+- [Maglu](../games/action/maglu.md) — An evil wizard took our pet, try to reach the end to retrieve it. With the experience that we will gather along the way,
+- [Mago Bros 1](../games/action/mago-bros-1.md) — Mago bros is a computer video game inspired in Mario Brothers. you will jump above enemies and take the treasure. The ca
+- [Mago Bros 2](../games/action/mago-bros-2.md) — Mago bros is a computer video game inspired in Mario Brothers. you will jump above enemies and take the treasure. The ca
+- [Magro Bros III](../games/action/magro-bros-iii.md) — Mago bros is a computer video game inspired in Mario Brothers. you will jump above enemies and take the treasure. The ca
+- [Majestic Dash](../games/action/majestic-dash.md) — Welcome to the world of Fantasy. This Fantasy adventure game will challenge your capability to overcome the hardships an
+- [Major Sparkle](../games/action/major-sparkle.md) — Shoot the historic monster with a fighter plane Explore the world of the historic war between monsters. Players need to 
+- [Make A Roller Coaster - Fun & Run 3D Game](../games/action/make-a-roller-coaster-fun-run-3d-game.md) — Designing the route of the roller coaster is undoubtedly a very important task. How to let passengers experience the thr
+- [Makeup Runner](../games/action/makeup-runner.md) — It’s Makeup Run Kit time , Give your girls the sweetest makeovers ever! Pickup your favorite brushes and makeover your p
+- [Makeup Stack](../games/action/makeup-stack.md) — Would you like to make up? How many cosmetic brands do you know? In this game, these questions will get the answers. Let
+- [Man Runner 2048](../games/action/man-runner-2048.md) — Man Runner 2048 is a fun casual game where you run, grow big and fight against monsters. Your goal is to run and merge t
+- [Mangavania](../games/action/mangavania.md) — Embark on a daring journey through the perilous Underworld alongside Yuhiko, a nimble ninja on a quest to save his broth
+- [Mani Mouse](../games/action/mani-mouse.md) — Mani Mouse is a 2D cute little platformer where you play as a mouse who have to collect all of the slices of cheese whil
+- [Mani Mouse 2](../games/action/mani-mouse-2.md) — Mani Mouse 2 is a 2D cute little platformer where you play as a mouse who have to collect all of the slices of cheese wh
+- [Marbel ball 3d](../games/action/marbel-ball-3d.md) — Marbel Ball 3D is an excellent 3D ball game that will make you super happy and addicted to the game with simple and easy
+- [Marble Rolling Stunt](../games/action/marble-rolling-stunt.md) — Marble Rolling Stunt is classic Slope game in a new coat. The game is colorful and the platforms you are rolling on are 
+- [Mario Bros Deluxe](../games/action/mario-bros-deluxe.md) — Mario Bros Deluxe a new kind of Mario game that you can play with one hand. You control Mario by tapping as he constantl
+- [Mario Bros World](../games/action/mario-bros-world.md) — Mario Bros World a new kind of Mario game that you can play with one hand. You control Mario by tapping as he constantly
+- [Mario Egypt Stars](../games/action/mario-egypt-stars.md) — Mario Egypt Stars is a brand new html5 game featuring your beloved superhero, where you have to guide your character amo
+- [Mario HTML5 Mobile](../games/action/mario-html5-mobile.md) — Meet the updated version of Mario's adventures in the Super Mario Html5 game. The plumber will again overcome various ob
+- [Mario Runner Mobile](../games/action/mario-runner-mobile.md) — Time passes and every computer hero must find himself in a new life. Mario decided not to change himself too much and st
+- [Maritime Conflict](../games/action/maritime-conflict.md) — Maritime Conflict is a fastpaced naval strategy game where every shot counts. Scan the ocean, predict your opponent&rsqu
+- [Marrakech Subway](../games/action/marrakech-subway.md) — Subway Surfers Subway surfers Marrakech! - Experience unique architecture and dazzling beaches - Team up with Sofia and 
+- [Martial Arts: Fighter Duel](../games/action/martial-arts-fighter-duel.md) — Welcome to the duel tournament of martial arts! 17 martial arts masters from different countries and geographies meet in
+- [Mashup Hero](../games/action/mashup-hero.md) — Mashup Hero is a fast-paced mecha parkour game where you assemble a robot while sprinting to the finish line. Swipe to a
+- [Mask Buddy Run](../games/action/mask-buddy-run.md) — Dash through enchanting pixel art landscapes in Mask Buddy Run, where every jump and dodge counts. Maneuver seamlessly w
+- [Mask of six Moons](../games/action/mask-of-six-moons.md) — Mask of Six Moons is a pixel-art action platformer. Dive through the moon gates, battle monsters and loot weapons from C
+- [Mass Sink](../games/action/mass-sink.md) — Will you rush to the end or will you prefer to clean everything up on your way? Move your character and make all the ene
+- [Master Craft](../games/action/master-craft.md) — This world is endless and you will never get bored! Survive in beautiful minecraft world and build buildings with blocks
+- [Master Hole Battle](../games/action/master-hole-battle.md) — Control your growing black hole to absorb troops, build an unstoppable army, and crush enemies on the battlefield! Swipe
+- [Master Thief - Catch Me If You Can](../games/action/master-thief-catch-me-if-you-can.md) — Master Thief is an exciting and addicting arcade game, you will act as a thief and steal some expensive pictures. This i
+- [Matchman PUBG](../games/action/matchman-pubg.md) — The game is divided into 3 modes: 1 is normal mode, 2 countdown simple mode, and 3 is countdown hard mode. The rules of 
+- [Math Battle](../games/action/math-battle.md) — Engage in thrilling dinosaur clashes while honing your math prowess in Math Battle. Solve math challenges to power up yo
+- [Math Gates](../games/action/math-gates.md) — Your mission in this game; It is to find the answer to the math question you have been told in a short time and to pass 
+- [Math Magic Battle](../games/action/math-magic-battle.md) — Unleash your inner mathematician in Math Magic Battle, where fast-paced puzzle-solving meets vivid pixelated visuals. Te
+- [Math Runner](../games/action/math-runner.md) — Youre running on the endless math additions and you have to keep the sums at 0-10. Good run!
+- [Math Runner Combine Number](../games/action/math-runner-combine-number.md) — The merge cube puzzle game's controls are pretty straightforward; all you have to do to succeed is swipe left or right, 
+- [Math Speedrunner](../games/action/math-speedrunner.md) — Are you a Math genius? Your math skills include high speed?? Math Speedrunner is the game for you!!! Developed in 2025 b
+- [Math Speedrunner](../games/action/math-speedrunner-2.md) — Race against the clock in Math Speedrunner, where quick thinking and rapid calculations blend into an adrenaline-fueled 
+- [MathPup Story](../games/action/mathpup-story.md) — MathPup is through with math for the day and is off looking for dog bones. Help MathPup get the dog bone in each level i
+- [MathPups Adventures](../games/action/mathpups-adventures.md) — MathPup is through with math for the day but is still hungry for dog bones. Help MathPup get all of the dog bones in the
+- [MathPups Adventures 2](../games/action/mathpups-adventures-2.md) — This is MathPup's second set of adventures looking for dog bones. Help MathPup get all of the dog bones in each level wh
+- [MAX AXE](../games/action/max-axe.md) — 1: Players need to take your axe and throw it at the bull's-eye. They will get higher scores and more corresponding rewa
+- [Maxoo](../games/action/maxoo.md) — Maxoo is a 2D platformer where you need to collect silver keys while avoiding the ball enemies, flying robots, pins, and
+- [Maxoo 2](../games/action/maxoo-2.md) — Maxoo 2 is a 2D platformer where you have to collect silver keys while avoiding the enemy balls, flying creatures, pins,
+- [Maya Adventure](../games/action/maya-adventure.md) — The adventurer friends continue their adventure with the Maya civilization after Inca and Aztec pyramids. But, they have
+- [Maze Bomber Game](../games/action/maze-bomber-game.md) — Enter a thrilling maze filled with obstacles and explosive challenges! Move through the maze, place bombs strategically,
+- [Maze Runner Ball](../games/action/maze-runner-ball.md) — Maze Runner Ball is an exciting puzzle maze game where you control a ball to find the way out of challenging mazes. Roll
+- [Maze Runner Remake](../games/action/maze-runner-remake.md) — Maze Runner Remake immerses you in an exhilarating maze adventure! Dodge ingenious traps, snag bonuses, and race against
+- [Maze Survivor   Platform Adventure Game](../games/action/maze-survivor-platform-adventure-game.md) — Maze Survivor is a fun 2D platform adventure game where players must explore maze-like levels, find the hidden key, and 
+- [Mazzora](../games/action/mazzora.md) — A mix of Maze, Platform and Golf.
+- [MC Crazy Craft](../games/action/mc-crazy-craft.md) — You will change the hours with its beautiful levels and very fluid gameplay. Have fun with this excellent parkour game. 
+- [MCBros PixelCraft](../games/action/mcbros-pixelcraft.md) — In the adventure of Steve and Alex, you need to help them. They must collect all the diamonds. Be very careful while col
+- [MCBros PixelCraft](../games/action/mcbros-pixelcraft-2.md) — Embark on a pixelated adventure with Steve and Alex in MCBros PixelCraft. Navigate treacherous obstacles, outsmart lurki
+- [MCParkour Noob &amp; Noob Baby](../games/action/mcparkour-noob-amp-noob-baby.md) — In 3d two player mc parkour you have to help two friends reach the finish line. In this game played for two players, you
+- [MCParkour Noob & Noob Baby](../games/action/mcparkour-noob-noob-baby.md) — Join the adventure in MCParkour Noob & Noob Baby, where players navigate treacherous terrains with a dynamic duo. Hone y
+- [Mcraft Cartoon Parkour](../games/action/mcraft-cartoon-parkour.md) — hey you have to survive in cartoon block world with mc guys from drawing. You have to defend the best in this world. You
+- [Mcraft Cartoon Parkour](../games/action/mcraft-cartoon-parkour-2.md) — Dive into the vibrant block universe of Mcraft Cartoon Parkour, where teamwork is your key to survival. Navigate thrilli
+- [Meccha Chameleon Online](../games/action/meccha-chameleon-online.md) — Meccha Chameleon Online is an exciting online hide-and-seek adventure where players can transform, disguise, and compete
+- [Mech Builder Master](../games/action/mech-builder-master.md) — Mech Builder Master challenges you to construct your ultimate mech and engage in epic battles. As you progress, face off
+- [Mecha Allstars Battle Royale](../games/action/mecha-allstars-battle-royale.md) — Get ready to enter the ultimate battlefield of steel and fire. Mecha Allstars Battle Royale is a high-energy action figh
+- [Mecha Son of Mecha](../games/action/mecha-son-of-mecha.md) — Defend your base in Mecha Son of Mecha by mastering exhilarating battles as a powerful robotic defender. Strategically s
+- [Mecha Storm Robot Battle](../games/action/mecha-storm-robot-battle.md) — Get ready for the nervous action of Mecha Storm: Robot Battle. This game puts you in the future technology world and bec
+- [Mecha Storm Robot Battle](../games/action/mecha-storm-robot-battle-2.md) — Enter a futuristic world in Mecha Storm: Robot Battle, where strategic brilliance and swift action collide. Customize yo
+- [Mechanic Master Run](../games/action/mechanic-master-run.md) — Mechanic Master Run is a popular game which has simple game play. Slide to move to collect the parts. Collect the same p
+- [MechaSpider: Cyber Strike](../games/action/mechaspider-cyber-strike.md) — MechaSpider: Cyber Strike drops players into futuristic urban warzones piloting a high-tech arachnid lethal weapon. Wall
+- [MechDinosaur](../games/action/mechdinosaur.md) — A hyper-casual game with a variety of dinosaur armors to choose from. Use the dinosaur armor to pass the level to your h
+- [MechLoop](../games/action/mechloop.md) — Youve never played a platform game like this before. Its a game where you have to use your mind completely. use your min
+- [Meera Quest](../games/action/meera-quest.md) — Meera Quest is a 2D anime themed platformer where you play as a cute anime girl called Meera who have to collect keys in
+- [Meera Quest 2](../games/action/meera-quest-2.md) — Meera Quest 2 is a 2D anime themed platformer where you play as a cute anime girl called Meera who have to collect keys 
+- [Mega Crowd](../games/action/mega-crowd.md) — Mega Crowd is a fast-paced 3D crowd runner where you grow your team, dodge traps, choose the best math gates, and race t
+- [Mega Noob Sky Obby: 50 Stages](../games/action/mega-noob-sky-obby-50-stages.md) — Dash, jump, and balance your way through a massive colorful sky parkour! In this 3D platformer adventure, your mission i
+- [Mega Parkour: Obby Escape Run](../games/action/mega-parkour-obby-escape-run.md) — Jump into Mega Parkour: Obby Escape Run, where thrilling parkour meets exciting obby challenges! This top-tier running a
+- [Mega Ramp Stunt Moto Game](../games/action/mega-ramp-stunt-moto-game.md) — Mega Ramp Stunt Moto is an interesting driving game. You will keep a tight rein on a motorcycle on an aerial platform an
+- [Megalodon](../games/action/megalodon.md) — It is a small game of shark swallowing type. Here, players control your sharks and constantly carry out your swallowing 
+- [Melee Attack](../games/action/melee-attack.md) — Melee Attack plunges you into a relentless, adrenaline-filled battle where survival hinges on quick reflexes and sharp s
+- [Melee Attack Online Game](../games/action/melee-attack-online-game.md) — Do you love playing online jump platformer games? Well, get ready to experience the newest and most exciting game in the
+- [Melina Run Adventure](../games/action/melina-run-adventure.md) — Story: Melina, a brave girl, ventures into a mysterious forest for an exhilarating adventure. Facing perilous obstacles,
+- [Melody's Adventure](../games/action/melody-s-adventure.md) — Embark on a colorful platforming quest in Melody's Adventure, where vibrant levels, clever obstacles, and musical rhythm
+- [Melody's Adventure 2](../games/action/melody-s-adventure-2.md) — Embark on an enchanting rhythmic adventure in Melody's Adventure 2. Navigate through 32 intricately designed levels, lev
+- [Melodys Adventure](../games/action/melodys-adventure.md) — Prepare for an unforgettable odyssey alongside Melody! Dive into 32 enchanting levels brimming with vibrant landscapes a
+- [Melodys Adventure 2](../games/action/melodys-adventure-2.md) — Embark on a grander adventure with Melody in Melodys Adventure 2! Explore 32 expansive levels, now larger than ever, set
+- [Melon Jump](../games/action/melon-jump.md) — Melon Jump is a challenging and fun hyper-casual minimalist game. You control the Melon and must jump between platforms 
+- [Meme Piggy: Adventure](../games/action/meme-piggy-adventure.md) — Meme Pig rushing to the aid of Princess Pig! Overcome all difficulties and save your princess. The game is an adventure 
+- [Memory Lane](../games/action/memory-lane.md) — Your goal in each level is to reach the Goal Platform without falling or touching enemies. Levels are played in two phas
+- [Memory Lane](../games/action/memory-lane-2.md) — Navigate a world where memory is your greatest ally. In Memory Lane, master the art of recall as you transition from see
+- [Mermaid S Tail Rush 1](../games/action/mermaid-s-tail-rush-1.md) — Dive into a vibrant underwater adventure in Mermaid's Tail Rush! Transform your mermaid with magical tails, each grantin
+- [Mermaid Struggle](../games/action/mermaid-struggle.md) — Mermaid Struggle is an online game that challenges players to help a mermaid jump her way to safety. With beautiful grap
+- [Mermaids Tail Rush](../games/action/mermaids-tail-rush.md) — Mermaids are known to eat their tails to increase their length and make them more beautiful. Im kidding. At the end of t
+- [Metal Army War 3](../games/action/metal-army-war-3.md) — The Metal Army War challenge isn't over yet! While the heroes who have protected Earth from robotic aliens are on vacati
+- [Metal Driller](../games/action/metal-driller-2.md) — Descend into addictive arcade action with Metal Driller! Navigate an enormous personal drill to unearth treasures, manag
+- [Mew Cat](../games/action/mew-cat.md) — Mew Cat is a 2D platformer where you have to collect the cat food bowls while avoiding the enemy cats, spikes and saws a
+- [Mew Cat 2](../games/action/mew-cat-2.md) — Mew Cat 2 is a 2D platformer where you have to collect cat food bowls while avoiding the enemy cats, flying robots,spike
+- [Mexican Wrestler Superstars](../games/action/mexican-wrestler-superstars.md) — It’s time to flex the biceps of the wrestlers under the sun of Mexico in Mexican Wrestlers Superstars. Prove to the worl
+- [Mice Hunt](../games/action/mice-hunt.md) — Dive into the exhilarating world of Mice Hunt, where you play as a swift owl in a frantic race against a pursuing dragon
+- [Mice Rush](../games/action/mice-rush.md) — Mice Rush is a fast-paced 3D endless runner where you control a little mouse racing through challenging obstacles to col
+- [Mickey Run Adventure Game](../games/action/mickey-run-adventure-game.md) — Welcome to the great kingdom craft! prepare yourself brave mickey, get ready to run, jump, dash and rush through the kin
+- [Micro Tank Battle](../games/action/micro-tank-battle.md) — Dodge enemy fire and strategize your shots in Micro Tank Battle. Navigate intricate battlefields, collect power-ups, and
+- [Middle East Runner](../games/action/middle-east-runner.md) — Run along the craziest scenarios in the Arabian City. Avoid hitting obstacles. Run around the Arabian City, subway and g
+- [Midnight Sky Runner](../games/action/midnight-sky-runner.md) — Embark on an exhilarating flight through the mesmerizing midnight sky. Dodge obstacles, collect stars, and aim for high 
+- [Mighty Raju Adventure 3D](../games/action/mighty-raju-adventure-3d.md) — Do you love endless flying & endless runner games? Do you happen to adore Mighty Raju ? Well you are sure to love Mighty
+- [Mighty Run](../games/action/mighty-run.md) — Embark on an exhilarating platforming adventure in Mighty Run. Navigate vibrant levels, dodge cunning foes, and collect 
+- [Mighty Run 2D](../games/action/mighty-run-2d.md) — Mighty Run is an exciting platformer where you jump, dodge obstacles, and battle enemies to reach the next level. Collec
+- [Mine Fight! Cut Mob Army!](../games/action/mine-fight-cut-mob-army.md) — Step into the world of Minecraft-style battles and become a master of the sword! ⚔️ In "Mine Fight! Cut Mob Army!", you’
+- [Mine Jump](../games/action/mine-jump.md) — Join the exciting world of Mine Jump, an engaging online experience that merges quick thinking with rapid actions. Explo
+- [Mine Keeper](../games/action/mine-keeper.md) — Mine Keeper is a simulation game where you play as a dwarf lord and create one of those great kingdoms of yours. Build y
+- [Mine Noob Maze](../games/action/mine-noob-maze.md) — Mine Noob Maze is a casual game that has been gaining popularity among online game enthusiasts. Developed by Kiz, this g
+- [Mine Obby: +1 Dig Power per Hit](../games/action/mine-obby-1-dig-power-per-hit.md) — 🧱 Blocky Adventure Dive into a blocky world of mines, obby challenges, and upgrades! Break blocks, pass obstacles, and 
+- [Mine Obby 3D: Minigame World](../games/action/mine-obby-3d-minigame-world.md) — Dive into the exciting world of minigames! 🎮✨
+- [Mineblock Obby](../games/action/mineblock-obby.md) — Minecblock Obby is an amazing parkour game that you can play totally free! Do your best as you navigate through challeng
+- [Mineblock Obby](../games/action/mineblock-obby-2.md) — Race through a blocky universe in Mineblock Obby, a captivating parkour adventure filled with challenging obstacle cours
+- [Minecity Breakers](../games/action/minecity-breakers.md) — The objective of the game is to take the giant Minecraft as far as you can in the city destroying everything on your way
+- [Minecraft Adventure](../games/action/minecraft-adventure.md) — Minecraft Adventure is fun running and jumping game suitable for all ages. Run and jump with Steve, the online game lege
+- [Minecraft Ballance Challenge](../games/action/minecraft-ballance-challenge.md) — Minecraft Ballance Challenge is super fun action game free to play on PC and mobile. The aim of the game is to stay on t
+- [Minecraft Battle Party](../games/action/minecraft-battle-party.md) — Ready for a hot feast of square battles? In Minecraft Battle Party, youll enter a pixel-styled battle arena where nervou
+- [Minecraft Coin Adventure](../games/action/minecraft-coin-adventure.md) — Minecraft Coin Adventure is fun html5 game and you can play it online for free. The rules are simple, just get the coin 
+- [Minecraft Creeper Escape](../games/action/minecraft-creeper-escape.md) — Jump across dangerous platforms and guide a Minecraft creeper through blocky escape levels filled with traps and gaps. P
+- [Minecraft Earth Survival](../games/action/minecraft-earth-survival.md) — Minecraft Earth Survival is fun arcade game suitable for all ages. You need to stay alive as long time as possible. Run 
+- [Minecraft Lay Egg](../games/action/minecraft-lay-egg.md) — Minecraft Lay Egg is fun online game suitable for all ages, This time, you as a Minecraft Steve need to run over obstacl
+- [Minecraft Parkour Block](../games/action/minecraft-parkour-block.md) — Minecraft Parkour Block is a fun and exciting game of dexterity that will put your parkour jumping skills to the test. W
+- [Minecraft Parkour Trials](../games/action/minecraft-parkour-trials.md) — Minecraft Parkour Trials is a super fun and free-to-play parkour game. Your goal is to reach the portal at the finish li
+- [Minecraft Runner](../games/action/minecraft-runner.md) — Minecraft Runner Game
+- [Minecraft Runner city](../games/action/minecraft-runner-city.md) — Minecraft Runner city - Explore the whole craft world with the craft game: Craft Runner - Minecraft Runner city A mini s
+- [Minecraft Steve Hook Adventure](../games/action/minecraft-steve-hook-adventure.md) — Minecraft Steve Hook Adventure is a fun physics ball game where your goal is to move the ball by grappling it on to the 
+- [Minecraft World Adenture](../games/action/minecraft-world-adenture.md) — Join us on an extraordinary journey in the pixelated realm of Minecraft World Adventure! This arcade game is not just a 
+- [MinerCraft Party - 4 Player](../games/action/minercraft-party-4-player-2.md) — Dive into the pixelated world of MinerCraft Party, a dynamic 4-player multiplayer game. Strategize with friends to build
+- [Miners Adventure](../games/action/miners-adventure.md) — Grandpa and grandchild are embarking on an adventure to collect the precious stones which are located under the ground B
+- [Minescrafter Xmas](../games/action/minescrafter-xmas-2.md) — Embark on a thrilling adventure in Minescrafter Xmas, where you navigate a perilous forest, fend off zombies, and rescue
+- [Mini Adventure II](../games/action/mini-adventure-ii.md) — Are you ready for adventure? In this game, you can have fun and spend quality time. Complete levels by jumping over obst
+- [Mini Arrows](../games/action/mini-arrows.md) — Mini Arrows is a retro-style platformer where you guide a blob character to his goal; turning on and off arrow blocks on
+- [Mini Blocks](../games/action/mini-blocks.md) — You control a small blob character with the power to turn on or off elements on the level. Use that power wisely to reac
+- [Mini Car: Room Parkour](../games/action/mini-car-room-parkour.md) — An ordinary home becomes a giant obstacle course when you drive a tiny car! Explore different rooms, race across the flo
+- [Mini Coins](../games/action/mini-coins.md) — Mini Coins is an arcade game where you must collect all the coins in the level by jumping, wall jumping, avoiding obstac
+- [Mini Colors](../games/action/mini-colors.md) — Mini Colors is a puzzle game where you have to turn on/off color platforms in order to reach your loved one; is inspired
+- [Mini Dash](../games/action/mini-dash.md) — Mini Dash is a retro-style platform game where you command a small blob character; use his air-dashing skills to evade o
+- [Mini Fighters : Quest & battle](../games/action/mini-fighters-quest-battle.md) — The most strategic RPG war game is now available, " Mini Fighters : Quest & battle ". You must lead your mini fighters a
+- [Mini Fighters Strike](../games/action/mini-fighters-strike.md) — 8 talented mini fighters are ready to show their skills in the arena. Follow your opponent and try to win matches by mak
+- [Mini Flips Plus](../games/action/mini-flips-plus.md) — Mini Flips is an arcade game where you must collect all the coins in the level by jumping, flipping sides, avoiding obst
+- [Mini Grand Thef City](../games/action/mini-grand-thef-city.md) — Free game of Mini Grand Thef City, an entertaining game based on the famous GTA game in a minimalist world!! In this ent
+- [Mini guardians](../games/action/mini-guardians.md) — Play to MINI GUARDIANS : CASTLE DEFENSE and lead your warriors and guardians to defend your castle, dungeons and towers 
+- [Mini Heads Party](../games/action/mini-heads-party.md) — Flat Flap is a casual game for all ages, simple one-touch control, very inspired by Flappy Bird gameplay. With a minimal
+- [Mini Jumper](../games/action/mini-jumper.md) — Navigate the cosmos with a charming alien hero in Mini Jumper, where gravity defies expectation. Master precise jumps to
+- [Mini Jumps](../games/action/mini-jumps.md) — Mini Jumps is a game where you control a little orange blob that only has the ability to jump. Use the platforms on the 
+- [Mini Jumps](../games/action/mini-jumps-2.md) — Guide a sticky orange slime through vibrant puzzles where precise jumps and quick reflexes are key. Master timing to nav
+- [Mini Push](../games/action/mini-push.md) — Mini Push is a retro-style arcade game where you have to help a blob to reach his objective by enabling or disabling blo
+- [Mini Springs](../games/action/mini-springs.md) — Mini Springs is a retro-style platform game where you command a small blob character that cant jump; use the springs all
+- [Mini Steps](../games/action/mini-steps.md) — Mini Steps is a retro-style platform-puzzle game where you command a small blob character that jumps in small steps; you
+- [Mini Swim](../games/action/mini-swim.md) — Mini Swim is a platformer game where you have to swim all over the stage evading obstacles and enemies to collect all th
+- [Mini Switcher](../games/action/mini-switcher.md) — Switch the gravity to guide a small blob character to the goal, traveling around 30 levels and facing a variety of color
+- [Mini Switcher Plus](../games/action/mini-switcher-plus.md) — Sequel of Mini Switcher. Switch the gravity to guide a small blob character to the goal, traveling around 30 levels and 
+- [Mini Tooth](../games/action/mini-tooth.md) — Mini Tooth has a unique ability to teleport, allowing him to traverse the game world effortlessly with incredible speed 
+- [MiniBattles -  2 3 4 5 6 Player Games](../games/action/minibattles-2-3-4-5-6-player-games.md) — Many minigames to challenge your friends, it sounds incredible but it is real! Up to 6 players can play at the same time
+- [Minicraft Bedwars](../games/action/minicraft-bedwars.md) — How about protecting your bed and destroying your friend&rsquo;s bed in Bedwars mode? Choose either the red or blue team
+- [Minicraft Chef Cake Wars](../games/action/minicraft-chef-cake-wars.md) — Hey player, would you like to have a cooking competition with your friend? In this cooking contest, you must beat your f
+- [Minicraft Duello](../games/action/minicraft-duello.md) — Minicraft Duello is a 2 player TNT game where your mission is to explode your friend and become the survivor. With 2 dif
+- [Minie Adventure Girl](../games/action/minie-adventure-girl.md) — Guide Minie through thrilling side-scrolling adventures filled with clever challenges and hidden traps. Leap over obstac
+- [Minimal Platformer Runner](../games/action/minimal-platformer-runner.md) — Dive into the minimalist world of endless running! Jump to dodge obstacles and evade pesky birds, all while testing your
+- [Mining Rush 3D: Underwater](../games/action/mining-rush-3d-underwater.md) — Continue the game by hiring idle miners and making the first profit in the idle merger game. Earn more in building games
+- [Mirror Wizard](../games/action/mirror-wizard.md) — Mirror Wizard is retro a platforming-puzzle game where you control a wizard that has the power to teleport to the other 
+- [Miscast](../games/action/miscast.md) — Miscast is a fast 1v1 wizard duel about timing and reading your opponent. Build a loadout of 3 spells and climb an 8-mag
+- [Mischievous](../games/action/mischievous.md) — In a strange town, the boy and his family are the new residents of the town, but they find that the neighbors have been 
+- [Miss Tuna](../games/action/miss-tuna.md) — Miss Tuna is a 2D Platformer where you need to collect all of the lollipops while avoiding saws, and enemies. There are 
+- [Miss Yuuno 2](../games/action/miss-yuuno-2.md) — Miss Yuuno 2 is a 2D adventure platformer where you play as a girl called Yuuno who has lost her memories because of a t
+- [Mission Kill Italian Brainrot](../games/action/mission-kill-italian-brainrot-2.md) — Join Tung Tung on a relentless quest against waves of enemies. Navigate challenging levels, discover hidden chests, and 
+- [Mission To Moon Online Game](../games/action/mission-to-moon-online-game-2.md) — Embark on a thrilling space adventure as a daring astronaut in Mission To Moon. Navigate the cosmos, recruit a diverse c
+- [Missionary Fighter](../games/action/missionary-fighter.md) — Missionary Fighter is an adrenaline-fueled action game where players embark on daring rescue missions in hostile territo
+- [Mix and kick monsters](../games/action/mix-and-kick-monsters.md) — Unleash your creativity in Mix and Kick Monsters by crafting unique beasts from an array of parts. Test your creations i
+- [Mizu Quest](../games/action/mizu-quest.md) — Mizu Quest is a 2D anime themed platformer where you play as a magical anime girl who have to collect all the bottles of
+- [Mizu Quest 2](../games/action/mizu-quest-2.md) — Mizu Quest 2 is a 2D anime themed platformer where you play as a magical anime girl who have to collect all the bottles 
+- [Mob Control](../games/action/mob-control.md) — How to invade a castle? Mob Control will show you the correct way to win a war with the number of people's advantages. W
+- [Mob Escape](../games/action/mob-escape.md) — Mob Escape Game is an exciting action and survival game where players must escape from a dangerous mob and reach a safe 
+- [Mob Handler](../games/action/mob-handler-2.md) — Dive into Mob Handler's thrilling arcade action! Master waves of enemies through sharp shooting and strategic math calcu
+- [Mobile Legends Slime 3v3](../games/action/mobile-legends-slime-3v3.md) — Mobile Legends Slime 3v3 will bring you into a fun arena of exciting battles! In this 3v3 PvP game, you can unblock many
+- [Mobile Legends Slime 3v3](../games/action/mobile-legends-slime-3v3-2.md) — Team up for vibrant, fast-paced 3v3 battles in Mobile Legends Slime. Unlock and master unique slime characters, each wit
+- [Modern warfare](../games/action/modern-warfare.md) — This is a strategy game and a leisure game. There are two modes in this game: one is the pass through mode and the other
+- [MOLE.X](../games/action/mole-x.md) — Catch mischievous moles in MOLE.X, a retro pixel game demanding sharp reflexes and pinpoint accuracy. With visuals evoki
+- [Molli](../games/action/molli.md) — Molli is a fantastic new adventure, puzzle, and platformer game.filled with challenges that will make any platforming fa
+- [Molli1](../games/action/molli1.md) — Embark on Molli's electrifying journey through 20 levels of puzzle-packed platforming. Master precision and timing to na
+- [MOMENTUM](../games/action/momentum.md) — MOMENTUM is a high-speed endless runner that challenges your reflexes! Control a unique doodle character dashing through
+- [Mommy Stikman Vs Huggy Wuggy](../games/action/mommy-stikman-vs-huggy-wuggy.md) — You are a fan of Huggy Wuggy, have you ever been curious about Huggy Wuggy's history before becoming avenger in an aband
+- [Money Chaser - Parkour Game](../games/action/money-chaser-parkour-game-2.md) — Race through a vibrant cityscape in this thrilling 2D parkour adventure. Leap, slide, and navigate perilous obstacles to
+- [Money Fest](../games/action/money-fest.md) — You can now play the Money Fest game on the Web without downloading it to your computer. Start making money by collectin
+- [Money Fest 3D](../games/action/money-fest-3d.md) — How do you feel about coins? Money Fest 3D is a coin-collecting vertical-version arcade game with 3D models. If you want
+- [Money Honey](../games/action/money-honey.md) — As a pure collecting dress-up running arcade game, Money Honey allows you to help a beauty find rich men and pay for her
+- [Money Run Fest](../games/action/money-run-fest.md) — Are you looking for a fun run race 3D game to relieve stress? What do you think about the game with the money theme? Mon
+- [Money Rush 3D](../games/action/money-rush-3d.md) — Dive into Money Rush 3D, where your reflexes meet endless fun! Collect cash and blast away obstacles with straightforwar
+- [Money Stack Run 3D](../games/action/money-stack-run-3d.md) — Dash and stack your way to fortune in Money Stack Run 3D! Navigate vibrant tracks, dodge obstacles, and pile up cash to 
+- [Money Stack Runner Game](../games/action/money-stack-runner-game.md) — Holding your money is constantly walking forward, there are many choices on the road. You need to choose one of the past
+- [Money Up](../games/action/money-up.md) — Money Up is like a progressing road where different choices present themselves at every step. Your past choices determin
+- [Monkeys Fighting](../games/action/monkeys-fighting.md) — Guide your monkey through intense jungle battles in Monkeys Fighting. Dive into dynamic brawls with easy controls and un
+- [Mononinja](../games/action/mononinja.md) — Make precise jumps while avoiding certain death. Guide a brave ninja to his goal as he overcomes his deadly obstacles. O
+- [Monster Arena](../games/action/monster-arena.md) — Dive into Monster Arena, where survival hinges on quick reflexes and strategic weapon choices. Engage in relentless mons
+- [Monster Craft](../games/action/monster-craft.md) — Explore magic minecraft maze and complete all levels and tasks.
+- [Monster Dash](../games/action/monster-dash.md) — Get ready for a brand new Monster game. Make it pass through dangerous paths to get the cute monsters to the finish line
+- [Monster Dinosaur Rampage City Attack](../games/action/monster-dinosaur-rampage-city-attack.md) — Monster Dinosaur Rampage : City Attack brings an adventurous journey in the prehistoric life of dinosaurs. You have to p
+- [Monster Duelist](../games/action/monster-duelist.md) — Monster Duelist immerses players into a mysterious world where they assume the role of a monster duelist. Exploring vast
+- [Monster Duelist](../games/action/monster-duelist-2.md) — Prepare for epic battles as you capture, train, and command an array of unique monsters in Monster Duelist. Explore vast
+- [Monster Egg](../games/action/monster-egg.md) — Begin the wildest evolution adventure ever in Monster Egg! This is not just a simple running game. It&rsquo;s a fast-pac
+- [Monster Evolution Demon DNA](../games/action/monster-evolution-demon-dna.md) — The monster that controls your fusion process must eventually defeat the final boss of the computer fusion after going t
+- [Monster Game](../games/action/monster-game.md) — Monster Game is an exciting action-packed game where players run through dynamic maps, collecting unique parts to build 
+- [Monster Hero](../games/action/monster-hero.md) — Players need to fight with monsters to defend the peace of the city. The game's screen design is very sophisticated, whi
+- [Monster Hero Rescue City](../games/action/monster-hero-rescue-city.md) — Are you ready for something new like the incredible monster hero rescue city? Try using a monster superhero to save your
+- [Monster Heroes Of Myths](../games/action/monster-heroes-of-myths.md) — Monster Heroes Of Myths is an action-packed adventure game where you can summon soldiers to battle against evil enemies!
+- [Monster Heroes of Myths](../games/action/monster-heroes-of-myths-2.md) — Embark on a captivating adventure in Monster Heroes of Myths. Command armies from history, like Egyptian and Roman soldi
+- [Monster Live](../games/action/monster-live.md) — Battle in real-time against relentless undead in Monster Live's thrilling apocalyptic world. Survive solo or team up wor
+- [Monster Maker](../games/action/monster-maker.md) — -Click Generate to generate a random monster. - Enter a seed or leave it empty for a random result - Click Screenshot to
+- [Monster of Garage Storage](../games/action/monster-of-garage-storage.md) — Enter the chilling realm of Monster Snap Garage Storages, a survival horror experience plunging players into a harrowing
+- [Monster Rush 3D](../games/action/monster-rush-3d.md) — As a funny running arcade game, there is a boss chimpanzee standing on the finish point of the track at each level. It i
+- [Monster School Parkour Challenge](../games/action/monster-school-parkour-challenge.md) — Monster School Parkour Challenge is a 2 player 2D minecraft parkour game where you can play with your friend. Choose you
+- [Monster Smash](../games/action/monster-smash.md) — Monster smash is a great game that is about smashing the monsters that appear on the screen, but be careful with smashin
+- [Monster Squad Rush](../games/action/monster-squad-rush.md) — Monster Squad Rush is a popular running game that has simple game play. Just slide to control the character to go ahead.
+- [Monster Tamer RPG Adventure & Battle](../games/action/monster-tamer-rpg-adventure-battle.md) — Dive into a vibrant world where you capture diverse creatures and engage in thrilling turn-based battles. Navigate smoot
+- [Monster Treasure](../games/action/monster-treasure.md) — Monster Treasure Online is an online endless runner arcade game that features monsters. Looking for a fun and addicting 
+- [Monster Up](../games/action/monster-up.md) — Monsters up is tap base game with addictive game play Tap to jump on platforms and make balance on each platform to coll
+- [MonsterfallTaming](../games/action/monsterfalltaming.md) — In MonsterfallTaming, dive into a post-apocalyptic world where a mysterious virus lets you tame powerful creatures. Stra
+- [MonsterRun](../games/action/monsterrun.md) — Circle running monster version is a leisure game, the game players need to control the villain, keep in a circle, avoid 
+- [Monsters Dungeon Battle](../games/action/monsters-dungeon-battle.md) — Fight against those monsters residing in the abandoned dungeon. Upgrade your stats, Collect classes, Wizard, Archer and 
+- [Moo Bot](../games/action/moo-bot.md) — Moo Bot is a 2D Sci-fi themed platformer where you play as a bot who have to collect the blue energy crystals while avoi
+- [Moo Bot 2](../games/action/moo-bot-2.md) — Moo Bot 2 is a 2D Sci-fi themed platformer where you play as a bot who have to collect the blue energy crystals while av
+- [Moon Rocket](../games/action/moon-rocket.md) — Blast off into the exhilarating world of Moon Rocket, where precision and speed are your allies. Launch rockets towards 
+- [Moonlight Valley](../games/action/moonlight-valley.md) — Embark on an enchanting journey in Moonlight Valley, a mystical multiplayer platformer teeming with vibrant landscapes a
+- [Moonshine Runners Samogonki](../games/action/moonshine-runners-samogonki.md) — Moonshine Runners Samogonki delivers quirky kart racing chaos on an alien world. Choose from unique racers, unleash powe
+- [Morphit](../games/action/morphit.md) — Morphit is a hypercasual game where you have to change your shape to pass trough the obstacles. Try to last as long as y
+- [Mortal Brothers Survival Friends](../games/action/mortal-brothers-survival-friends.md) — Have fun with this exclusive new game Mortal Brothers Survival Friends based on the story of Mortal Kombat two eternal e
+- [mortal cage fighter](../games/action/mortal-cage-fighter.md) — Fight your way to victory in this street fighter game. Punch or kick to attack. Move backwards to block. Jump over your 
+- [Mortal Squid Games](../games/action/mortal-squid-games.md) — An exciting collection of games based on the Korean TV series "The Squid Game". The main goal in this game is to get all
+- [Mosquito Fight: Number Battle](../games/action/mosquito-fight-number-battle.md) — 🦟 Mosquito Fight: Number Battle is a fast-paced .io arena where size, numbers, and survival decide who becomes the ulti
+- [Mothman Death Troll Game](../games/action/mothman-death-troll-game.md) — Guide a determined Moth through perilous levels in this retro platformer. Master precise jumps to conquer unique obstacl
+- [Moto Fury](../games/action/moto-fury-2.md) — Speed through traffic in Moto Fury, where every second is a thrill. Weave between cars, dodge lane-changing drivers, and
+- [Mouse Survivor](../games/action/mouse-survivor.md) — Get ready for the thrilling journey of Mouse Survivor! In this dynamic 2D game, you'll dodge dangerous snakes and tackle
+- [Mousy Look](../games/action/mousy-look.md) — Mousy Look is a 2D platform game where you need to collect cheese while avoiding mouse traps and spikes and reach the bl
+- [move craft](../games/action/move-craft.md) — hit the zombies on the way down
+- [Move n Hit   Space](../games/action/move-n-hit-space.md) — Brace yourself for an epic space battle in Move n Hit - Space! Navigate your spaceship through waves of enemy ships, dod
+- [Move Ragdoll Duel](../games/action/move-ragdoll-duel.md) — Move Ragdoll Duel is a delightful 3D casual battle game that promises to captivate you with its enchanting graphics and 
+- [mowe](../games/action/mowe.md) — go down and watch out for obstacles
+- [Mr Babo](../games/action/mr-babo.md) — Mr Babo is a 2D simple platform game where you need to collect golden keys in order unlock the Golden door while avoidin
+- [Mr Flip](../games/action/mr-flip.md) — Mr Flip is a fun ragdoll based platform game aiming to fall vertically from high platforms to marked areas on the ground
+- [Mr Hero](../games/action/mr-hero.md) — With great power comes great fun! Defeat deadly enemies with the powers of a super hero. Lift, burn, freeze opponents wh
+- [Mr.John Wick](../games/action/mr-john-wick.md) — Hey there, Bullet John Wick. Use your gun to perfect your lethal accuracy and shoot at as many bad guys as possible. Cha
+- [Mr Jone](../games/action/mr-jone.md) — Mr Jone is a 2D platformer where you need to collect all of the blue gems while avoiding enemies and spikes and reach th
+- [Mr Jone](../games/action/mr-jone-2.md) — Navigate a spine-chilling 2D world in Mr Jone, collecting elusive blue gems while evading enemies and treacherous spikes
+- [Mr Kaw](../games/action/mr-kaw.md) — Mr Kaw is a 2D platformer where you have to collect the gold coins while avoiding the enemies, flying bots, and spikes a
+- [Mr Kaw 2](../games/action/mr-kaw-2.md) — Mr Kaw 2 is a 2D platformer where you have to collect the golden coins while avoiding the enemies, flying robots and spi
+- [MR. LUPATO 2 EGYPTIAN PYRAMIDS TREASURES](../games/action/mr-lupato-2-egyptian-pyramids-treasures.md) — Mr. Lupato goes on a trip and needs your help to find Egyptian Pyramids treasures. Help him to jump and get all gems and
+- [Mr Noob Fighter](../games/action/mr-noob-fighter.md) — Have fun with this 2D fighting game Mr Noob Fighter is a game of moving and fighting help the little noob to reach the e
+- [Mr One Punch: Action Fighting Game](../games/action/mr-one-punch-action-fighting-game.md) — Beat all the opponents. Become the fighting champion of the rings and streets.
+- [Mr. Santa Run](../games/action/mr-santa-run.md) — Embrace the festive spirit in Mr. Santa Run, where you dash through a whimsical winter wonderland. Leap and slide past o
+- [Mr. Santa vs Zombie](../games/action/mr-santa-vs-zombie.md) — Embark on a festive, thrill-packed adventure in Mr. Santa vs Zombie. Dash through a snowy landscape, leaping and double-
+- [Mr Sniper Hidden Rifle](../games/action/mr-sniper-hidden-rifle.md) — Embark on a gripping quest in Mr Sniper Hidden Rifle. With stealth and precision, seek out concealed rifles in each thri
+- [Mr Toro](../games/action/mr-toro.md) — Mr Toro is a 2D platformer where you have to collect money while avoiding the enemies, spikes, saws and reach the red fl
+- [Mr Toro 2](../games/action/mr-toro-2.md) — Mr Toro 2 is a 2D platformer where you have to collect money while avoiding the enemies, spikes, saws and flying robots 
+- [Multiplayer Flappy Bird](../games/action/multiplayer-flappy-bird.md) — Multiplayer Flappy Bird game! You can play with your friends. You can earn gold coin and buy new Bird skins!!! Multiplay
+- [Multiplayer Lobby](../games/action/multiplayer-lobby.md) — Step into a nostalgic urban showdown where pixelated warriors clash in a dynamic brawler. Engage in exhilarating combat 
+- [Mummy Block](../games/action/mummy-block.md) — Are you looking for a fun and challenging online game? Look no further than the mummy block game! This addictive game is
+- [Mummy Candies](../games/action/mummy-candies-2.md) — Guide a spirited mummy on a candy-collecting journey filled with vibrant graphics and lively music. Master precise tappi
+- [Murder 3D](../games/action/murder-3d.md) — MURDER is a fun game of assassination. You wish to assassinate the king and take his place to rule over the kingdom. To 
+- [Murder - Be The King](../games/action/murder-be-the-king.md) — Murder is a fun assassination game. Creep up behind the king and take him out quickly and quietly. Be careful – if he ca
+- [Muscle Master Quest](../games/action/muscle-master-quest.md) — Muscle Master Quest &ndash; Smash Running is an action-packed runner game where strength is your greatest weapon. Run th
+- [Muscle Race 3D : Smash Running Game](../games/action/muscle-race-3d-smash-running-game.md) — Collect your own color dumbbell and Build up your body !! You break through the some gimmick to the goal using your toug
+- [Mushroom Runners](../games/action/mushroom-runners.md) — Run endlessly in Mushroom Runners! Dodge obstacles, crush enemies, and collect mushrooms to grow HUGE! Ride the Happy Fl
+- [MushroomTarzan](../games/action/mushroomtarzan.md) — Embark on an exhilarating journey through the lush jungle canopy in Mushroom Tarzan! Take control of the legendary vine-
+- [Music Battle Game](../games/action/music-battle-game.md) — Step into the world of music and rhythm with Music Battle Game, an exciting and addictive rhythm game where timing, focu
+- [Music Genie](../games/action/music-genie.md) — This is a rhythmic game of bouncing balls with music. The music is very rhythmic. Slide the screen left and right to cha
+- [Music Night Battle: Rhythm Game](../games/action/music-night-battle-rhythm-game.md) — Music Night Battle is a fast rhythm battle game where you tap arrows in time with the beat and fight in music duels. Pla
+- [Music Note](../games/action/music-note.md) — Play as a music note jumping across platforms. Spread color with each bounce and bring life to a black-and-white world.
+- [Mutant Plants Vs Zombie](../games/action/mutant-plants-vs-zombie-2.md) — Unleash mutant plants in strategic battles against relentless zombie hordes. Craft a potent botanical army by merging an
+- [Mutant Snake](../games/action/mutant-snake.md) — This is an interesting game with the theme of many people fighting wildly. At the same time, you should know from the na
+- [My Army Base](../games/action/my-army-base-2.md) — This military tycoon game combines base management, soldier training, and territorial conquest into one action-packed ex
+- [My Cute Dog Bathing](../games/action/my-cute-dog-bathing.md) — The dogs are always fond of bathing.Now you could give the cute dog bathing and dress it up.It’s very fun and enjoy it.
+- [My Sugar Factory](../games/action/my-sugar-factory-2.md) — Build a sweet empire from scratch in My Sugar Factory! Start with a tap, expand with factories and labs, and innovate ne
+- [Mystery](../games/action/mystery.md) — Even first stage will irritate you. A difficult mysterious game. Kill the enemies. Reveal the mysteries. Go collect diam
+- [Mystic Blades](../games/action/mystic-blades.md) — Mystic Blades immerses you in a mesmerizing world of adventure as a customizable warrior. Traverse enchanting landscapes
+- [Mystic Neon Ball](../games/action/mystic-neon-ball.md) — Jump on the platforms and beware of thorns! Just tap the screen to jump. Try not to fall! How far can you go? You can te
+- [Mystic Valley](../games/action/mystic-valley.md) — Embark on a thrilling quest through the enchanting Mystic Valley, where agility and quick reflexes conquer lurking dange
+- [Mythic Auto Chess Realms](../games/action/mythic-auto-chess-realms.md) — Mythic Auto Chess Realms is an auto chess strategy adventure game that combines the classic auto chess gameplay with a r
+- [Nail Run Bridge Game](../games/action/nail-run-bridge-game.md) — Get ready to embark into the beauty nail stack art makeover and nail salon fashion games that put your wit, strategy, an
+- [Nail Runner](../games/action/nail-runner.md) — Nail Runner is new concept of nail salon and it's addictive fun new nail art game that bringing great nail ideas and stu
+- [Nailong Rush Run](../games/action/nailong-rush-run-2.md) — Embark on a thrilling 3D parkour adventure with a delightful dinosaur. Collect nailongs, expand your team, dodge obstacl
+- [Nanychan vs Ghosts](../games/action/nanychan-vs-ghosts.md) — Nanychan vs Ghosts is a 2D Halloween themed platformer where you have to collect the red balls while avoiding the Pumpki
+- [Nanychan vs Ghosts 2](../games/action/nanychan-vs-ghosts-2.md) — Nanychan vs Ghosts is a 2D Halloween themed platformer where you have to collect red balls while avoiding the Pumpkins, 
+- [Nanychan vs Ghosts](../games/action/nanychan-vs-ghosts-3.md) — Join Nanychan on a spooky adventure in this 2D platformer! Navigate haunted levels, collecting red balls while avoiding 
+- [Naruto Free Fight](../games/action/naruto-free-fight.md) — naruto free fight game has a 3 most popular characters (naruto uzumaki , kakachi , sasuki uchiha ) , choose your player 
+- [Naruto Free Fight : Season 2](../games/action/naruto-free-fight-season-2.md) — naruto free fight Season 2 game has a 3 most popular characters (naruto uzumaki , kakachi , sasuki uchiha ) , choose you
+- [Naruto Jump Force](../games/action/naruto-jump-force.md) — Naruto Jump Force is an online HTML5 game , it's playable in browsers such as safari and chrome. You can play the game o
+- [Naruto Runner Game](../games/action/naruto-runner-game.md) — Naruto Runner Game Adventure is a fun arcade obstacle course in which you will assist Naruto in navigating the North Pol
+- [Naruto Surfing](../games/action/naruto-surfing.md) — Naruto Surfing is a Surf game 3d , surf Naruto Uzumaki player to cover all the area, Once it is finished you can proceed
+- [NARUTOvsBLEACH](../games/action/narutovsbleach.md) — NARUTO vs BLEACH is a side-scrolling ACT anime fighting mobile game with smooth movements, highly recognizable character
+- [Nasty Cat](../games/action/nasty-cat.md) — Smash all furnitures and make missus crazy! Because you are nasty cat and it's your job.
+- [Natural Disaster Survival Obby](../games/action/natural-disaster-survival-obby.md) — Navigate perilous landscapes in "Natural Disaster Survival Obby," where quick reflexes are your lifeline against constan
+- [Neeno Quest](../games/action/neeno-quest.md) — Dive into Neeno Quest, a vibrant 2D platformer where quick reflexes and strategy are your allies. As Neeno, maneuver thr
+- [Neeno Quest 2](../games/action/neeno-quest-2.md) — Embark on a thrilling journey with Neeno Quest 2, a captivating 2D platformer starring an anime heroine. Master double j
+- [Nekoman vs Gangster](../games/action/nekoman-vs-gangster.md) — Nekoman vs Gangster is a 2D platformer where you play as a cat who have to collect all of the silver keys while avoiding
+- [Nekoman vs Gangster 2](../games/action/nekoman-vs-gangster-2.md) — Nekoman vs Gangster 2 is a 2D platformer where you play as a cat who have to collect all of the silver keys while avoidi
+- [Neon Ball Slope](../games/action/neon-ball-slope-2.md) — Love slope games? Then Neon Ball Slope is your next addiction! Roll a glowing neon ball down an endless 3D slope in this
+- [Neon Boy - in the forest](../games/action/neon-boy-in-the-forest.md) — It is a very engaging, fun and challenging 2D platform game. With the style of blockbuster games like Sonic, Super Mario
+- [Neon Drift Runner](../games/action/neon-drift-runner.md) — Immerse yourself in the electrifying world of Neon Drift Runner, where rapid reflexes are key. Glide through vibrant obs
+- [Neon Guitar](../games/action/neon-guitar.md) — "Neon Guitar" is an inspired musical game in the critically acclaimed "Guitar Hero", developed for the enjoyment of all 
+- [Neon Jump](../games/action/neon-jump.md) — Neon Jump Online is an endless jump adventure game that will keep you entertained for hours on end. With its simple yet 
+- [Neon King - A local multiplayer Platformer](../games/action/neon-king-a-local-multiplayer-platformer.md) — Neon King invites you to vibrant pixelated battles in an electrifying retro universe. Navigate platforms, outmaneuver fr
+- [NEON OVERDRIVE](../games/action/neon-overdrive.md) — Neon Overdrive: Doom Chasers is a fast-paced cyberpunk parkour platformer where reflexes decide survival. Dash, double-j
+- [Neon Shot](../games/action/neon-shot-2.md) — Catapult into a neon-lit universe with Neon Shot! Master precise aim to shatter targets using vibrant projectiles. Each 
+- [Neon Slimes](../games/action/neon-slimes-2.md) — Leap into the vibrant arena of Neon Slimes, where strategic jumps shrink your opponent. Engage in intense two-player due
+- [Neon Velocity](../games/action/neon-velocity.md) — Neon Velocity is a fast-paced, hardcore precision platformer set in a vibrant, pulse-pounding cyberpunk universe. You ar
+- [Neon Water](../games/action/neon-water.md) — Neon Water
+- [Never Fall](../games/action/never-fall-2.md) — Dive into the relentless pace of Never Fall, an auto-run platformer where timing your jumps is essential. Traverse evolv
+- [Never Stop](../games/action/never-stop.md) — Never stop, See how long you can hold on, Sometimes you can stop and choose what you love and move on.
+- [New Game Tom Kangaroo Jumping Runing](../games/action/new-game-tom-kangaroo-jumping-runing.md) — Ready to take the plunge? Try to climb all the way to the top of the sheet of paper: jump from platform to platform, equ
+- [Newee Ball](../games/action/newee-ball.md) — Newee Ball is a 2D platformer where you play as a ball who have to collect lollipops while avoiding the enemy balls, spi
+- [Newee Ball 2](../games/action/newee-ball-2.md) — Newee Ball 2 is a 2D platformer where you play as a ball who have to collect lollipops while avoiding the enemy balls, f
+- [Next Level Balls](../games/action/next-level-balls-2.md) — Dive into the vibrant arcade chaos of Next Level Balls, where devouring smaller balls and dodging formidable foes demand
+- [Nibblix](../games/action/nibblix.md) — Nibblix is the game name where a young dino chases a mouse.Mouse can run away only when he eats enough cheese which is c
+- [Nick Block Party 3](../games/action/nick-block-party-3.md) — Play Nick Block Party 3 game in your web browser for free at Superkidgames.com and more fun games.Gather around with you
+- [Night Ninja](../games/action/night-ninja.md) — Night Ninja is an exhilarating HTML5 game where players embody a stealthy ninja navigating through challenges under the 
+- [Nightmare Run](../games/action/nightmare-run.md) — Nightmare Run is fun action running game!
+- [Nightmare Runner](../games/action/nightmare-runner.md) — Nightmare Runner delivers heart-pounding excitement as you escape from terrifying creatures in an ever-escalating, night
+- [Nightmare Runners](../games/action/nightmare-runners.md) — Nightmare Runners is the ultimate knockout game with both fun and surprising traps! Runners race at night and unknown tr
+- [Nightshade Archary](../games/action/nightshade-archary.md) — Explore the world of archery action with a smooth simulation and gameplay of &lsquo;Nightshade Archery&rsquo;.Be aware o
+- [Nightstrike Archery](../games/action/nightstrike-archery.md) — Leap into a thrilling archery adventure with Nightstrike Archery! Navigate perilous levels by jumping on arrows, battlin
+- [niki pro](../games/action/niki-pro.md) — Are you looking for the best 2D adventure game? Then don’t miss out Niki Adventure Jump & Run & fire! , the best new gam
+- [Nikosan Quest](../games/action/nikosan-quest.md) — Nikosan Quest is a 2D platformer where you play as an anime girl called Nikosan who have to collect all of the yellow cu
+- [Nikosan Quest 2](../games/action/nikosan-quest-2.md) — Nikosan Quest 2 is a 2D platformer where you play as an anime girl called Nikosan who have to collect all of the yellow 
+- [Nimble Ben](../games/action/nimble-ben.md) — Beautiful graphics, nice music guarantee hours of exciting game
+- [Nina Adventures](../games/action/nina-adventures.md) — Nina Adventures is a 2D little platformer where you play as a cute girl who have to collect all of the chocolate ice cre
+- [Nina Adventures 2](../games/action/nina-adventures-2.md) — Nina Adventures 2 is a 2D little platformer where you play as a cute girl who have to collect all of the chocolate ice c
+- [Ninja Academy](../games/action/ninja-academy.md) — Enter the Ninja Academy and see if you can become a real Ninja. Complete a number of challenges like shuriken throwing, 
+- [Ninja Action](../games/action/ninja-action.md) — Play this awesome game "Ninja Action". Who doesn't like Ninja? Are you familiar with the ninja technique? This one has g
+- [Ninja Action 2](../games/action/ninja-action-2.md) — Did you played Ninja Action? Now try Ninja Action 2 A Enhanced one of the first game with going highRules are same turn 
+- [Ninja Assassin](../games/action/ninja-assassin.md) — Ninja Assassin is an endless runner arcade Online game. Collect coins and buy power ups to help you in your quest for th
+- [Ninja Assassin](../games/action/ninja-assassin-2.md) — Enter Ninja Assassin's world of thrill and challenge, where endless speed tests your reflexes. Dodge perilous obstacles 
+- [Ninja: Bamboo Assassin](../games/action/ninja-bamboo-assassin.md) — Ninja: Bamboo Assassin is an action-packed arcade game where players take on the role of a skilled ninja on a stealth mi
+- [Ninja Boy Flying](../games/action/ninja-boy-flying.md) — Ninja Boy Flying is an endless flying game, get gold to earn scores, avoid obstacle and defeat the enemy with shuriken.
+- [Ninja Brainrot Slice](../games/action/ninja-brainrot-slice-2.md) — Unleash your ninja skills in Ninja Brainrot Slice, an endlessly entertaining arcade challenge. Slash through zany charac
+- [Ninja Frog](../games/action/ninja-frog.md) — Ninja Frog is platform game similar as Super Mario. The hero at this game is a ninja frog. Control the frog through plat
+- [Ninja Frog Adventure](../games/action/ninja-frog-adventure-2.md) — Ninja Frog Adventure invites you to hop through vibrant, pixelated worlds as a nimble frog on a mission. Master agile ju
+- [Ninja Frog Runner](../games/action/ninja-frog-runner.md) — Ninja Frog Runner is an exhilarating 2D runner game that combines fast-paced action with the agility of a ninja frog. In
+- [Ninja Hero Platformer](../games/action/ninja-hero-platformer.md) — Become a valiant ninja in a city under siege, navigating treacherous landscapes and battling fierce foes. Employ swift a
+- [Ninja Hero Runner](../games/action/ninja-hero-runner.md) — Ninja Hero Runner is really interesting game to play. In the game you are ninja and your mission is to complete the dung
+- [Ninja In War](../games/action/ninja-in-war.md) — This is one kind of platform game where you as ninja need to fight against other ninjas and gain score by killing them. 
+- [Ninja Jump And Run](../games/action/ninja-jump-and-run.md) — Being a ninja in the night is as dangerous as being a chameleon near a rainbow and in this new jumping game you have the
+- [Ninja Jump and Run](../games/action/ninja-jump-and-run-2.md) — Ninja Jump and Run catapults you into the life of a stealthy shadow warrior. Navigate through treacherous landscapes wit
+- [Ninja Jump fighting](../games/action/ninja-jump-fighting.md) — Enter the world of shadows and action in Ninja Jump Fighting Game, an exciting and fast-paced arcade experience where ag
+- [Ninja Jump Hero](../games/action/ninja-jump-hero-2.md) — Ninja Jump Hero thrusts you into the role of a nimble ninja, weaving through perilous paths filled with obstacles. Quick
+- [Ninja Jungle Adventures](../games/action/ninja-jungle-adventures.md) — This is a Mobile friendly Game , Jump over and slide to save the life of Ninja in his journey of Jungle Adventures , You
+- [Ninja Kid Run Free - Fun Games](../games/action/ninja-kid-run-free-fun-games.md) — You can play game by touching on the screen to jump the ninja man on to the bamboo and collect the score. Try to get hig
+- [Ninja Obby Parkours](../games/action/ninja-obby-parkours.md) — A fastpaced runner game with both solo and 2player modes. Your goal is simple: keep moving and survive for as long as yo
+- [Ninja Obby Speed Run](../games/action/ninja-obby-speed-run.md) — Step into the thrilling world of Ninja Obby Speed Run, where every level is a test of speed, agility, and strategy. Pack
+- [Ninja on the Run](../games/action/ninja-on-the-run.md) — An endless path awaits, packed with traps, dangerous enemies, and shining coins. Test your reflexes, leap over gaps at t
+- [Ninja Parkour Multiplayer](../games/action/ninja-parkour-multiplayer.md) — Conquer ever-changing obstacle courses as a nimble ninja in this fast-paced, multiplayer parkour challenge. With adaptiv
+- [Ninja Platformer Rage](../games/action/ninja-platformer-rage.md) — Master precise movement, outsmart deadly traps, and survive brutally short platforming challenges in this fast-paced nin
+- [Ninja Pumpkin](../games/action/ninja-pumpkin.md) — You play as a Ninja Pumpkin (yes, it is a kind of ninja!) and in each level, you have to do your best to reach the level
+- [Ninja Rex](../games/action/ninja-rex.md) — Ninja rex is a very addictive game. you can move in any direction to kill your enemies and complete levels. Have fun !
+- [NINJA RIAN](../games/action/ninja-rian.md) — NINJA RIAN This is a platform game with ninja style with the skills: sliding, jumping, throw darts, slash and more. Use 
+- [Ninja Rian Adventure](../games/action/ninja-rian-adventure.md) — Ninja Rian Adventure is a skill and adventure game. To defeat Dracula, who kidnapped the princess, you must destroy many
+- [Ninja Robo Hero](../games/action/ninja-robo-hero.md) — Nina Robo Hero invites you to a long-term adventure. Enemies have invaded the city and SuperHero Robots are ready to fig
+- [Ninja run 2d fun endless running](../games/action/ninja-run-2d-fun-endless-running.md) — It is a fun endless game in which you have to collect coins , dodge obstacle and buy powers with the coins and many more
+- [Ninja Run Adventure](../games/action/ninja-run-adventure.md) — ninja run is arcade game
+- [Ninja Run Adventures](../games/action/ninja-run-adventures.md) — Ninja Run Adventures is a jumping platform game where you need to control the ninja boy.Collect coins and ninja stars an
+- [Ninja Run Endless](../games/action/ninja-run-endless.md) — You have to collect coins and go far by running and jumping without falling and escape explosives. Enjoy!
+- [Ninja Run - Fullscreen Running Game](../games/action/ninja-run-fullscreen-running-game.md) — Mobile-friendly, fullscreen game play experience. The Ninja is running to his destination. Help him time his jump and co
+- [Ninja Run Race 3D](../games/action/ninja-run-race-3d.md) — Ninja Run Race 3D Gear up for this amazing fun race game that not only has a unique gameplay but an innovative character
+- [Ninja Run Up and Down](../games/action/ninja-run-up-and-down.md) — You have to collect the coins for score and escape from enemies. You can turn player up side down and jump to escape. En
+- [Ninja Runner](../games/action/ninja-runner.md) — Ninja Runner is a side scrolling auto runner game, tab to jump and avoid the bomb. Collect coin in the street and go to 
+- [Ninja Runner Fighter](../games/action/ninja-runner-fighter.md) — Sky Runner is a fun game, simple, easy to play and a great time killer. You are in an infinity playground.
+- [Ninja Runner Power](../games/action/ninja-runner-power.md) — Run away to save your life, Ninja Runner : There are a lot of fun with more bonus. You can get very relax time when play
+- [Ninja Runner The Game](../games/action/ninja-runner-the-game.md) — Ninja Runner The Game, is a super fun game with retro graphics that will make you stay hooked on your screen for hours, 
+- [Ninja Running Adventure](../games/action/ninja-running-adventure.md) — Ninja Runner really is a great combination between role-playing game (RPG) and fighting game (PvP). Based on the system 
+- [Ninja Runs 3D](../games/action/ninja-runs-3d.md) — Compete against other players to get a real parkour experience. Jump from wall to wall, climb ropes, swipe to go faster,
+- [Ninja Samurai Flash 3D](../games/action/ninja-samurai-flash-3d.md) — Bienvenue dans Cut 'em All: Blade Master, un jeu d'arcade très ludique tout en coups de katana ! Frayez-vous un chemin à
+- [Ninja Samurai Runner Online](../games/action/ninja-samurai-runner-online.md) — Escape your enemies by jumping and sliding over and under obstacles with the arrow keys, as you sprint along the 2D land
+- [Ninja Samurai Runner Online](../games/action/ninja-samurai-runner-online-2.md) — Ninja Samurai Runner Online invites you into a whirlwind of speed and cunning as you dodge adversaries and vault over ob
+- [Ninja Versus Ninja](../games/action/ninja-versus-ninja.md) — Ninja Versus Ninja is a non-violent simple yet fun battle arena fighting game. Proudly play as the Blue Ninja to fight y
+- [Ninja vs Zombie Attack](../games/action/ninja-vs-zombie-attack.md) — Dive into the chaos as a nimble ninja fighting hordes of zombies in a thrilling platformer tale. Master agile moves, sla
+- [Ninja vs Zombies](../games/action/ninja-vs-zombies.md) — "Ninja vs Zombies" challenges you to leap between platforms and battle relentless undead hordes with your ninja star ski
+- [Ninjas Blade](../games/action/ninjas-blade.md) — Immerse yourself in the dark world of ninja action! As Ryu, the last warrior of his clan, you&rsquo;ll fight through hor
+- [Ninjas Return](../games/action/ninjas-return.md) — Help our ninja hero save his beloved wife from the evil Dark Ninja! To progress, you must explore the forest and collect
+- [No One Survives 1 minute](../games/action/no-one-survives-1-minute.md) — No One Survives 1 minute is a fast-paced endless survival runner. Dodge incoming barriers, keep distance from the dragon
+- [Nommy Run Race](../games/action/nommy-run-race.md) — Experience the adrenaline rush of Nommy Run Race, where parkour meets racing. Dash through perilous courses, mastering q
+- [Noob Adventure](../games/action/noob-adventure.md) — The Noob Adventure game is a fun and sometimes challenging game. Embark on a journey through 3 worlds (castle, cave, ice
+- [Noob and Pro Monster School](../games/action/noob-and-pro-monster-school.md) — In our adventure, theres a school monster that constantly chases you. Sometimes its a green monster, and other times its
+- [Noob Archer Monster Attack](../games/action/noob-archer-monster-attack.md) — Embark on a hilarious journey of determination in Noob Archer Monster Attack. Master quirky archery mechanics, adapt to 
+- [Noob Chicken Hunter](../games/action/noob-chicken-hunter-2.md) — Escape a perilous forest in Noob Chicken Hunter, where nimble maneuvering and sharp reflexes are vital. Collect chickens
+- [Noob: End World](../games/action/noob-end-world.md) — Try to escape from the end world! Complete all the levels and share your result with your friends. Jump over blocks and 
+- [Noob Goes To Skibidi Toilet School](../games/action/noob-goes-to-skibidi-toilet-school.md) — Step into the vibrant chaos of Noob Goes To Skibidi Toilet School, where schoolyard battles take an unexpected twist. St
+- [Noob Help Sheep](../games/action/noob-help-sheep-2.md) — Guide a clumsy sheep to safety in Noob Help Sheep, mastering sword combat while navigating obstacles and dodging threats
+- [Noob Mineblox Hunt Skibidi Toilet](../games/action/noob-mineblox-hunt-skibidi-toilet.md) — Dive into stealthy fun with Noob Mineblox Hunt Skibidi Toilet, where you outsmart challenging enemies in a uniquely desi
+- [Noob Mommy Escape Parkour](../games/action/noob-mommy-escape-parkour.md) — Noob Mommy Escape Parkour is a Minecraft parkour game where you jump over the blocks while trying to escape from Mommy a
+- [Noob Ninja Guardian](../games/action/noob-ninja-guardian.md) — Have fun with this new free game Noob Ninja Guardian is a casual game of action, fights and endless fun! Now you can pla
+- [Noob Ninja Guardian - Fighting Game](../games/action/noob-ninja-guardian-fighting-game.md) — Noob Ninja Guardian plays like Fruit Ninja, which is also a 2D skillful arcade game that is made of Minecraft characters
+- [Noob Parkour](../games/action/noob-parkour.md) — How about becoming a 3d parkour? Become the best parker and complete the tracks as soon as possible. hey you noob parker
+- [Noob: Parkour 2D](../games/action/noob-parkour-2d.md) — Welcome to Noob: Parkour 2D! Noob: Parkour 2D is a parkour game set in a Minecraft-style world where you must overcome o
+- [Noob Parkour 3D](../games/action/noob-parkour-3d.md) — How about becoming a 3d parkour? Become the best parker and complete the tracks as soon as possible. hey you noob parker
+- [Noob Parkour 3D](../games/action/noob-parkour-3d-2.md) — Dive into Noob Parkour 3D, a pixelated adrenaline rush where skill and timing are vital. Navigate treacherous tracks, en
+- [Noob Parkour Challenge 3D](../games/action/noob-parkour-challenge-3d.md) — The ultimate platformer game where agility, precision, and creativity come together for an exhilarating experience! Dive
+- [Noob Platform Adventure](../games/action/noob-platform-adventure.md) — Noob Platform Adventure is super fun survival game that you can play online for free. The aim of the game is to stay ali
+- [Noob Platform Adventure](../games/action/noob-platform-adventure-2.md) — Dive into the thrilling world of Noob Platform Adventure, where survival demands skillful leaps and quick wits. Balance 
+- [Noob Prison Escape Obby](../games/action/noob-prison-escape-obby.md) — In this adventure, Obby needs to rescue his brother Bacon from prison. Obby teams up with Noob, who arranges a helicopte
+- [Noob Prison Escape Obby](../games/action/noob-prison-escape-obby-2.md) — Embark on a daring mission to rescue Bacon in Noob Prison Escape Obby. Navigate perilous obstacles, outwit watchful guar
+- [Noob Race Against Time](../games/action/noob-race-against-time-2.md) — Race through a perilous forest in this pixelated platformer, collecting gold and dodging hazards to secure the golden ke
+- [Noob Robo Parkour](../games/action/noob-robo-parkour.md) — Noob Robo Parkour! Finish the parkour on the big parkour map by directing your blue robot! Be careful, don't fall down!
+- [Noob Run](../games/action/noob-run.md) — Noob Run is an exciting endless runner game tailored-made for mobile devices. Tap to jump or turn, and double tap to per
+- [Noob's Great Escape](../games/action/noob-s-great-escape.md) — Embark on Noob's wild escape adventure through 100 cleverly designed levels. Sharpen your wits and reflexes to guide him
+- [Noob Steve Parkour](../games/action/noob-steve-parkour.md) — Noob Steve Parkour is a 3D minecraft parkour game where you try to speedrun the map! Speedrun all the maps and complete 
+- [Noob VS. Choo-Choo Charles](../games/action/noob-vs-choo-choo-charles.md) — A runner game featuring Chu-Chu Charles and Noob, in which players must dodge obstacles and collect diamonds in various 
+- [Noob vs Guys](../games/action/noob-vs-guys.md) — Outrun seasoned opponents in Noob vs Guys, where agility and quick reflexes are your best allies. Navigate a thrilling p
+- [Noob vs Hacker Gold Apple](../games/action/noob-vs-hacker-gold-apple.md) — In this adventure, we must eat the golden apple. By eating the golden apple, we will gain more strength. Be careful, if 
+- [Noob vs Noob](../games/action/noob-vs-noob.md) — Noob vs Noob is free online running game with noobs. All you need to do is to win the race and enter a new level. Jump o
+- [Noob vs Obby Two Player](../games/action/noob-vs-obby-two-player.md) — Are you ready for the eternal battle between Noob and Obby? Weapons are drawn, and the war has begun. Choose your side i
+- [Noob vs Obby Two-Player](../games/action/noob-vs-obby-two-player-2.md) — Engage in a thrilling pixelated showdown in Noob vs Obby Two-Player. Use cunning strategies and quick reflexes as you wi
+- [Noob vs Pro HorseCraft](../games/action/noob-vs-pro-horsecraft.md) — In this adventure, a noob and their closest friend, the Pro, are trying to reach and open a chest in a dangerous forest.
+- [Noob vs Zombie](../games/action/noob-vs-zombie-3.md) — Navigate maze-like landscapes in Noob vs Zombie, an immersive adventure where strategic combat and cunning puzzle-solvin
+- [Noob vs Zombies - Forest biome](../games/action/noob-vs-zombies-forest-biome.md) — ★★★★★ FREE Noob vs Zombies - Forest Biomes ★★★★★ This is a turn based game with many zombie fights. Break blocks, collec
+- [NoobCraft Totem](../games/action/noobcraft-totem.md) — In this adventure, the noob needs to collect all the immortality totems. Gather all the immortality totems and reach the
+- [NoobCraft Totem](../games/action/noobcraft-totem-2.md) — Dive into NoobCraft Totem, an exhilarating quest through a wintry forest filled with perilous creatures. Collect mystica
+- [NoobHood](../games/action/noobhood.md) — The whole world is covered with zombies and zombies have evolved into very different creatures. Stretch your bow and sho
+- [Noobik Parkour in a Cave!](../games/action/noobik-parkour-in-a-cave.md) — The game has 10 hardcore levels! To complete the level, you need to get to the finish line, overcoming various obstacles
+- [Noobs Arena Bedwars](../games/action/noobs-arena-bedwars.md) — Are you ready for the noobs battle? You need to defend your bed. Quickly collect coins and buy cannonballs. Fire the can
+- [Nooby And Obby 2 Player](../games/action/nooby-and-obby-2-player.md) — Are you ready for the mind-boggling parkour adventure of two inept siblings? Its extremely funny and they are totally un
+- [Nooby And Obby 2 Player](../games/action/nooby-and-obby-2-player-2.md) — Join the hilariously clumsy sibling duo in a wild parkour journey! Navigate tricky courses without touching the deadly r
+- [Noodle Stack Runner](../games/action/noodle-stack-runner-2.md) — Dash through vibrant levels as a nimble ramen chef in this exhilarating parkour adventure. Collect and carefully stack i
+- [Not a Vania: Retro Sword Quest](../games/action/not-a-vania-retro-sword-quest.md) — Embark on a retro-inspired adventure in Not a Vania: Retro Sword Quest. Traverse captivating pixel-art landscapes, face 
+- [Nubic Jumper](../games/action/nubic-jumper.md) — Be careful against obstacles and jump on the trails created with various cubes. Stay away from lava, dangerous waters an
+- [Nubik Vs Zombies Arena](../games/action/nubik-vs-zombies-arena.md) — Join Nubik in a thrilling battle for survival! Enhance your base, upgrade weapons, and recruit mercenaries as you seek t
+- [Nubiks Dead Rails](../games/action/nubiks-dead-rails.md) — Navigate a thrilling zombie apocalypse in Nubiks Dead Rails. Defend against relentless undead hordes with diverse weapon
+- [Nugget Royale](../games/action/nugget-royale.md) — 80 chicken players compete to be the last standing on an unstable disk above a gruesome grinder. The last player on de d
+- [Nullpulse Runner](../games/action/nullpulse-runner.md) — NullPulse Runner is a hypercasual arcade game that is fast-paced in nature where you control a glowing energy orb throug
+- [Number Run 3D](../games/action/number-run-3d.md) — Number Run 3D is a number running game which is suitable for all ages! Your goal is to increase your number as much as p
+- [Nutty Rush](../games/action/nutty-rush.md) — Nutty Rush is a cozy 3D platformer starring P&ouml;f&uuml;rd&uuml;k, a brave little squirrel. The legendary giant nuts o
+- [Nuwpy Dash](../games/action/nuwpy-dash.md) — Dive into Nuwpy Dash, a thrilling retro platformer bursting with pixelated danger. Dash, jump, and dodge through monster
+- [Nyan Cat: Space runner](../games/action/nyan-cat-space-runner.md) — Race through candy-filled space with the internet's best space cute rainbow cat in this casual platformer game. Nyan Cat
+- [Obby: +1 Click Wall Breaker](../games/action/obby-1-click-wall-breaker.md) — The ultimate kicking simulator! Train your legs, increase your kick power, and smash through powerful barriers to unlock
+- [Obby: +1 Digging Power per Click](../games/action/obby-1-digging-power-per-click.md) — ⛏️ Welcome to Obby: +1 Digging Power per Click
+- [Obby +1 Double Jump](../games/action/obby-1-double-jump.md) — Jump, dash, and race against others in this fast-paced platformer! Conquer 10+ thrilling stages to earn Wins and unlock 
+- [Obby: +1 Jump per Click](../games/action/obby-1-jump-per-click.md) — "Obby: +1 Jump per Click" – a unique clicker-obby where every click gives you power for incredible jumps!
+- [Obby +1 Power!](../games/action/obby-1-power.md) — In the game, you enter the exciting world of fitness and bodybuilding! Start your journey to muscular glory from scratch
+- [Obby: +1 Speed Car Escape](../games/action/obby-1-speed-car-escape.md) — ⚡ Train Your Speed: practice regularly, improve your skills, and accelerate faster to stay ahead of all rivals. ⛽ Collec
+- [Obby: +1 to spaceflight altitude](../games/action/obby-1-to-spaceflight-altitude.md) — Obby: +1 to Spaceflight Altitude invites you to embark on an exhilarating space adventure. Experience the excitement of 
+- [Obby 30: Color Rush](../games/action/obby-30-color-rush.md) — Are you ready to go from beginner to master? Obby 30: Color Rush is a classic 3D platformer that takes you through 30 fl
+- [Obby All Games: Dash or Die](../games/action/obby-all-games-dash-or-die.md) — Welcome to a colorful world of obby parkour packed with exciting maps, fun mini-games, and challenging obstacles!
+- [Obby and Noob Barry Prison](../games/action/obby-and-noob-barry-prison.md) — Hello, are you ready for this adventure? Help Obby and Noob escape from the prison. Barry, a bad cop, is everywhere, and
+- [Obby and Noob Barry Prison](../games/action/obby-and-noob-barry-prison-2.md) — Embark on a pixelated prison escape in Obby and Noob Barry Prison. Team up to outsmart ruthless cop Barry by collecting 
+- [Obby Barry Prison Run](../games/action/obby-barry-prison-run.md) — In this adventure, you need to reach the finish line of the obby, board the helicopter, and escape from the prison. You 
+- [Obby Barry Prison Run](../games/action/obby-barry-prison-run-2.md) — Escape a high-security prison in Obby Barry Prison Run! Navigate complex obstacles, collect essential gasoline cans, and
+- [Obby: Brainrot escape from Lava](../games/action/obby-brainrot-escape-from-lava.md) — 🌋 Obby: Brainrot escape from Lava Collect it. Run. Survive. Meme classics in action! 🔥 Key Features: • Lava Run: Dodge
+- [Obby, but you're on a motorcycle](../games/action/obby-but-you-re-on-a-motorcycle.md) — Have you ever wondered what would happen if you tried to race a track… on a motorcycle? Get ready for total chaos, crazy
+- [Obby: Chop Trees in the Forest](../games/action/obby-chop-trees-in-the-forest.md) — Chop Trees. Level Up. Become the Strongest! Welcome to the lobby, where you can prepare for your run: buy speed, strengt
+- [Obby: Click and Grow](../games/action/obby-click-and-grow.md) — "Obby: Click and Grow" - an exciting 3D clicker game!
+- [Obby Climb and Jump Tower](../games/action/obby-climb-and-jump-tower.md) — Ready to climb as high as you can? In OBBY Climb and Jump Tower, overcome challenging obstacles, jump from platform to p
+- [Obby: Climb and Slide](../games/action/obby-climb-and-slide.md) — 🏔️ Ready to conquer the tallest slides? In this game, you can! 🎢
+- [Obby: Climb Up and Slide Down on Minecarts](../games/action/obby-climb-up-and-slide-down-on-minecarts.md) — Welcome to an exciting game where you climb upward on carts, collect money, and upgrade your ride! Make your way through
+- [Obby Coin Collect](../games/action/obby-coin-collect.md) — In this adventure, Obby and his friend Bacon need to compete and win. The parkour awaiting them is so challenging, with 
+- [Obby Coin Collect](../games/action/obby-coin-collect-2.md) — Dive into the exhilarating world of Obby Coin Collect, where parkour prowess is key. Navigate thrilling obstacle courses
+- [Obby Collect Sweet Cakes](../games/action/obby-collect-sweet-cakes-2.md) — Embark on a vibrant adventure in Obby Collect Sweet Cakes, exploring a bustling town filled with whimsical surprises and
+- [Obby Craft: Build a Plane](../games/action/obby-craft-build-a-plane.md) — "Obby Craft: Build a Plane" — play for free, where you will become an aircraft designer! The main mechanic is to assembl
+- [Obby & Dead River](../games/action/obby-dead-river.md) — Embark on an epic 3D adventure along the treacherous river of death. Battle fierce monsters, pirates, and dragons as a v
+- [Obby: Death Run](../games/action/obby-death-run.md) — RUN. JUMP. DODGE. SURVIVE. Three levels of pure platforming chaos. Traps are everywhere &mdash; moving platforms, lasers
+- [Obby: Defend your base from 67](../games/action/obby-defend-your-base-from-67.md) — Obby: Defend your base from 67 is a fast-paced survival and base defense game with zombie waves, auto shooting, weapons,
+- [Obby: Dig it](../games/action/obby-dig-it.md) — Digging Simulator! 🤩 Simple, fun, and endlessly surprising! ♾️ Who knows what you'll find next? 🔍
+- [Obby: Dig to the center of the Earth](../games/action/obby-dig-to-the-center-of-the-earth-2.md) — Grab your drill and start digging straight down! Unlock the way to the depths of the earth by breaking blocks and going 
+- [Obby: Dumb or Genius IQ Test](../games/action/obby-dumb-or-genius-iq-test.md) — Welcome to Obby: Dumb or Genius IQ Test! 🧠✨ – the ultimate game where intelligence is key! Test your brainpower by comp
+- [Obby Easy Grow!](../games/action/obby-easy-grow.md) — A game in Roblox style with the Obby mode! Complete exciting and varied obstacle courses for a while, using checkpoints 
+- [Obby: Escape from Lava and Survive](../games/action/obby-escape-from-lava-and-survive.md) — Run as fast as you can and catch animals along your path! 🏃 React quickly and don’t miss a single target.
+- [Obby: Escape from Tsunami Brainrot](../games/action/obby-escape-from-tsunami-brainrot.md) — A dynamic parkour game where you have to overcome obstacles and escape from the oncoming tsunami. Reaction, speed and ac
+- [Obby Fishing: Catch the Megalodon](../games/action/obby-fishing-catch-the-megalodon.md) — Feel like a real angler! Different fish species require a special approach. Keep a close eye on the float, feel the tens
+- [Obby Halloween Danger Skate](../games/action/obby-halloween-danger-skate.md) — Experience the thrilling, rooftop escapade of Obby Halloween Danger Skate. Navigate spooky obstacles and leap over toxic
+- [Obby Highest Jump Ever](../games/action/obby-highest-jump-ever.md) — Obby Highest Jump Ever is a click-based jumping and climbing game where every click makes you stronger. Start from a sma
+- [Obby: IQ Escape from the Laboratory](../games/action/obby-iq-escape-from-the-laboratory.md) — Welcome to &ldquo;Obby: IQ Escape from the Laboratory&rdquo; - a unique 3D game where each level tests not only your dex
+- [Obby Keyboard Escape](../games/action/obby-keyboard-escape.md) — Obby Keyboard Escape is a fast-paced 3D obstacle course game where your keyboard skills are the key to survival! Run, ju
+- [Obby Keyboard Worlds: +1 Speed & Jump](../games/action/obby-keyboard-worlds-1-speed-jump.md) — Explore giant keyboard worlds! Train to run faster, unlock extra midair jumps, and leap between islands while dodging sw
+- [Obby: King of the Hill](../games/action/obby-king-of-the-hill.md) — 👑 Welcome to “Obby: King of the Hill”!
+- [Obby: Lucky Block Heist](../games/action/obby-lucky-block-heist.md) — Build the ultimate base in this action-packed 3D Obby! Collect rare Brainrot items to generate passive income and grow y
+- [Obby Maker](../games/action/obby-maker.md) — Create your own levels and play levels made by other players!
+- [Obby: Mine Crasher](../games/action/obby-mine-crasher.md) — 🔨 Obby: Mine Crasher Hit the anvils with a hammer, gain power and smash the stone walls! For each destroyed block, you 
+- [Obby Minecraft Ultimate](../games/action/obby-minecraft-ultimate.md) — Obby Parkour Ultimate 3D is a fun skill-based game. Enjoy 35 distinct levels with diverse mechanics and a very challengi
+- [Obby: Mini-Games](../games/action/obby-mini-games.md) — Obby: Mini-Games - play against other players and win Cups! Triumph in each mode and stand on the golden winner's pedest
+- [Obby: Mini-Games VS 1000](../games/action/obby-mini-games-vs-1000.md) — Become the best out of 1,000 players and win the grand prize in the thrilling new Squid Game! Extreme challenges await y
+- [Obby Modes! Online Mini-Games](../games/action/obby-modes-online-mini-games.md) — Dive into a vibrant online world packed with thrilling challenges! Master 100 tough obby levels, join wild races, and fa
+- [Obby online with friends: Draw and Jump!](../games/action/obby-online-with-friends-draw-and-jump.md) — 🚀 Dive into the exciting world of parkour platforming with Roblox's Obby in this online multiplayer game! Incredible ad
+- [Obby Papa Pizzas Escape](../games/action/obby-papa-pizzas-escape.md) — In this adventure, Obby and Bacon are doing everything they can to survive and escape from the pizza place. Help Obby an
+- [Obby Papa Pizzas Escape](../games/action/obby-papa-pizzas-escape-2.md) — Join Obby and Bacon on a thrilling escape from the pizza-obsessed Chef Papa Pizza. Navigate dizzying obstacles, collect 
+- [Obby Parkour: Crazy Descent](../games/action/obby-parkour-crazy-descent.md) — 👋 Welcome to "Obby Parkour: Crazy Descent" — a fast-paced 3D parkour testing your speed and reactions!
+- [Obby Parkour: Sleeping Brainrots](../games/action/obby-parkour-sleeping-brainrots.md) — An exciting arcade game in the genre of parkour. Run, avoid the sleepers and escape from the huge brainroth that is inex
+- [Obby: Parkour with Ragdoll](../games/action/obby-parkour-with-ragdoll.md) — 🏃 Complete challenging parkour maps, collect rewards, and push opponents into the abyss!
+- [Obby - Playground Hardcore Challenge](../games/action/obby-playground-hardcore-challenge.md) — Leap into the sky and tackle a thrilling obstacle course in Obby - Playground Hardcore Challenge. Navigate daring platfo
+- [Obby Pogo Parkour!](../games/action/obby-pogo-parkour.md) — Bounce into the thrilling chaos of pogo parkour! Tackle challenging levels, upgrade your bouncy ride, and leap past obst
+- [Obby Prison Barry Escape](../games/action/obby-prison-barry-escape.md) — Welcome to the most guarded prison of Obby Prison Barry Escape
+- [Obby Prison Craft Escape](../games/action/obby-prison-craft-escape.md) — Obby Prison: Craft Escape is an exciting survival adventure in which you need to escape from a prison full of dangers. O
+- [Obby: Raft](../games/action/obby-raft.md) — Welcome to Obby: Raft! In this game you have to fish to gain points and unlock new levels and abilities. Develop, win, c
+- [Obby. Ragdoll Boxing](../games/action/obby-ragdoll-boxing-2.md) — Dive into the chaotic world of Obby Ragdoll Boxing! Experience unpredictable fights with zany physics, customize your ch
+- [Obby Rainbow Parkour Two Player](../games/action/obby-rainbow-parkour-two-player.md) — Jump, run, and overcome colorful parkour obstacles in Obby Rainbow Parkour Two Player! Play alone or team up with a frie
+- [Obby Rainbow Tower](../games/action/obby-rainbow-tower.md) — Obby Rainbow Tower is a fast, winter-themed tower race where every second and every jump matters. Each floor is packed w
+- [Obby Rescue](../games/action/obby-rescue.md) — Obby Rescue is a casual and very funny puzzle game in which the main objective of the game is to protect your adorable l
+- [Obby Ride a Bike For Brainrots](../games/action/obby-ride-a-bike-for-brainrots.md) — Welcome to Obby Ride a Bike For Brainrots! Speed through obstacle courses while keeping your balance! Jump across crazy 
+- [Obby: Rocket Shopping Cart](../games/action/obby-rocket-shopping-cart.md) — Turn a shopping cart into a rocket-powered ride! Race along colorful 3D obstacle tracks, smash barriers, launch off ramp
+- [Obby: RPG Slasher Blade Loot](../games/action/obby-rpg-slasher-blade-loot.md) — A dynamic action RPG where dangerous levels, enemies, and constant character progression await you. Fight enemies in clo
+- [Obby: Save the Brainrots Online](../games/action/obby-save-the-brainrots-online.md) — Obby: Save the Brainrots Online is a dynamic reaction arcade game where a huge wave is already on its way, and you only 
+- [Obby - Save the New Year](../games/action/obby-save-the-new-year.md) — Leap into a thrilling race against time across vibrant floating platforms. With sharp reflexes, dodge obstacles and tack
+- [Obby Saves Brainrots from Tsunami](../games/action/obby-saves-brainrots-from-tsunami.md) — Welcome to Obby Saves Brainrots from Tsunami!
+- [Obby Skate Forever Parkour](../games/action/obby-skate-forever-parkour.md) — In this adventure, youre skating through a very dangerous course, and you must, under no circumstances, fall off. Obby i
+- [Obby Skate Forever Parkour](../games/action/obby-skate-forever-parkour-2.md) — Navigate treacherous rooftops and construction blocks in Obby Skate Forever Parkour. Test your skating skills and collec
+- [Obby Space Challenge: Starships](../games/action/obby-space-challenge-starships.md) — Obby Space Challenge: Starships is an exciting game where you get to fly starships. Collect energy capsules, earn trophi
+- [Obby: Spider Swing](../games/action/obby-spider-swing.md) — Put your swinging skills to the ultimate test! Take control of your favorite web-slinger and navigate through 20 action-
+- [Obby Sprunki: Pet World](../games/action/obby-sprunki-pet-world.md) — Obby Sprunki: Pet World is an epic adventure where each pet is more than a companion. They are the key to unlocking lege
+- [Obby Stickman - On Swords](../games/action/obby-stickman-on-swords.md) — Embark on a thrilling stickman adventure as you engage in intense sword duels! Master the art of combat, dodge enemy att
+- [Obby: Survival Island](../games/action/obby-survival-island.md) — Shipwrecked… and the island shows no mercy. 🌴🔥
+- [Obby: Swimming competition](../games/action/obby-swimming-competition.md) — Welcome to the world of Obby: The Swimming Competition! Here its up to you to swim as far away as possible by buying boa
+- [Obby Swing for Brainrots Steal](../games/action/obby-swing-for-brainrots-steal.md) — Welcome to Obby Swing for Brainrots Steal
+- [Obby: Sword Hero Adventure](../games/action/obby-sword-hero-adventure.md) — Obby: Sword Hero Adventure is an exciting game where you’ll master your sword skills. Increase your attack power, obtain
+- [Obby The Legendary Dragon](../games/action/obby-the-legendary-dragon.md) — An exciting and addictive pet catching simulator for pokemon lovers. Travel through different roblox worlds and a lot of
+- [Obby: Theme Park World](../games/action/obby-theme-park-world.md) — Dive into a vibrant water park full of exciting rides and slides! Explore an open world, run around the park, discover h
+- [Obby: Three Challenges](../games/action/obby-three-challenges.md) — THREE LEVELS. ONE CHANCE. NO MERCY. Every great champion starts somewhere. Today, that somewhere is Obby: Three Challeng
+- [Obby Toilet Line](../games/action/obby-toilet-line.md) — Obby Toilet Line starts in the most chaotic place imaginable: a gas station restroom line. Around 30 different character
+- [Obby Toilet Line](../games/action/obby-toilet-line-2.md) — Obby Toilet Line starts in the most chaotic place imaginable: a gas station restroom line. Around 30 different character
+- [Obby Tower: Only Up!](../games/action/obby-tower-only-up.md) — Only Up Obby: Tower Climb is a 3D parkour obby where the only way is up! Climb a giant sky tower through 30 challenging 
+- [Obby: Traps And Jumps](../games/action/obby-traps-and-jumps.md) — 20 levels. 3 stages each. Collect all stars. Jump, sprint, and survive through 20 levels of platforming chaos. Each leve
+- [Obby: Tsunami +1 speed](../games/action/obby-tsunami-1-speed.md) — The city is on the brink of destruction&mdash;a giant tsunami is gaining speed and sweeping away everything in its path.
+- [Obby Tsunami Runner](../games/action/obby-tsunami-runner.md) — Run from the tsunami in Obby Tsunami Runner &mdash; a multiplayer browser game where every wave brings new danger. Dodge
+- [Obby Ultimate Parkour](../games/action/obby-ultimate-parkour.md) — Run a giant obby course above the ocean! Five worlds (Rainbow Meadow, Lava Volcano, Candy Land, Ice Peaks and the Sky To
+- [Obby Universe: Mini Games Online](../games/action/obby-universe-mini-games-online.md) — Obby Universe: Mini Games Online A world of incredible adventures! Play: Escape lava waves and outsmart evil traps in un
+- [Obby Universe - Mini Games Online](../games/action/obby-universe-mini-games-online-2.md) — Dive into Obby Universe, where thrilling mini-games challenge your wits, secret explorations await, and creative buildin
+- [Obby Up: Parkour Run](../games/action/obby-up-parkour-run.md) — Obby Up: Parkour Run is a colorful 3D platform adventure with a size-changing twist. Run and jump through a towering obs
+- [Obby Upgrade Your Jump](../games/action/obby-upgrade-your-jump.md) — Ready to jump insanely high? 😄 In Obby Upgrade Your Jump it’s super fun and simple: tap → earn Jump Points → jump highe
+- [Obby: Upgrade Your Lucky Machine!](../games/action/obby-upgrade-your-lucky-machine.md) — Forget boring spin machines! - here you're not just spinning reels, you're building your own luck machine. Increase the 
+- [Obby Upgrade Your Speed!](../games/action/obby-upgrade-your-speed.md) — Want to become super fast? ⚡ In Obby Upgrade Your Speed you power up by tapping: tap → earn Run Points → run faster!
+- [Obby vs Bacon MCSkyblock](../games/action/obby-vs-bacon-mcskyblock.md) — Are you ready for Obby and Bacons adventure? They need to survive in the block world. In their first adventure, they won
+- [Obby vs Bacon MCSkyblock](../games/action/obby-vs-bacon-mcskyblock-2.md) — Join Obby and Bacon in a thrilling block-filled adventure as you collect diamonds and conquer obstacles. Strategy and te
+- [Obby vs Bacon Rainbow Parkour](../games/action/obby-vs-bacon-rainbow-parkour.md) — Are you ready to dive into a life full of obstacle courses with Obby and Bacon? You must complete the courses. Be carefu
+- [Obby vs Bacon Rainbow Parkour](../games/action/obby-vs-bacon-rainbow-parkour-2.md) — Embark on a vibrant parkour adventure with Obby and Bacon, navigating through perilous courses filled with spikes and fa
+- [Obby vs Noob Driver](../games/action/obby-vs-noob-driver-2.md) — Navigate treacherous tracks in Obby vs Noob Driver, a thrilling cooperative car adventure. Dodge obstacles and conquer u
+- [Obby: Warriors of The Sword](../games/action/obby-warriors-of-the-sword.md) — Become a hero in Obby: Warriors of The Sword! Collect powerful swords, defeat enemies and unlock new abilities! Go throu
+- [Obby Way](../games/action/obby-way.md) — At first glance, it looks like a classic 3D obby—but the levels do not always play by the rules. Floors collapse without
+- [Object Hunt 3D](../games/action/object-hunt-3d.md) — The ultimate hide and seek game is about to begin! You need to disguise yourself as a prop and find the best hiding spot
+- [Object Hunt - Hide And Seek](../games/action/object-hunt-hide-and-seek.md) — Object Hunt is undoubtedly the most interesting Whack game of the year. You can release the pressure of work and study i
+- [Ocean Odyssey](../games/action/ocean-odyssey.md) — Embark on an enthralling underwater quest in Ocean Odyssey. Navigate mesmerizing aquatic landscapes, solve intriguing pu
+- [Oceanus Man](../games/action/oceanus-man.md) — It’s not an escape plan in which you will be escaped once and free it’s all about the real Oceanus Man who fights agains
+- [Octopus Run](../games/action/octopus-run.md) — Octopus Run is an underwater runner game where you control a powerful octopus navigating the oceans depths. Hunt divers 
+- [Oddmar Viking Escape Nine Worlds Saga War of Clans](../games/action/oddmar-viking-escape-nine-worlds-saga-war-of-clans.md) — Viking escape – is a game in which you control a Viking flying on a dragon, the Viking must go its way to the end to get
+- [Oink Run](../games/action/oink-run.md) — Welcome to our game with the wonderful piglet called Oink Run. The task in this game is with the little pig to run as fa
+- [Oink Run](../games/action/oink-run-2.md) — Speed through a vibrant escape in Oink Run, guiding a daring pig past tricky platforms and enemy threats. Tap effortless
+- [Oink Run NG](../games/action/oink-run-ng.md) — Oink Run! The runaway pig, manages to guide him on this insane escape by destroying enemies, jumping platforms and openi
+- [Olympic Runner Game](../games/action/olympic-runner-game.md) — Experience the ultimate icy adrenaline rush in Olimpic Runner: Olympic Gold! Dash through the frozen tundra and compete 
+- [Om Nom Run 03](../games/action/om-nom-run-03.md) — Om Nom Run is an exciting endless runner where you guide Om Nom through fun and colorful levels, jumping over obstacles 
+- [One Bit](../games/action/one-bit.md) — Start overcoming the tracks with your one-bit character in the One bit game! Dont forget to get a checkpoint in the game
+- [One Jump Bomb](../games/action/one-jump-bomb.md) — A peaceful walk turns into a jurney in the world of [b]Mr. Evilsun[/b]’s psychedelic shadows. Mr. Evilsun, with no appar
+- [One Level Stickman Jailbreak](../games/action/one-level-stickman-jailbreak.md) — Tommy got into trouble! Our hero is behind bars. But he&rsquo;s not going to stay in jail for a long time and he decides
+- [One Minute](../games/action/one-minute.md) — Try to win the game by defeating the tough soldiers in 1 minute. Fight tough soldiers in less than 1 minute with your ma
+- [One Piece Funny Games](../games/action/one-piece-funny-games.md) — This game consists 4 different game. Those are Coloring Game,Jigsaw Puzzle Game, Adventure Runner Game and Hidden Star G
+- [One Punch Man 3D Game](../games/action/one-punch-man-3d-game.md) — The game is a street fight between One Punch Man the Anime named One Punch Man and the enemies in the same Anime, where 
+- [One Two Start](../games/action/one-two-start.md) — Embark on your journey as a rookie runner aiming for 5km. Test your limits with each record-breaking sprint, gaining spe
+- [Only Parkour Skill up](../games/action/only-parkour-skill-up.md) — Race up perilous parkour courses in "Only Parkour Skill Up," where agility and timing dictate victory. Scale new heights
+- [Only Up! Forward](../games/action/only-up-forward.md) — Meet Jackie, a determined teenager hailing from the gritty streets of the ghetto. Jackie yearns to break free from the s
+- [Only Up Obby: Tower Climb](../games/action/only-up-obby-tower-climb.md) — Only Up Obby: Tower Climb is a 3D obby parkour platformer: run, jump and climb a huge tower made of 30 hand-built levels
+- [Only Up Parkour 2](../games/action/only-up-parkour-2.md) — Only Up Parkour 2! is an exciting arcade game in which you have to overcome obstacles and conquer heights of 500M. Inspi
+- [Only Up Parkour](../games/action/only-up-parkour-3.md) — Scale dizzying heights and navigate a vertical maze in Only Up Parkour! Jump, climb, and react swiftly to conquer dynami
+- [Orange Ring](../games/action/orange-ring.md) — Orange Ring is a fun casual game you only control an orange ring, don't touch the line.
+- [Orco The Dragon Crown](../games/action/orco-the-dragon-crown.md) — The Dragon Crown has had its 7 jewels stolen by the wizard and his army of undead. Help Orco smash his way through the u
+- [Otaho Bird](../games/action/otaho-bird.md) — Otaho Bird is a 2D platformer where you play as a bird who have to collect all of the slices of bread while avoiding the
+- [Otaho Bird 2](../games/action/otaho-bird-2.md) — Otaho Bird 2 is a 2D platformer where you play as a bird who have to collect all of the slices of bread while avoiding t
+- [Ouka Bunny Girl](../games/action/ouka-bunny-girl.md) — Embark on a thrilling quest as a bunny girl collecting carrots across treacherous landscapes. Navigate pixelated worlds,
+- [Ouka Bunny Girl 2](../games/action/ouka-bunny-girl-2.md) — Guide a nimble bunny girl through treacherous traps and crafty enemies to gather every carrot. Master precision jumping 
+- [Our Land](../games/action/our-land.md) — In this game, you play as a country on a mission to conquer all nearby territories and expand your empire. Youll need to
+- [Outfits Woman Rush](../games/action/outfits-woman-rush.md) — Outfits Woman Rush is a very fun and interesting parkour game. The gameplay is full of fun, try many costumes, smooth an
+- [Overloaded Bus 3d Game](../games/action/overloaded-bus-3d-game.md) — Have you ever felt the crowded bus in the morning rush hour? Come and join the Overloaded Bus! The most fun squeeze the 
+- [Owl Block](../games/action/owl-block.md) — Owl Block is a free online platform game that challenges you to use your agility and speed to overcome obstacles and rea
+- [Pacific Ocean Air Battle](../games/action/pacific-ocean-air-battle.md) — Engage in the exhilarating aerial combat of Pacific Ocean Air Battle, where tactical timing and agile maneuvers are your
+- [pacman master](../games/action/pacman-master.md) — Pac-Man is a Japanese video game franchise published, developed and owned by Bandai Namco Entertainment (formerly Namco)
+- [Paddle Battle 2.0](../games/action/paddle-battle-2-0.md) — In Paddle Battle 2.0, experience a thrilling clash of arcade classics and modern flair. Master your paddle with simple c
+- [Paint Run](../games/action/paint-run.md) — Paint Run 3D is a brand new satisfying game with color the path. Play like painter to make all path become color with pa
+- [Paint Runner – Trending Hyper Casual Game](../games/action/paint-runner-trending-hyper-casual-game.md) — Paint Runner 3D Color Race Colors of the world are to die for. Who doesn’t appreciate the value and effects colors have 
+- [Paint Them](../games/action/paint-them.md) — Let's Paint Together is a cool puzzle game. With numerous levels to go through, Let's Paint Together offers you a lot of
+- [Pair to collision](../games/action/pair-to-collision.md) — This is a 3D collision game. The game is very relaxing and decompressing. You can click on two identical objects on the 
+- [Panda Adventure 2026](../games/action/panda-adventure-2026.md) — Join a cute panda on an exciting platform adventure! Run, jump, collect shiny coins, break mystery blocks, avoid dangero
+- [Panda Christmas Adventure Run](../games/action/panda-christmas-adventure-run.md) — Do you know Panda adventure? This is the max country boy you will play with this game a few days before Christmas, Panda
+- [Panda Journey](../games/action/panda-journey.md) — Panda Journey is a pixel platformer in which you play as a cute little panda in search of love. So how does one go about
+- [Panda Love](../games/action/panda-love.md) — Panda Love is an adventure platformer with pixel art. One touch mobile and desktop game. Help panda finding his love in 
+- [Panda Quest](../games/action/panda-quest.md) — Embark on an epic pixel-art adventure in Panda Quest, where intuitive one-touch controls guide you through vibrant lands
+- [Panda Story](../games/action/panda-story.md) — Panda Story. You will have a lot of fun in the fun panda game. Help this cute panda! Save from difficult stages! You wil
+- [Paper Fighter 3D](../games/action/paper-fighter-3d.md) — In a retro environment created from paper layers; martial masters are ready to showcase their skills. Paper Fighter 3D g
+- [Paper Pixel Adventure](../games/action/paper-pixel-adventure.md) — Paper Pixel Adventure is a very fun adventure game. You have to destroy the sweet monsters in the game and get the right
+- [Paper Rush](../games/action/paper-rush.md) — Paper Rush is a one-button game. It has the same gameplay but in a beautiful hand-drawn world. Avoid spikes and jump ove
+- [Paper Survive](../games/action/paper-survive.md) — Even as a child, one of the exciting activities was to launch airplanes, which we made, using only paper on our own. Som
+- [Paper US Online](../games/action/paper-us-online.md) — paper us It is similar to amongus but this one is separate. hunt them all one by one secretly.
+- [parallel universe city adventure](../games/action/parallel-universe-city-adventure.md) — Welcome to our groundbreaking 2D puzzle city game! Shift the cityscape, solve intricate puzzles, and unleash your creati
+- [Parents Run](../games/action/parents-run.md) — Parents Run is an interesting game which simulates raising a kid. You only need to tap the screen to control the baby to
+- [Parkour 3D](../games/action/parkour-3d.md) — Leap into the exhilarating world of Parkour 3D, where precision is your best ally. Navigate through treacherous blocks, 
+- [Parkour Block 3D Game](../games/action/parkour-block-3d-game.md) — Skill game, classic mode from your favorite games right in the browser on your computer and phone! 35 unique levels, var
+- [Parkour Blockcraft](../games/action/parkour-blockcraft.md) — Welcome to the world of Blockcraft! Jump over the blocks to reach the portals! Be careful you may fall down. Finish the 
+- [Parkour Cat](../games/action/parkour-cat.md) — Leap into the vibrant world of Parkour Cat, where you navigate platforms as a daring feline. Master strategic jumps and 
+- [Parkour Craft Noob Steve](../games/action/parkour-craft-noob-steve.md) — Try to escape from the snowy area! Complete all levels and share your achievements with your friends. Jump over the snow
+- [Parkour Craft Noob Steve 2](../games/action/parkour-craft-noob-steve-2.md) — Try to escape from drowning in the deserted ocean! Complete all levels. Jump over the blocks and dont fall into the cold
+- [Parkour dancer](../games/action/parkour-dancer.md) — This is a parkour casual game. You can control the score and color of shoes and avoid obstacles by sliding the screen. T
+- [Parkour Game 3D](../games/action/parkour-game-3d.md) — Dive into the adrenaline-pumping world of Parkour Game 3D, where each jump and slide demands sharp precision. Conquer pr
+- [Parkour Hero](../games/action/parkour-hero.md) — Dive into Parkour Hero and embody Super Alfonso, the fearless artist of agility. Sprint through thrilling courses, overc
+- [Parkour in the cave 3D](../games/action/parkour-in-the-cave-3d.md) — The game is made in the style of Minecraft. The caves have safe elevations and a floor in the form of lava. Use all your
+- [Parkour Obby Jump to Victory](../games/action/parkour-obby-jump-to-victory.md) — Leap through thrilling obstacles, navigating paths with precision. Avoid traps and make quick decisions in a race agains
+- [Parkour Race 3D](../games/action/parkour-race-3d.md) — Parkour Race 3D is a 3D running game. Take control of your stickman and race against the crowd. You can run, dash or jum
+- [Parkour Race Run Game](../games/action/parkour-race-run-game.md) — "Take your running game to the next level as you race against the crowd in this clash to earn first place! Become the fi
+- [Parkour Run - 3D Runner](../games/action/parkour-run-3d-runner.md) — 🏃‍♂️ Parkour Run — Runner 3D!
+- [Parkour Runner 2D](../games/action/parkour-runner-2d.md) — Parkour Runner is a fun game where you try to progress continuously by jumping and falling into the gaps. You have to ju
+- [Parkour Runner 3D](../games/action/parkour-runner-3d.md) — Parkour Runner 3D is a fast-paced action running game where you sprint, jump, slide, and flip through thrilling obstacle
+- [Parkour Rush](../games/action/parkour-rush.md) — Run forward and look for a shortcut to outrun your rivals. Use the flight button to overtake your rivals, but steer care
+- [Parkour Skyblock](../games/action/parkour-skyblock.md) — Complete levels and do parkour tricks in Parkour Skyblock. Jump over obstacles, climb ledges, reach the portal! Jump on 
+- [Parkour World](../games/action/parkour-world.md) — Welcome to Parkour World, an exhilarating Minecraft-inspired parkour game with thrilling challenges and delightful gamep
+- [Parkour World 2](../games/action/parkour-world-2.md) — Welcome to Parkour World 2, an exhilarating Minecraft-inspired parkour game with thrilling challenges and delightful gam
+- [ParkourCraft](../games/action/parkourcraft.md) — Speedrun all the levels and share your score with your friends. Jump through blocks and don't fall into the lava. Compet
+- [ParkourCraft](../games/action/parkourcraft-2.md) — Jump into the blocky world of ParkourCraft, where you master the art of fluid movement in thrilling 3D platforming cours
+- [Parthian Warrior](../games/action/parthian-warrior.md) — Features: • Two maps • Five weapons at your disposal including a shield
+- [Party Cup Runner](../games/action/party-cup-runner.md) — Collect various glasses and join the party. Fill your glasses with unlimited drinks and serve them to your guests. games
+- [Party Cups Stack](../games/action/party-cups-stack.md) — Party Cups Stack is a casual stack game for all ages. Slide to go ahead and collect the cups as much as possible. You ca
+- [Path Control Game](../games/action/path-control-game.md) — Path Control is a popular and free online game for boys, in which you need to rotate the platforms to help the circle ge
+- [Paty Path](../games/action/paty-path.md) — Run, jump, and dodge obstacles in a fast-paced casual runner! Run, dodge obstacles, and complete exciting levels! Jump o
+- [Paw Patrol Puppy Ninja Slice Fruit](../games/action/paw-patrol-puppy-ninja-slice-fruit.md) — Welcome to Paw Patrol Puppy Ninja Slice Fruit . Your objective: become a master of slicing objects and fruit! What bette
+- [Pawky](../games/action/pawky.md) — The pawky jump platformer game is all about jumping on platforms. The player must be quick and agile enough to avoid obs
+- [Peak Panic](../games/action/peak-panic.md) — Unleash nature's fury to defend your mountain from invaders in Peak Panic. Strategically use natural disasters to thwart
+- [Pekko Robot](../games/action/pekko-robot.md) — Pekko Robot is a 2D Sci-fi themed platformer where you play as a robot who have to collect chicken eggs while avoiding t
+- [Pekko Robot 2](../games/action/pekko-robot-2.md) — Pekko Robot 2 is a 2D Sci-fi themed platformer where you play as a robot who have to collect chicken eggs while avoiding
+- [Pen Run game 2020](../games/action/pen-run-game-2020.md) — Pen Run game 2020 Way is an interesting running, relaxing game. There are many obstacles we set on your road, it has a s
+- [Pen Run Online](../games/action/pen-run-online.md) — Pen Run Online is an interesting arcade game. Have you seen the pen running? Here you go. Slide to run the pen on the ta
+- [Pen Rush](../games/action/pen-rush.md) — Pen Rush is an interesting arcade game. Have you seen the pen running? Here you go. Slide to run the pen on the table. C
+- [Pendula](../games/action/pendula.md) — Pendula is an Adventure game in which the player has to complete the level by swinging the environment while avoiding en
+- [Pengu Pengu](../games/action/pengu-pengu.md) — Hurry up, Pengu, and collect all the fish! The penguins are very hungry and its getting harder to find food. Gather ever
+- [Penguin Adventure 2](../games/action/penguin-adventure-2.md) — Join the penguin&rsquo;s adventure in Penguin Adventure! You will play as a penguin who must reach the castle in each le
+- [Penguin Battle Christmas](../games/action/penguin-battle-christmas.md) — Penguin Battle Christmas - An army of snowmen are determined to ransack this poor penguin’s cabin! Help the bodacious bi
+- [Penguin exit path](../games/action/penguin-exit-path.md) — The Penguin Exit Path is a platformer game where you need to help the penguin to cross to the other side of the mountain
+- [Penguin Jump](../games/action/penguin-jump.md) — Penguin Jump - Endless Fun way through endless ice platforms with Penguin Jump! Are you ready to take on the challenge o
+- [Penguin Love](../games/action/penguin-love.md) — Penguin Love Puzzle &ndash; Template for Construct 3 is a game Arcade it&rsquo;s a classic style game, developed with Co
+- [Penguin Run Adventure Game](../games/action/penguin-run-adventure-game.md) — Penguin run game is adventure and help a little cute Penguin against the alien monsters. Penguin run adventure is specif
+- [Penguin Runner](../games/action/penguin-runner-2.md) — Dash through snowy tundras in Penguin Runner, guiding a lively penguin as he collects fish and dodges icy traps. Navigat
+- [Penguin Runner Game](../games/action/penguin-runner-game.md) — Get ready for the ultimate arctic adrenaline rush in Penguin Runner Game! Take control of a plucky, caped penguin hero o
+- [Penguin Strike](../games/action/penguin-strike.md) — Embark on a frosty quest for revenge as a weaponized penguin in this exhilarating 2D shooter. Unleash chaos across icy b
+- [PenguinDash!](../games/action/penguindash.md) — All you have to do is get as far as you can, but watch out for the crates and explosive TNTs! Penguins cant fly, so use 
+- [Penguino](../games/action/penguino.md) — Embark on a frosty adventure with Penguino! Leap and glide across icy terrains, grabbing fish to satisfy your hunger and
+- [Penguins Jump Escape](../games/action/penguins-jump-escape.md) — enguin Run is an amazing penguin running and jumping adventure game in the ICE WORLD. In this adventure game, The little
+- [Pepe vs Shiba Run Adventure](../games/action/pepe-vs-shiba-run-adventure.md) — Join the amusing chase in Pepe vs Shiba Run Adventure, where you navigate vibrant 2D landscapes, dodge dynamic obstacles
+- [Peppa  Among Us](../games/action/peppa-among-us.md) — Peppa Among Us is offline multiplayer game in which you are imposter and have to kill all of your crewmates without bein
+- [Perfect Cutter](../games/action/perfect-cutter-2.md) — In Perfect Cutter, channel your inner chef as you chop fruits with precision and speed. The challenge escalates with eve
+- [Perfect Slices Online - Fun & Run 3D Game](../games/action/perfect-slices-online-fun-run-3d-game.md) — Perfect Slices Online is not only a slicing but also a relaxation arcade game with 3D game art animation. It is managed 
+- [Perfect Wax 3D](../games/action/perfect-wax-3d.md) — Perfect Wax 3D is a marvelous casual game. The word wax usually means a solid substance that is made from beeswax or fro
+- [Persistence](../games/action/persistence.md) — In Persistence, you will control the last survivor of the Nenju tribe. Nenju has been consumed by monsters, and your mis
+- [Persona Runner](../games/action/persona-runner.md) — Persona Runner is a high-speed adventure game where players navigate a futuristic cityscape as a customizable runner, ut
+- [Pet Chase](../games/action/pet-chase.md) — Guide adorable animals through a whirlwind of challenges in Pet Chase! Strategically navigate hazards by building bridge
+- [Pet Runner - Dinosaur Jump](../games/action/pet-runner-dinosaur-jump.md) — Dive into the exhilarating world of Pet Runner - Dinosaur Jump, where your furry friend races through vibrant landscapes
+- [Pet Subway Surfer](../games/action/pet-subway-surfer.md) — Pet Subway Surfers is an amazing running game. Run along the craziest scenarios in the Pet Subway Train City. Drag to ju
+- [Pet Subway Surfeurs](../games/action/pet-subway-surfeurs.md) — Pet Subway Surfeurs is the best free running game where you can meet you new best friend and go for a run! Choose your p
+- [Pet Trainer Duel](../games/action/pet-trainer-duel.md) — Customers who were looking for a master Pet Trainer found you. Take cats on the trainer platforms and do your best to lo
+- [Petto Jungle Adventure](../games/action/petto-jungle-adventure.md) — Embark on a thrilling quest as a jungle-dwelling robot in Petto Jungle Adventure. Navigate through complex levels, colle
+- [Petto Jungle Adventure 2](../games/action/petto-jungle-adventure-2.md) — Embark on a thrilling 2D platformer adventure in Petto Jungle Adventure 2! Navigate a vibrant jungle filled with deadly 
+- [Phantom Steel](../games/action/phantom-steel.md) — Phantom Steel delivers heart-pounding arcade thrills as you navigate a mystical arena filled with danger. Master your re
+- [Phone Evolution](../games/action/phone-evolution.md) — Here is a collecting evolution simulation arcade game with 3D cartoon phone models and platform tracks. As long as you k
+- [Physics Box 2](../games/action/physics-box-2.md) — Physics Box 2 - This is a game where you need to control the cube, which by momentum must reach the finish line, on your
+- [Pig Pig](../games/action/pig-pig.md) — Enter Pig Pig, where escalating challenges await across five thrilling levels. Battle fiercer monsters as you progress, 
+- [Pigeon Ascent](../games/action/pigeon-ascent.md) — In Pigeon Ascent, take care of your own pigeon as they fight increasingly stronger foes, and then face the legendary Pig
+- [Piggy Run](../games/action/piggy-run.md) — This game with the wonderful piglet called Piggy Run. The task in this game is with the little pig to run as far as poss
+- [Pimple Pop Rush](../games/action/pimple-pop-rush.md) — Do you have trouble with pimples? Come and join Pimple Pop Rush to enjoy squeezing pimples! As a beauty doctor, your tas
+- [Pimple Poper Rush](../games/action/pimple-poper-rush.md) — As a beauty master to pop all pimple away to recover the skin health. Enjoy the new satisfaction in Pimple Poper Rush. T
+- [Pin Water Rescue](../games/action/pin-water-rescue.md) — Pin Water Rescue is a puzzle game. Your house is firing, but you are trapped in a cave. At the top of the mountain has s
+- [Pinball Battle](../games/action/pinball-battle.md) — Dive into Pinball Battle's captivating world, where strategic thinking and precision guide you through gravity-defying p
+- [Pink Guy Escape](../games/action/pink-guy-escape.md) — Navigate the perilous path with Pink Guy in this fast-paced running adventure. Master swift jumps and daring flips to do
+- [Pink Rush Speedrun Platformer](../games/action/pink-rush-speedrun-platformer-2.md) — Race through the relentless thrill of "Pink Rush Speedrun Platformer," conquering 60 adrenaline-pumping levels teeming w
+- [Pinkii](../games/action/pinkii.md) — Pinkii is a 2D Simple platformer where you need to avoid enemy monsters and spikes and reach the pink flag in order to g
+- [Pinkii 2](../games/action/pinkii-2.md) — Pinkii 2 is a simple 2D Platformer where you need to collect yellow flowers while avoiding enemies including flying mons
+- [Pirate King Run Island Adventure](../games/action/pirate-king-run-island-adventure.md) — Pirate Run a great HTML5 platform game. Control pirate on the lone island and pick up all diamond. The island have a gua
+- [Pirate Run](../games/action/pirate-run.md) — Pirate Run a great HTML5 platform game. Control pirate on the lone island and pick up all diamond. The island have a gua
+- [Pirates Battle Island](../games/action/pirates-battle-island.md) — Capture the islands one by one and show that you are the best warrior pirate. Huggy Wuggy
+- [Pixel Amphibian](../games/action/pixel-amphibian.md) — Pixel Amphibian is a fast-paced endless runner where quick reflexes and perfect timing keep a pixelated toad hopping for
+- [Pixel Battle Upward](../games/action/pixel-battle-upward.md) — In this adventure, we must avoid the lava and push our enemy into it. Are you ready for a fun game of avoiding the lava 
+- [Pixel Battle Upward](../games/action/pixel-battle-upward-2.md) — Push your opponent into the lava while dodging falling rockets in this frantic duel with a 120-second timer. Quick refle
+- [Pixel Dash A High Speed Adventure](../games/action/pixel-dash-a-high-speed-adventure.md) — Zoom through a vibrant pixelated world as a charming blue hero in this exhilarating platformer. Dash with agility, conqu
+- [Pixel Heroes Runner](../games/action/pixel-heroes-runner.md) — Are you ready to run in 'pixel heroes runner' the endless running game? run and collect diamonds then collect diamonds a
+- [Pixel Heroes Runner](../games/action/pixel-heroes-runner-2.md) — Fast-paced and adrenaline-filled, Pixel Heroes Runner tests your reflexes as you dash through vibrant, pixelated landsca
+- [Pixel Rush Online](../games/action/pixel-rush-online.md) — Control the pixel boy rush to go through a challenging obstacle course. Pixel Boy loses Pixels when he hits the obstacle
+- [Pixel Slime](../games/action/pixel-slime.md) — PIXEL SLIME is a unique auto-platformer that challenges you to get the LOWEST score possible. Jump, twist, and glide you
+- [Pixel Tower](../games/action/pixel-tower.md) — A retro platformer, mobile supported in landscape only, you climb a tower and: - Collect items with special abilities. -
+- [Pixel Valley](../games/action/pixel-valley.md) — Dive into Pixel Valley's vibrant world, where colorful landscapes and lively multiplayer adventures await. Collect fruit
+- [Pixel Wizard](../games/action/pixel-wizard-2.md) — Dive into the enchanting world of Pixel Wizard where strategic survival meets magical chaos. Cast spells and collect mys
+- [PixelCraft Animal School](../games/action/pixelcraft-animal-school.md) — In order to survive in this world, you must avoid dangerous animals. On a cold winter day, you need to reach the portal.
+- [Pixelkenstein : Halloween](../games/action/pixelkenstein-halloween.md) — Collect halloween-themed candies to beat the levels and finish the game. Collect the candies, reach the highest score an
+- [Pixelkenstein Halloweens](../games/action/pixelkenstein-halloweens.md) — Collect halloween-themed candies to beat the levels and finish the game. Collect the candies, reach the highest score an
+- [PixelParkour](../games/action/pixelparkour.md) — PixelParkour is a pixel-style action game where you take on the role of a professional thief in a black outfit with exce
+- [PixelParkour](../games/action/pixelparkour-2.md) — Leap into the vibrant world of PixelParkour, where precision meets thrill. Master the art of dynamic parkour as a stealt
+- [Pixman Run](../games/action/pixman-run.md) — Dive into Pixman Run, a thrilling pixelated world where action never ceases. Master the perfect leap, overcome monstrous
+- [Pizza Delivery Run](../games/action/pizza-delivery-run.md) — Pizza Delivery Run is a fun and free online running game for boys played on Puzzlegame. You need to keep collecting pizz
+- [Pizza Ninja Mania](../games/action/pizza-ninja-mania-2.md) — In Pizza Ninja Mania, become a ninja-chef extraordinaire as you perform acrobatic slicing feats in a whirlwind culinary 
+- [Plane Runner 3D](../games/action/plane-runner-3d.md) — Introducing Sky Warriors, an exhilarating action game that takes you to the skies for an ultimate fighter jet combat exp
+- [Planes Dodge & Go](../games/action/planes-dodge-go.md) — Join the thrilling action of Planes Dodge & Go, where you navigate intense dogfights, dodging projectiles and opponents.
+- [Planet Attaque](../games/action/planet-attaque.md) — Planet Attaque - Destroy all planet
+- [Platfoban](../games/action/platfoban.md) — You need to collect all the coins at every level. There are two modes in game: the platforming mode, in which you can ru
+- [Platform adventure go](../games/action/platform-adventure-go.md) — Features: • Experience an exciting mix of fun and exploration. • Lots of super cute bosses and enemies to beat. • Embark
+- [Platform Countdown](../games/action/platform-countdown.md) — Platform Countdown is a puzzle game where you traverse platforms in which there are disappearing blocks to jump off of.
+- [Platform Paint 3D](../games/action/platform-paint-3d.md) — Paint the platform to uncover the geometric figure hidden in the shade. – Explore 100+ uniquely created platforms – unlo
+- [Platform Swap](../games/action/platform-swap.md) — Control a high-tech robot with the power to shift colors in Platform Swap. Navigate intricate platforms by perfectly tim
+- [Platformer Hell](../games/action/platformer-hell.md) — Brace yourself for Platformer Hell, where precision and agility are your only allies. Navigate gravity-defying landscape
+- [Platformer Hell Reupload](../games/action/platformer-hell-reupload.md) — Plunge into the adrenaline-pumping world of Platformer Hell Reupload, where speed and precision rule. Navigate devilishl
+- [Platformer War Day](../games/action/platformer-war-day-2.md) — Dive into retro pixelated chaos with Platformer War Day! Tackle 27 action-packed levels armed with limited ammo and stra
+- [Platforms Destroyer HD](../games/action/platforms-destroyer-hd.md) — Platforms Destroyer – is a game in which you need to destroy the black platforms bypassing the thorns
+- [Platforms Overlord](../games/action/platforms-overlord.md) — guide cube through many levels and an endless mode by controlling platforms. There are many types of platforms. You can 
+- [Player vs Robots](../games/action/player-vs-robots.md) — Player vs Robots is a first person shooter. Save the world from robots. The game has 3 difficulty modes, 10 levels each.
+- [Player vs Zombie](../games/action/player-vs-zombie.md) — One character with different weapons on two maps. 10 levels against soldiers and 10 levels against zombies. The levels o
+- [PLAYMUSIC](../games/action/playmusic.md) — PlayMusic turns your favorite songs into a living, reactive game world where every beat shapes the action. Dodge obstacl
+- [Playometro Remake](../games/action/playometro-remake.md) — Embark on a cosmic adventure as a red alien exploring diverse landscapes. Reclaim lost coins scattered across forests, d
+- [Plug Head 3D](../games/action/plug-head-3d.md) — I guess all of you have seen plugs in real life. Plug Head 3D is a vertical version adventure game with 3D arcade game r
+- [Po Santa](../games/action/po-santa.md) — Become Santa in a festive 2D platformer adventure! Navigate snow-filled landscapes, collect red gift boxes, and conquer 
+- [Pocket Wing](../games/action/pocket-wing.md) — If you want to spend moments full of action with your aerobatic plane, Pocket Wing is for you! You have to pass your pla
+- [Pogo Obby Sprunki](../games/action/pogo-obby-sprunki.md) — Pogo Obby Sprunki catapults you into a zany pogo-stick escapade where mastering unpredictable physics is key. Leap throu
+- [Poison Candy: Obby 1 Or 2-Player](../games/action/poison-candy-obby-1-or-2-player.md) — "Poison Candy: Obby 1 Or 2-Player" – an exciting obby game where you have to outsmart your friend! Can you make your opp
+- [Pokemon Pikachu](../games/action/pokemon-pikachu.md) — Run as fast as you can through an ever-changing Pokemon world with hero Pikachu.
+- [Pole Dance Battle](../games/action/pole-dance-battle.md) — Pole Dance Battle is a perfect game for those who like pole dancing and those who use pole dancing as a workout. Is it a
+- [Pole Vault Jump](../games/action/pole-vault-jump.md) — In this new race, try a new track, a new way of playing, at the right time, pole jump over obstacles, the perfect jump w
+- [Police Clash 3D](../games/action/police-clash-3d.md) — Gather your elite squad of skilled individuals, each with their unique strengths and abilities, in order to embark on an
+- [Police Escape](../games/action/police-escape.md) — An addictive running game. Run as fast as you can, avoid the obstacle, to escape from the policeman. Collect the special
+- [Police Obby Prison Save](../games/action/police-obby-prison-save.md) — In this adventure, youre disguised as a police officer and rescuing your friends from prison. Find all your friends and 
+- [Police Obby Prison Save](../games/action/police-obby-prison-save-2.md) — In Police Obby Prison Save, disguise as a police officer on a daring mission to break your friends out of captivity. Eng
+- [police Stick man Fighting Game](../games/action/police-stick-man-fighting-game.md) — Get ready for the global wrestling fight to demonstrate the power of heavyweight champion and use all fighting skills to
+- [Poligon Dash - Geometry](../games/action/poligon-dash-geometry.md) — Dive into Poligon Dash - Geometry, where quick reflexes and sharp calculations are your best friends. Navigate through t
+- [Poly Jumper](../games/action/poly-jumper.md) — Poly Jumper is a fast-paced arcade platformer where timing is everything. Jump across vibrant polygon worlds filled with
+- [Poly Rush](../games/action/poly-rush.md) — PolyRush is a fast-paced flight game set in a stunning low-poly universe. Pilot your aircraft through challenging obstac
+- [PolyGun - Idle TD](../games/action/polygun-idle-td-2.md) — Unleash strategic chaos in PolyGun, an idle tower defense where your auto-firing turret battles waves of relentless geom
+- [Pond Story](../games/action/pond-story.md) — Are you ready for a pond story? In this story you must save your friend and win the game! You can buy new equipment by c
+- [Pony Candy Run](../games/action/pony-candy-run.md) — The cute pony rainbow wants to go to her house in the sky. She will collect the candies on the way and take them home. C
+- [Pool Buddy 3](../games/action/pool-buddy-3.md) — Pool Buddy 3 is fun logic game suitable for all ages. Welcome to Pool Buddy 3! Completely different from Pool Buddy 2, a
+- [Pop It! Duel](../games/action/pop-it-duel.md) — ¡Si Pop It! 3D no era suficiente reto para ti, ¡has llegado al juego adecuado! ¡Pop It! Duel reinventa la forma de jugar
+- [Pop it Knockout Royale](../games/action/pop-it-knockout-royale.md) — Tap and pop your own bubbles which you can find on the top of your hero's head. Your goal is simple but challenging, tha
+- [Popcorn Race 3D](../games/action/popcorn-race-3d.md) — Race against time as a daring corn kernel in Popcorn Race 3D. Navigate thrilling tracks, collect kernels, and transform 
+- [Popcorn Run 3D](../games/action/popcorn-run-3d.md) — There is naked corn on the cob who wants to gather all the corn kernels that have all ran away overnight, how insane. Yo
+- [Popcorn Stack](../games/action/popcorn-stack.md) — Welcome to Popcorn Stack! Here, you will have a fun stacking popcorn trip. Collect many boxes and fill them with grain, 
+- [Popo Singer](../games/action/popo-singer.md) — Popo Singer is a 2D platformer where you play as Popo who is a music lover. Your mission is to collect the guitars while
+- [Popo Singer 2](../games/action/popo-singer-2.md) — Popo Singer 2 is a 2D platformer where you play as Popo who is a music lover. You have to collect all of the guitars whi
+- [Poppy 4! Cut Monsters with Sword in Arena!](../games/action/poppy-4-cut-monsters-with-sword-in-arena.md) — Welcome to "Poppy 4! Cut Monsters with Sword in Arena!" - an exciting action game with a sword, where you fight against 
+- [Poppy Dungeons - Poppy Playtime](../games/action/poppy-dungeons-poppy-playtime.md) — Damn! Purple monsters have appeared in the city, threatening the personal safety of humans. As a warrior, come join Popp
+- [Poppy Grandma](../games/action/poppy-grandma.md) — This new horror game quickly gained popularity because of well-detailed graphics and thrilling atmosphere. And the inter
+- [Poppy Huggie Escape](../games/action/poppy-huggie-escape.md) — Poppy Huggie Escape is an exciting escape adventure game. The abominable blue monster Huggy is chasing you and you need 
+- [poppy huggy playtime horror 3D](../games/action/poppy-huggy-playtime-horror-3d.md) — Poppy Horror Playtime Game, a good old classic hide and seek game with a little horror twist. Run hiding from Huggy Wugg
+- [Poppy Infinity Trail](../games/action/poppy-infinity-trail.md) — Poppy PlayTime_Hugy Wugy , Protect the planet from falling asteroids! • The planet can only take 2 hits before crashing 
+- [Poppy Office Nightmare](../games/action/poppy-office-nightmare-2.md) — Survive the eerie halls of Poppy Playtime Co. in a thrilling 3D first-person horror experience. Explore and stealthily c
+- [poppy playtime battle city](../games/action/poppy-playtime-battle-city.md) — The Official Poppy Playtime Mobile Game! You must stay alive in this horror/puzzle adventure. Try to survive the vengefu
+- [Poppy Playtime Huggy Mobile](../games/action/poppy-playtime-huggy-mobile.md) — There has not been such a game for a long time, and now we have finally waited. The original name of this cool game is P
+- [poppy playtime huggy wuggy game](../games/action/poppy-playtime-huggy-wuggy-game.md) — Huggy Wuggy was created by Playtime CO. to be embraced by children. The toy soon became the most successful product of t
+- [Poppy Playtime Hugie](../games/action/poppy-playtime-hugie.md) — Poppy Playtime Hugie is an amazing running and jumping adventure Game! Run and jump over obstacles to collect Hearts. Wh
+- [Poppy Playtime Online Edition](../games/action/poppy-playtime-online-edition.md) — If you ever know about Poppy Horror character, it's Playtime for you to get start in this game. Don't let huggy and wugg
+- [Poppy Rush Color](../games/action/poppy-rush-color.md) — To win the level, you must make yourself stronger and defeat the boss. This can be achieved by absorbing people of the s
+- [Poppy Stickman Battle Royale](../games/action/poppy-stickman-battle-royale.md) — Enter a chaotic urban battlefield in Poppy Stickman Battle Royale, where you'll combat monstrous foes with your unique s
+- [Poppy Strike](../games/action/poppy-strike-7.md) — Face the haunting challenge of Poppy Strike, a first-person shooter plunging you into a relentless battle against Huggy 
+- [Poppy Vs Zombie](../games/action/poppy-vs-zombie.md) — Poppy Vs Zombie is an HTML5 game. Keep Poppy alive and eliminate zombies to earn scores. Collect grenades, extra lives, 
+- [Port Defender](../games/action/port-defender.md) — Protect a bustling harbor in Port Defender, where your skills are vital against relentless pirate attacks. Command a pat
+- [Potato Ball Panic](../games/action/potato-ball-panic.md) — Potatoball is a kind of volleyball simulator with a giant potato stuffed with explosives instead of a ball. You have to 
+- [Potion Path](../games/action/potion-path.md) — Welcome to Potion Path &ndash; A Magical Running Adventure! Join a playful young witch on a thrilling journey through en
+- [Pou Jumping](../games/action/pou-jumping.md) — Pou Jumping is fun jumping game suitable for all ages. Jump on floating platforms in Pou Jumping online game! - Pou Jump
+- [Pou Runner](../games/action/pou-runner.md) — Help Paul run as far as possible without falling into the abyss!
+- [power rangers adventure dash](../games/action/power-rangers-adventure-dash.md) — power rangers adventure dash - Run and jump is the best action rangers game forever. The game has many difficult levels 
+- [Power Rangers Fight](../games/action/power-rangers-fight.md) — Power Rangers have to protect his mystical powerhouse from enemies. You have to fight to fend off all enemy attacks. Def
+- [Power Rangers Hard Mission](../games/action/power-rangers-hard-mission.md) — In the game power rangers have to pass the obstacles inside the spaceship and complete the mission to save the world. He
+- [Power Slap](../games/action/power-slap.md) — Power Slap is an exciting slap battle game where timing, precision, and reflexes are the key to victory! Engage in fast-
+- [Power Spider](../games/action/power-spider.md) — Swing through the city in Power Spider, a thrilling beat 'em up adventure. Master web-slinging, combat skills, and extra
+- [Power Wall](../games/action/power-wall.md) — Try to participate in the science experiment in laboratory. Play and outperform yourself! Just don't let the ball fly ou
+- [Power Wash Hero](../games/action/power-wash-hero.md) — Dodge and weave through a germ-infested car wash while wielding a powerful water gun in Power Wash Hero. Blast relentles
+- [Prankster 3D](../games/action/prankster-3d.md) — Prankster 3D is an original free online puzzle game for kids. In this game, you need to find the textbook according to t
+- [Prehistoric Warfare](../games/action/prehistoric-warfare.md) — Embark on a thrilling journey where dragons and dinosaurs coexist. As a warrior, harness their power to conquer dynamic 
+- [Pretty Sheep Run](../games/action/pretty-sheep-run-2.md) — Guide a charming sheep in Pretty Sheep Run, navigating endless platforms and dodging hazards. Convert numbers and enhanc
+- [Prince Assassin Hunter](../games/action/prince-assassin-hunter.md) — Assassin Hunter The best and most attractive killer hunting Become the legend of Assassin - be an intelligent and vigila
+- [Prince Of Demons : Dark Flame](../games/action/prince-of-demons-dark-flame.md) — Wield hellfire, conquer darkness, and rise as the Prince of Demons in this epic RPG to break free from your cursed half-
+- [Princess Run 3D](../games/action/princess-run-3d.md) — Want a magical and exciting running adventure? Step into Princess Run 3D, a fun 3D platform arcade game full of exciting
+- [Princess Warrior](../games/action/princess-warrior.md) — Step into Princess Warrior's medieval realm, where demons threaten the world. Embark on an epic journey through five thr
+- [Prison Escape Plan](../games/action/prison-escape-plan.md) — In Prison Escape Plan, 3 prisoners decide to escape from prison. A plan is required for this. But 3 prisoners cannot cre
+- [Prison Escape Stickman](../games/action/prison-escape-stickman.md) — Prison Escape Stickman game is a casual game where you have to lead players towards the final destination by digging pat
+- [Prison Gates](../games/action/prison-gates.md) — Prison Gates is a stickman running game where you try to pass through gates while avoiding criminals. Your mission in th
+- [Prison Twins](../games/action/prison-twins.md) — Two brothers need to escape from prison help them! The brothers are very bored in prison. There are many puzzle-style bu
+- [Prisoner Bob](../games/action/prisoner-bob.md) — Step into the shadows of a high-security prison, where every move could be your last. In this intense single-player stra
+- [Private Zombie Town](../games/action/private-zombie-town.md) — Capture people and turn them into zombies. Destroy other zombie teams by increasing the number of zombies. There is alwa
+- [Project Boxy Boo Play Time](../games/action/project-boxy-boo-play-time.md) — Welcome to Project Playtime Boxy Boo, with a fantastic appearance, a new survivor, and the boxy boo monster. Choose your
+- [Project VOID](../games/action/project-void.md) — Project VOID is a fast-paced sci-fi roguelike survival game set on a mysterious alien world. Fight off waves of hostile 
+- [PUBG Apna Faugi Online Multiplayer](../games/action/pubg-apna-faugi-online-multiplayer.md) — Apna Faug Mini Multiplayer online games
+- [PUBG Mini Snow Multiplayer](../games/action/pubg-mini-snow-multiplayer.md) — Multiplayer game enjoy with your friends
+- [Pull Him Out Save Daddy Game](../games/action/pull-him-out-save-daddy-game.md) — Play the best world class pull him out game, pull the pin and save daddy. Get ready to unlock a world of tricky puzzles 
+- [Pull the Pin Rescue](../games/action/pull-the-pin-rescue.md) — Pull the Pin Rescue is a rescue game that you need to pull out the pin in the right order and rescue a trapped guy. Once
+- [Pumpkin Blast](../games/action/pumpkin-blast-2.md) — Pumpkin Blast takes you on a thrilling Halloween adventure where precision and timing are your best allies. Launch Jack 
+- [Pumpkin Jump](../games/action/pumpkin-jump-2.md) — Leap into action with Pumpkin Jump! Navigate a lively, bouncing pumpkin through treacherous landscapes using precise tim
+- [Pumpkin Smasher](../games/action/pumpkin-smasher.md) — Unleash your smashing skills in Pumpkin Smasher! Crush soaring pumpkins while dodging lethal red bombs in a tense bid fo
+- [Pumpkin tower halloween](../games/action/pumpkin-tower-halloween.md) — Pumpkin tower is a great game made by azeemdreamsdesigner development team. reskin service available. feel free to conta
+- [Punball Puzzle](../games/action/punball-puzzle-2.md) — Unleash your magic in Punball Puzzle, where you battle waves of evil forces as a powerful mage. Upgrade your abilities t
+- [Punch Box](../games/action/punch-box.md) — You are a boxer with very low money and because you can’t afford to train at gyms, you train by punching boxes! You have
+- [Punch Kid](../games/action/punch-kid.md) — Step into the ring with Punch Kid, where precise timing and powerful punches forge your path through a forest. This high
+- [Punch King](../games/action/punch-king.md) — Enjoy the action fighting gameplay with Punch King. Play this exciting and warm-up game alone & destroy the bugs. Thousa
+- [Punch Master](../games/action/punch-master.md) — Welcome to one of the best free game combining music and fighting for your pleasure Get ready to become the chief brawle
+- [Punching Bug](../games/action/punching-bug.md) — Punching Bug is a high intensity fighting game that takes place on the battlefield. You can punch and kill insects with 
+- [Puppy Battle](../games/action/puppy-battle.md) — Engage in an adorable yet intense showdown as you control a battle-ready pup in Puppy Battle! Strategize and maneuver th
+- [Puppy Escape Runner](../games/action/puppy-escape-runner.md) — Embark on a vibrant, fast-paced adventure with an adorable puppy, dodging obstacles and collecting treats through colorf
+- [Puppy vs Zombie](../games/action/puppy-vs-zombie.md) — Leap into the paws of a courageous puppy battling endless zombie waves in this exhilarating arcade runner. Master simple
+- [Purrrification](../games/action/purrrification.md) — An innocent-looking platformer. Jump, collect, progress. But something feels off. Levels shift, sounds distort, the scre
+- [Purrrification](../games/action/purrrification-2.md) — Dive into "Purrrification," a haunting retro venture filled with eerie glitches and mysterious creatures. Unravel its un
+- [Push Block](../games/action/push-block.md) — Now use you finger push all the blocks to destination!Be careful about the obstacles on the road!
+- [Push Him!](../games/action/push-him.md) — Don't let your rivals get to the finish line using various traps. Buy new traps, upgrade old ones, watch your rivals sca
+- [Push My Chair](../games/action/push-my-chair.md) — Time to push some chairs of office workers at various offices! These office people have some weapons and tools in their 
+- [Push out : colors game](../games/action/push-out-colors-game.md) — Up to 4 players game. You must push others players out of the arena. Your dot spins around itself. When you push the but
+- [Push the Crazy Crowd : Stickman Clash 3D](../games/action/push-the-crazy-crowd-stickman-clash-3d.md) — Push the crazy crowd - stickman clash 3d rush is a fun hyper casual game. Push em all off the platform with just a swipe
+- [Push the Cube Online](../games/action/push-the-cube-online.md) — Are you interested in cube matching puzzle games? Push The Cube offers you a chance to help a cube overpass all position
+- [Push Timing](../games/action/push-timing.md) — Push Timing is an exciting puzzle game that challenges your reflexes and strategic thinking. In this adrenaline-pumping 
+- [Push Tiny Ball](../games/action/push-tiny-ball.md) — Physics based puzzle game. Rotate the screen to get the ball to the exit. Don't touch the spike and don't fall down. Tes
+- [Pusher 3D](../games/action/pusher-3d.md) — Pusher 3D is both a strategy and a pushing arcade game with 3D stickman models and platforms. You are supposed to send b
+- [Putot](../games/action/putot.md) — Putot is a 2D platformer where you have to collect cubes containing treasures while avoiding the enemy aliens, flying cr
+- [Putot 2](../games/action/putot-2.md) — Putot 2 is a 2D platformer where you have to collect cubes containing treasures while avoiding the enemy aliens, flying 
+- [Puzzle Platformer Coin Collector Game](../games/action/puzzle-platformer-coin-collector-game.md) — Embark on a thrilling treasure hunt across intricately designed levels filled with cunning obstacles and secret pathways
+- [Pyramid](../games/action/pyramid.md) — It’s not because you are stuck in a gigantic pyramid that you shouldn’t be looking for a way to make ends meet! Take con
+- [Queen Run 3d](../games/action/queen-run-3d.md) — Queen Run 3D is a funny 3D arcade game can both play on the computer and mobile phone. In this game you will act as a qu
+- [Quest for the Best Bone](../games/action/quest-for-the-best-bone.md) — Embark on a joyful adventure with a spirited dog in Quest for the Best Bone. Navigate vibrant landscapes with one-button
+- [Quevi](../games/action/quevi.md) — Quevi is a 2D Sci-fi themed platformer where you have to collect all of the metal balls while avoiding the enemy robots,
+- [Quevi 2](../games/action/quevi-2.md) — Quevi 2 is a 2D Sci-fi themed platformer where you have to collect all of the metal balls while avoiding the enemy robot
+- [Quick Compassion](../games/action/quick-compassion.md) — In Quick Compassion, immerse yourself in a platforming adventure where your character's unique size-shifting ability unl
+- [Quick Maths](../games/action/quick-maths.md) — Quick Maths is an arcade runner where your brain is the controller. Solve math problems to clear obstacles across 20 lev
+- [Quiz Categories](../games/action/quiz-categories.md) — Quiz Curiosities is a quiz game to test general knowledge, are you ready?
+- [R.E.P.O Dalgona](../games/action/r-e-p-o-dalgona.md) — Sculpt dalgona candy with precision in R.E.P.O Dalgona, where every mistake unleashes a relentless robot attack. Can you
+- [Rabbit Run 3D](../games/action/rabbit-run-3d.md) — Enter the whimsical world of Rabbit Run 3D, where a lovable rabbit races through colorful landscapes. Dodge obstacles, c
+- [Rabbit Run Adventure](../games/action/rabbit-run-adventure.md) — This is arcade adventure game with cute rabbit. Your job is to help the rabbit to pass all obstacles on the platforms an
+- [Rabbit Rush](../games/action/rabbit-rush.md) — In Rabbit Rush, sprint through vibrant meadows as a nimble rabbit, outpacing a persistent dog. Dodge spiky hedgehogs, st
+- [Rabbit Samurai 3](../games/action/rabbit-samurai-3-2.md) — Guide your heroic rabbit samurai through a vibrant world using a versatile grappling hook to conquer puzzles and travers
+- [Rabbit Twister](../games/action/rabbit-twister.md) — Welcome to a hippy hoppy jumping game ! In this endless run game test your reflexes in action with a cute , funny rabbit
+- [Rabbitii](../games/action/rabbitii.md) — Rabbitii is a 2D platformer where you have to collect the carrots while avoiding the dark colored enemy rabbits, spikes 
+- [Rabbitii 2](../games/action/rabbitii-2.md) — Rabbitii 2 is a 2D platformer where you have to collect all of the carrots while avoiding the enemy rabbits, flying rabb
+- [Race of Toilet Madness](../games/action/race-of-toilet-madness.md) — Controle o Skibidi Toilet como um personagem rapido e voraz, desvie dos inimigos cameraman, cuidado com os misseis, fuja
+- [Radar](../games/action/radar.md) — Navigate the high-stakes world of Radar, where split-second decisions determine your fate. Utilize a realistic radar int
+- [Raft Royale](../games/action/raft-royale.md) — Build your raft as you try to destroy your enemies rafts. Keep building so that you can top the leaderboard on your serv
+- [Ragdoll Battle Royale! Throw Down the Enemy!](../games/action/ragdoll-battle-royale-throw-down-the-enemy.md) — ⚔️ Welcome to "Ragdoll Battle Royale! Throw Down the Enemy!" - a fun 3D physics arena where ragdoll opponents fight in f
+- [Ragdoll Duel: Boxing](../games/action/ragdoll-duel-boxing.md) — Welcome to closed fight club. Ragdoll Duel: Boxing is a fun and full of effects action game. Stickman boxer characters i
+- [Ragdoll Fighter](../games/action/ragdoll-fighter.md) — Ragdoll Fighter is a fast, funny 2D physics fighting game where every punch, swing, and stumble is driven by ragdoll phy
+- [Ragdoll Fighter](../games/action/ragdoll-fighter-2.md) — Get ready for the ragdoll battle! Choose your ragdoll character and start fighting right away. In Ragdoll Fighter, you e
+- [Ragdoll Gangs](../games/action/ragdoll-gangs.md) — The fight of gangs begins with the Ragdoll characters in the Ragdoll Gangs game! The game consists of two different game
+- [Ragdoll Heroes War](../games/action/ragdoll-heroes-war.md) — Prepare for the battle of Ragdoll Heroes. Choose your hero and start the battle right away. At the end of each battle, y
+- [Ragdoll Physics](../games/action/ragdoll-physics.md) — Hilarious! Strange! Funny Ragdoll Physics where Boneless girl is pulling down into a never ending pit.
+- [Ragdoll Rush 3D: Sky Race](../games/action/ragdoll-rush-3d-sky-race.md) — Run, jump and tumble through 25 obstacle courses across five colorful worlds! Race two computer-controlled rivals, dodge
+- [Ragdoll Survivor](../games/action/ragdoll-survivor.md) — A stick fighter is stuck in the middle of a war zone and has to fight to stay alive. Punch, kick, block, dash and grab y
+- [Ragdoll Warriror](../games/action/ragdoll-warriror.md) — Ragdoll Warrior - is an imposing stickman game, stickman warriors fighting game where you an unleash your anger at waves
+- [Rage Maze Troll Hardest Platformer](../games/action/rage-maze-troll-hardest-platformer.md) — Dive into Rage Maze, where relentless traps and mind-bending puzzles await. Test your skills with impossible jumps as yo
+- [Rail Blazers Runner](../games/action/rail-blazers-runner.md) — Rail Blazers is on of the best free 3D running games. Run on upto 5 lane monorail and subway tracks, as well as water ra
+- [Rail Runner](../games/action/rail-runner.md) — Dash through the tracks in Rail Runner, where quick reflexes and precise timing are your best allies. Navigate ever-evol
+- [Rails Runner](../games/action/rails-runner.md) — Rail Run is a Sliding games with rails collection. It's a really Fun sliding on roof. An extremely addictive and super f
+- [Rainbow Color Ball Runner](../games/action/rainbow-color-ball-runner.md) — Rainbow Color Ball Runner is a colorful 3D runner where players guide a rolling ball through obstacle-filled levels, col
+- [Rainbow Friends VS Skibidi Toilet](../games/action/rainbow-friends-vs-skibidi-toilet.md) — Dive into a zany clash of colors and absurdity in Rainbow Friends VS Skibidi Toilet. Experience vibrant battles and quir
+- [Rainbow Monster Impostor Catcher](../games/action/rainbow-monster-impostor-catcher-2.md) — Step into the shoes of Rainbow Blue and embark on a thrilling mission to capture elusive impostors. Navigate vibrant lan
+- [Rainbow Obby](../games/action/rainbow-obby.md) — This is an exciting game in which the player controls a character passing through a variety of obstacles. Using bonuses,
+- [Rainbow Squid Challenge](../games/action/rainbow-squid-challenge.md) — Dive into a vibrant ocean with Rainbow Squid Challenge, where colorful monsters pose a thrilling threat. Convert or defe
+- [Raised Knight](../games/action/raised-knight.md) — Get ready for the adventure in "Raised Knight," the endless runner where your skills will be put to the test! Run throug
+- [Rajuchan](../games/action/rajuchan.md) — Rajuchan is a 2D cute little platformer where you have to collect all of the gold coins while avoiding the enemies, flyi
+- [Rajuchan 2](../games/action/rajuchan-2.md) — Rajuchan 2 is a 2D cute little platformer where you have to collect all of the gold coins while avoiding the green and p
+- [Raka vs Kaka](../games/action/raka-vs-kaka.md) — Raka vs Kaka is a 2D platformer where you have to collect all of the bags of money which got stolen while avoiding the e
+- [Raka vs Kaka 2](../games/action/raka-vs-kaka-2.md) — Raka vs Kaka 2 is a 2D platformer where you have to collect all of the bags of money which got stolen while avoiding the
+- [Raktoo](../games/action/raktoo.md) — Raktoo is a 2D cute little platformer where you have to collect all of the black grapes while avoiding the enemy monster
+- [Raktoo 2](../games/action/raktoo-2.md) — Raktoo 2 is a 2D cute little platformer where you have to collect all of the black grapes while avoiding the enemy monst
+- [Rambo War-METAL SLUG](../games/action/rambo-war-metal-slug.md) — Rambo War-METAL SLUG is the finest of 2D Action-Shooting games in NEOGEO, is now available as a Tower-Defense game! Meta
+- [Raptor Run](../games/action/raptor-run.md) — Become a nimble dinosaur in Raptor Run, racing through vibrant prehistoric landscapes. Use simple taps or swipes to over
+- [Rat Arena](../games/action/rat-arena.md) — Try to defeat the enemy rat! Use magic wand, sword and shield. Perfect AI 3 types of weapons Cute rats
+- [Rat Arena](../games/action/rat-arena-2.md) — Battle through intricate mazes in Rat Arena, confronting a vicious rat foe. Equip a magic wand, sword, and shield in a s
+- [Ratomilton Imposter Us](../games/action/ratomilton-imposter-us.md) — Join Ratomilton in a stealthy space adventure, where mischief meets mystery! Dance through chaos, eliminate AI crewmates
+- [Ratomilton Stickman Bare Knuckle](../games/action/ratomilton-stickman-bare-knuckle.md) — Join Ratomilton, the fearless mouse, in a dynamic brawler against relentless stickman foes. Engage in electrifying battl
+- [Razzon](../games/action/razzon.md) — Razzon is a 2D simple platformer where you need to collect dices while avoiding spikes, saws and enemies and reach the r
+- [Reach the Platform](../games/action/reach-the-platform.md) — At the very bottom of the screen, you will see a circle and an arrow. Which is constantly turning. By pressing, you will
+- [Real Boxing Fighting Game](../games/action/real-boxing-fighting-game.md) — City Fighter vs Street Gang is a very popular fighting game with jaw-dropping graphics, boxers all-round career developm
+- [Real careel](../games/action/real-careel.md) — This is a very interesting game,the player controls the mouse to make themselves eatmore "food",make your leisure time m
+- [Real Cosmos](../games/action/real-cosmos.md) — Pilot the Starship Lumina through dangerous cosmic sectors. Dodge asteroids, collect health spheres, and battle alien gu
+- [Real Savior](../games/action/real-savior.md) — Become the Real Savior: Defend the City in This Action-Packed Shooter! The city is under attack! Enemy paratroopers are 
+- [Real Savior Kids](../games/action/real-savior-kids.md) — Real Savior Kids is an easy made game for kids where parachutes of enemy fall from top and they are not supposed to land
+- [Realistic Street Fight Apocalypse](../games/action/realistic-street-fight-apocalypse.md) — Are you ready for fighting on the street at apocalypse climate change? Well, here you can play in 40 levels with 3 diffe
+- [Reaperman vs Goblins](../games/action/reaperman-vs-goblins.md) — Unleash your wrath in Reaperman vs Goblins, an action-packed arcade adventure where precision and strategy rule. Navigat
+- [RebelRun](../games/action/rebelrun.md) — Free All your comrades from the Matrix. Run, jump, crouch, collect coins, unlock characters, and survive as long as poss
+- [Reco Ball 2](../games/action/reco-ball-2.md) — Reco Ball 2 is a 2D cute little platformer where you play as a ball who have to collect all of the copper coins while av
+- [Red and Blue Castlewars](../games/action/red-and-blue-castlewars.md) — Are you ready to battle your friend? Throw cannonballs at your buddy and destroy their castle. Are you up for the red ve
+- [Red and Blue Hugli Wugli](../games/action/red-and-blue-hugli-wugli.md) — The Hugli Wugli brothers are lost in the castle, and in the first game of the series, you must help them. These mischiev
+- [Red and Blue Stick Huggy](../games/action/red-and-blue-stick-huggy.md) — In this adventurous game, the stick huggies, the huggy brothers, need to reach the finish line. The red and blue huggies
+- [Red And Blue Stickman Spy Puzzles 2](../games/action/red-and-blue-stickman-spy-puzzles-2.md) — Want to be an archery hero? Red And Blue Stickman-Spy Puzzles is an exciting and fun action puzzle game. In this game, y
+- [Red Ball 4 Games](../games/action/red-ball-4-games.md) — Red Hero Ninja 4 is old classic bouncing ball plat-former game similar to Rolling Ball Games. The mission is to jump on 
+- [Red Ball Climb](../games/action/red-ball-climb.md) — Get ready for the Red Ball excitement! This amazing platform game is a lot of fun. A 2D game where you control a red bal
+- [Red Ball Ho](../games/action/red-ball-ho.md) — Red Ball Ho is a 2D simple platformer where you need to collect golden keys while avoiding ball monsters, and spikes and
+- [Red Ball Rolling 2](../games/action/red-ball-rolling-2.md) — Embark on an exciting journey with Red Ball Rolling 2, where vibrant worlds and complex obstacles test your skills. Use 
+- [Red Boats](../games/action/red-boats.md) — Catch the red boats!
+- [Red Boats](../games/action/red-boats-2.md) — Navigate a bustling harbor in Red Boats, an exhilarating clicker challenge. Hone your reflexes by precisely tapping red 
+- [Red Boy and Blue Girl](../games/action/red-boy-and-blue-girl.md) — Red Boy and Blue Girl is an adorable platformer puzzle where you guide this couple to escape various mazes. Swap between
+- [Red boy and Blue Girl Forest Adventure](../games/action/red-boy-and-blue-girl-forest-adventure.md) — Red boy and Blue Girl Forest Adventure is new Fireboy and Watergirl game! with cool graphics!
+- [Red Hand Slap Game](../games/action/red-hand-slap-game.md) — ** Challenge your friends to a game of classic fast reaction game – hand slapping! Slap that red hands game may be as ol
+- [Red Hands - 2 Players](../games/action/red-hands-2-players.md) — Challenge your friends to play 2 player games and check who's the first one to get hot hands! Hands Attack is based on o
+- [Red Hands - Slap Game](../games/action/red-hands-slap-game.md) — Challenge your friends to play 2 player games and check who's the first one to get hot hands! How to play Red Reactor : 
+- [Red Hero Ball 4](../games/action/red-hero-ball-4.md) — Red Hero 4 is old classic bouncing ball plat-former game similar to Rolling Ball Games. The mission is to jump on tap an
+- [Red Imposter Hero 4](../games/action/red-imposter-hero-4.md) — Red Imposter is a fun and engaging Action game. Red Imposter Hero 4 is old classic bouncing ball plat-former game simila
+- [Red Impostor vs. Crew](../games/action/red-impostor-vs-crew.md) — Red Imposter vs. Crew is a fun and engaging Action game. Your mission is simple: Execute all living crewmates in the spa
+- [Red Impostor Vs Crew - Among Us](../games/action/red-impostor-vs-crew-among-us.md) — Our cute little robots are back. Yes, their name is Among Us. This time, they will experience an unforgettable adventure
+- [Red Man Imposter](../games/action/red-man-imposter.md) — This is a challenging puzzle platformer in which you have to complete a level. To do this, you need to do each step corr
+- [Red Monster](../games/action/red-monster.md) — The city is under attack. Use your superhero strength to protect the innocent against the evil monsters. Features: • Mul
+- [Red Platformer](../games/action/red-platformer.md) — Navigate through a stunning geometric world in Red Platformer, where precise timing and strategic jumps are your keys to
+- [Red Stickman vs Craftmans](../games/action/red-stickman-vs-craftmans.md) — Battle fierce monsters in a thrilling duel as the Red Stickman. Engage in dynamic hand-to-hand combat across a pixelated
+- [Red Stickman vs Craftmans 2](../games/action/red-stickman-vs-craftmans-2.md) — Embark on a pixelated adventure where a stickman battles through a Minecraft-like world teeming with zombie creatures. E
+- [Red Stickman vs Monster School](../games/action/red-stickman-vs-monster-school.md) — Perfect news for the lovers of Red And Blue Stickman Adventure! The sequel to the series has been completed as Red Stick
+- [Red Stickman vs Monster School](../games/action/red-stickman-vs-monster-school-2.md) — Join the thrilling adventure of a red stickman battling monstrous foes in a simplified Minecraft universe. Master quick 
+- [Red Stickman vs Monster School 2](../games/action/red-stickman-vs-monster-school-2-2.md) — Enter a pixelated world in Red Stickman vs Monster School 2 and battle through 60 thrilling levels. Strategize with your
+- [Redball - Another world](../games/action/redball-another-world.md) — A fascinating 3D arcade game about a red ball. You have to overcome obstacles and destroy opponents for a while to get t
+- [RedBoy and BlueGirl 4: Candy Worlds](../games/action/redboy-and-bluegirl-4-candy-worlds.md) — Are you crazy fans of teamwork style game and fire & ice style game?Are you play game for fun brain games, boys and girl
+- [Redhead Knight](../games/action/redhead-knight.md) — Redhead Knight is a super fun and challenging 2D side scrolling game in the same style as blockbuster games like Super M
+- [Redhead Knight](../games/action/redhead-knight-2.md) — Embark on a vibrant journey with Arthur, the red-haired knight, in Redhead Knight. Navigate dynamic 2D worlds, dodge tra
+- [Redmax](../games/action/redmax-2.md) — Race against a colossal cube monster in Redmax, collecting keys and coins to navigate through challenging levels. Master
+- [Redpool Skyblock 2 Player](../games/action/redpool-skyblock-2-player.md) — You must take your place in the adventure of the men in red and yellow costumes, as an action-packed journey awaits you.
+- [RedRunner](../games/action/redrunner.md) — Embark on an exciting 2D side-scrolling adventure! Run, jump, and roll your way through challenging levels filled with t
+- [Reef Rumble](../games/action/reef-rumble.md) — Embark on an exciting adventure with your Bikini Bottom friends in Reef Rumble! Join SpongeBob, Patrick, Sandy, and Squi
+- [Relic Hunter](../games/action/relic-hunter.md) — Dive into the eerie world of Relic Hunter, where strategic dodging and quick reflexes are key to outsmarting relentless 
+- [RelicRun](../games/action/relicrun.md) — Step into the boots of a fearless warrior in RelicRun, a fast-paced survival adventure where every move counts. Journey 
+- [Renzo Adventure](../games/action/renzo-adventure.md) — Join Renzo, the spirited fox, on a thrilling obstacle-filled journey. Master the art of timing as you leap over challeng
+- [REPO: Aim and Fire](../games/action/repo-aim-and-fire.md) — Step into the future as a REPO Agent in a thrilling blend of shooting and puzzle-solving. Master physics-driven shots, b
+- [Repo androids for two](../games/action/repo-androids-for-two.md) — Repo androids for two - a team platformer for two players on one device. The peculiarity of these androids is that they 
+- [REPO Flying Plane](../games/action/repo-flying-plane.md) — Soar through a whimsical sky with REPO, a daring robot surfing a speeding plane! Navigate chaotic aerial paths, smash fl
+- [Reptolia](../games/action/reptolia.md) — Reptolia is a 2D platformer where you have to collect the giant insects(bugs) while avoiding the enemies, ground saws, s
+- [RequiemNoire](../games/action/requiemnoire.md) — **RequiemNoire** is a fast-paced reflex game where speed and accuracy are the keys to survival. Press the correct arrow 
+- [Rescue Machine - Help Somebody](../games/action/rescue-machine-help-somebody.md) — Rescue Machine is not merely a survival rescue arcade game but also a matching puzzle game with 3D gears and stones. The
+- [Rescue Master](../games/action/rescue-master.md) — Rescue Master is a role-playing 3D gamePlayers will play the role of a rescue master using various tools to save peopleT
+- [Rescue Princess Game](../games/action/rescue-princess-game-2.md) — Rescue Princess Game invites you into a thrilling fantasy adventure. Solve intricate puzzles and navigate perilous lands
+- [Resident Evil 2: Beat Em Up](../games/action/resident-evil-2-beat-em-up.md) — Resident Evil 2: Beat Em Up is a fighting game where your mission is to fight through Raccoon City as Leon in a five-cha
+- [Resident Evil 3D](../games/action/resident-evil-3d.md) — good games This is a gunfight game, the game has reached the target point at the beginning of the game, to explore the c
+- [Resident Evil 4: Beat Em Up](../games/action/resident-evil-4-beat-em-up.md) — In Resident Evil 4: Beat Em Up your missio is to fight through five chapters and fifteen areas as Leon in a Flash-style 
+- [Resuce Escape](../games/action/resuce-escape.md) — Rescue Escape is an action puzzle game where you control stick figures trying to escape from a prison filled with traps.
+- [Reto Multiplicado](../games/action/reto-multiplicado.md) — A group of Martians has taken over the numbers of our planet, it is time to recover them, start this great space adventu
+- [Retoena](../games/action/retoena.md) — Retoena is a 2D Sci-fi themed platformer where you play as a humanoid girl who have to collect the blue energy cubes whi
+- [Retoena 2](../games/action/retoena-2.md) — Retoena 2 is a 2D Sci-fi themed platformer where you play as a humanoid girl who have to collect the blue energy cubes w
+- [Retro Fever](../games/action/retro-fever.md) — Retro Fever This is a brain game, which is “brain damage” quite high although its play style is extremely simple. Imagin
+- [Retro Gold Clicker Pocket](../games/action/retro-gold-clicker-pocket.md) — Step into the pixelated chaos of Retro Gold Clicker Pocket, where every click and idle moment becomes an action-packed q
+- [Retro Run](../games/action/retro-run.md) — Retro Run is a free to play pc game. Players must use A and D to navigate side to side to avoid some obstacles while usi
+- [Retro Running Boxes](../games/action/retro-running-boxes-2.md) — Experience the thrill of Retro Running Boxes, an 8-bit arcade adventure where quick reflexes are your best ally. Leap an
+- [Retro Street Fighter](../games/action/retro-street-fighter.md) — Travel back in time with Retro Street Fighter, a side-scrolling fighting game that will make you feel nostalgic. This ga
+- [Rewarp](../games/action/rewarp.md) — Master the art of instant movement as you explore a world full of challenges and hidden paths. In Rewarp, your teleporta
+- [Rexo](../games/action/rexo.md) — Rexo is a 2D Platformer where you play as a Cube and your aim is to collect all of the gems in each level to go to the n
+- [Rexo 2](../games/action/rexo-2.md) — Rexo 2 is the Second installment of the original game, Rexo, which is a simple 2D Platformer where you play as the Cube 
+- [Rich Me Johnny!!](../games/action/rich-me-johnny.md) — This is Johnny. He finds himself in red slimes' area with so many golds. He has to collect all of the golds and reach to
+- [Rick And Morty Adventure](../games/action/rick-and-morty-adventure.md) — You’re Rick Sanchez, everyone’s favorite unstable genius. You’re yelling at Morty in your garage when a Mysterious Rick 
+- [Rick And Morty Arcade](../games/action/rick-and-morty-arcade.md) — Rick And Morty Arcade Good thing there are hundreds of versions of your grandson you can capture, train, and evolve! Sta
+- [Ricosan](../games/action/ricosan.md) — Ricosan is a 2D cute little platformer where you have to collect all of the pineapples while avoiding the enemies, spike
+- [Ricosan 2](../games/action/ricosan-2.md) — Ricosan 2 is a 2D cute little platformer where you have to collect all of the pineapples while avoiding the enemies, fly
+- [Ride a Bike for Brainrots](../games/action/ride-a-bike-for-brainrots.md) — Welcome to Obby Ride a Bike For Brainrots! 🚴 Speed through obstacle courses while keeping your balance! ⚡ Jump across c
+- [Rider 2](../games/action/rider-2.md) — Perform insane stunts while you cruise through the never-ending world of Rider 2! Grab your motorcycle and start flippin
+- [Riko vs Tako](../games/action/riko-vs-tako.md) — Riko vs Tako is a 2D Sci-fi themed platformer where you have to collect chocolate ball candies while avoiding the enemy 
+- [Riko vs Tako 2](../games/action/riko-vs-tako-2.md) — Riko vs Tako 2 is a 2D Sci-fi themed platformer where you have to collect chocolate ball candies while avoiding the enem
+- [Ringo Starfish](../games/action/ringo-starfish.md) — Navigating in deep water, Ringo Starfish found a mysterious island. He suspects there are treasures hidden there. Help o
+- [Ringo Starfish](../games/action/ringo-starfish-2.md) — Embark on an underwater quest with Ringo Starfish, discovering hidden treasures on a mystical island. Master platform dy
+- [Rinos Quest](../games/action/rinos-quest.md) — Rinos Quest is a 2D platformer where you need to collect the silver key while avoiding the spike, saws and the spike mon
+- [Rinos Quest 2](../games/action/rinos-quest-2.md) — Rinos Quest 2 is a simple platformer where you have to collect silver keys while avoiding spike monsters, flying enemies
+- [Rise of the Penguins](../games/action/rise-of-the-penguins.md) — Dive into the chilly adventure of Rise of the Penguins, a nostalgic 2D action-platformer mixing simple controls with cha
+- [Rise Zombies](../games/action/rise-zombies.md) — **Rise Zombies** is an action-packed zombie survival game set in a dangerous post-apocalyptic city. Fight endless waves 
+- [Riyoo](../games/action/riyoo.md) — Riyoo is a 2D little platformer where you play as a girl who have to collect flowers while avoiding the enemies, and spi
+- [Riyoo 2](../games/action/riyoo-2.md) — Riyoo 2 is a 2D little platformer where you play as a girl who have to collect flowers while avoiding the enemies, flyin
+- [Road Of Fury 4](../games/action/road-of-fury-4-2.md) — Blast through a post-apocalyptic wasteland in Road of Fury 4, where every moment is relentless chaos. Customize six rugg
+- [Road Runner](../games/action/road-runner.md) — Race through a chaotic urban maze in Road Runner, a fast-paced action game demanding razor-sharp reflexes and strategic 
+- [Roar of City](../games/action/roar-of-city.md) — Roar of City is a 2020 Beat em up game and action boys game with high quality graphic and suitable gameplay for mobile. 
+- [Roar of City](../games/action/roar-of-city-2.md) — Dive into chaotic city combat in Roar of City, where you embody a lone fighter fending off waves of adversaries. Channel
+- [roasted duck 2](../games/action/roasted-duck-2.md) — Overcome the obstacles to collect all the eggs and pass the level. Game for one or two players play it on computer and s
+- [Rob Run](../games/action/rob-run.md) — Rob is without money. Run on the space stage, jump over the obstacle and pick up diamonds. Make a best result and beat y
+- [Rob Runner](../games/action/rob-runner.md) — Rob is without money. Run on the space stage, jump over the obstacle and pick up diamonds. Make a best resault and beat 
+- [Rob Runner HD](../games/action/rob-runner-hd.md) — Rob is without money. Run on the space stage, jump over the obstacle and pick up diamonds. Make a best resault and beat 
+- [Robber Dash](../games/action/robber-dash.md) — Bank robbery is a crime and the police will definitely pursue the robbers, no matter how successful it turned out to be.
+- [Robber Vs Police: Fighting](../games/action/robber-vs-police-fighting.md) — Beat the robbers with one punch! You are a police officer. A police officer should always be ready for a fight! Keep you
+- [Robby +1 To Jump Power Per Second](../games/action/robby-1-to-jump-power-per-second.md) — In the game, you get +1 jump power every second. Score as many points as possible and take the first place on the leader
+- [Robby +1 To Speed Per Second](../games/action/robby-1-to-speed-per-second.md) — In this game, your speed increases every second. There is no speed limit. Become the fastest and pass the tests at light
+- [Robby Battle Arena](../games/action/robby-battle-arena.md) — Enter the magical realm of Robby Battle Arena, where you become a legendary warrior. Personalize powerful gear, traverse
+- [Robby: Climb and Jump Tower](../games/action/robby-climb-and-jump-tower.md) — Do you want to conquer the tallest tower? In this game you can do it! 🏗️
+- [Robby: Escape The Rooms](../games/action/robby-escape-the-rooms.md) — What awaits you:
+- [Robby Superhero Obby](../games/action/robby-superhero-obby.md) — The game is similar to the popular roblox OBBY mode. Check yourself if you can get to the end by overcoming all obstacle
+- [Robby The Lava Tsunami](../games/action/robby-the-lava-tsunami.md) — Robby The Lava Tsunami is an exciting free-to-play online game where you race against a flowing lava wave. Enjoy a color
+- [Robby: The Speed Maze](../games/action/robby-the-speed-maze.md) — 🎮 Robby: The Speed Maze 🎮
+- [Robin Stickman Hook](../games/action/robin-stickman-hook.md) — Discover Robin Hook, the new MadBox game. Tap to hook and make incredible jumps; Avoid every obstacle that stands in you
+- [Roblox Draw to Escape Online](../games/action/roblox-draw-to-escape-online.md) — Have fun drawing your way to the goal in Roblox Draw to Escape Online, an entertaining casual game where you can use you
+- [Roblox Parkour Adventure](../games/action/roblox-parkour-adventure.md) — Roblox Parkour Adventure brings you an exciting block-style parkour journey filled with colorful maps, tricky obstacles,
+- [Robo Battle](../games/action/robo-battle.md) — Robo Battle is a war robot game that tests your logic and wit Be brave and fight for victory against other war robots la
+- [Robo-Cat](../games/action/robo-cat.md) — Join the endearing robo-cat on a vibrant platforming adventure, where nimble navigation and quick reflexes are key. Skil
+- [Robo Parkour Craft](../games/action/robo-parkour-craft.md) — Robo Parkour Craft! Finish the parkour on the minecraft map by directing your robot! Be careful, don't fall down!
+- [Robo Parkour World](../games/action/robo-parkour-world.md) — Robo Parkour World! Finish the parkour on the big parkour map by directing your robot! Be careful, don't fall down!
+- [Robo Running 3D](../games/action/robo-running-3d.md) — Run with an ink man who does parkour. He holds a magical pen that can turn your drawings into real objects, such as boat
+- [Robot Blaster](../games/action/robot-blaster.md) — Jump into action as a heroic robot in Robot Blaster. Navigate through enemy-laden levels using intuitive controls, colle
+- [Robot Dimensions](../games/action/robot-dimensions.md) — Embark on a strategic adventure with a dimension-shifting robot. Alter environments, solve intricate puzzles, and naviga
+- [Robot Fighter : Epic Battles](../games/action/robot-fighter-epic-battles.md) — The most strategic robots war game is now available. Each of them have different characteristics and weapons. Attack, de
+- [Robot Fighting Adventure](../games/action/robot-fighting-adventure-2.md) — Unleash your inner robot warrior in vibrant arenas packed with electrifying battles and intricate strategies. Navigate e
+- [Robot In Battle Memory](../games/action/robot-in-battle-memory.md) — Robot In Battle Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try to ma
+- [ROBOT MAKER](../games/action/robot-maker.md) — Do you like Robots Do you want to make robots You can assemble the robots parts by parts like assemble robots head body 
+- [Robot Ring Fighting Wrestling Games](../games/action/robot-ring-fighting-wrestling-games.md) — Are you want to take down the opponent in the robot ring revolution wrestling battleground? Here you can create your dre
+- [Robot Run](../games/action/robot-run.md) — Navigate through a perilous tech lab, dodging lasers and obstacles. In Robot Run, experience the thrill of endless escap
+- [Robot Runner](../games/action/robot-runner-2.md) — Race through a deserted factory in Robot Runner as a high-tech robot. Leap across treacherous platforms and evade enemie
+- [Robot Runner Fight](../games/action/robot-runner-fight-2.md) — Dash through futuristic cities in Robot Runner Fight, a fast-paced robotic parkour experience. Leap over obstacles, coll
+- [Robot Super Hero Fighting](../games/action/robot-super-hero-fighting.md) — Icon image Robot Super Hero Fighting Game About this game SUPERHERO ROBOT Enjoy the new and best action superhero and ro
+- [Robot Terminator T Rex](../games/action/robot-terminator-t-rex.md) — Ready for an adventure in Robot Terminator T-Rex! Enter the wonderful world where robot dinosaurs and zombies collide in
+- [Robot Terminator T-Rex](../games/action/robot-terminator-t-rex-2.md) — Join the ultimate clash of robotic dinosaurs and zombies in Robot Terminator T-Rex! Command your mecha dinosaur, unleash
+- [Robot Trooper](../games/action/robot-trooper.md) — Unleash your inner warrior in Robot Trooper, a thrilling platformer where you wield advanced weaponry and a lethal blade
+- [Robot Warfare](../games/action/robot-warfare.md) — Dive into the intense world of Robot Warfare, where strategic combat combines with retro graphics. Outsmart cunning enem
+- [Robots Battle Mech Arena](../games/action/robots-battle-mech-arena.md) — Begin an electrifying robot showdown in Robots Battle: Mech Arena. You will enter the ultimate mech battle arena. Contro
+- [Robots Battle: Mech Arena](../games/action/robots-battle-mech-arena-2.md) — Dive into the chaotic clash of titans in Robots Battle: Mech Arena. Master your colossal mechs, unleash devastating comb
+- [Robots World Battle](../games/action/robots-world-battle.md) — Assemble Robots and fight in Epic Tournament. Destroy all your enemies. There can be only One.
+- [Robox](../games/action/robox.md) — Robox is a puzzle platformer game where you control a robot to find the exit door. Help him to escape enemies and traps 
+- [Robox](../games/action/robox-2.md) — Guide your clever robot through pixelated landscapes in Robox, where quick reflexes and strategic use of a teleportation
+- [Robox Adventure](../games/action/robox-adventure.md) — Embark on a thrilling journey with Robox in this dynamic platformer. Navigate five challenging levels filled with traps 
+- [Rock Monster Warrior](../games/action/rock-monster-warrior.md) — Navigate perilous traps and battle formidable rock monsters on your quest to victory. Survive with strategic moves and q
+- [Rock Paper Scissors Exclusive](../games/action/rock-paper-scissors-exclusive.md) — Are you ready for a duel? If you like encounters and classic games then Rock Paper Scissors Exclusive is for you! Rock P
+- [Rocket Action](../games/action/rocket-action-2.md) — Navigate your spaceship through treacherous terrains in Rocket Action, a fast-paced space odyssey. Master simple control
+- [Rocket Charge Run](../games/action/rocket-charge-run.md) — Enjoy an exciting running game in the Rocket Charge Run. Youll run through exciting parkour levels. Avoid obstacles and 
+- [Rocket Charge Run](../games/action/rocket-charge-run-2.md) — Rocket Charge Run immerses you in a high-speed, futuristic parkour adventure. Dodge treacherous traps like robots and cu
+- [Rocket Punch Online](../games/action/rocket-punch-online.md) — You've probably never seen a fist swing like this before! Pound your enemies and knock them down, and control the trajec
+- [Rocky the Jetpack Boy](../games/action/rocky-the-jetpack-boy-2.md) — Soar through an enchanting world with Rocky, the brave jetpack kid. Dodge airborne foes, collect coins, and master your 
+- [Rodha](../games/action/rodha.md) — Get ready for a thrilling adventure in Rodha, the action-platformer that delivers fast-paced, heart-pumping gameplay. In
+- [Roguelike Platformer](../games/action/roguelike-platformer.md) — Descend into a labyrinthine basement fraught with monsters in "Roguelike Platformer." Master precise jumping, dashing, a
+- [Roguelike RPG](../games/action/roguelike-rpg.md) — Roguelike RPG is an immersive adventure game where players explore ever-changing RPG maps filled with dangerous monsters
+- [Roll Ball: Hole Puzzle](../games/action/roll-ball-hole-puzzle.md) — Roll Ball: Hole Puzzle is a fun 3D ball rolling game! Guide your ball across floating platforms in the sky and roll it i
+- [Roll Boy](../games/action/roll-boy.md) — Roll Boy game has a lot of success review and player this MONTH that significantly improves overall game performance, es
+- [Roll Dice Mob Control](../games/action/roll-dice-mob-control.md) — Roll Dice Mob Control is an action-packed tower defense experience where every dice roll grows your mob and boosts your 
+- [Roll Run 3D - Tap to roll](../games/action/roll-run-3d-tap-to-roll.md) — Roll Run 3D is New Unique Concept with Rolling , Just Tap to Roll Ball and Reach Destination , Be Aware with Obstacles .
+- [Roll Rush](../games/action/roll-rush.md) — A fast-paced ball run game where you evade obstacles and collect coins to further upgrade your ball, try to roll as far 
+- [Roll Rush - Endless Runner Game](../games/action/roll-rush-endless-runner-game.md) — Roll Rush puts you in control of a swift sphere racing through a perilous labyrinth. Navigate with ease yet brace for a 
+- [Roll Sky Ball 3D](../games/action/roll-sky-ball-3d.md) — Fast-paced ball rolling game with various and unexpected tracks and obstacles. Can you reach the goal each time? Slide t
+- [Roll Tomato](../games/action/roll-tomato.md) — Rolly is the name of an tomato which Bob the farmer forgot to put into the Tomato Crate.You must help Rolly reach the gr
+- [Roller Runner 3D](../games/action/roller-runner-3d.md) — Collect cubes to create cylinders. Watch out, the rollers are reduced on obstacles and bridges. If all the cylinders are
+- [Rolling Ball New](../games/action/rolling-ball-new.md) — Rolling Ball is an addictive running game. Avoid the obstacles (trees and rocks), collect the mushrooms to upgrade the p
+- [Rolling Ball Runner](../games/action/rolling-ball-runner.md) — Navigate a vibrant, ever-challenging world in Rolling Ball Runner. Test your reflexes as you steer a zippy ball through 
+- [Rolling Balls 3D](../games/action/rolling-balls-3d-2.md) — Are you a fan of ball games? If so, why not try out the exciting and enriching Rolling Balls 3D? This game will test you
+- [ROLLING BALLS GAME 2021](../games/action/rolling-balls-game-2021.md) — All balls have to go into the pipe … you need to remove the pins in the right order and make it happen? It should be sim
+- [Rolling Blocks](../games/action/rolling-blocks.md) — This is an easy and interesting hand game of square flip dye painting. In this game, players can freely choose different
+- [Rolling Halloween](../games/action/rolling-halloween.md) — Rolling Halloween is an addictive running game. Avoid the obstacles (monster trees and headstones), collect the magic sk
+- [Rolling Skibidi](../games/action/rolling-skibidi-2.md) — Navigate the chaotic downhill adventure of Rolling Skibidi as you steer a barrel-bound Skibidi through treacherous terra
+- [Rolly Hil](../games/action/rolly-hil.md) — Roll over cubes to collect them and get bigger!
+- [Ronaldo Ball Rush 2026](../games/action/ronaldo-ball-rush-2026.md) — Ronaldo Ball Rush 2026 is a fast-paced endless platform runner where every second counts! Guide Ronaldo as he sprints ac
+- [Ronin: The Last Samurai‏](../games/action/ronin-the-last-samurai.md) — Era of doom. One warrior survives, and faces death of the Shogun. Collect the equipment and weapons, execute the monster
+- [Ronni](../games/action/ronni.md) — Ronni is a 2D platformer where you have to collect all of the coins while avoiding the enemies, spikes and saws and reac
+- [Ronni 2](../games/action/ronni-2.md) — Ronni 2 is a 2D platformer where you have to collect the coins while avoiding enemies, yellow birds, spikes and saws and
+- [Roo Bot](../games/action/roo-bot.md) — Roo Bot is a 2D Sci-Fi themed platformer where you have to collect red energy drink test tubes while avoiding the enemy 
+- [Roo Bot 2](../games/action/roo-bot-2.md) — Roo Bot 2 is a 2D Sci-fi themed platformer where you have to collect all of the red energy drinks while avoiding the var
+- [Roodo](../games/action/roodo.md) — Roodo is a sci-fi themed 2D platformer where you have to collect the keys while avoiding the green enemy robots, spikes 
+- [Roodo 2](../games/action/roodo-2.md) — Roodo 2 is a 2D platformer where you have to collect the Golden keys while avoiding the yellow and green enemy robots, f
+- [Roof Rails Online](../games/action/roof-rails-online.md) — Can you imagine parkour on the roof? This is undoubtedly a thrilling thing. In the game Roof Rails Online, you will have
+- [Roof Run Rails Man - railing challenge Game online](../games/action/roof-run-rails-man-railing-challenge-game-online.md) — Rail Run is a Sliding games with rails collection. It's a really Fun sliding on roof. An extremely addictive and super f
+- [Roof Rush 3D](../games/action/roof-rush-3d.md) — Roof Rush 3D is a high-octane urban runner where you navigate a pole-vaulting master across a dangerous city skyline. Co
+- [Rooftop Run](../games/action/rooftop-run.md) — Rooftop Run – Race Across the City! 🏃‍♂️💨
+- [rooftop runner](../games/action/rooftop-runner.md) — Game Objective The goal in Rooftop Runner is simple: run as far as you can without falling. As you move across rooftops,
+- [Roon vs Bees](../games/action/roon-vs-bees.md) — Roon vs Bees is a 2D platform adventure game where you have to collect bee hives from the trees while avoiding the Bee m
+- [Ropе Help](../games/action/rop-help.md) — Help all stickmen from a big fire by the rope. Control the rope, overcome the obstacles, complete challenging and unique
+- [Rope Experiment](../games/action/rope-experiment.md) — Welcome to our Rope game! Tie the rope to dot-shaped needles, ensuring it touches them all. Challenge your skills in thi
+- [Rope-Man Run 3D](../games/action/rope-man-run-3d.md) — Have you ever made a stickman with ropes and sticks? Rope Man Run 3D is a 3D vertical-version running arcade game that i
+- [ROPE PULL](../games/action/rope-pull.md) — Rope Pull game series continues with Rope Pull War in its new episode. The aim of the game is to pull the rope as fast a
+- [Roper Pass Game](../games/action/roper-pass-game.md) — Roper is a platform game where you control a running character with a single tap across many levels with obstacles and c
+- [Rotate Platformer](../games/action/rotate-platformer.md) — Embark on a thrilling 360° multiplayer platformer adventure in Rotate Platformer, where quick reflexes and strategic man
+- [Rotuman](../games/action/rotuman.md) — Rotuman is a 2D platformer where you have to collect all of the golden keys while avoiding enemies, spikes, and reach yo
+- [Rotuman 2](../games/action/rotuman-2.md) — Rotuman 2 is a 2D platformer where you have to collect all of the golden keys while avoiding red and green enemies, flyi
+- [Rowdy City Wrestling](../games/action/rowdy-city-wrestling.md) — Every wrestling career has to start somewhere. For you it's the mean streets of Rowdy City. Rowdy City's Wrestling gym i
+- [Royal Kingdom](../games/action/royal-kingdom.md) — The aim of Royal Kingdom is to be the best platformer online game. With a wide variety of levels, characters and enemies
+- [Royal Thumble](../games/action/royal-thumble.md) — Royal Thumble is a casual game where you choose your wrestler and smash, strike, and swipe your opponent. Let's get read
+- [Ruboom](../games/action/ruboom.md) — Leap through vibrant 2D landscapes, collecting fruits and vanquishing foes in Ruboom. Master double jumps, use your skil
+- [RumDreams](../games/action/rumdreams.md) — In RumDreams, you control a little green blob of goo that navigates a dangerous 2D platform world. The environment is fu
+- [Run and Count](../games/action/run-and-count.md) — Check how well you can count. Choose what you want to train and be ready to strain your brain! Run and Count train your 
+- [Run! and Escape](../games/action/run-and-escape.md) — Run! and Escape is a very fun and simple game to play. The aim of the game is simple escape!, can you get more? Many cha
+- [Run and Stop Challenge](../games/action/run-and-stop-challenge.md) — Today I will provide you Run and Stop Challenge . Run and Stop Challenge is a game that is very popular with people beca
+- [Run Away from Sprunki Eater](../games/action/run-away-from-sprunki-eater.md) — Dash through daring levels in Run Away from Sprunki Eater, as the relentless Devourer closes in. Test your reflexes and 
+- [Run Cat Run](../games/action/run-cat-run.md) — An endless runner adventure through pixelated landscapes Features Infinite procedural levels Multiple obstacle types Fly
+- [Run Dino](../games/action/run-dino.md) — Take your dino buddy T-Rex for a run along the North American plains in this super fun, endless running game. Jump over 
+- [Run Dinoo](../games/action/run-dinoo.md) — Guide a delightful baby dinosaur through an adventurous landscape in Run Dinoo. Navigate through obstacles, collect shin
+- [Run Evil Defenders](../games/action/run-evil-defenders.md) — Run Fireball adventure game
+- [Run Fall Beans](../games/action/run-fall-beans.md) — Fun and colorful races on different race areas await you in the Fall Beans game. The aim of the game is to advance in ea
+- [Run Fast Run](../games/action/run-fast-run.md) — Run Fast Run! is a fun adventure game to play on. Here is our little hero who has been stuck in middle with a whole lot 
+- [Run Fast Run](../games/action/run-fast-run-2.md) — In Run Fast Run, guide your hero through a hectic gauntlet of swiftly approaching obstacles. This action-packed runner d
+- [RUN FIGHTER GIRL](../games/action/run-fighter-girl.md) — Run as fast as you can and defeat enemies that stand in your way with a powerful blow. Watch out for dynamite thrown by 
+- [Run Giant 3D](../games/action/run-giant-3d.md) — Experience a hot and trend hypercasual game Run Giant 3D with a combination of running and fighting. Collect as many sam
+- [Run Gun Robots](../games/action/run-gun-robots-2.md) — Dive into a futuristic battleground in Run Gun Robots where you navigate perilous environments, defeat rampaging machine
+- [Run & Jump: Jumbo Runner](../games/action/run-jump-jumbo-runner.md) — Run & Jump: Jumbo Runner is an online runner game that will keep you on your toes! You'll need to use your quick reflexe
+- [Run & Jump Jumbo Runner](../games/action/run-jump-jumbo-runner-2.md) — Race through dynamic terrains in Run & Jump Jumbo Runner, where precision and timing are your allies. As you fly and dod
+- [Run Minecraft Run](../games/action/run-minecraft-run.md) — Run Minecraft Run is a great arcade game. Jump or duck to avoid the fire arrows. Stay alive as long time as possible and
+- [Run Ninja Run](../games/action/run-ninja-run.md) — Escape your enemies by jumping and sliding over and under obstacles with the arrow keys, as you sprint along the 2D land
+- [Run Of Life](../games/action/run-of-life.md) — In fact, the life of every person is a kind of race, as a result of which one manages to reach incredible heights. The r
+- [Run of Life Game](../games/action/run-of-life-game.md) — Run Of Life is an exhilarating arcade game where players must navigate through a chaotic world infested with zombies. As
+- [Run Panda Run](../games/action/run-panda-run.md) — Run Panda Run is a cute normal runner game. Just tap to make the panda jump and collect as many coins as you can. Jump t
+- [Run Pet Surfer](../games/action/run-pet-surfer.md) — Pet Runner is an endless running mobile game. Building to unlock more pet characters. Run and jump with your pet to avoi
+- [Run Rabit Run](../games/action/run-rabit-run.md) — In the game "Run Rabbit Run" you will control a rabid rabbit who is ready to take on any challenge. He loves to eat carr
+- [Run Rich Path 3D](../games/action/run-rich-path-3d.md) — Are you looking for a fun run race 3D game to relieve stress? What do you think about the game with the money theme? Mon
+- [Run Robot Run](../games/action/run-robot-run.md) — Embrace your inner automaton and embark on a thrilling escapade with Run Robot Run. Master the tap-to-jump mechanics thr
+- [Run Royale Knockout](../games/action/run-royale-knockout.md) — The latest chaotic obstacle course battle royale is about to begin, are you ready? Use your skills to navigate through t
+- [Run Royale Knockout 3D Game](../games/action/run-royale-knockout-3d-game.md) — Run Royale Knockout is undoubtedly one of the most interesting running games this year. Do you think all the players wil
+- [Run Royale Knockout Ultimate](../games/action/run-royale-knockout-ultimate.md) — Tired of stuffy running races? A fun new obstacle course? It's today's royal fun race. Come fight it out with all the pr
+- [Run Run 3D Challenge](../games/action/run-run-3d-challenge.md) — In this amazing 3D running game Run Run 3D Challenge, you need to act as a little boy and pass through many dangerous pl
+- [Run Snowball Run](../games/action/run-snowball-run.md) — An endless runner adventure through pixelated landscapes Features Infinite procedural levels Multiple obstacle types Fly
+- [Run Snowball Run](../games/action/run-snowball-run-2.md) — Guide Snowball, the courageous white cat, as you navigate endless obstacles in a fast-paced, retro pixel art adventure. 
+- [Run Stickman Run](../games/action/run-stickman-run.md) — Run Stickman Run is an endless running game packed with speed and excitement. Dash through different environments while 
+- [Run Vovan Run](../games/action/run-vovan-run.md) — Run Vovan Run is a endles run html5 game
+- [Run Wall Jump 2020](../games/action/run-wall-jump-2020.md) — Your mission is to jump at wall and finish each levels. Enjoy to Run Wall Jump 2020 and have fun
+- [Run Witch](../games/action/run-witch.md) — Run Witch Games Online 2D Side Jump is a fun and addictive online game where you have to jump over the obstacles and rea
+- [Run Witch](../games/action/run-witch-2.md) — Embark on a thrilling journey in Run Witch, a captivating 2D side-scroller. Test your reflexes by leaping over ever-chan
+- [Run Witch Run](../games/action/run-witch-run.md) — Trapped in a dark and cursed forest, the little witch must run for her life! The path ahead is filled with treacherous o
+- [Runaway Fish Runner Game](../games/action/runaway-fish-runner-game.md) — Welcome to the world of the fish runner game. A fast-paced underwater endless runner adventure that plunges you into the
+- [Runic Curse](../games/action/runic-curse-2.md) — Stranded on a mysterious island after a storm, Adrian battles the legendary Rune Curse. Engage in dynamic combat, crafti
+- [Runner](../games/action/runner.md) — Experience exhilarating speed and precision in this fast-paced runner game. Navigate a daring hurdler through challengin
+- [Runner Apocalypse](../games/action/runner-apocalypse.md) — The day of the apocalypse has arrived! Run and survive the meteor shower that hits the bridge, but be careful, as the gr
+- [Runner Coaster](../games/action/runner-coaster.md) — Want to achieve runner coaster freedom? This game allows you to experience the runner coaster for free! Press and hold t
+- [Runner Coaster Race](../games/action/runner-coaster-race-2.md) — Embark on a heart-pounding adventure with Runner Coaster Race, where roller coaster thrills merge with exciting parkour 
+- [Runner Figure](../games/action/runner-figure.md) — " Runner: Figure" is a unique project, a mix of runner and puzzle game. Reaction and deep visual thinking come in handy.
+- [Runner Man](../games/action/runner-man.md) — Dash through an endless level in Runner Man, navigating obstacles with seamless controls. Jump and weave left or right, 
+- [Runner Master 3d](../games/action/runner-master-3d.md) — its simple game count on skills and brain you need to collect the diamonds to be able to pass the levels every level bec
+- [Runner Monkey Adventure](../games/action/runner-monkey-adventure.md) — Runner Monkey Adventure is an amazing running and jumping adventure game with monkey eating bananas , Play this adventur
+- [Runner Rabbit](../games/action/runner-rabbit.md) — Collect all the carrots with our cute rabbit. Pay attention to the obstacles you encounter. Have fun!
+- [runner sheep](../games/action/runner-sheep.md) — How carefully you can move your character through out the forest path. The forest path is full of obstacles and Traps. h
+- [Runner Slapper](../games/action/runner-slapper.md) — Slap Contest Champion invites players to the electrifying world of competitive slapping! Engage in intense slap battles 
+- [Runner Soldiers](../games/action/runner-soldiers.md) — Lead your relentless army through thrilling obstacle courses and tactical battles. Master strategic precision, multiply 
+- [Runner Tom](../games/action/runner-tom.md) — Tom was walking down the street when suddenly a bad dog started running towards him. Help Tom escape from the dog. He ha
+- [Runner Tomato: Hyper Casual](../games/action/runner-tomato-hyper-casual.md) — Runner Tomato: Hyper Casual &ndash; Are you ready to have fun running with a tomato? In this hyper-casual runner game, d
+- [Runner Tomato Hyper Casual](../games/action/runner-tomato-hyper-casual-2.md) — Embark on a whimsical adventure with Runner Tomato! Dodge random obstacles and collect surprises on an unpredictable, en
+- [Runnig Fred](../games/action/runnig-fred.md) — Fred is back with a new host of painful antics, awesome acrobatic/desperate moves, special items and uber-cool locations
+- [Running Around](../games/action/running-around.md) — Main hero of the game is Bob Miner and as it traveling across the planet, he tray to find more and more diamonds. But no
+- [Running Bros](../games/action/running-bros-2.md) — Jump into nostalgic fun with Running Bros, a pixel-powered race against time! Challenge yourself or a friend in duo mode
+- [Running Bros X](../games/action/running-bros-x.md) — Running Bros X offers exhilarating arcade action with seamless controls and dynamic level designs. Navigate its vibrant 
+- [Running Crowd City GM](../games/action/running-crowd-city-gm.md) — Become the biggest crowd in town! Gather people accross the city and crush your opponents with your overwhelming leaders
+- [Running Cube](../games/action/running-cube.md) — Running Cube offers an exhilarating challenge where precision and speed are your allies. Navigate a spirited cube throug
+- [Running Dino](../games/action/running-dino.md) — Leap into the thrilling world of Running Dino, where quick reflexes and strategic navigation are key. Dash through dynam
+- [Running Dragon](../games/action/running-dragon.md) — You are the dragon train to escape from the giant fireball, which speed of the fireball is 330 kilometers per hour. Your
+- [Running Fox](../games/action/running-fox.md) — A Fox Running in the farm and escape from the animals for get the strawberries.
+- [Running From A Hungry Tiger](../games/action/running-from-a-hungry-tiger.md) — A dangerous predator is on the prowl, and you are the target! In this thrilling 3D runner, you&rsquo;ll need lightning-f
+- [Running Horse Slide](../games/action/running-horse-slide.md) — Play this slide puzzle games of the running horses. It's include 3 images and 3 modes to play.
+- [running in foam](../games/action/running-in-foam.md) — In the game, we need to control the girl and use various bathing tools to bathe the girl. When the girl successfully was
+- [Running In Foam](../games/action/running-in-foam-2.md) — Dive into a vibrant foam world, racing through plush tracks as an adorable character. Leap over giant obstacles, slide d
+- [Running in the Rain](../games/action/running-in-the-rain.md) — Running in the rain is a html5 endless running game, run and jump avoid obstacle take box and kill enemy
+- [Running in the Rain](../games/action/running-in-the-rain-2.md) — Run, leap, and battle through a pixel-art world where rain intensifies every challenge. Armed with a resourceful box wea
+- [Running Jump](../games/action/running-jump.md) — Running Jump is a game where you need to jump on platforms. Your enemies are patrolling on the platforms. You can only d
+- [Running Letters](../games/action/running-letters.md) — Run, let’s run letter Jun This is a particularly unique mobile cool running game. Players control letters in the game fo
+- [RUNNING MAN 2026](../games/action/running-man-2026.md) — A fast-paced 2D endless runner set in a retro-futuristic world where every second tests your reflexes. The character run
+- [running man Interesting](../games/action/running-man-interesting.md) — This is a pass through mobile game that focuses on casual play. The game focuses on vertical operation. In this mobile g
+- [Running Ninja](../games/action/running-ninja.md) — Interesting running games is this Running ninja game. The goal of the game is to run as far as possible and collect as m
+- [Running On Christmas](../games/action/running-on-christmas.md) — On your journey through the winter forest you need to avoid or destroy all the evil creatures and placed traps. Some of 
+- [Running Pumpkin](../games/action/running-pumpkin.md) — Running Pumpkin is a runner-style game. With lots of fun, this game will test your skills and reflexes. Try to go as far
+- [Running Pumpkin Game](../games/action/running-pumpkin-game.md) — “Running Pumpkin” is a runner-style game. With lots of fun, this game will test your skills and reflexes. Try to go as f
+- [Running Roadball](../games/action/running-roadball.md) — Tap Tap Music is a fast rhythm arcade game where players guide a glowing ball through neon tracks synced with music. Tap
+- [Running Santa](../games/action/running-santa.md) — Santa Claus need to pass all levels in this game and to collect gifts for all kids of the world. Your job is to help San
+- [Rush Run: Need to Pee – Toilet Dash Runner Game](../games/action/rush-run-need-to-pee-toilet-dash-runner-game.md) — Rush Run: Need to Pee is not a typical pee-and-poop game. It’s a fast-paced, addictive runner + drawing puzzle game wher
+- [Sacred Path Dash](../games/action/sacred-path-dash.md) — Embark on a lightning-quick journey with Sacred Path Dash, where your timing, focus, and reflexes are your greatest alli
+- [Samurai Dash](../games/action/samurai-dash.md) — Defend the temple as the last guardian. Renegade samurai attack from all sides &mdash; your only defense is speed. Draw 
+- [Samurai Fight](../games/action/samurai-fight.md) — Samurai Fight is a classic style game, press the screen when the yellow indicator is above the green dot to make an atta
+- [Samurai Flash](../games/action/samurai-flash.md) — It's a fun parkour combat game. This is a cute samurai. Now he has to keep moving forward and kill everyone along the wa
+- [Samurai Flash 3D](../games/action/samurai-flash-3d.md) — It is a popular casual competitive game. In the game, the player will act as an excellent samurai, choose a reasonable a
+- [SAMURAI II: VENGEANCE‏](../games/action/samurai-ii-vengeance.md) — Samurai II sends Daisuke on a quest for revenge across the war-scorched countryside. From a seafaring village to a flyin
+- [Samurai jack: Code Of The Samurai](../games/action/samurai-jack-code-of-the-samurai.md) — With the Samurai Jack: Code of the Samurai game, you can visit a fascinating place, filled with mystery, beauty, and ter
+- [Samurai Ranger Run](../games/action/samurai-ranger-run.md) — Power Rangers Blue Samurai have to pass challenging obstacles. You can skip the obstacles in front of you by jumping. If
+- [Samurai Revenge Adventure Fighter](../games/action/samurai-revenge-adventure-fighter.md) — This game Revenge of Ninja Samurai: Revenge of Ninja Samurai is a latest addictive action game full of intense fighting 
+- [Samurai running](../games/action/samurai-running.md) — Samurai run is a running game in which you have to get as far as possible with your hero. You have to avoid bombs and ot
+- [Samurai Rurouni Wars](../games/action/samurai-rurouni-wars.md) — In 1701, Lord Asano Naganori of Ako Domain in Hyogo Prefecture fell victim to a deadly trap orchestrated by the conceite
+- [Samurai Slash 3D](../games/action/samurai-slash-3d.md) — Samurai Slash 3D is an interesting arcade game that requires you to cut fruit! There will be an endless stream of fruits
+- [Samurai Warrior](../games/action/samurai-warrior.md) — Leap into action as a steadfast samurai, battling sinister wizards and gathering treasures. Command your agility and ref
+- [Samurai Warrior – Kingdom Hero](../games/action/samurai-warrior-kingdom-hero.md) — Master the art of Kung Fu, pave your path to greatness and become the ultimate Kung Fu master by playing free games. Gai
+- [Samuroof](../games/action/samuroof.md) — In this game, the ninja has to run across buildings, defeat the enemies that appear in front, and collect coins. Each le
+- [Sandbox Create Challenge](../games/action/sandbox-create-challenge.md) — Unleash your creativity in Sandbox Create Challenge, where you can design thrilling maps and devious obstacles for darin
+- [Sandman Pixel Race 3D](../games/action/sandman-pixel-race-3d.md) — Sandman Pixel Race 3D: Imposter Pixel 3d Man Run Game is a satisfying and entertaining running game, you will enjoy coll
+- [Sandwich Runner](../games/action/sandwich-runner.md) — In Sandwich Runner, sprint through food-filled pathways to tame a ravenous diner's hunger. Navigate with precision to co
+- [Sandwich Runner Game](../games/action/sandwich-runner-game.md) — Make extraordinary sandwich by towering it with sandwich ingredients. Sandwich runner game is a sandwich maker running g
+- [Sane Runner](../games/action/sane-runner.md) — Do not stop, run along until you reach an overpopulated neighbourhood, there you will see the fancy stuffs and have fun.
+- [Sane Runner](../games/action/sane-runner-2.md) — Sprint through a perilous pixel landscape in Sane Runner, where timing is everything. Master jumps, defy gravity, and ad
+- [Santa Adventure](../games/action/santa-adventure.md) — Santa Claus is on new adventure. He need to collect gifts for next Christmas. He need your help to do that. Control the 
+- [Santa Christmas Run](../games/action/santa-christmas-run.md) — Sata Christmas Run is fun arcade game suitable for all ages. Christmas is coming again! Play this Christmas game with sa
+- [Santa City Run](../games/action/santa-city-run.md) — Help Santa deliver the presents in this crazy running game. Race down the city streets avoiding all of the obstacles as 
+- [Santa City Run Street](../games/action/santa-city-run-street.md) — Santa was delivering gifts to children and did not notice that his bag was leaking. When grandfather discovered the hole
+- [Santa City Run surfers](../games/action/santa-city-run-surfers.md) — Help Santa deliver the presents in this crazy running game. Race down the city streets avoiding all of the obstacles as 
+- [Santa Claus Adventure](../games/action/santa-claus-adventure.md) — Santa Claus Adventure is fun arcade game suitable for all ages. Your task is to collect as many gifts as possible and th
+- [Santa Claus Adventures](../games/action/santa-claus-adventures.md) — Santa Claus Adventures is a kids christmas game. Adventure with Santa. You need to collect colorful balls and avoid dang
+- [Santa Claus Rush](../games/action/santa-claus-rush.md) — Santa Claus Rush if fun and addicting arcade game suitable for all ages. You need to stay alive as long time as possible
+- [Santa Claus Xmas Run](../games/action/santa-claus-xmas-run.md) — Santa Claus Xmas Run is a fun and free online game for kids! Help Santa collect as many gifts as possible while staying 
+- [Santa Gift Adventure](../games/action/santa-gift-adventure.md) — Xmas is coming. Santa need gifts for childrens. Help Santa to collect more giftss to all childrens but be carefull, snow
+- [Santa Girl Dash](../games/action/santa-girl-dash.md) — The daughter of Santa Claus has to collect all present gifts that are scattered around the North Pole. But beware, there
+- [Santa Girl runner](../games/action/santa-girl-runner.md) — The daughter of Santa Claus has to collect all present gifts that are scattered around the North Pole. But beware, there
+- [Santa Girl Running](../games/action/santa-girl-running.md) — Go Santa Girl, run! The daughter of Santa Claus has a task, and it is to collect all present gifts in North Pole that ar
+- [Santa Girl Running](../games/action/santa-girl-running-2.md) — Dash through the frosty North Pole as Santa's spirited daughter, collecting scattered gifts while dodging obstacles and 
+- [Santa Gravity](../games/action/santa-gravity.md) — Santa Gravity is a game where Santa Claus runs vertically to reach the top and collect as many presents as he can, dodge
+- [Santa Gravity Flipper - Endless Running Game](../games/action/santa-gravity-flipper-endless-running-game.md) — Santa Runner will make you frustrate, annoy, addicted to play again and again. Christmas counter has already been starte
+- [Santa Gravity Run](../games/action/santa-gravity-run.md) — Switch the gravity to control your Santa to avoid the obstacles and reach the door. 12 levels to go. Play now!
+- [Santa on skates](../games/action/santa-on-skates.md) — Santa on Skates is a cute arcade game. It has 20 awesome levels. In which you have to jump through obstacles and collect
+- [Santa or Thief?](../games/action/santa-or-thief.md) — Merry Christmas! Kids have got their gifts from santa but its not over yet infact game begins for you We celebrate XMAS 
+- [Santa Run Challenge](../games/action/santa-run-challenge.md) — In the game Santa Run Challenge will help the brave Santa to fulfill his mission. Your hero will run along the city stre
+- [Santa Run HD](../games/action/santa-run-hd.md) — Santa Run – is a HTML5 Game! The Santa lost his presents. Now you need to help the emu collect these gifts and protect t
+- [Santa Runner](../games/action/santa-runner.md) — Santa Runner - the online endless runner game thats perfect for gift collecting! With simple controls and addictive game
+- [Santa Runner](../games/action/santa-runner-2.md) — Dash through snowy landscapes as Santa in a thrilling race against time. Jump over obstacles and collect festive treats 
+- [Santa Runner 2D](../games/action/santa-runner-2d.md) — Guide Santa on a thrilling, gift-collecting spree in this festive endless runner. Navigate dynamic obstacles while dashi
+- [Santa Runner Online](../games/action/santa-runner-online.md) — Dash through snowy landscapes as Santa in Santa Runner Online! Collect as many gifts as possible in this fast-paced endl
+- [Santa Running](../games/action/santa-running.md) — Christmas is coming, Our cute Santa decides to prepare some gifts for you. Can you help him? There are 21 levels waiting
+- [Santa Running game](../games/action/santa-running-game.md) — Santa run! Christmas is coming, Help our Santa to run and collect all gifts which are stolen from him by some evil. Hurr
+- [Santa Rush](../games/action/santa-rush.md) — Christmas is here and Santa is in rush! Help him to get as far as possible. Don't let him fall on ice! Pick sugar sticks
+- [Santa's Rush Christmas Adventure](../games/action/santa-s-rush-christmas-adventure.md) — Dash through a whimsical winter wonderland with Santa! Dive into a festive frenzy of running and jumping, collecting sta
+- [Santa Snow Runner](../games/action/santa-snow-runner.md) — Santa Snow Runner is a free online game. Run through the snow and deliver the presents. Santa Snow Runner is an online H
+- [Santa Snow Runner](../games/action/santa-snow-runner-2.md) — Guide Santa through snowy landscapes in Santa Snow Runner, a thrilling holiday adventure. Navigate treacherous paths, do
+- [Santa vs. Zombies](../games/action/santa-vs-zombies.md) — Ho ho ho, Santa Claus is back in town. Only this town has been taken over by the living dead! Take on the role of Santa 
+- [Santas Christmas Mania](../games/action/santas-christmas-mania.md) — Santa pack up all the gifts for the children. In each level, Santa will request to collect items. Match 3 or more of eac
+- [Santas Present](../games/action/santas-present.md) — Santas Present is a 2D Christmas themed platformer where you play as Santa who have to collect all of the gift boxes whi
+- [Santas Present 2](../games/action/santas-present-2.md) — Santas Present 2 is a 2D Christmas themed platformer where you play as Santa who have to collect all of the gift boxes w
+- [Satan Slayer Adventure](../games/action/satan-slayer-adventure.md) — Embark on a medieval quest in Satan Slayer Adventure, facing hordes of demonic foes across five intense levels. Use easy
+- [Sauce Silk Spy](../games/action/sauce-silk-spy.md) — Sauce Silk Spy: The Doomsday War of Shiba Inu Agent On the wasteland devoured by zombie viruses, a skilled Shiba Inu wil
+- [Sausage Flip](../games/action/sausage-flip.md) — Flip and toss the sausage on the fork with much more challenge. If you want to get 3 stars, you need to turn the sausage
+- [Sausage Flip Free](../games/action/sausage-flip-free-2.md) — Bounce into action as a heroic sausage, tackling wild levels with precision timing. Perfect your flips to navigate obsta
+- [Sausage Run](../games/action/sausage-run-2.md) — Race as a spirited sausage in a frenetic dash to victory in Sausage Run! Master quick reflexes to navigate obstacles, se
+- [Savage Jon](../games/action/savage-jon.md) — Savage Jon is an action-adventure platform game, where Jon looks for adventure and flight monsters, and uses Jet Pack to
+- [Save Egg](../games/action/save-egg.md) — Do you like platform games and eggs? Then youll love this game where youll have to jump from one platform to another, co
+- [Save for Attack on Titan | Saves For Games](../games/action/save-for-attack-on-titan-saves-for-games.md) — Wings of Freedom retells key moments from the first season of the Attack on Titan anime, in addition to new scenarios in
+- [Save Obby and Noob Two players](../games/action/save-obby-and-noob-two-players.md) — Obby and Noob are in jail, and you need to help them escape. You must navigate through dangerous courses and obstacles t
+- [Save Obby and Noob Two-players](../games/action/save-obby-and-noob-two-players-2.md) — Navigate treacherous prison routes with Obby or Noob, mastering the art of evasion and precision. Collect scattered cash
+- [Save Pac](../games/action/save-pac.md) — Save Pac revives the classic yellow character in a thrilling 2D puzzle platformer. Navigate intricately designed levels,
+- [Save Pilot Ryan](../games/action/save-pilot-ryan.md) — Can you keep Pilot Ryan flying? In this high-octane action game, youll be dodging a relentless barrage of missiles. Guid
+- [Save the Dino's World](../games/action/save-the-dino-s-world.md) — Join a daring dinosaur on a 2D adventure to reunite with a friend. Navigate through vibrant levels, battling foes and co
+- [Save the Dummy](../games/action/save-the-dummy.md) — Lets put your creativity and drawing skills to the test to save the little dummy! You will need your skills and concentr
+- [Save the Sheep](../games/action/save-the-sheep.md) — Defend your sheep in the thrilling "Save the Sheep," where each tap unleashes your sniper skills against waves of relent
+- [Save Water Race](../games/action/save-water-race.md) — Welcome to Save Water: Race 3D hypercasual Game! Tap or mouse click to start collecting bottles of water to help other g
+- [Sawblade Fest Run](../games/action/sawblade-fest-run-2.md) — Navigate a whirlwind of peril in Sawblade Fest Run, where every second matters. Dodge, slice, and upgrade your way throu
+- [Scale Kid Run And Jump Up](../games/action/scale-kid-run-and-jump-up.md) — Scale Kid Run And Jump Up is an endless adventure, immersing players in a vibrant world of constant challenges. As Scale
+- [Scary Horror Choo Choo Game](../games/action/scary-horror-choo-choo-game.md) — Choo Choo train Charles 2023 game is a horror game with a character of train, and it's also an action game. The game wil
+- [Scary Huggy Playtime](../games/action/scary-huggy-playtime.md) — Scary Huggy Playtime is a scary adventure online game for boys for free. You can choose different modes. As a human bein
+- [Scary Run HD](../games/action/scary-run-hd.md) — This game is about that guy abducted by aliens and sent him to the planet Mars, on this planet is inhabited by many diff
+- [Scary Running](../games/action/scary-running.md) — Scary Temple Final Jungle Run: Spirit Lost Endless Run game feeling the best princess Jungle running game. Endless princ
+- [School Escape Obby](../games/action/school-escape-obby.md) — Dive into the thrilling world of School Escape Obby — a vibrant online game in roblox style with stunning graphics and d
+- [SCP-173: Foundation Escape](../games/action/scp-173-foundation-escape.md) — Step into the role of SCP-173 and break free from the Foundation’s control in a tense stealth experience built around a 
+- [Scrap Brawl](../games/action/scrap-brawl.md) — Scrap Brawl is a fun 2d papercraft fighting game with many fun twists and powerups. Created By Mega Flame Studios: megaf
+- [Scrappy Dog](../games/action/scrappy-dog.md) — The scientist decided to try his new invention and for this he called his faithful friend - a little dog, on whose back 
+- [Scribble Grass Cutter](../games/action/scribble-grass-cutter.md) — Draw Grass Cut is a free and simple easy to use mowing stress reliever, draw simple lines in the drawing board, these li
+- [Scribble World: Platform Puzzle](../games/action/scribble-world-platform-puzzle.md) — Embark on a delightful platform puzzle adventure with Scribble World, where you control a unique scribble character in a
+- [Scribble World Platform Puzzle Adventure](../games/action/scribble-world-platform-puzzle-adventure.md) — Embark on a delightful platform puzzle adventure with Scribble World, where you control a unique scribble character in a
+- [Scribble World Platform Puzzle Game](../games/action/scribble-world-platform-puzzle-game.md) — Scribble World Platform Puzzle is a free online platform jumping game. It provides players with a sense of satisfaction 
+- [Sea Battle 2025](../games/action/sea-battle-2025.md) — Engage in thrilling naval combat as you deploy drones and submarines to outsmart and sink enemy fleets. Experience the t
+- [Sea Boom](../games/action/sea-boom.md) — Engage in thrilling naval battles with Sea Boom, commanding a battleship to outmaneuver foes and unleash precise attacks
+- [Searching for Elizabeth 2](../games/action/searching-for-elizabeth-2.md) — Join Angelo on a whimsical platform adventure through a vibrant world to reunite with Elizabeth. Test your bravery again
+- [Searching for Elizabeth 3](../games/action/searching-for-elizabeth-3.md) — Angelos Adventure: Searching for Elizabeth is a platform game in which you will search for your girlfriend Elizabeth aft
+- [Searching for Elizabeth II](../games/action/searching-for-elizabeth-ii.md) — Angelo is on a quest to find his long lost love Elizabeth. He has to battle a variety of odd creatures on his way to fin
+- [Seasonland](../games/action/seasonland.md) — SeasonLand is a classic 2D pixel art platformer game. Please help the Bunny Bot to complete his journey finding the way 
+- [Secret Parkour](../games/action/secret-parkour.md) — Tower of Hell Parkour with Secrets and Surprises! Jump, run, and reach new heights in this thrilling game! Avoid the lav
+- [Secret Room Survival](../games/action/secret-room-survival.md) — This is a very interesting 3D game of level crossing. We use cooperation to solve the puzzles in each level, so that you
+- [Sector 01](../games/action/sector-01.md) — Long ago there was a toy factory far from the city. Slave robots were produced in this factory. However, not every robot
+- [Seedfall: Defend the Last Tree](../games/action/seedfall-defend-the-last-tree.md) — Seedfall is a 2D endless side-scroller where nature is your last weapon. Defend the final magical tree using coins to su
+- [Seedfall - Defend the Last Tree](../games/action/seedfall-defend-the-last-tree-2.md) — In Seedfall - Defend the Last Tree, wield nature's power in an endless side-scrolling battle to protect the final magica
+- [Senita](../games/action/senita.md) — Senita is a 2D platformer where you play as a girl who have to collect all of the chocolate bars while avoiding the enem
+- [Senita 2](../games/action/senita-2.md) — Senita 2 is a 2D platformer where you play as a girl who have to collect all of the chocolate bars while avoiding the en
+- [Set Bot](../games/action/set-bot.md) — Set Bot is a 2D Sci-fi themed platformer where you play as a bot who have to collect red tech balls while avoiding the e
+- [Set Bot 2](../games/action/set-bot-2.md) — Set Bot 2 is a 2D Sci-fi themed platformer where you play as a bot who have to collect red tech balls while avoiding the
+- [Shadow Adventure](../games/action/shadow-adventure.md) — Take on the ultimate challenge of skill and reflexes in Shadow Adventure. In the realm of the dead, shadows have begun t
+- [Shadow Battle Warriors : Super Hero Legend](../games/action/shadow-battle-warriors-super-hero-legend.md) — Become a Ultimate Superheroes and fight again other shadow warriors and superman in Manga, comics and film. Enjoy an epi
+- [shadow boy](../games/action/shadow-boy.md) — Ignatius is a atmospheric puzzle-platformer game with an interesting story. The game with its visual form and plot refer
+- [Shadow Boy Adventures](../games/action/shadow-boy-adventures.md) — Embark on a chilling side-scrolling journey as Shadow Boy, navigating the eerie Valley of Death. Dodge treacherous spike
+- [Shadow Combat](../games/action/shadow-combat.md) — BECOME THE SHADOW FIGHT HERO IN A NEW MULTIPLAYER FIGHTING GAME! Fight against other players in a free online 3D fightin
+- [Shadow Duel](../games/action/shadow-duel.md) — A one-on-one ninja duel drawn in ink and moonlight. Read your rival, guard, then strike back: every defence opens a coun
+- [Shadow Fight](../games/action/shadow-fight.md) — Shadow Fight 2 est un jeu captivant réunissant le RPG avec le simple jeu de combat. Ce jeu vous permet d'équiper votre p
+- [Shadow Fighters Hero Duel](../games/action/shadow-fighters-hero-duel.md) — Shadow stickmans are on the scene with relentless fights. Use your punches and kicks wisely and try to beat your opponen
+- [Shadow Fights](../games/action/shadow-fights.md) — The Shadow Fighters took their places on the field. The fight will only have 1 winner! Be fast, swing your fists and dod
+- [Shadow Fist   Kung Fu](../games/action/shadow-fist-kung-fu.md) — Shadow Fist is a fast-paced kung fu stickman beat &rsquo;em up. You play Kai, the last disciple of Master Lin, and you m
+- [Shadow Mortel Combat](../games/action/shadow-mortel-combat.md) — Shadow Mortel Combat simple addicting gameplay, giving you thrilling moments and an unexpected experience. You have the 
+- [Shadow Ninja RPG: Enemy Legends](../games/action/shadow-ninja-rpg-enemy-legends.md) — Shadow Ninja RPG: Enemy Legends is a fast-paced web RPG where legendary ninja heroes battle through dangerous levels fil
+- [Shadow Ninja Run](../games/action/shadow-ninja-run.md) — When Shadow Ninja is about to be caught at work, he starts running, he asks for your help, the road he is running is bum
+- [Shadow Ninja Warriors](../games/action/shadow-ninja-warriors.md) — Start the Shadow Ninja Revenge challenge. Try to survive by using your weapons on your journey full of all kinds of obst
+- [Shadow Quest](../games/action/shadow-quest.md) — In the Shadow Quest three little witches were lived happily together but after sometime one Monster came and wanted to t
+- [Shadow Samurai Ninja](../games/action/shadow-samurai-ninja-2.md) — Embark on an adrenaline-fueled journey as a Shadow Samurai Ninja. Swiftly navigate mystical terrains, outsmart cunning t
+- [Shadow Shifter](../games/action/shadow-shifter.md) — Unleash your inner ninja in Shadow Shifter, where cunning and agility are your allies. Transform into an inconspicuous b
+- [Shadow Sprint](../games/action/shadow-sprint.md) — Sprint through a mesmerizing night-time cityscape in Shadow Sprint, a thrilling 3D parkour adventure. Master fluid contr
+- [Shadow Stick - Lightning Ninja](../games/action/shadow-stick-lightning-ninja.md) — Experience the thrill of battle in "Shadow Stick - Lightning Ninja," a 2D fighting game enriched with RPG elements. Conq
+- [Shadow Stickman Fight](../games/action/shadow-stickman-fight.md) — Shadow Stickman Fight is an awesome and intense 2D ninja survival arcade game. You have to survive the endless waves of 
+- [Shadow Strike](../games/action/shadow-strike.md) — Kill the enemies to complete the mission, Collect stars to reach the next destination. Explore the enemy world and dange
+- [Shadow War Idle](../games/action/shadow-war-idle.md) — Unleash dark power in a Endless Runner game. Survive the enemies, and customize your gear to conquer the shadow realm wo
+- [Shadow world Adventure](../games/action/shadow-world-adventure.md) — “Shadoworld Adventure” is a very fun platform / retro game! The character, a brave creature of the shadows, must cross t
+- [Shadowcurse](../games/action/shadowcurse.md) — The world is broken&hellip; a hollow shell of what it was. Yet hope lingers still. A lone wanderer steps into the darkne
+- [Shadoworld Adventure](../games/action/shadoworld-adventure.md) — "Shadoworld Adventure" is a very fun platform / retro game! The character, a brave creature of the shadows, must cross t
+- [Shaolin Warrior Saga](../games/action/shaolin-warrior-saga.md) — Shaolin Warrior Saga invites you into ancient China, blending dynamic martial arts combat with intricate puzzles. With b
+- [Shape Shifting Cells](../games/action/shape-shifting-cells.md) — Guide B-12, a cute robot, on a thrilling ascent to activate a mysterious button. Navigate delicate challenges with simpl
+- [Shape Shifting: Race Game](../games/action/shape-shifting-race-game.md) — Shape Shifting will take you across of all environment: land, air, sea To conquer them, you have to adapt quickly throug
+- [Shape Transforming: Shifting Run](../games/action/shape-transforming-shifting-run.md) — Get ready to dive into the exhilarating world of Shape Transforming, where the power of transformation is in your hands!
+- [Shark World](../games/action/shark-world.md) — Welcome to Shark World where you can have different ocean shark species, build underwater home, and build your underwate
+- [Sheep Runner](../games/action/sheep-runner.md) — An endless game play full of different obstacles, make your sheep character running through the mysterious forest path e
+- [Sheep Runner](../games/action/sheep-runner-2.md) — Embark on a vibrant quest with Sheep Runner, as you guide your woolly hero through fast-paced, coin-collecting escapades
+- [Shell Strikers 1](../games/action/shell-strikers-1.md) — Shell Strikers is a turn-based artillery combat game where strategy meets explosive action. Lead your team of soldiers i
+- [Sheon Panda](../games/action/sheon-panda.md) — Sheon Panda is a 2D cute little platformer where you play as a Panda who have to collect the bamboo sticks while avoidin
+- [Sheon Panda 2](../games/action/sheon-panda-2.md) — Sheon Panda 2 is a 2D cute little platformer where you have to collect all of the bamboo sticks while avoiding enemy pan
+- [Sheris Room](../games/action/sheris-room.md) — Join Kibo Carter, a heroic cat, on a pixel art adventure to save Syntezia. Defend colored balls from relentless alien ho
+- [Shift Run](../games/action/shift-run.md) — Just Swipe to Adjust Angle and Shift Direction, New Addictive Concept. Have Fun with Run, Jump, roll, Skater, Make Stunt
+- [Shift Runner 3D](../games/action/shift-runner-3d.md) — Welcome to Shift Runner 3D. Be quick and move your finger fast to avoid obstacles use your finger to control skater and 
+- [Shinobi Ninja Run](../games/action/shinobi-ninja-run.md) — Dash through the vibrant world of Shinobi Ninja Run, dodging tricky obstacles as a swift samurai. With intuitive tap con
+- [Shoe Race](../games/action/shoe-race.md) — Both contestants will parade along the podium, the coverage of which will change from time to time. In order to help the
+- [Shoes Evolution 3D](../games/action/shoes-evolution-3d.md) — Shoes Evolution 3D is a the theme of shoes popular game! At the beginning of the ordinary shoes. Cross the gates to star
+- [Shoes Race Evolution 3D](../games/action/shoes-race-evolution-3d.md) — A fantastic running game that not only captivates the player but also brings them joy when they are engaged in the game.
+- [Shortcut Race Game](../games/action/shortcut-race-game.md) — Collect and obtain more bricks as you are controlling the stickman running along with the platforms, kick them all to ac
+- [Shortcut Run 2](../games/action/shortcut-run-2.md) — Race against opponents, and stack up all the floorboards you can pick up along the way! If you’re clever enough, get out
+- [Shortcut Run 3D](../games/action/shortcut-run-3d.md) — Race against opponents, and stack up all the floorboards you can pick up along the way! If you're clever enough, get out
+- [Shortcut Run - Fun & Run 3D Game](../games/action/shortcut-run-fun-run-3d-game.md) — Shortcut Run is a parkour game as well as a new arcade game. In the game, you need to collect wooden blocks on the platf
+- [Shortcut Runner](../games/action/shortcut-runner.md) — In Shortcut Runner, race against cunning rivals by collecting floorboards to create strategic shortcuts. Navigate clever
+- [Shortcut Sprint](../games/action/shortcut-sprint.md) — Speed through vibrant tracks in Shortcut Sprint, where strategic board collection and shortcut creation are key to victo
+- [ShortcutRun](../games/action/shortcutrun.md) — Race against opponents, and stack all the pieces of boards you can pick up along the way! If you’re smart enough, get ou
+- [ShotWildWest](../games/action/shotwildwest-2.md) — Dive into ShotWildWest, a high-octane adventure where precision meets speed. Test your reflexes as you shoot rapidly app
+- [Shy Eye Labyrinth Prototype](../games/action/shy-eye-labyrinth-prototype.md) — You have been locked in the labyrinth with a quest. Find four keys to open a way out. Each key is hidden in a unique lev
+- [SideJump](../games/action/sidejump.md) — Tap on PLAY GAME to play this game.it's very simple but too hard all what you have to do is try to do not let those 2 ba
+- [Sift Renegade Brawl](../games/action/sift-renegade-brawl.md) — Play this incredible exclusive game from kiz10.com called Sift Renegade Brawl totally free !!! In this game full of acti
+- [Silent Assassin 2024](../games/action/silent-assassin-2024.md) — Enter the world of Silent Assassin 2024, where your mission is to eliminate monsters with precision and stealth. Click o
+- [Simple Loot Idle](../games/action/simple-loot-idle.md) — Simple Loot Idle is a clicker game to equip your hero with the better loot items you get from killing monsters. Sell loo
+- [Simple Samosa](../games/action/simple-samosa.md) — Samosa is our enthusiastic hero with a warm heart which makes him feel for his fellow citizens. He is always ready for a
+- [Simple Samosa Run](../games/action/simple-samosa-run.md) — Pick your character and prepare for an adventure in the Simple Samosa game! However, the road ahead is full of obstacles
+- [Sink or Float](../games/action/sink-or-float.md) — Embark on a fascinating journey into the world of physics with Sink or Float. This game is designed to challenge a young
+- [Sint Nicolaas](../games/action/sint-nicolaas.md) — Sint Nicolaas is a puzzle/platform game about Sinterklaas, a Dutch tradition. Collect all the lost presents and cookies 
+- [SKATE: +1 Speed](../games/action/skate-1-speed.md) — 🛹 This is a world of insane speed and skate parkour! Get a +1 speed boost while skateboarding, navigate challenging obs
+- [Skate Duo Runner](../games/action/skate-duo-runner.md) — Skate Duo Runner is a thrilling endless arcade experience where players manage synchronized partners shredding through d
+- [Skate Hooligans](../games/action/skate-hooligans.md) — Cowabunga! Little hooligans are on the way! Choose your hero and arrange an amazing disorder ^_^ Collect coins, upgrade 
+- [Skateboard Adventures](../games/action/skateboard-adventures.md) — Run with your skate and avoid swords who want to kill you. Tap on the screen to jump and to pass swords. There is two sw
+- [Skateboard Obby 2 Player](../games/action/skateboard-obby-2-player.md) — In this adventure, Obby and his friend Bacon need to navigate through a challenging world filled with skateboards and ob
+- [Skateboard Obby 2 Player](../games/action/skateboard-obby-2-player-2.md) — Embark on a daring skateboarding adventure in a vibrant pixelated world with a friend. Swiftly navigate tricky obstacles
+- [SkeleStrike](../games/action/skelestrike.md) — Dive into SkeleStrike's eerie Halloween world, fending off relentless skeletons in an endless survival quest. Master sim
+- [Skeleton Knight Game](../games/action/skeleton-knight-game.md) — Skeleton Knight is an innovative new action-adventure hack and slash online game that offers a unique gaming experience.
+- [Skeleton Slayer](../games/action/skeleton-slayer.md) — Skeleton Slayer offers spine-chilling battles against relentless skeleton waves in a haunting Halloween world. Upgrade y
+- [Skelton Boss Runner](../games/action/skelton-boss-runner.md) — Embark on a thrilling, fast-paced adventure in Skelton Boss Runner! Navigate ever-changing mazes packed with unpredictab
+- [Skibidi Blast](../games/action/skibidi-blast-2.md) — Embark on a thrilling escape with Skibidi in Skibidi Blast! Propel your character through daring levels using explosive 
+- [Skibidi Blocks](../games/action/skibidi-blocks.md) — Skibidi Blocks Game is a fast-paced and challenging building block runner game that will test your reflexes and strategi
+- [Skibidi Drop](../games/action/skibidi-drop-2.md) — In Skibidi Drop, guide a toilet on a daring escape by strategically removing blocks in this whimsical physics puzzle. Te
+- [Skibidi Geometry Dash](../games/action/skibidi-geometry-dash.md) — Have fun and take control of the Skibidi toilet guy and go as far as you can, show that you can against this hard infini
+- [Skibidi Hop](../games/action/skibidi-hop-2.md) — Dodge the relentless Red triangle in Skibidi Hop, an endless adventure filled with dynamic challenges and intuitive cont
+- [Skibidi in the Backrooms](../games/action/skibidi-in-the-backrooms.md) — Escape a bizarre maze with a terrifying toilet creature on your tail in Skibidi in the Backrooms. Collect vital videotap
+- [Skibidi Laser Kill](../games/action/skibidi-laser-kill-2.md) — Dive into the action-packed world of Skibidi Laser Kill, where your reflexes are your best ally. Navigate relentless wav
+- [Skibidi Run Fast Run](../games/action/skibidi-run-fast-run.md) — Skibidi Run Fast Run! is a fun adventure game to play on. Here is Skibidi Toilet who has been stuck in middle with a who
+- [Skibidi Toilet City Jumper](../games/action/skibidi-toilet-city-jumper.md) — Skibidi Toilet City Jumper is an adrenaline-packed mobile game that combines toilet humor with fast-paced city explorati
+- [Skibidi Toilet GT Drag Championship](../games/action/skibidi-toilet-gt-drag-championship-2.md) — Rev your engines and lock and load in Skibidi Toilet GT Drag Championship! Embrace the chaos of high-speed drag racing f
+- [Skibidi Toilet Hide And Seek](../games/action/skibidi-toilet-hide-and-seek.md) — In the thrilling game Skibidi Toilet Hide and Seek, players embark on a heart-pounding adventure where stealth is their 
+- [Skibidi Toilet Hide N Seek](../games/action/skibidi-toilet-hide-n-seek.md) — et ready for Skibidi Toilet : Hide N Seek, the ultimate mobile game experience! Step into a world where survival is key 
+- [Skibidi Toilet Hunter](../games/action/skibidi-toilet-hunter.md) — In Skibidi Toilet Hunter, assume the role of a determined Skibidi armed with WASD controls and mouse left-click attacks.
+- [Skibidi Toilet Madness Clicker](../games/action/skibidi-toilet-madness-clicker.md) — Dive into the wacky world of Skibidi Toilet Madness Clicker, where humor meets strategy in a delightful clicker adventur
+- [Skibidi Toilet Maze](../games/action/skibidi-toilet-maze.md) — You can only enter forward, backward, right, left or east with the arrow keys. It cannot be controlled by any other key.
+- [Skibidi Toilet Money Stack](../games/action/skibidi-toilet-money-stack.md) — Guide your Skibidi Toilet through a chaotic cash-stacking journey brimming with quirky charm and escalating challenges. 
+- [Skibidi Toilet Move Face](../games/action/skibidi-toilet-move-face.md) — Welcome to Skibidi Toilet Move Face casual games, where youll embark on a journey in epic battlefield with brave warrior
+- [Skibidi Toilet Only Up](../games/action/skibidi-toilet-only-up.md) — In Skibidi Toilet Only Up, a young slum dweller aspires to break free from poverty. Embarking on a transformative journe
+- [Skibidi Toilet Parkour run 2024](../games/action/skibidi-toilet-parkour-run-2024.md) — In the Skibidi Toilet Parkour run game you Dash Toilet Toilets to Toilets. Flip, jump, fall, and vault over obstacles an
+- [Skibidi Toilet: Platform Jump](../games/action/skibidi-toilet-platform-jump.md) — Skibidi Toilet: Platform Jump Game is a challenging and fun game where you control a toilet that must jump and avoid obs
+- [Skibidi Toilet Platform Jump](../games/action/skibidi-toilet-platform-jump-2.md) — Take control of a daring toilet in Skibidi Toilet Platform Jump! Navigate through dynamic levels with precise click-to-j
+- [Skibidi Toilet Rage](../games/action/skibidi-toilet-rage.md) — Skibidi Toilet takes action in some country with a rage to conquer. Save with your hero. While Skibidi Toilet say Dop Do
+- [Skibidi Toilet Rush](../games/action/skibidi-toilet-rush.md) — Skibidi Toilet Rush is a fun online game that you can play for free. No download needed to play it. The aim of the game 
+- [Skibidi Toilet vs Wario](../games/action/skibidi-toilet-vs-wario.md) — Skibidi Toilet vs Wario is an amazing ans super fun running game that you can play online for free. Its in HTML5, No Nee
+- [Skibidi Triple Jump](../games/action/skibidi-triple-jump-2.md) — Skibidi Triple Jump offers thrilling, fast-paced action where precision and quick reflexes decide your fate. Navigate a 
+- [Skibidi vs Grimace Climber Race](../games/action/skibidi-vs-grimace-climber-race.md) — The Skibidi vs Grimace Climber Race promises an epic showdown between two daring competitors. Skibidi, known for agility
+- [Skibidi Wood Cutter](../games/action/skibidi-wood-cutter-2.md) — Dive into Skibidi Wood Cutter, where you control a tireless lumberjack Skibidi Toilet, chopping down trees with one-touc
+- [Skibronx Runner](../games/action/skibronx-runner.md) — Welcome to Skibronx Runner! Here you make your way through the streets in this endless runner game while you encounter v
+- [Skirt Running 3d Game](../games/action/skirt-running-3d-game.md) — Skirt Running3D is undoubtedly one of the most interesting new arcade games this year. You only need to slide on the scr
+- [Skull Hunter](../games/action/skull-hunter.md) — A flappy horror game themed about of a flying skull ghost in a cave. Destroy all enemy skulls. Hit the enemy's skull or 
+- [Sky Bros](../games/action/sky-bros.md) — Compete with your friends on the flying islands! Sky Bros lets you have fun. It is a game suitable for children. Sky Bro
+- [Sky Bros - 2 Players](../games/action/sky-bros-2-players.md) — Prove who's king of Skyland in Sky Bros - 2 Players, a lighthearted, competitive 2D game where you and your bro engage i
+- [Sky Corona Evasion](../games/action/sky-corona-evasion.md) — Sky Corona Evasion is an engaging mobile game developed by jojolife that thrusts players into a high-stakes aerial adven
+- [Sky Dash - Mission Unseen](../games/action/sky-dash-mission-unseen.md) — Navigate a thrilling world of speed in Sky Dash - Mission Unseen. Dodge obstacles, outsmart mysterious creatures, and st
+- [Sky Dasher](../games/action/sky-dasher.md) — Sky Dasher plunges you into a thrilling sky-high leap, where split-second timing is key. Navigate floating platforms, do
+- [Sky Flight](../games/action/sky-flight.md) — Soar through stunning landscapes as a graceful bird in Sky Flight. Navigate through rings and dodge obstacles to stay al
+- [SKY HOP 3D](../games/action/sky-hop-3d.md) — Sky Jump &ndash; The Ultimate Sky Adventure! Get ready for an exciting 3D platformer adventure! Jump across floating isl
+- [Sky Jumping](../games/action/sky-jumping.md) — Sky Jumping delivers a thrilling skyward adventure where agility and perfect timing are key. Leap across floating platfo
+- [Sky Roller Online](../games/action/sky-roller-online.md) — Sky Roller Online is a cool and exciting 3D skating game. The skater in the game will slide forward automatically. The p
+- [Sky Rolling Balls](../games/action/sky-rolling-balls.md) — Sky Rolling Balls is an arcade game, which is suitable for all ages. The gameplay is very simple. You only need to hold 
+- [Sky Runner Only Up Parkour](../games/action/sky-runner-only-up-parkour.md) — Dash from rooftop to rooftop. Flip, jump, fall, and vault over obstacles to set all new records. Join other guys and com
+- [Sky Runners](../games/action/sky-runners.md) — Play as different characters as you run, jump and avoid obstacles in stunning 3D environments. Move over and under chall
+- [SKY RUSH](../games/action/sky-rush.md) — "Sky Rush" is all about the pure joy of speed and total control!
+- [Sky Warrior](../games/action/sky-warrior-2.md) — Dive into Sky Warrior's exhilarating aerial combat, where each maneuver and bullet counts. Master intuitive controls to 
+- [Skyblock Parkour Easy Obby](../games/action/skyblock-parkour-easy-obby.md) — In this adventure, Obby and his girlfriend need to complete a skyblock obstacle course that seems easy but is actually q
+- [Skybop](../games/action/skybop.md) — Skybop is a game set in black-hole setting where an object must not go out and keep shuttling inside the blackhole. Ther
+- [skyfall siege](../games/action/skyfall-siege.md) — In this fast paced aerial battleground, I wanted to create a pure, adrenaline-driven experience where every second count
+- [SkyFury](../games/action/skyfury.md) — SkyFury is a game about airplanes war where player airplane has to survive and defeat the enemy planes. You get limited 
+- [SkyHop!](../games/action/skyhop.md) — A fun and addictive endless jumping game! Jump from platform to platform, improve your score, and challenge yourself to 
+- [Slap And Run 2](../games/action/slap-and-run-2.md) — Slap And Run 2 is not merely a collecting but also an avoiding arcade game, which is made from 3D colorful cartoon stick
+- [Slap And Run Online](../games/action/slap-and-run-online.md) — As a simple 3D avoiding arcade game, Slap And Run requires you to slap as many colorful stickman walkers as you can and 
+- [Slap Battle: Arena Online](../games/action/slap-battle-arena-online.md) — Multiplayer slap battle. 🖐️ Collect slaps by defeating players. Modes: Arena, Ring, and 67. Inspired by Slap Battles!
+- [Slap Bridge Race](../games/action/slap-bridge-race.md) — Slap Bridge Race is a popular arcade game that is suitable for all ages. At the beginning, run hard to increase yourself
+- [Slap Contest](../games/action/slap-contest.md) — Welcome to Slap Contest Game. Move left and right and double tap to slap your opponent. Get 3 slaps to move to the next 
+- [Slap Face](../games/action/slap-face.md) — Slap Kings is a 3D reflection game suitable for relaxing. You can hit other people and beat them in this game before the
+- [Slap King](../games/action/slap-king.md) — Forget the games you've played so far. This game will entertain you a lot during these days when you stay at home due to
+- [Slap Kings - Fun & Run 3D Game](../games/action/slap-kings-fun-run-3d-game.md) — Slap Kings is a 3D reflection game suitable for relaxing. You can hit other people and beat them in this game before the
+- [Slap Man](../games/action/slap-man.md) — Slap Man is a hyper-casual parkour game that involves sliding left and right. You sprint through the streets, dodging ro
+- [Slap Sahur](../games/action/slap-sahur.md) — STRESS RELIEF? JUST SLAP IT! Got a bad day? Bored? Just need to hit something? Slap Sahur is your goto hypercasual game 
+- [Slice the Fruitz](../games/action/slice-the-fruitz.md) — Slice the Fruitz offers fast-paced slicing action where precision and speed are key. Hone your ninja skills against endl
+- [SliceStorm](../games/action/slicestorm.md) — SliceStorm &ndash; Fruit Slicing Action Game Slice, dice, and survive in this fast-paced fruit-slicing arcade game! Swip
+- [Slide and Fall](../games/action/slide-and-fall.md) — Slide and Fall is a simplistic game in which you must fall from rotating platforms while avoiding enemies, minimalist-st
+- [Slide Battle](../games/action/slide-battle.md) — Slide Battle is a thrilling action arena game where you control warriors in intense battles. Using agile sliding control
+- [Sliding Figure](../games/action/sliding-figure.md) — Explore this beautiful world in your own car.
+- [Sliding Tim: Way to home](../games/action/sliding-tim-way-to-home.md) — Adventure game based on completing a difficult path. You play as the hero Tim. He was far from home and he needed help t
+- [Slime Assembly Endless](../games/action/slime-assembly-endless.md) — In Slime Assembly Endless, youll enter the element-themed slimes survival world and engage in intense battles against en
+- [Slime Jump](../games/action/slime-jump.md) — Bounce, stick, and strategize in Slime Jump! Master your jumping prowess as a blue slime, navigating perilous platforms 
+- [Slime Knight](../games/action/slime-knight.md) — Slime Knight is an arcade-platform game where you have to explore an ancient castle with a tiny but brave knight! Defeat
+- [Slime Pet](../games/action/slime-pet.md) — Enter a charming world where your delightful slime pet thrives on every tap. Keep it content with food, drinks, and play
+- [Slime Pizza](../games/action/slime-pizza.md) — The slime is sticky and will stick to objects and different surfaces - use this to your advantage to bypass traps and ge
+- [Slime Runner](../games/action/slime-runner.md) — Dash through thrilling levels in Slime Runner, where speed and strategy are key. Unleash your creativity by crafting cus
+- [Slime Warrior Run](../games/action/slime-warrior-run.md) — Embark on a heroic journey in Slime Warrior Run, where transformation is your greatest weapon. Harness the power of coll
+- [Slingshot Jetpack - Air Joyride](../games/action/slingshot-jetpack-air-joyride.md) — Slingshot Jetpack has proven to be one of the most interesting new arcade games of this year, with addictive gameplay an
+- [Slippery Slide Run Escape](../games/action/slippery-slide-run-escape.md) — Slide into a vibrant world of adrenaline-pumping excitement in Slippery Slide Run Escape. Maneuver through twisting path
+- [Slope Ball Slither](../games/action/slope-ball-slither.md) — Slope Ball Slither is a ball rolling game where you have to collect gift packs as you progress on the track. Collect new
+- [Slope Bike](../games/action/slope-bike.md) — Slope Bike is an incredible endless bike racing game in the hyper casual game genre. The gameplay of the game is simple.
+- [Slope City](../games/action/slope-city.md) — Slope City is an incredible endless running game in the hyper casual game genre. The gameplay of the game is simple. You
+- [Slope City 2](../games/action/slope-city-2.md) — Slope City is here with its new episode! The city map has been redesigned. In Slope City 2, you can buy balls in the "Sh
+- [Slope Cyber](../games/action/slope-cyber.md) — Slope Cyber is an endless slope game in the cyber game genre. You have to control a slope ball in the cyber city. The ba
+- [Slope UFO](../games/action/slope-ufo.md) — Slope Ufo is a game where you try to move forward in endless space without hitting the meteorites. You need to steer our
+- [Slow Down Cool](../games/action/slow-down-cool.md) — It's a funny walking game. Players play different roles in the game, to meet a variety of walking challenges, and the ga
+- [Slow Time Ninja](../games/action/slow-time-ninja.md) — Master time and precision in this stealth ninja game! Swipe to throw your weapon, freeze time to plan, and strike with d
+- [Smackem all](../games/action/smackem-all.md) — Welcome to this interesting hitting game. You can release your stress at will. Drag left and right to choose the target 
+- [Smart Looter 2021](../games/action/smart-looter-2021.md) — Smart Looter is the best App so Be quick and sneaky and grab tons of loots! Watch out for the patrols and become the kin
+- [Smart Looter Escape](../games/action/smart-looter-escape.md) — in this smart hero looter ,you have to grab the precious loots under heavy guard, and then escape using your stealth ski
+- [Smash and Break](../games/action/smash-and-break.md) — Smash and Break — a juicy voxel destruction sandbox where you can blow anything to pieces!
+- [Smash Bottles 2021](../games/action/smash-bottles-2021.md) — The bottles are spread on the rotating pillar. Use the hammer to smash the bottles. You will love to smash the bottles a
+- [Smash the Ants](../games/action/smash-the-ants-2.md) — Brace yourself for an ant invasion in Smash the Ants! With relentless precision, tap your way to victory as swarms of an
+- [Smash the Flies](../games/action/smash-the-flies-2.md) — Smash the Flies is a fast-paced action game that tests your reflexes. Tap and click to eliminate pesky flies before they
+- [smashing simmba](../games/action/smashing-simmba.md) — Simba, a fearless teenager, experiences various adventures with his friends while trying to keep the town safe from evil
+- [Smile Rush](../games/action/smile-rush.md) — Smile Rush is an online Kids game. Smile Rush is a simple and easy-to-play tooth-running game. Good teeth are very impor
+- [SMod: Sandbox in Backrooms](../games/action/smod-sandbox-in-backrooms.md) — SMod: Sandbox in Backrooms is a mod-style game based on the sandbox and the Backrooms. It is a real-time simulator with 
+- [Smoke man runner 2d](../games/action/smoke-man-runner-2d.md) — Smoke Man Runner 2D is an action-packed endless runner game where every jump counts. With clean visuals, catchy music, a
+- [Smoke Man Runner 2D](../games/action/smoke-man-runner-2d-2.md) — Dive into the chaotic cityscape of Smoke Man Runner 2D, an exhilarating endless runner game. Navigate through vibrant ob
+- [Snack Rush Puzzle Game](../games/action/snack-rush-puzzle-game.md) — Snack Rush Puzzle is a casual and puzzle online game, which is free for kids. This game is a combination of cartoon styl
+- [Snail Odyssey - Hardest Game](../games/action/snail-odyssey-hardest-game.md) — Guide a brave snail through a vibrant, trap-filled world in Snail Odyssey. Outsmart a clever AI, dodge ingenious obstacl
+- [Snail Run](../games/action/snail-run.md) — The snail run game is an interactive way to get your blood sprinting through you. All it takes are two people, some spac
+- [Snake Ball](../games/action/snake-ball.md) — Snake Ball injects vibrant excitement into arcade gaming as you strategize and fire colored balls at a snake-like line. 
+- [Snake Battle](../games/action/snake-battle.md) — Experience the Ultimate IO Battle Thrill! In Snake Battle, consume glowing dots to grow and use tactical maneuvers to cu
+- [Snake - Fun Addicting Arcade Battle Games](../games/action/snake-fun-addicting-arcade-battle-games.md) — Slither, eat, defeat! Play this free addicting online & offline snake blast game
+- [Snake Hunt Snake Battle Game](../games/action/snake-hunt-snake-battle-game.md) — Embark on a slithering adventure in Snake Hunt! Devour, grow, and outsmart opponents in thrilling real-time snake battle
+- [Snake Lite](../games/action/snake-lite.md) — Snake Lite is a game in which you need to control a snake and collect cubes that move along different trajectories, also
+- [Snake to Eat](../games/action/snake-to-eat-2.md) — Snake to Eat is a classic arcade-style game where you control a hungry snake to eat food and grow longer. Features: - Si
+- [Sneak In 3D](../games/action/sneak-in-3d.md) — Come and test yourself in this awesome adventurous action game where you have to demonstrate your awesome effective figh
+- [Sneak Out 3D](../games/action/sneak-out-3d.md) — Blue wants to sneak out to play! Can you help him? Evaded the surveillance! Sneak out, you can also quietly take advanta
+- [Sneak Runner 3D](../games/action/sneak-runner-3d.md) — Sneak Runner is a fun escape game. The aim of the game is to reach the exit door somehow. Things get harder with each le
+- [Sneaky Spikes](../games/action/sneaky-spikes.md) — Sneaky Spikes is a troll platformer drawn on notebook paper. Floors drop, spikes pop and doors bite, and a sarcastic nar
+- [Snow Adventure](../games/action/snow-adventure.md) — Explore the mysterious adventure, collect crystals to save a Friend and Beat the enemy. Game story begins with a boy and
+- [Snow Leap Mania](../games/action/snow-leap-mania.md) — Leap into a frosty thrill as an adventurous ice cube in Snow Leap Mania! Navigate shifting platforms and slippery challe
+- [Snow Queen: Frozen Fun Run. Endless Runner Games](../games/action/snow-queen-frozen-fun-run-endless-runner-games.md) — Running games for kids and adults! This is a cartoon runner game! Play frozen adventure games for girls and boys and run
+- [SnowBall: Platformer](../games/action/snowball-platformer.md) — SnowBall: Platformer is a joyful physics-based platformer made for the holidays! You play as SnowBall &mdash; a lively s
+- [Snowball Rush 3D](../games/action/snowball-rush-3d.md) — Embark on a frosty adventure with Snowball Rush 3D, where agility and strategy merge in a quest to craft the largest sno
+- [Snowfall](../games/action/snowfall.md) — The Snowfall Online Jump Action game is a great choice for anyone looking for a fun and challenging way to spend their f
+- [Snowmen VS Penguin](../games/action/snowmen-vs-penguin-2.md) — Battle icy invaders as a brave penguin defending precious eggs against relentless snowmen. Engage in action-packed snowb
+- [Snowzo](../games/action/snowzo.md) — Snowzo is a snowy platform game where there is an ice-cube moving over snowy platforms and jumping in the empty spaces s
+- [sodacat](../games/action/sodacat.md) — Beat Cat is a one-button rhythm runner starring sodacat, a chubby music-loving kitten. Dash through a rainy neon alley a
+- [Soldiers Combats](../games/action/soldiers-combats.md) — Soldiers Combat is a action packed game with Levels To clear each level you have to collect hidden keys which you can ge
+- [Soldiers Runner](../games/action/soldiers-runner.md) — Gather troops, defeat enemies, collect rewards, upgrades, and destroy the great wall to rescue the grand prize that incr
+- [Somersault Ninja: Samurai Ninja Jump](../games/action/somersault-ninja-samurai-ninja-jump.md) — Somersault Ninja: Samurai Ninja Jump is a jump ninja battle survival game. In the middle of night, a group of ninjas cam
+- [Sonic Frontiers](../games/action/sonic-frontiers.md) — Worlds are colliding in Sonic the Hedgehog’s newest high-speed adventure! In search of the missing Chaos emeralds, Sonic
+- [Sonic Jump Fever 2](../games/action/sonic-jump-fever-2.md) — Play as Sonic the Hedgehog as you run, dash, jump and spin your way across stunning 3D environments in his first fun end
+- [Sonic Mobile](../games/action/sonic-mobile.md) — Mobile version of the adventures of the legendary Sonic the Hedgehog! Collect all the rings and go through all the obsta
+- [Sonic Run Adventure](../games/action/sonic-run-adventure.md) — Sonic Run Adventure is fun running game suitable for all ages. Run with Sonic, the speed legend, collect money and avoid
+- [Sonic Runner](../games/action/sonic-runner.md) — Surely you know that a brave hedgehog named Sonic loves to run. But he does this not to maintain good physical shape, bu
+- [Sonic Runner Game](../games/action/sonic-runner-game.md) — Sonic Runner Game is a fast-paced endless running adventure where speed, timing, and reflexes are the key to survival. D
+- [Sonic Runners](../games/action/sonic-runners.md) — Select from your favorite Sonic character between: Tails, Knuckles or Cream. In Sonic Ultimate Flash version you have to
+- [Sonic Runners Adventure](../games/action/sonic-runners-adventure.md) — Sonic Jump Force is an online HTML5 game , it's playable in browsers such as safari and chrome. You can play the game on
+- [Sonic Rush Toilet](../games/action/sonic-rush-toilet.md) — It's a fun casual game Zonic Rush Toilet Have fun guiding the little Zonic straight to the bathroom bee he wins! Can you
+- [sonic subway supe rush](../games/action/sonic-subway-supe-rush.md) — Super subway rush sonic Game, you can always enjoy with your blue sonic, we put like slime hero and genie who help Hedge
+- [Soosiz](../games/action/soosiz.md) — In this game you control your character moving them around a world that revolves around you. As you move around the land
+- [Soto Man](../games/action/soto-man.md) — Soto Man is a 2D simple platformer where you play as Soto Man, the super hero, who have to collect the stolen red gems w
+- [Space Adventure: Noobiks Battle vs Zombies](../games/action/space-adventure-noobiks-battle-vs-zombies.md) — Introducing Space Adventure: Noobiks Battle vs Zombies, an exciting game where players control a Minecraft Noob on platf
+- [Space Aim Kids](../games/action/space-aim-kids.md) — Space Aim Kids - is a space game for kids. Here archery targets move and user has to hit them by throwing aimed balls. T
+- [Space Battle](../games/action/space-battle-2.md) — Embark on a strategic mission in Space Battle, where every move counts. Align missiles with monster colors to clear leve
+- [Space Combat](../games/action/space-combat.md) — Space Combat is a fun spacecraft simulation game in which the player can fight AI enemy opponents. Features: - 3 game mo
+- [Space Crash](../games/action/space-crash.md) — Navigate the cosmos with Captain Rogers in Space Crash, a hilarious space adventure! Control a spinning spaceship, tappi
+- [Space Defense Idle](../games/action/space-defense-idle.md) — Your mission is to ensure the safety of all space. For this you need to destroy the enemy ship that is trying to invade 
+- [Space Dodge](../games/action/space-dodge.md) — Pilot your spaceship through a chaotic cosmic asteroid field in Space Dodge. Master precision and timing to artfully eva
+- [Space Endless Runner](../games/action/space-endless-runner.md) — Race through the galaxy in a sleek spacecraft, dodging dynamic barriers and laser traps. Collect energy orbs, activate s
+- [Space Guy Runner](../games/action/space-guy-runner.md) — Navigate perilous terrain in Space Guy Runner, a thrilling rescue adventure. Leap over obstacles, evade aliens, and coll
+- [Space Intruders](../games/action/space-intruders.md) — Embark on an intense interstellar showdown in Space Intruders! Navigate your ship through relentless alien waves, utiliz
+- [Space Jump Game](../games/action/space-jump-game.md) — Space Jump Astronaut jump from rock to cliff
+- [Space Jump Online Game](../games/action/space-jump-online-game.md) — Jump into the Fray with Space Jump, an online game that's a lot of fun for all ages!
+- [Space Junk Jump](../games/action/space-junk-jump.md) — Navigate the vastness of space in Space Junk Jump, dodging cosmic debris with intuitive controls. As your speed increase
+- [Space Miner - Endless Battle](../games/action/space-miner-endless-battle.md) — Battle to survive in the vastness of space by mining asteroids for vital resources and upgrading your ship's weaponry. O
+- [Space Mission](../games/action/space-mission.md) — The adventure begins in the deep sides of the space! You can play the game which is developed by using both retro gaming
+- [Space Obby](../games/action/space-obby.md) — A fun and lighthearted platformer set in outer space. Join other intrepid astronauts as you adventure to the far reachin
+- [Space Patrol](../games/action/space-patrol.md) — Patrol the space and Kill the Alien Spiders, Collect crystals to reach the next destination. Explore the space world and
+- [Space Platformer](../games/action/space-platformer.md) — Help the unknown creature to reach its rocket and help it to back to his rocket again
+- [Space Prison Escape 2](../games/action/space-prison-escape-2.md) — In the first part of the adventure, our heroes head to Earth with a spaceship they found. But their enemies in space cha
+- [Space Roll](../games/action/space-roll.md) — Space Roll is an addictive and stunning game Can you roll the space ball safely on a galaxy or neon platform as long as 
+- [Space Route](../games/action/space-route.md) — Steer your spaceship through a cosmic gauntlet in Space Route, where reflexes are your best ally. Navigate unpredictable
+- [Space Runner](../games/action/space-runner.md) — Choose from 2 different robots and prove your skill in Space running! You can take advantage of taking power-ups. Watch 
+- [Space Runner](../games/action/space-runner-2.md) — Navigate the endless cosmos in Space Runner, a pulse-pounding 2D adventure. Dodge asteroids with precise reflexes and de
+- [Space Rush](../games/action/space-rush.md) — There are so many unknown things in the mysterious space, you will fly the spacecraft to explore the space, looking forw
+- [Space Spider Wars](../games/action/space-spider-wars.md) — Engage in epic battles against alien spiders in Space Spider Wars! Navigate the cosmos, collecting crystals to unlock th
+- [Space Supremacy](../games/action/space-supremacy.md) — Take control of 3 combat ships to fight your enemies Fight as a squadron or assign a position to each ship to defend you
+- [Space Supremacys](../games/action/space-supremacys.md) — Take control of 3 combat ships to fight your enemies Fight as a squadron or assign a position to each ship to defend you
+- [Space Surfer](../games/action/space-surfer.md) — Welcome to Space Surfer! Get ready for the ultimate hyperspace challenge! Space Surfer is a thrilling 3D arcade game tha
+- [Space Survivor](../games/action/space-survivor-3.md) — Battle relentless alien hordes in Space Survivor, an action-packed space shooter. Maneuver swiftly, unleash diverse weap
+- [Space War Plane](../games/action/space-war-plane.md) — Space War Plane is a 2D war game. There is war in the sky in this game. You have to destroy the enemy planes coming from
+- [Space Wave: Danger Zone](../games/action/space-wave-danger-zone.md) — Your galaxy was attacked and you, as a brave warrior, jumped into a spaceship in order to repel an enemy attack to bring
+- [Speakerman Revenge](../games/action/speakerman-revenge.md) — Unleash sonic fury in Speakerman Revenge, a wild clicker game where you battle foes from a toilet seat! Harness rhythmic
+- [Special Forces War Zombie Attack](../games/action/special-forces-war-zombie-attack-2.md) — Fight for survival in "Special Forces War Zombie Attack," an exhilarating blend of action and strategy. Command a specia
+- [Special Strike Zombies](../games/action/special-strike-zombies-2.md) — Survive relentless waves of zombies and mercenaries as a special forces operative in Special Strike Zombies. Master dive
+- [Speed per Click: Obby](../games/action/speed-per-click-obby.md) — "Speed per Click: Obby" – An exciting clicker-speed simulator in the style of obby and blocky games!
+- [Speed-Run Platformer 2D!](../games/action/speed-run-platformer-2d.md) — Race against time in Speed-Run Platformer 2D! Feel the rush as you navigate meticulously designed levels with nimble jum
+- [Speed Wall Breaker](../games/action/speed-wall-breaker.md) — Just play it to relax your brain. Be focus on breaking wall breaker and you will find it more funny and exciting! Smash 
+- [Speedrun Parkour](../games/action/speedrun-parkour.md) — Speedrun Parkour is a fun running game where you have to finish levels as fast as you can.
+- [Speedrun platformer](../games/action/speedrun-platformer.md) — Race through vibrant levels, leaping over monsters and snagging coins. Speed is key – reach the top of the leaderboard b
+- [Speedy Sheep](../games/action/speedy-sheep.md) — Speedy Sheep propels you into a vibrant world where dexterous maneuvers are key. Navigate treacherous paths, eluding per
+- [Speedy vs Steady](../games/action/speedy-vs-steady.md) — Speedy vs Steady A Race of Rabbit and Tortoise! In this classic Snakes &amp; Ladders game, youll choose to play as the s
+- [Spider Attack](../games/action/spider-attack.md) — Fend off a relentless spider invasion from your rooftop in Spider Attack! Arm yourself with plants, strategically place 
+- [Spider Evolution Runner](../games/action/spider-evolution-runner-2.md) — Transform into mighty spiders in Spider Evolution Runner, a thrilling game of evolution. Navigate tracks, dodge obstacle
+- [Spider Evolution Runner Game](../games/action/spider-evolution-runner-game.md) — Embark on a thrilling journey as a spider in this dynamic 3D runner. Consume insects and smaller spiders to grow larger,
+- [Spider Fly Heros](../games/action/spider-fly-heros.md) — Spider Fly Heros is endless flying game with spiderman!
+- [Spider Hunters](../games/action/spider-hunters.md) — Prepare for an interstellar showdown in Spider Hunters, where swift reflexes are your greatest ally. Navigate perilous s
+- [Spider Man Hard Way](../games/action/spider-man-hard-way.md) — Spider man needs to jump from wall to wall avoiding obstacles.By collecting stars you gain the right to change color. He
+- [Spider Man : Multiverse](../games/action/spider-man-multiverse.md) — Spider-Man has spider-like abilities including superhuman strength and the ability to cling to most surfaces. He is also
+- [Spider Man Save Babys](../games/action/spider-man-save-babys.md) — Babies have escaped from the preschool. They're crawling on the dangerous street. When the hero spider-man sees this, he
+- [Spiderlox Theme Park Battle](../games/action/spiderlox-theme-park-battle.md) — Join a creative and action sandbox adventure in Spiderlox Theme Park Battle! Youll play the role of a superhero Spiderma
+- [Spiderlox Theme Park Battle](../games/action/spiderlox-theme-park-battle-2.md) — Swing into exhilarating action as a superhero in Spiderlox Theme Park Battle. Navigate an expansive park, employing agil
+- [Spiderman Amazing Run](../games/action/spiderman-amazing-run.md) — Spiderman Amazing Run
+- [Spiderman Fight](../games/action/spiderman-fight.md) — Spider-Man and Agent Venom are training to fight. Who do you think will win? let's play and see. You can hit and block b
+- [Spiderman Fighter](../games/action/spiderman-fighter.md) — spider man Fight 2021 is an epic open world third person super hero gangster fighting game with everything you want & al
+- [Spiderman Jump](../games/action/spiderman-jump.md) — Spiderman wants to jump through the web and pass through the ring of fire. Different challenges await you in each chapte
+- [Spiderman Kiss](../games/action/spiderman-kiss.md) — Spider-Man loves Mary Jane. Mary Jane wants to kiss Spider-Man secretly in the garden. There is Green goblin, Spidey and
+- [Spiderman Scene Creator](../games/action/spiderman-scene-creator.md) — Design a Spiderman adventure. Create the scenario of this dream. Fun game. Let's Play
+- [Spiderman: Street Fighter](../games/action/spiderman-street-fighter.md) — The streets of New York were overwhelmed by street crime, gangs have gone wild and attack everyone in a row. Your task i
+- [Spiderman T-Rex Runner](../games/action/spiderman-t-rex-runner.md) — Spiderman T-Rex Runner
+- [Spiderman Vs Naruto](../games/action/spiderman-vs-naruto.md) — spiderman vs naruto is a fighting game , kill the enemy and finish the level
+- [Spiderman Vs Venom 3D Game](../games/action/spiderman-vs-venom-3d-game.md) — The game is a street fight between the hero Spiderman in the movienamed Spiderman and the enemies in the same movie , wh
+- [Spidey Amazing Friends 2](../games/action/spidey-amazing-friends-2.md) — Your role is to go through every challenge Spidey have prepared for you! Some may require a bit of attention or fast ref
+- [Spike Sphere](../games/action/spike-sphere.md) — SpikeSphere is a fast-paced action game where you control a spiked ball and swing through dangerous obstacles using a st
+- [spil clash 3D Ultimate Arena](../games/action/spil-clash-3d-ultimate-arena.md) — Enter the arena in spil clash 3D Ultimate Arena an action-packed 3D spinning top battle game! Choose between Single Play
+- [Spin War](../games/action/spin-war-2.md) — Survive a relentless zombie assault in Spin War by mastering a unique spin mechanic controlling your weapon. Adapt and t
+- [Spin Wheel Prize](../games/action/spin-wheel-prize.md) — Spin wheel is a game that can be played to win prizes. You can be added to the lucky draw and win these amazing prizes.
+- [SpinWhisker](../games/action/spinwhisker.md) — Nobody even knows how this cat got here or how to help him return home. He strayed too far and accidentally entered a po
+- [Spiral Roll](../games/action/spiral-roll.md) — Spiral Roll is a relaxing 3D game suitable for killing time. You will have an amazing experience when you play this game
+- [Spirit Boy](../games/action/spirit-boy.md) — In this clever puzzle adventure, you guide a boy through tricky levels filled with deadly traps and clever challenges. S
+- [Splatcha!](../games/action/splatcha.md) — SPLATCHA! is a fast, juicy territorial paint duel. Two blobby rivals, one arena, 90 seconds - most floor covered WINS! M
+- [Sponge Bob Endless Run](../games/action/sponge-bob-endless-run.md) — Sponge Bob Endless Run is an online game that you can play for free. Collect as many burgers as possible. Run on the jel
+- [Sponge Challenge](../games/action/sponge-challenge.md) — In Sponge Challenge, you command a bouncy, yellow sponge through a captivating 2D puzzle platform adventure. Your missio
+- [spongebob Jump adventure](../games/action/spongebob-jump-adventure.md) — SpongeBob SquarePants Jump Force is an online HTML5 game , it's playable in browsers such as safari and chrome. You can 
+- [SpongeBob Runner](../games/action/spongebob-runner.md) — SpongeBob Runner is fun running game suitable or all ages.Play SpongeBob Runner direct in your favorite browser or any m
+- [SpongeBob SquarePants : Battle for Bikini Bottom](../games/action/spongebob-squarepants-battle-for-bikini-bottom.md) — In this game you can visit many interesting locations of the underwater world. Explore it all Visit the houses of Bob an
+- [Spooky Forest Run](../games/action/spooky-forest-run.md) — You went for a walk in the forest, but suddenly a creepy skeleton starts chasing you. Run through the forest to get away
+- [Spooky Run](../games/action/spooky-run.md) — Take on a spine-chilling quest in Spooky Run, where swift reflexes and strategy reign supreme. Dodge and defeat eerie cr
+- [Sprunki Horror Version Dark](../games/action/sprunki-horror-version-dark-2.md) — Navigate a nightmarish world with the Sprunki characters, avoiding deadly thorns and traps. Constant movement is your al
+- [Sprunki Ice Mod - Aqua](../games/action/sprunki-ice-mod-aqua.md) — Guide Aqua through melting ice blocks in this whimsical platformer. Solve puzzles as you race to your frozen treat, mast
+- [Sprunki Incredibox Only Up](../games/action/sprunki-incredibox-only-up.md) — The game begins with Sprunki or Cameramen standing on the ground, surrounded by structures inside an old, rusty neighbor
+- [Sprunki Jump Adventure](../games/action/sprunki-jump-adventure.md) — Join Sprunki on a thrilling platform quest filled with surprises! Leap skillfully across dynamic platforms, collect coin
+- [Sprunki Jump Challenge](../games/action/sprunki-jump-challenge.md) — Sprunki Jump Challenge is an exciting and super fun jumping game featuring our adorable hero, Sprunki! Join Sprunki on a
+- [Sprunki Squid Gaming](../games/action/sprunki-squid-gaming.md) — In Squid Gaming, you must survive. Compete with your friend &mdash; first, make it through the Green Light, Red Light ga
+- [Sprunki Troll Platformer](../games/action/sprunki-troll-platformer.md) — Sprunki Troll Platformer is a platformer that challenges you! Can you pass the troll levels? Complete levels that are fu
+- [Sprunki vs MCCraft](../games/action/sprunki-vs-mccraft.md) — The Sprunki team has fallen into the McCraft world, and they want to escape and return to their own world. Help the Spru
+- [Sprunki World Online RP - Play with Friends!](../games/action/sprunki-world-online-rp-play-with-friends.md) — The World of Sprunki is a world of adventure and fun!
+- [Sprunky Rich Rich Rich](../games/action/sprunky-rich-rich-rich.md) — The Sprunky brothers fall into rivalry and start a competition. Both Sprunky brothers are very ambitious and want to win
+- [Squad Assembler](../games/action/squad-assembler.md) — Dive into Squad Assembler, where creativity and strategy collide. Build and customize unique cyborg warriors by combinin
+- [Squad Runner](../games/action/squad-runner.md) — Become the mob master and lead your people through the crowded city. Tasks are arranged in the form of small 'missions' 
+- [Squad Tower](../games/action/squad-tower-2.md) — Navigate the perilous heights of Squad Tower, where action meets strategy in thrilling combat puzzles. Master intuitive 
+- [Square adventure](../games/action/square-adventure.md) — An exciting game in which you have to complete levels, overcoming various obstacles on your way! Choose a character and 
+- [Square dash](../games/action/square-dash.md) — An exciting game of speed and reaction in which you have to overcome various obstacles on your way! Earn points, set new
+- [Square Monsters](../games/action/square-monsters.md) — Square Monsters is a captivating puzzle game where you strategize and manipulate pixel creatures across 24 increasingly 
+- [Square Platformer Creator](../games/action/square-platformer-creator.md) — Unleash your creativity in Square Platformer Creator, where you design unique maps with ten block types and three themes
+- [Square Run](../games/action/square-run-2.md) — Navigate through a perilous journey in this challenging square-running game. Jump and double jump to evade deadly obstac
+- [Squareking of Easter](../games/action/squareking-of-easter.md) — The square king needs to escape from the castle. Help the square king and leave the kingdom. During the Easter holiday, 
+- [Squareking of Easter](../games/action/squareking-of-easter-2.md) — Help the square king escape a trap-laden castle filled with cunning monsters. Collect Easter eggs to unlock your way to 
+- [Squareking of Summer](../games/action/squareking-of-summer-2.md) — Venture into the sizzling world of Squareking of Summer, where perilous beaches teem with square crabs and tricky traps.
+- [Squary Bird](../games/action/squary-bird.md) — Squary Bird is a Flappy Bird clone game with a unique "square" theme. Day and night background art in the game. 3 unique
+- [Squash These Ants 2](../games/action/squash-these-ants-2-2.md) — Dive into the thrilling antics of Squash These Ants 2, where sharp reflexes and strategic skills reign supreme! Navigate
+- [Squeeze'n'Slide](../games/action/squeeze-n-slide.md) — Control a jelly as it slides through a colorful obstacle course. Change its shape to fit through gates, collect crystals
+- [Squicky](../games/action/squicky.md) — This cute mouse needs your help to rescue his friends! Find all the keys to go to the next level. Collect coins and defe
+- [Squid 3D Red Light Green Light](../games/action/squid-3d-red-light-green-light.md) — Welcome to Squid Game 3D. Welcome to a fair game of Red lights, green lights. Whoever wins this game will win a lot of c
+- [Squid Challenge - Survival Game](../games/action/squid-challenge-survival-game.md) — Based on the popular Netflix show, play Squid Challenge - Survival Game and see if you can survive. Try to reach the fin
+- [Squid Drunk 3D](../games/action/squid-drunk-3d.md) — Try to balance your self with physics and to be to catches by the doll! like in the squid game challenge. you can move w
+- [Squid Fighter](../games/action/squid-fighter.md) — Two Player Squid Fighter Game
+- [Squid Fighter Gamer](../games/action/squid-fighter-gamer.md) — Are you prepared to engage in some street fighting? Well... You and a friend can work together to eliminate all of the r
+- [Squid Game](../games/action/squid-game-2.md) — Now! You can knock down your competitors! The new competition now begins! Brand-new level elements, brand-new props cont
+- [Squid Game 2](../games/action/squid-game-2-2.md) — choose the right obstacles
+- [Squid Game 3D: All Squid Games](../games/action/squid-game-3d-all-squid-games.md) — Enjoy the unique fun experience now and start your adventure party. Fill the start by gathering all stacks and crosses a
+- [Squid game 3D Runner](../games/action/squid-game-3d-runner.md) — There are many classic game contents in the game Squid Game 3D. You need to be familiar with the rules of each game mode
+- [Squid Game: 456 Survival](../games/action/squid-game-456-survival.md) — Who wanna be BILLIONAIRE?
+- [Squid Game: All Rounds](../games/action/squid-game-all-rounds.md) — After premiering on Netflix earlier this year, Squid Game became a worldwide success. The premise of the show combined s
+- [Squid Game - Battle Royale](../games/action/squid-game-battle-royale.md) — Welcome to Squid Game. Welcome to a fair game of Red lights, green lights. Whoever wins this game will win a lot of cash
+- [Squid Game : Bomb Bridge](../games/action/squid-game-bomb-bridge.md) — 2 Player Squid Game
+- [Squid Game Challenge Battle 3D](../games/action/squid-game-challenge-battle-3d.md) — Pink game: Squid Hunger's deadly premise is teeming with life. How does it feel to fight with 456 players , knowing that
+- [Squid Game Craft Maps for Minecraft PE - MCPE](../games/action/squid-game-craft-maps-for-minecraft-pe-mcpe.md) — With squid game, Try to go as far as possible , beat your opponents be the first Red light stop, green light move. . Thi
+- [Squid Game: Craft Runner](../games/action/squid-game-craft-runner.md) — Join the fun in Squid Game Subway Craft! Craft your way through obstacles and race along the railway tracks in a Minecra
+- [Squid Game Crowd Pusher](../games/action/squid-game-crowd-pusher.md) — Collect numbers and characters of the same color on the platform to kill the boss in Squid Game Crowd Pusher. The strong
+- [Squid Game Deadflip](../games/action/squid-game-deadflip.md) — You must be careful to land safely on the ground. Make the Squid Game character somersault and land carefully on the gro
+- [Squid Game Escape Plan](../games/action/squid-game-escape-plan.md) — In Squid Game, one of the most popular games of recent times, some contestants, who are afraid of competitions, are plan
+- [Squid Game Escapers](../games/action/squid-game-escapers.md) — Fearing the competition, some players come up with a plan to escape the games. But escaping from the game island is not 
+- [Squid Game Fighting](../games/action/squid-game-fighting.md) — Inspired by classic 3d fighting squid game games squid game delivers it all - it’s fast; it’s full-on; it’s tactical; it
+- [Squid Game For Minecraft PE](../games/action/squid-game-for-minecraft-pe.md) — With squid game, Try to go as far as possible , beat your opponents be the first Red light stop, green light move. . Thi
+- [Squid Game – Green Light Red Light](../games/action/squid-game-green-light-red-light.md) — With squid game, Try to go as far as possible , beat your opponents be the first Red light stop, green light move. . Thi
+- [Squid Game Green Light Red Light Hints](../games/action/squid-game-green-light-red-light-hints.md) — Invite to Squid Game. Invite to a fair game of Red lights, eco-friendly lights. Whoever wins this game will win a great 
+- [Squid Game Hidden Signs](../games/action/squid-game-hidden-signs.md) — Squid Game Hidden Signs is a free online hidden object game. A certain area will appear on the screen in front of you. Y
+- [Squid Game Impostor](../games/action/squid-game-impostor.md) — An action-packed adventure awaits you in Squid Game Impostor. Play the Squid Game themed Impostor on the spaceship now! 
+- [Squid Game Island Escape](../games/action/squid-game-island-escape.md) — In the Squid Game, the players who have the right to end the game unanimously, make a plan to escape from the game islan
+- [Squid Game Legend](../games/action/squid-game-legend.md) — If you have been closely following the events of the first installment of the Korean series Squid Game, you probably rem
+- [Squid Game Multiplayer Fighting](../games/action/squid-game-multiplayer-fighting.md) — Ready to play some fighting on the street? Well... You can join with your friend and knock out all enemy red from squid 
+- [Squid Game New Viral Game](../games/action/squid-game-new-viral-game.md) — Squid Game 3D it's new run game, it's challenging game make you have fun. in this new run game you can become the winner
+- [Squid Game Parkour](../games/action/squid-game-parkour.md) — Try to finish the game with the squid game character! Touch the disabled and collect all the gold to reach the end!
+- [Squid Game Runner](../games/action/squid-game-runner.md) — All players are poor and want money for their future and present life. Don't get eliminated and make your way to the top
+- [Squid Game Runner 2](../games/action/squid-game-runner-2.md) — Squid Game Runner 2 is an intense and fast-paced survival runner game inspired by high-stakes challenge games. Run, dodg
+- [Squid Game Running Mobile](../games/action/squid-game-running-mobile.md) — A fun game that has become so popular lately. Your task is to simply try to survive after you get to the island. There w
+- [Squid Game Sprunki FNF Battle](../games/action/squid-game-sprunki-fnf-battle.md) — Squid Game Sprunki FNF Battle is a cool dance FNF battle between Squid Game and Sprunki. Enjoy 2 great theme from Mingle
+- [Squid Game Subway 3D](../games/action/squid-game-subway-3d.md) — Descend into the subway and head towards a new adventure in the endless runner Subway Surfers: Seoul! Dodge obstacles, t
+- [Squid Game Survival](../games/action/squid-game-survival.md) — If you’re someone who loves to watch movies and shows, then you must have watched plenty of them nowadays. Thanks to the
+- [Squid Game2  3d Game](../games/action/squid-game2-3d-game.md) — The game is a street fight between the hero in series Squid Game and the enemies in the same serie where you must kill m
+- [Squid Gamer City Destroyer](../games/action/squid-gamer-city-destroyer.md) — While we welcome you to a collection of mad gorilla games with the flavour of smasher games mixed with giant alien games
+- [Squid Gamer Runner Obstacle](../games/action/squid-gamer-runner-obstacle.md) — The time has come to have a real parkour experience. Climb, slide, and flip your way through this massive assault course
+- [Squid Games - impossible Challenges](../games/action/squid-games-impossible-challenges.md) — All players are poor and want money for their future and present life. Don't get eliminated and make your way to the top
+- [Squid Hit](../games/action/squid-hit.md) — Craft your unique tentacled monster in the laboratory. Navigate through levels, unlocking new characters, and enhancing 
+- [Squid Jump Challenge](../games/action/squid-jump-challenge-2.md) — Dive into Squid Jump Challenge, an exhilarating test of reflexes where every leap counts. Master your timing and precisi
+- [Squid Master Run Rush Game 3D](../games/action/squid-master-run-rush-game-3d.md) — All the tasks are harder than you think. Every task has its period so complete the task before the period. The players w
+- [Squid Maze Challenge](../games/action/squid-maze-challenge.md) — Looking for the most realistic Squid game Experience? Well, squid game Maze challenge is the best choice for you! Just l
+- [Squid Obby Game 2Player](../games/action/squid-obby-game-2player.md) — Hey players, you need to be fast. Collect all the shapes nonstop and help your friend escape from the prison. Escape bef
+- [Squid Obby Game 2Player](../games/action/squid-obby-game-2player-2.md) — Race against time in Squid Obby Game 2Player, where teamwork and strategy are key. Navigate a perilous prison, collectin
+- [Squid Play Game Online All mode](../games/action/squid-play-game-online-all-mode.md) — Squid Game is a thrilling and fascinating 3D typical simulator game based upon popular childhood years Korean games. Thi
+- [Squid Pop It Game](../games/action/squid-pop-it-game-2.md) — Dive into the fast-paced world of Squid Pop It Game, where quick reflexes and strategic pops challenge your wits. Clear 
+- [Squid Prison Games](../games/action/squid-prison-games.md) — Welcome to the Squid Prison Games. 10 levels to survive. Earn money by passing levels and buy items for your player. Cho
+- [Squid Survival Run Challenge](../games/action/squid-survival-run-challenge.md) — Are you looking for a game with survival challenges? Do you love playing deadly games where the only goal is survival? I
+- [Squid Triple Jump Game](../games/action/squid-triple-jump-game-2.md) — Guide your squid through perilous obstacles with strategic triple jumps. Precision and timing are crucial as you leap to
+- [squide game 3d mod](../games/action/squide-game-3d-mod.md) — The Squid Survival Shooting Games feature Games such as Red Light, Green Light. Be sure not to miss the final squid surv
+- [SQUIDLY GAME TUG OF WAR](../games/action/squidly-game-tug-of-war.md) — Squid Game continues with its new episode, Tug War. The object of the game is to pull the rope as fast as you can and pu
+- [Squirrel Go Up](../games/action/squirrel-go-up.md) — Either use your mouse or press enter to start the game. Move your cute squirrel using your keyboard and go up avoiding o
+- [Squirrel Hop](../games/action/squirrel-hop.md) — "Squirrel Hop" is a really fun platform game. You have to tap left and right buttons to jump on platforms. Collect walnu
+- [Squish these Ants](../games/action/squish-these-ants.md) — Step into the ant-infested world of Squish These Ants. Tap with speed and precision to squash as many as possible, but w
+- [Stack Ball - Blast through platforms](../games/action/stack-ball-blast-through-platforms.md) — Stack Ball is a 3d arcade game where players smash, bump and bounce through revolving helix platforms to reach the end. 
+- [Stack Ball Run](../games/action/stack-ball-run.md) — Stack Ball Run is a fast-paced arcade runner game. Drag left and right to collect coins and build your ball stack. Avoid
+- [Stack Ball Run 3D](../games/action/stack-ball-run-3d.md) — Stack Ball Run 3D is a fast-paced arcade runner game. Drag left and right to collect balls and build the tallest stack. 
+- [Stack Color 3D](../games/action/stack-color-3d.md) — In the "Stacking Color 3D" game, transport as many bricks as possible. Each level will show you a new scene, and there i
+- [Stack Colors!](../games/action/stack-colors.md) — In the "stacking colors" game, transport as many bricks as possible. Each level will show you a new scene, and there is 
+- [Stack Tower Pro](../games/action/stack-tower-pro.md) — Test your precision in this addictive 3D block stacking game! Build the tallest skyscraper, unlock stunning themes, and 
+- [Stacky Run](../games/action/stacky-run.md) — This is a super casual game, without too many complicated designs, it can be opened and played at any time. Collect the 
+- [Stacky Run 3D](../games/action/stacky-run-3d.md) — Stacky Run is an interesting new arcade game, but also a rare 3D art-style parkour game. Your job is to control the park
+- [Stair Ball: Hyper Casual](../games/action/stair-ball-hyper-casual.md) — Step into endless fun and test your reflexes with Stair Ball: Hyper Casual! Conquer 75 exciting levels, each step gettin
+- [Stair Run 2](../games/action/stair-run-2.md) — The game "Stair Run 2" is a continuation of your favorite game about running over obstacles and climbing high stairs. Cl
+- [Stair Run 3D](../games/action/stair-run-3d.md) — Stair Run 3D! dash forward and collect stair slices. Hold to make stair rise. Avoid obstacles! Jumping over the hurdles 
+- [Stair Run Game](../games/action/stair-run-game.md) — Stair Run is recommended as not merely a collecting but also an avoiding arcade game with three-dimensional stickman gam
+- [Stair Run Online](../games/action/stair-run-online.md) — Stair Run Online is an adventure running game. You need to collect bricks. Build stairs across the obstacles with bricks
+- [Stair Run Online 2](../games/action/stair-run-online-2.md) — Run, collect, and conquer obstacles in Stair Run Online 2. Master the art of raising stairs to overcome challenges, unlo
+- [Stair Rush](../games/action/stair-rush.md) — Stair Rush is a fast-paced hyper-casual runner where your character automatically runs forward on a narrow track filled 
+- [Stampede Evolution](../games/action/stampede-evolution.md) — A 3D nature platformer where you lead a growing herd of animals. Walk your camp to level up and evolve from a squirrel t
+- [Star Adventure](../games/action/star-adventure.md) — Jump over the blades with Star Adventure and collect stars but you have to be careful because every time you hit the bla
+- [Star Runner: Cosmic Escape](../games/action/star-runner-cosmic-escape.md) — Star Runner: Cosmic Escape is an epic space arcade runner where you steer a sleek ship through a glowing starfield. Coll
+- [Star Seeker](../games/action/star-seeker.md) — Embark on a dazzling journey in Star Seeker, where collecting shimmering stars becomes an exhilarating race against time
+- [Stat Stealer Alpha](../games/action/stat-stealer-alpha.md) — Stat Stealer is an idle game about slime that can absorb others' stats. You fight with different mobs and gain their sta
+- [Steal a Brainrot Arena 67](../games/action/steal-a-brainrot-arena-67.md) — Plunge into a vibrant block arena, where you, a fearless hero, battle relentless brainrots and towering bosses. With a m
+- [Steal An Egg](../games/action/steal-an-egg.md) — Steal An Egg takes the classic Steal Brainrot loop and flips it into an egg-hatching economy race. Play in 1 Player or 2
+- [Steal and Catch Obby: Mini-Games](../games/action/steal-and-catch-obby-mini-games.md) — Immerse yourself in a dynamic Roblox-style arcade game with multiple modes, where everything revolves around earning mon
+- [Steal Brainrots From Bosses](../games/action/steal-brainrots-from-bosses.md) — How many Brainrots can you STEAL? Remember&hellip; don&rsquo;t anger the Brainrot guarding the base! Grab a Brainrot fro
+- [Steal them](../games/action/steal-them.md) — She was left alone and now takes revenge on all men. She has one task, to prevent the wedding and for this it is necessa
+- [Stealing the Diamond](../games/action/stealing-the-diamond.md) — Stealing The Diamond is another in a series of amazing stick figure adventure games. In Stealing The Diamond, you guesse
+- [Stealth Army Pusher](../games/action/stealth-army-pusher.md) — Command your purple army in strategic, engaging battles. Outsmart opponents by pushing red commanders off the edge, turn
+- [Stealth Assassin](../games/action/stealth-assassin.md) — Stealth Assassin - The best and most attractive killer hunting game today. To become a Assassin pro player you need to c
+- [Stealth robbery of a house together](../games/action/stealth-robbery-of-a-house-together.md) — Stealth robbery of a house together: steal things, hide from the guards, take the loot to the van. Play with a friend on
+- [Step Upper](../games/action/step-upper.md) — Step Upper is a game to get reach higher distance from Earth to Universe! Playing the game Step Upper You will get inspi
+- [Steve and Alex Dragon Egg](../games/action/steve-and-alex-dragon-egg-2.md) — Embark on a daring adventure with Steve and Alex as you navigate a perilous labyrinth filled with fiery dragons and expl
+- [Steve Diamond Hunter](../games/action/steve-diamond-hunter.md) — Steve Diamond Hunter is an exciting and free online game for kids, offering hours of fun. The goal is to collect as many
+- [Steve on the platform](../games/action/steve-on-the-platform.md) — Steve on the platform is a very fun platform game! Try to escape from the sweet monsters in the game, find the key and e
+- [Steve parkour in mine](../games/action/steve-parkour-in-mine.md) — Jump, run, and don’t fall! Help Steve navigate dangerous levels filled with traps, chasms, and true cubic madness.
+- [Steve Runs](../games/action/steve-runs.md) — Steve Runs - is a hyper-casual runner game where you control Steve a character that has to run and avoid boxes!
+- [Steve SurvivalCraft Easy](../games/action/steve-survivalcraft-easy.md) — In this adventure, Steve mounts his horse and wants to go to the villagers. The villagers are waiting for him to show hi
+- [Stick Archers Battle](../games/action/stick-archers-battle.md) — Stick Archers Battle is a fun 1-2 player bow challenge game. Try to shoot accurate arrows at your opponent by adapting t
+- [Stick Arena: Stickmen](../games/action/stick-arena-stickmen.md) — Welcome to the world of epic battles! This game delivers physics-based combat where your agility, reaction speed, and st
+- [Stick Battle Fight](../games/action/stick-battle-fight.md) — Engage in medieval stick duels with physics-based combat where balance and timing are crucial. Defeat your opponent in e
+- [Stick Clash](../games/action/stick-clash.md) — Defeat enemies to collect teammates. Attack the monster with a crowd clash. Stick Clash is a fun and addictive stickman 
+- [Stick Doors and Island](../games/action/stick-doors-and-island.md) — Stranded on a deserted island... or trapped in a locked room – what escape route will you choose? In this escape game, y
+- [Stick Duel: Shadow Fight](../games/action/stick-duel-shadow-fight.md) — Shadow stickmans are on the scene with relentless fights. Use your punches and kicks wisely and try to beat your opponen
+- [Stick Fight Combo](../games/action/stick-fight-combo.md) — Stick Fight Combo: Let you relive the classic arcade fighting game! It is a side-scrolling fighting game with lively fig
+- [Stick Fighter 3D](../games/action/stick-fighter-3d.md) — One Player and Two Player Retro Stickman Fight Game.
+- [Stick Hero Battle](../games/action/stick-hero-battle.md) — Stick Hero Battle is a fast-paced and explosive action fighting game that throws you straight into intense battle arenas
+- [Stick Hero Fight](../games/action/stick-hero-fight.md) — Enter the most nervous stickman battles. In Stick Hero Fight, you as a mighty stickman hero. Fight through waves of enem
+- [Stick Hero Fight](../games/action/stick-hero-fight-2.md) — Dive into frantic stickman battles with Stick Hero Fight! Upgrade your hero, wield devastating attacks, and vanquish wav
+- [Stick Hero Mighty Tower Wars](../games/action/stick-hero-mighty-tower-wars.md) — Prepare yourself to fight top battles, defeat monsters and enemies. Calculate and defeat enemies with less power, power-
+- [Stick Huggy](../games/action/stick-huggy.md) — Do you like runner stickman parkour games? Help the running stickman huggy by avoiding and jumping over obstacles. On co
+- [Stick killer](../games/action/stick-killer.md) — The goal of getting as much money as possible. Of course, the city is a veritable strait. Pedestrians have no priority a
+- [Stick Legions](../games/action/stick-legions.md) — Monsters have attacked your village! You are the only survivor! Are you ready to shoulder the important task of saving t
+- [Stick Man Battle Fighting](../games/action/stick-man-battle-fighting.md) — Enter the world of Stick Man Battle Fighting and every move matters! This casual fighting game lets you unleash your ski
+- [Stick Man Battle Fighting](../games/action/stick-man-battle-fighting-2.md) — Enter the thrilling world of Stick Man Battle Fighting, where every duel is a strategic test. Customize your hero, maste
+- [Stick Master Teleport](../games/action/stick-master-teleport.md) — Jump onto walls, throw knives, and teleport to your enemies ⚔️ to defeat them with a single strike 💥. Prove your ninja 
+- [Stick Run Parkour](../games/action/stick-run-parkour.md) — Single player infinity Run Funny Arcade Stickman Parkour Game by Baran Yel Super Cluster Hub . Coming Soon; Market Costu
+- [Stick Runner](../games/action/stick-runner.md) — Stick Runner is a fun online game. There is only one track in this game, and obstacles of different sizes and lengths ap
+- [Stick Runner](../games/action/stick-runner-2.md) — Guide a nimble Stickman through a perilous landscape in Stick Runner, where your reflexes are your only ally. Jump over 
+- [Stick Shadow Fighter Legacy](../games/action/stick-shadow-fighter-legacy.md) — Have fun with this entertaining new game called Stick Shadow Fighter Legacy enjoy an action game, adventure accompanies 
+- [Stick Up!](../games/action/stick-up.md) — Let Stickman rise up high and escape from dangers and obstacles.Protect stick from swords, saws, razors and shurikens wi
+- [Stick vs Zombies - Epic Battle](../games/action/stick-vs-zombies-epic-battle.md) — Immerse yourself in a relentless battle as stickman warriors face off against zombie hordes. Navigate dynamic levels wit
+- [Stick War Adventure](../games/action/stick-war-adventure.md) — Start an adventure with the fearless and equipped stickman! Defeat the enemies that come stronger in each level and Upgr
+- [Stick Warrior](../games/action/stick-warrior.md) — Stick Warrior is an intense side-scrolling action game featuring stick figure warriors in an epic battle for survival. P
+- [Stick Warrior : Action Game](../games/action/stick-warrior-action-game.md) — Do you like epic fights with plenty of STICKMEN ? If so you'll love STICK WARRIOR, a crazy and fun fighting game with to
+- [Stick Warrior Hero Battle](../games/action/stick-warrior-hero-battle.md) — The battle of the Stick Ragdolls is beginning in the various dangerous arenas with the Stick Warriors Hero Battle game! 
+- [Stickboy Epic Swordsman](../games/action/stickboy-epic-swordsman.md) — Embrace your warrior spirit in Stickboy Epic Swordsman, an exciting online game where you equip diverse armor, face toug
+- [Stickdoll 2 : Revenge Of Flame](../games/action/stickdoll-2-revenge-of-flame.md) — The sequel to stickdoll God Of Archery, this game is about the Fire Kingdom's desire to regain its power with Flame. Fla
+- [Stickhero Love Stickgirl](../games/action/stickhero-love-stickgirl.md) — Stickhero, the bat man, must carefully move through the dangerous laboratory and find the golden key. After finding the 
+- [Stickjet Challenge](../games/action/stickjet-challenge.md) — Dodge the obstacles on the way and collect all the stars you find in order to complete the game like a king. Have fun! G
+- [StickJet Parkour](../games/action/stickjet-parkour.md) — You and your friend have to survive in the stickman world first and you have to be very careful. Fly high using the jetp
+- [StickJet Parkour](../games/action/stickjet-parkour-2.md) — Soar through treacherous landscapes with a jetpack in StickJet Parkour. Test your reflexes and strategy as you dodge rot
+- [StickJump](../games/action/stickjump.md) — StickJump is a high-speed reflex game where you control a stick figure running around an endless circle. But dont be com
+- [Stickman Adventure](../games/action/stickman-adventure-2.md) — A new one has been added to stickman games. This is Stick War: New Age. The stick fighting game opens to you the doors o
+- [StickMan Angle Fight](../games/action/stickman-angle-fight.md) — Weapons at the ready, and away we go! This is Angle Fight 3D, and it&rsquo;s to you to fight the enemies and win the gam
+- [Stickman Archer](../games/action/stickman-archer.md) — Stickman decides to test his own skills and pass the tests, consisting in marksmanship, allowing you to hit targets, whi
+- [Stickman Archer 4](../games/action/stickman-archer-4.md) — Another stickman game in which the player has three game modes. In the first, you need to shoot from a bow at moving and
+- [Stickman Archero Fight](../games/action/stickman-archero-fight-2.md) — Jump into the unpredictable world of Stickman Archero Fight, where every object can be your weapon. Strategically fend o
+- [Stickman Armed Assassin 3D](../games/action/stickman-armed-assassin-3d.md) — Stickman Armed Assassin! Get ready for big shootout! Become the best stickmen! This game contains lots of blood and kill
+- [Stickman Army 2](../games/action/stickman-army-2.md) — The most epic stickman war game is now available. Enter the arena and contest the fearless army as-sault! Join the campa
+- [Stickman Army Battle](../games/action/stickman-army-battle.md) — The most strategic stickman war game is now available. Play now to : " Stickman Army : Team Battle ". You must lead your
+- [Stickman Army : Team Battle](../games/action/stickman-army-team-battle.md) — The most strategic stickman war game is now available.Play now to : " Stickman Army : Team Battle ". You must lead your 
+- [Stickman Army : Team Battle-3](../games/action/stickman-army-team-battle-3.md) — The most strategic stickman war game is now available. Play now to : " Stickman Army : Team Battle ". You must lead your
+- [Stickman--Army The Defenders](../games/action/stickman-army-the-defenders-2.md) — Lead your stickman army in intense battles, combining quick reflexes and strategic prowess. Defend your base, manage res
+- [Stickman Arrow Battle](../games/action/stickman-arrow-battle.md) — Dive into Stickman Arrow Battle's thrilling archery combat, where precision and strategy are your best allies. Master sm
+- [Stickman Attack](../games/action/stickman-attack.md) — Hordes of stickman, wave by wave trying to wear you down, waiting for your first mistake. You as the chosen stick guy sh
+- [Stickman Backflip Killer](../games/action/stickman-backflip-killer.md) — Destroy stickmans using your parkour skill, weapons and epic slowmotion effects Upgrade your outfit and parkour skills, 
+- [Stickman Bam Bam Bam](../games/action/stickman-bam-bam-bam-2.md) — Engage in thrilling pixelated battles against relentless zombie hordes in Stickman Bam Bam Bam. Precision headshots are 
+- [Stickman Battle 1-4 Players](../games/action/stickman-battle-1-4-players.md) — Dive into fast-paced stickman mayhem where each round offers different thrills, from intense battles with spinning weapo
+- [Stickman Blast](../games/action/stickman-blast.md) — Merge identical stickmen to unlock powerful warriors and mages! Lead your squad to auto-battle against giant chickens, m
+- [Stickman Blast](../games/action/stickman-blast-2.md) — Survive waves of relentless enemies as a lone stickman warrior in Stickman Blast. Armed with only a sword and quick refl
+- [Stickman Blockworld Parkour 2](../games/action/stickman-blockworld-parkour-2.md) — stickman guys need to survive in the world of blocks two brothers stikmans have to go to the portal and get rid of them.
+- [Stickman Blockworld Parkour 2](../games/action/stickman-blockworld-parkour-2-2.md) — Navigate a dynamic block world as two stickman brothers in a fast-paced parkour adventure. Master timing and strategy to
+- [Stickman Boxing KO](../games/action/stickman-boxing-ko.md) — Welcome to the online game Stickman Boxing KO Champion. This is a free Sport Game. You're not a boxing expert? Don't wor
+- [STICKMAN BOXING KO CHAMPIAN](../games/action/stickman-boxing-ko-champian.md) — You like boxing games and stickman games? This game is made for you! Enter the ring and play as an heroic Stickman Boxer
+- [Stickman Brothers Nether Parkour](../games/action/stickman-brothers-nether-parkour.md) — 4 stickman brothers survival battle. 4 must survive in front of him. You have to help them in the nether world full of o
+- [Stickman Brothers Nether Parkour](../games/action/stickman-brothers-nether-parkour-2.md) — Navigate the perilous nether world with four stickman brothers in a high-stakes parkour adventure. Strategize and move f
+- [Stickman Bunny Hop Tricks](../games/action/stickman-bunny-hop-tricks.md) — Complete levels and do parkour tricks in Stickman Bunny Hop Tricks. Jump over obstacles, climb ledges, get to the portal
+- [Stickman City Battle](../games/action/stickman-city-battle.md) — Enjoy Incredible Monster Stickman Rope hero fantastical massive city destruction with angry stickman incredible monster 
+- [Stickman Collect Run](../games/action/stickman-collect-run-2.md) — Embark on a lively parkour journey in Stickman Collect Run, where you leap, slide, and sprint to gather vibrant companio
+- [Stickman Curve City](../games/action/stickman-curve-city.md) — Curve City Stickman is a 3D stickman running game and your mission is to reach the finish line without getting hit by ob
+- [Stickman Death Run](../games/action/stickman-death-run-2.md) — Navigate a perilous pixelated world as the swift stickman in Stickman Death Run. Evade devious traps with intuitive cont
+- [StickMan Defense](../games/action/stickman-defense.md) — Dive into the thrilling world of StickMan Defense, a captivating game where strategy meets action. In this game, players
+- [Stickman Doodle Epic Rage](../games/action/stickman-doodle-epic-rage.md) — Stickman Doodle Epic Rage is fun and addictive beatemup game with realistic physics and hardcore gameplay. With simple c
+- [Stickman Doodle Epic Rage](../games/action/stickman-doodle-epic-rage-2.md) — Stickman Doodle Epic Rage invites players into a world of animated stick figures fueled by fury. Engage in thrilling, si
+- [Stickman Dragon Fighting](../games/action/stickman-dragon-fighting.md) — Stickman Dragon Fight is an action-packed game where players control power heroes battling evil. Master dodging, blockin
+- [Stickman Dragon Legend Super Battle Fight](../games/action/stickman-dragon-legend-super-battle-fight.md) — ◎ Origine Manga Hero. ◎ Remove advertising . ◎ Get more reward , easy to fight and more Powerful Hero Form. ◎◎◎ Stickman
+- [Stickman Duel Battle](../games/action/stickman-duel-battle.md) — A fun war game begins with Stick War: Infinity Duel. Grab the gun falling from the air, aim and kill the enemy stickman.
+- [Stickman Epic](../games/action/stickman-epic.md) — Embark on an epic journey as a heroic stickman! Choose from three unique characters, upgrade their armor, and tackle cun
+- [Stickman Epic Battle](../games/action/stickman-epic-battle.md) — Medieval themed stickman defense game with lots of action.
+- [Stickman Epic Fall](../games/action/stickman-epic-fall.md) — Dive into Stickman Epic Fall, a thrilling adventure where ragdoll physics and freefalling collide. Strategically plummet
+- [Stickman Escape Parkour](../games/action/stickman-escape-parkour.md) — Scientists produce racers with special abilities to use in running races. Get out of the lab with these racers! There wi
+- [Stickman Fight](../games/action/stickman-fight.md) — Do you like fighter games? Do you enjoy stickman games? Are you ready for the stick fight extreme Stickman Fight?? The h
+- [Stickman Fight Battle - Shadow Warriors](../games/action/stickman-fight-battle-shadow-warriors.md) — Supreme Stick Warriors - Shadow of Legends is a physic-based stickman fighting game. Fighting against other stickmans to
+- [Stickman: Fighter 3D](../games/action/stickman-fighter-3d.md) — Enter the arena in Hamada Yedrab Stickman Fighter 3D Experience the classic stickman combat you love, now in a stunning 
+- [Stickman Fighter: Epic Battle](../games/action/stickman-fighter-epic-battle.md) — You like fighting games and stickman games? Then this game was made for you! Enter the arena and play as a heroic Stickm
+- [Stickman Fighter Epic Battle](../games/action/stickman-fighter-epic-battle-2.md) — Unleash your combat prowess in Stickman Fighter Epic Battle, where speed and strategy reign supreme. Engage in relentles
+- [Stickman Fighter Infinity - Super Action Heroes](../games/action/stickman-fighter-infinity-super-action-heroes.md) — Stickman Fighter Infinity - Super Action Heroes is a free-to-play stickman fighting game. All you need to do to role-pla
+- [Stickman Fighter : Mega Brawl](../games/action/stickman-fighter-mega-brawl.md) — STICKMAN FIGHTER MEGA BRAWL is the best stickman action game. Fight against other Stickmen, warriors and epic Stick Boss
+- [Stickman Fighter Mega Brawl](../games/action/stickman-fighter-mega-brawl-2.md) — Endless stickman battles await in Stickman Fighter Mega Brawl, where your timing and reflexes are vital. Master the rhyt
+- [Stickman Fighter: Space War](../games/action/stickman-fighter-space-war.md) — You are the legend of the village of Stickman Legend, the only force able to withstand and defeat the oncoming waves of 
+- [Stickman Fighter Training](../games/action/stickman-fighter-training.md) — You like fighting games and stickman games? This game is made for you! Train to be the fastest stickman fighter in the w
+- [Stickman Fighter Training Camp](../games/action/stickman-fighter-training-camp.md) — You like fighting games and stickman games? This game is made for you! Train to be the fastest stickman fighter in the w
+- [Stickman Fighting](../games/action/stickman-fighting.md) — Engage in fierce 2.5D battles where mastery of combos and timing is key. Choose your stickman champion, overcome diverse
+- [Stickman Fighting 2 Player](../games/action/stickman-fighting-2-player.md) — Stickman Fighting 2 Player! A fun, addictive and Multiplayer warriors with realistic Ragdoll physics games. Test your wa
+- [Stickman Fighting 3D](../games/action/stickman-fighting-3d.md) — Time for the stickmen to fight! Choose from many 3D characters, and kill your enemy! - 3D graphics and locations - Reali
+- [Stickman Fights](../games/action/stickman-fights.md) — Play now our new game Stickman Fights Online !! An epic battle arrives between the little stickmans who are determined t
+- [Stickman Ghost Online](../games/action/stickman-ghost-online.md) — Play Stickman Ghost Online for free at kiz10.com, an excellent exclusive game full of action, this time you can play to 
+- [Stickman Gradient](../games/action/stickman-gradient.md) — Stickman Gradient is an amazing stickman running game. Your mission in this game; Avoiding obstacles while running throu
+- [Stickman Gun - Less Fighting](../games/action/stickman-gun-less-fighting.md) — Engage in slapstick battles where stickmen brawl without firearms! Unleash a flurry of punches, kicks, and creative atta
+- [Stickman Heel Runner](../games/action/stickman-heel-runner.md) — Embark on an adrenaline-pumping adventure in Stickman Heel Runner! Navigate treacherous obstacles, sprint through challe
+- [Stickman Hero Fight](../games/action/stickman-hero-fight.md) — Stickman Hero Fight - Super Action Heroes is a free-to-play stickman fighting game. All you need to do to role-play as h
+- [Stickman: Hooks](../games/action/stickman-hooks.md) — Get ready to swing into action with Stickman: Hooks! Tap to hook, make incredible jumps, and execute perfect acrobatic t
+- [Stickman Huggy Party Duo](../games/action/stickman-huggy-party-duo.md) — Red and Blue Huggy Stickmen need to work together to escape the terrifying temple prison. They must find the key and rea
+- [Stickman Jump](../games/action/stickman-jump.md) — Stickman Jump is a fast-paced platformer in which you have to jump and run across platforms with a little stickman. You 
+- [Stickman Jungle Escape](../games/action/stickman-jungle-escape.md) — Stickman tried to escape from the jungle and their enemy don't want him there - he could be stealing all the secrets! Hi
+- [Stickman Kart Hero](../games/action/stickman-kart-hero.md) — Stickman Kart Hero is a free physics game. See how far you can fling your cart without dying! Its almost like seeing how
+- [Stickman Killing Zombie 3D](../games/action/stickman-killing-zombie-3d.md) — Slice through hordes of relentless zombies in chaotic 3D streets as a nimble stickman and his bird companion. With a wid
+- [Stickman Kombat 2D](../games/action/stickman-kombat-2d.md) — Get ready to dive into a thrilling world of adrenaline-fueled combat, precise combos, and intense stickman fights in Sti
+- [stickman kombat 2d](../games/action/stickman-kombat-2d-2.md) — Stickman Kombat 2D is a fast-paced fighting game where you battle stickman warriors in intense 1v1 arena combat. Choose 
+- [Stickman Legends: Shadow Of War Fighting Games](../games/action/stickman-legends-shadow-of-war-fighting-games.md) — ragon Shadow Battle : Super Hero Legend officially debuted as a major event on the world. The best combat action game of
+- [Stickman Master Bow](../games/action/stickman-master-bow.md) — Be an Archer Hero (Arc-hero) and join the battle. Fight enemies, shoot 'em up and become an archer legend.
+- [Stickman maverick : bad boys killer](../games/action/stickman-maverick-bad-boys-killer.md) — You are the ultimate stickman soldier and your mission is to kill all the bad boys. To achieve your goal, you will have 
+- [Stickman Neon Sword Fighting](../games/action/stickman-neon-sword-fighting.md) — Unleash your inner neon warrior in this futuristic stickman battle! Armed with a cyber sword, navigate through a vibrant
+- [Stickman Neon Warriors: Sword Fighting](../games/action/stickman-neon-warriors-sword-fighting.md) — You’re the Neon Sword Fighting Stickman: Fight the hacker warriors! It is the hacking war of 9999AD - in Stickman Neon W
+- [Stickman Ninja Way of the Shinobi](../games/action/stickman-ninja-way-of-the-shinobi.md) — Stickman - Ninja from the clan of Black Panthers enters the battle. Help him drive the invaders out of his house! Defeat
+- [StickMan Parkour 2](../games/action/stickman-parkour-2.md) — Here is another Version of Stickman Parkour Games. Your mission is to run and jump to reach the the door to unlock the n
+- [Stickman Parkour 3](../games/action/stickman-parkour-3.md) — Stickman Parkour Vol3 Your mission is to run , And Climb walls to reach the the door to unlock the next level. Be carefu
+- [Stickman parkour craft](../games/action/stickman-parkour-craft.md) — Stickman will have to go through parkour skyblock, and overcome all obstacles on his way! Each level complicates this ta
+- [Stickman Parkour Speed 2020](../games/action/stickman-parkour-speed-2020.md) — Ready for Stick man Parkour Speed 2020 ? Well you will have to parkour 100 levels with players Ai. Is fun to run up to b
+- [Stickman Parkours](../games/action/stickman-parkours.md) — Welcome to Stickman Parkour, A new Running and jumping Game you'll face challenging levels filled with devious traps onc
+- [Stickman Party Parkour](../games/action/stickman-party-parkour.md) — Stickman Party, a game that you can play with your 4 friends, is played in 2 groups of 2 people. Together with your frie
+- [Stickman Party Parkour](../games/action/stickman-party-parkour-2.md) — Join your friends in Stickman Party Parkour for a thrilling cooperative adventure. Navigate treacherous cliffs and dodge
+- [Stickman Peacekeeper](../games/action/stickman-peacekeeper.md) — The main goal of the hero is to kill numerous enemies that attack him, for this, he can use bombs and shoot at them from
+- [Stickman Picker Master](../games/action/stickman-picker-master.md) — Stickman Picker Master is a stickman running game where you try to collect balls of the same color while speeding on a t
+- [Stickman Police VS Gangsters Street Fight](../games/action/stickman-police-vs-gangsters-street-fight.md) — Be a police stickman hero in city battle as a stickman fighting super hero. The battle starts against stickman gangster 
+- [Stickman Race](../games/action/stickman-race.md) — Stickman Race 3D is New Race 3D Game with Opponent Stickman Players , Run , Jump, Race, Perform Stunts to Won the Race w
+- [Stickman Races 3D](../games/action/stickman-races-3d.md) — Stickman Race 3D is New Race 3D Game with Opponent Stickman Players , Run , Jump, Race, Perform Stunts to Won the Race w
+- [Stickman Reach](../games/action/stickman-reach.md) — Guide your stickman across precarious platforms by constructing perfectly sized bridges. With intuitive controls and min
+- [Stickman Run](../games/action/stickman-run.md) — Stickman Run - is a highly addictive game where you have to help the stickman run and jump over obstacles!
+- [Stickman run around](../games/action/stickman-run-around.md) — Ever feel like you’re just a little stickman caught up in the vicious circle of life? No? Well, now you will.All you got
+- [Stickman Run Parkour](../games/action/stickman-run-parkour.md) — Welcome to Stickman Run, A new Stickman running parkour Game . you'll face challenging levels filled with devious traps 
+- [Stickman Run: Shadow Adventure](../games/action/stickman-run-shadow-adventure.md) — Once upon a time, in where colors was disappear and the light is dying. The stickmans are just alive as shadows in a Dar
+- [Stickman Shadow Fighter](../games/action/stickman-shadow-fighter.md) — Play stickman hero robbing superhero gangster crime city. Tie your shoelaces to become the stickman hero in gangster cit
+- [Stickman Shadow Ninja Force](../games/action/stickman-shadow-ninja-force.md) — The little ninja is starting his training. Help him to pass 30 levels, one harder than the other. They are thorns, obsta
+- [Stickman Skyblock Parkour](../games/action/stickman-skyblock-parkour.md) — The twin sister stickmans in red and blue want to reach the portal at the finish line. help them and get them to the por
+- [Stickman Skyblock Parkour](../games/action/stickman-skyblock-parkour-2.md) — Guide the red and blue stickman siblings through perilous sky-high platforms in Stickman Skyblock Parkour. Master dual c
+- [Stickman Slope](../games/action/stickman-slope.md) — Stickman Slope is a running game set in the streets of a city. To be successful, you have to avoid the obstacles that co
+- [StickMan Snow Fight](../games/action/stickman-snow-fight.md) — Welcome to Stickman-Snow Fight Move Up and Down to Dodge enemies snow balls. Collect snow balls and tap space to throw t
+- [Stickman Space Fighter](../games/action/stickman-space-fighter.md) — Join an intergalactic battle as a stickman ace in "Stickman Space Fighter," piloting a neon spaceship through space. Eng
+- [Stickman Squid Games](../games/action/stickman-squid-games.md) — Stickman squid games is a new survival game. Be as fast as possible. Watch out for the giant doll. That doll shoots anyt
+- [Stickman Steve vs Alex Nether](../games/action/stickman-steve-vs-alex-nether-2.md) — Venture with Stickman Steve and Alex through a pixelated Netherworld teeming with danger. Navigate treacherous terrain, 
+- [Stickman Street Fight](../games/action/stickman-street-fight.md) — Stickman: Street battle is a rather unusual fighting game in which control is carried out with only two buttons. To pass
+- [Stickman Street Fighter 3D](../games/action/stickman-street-fighter-3d.md) — It is time to fight in kz10 !! Choose your favorite stickman and perform awesome combos to take the opponents down! Even
+- [Stickman Street Fighting](../games/action/stickman-street-fighting.md) — Stickman!!! Fight through the street levels and defeat the enemy stick fighters! Collect weapons such as melee weapons ,
+- [Stickman Street Fighting 3D](../games/action/stickman-street-fighting-3d.md) — Get ready to dominate the streets as a fearless stickman in Stickman Street Fighting 3D! This intense brawler challenges
+- [stickman strike: shadow warriors](../games/action/stickman-strike-shadow-warriors.md) — Stickman Warriors - Super Dragon Shadow Fight best fighting action role-playing game on Google Play. This fighting game 
+- [Stickman Team Force 2](../games/action/stickman-team-force-2.md) — A new Adventure begins in DobCorp Special ces called Stickman Team Force are recruited to bring order to the world, wher
+- [Stickman Temple Wars](../games/action/stickman-temple-wars.md) — Hours of fun begin with the Stickman Temple Duel game. "Story mode", "2Player" and "Etc.You can play the game that offer
+- [Stickman The Flash](../games/action/stickman-the-flash.md) — Stickman The Flash is a fighting RPG arcade game with 2D stickman warriors. In the Survival Mode, you need to survive as
+- [Stickman The Flash](../games/action/stickman-the-flash-2.md) — Dive into the dynamic chaos of Stickman The Flash, where rapid reflexes and strategic weapon choices fuel your survival 
+- [Stickman Upgrade Battle](../games/action/stickman-upgrade-battle.md) — Unleash your strategic prowess in Stickman Upgrade Battle! Guide a spirited stickman through thrilling confrontations, o
+- [Stickman vs Monster School](../games/action/stickman-vs-monster-school.md) — Command a bold stickman through monster school in this thrilling action-platformer. Arm yourself with diverse weapons, s
+- [Stickman vs Noob Hammer](../games/action/stickman-vs-noob-hammer.md) — hey you player! Have you ever moved with a friend using just a hammer? you even have to use a hammer to do it back and f
+- [Stickman vs Zombies Minecraft](../games/action/stickman-vs-zombies-minecraft.md) — Stickman vs Zombies Minecraft is an action-adventure platform game in which you can play as a brave stick ninja. When yo
+- [Stickman War Multiplayer](../games/action/stickman-war-multiplayer.md) — Enter a lively paper universe in Stickman War Multiplayer, where strategy meets frenetic action. Choose from diverse sti
+- [Stickman Warriors](../games/action/stickman-warriors.md) — Unleash your inner stickman hero in Stickman Warriors, a thrilling fighting RPG. Ascend the ranks by mastering combat ag
+- [Stickman Warriors - Super Dragon Shadow Fight](../games/action/stickman-warriors-super-dragon-shadow-fight.md) — DRAGON BALL LEGENDS is the ultimate DRAGON BALL experience on your mobile device! This DB anime action RPG game features
+- [Stickman Warriors Superhero Fight](../games/action/stickman-warriors-superhero-fight.md) — Stickman Warriors Superhero Fight delivers fast-paced battles where every dodge, combo, and special move creates an exci
+- [Stickman Wick](../games/action/stickman-wick.md) — The ruthless Stickman Wick must get his best friend back! To do this, he is ready to use his entire arsenal and brutal f
+- [stickmen Color Run Switch](../games/action/stickmen-color-run-switch.md) — Welcome to the Stickman Run! Colorful game that will keep you on your toes till the very end! Grow, Fight, and Win! Swit
+- [StickNinja Mission](../games/action/stickninja-mission.md) — Enter a fast-paced 2D platform adventure where every level is filled with danger! Control your ninja, defeat monsters in
+- [StickSoldier2](../games/action/sticksoldier2.md) — Stick Soldier is an online game that you can play in modern browsers for free. Stick Soldier Online is in the category o
+- [Sticky Ball Rush](../games/action/sticky-ball-rush.md) — Sticky Ball Rush is an attractive game for all ages to play. Just tap the screen to control the machine to go ahead. Col
+- [Stitch Jump Game](../games/action/stitch-jump-game.md) — Embark on a vibrant island adventure with Stitch and Angèle! Perfect your timing in this addictive jumping escapade; lea
+- [Stone Age Defenders](../games/action/stone-age-defenders.md) — Enter the prehistoric realm of Stone Age Defenders, a gripping tower defense adventure! Strategically build and upgrade 
+- [stone city heroes test](../games/action/stone-city-heroes-test.md) — stone city
+- [Stray](../games/action/stray.md) — Stray lives in a small fairy-tale town. Let's run with him, who will run further?
+- [Street Fight 3D](../games/action/street-fight-3d.md) — You are welcome to fight for your survival in this epic game. Goons up your alley, save yourself by beating some thugs a
+- [Street Fight : Beat Em Up](../games/action/street-fight-beat-em-up.md) — Street Fight : Beat Em Up is an epic fighting game where a hero rises to end the war for shadow energy. Choose your side
+- [Street Fight King of the Gang](../games/action/street-fight-king-of-the-gang.md) — Knock-out all your ennemies to be the king of the gang ! A new fighting game is available for all gangsters! You must fi
+- [Street Fight Match](../games/action/street-fight-match.md) — Street Fight Match is a classic casual puzzle game, with classic elimination gameplay, enjoy! Eliminating the same color
+- [Street Fight Rage](../games/action/street-fight-rage.md) — Street Fight Rage Games is a game of boxing and karate you will Have to fight against the gangsters of the city by apply
+- [Street Fight Space Station](../games/action/street-fight-space-station.md) — Have you ever longed to be a legendary ninja in a video game or fight in the universe wars? Take part in an entirely new
+- [Street Fighter 2](../games/action/street-fighter-2.md) — Street Fighter 2 is a classic fighting game featuring the epic Ryu vs Sagat fight. Use a combination of hadoukens and sh
+- [Street Fighter 2 Endless](../games/action/street-fighter-2-endless.md) — Street Fighter 2 Classic Endless survival Edition. Most famous retro and arcade machine fighting game.Street Fighter cha
+- [Street Fighter IV Champion Edition](../games/action/street-fighter-iv-champion-edition.md) — Street Fighter IV Champion Edition The real street fighting challenge & action fighting game is a classic free fighting 
+- [Street Fighter Online Game](../games/action/street-fighter-online-game.md) — Street Fighter Online Game is a free to play fighting game full-of-fighting features and epic battles. Play the best com
+- [Street Fist](../games/action/street-fist.md) — A fast-paced arcade game about a fighter caught in the middle of a street showdown. Enemies approach from the left and r
+- [Street Justice](../games/action/street-justice.md) — Street Justice immerses you in a chaotic city, challenging you to become its savior. This exhilarating shooter-platforme
+- [Street Lift To Heaven](../games/action/street-lift-to-heaven.md) — Street Lift To Heaven offers a thrilling ascent through increasingly perilous obstacles and traps. Master timing and dex
+- [Street Mayhem: Beat Em Up](../games/action/street-mayhem-beat-em-up.md) — Street Mayhem - Beat 'Em Up game invites you to a long adventure. You struggle with bad guys and mutants in different pl
+- [Street Of Gangs 2D](../games/action/street-of-gangs-2d.md) — A fun and excellent vintage fighting action game, Gang Street Fighting 2D allows you to show off your specific combat te
+- [Street Runner](../games/action/street-runner.md) — a funny game in which you play as a goof) Your task is to escape from the bandit, to collect a lot of coins and jump ove
+- [Street War](../games/action/street-war.md) — StreetWar is a street action game where you choose a character with unique skills and enter intense battles. Each warrio
+- [Street War](../games/action/street-war-2.md) — Dive into the chaos of urban combat with Street War. Choose your fighter, master their unique skills, and outsmart rival
+- [Streets Of Anarchy: Fists Of War](../games/action/streets-of-anarchy-fists-of-war.md) — There is too much crime in the streets. It's your duty as a hero to stop them! Clean up the streets and stop the villain
+- [Streets Of Rage](../games/action/streets-of-rage.md) — The streets are disrupted and the forces of evil are at work. Enjoy an arcade-style street brawler in Streets Of Rage. C
+- [Streets of Rage](../games/action/streets-of-rage-2.md) — Dive into the chaos of Streets of Rage, an adrenaline-fueled brawler. Master devastating combos and special moves as you
+- [Strong Fighter](../games/action/strong-fighter.md) — Fight your opponent and destroy him with your ultimate punch! In this action role playing game you can chose your strate
+- [Strumble Run Fall Colors](../games/action/strumble-run-fall-colors.md) — Embark on a thrilling adventure in Strumble Run Fall Colors, where every twist and turn tests your reflexes. Guide a rol
+- [Stumble Boys: Party Royale](../games/action/stumble-boys-party-royale.md) — Stumble Boys Party Royale is an exciting multiplayer party royale game where you compete across a collection of chaotic 
+- [Stumble Man - Ragdoll Platformer](../games/action/stumble-man-ragdoll-platformer.md) — Guide an endearingly clumsy ragdoll through tricky levels packed with obstacles and jumps. Master the art of timing in a
+- [Subway Buddy Road Runner](../games/action/subway-buddy-road-runner.md) — Play Addictive Subway Buddy Road Runner Free Game. ** PLAY ** +Drag left,right to change the Road Lane +Drag up to jump 
+- [Subway Bunny Run Rush Rabbit Runner Game](../games/action/subway-bunny-run-rush-rabbit-runner-game.md) — Super Rabbit run!!! is a simple and addictive adventurous run game with simple controls. Our game bunny run is mischievo
+- [Subway Jackie Runner 3D](../games/action/subway-jackie-runner-3d.md) — As more you will play enjoy subway ride you will collect more coins animating on the subway kiddy track for free. Later 
+- [Subway Patrol Games](../games/action/subway-patrol-games.md) — Subway Pups Patrol Superheros Run is a New free 3D Endless Run game 2021. Our pups Patrol has been locked away in the An
+- [Subway Princess Run](../games/action/subway-princess-run.md) — Join the thrilling world of Subway Princess Run, where quick reflexes and precise timing are key. Navigate through vibra
+- [Subway Princess Runner](../games/action/subway-princess-runner.md) — Subway princess runner, Bus run, forest rush with addictive endless running game! Rush as fast as you can, dodge the onc
+- [Subway Rabbit](../games/action/subway-rabbit.md) — Subway Rabbit Run, jump, duck and swerve your bunny through the forest at full hopping speed! Collect gems to earn upgra
+- [Subway Run Rush Game 3D](../games/action/subway-run-rush-game-3d.md) — Run as fast as you can and dodge the trains or buses that are about to collide with you. Be careful of the rolling logs 
+- [Subway Runner](../games/action/subway-runner.md) — Enter the railway! Run as far as you possibly can, evade obstacles of the railway and finish all the achievements in an 
+- [Subway Santa Runner Christmas](../games/action/subway-santa-runner-christmas.md) — Subway Santa Endless Surf Runner is a fantastic subway escape endless runner Game! Addictive for both kids and grown-ups
+- [Subway Squid Game 3D - Subway Runner](../games/action/subway-squid-game-3d-subway-runner.md) — Welcome to Squid Game 3D. Welcome to a fair game of Red lights, green lights. Whoever wins this game will win a lot of c
+- [Subway Superhero Robot Endless Run](../games/action/subway-superhero-robot-endless-run.md) — Subway Superhero Robot Endless Run is an endless robot running game, Run through the craziest roads in the City and get 
+- [Subway Surf 2](../games/action/subway-surf-2.md) — Subway Surf 2 is an endless runner game. As the hooligans run, they grab gold coins out of the air while simultaneously 
+- [Subway Surfer 3d](../games/action/subway-surfer-3d.md) — Subway Surfers World Tour: Havana is the fifty-sixth edition in the World Tour series and the sixty-first version in Sub
+- [Subway Surfer Bali](../games/action/subway-surfer-bali.md) — Ready for a new adventure in Subway Surfers Bali? Get down into the subway and don't let the grumpy inspector grab you. 
+- [Subway Surfer Beijing](../games/action/subway-surfer-beijing.md) — Subway Surfers World Tour: Beijing is the eighth installment in the Subway Surfers World Tour series and the thirteenth 
+- [Subway Surfer Endless Run](../games/action/subway-surfer-endless-run.md) — Subway Surfers World Tour Tokyo - continuation of adventures of favourite heroes in exotic India. Picturesque streets of
+- [Subway Surfer Hong Kong](../games/action/subway-surfer-hong-kong.md) — Subway surfers in Hong Kong! The guys intend to fully break away in this Chinese metropolis, arranging an incredible adv
+- [Subway Surfer Monaco](../games/action/subway-surfer-monaco.md) — Subway Surfers World Tour: Monaco is the fifty-sixth edition in the World Tour series and the sixty-first version in Sub
+- [Subway Surfer Runner](../games/action/subway-surfer-runner.md) — Bus Rush is a fantastic running game for Android devices that is free to play. Bus Rush City is a game where you must na
+- [Subway Surfer San Francisco](../games/action/subway-surfer-san-francisco.md) — Subway Surfers World Tour: San Francisco 2019 is the hundredth update of Subway Surfers and the ninety-fifth installment
+- [Subway Surfer Seoul](../games/action/subway-surfer-seoul.md) — Descend into the subway and head towards a new adventure in the endless runner Subway Surfers: Seoul! Dodge obstacles, t
+- [Subway Surfer Singapore](../games/action/subway-surfer-singapore.md) — Subway Surfers World Tour: Singapore is the fifty-seven edition in the World Tour series and the sixty-second version in
+- [Subway Surfer Zurich](../games/action/subway-surfer-zurich.md) — Subway Surfers World Tour: Zurich 2020 is the one hundred twenty-first update of Subway Surfers and the one hundred fift
+- [Subway Surfers Amsterdam](../games/action/subway-surfers-amsterdam.md) — Subway Surfers World Tour: Amsterdam is the fifty-sixth edition in the World Tour series and the sixty-first version in 
+- [Subway Surfers Barcelona](../games/action/subway-surfers-barcelona.md) — Subway Surfers World Tour: Barcelona is the fifty-sixth edition in the World Tour series and the sixty-first version in 
+- [Subway Surfers Berlin](../games/action/subway-surfers-berlin.md) — Just move right or left and make more coins.
+- [Subway Surfers Buenos Aires](../games/action/subway-surfers-buenos-aires.md) — The Subway Surfers World Tour goes to stunning Buenos Aires! - Experience unique architecture and dazzling beaches - Tea
+- [Subway Surfers Havana](../games/action/subway-surfers-havana.md) — Subway Surfers World Tour: Havana is the fifty-sixth edition in the World Tour series and the sixty-first version in Sub
+- [Subway Surfers Havana 2021](../games/action/subway-surfers-havana-2021.md) — Don't let the grumpy inspector and his dog grab you in Subway Surfers Havana! Traveling along the city subway, you will 
+- [Subway Surfers Houston](../games/action/subway-surfers-houston.md) — Subway Surfers World Tour: Houston 2021 is the one hundred twenty-first update of Subway Surfers and the one hundred fif
+- [Subway Surfers London](../games/action/subway-surfers-london.md) — Snowy London is waiting for you! Go down the city subway and start playing Subway Surfers New Years London! Run as far a
+- [Subway Surfers New Orleans](../games/action/subway-surfers-new-orleans.md) — Welcome to New Orleans! Ready to take a city subway journey and enjoy the beauty of the city ahead of Halloween? Run as 
+- [Subway Surfers Orleans](../games/action/subway-surfers-orleans.md) — Control in the game on the computer is carried out using the arrows, space - to activate the skate. The object of the ga
+- [Subway Surfers Runners - The Best Running Games](../games/action/subway-surfers-runners-the-best-running-games.md) — The lost jungle, the dark forest, the magic castle, and the mysterious dungeon, how far can you run? Run Dungeon Run! Is
+- [Subway Surfers Saint Petersburg](../games/action/subway-surfers-saint-petersburg.md) — Ready for a new adventure in Subway Surf St. Petersburg? Get down into the subway and don't let the grumpy inspector gra
+- [Subway Surfers St. Petersburg](../games/action/subway-surfers-st-petersburg.md) — Ready for a new adventure in Subway Surf St. Petersburg? Get down into the subway and don\\\\\\\\\\\\\\t let the grumpy 
+- [Subway Surfers Venice](../games/action/subway-surfers-venice.md) — Ready for a new adventure in Subway Surfers Venice? Get down into the subway and don't let the grumpy inspector grab you
+- [Subway Surfers Wonderland](../games/action/subway-surfers-wonderland.md) — Welcome to the new subway surfers Wonderland Version. Run and collect gold. Jump over trains. Slide under obstacles. Exp
+- [subway walker](../games/action/subway-walker.md) — Subway Runner 3D is a high-speed, adrenaline-pumping endless runner set in a vibrant cyberpunk city. Take control of a d
+- [Sugar Blast: Snowy Pop](../games/action/sugar-blast-snowy-pop-2.md) — Sugar Blast: Welcome to Snowy Pop! Join 125 thrilling levels filled with colorful candies, plan your moves, and put your
+- [Sugar Cookie Battle](../games/action/sugar-cookie-battle.md) — Play squid candy cookie honeycomb game and begin this adventurous gameplay of dalgona candy honeycomb cookie making 3d g
+- [Summer Juice Run](../games/action/summer-juice-run.md) — Summer Juice Run is a fun run game that turns a glass of juice into your runner! This casual parkour game combines quick
+- [Summer Punch Party](../games/action/summer-punch-party.md) — Summer Punch Party is a fast-paced first-person action game where you punch waves of enemies across sunny tropical islan
+- [Summer Rider 3D](../games/action/summer-rider-3d-2.md) — Hit the waves in Summer Rider 3D, a sun-soaked surf adventure inspired by high-speed endless runners. Glide over water o
+- [Sumo Battle!](../games/action/sumo-battle.md) — Sumo wrestlers break all the canons of the sport; they do not look slender, muscular and fit; on the contrary, they are 
+- [Sumo Fury](../games/action/sumo-fury.md) — Dive into the thrilling world of Sumo Fury, where you can acquire powerful wrestlers with superior stats and challenge r
+- [Sumo Party](../games/action/sumo-party.md) — How about some entertaining sumo wrestles with Huge Sumos game? You can play single or 2 Player modes in this game with 
+- [Sumo Showdown](../games/action/sumo-showdown.md) — Sumo Showdown immerses you in vibrant, sushi-themed sumo battles. Devour sushi to grow and overpower foes in thrilling s
+- [Sumo Smash!](../games/action/sumo-smash-2.md) — Enter the dynamic world of Sumo Smash!, where you wield your sumo's power to outmaneuver and overpower rivals in rapid e
+- [Sun and Moon](../games/action/sun-and-moon.md) — Fight your enemies in a war across many galaxies and constellations. In this game, you need to find the best strategy fo
+- [Sunny Spell](../games/action/sunny-spell.md) — Sunny Spell - is a game where a wizard has to jump and fall down from multiple platforms so that he is able to collect n
+- [SUPER AFRO BRO](../games/action/super-afro-bro.md) — play and have fun with this game in pure super mario bros style. complete the levels and rescue the princess with our he
+- [Super Archer](../games/action/super-archer.md) — Platform adventure and action game, where the archer must cross the monster valley, where he encounters many challenges.
+- [Super Archer Game](../games/action/super-archer-game.md) — Platform adventure / action game, where the archer must cross the monster valley, where he encounters many challenges. C
+- [Super Ball Platformer](../games/action/super-ball-platformer.md) — Guide a charming ball through delightful challenges in Super Ball Platformer. Collect stars to boost your score while do
+- [Super Ben 10](../games/action/super-ben-10.md) — Super Ben 10 a new kind of run game that you can play with one hand. You control ben by tapping as he constantly runs fo
+- [Super Billy](../games/action/super-billy.md) — Super Billy Boy and his friends decided to explore an unknown planet, but during the expedition, his friend Adduk was ab
+- [Super Billy Boy](../games/action/super-billy-boy.md) — Are you ready for an exciting adventure? Explore an unknown planet with Super Billy Boy and rescue all your friends who 
+- [Super Billy Boy](../games/action/super-billy-boy-2.md) — Embark on a thrilling journey with Super Billy Boy as you navigate a pixelated world filled with traps and alien foes. R
+- [Super Bino Jump Adventure Jungle Game‏](../games/action/super-bino-jump-adventure-jungle-game.md) — Super Bino Go, a totally new old school adventure game, will surprise you with the greatest adventure of Bino to the Won
+- [Super Boy Adventure Run](../games/action/super-boy-adventure-run.md) — Super Boy Adventure Run is a Super smooth control action unlike the other super world adventure games , arcade game in w
+- [Super Boy Jump](../games/action/super-boy-jump.md) — super Boy Jump is great infinite adventure game. Help the boy run as far as possible by jumping over all of the dangers.
+- [Super Buddy Kick](../games/action/super-buddy-kick.md) — The most exciting action game is back to help you relieve stress in an unconventional way. Choose from an arsenal of wea
+- [Super Cloner 3D](../games/action/super-cloner-3d-2.md) — Embark on a thrilling mission in Super Cloner 3D, where stealth meets strategy. Harness your cloning abilities to naviga
+- [Super Cowboy Run](../games/action/super-cowboy-run.md) — Super Cowboy Run, is a fascinating and beautiful game in which you must collect coins, lives, ammunition and kill monste
+- [Super Crazy World](../games/action/super-crazy-world.md) — + jungle adventure hit that is addicting, exhilarating, and challenging+ platform for jumping and running old school/obs
+- [Super Crowd](../games/action/super-crowd.md) — Navigate through vibrant chaos in Super Crowd, where every maneuver counts. Strategically grow your crowd while collecti
+- [Super Cubo](../games/action/super-cubo.md) — "Super Cubo" is a game about a cube that overcomes obstacles and collects coins in order to get special characters with 
+- [Super Defense Tank](../games/action/super-defense-tank-2.md) — Command your tank with precision in Super Defense Tank, a thrilling retro shoot-em-up. Navigate chaotic battlefields, un
+- [Super Dog Hero Dash](../games/action/super-dog-hero-dash-2.md) — Dash through a vibrant city as a heroic canine in Super Dog Hero Dash. Master your reflexes to jump, slide, and dodge ob
+- [Super Droid Adventure](../games/action/super-droid-adventure.md) — Super Droid Adventure is an arcade game where you help the little Robot to defeat a powerful boss that has destroyed his
+- [Super Droid Adventure](../games/action/super-droid-adventure-2.md) — Embark on a thrilling journey with Super Droid Adventure! Navigate treacherous traps and battle fierce enemies as a cour
+- [Super Fish Swim](../games/action/super-fish-swim.md) — Super Swim Fish game invites you to the world of fish! Take a fun jogging journey with your hero fish on the three-lane 
+- [Super Fist](../games/action/super-fist.md) — In Super Fist, become a superhero using your super-powered hand to vanquish grotesque monsters. Engage in fast-paced, st
+- [Super Frog Adventure](../games/action/super-frog-adventure-2.md) — Super Frog Adventure is a great platformer that takes you into the world of classic Super Mario style games. The game fe
+- [Super Fruit Runner - Hyper Casual](../games/action/super-fruit-runner-hyper-casual.md) — In this hyper casual runner game 🚀, you control fast-moving fruits and dodge obstacles to reach the finish line 🍏. Wit
+- [Super Hero Sponge](../games/action/super-hero-sponge.md) — Join the action-packed adventure with Super Hero Sponge! Embark on an epic journey as the brave sponge hero, battling ag
+- [Super Heroes Runner](../games/action/super-heroes-runner.md) — Collect diamonds without getting burned with superheroes!Try to unlock all the characters and don't touch the cars!
+- [Super Huggie Bros](../games/action/super-huggie-bros.md) — Enter in the Super Huggie bros world facing the mysterious islands, jump and run over the obstacles, and fight against s
+- [Super Jesse Pink](../games/action/super-jesse-pink.md) — Help Super Jesse Pink recover his power crystal by facing various monsters, ambushes and dangerous traps. Collect coins 
+- [Super Jumper](../games/action/super-jumper-2.md) — Leap into action with Super Jumper, an arcade thrill ride where you dodge, bounce, and blast through a graph-paper world
+- [super jungle adventure of heros](../games/action/super-jungle-adventure-of-heros.md) — new super jungle adventure platformer gam is a super classic adventure and legendary side-scrolling arcade platformer. H
+- [Super Jungle Adventures](../games/action/super-jungle-adventures.md) — Super Bino Go, a totally new old school adventure game, will surprise you with the greatest adventure of Bino to the Won
+- [Super Jungle Runner](../games/action/super-jungle-runner.md) — Today we will present the game Super Fox of the world: Jungle Adventure Run FREE, it is a wonderful adventure game in th
+- [Super Kid Adventure](../games/action/super-kid-adventure.md) — Hi there! It sounds like youre interested in playing Super Kid Adventure, an online game similar to Super Mario. To play
+- [Super Kiwi Adventure - 2021](../games/action/super-kiwi-adventure-2021.md) — Super Kiwi Adventure-It was a great sunny day. Kiro and his friends went for a walk and enjoyed the weather. Suddenly, t
+- [Super Knight](../games/action/super-knight.md) — Super Knight is a super fun and challenging 2D side-scroller game in the same style as blockbuster games like Super Mari
+- [Super Knight Adventure](../games/action/super-knight-adventure.md) — You in the game Super Knight Adventure will help your hero in this adventure. Your hero will have to walk along the road
+- [Super lol surprise dolls adventure run](../games/action/super-lol-surprise-dolls-adventure-run.md) — lol surprise dolls 's World - Super Adventure dolls run gives you the chance to step back in time to your childhood with
+- [Super Lule Mario](../games/action/super-lule-mario.md) — Super Lule is your new hero when it comes to latest platform games available freely online in html5, so get ready for a 
+- [Super Maksim World](../games/action/super-maksim-world.md) — Control Maxim in this classic little platformer game. A fun and challenging platformer game based on the greatest classi
+- [Super Mario and Sonic](../games/action/super-mario-and-sonic.md) — Join your friend Mario and Sonic in this fantastic adventure. Get the party started in this fantasy world and help your 
+- [Super Mario Bros Movie](../games/action/super-mario-bros-movie.md) — Super Mario Bros Movie is a side-scrolling 2D platform game with amazing fantasy adventure. It is the latest entry in th
+- [Super Mario City Run](../games/action/super-mario-city-run.md) — Super Mario City Run is a crazy running game Tap or Click to run and jump across the city. Collect coins and avoid falli
+- [Super Mario Classic](../games/action/super-mario-classic.md) — Super run is a classic platformer adventure game that is inspired by the very old platformer game. This super run advent
+- [Super Mario Coin Adventure](../games/action/super-mario-coin-adventure.md) — Super Mario Coin Adventure is a new kind of Mario game that you can play with one hand.You control Mario by tapping or m
+- [Super Mario Endless Run](../games/action/super-mario-endless-run.md) — Super Mario Endless Run is a great arcade game. Jump or duck to avoid the bullets. Stay alive as long time as possible a
+- [Super Mario Halloween Online](../games/action/super-mario-halloween-online.md) — Super Mario Halloween is a Mini game Super Mario version Halloween created by RC Imaginations. Find every exit and don't
+- [Super Mario Jump and Run](../games/action/super-mario-jump-and-run.md) — Welcome to Super Mario Jump and Run Amazing Arcade adventure game. Run as fast as you can and don't let the black monste
+- [Super Mario MineCraft Runner](../games/action/super-mario-minecraft-runner.md) — Amazing World of mario: Princess of wonderland is being kidnapped by the evil ghost and brought to the dark world.Help m
+- [super mario riders](../games/action/super-mario-riders.md) — Run and jump with style to rescue Princess Peach from Bowser’s clutches! Travel through plains, caverns, ghost houses, a
+- [Super Mario Run 2021](../games/action/super-mario-run-2021.md) — The New Super Mario 2021 is available now
+- [Super Mario Run 21](../games/action/super-mario-run-21.md) — Super Mario Run 21 is endless runner game.You have to avoid from obstacles and from your enemies while running. You can 
+- [Super Mario Run 3](../games/action/super-mario-run-3.md) — A new Mario game to master with one hand! In this game, Mario is constantly moving forward and you just need to touch th
+- [Super Mario Run - Lep's World](../games/action/super-mario-run-lep-s-world.md) — Super Mario Run - Lep's World, a totally new old-school adventure game, will surprise you with the greatest adventure of
+- [Super Mario Rush](../games/action/super-mario-rush.md) — Super Mario Rush, run with Mario and his friends to rescue princess. Tap the screen to jump amd make fantastical movemen
+- [Super Mario Wonder](../games/action/super-mario-wonder.md) — Super Mario Wonder is an exciting online game set in the magical world of Mario, where players embark on an epic journey
+- [Super Mario World](../games/action/super-mario-world.md) — Super run jump Adventure describe the super classic bro game. In the super world, super hero boy must pass so much threa
+- [Super Mario World Squirrel](../games/action/super-mario-world-squirrel.md) — Super Cario World - Super Adventure gives you the chance to step back in time to your childhood with the legendary missi
+- [super marow adventure](../games/action/super-marow-adventure.md) — Welcome to the game super marow adventure. You will play the super hero with a classic mission: Rescue the princess Plea
+- [Super Martin Princess In Trouble](../games/action/super-martin-princess-in-trouble.md) — Bad monsters kidnapped the beautiful princess and our hero Super Martin heard that and decided to rescue her immediately
+- [Super Meat Dash](../games/action/super-meat-dash.md) — Meet Super Meat! With the character consisting of a piece of meat, move forward on the 2D platform without getting stuck
+- [Super Miraculous Ladybug running adventure game](../games/action/super-miraculous-ladybug-running-adventure-game.md) — Super adventure of Ladybug ! Be ready to enjoy this jumping and running game! Never miss it! Super Miraculous Ladybug ru
+- [Super Mushroom](../games/action/super-mushroom.md) — The Super Mushroom is a classic arcade platformer game that you can now enjoy online! Super Mushroom is an online platfo
+- [Super ninja](../games/action/super-ninja.md) — Jump Ninja Hero – this is a great (flat style) arcade-action game with very beautiful graphics. The game is ideally suit
+- [Super Ninja Plumber](../games/action/super-ninja-plumber.md) — &ldquo;Ninja Plumber&rdquo; is an action-adventure game with a super cute retro style! You play a plumber who transforms
+- [Super Nuwpy Adventure](../games/action/super-nuwpy-adventure.md) — Super Nuwpy Adventure is a classic 2D pixel platform game. Help Nuwpy to complete his journey and collect as many coins 
+- [Super Oliver World](../games/action/super-oliver-world.md) — Super Oliver World is an arcade game where you help little Oliver escape the dangers of a parallel world full of traps a
+- [Super Oliver World](../games/action/super-oliver-world-2.md) — Guide Oliver through perilous realms filled with traps and foes in Super Oliver World. Smash blocks for surprises, colle
+- [Super Onion Boy](../games/action/super-onion-boy.md) — Super Onion Boy is a fun platform game, your mission is to save the princess from the terrible monster that imprisoned h
+- [Super Onion Boy](../games/action/super-onion-boy-2.md) — Embark on a thrilling quest in Super Onion Boy, a nostalgic platformer where you leap, coin-collect, and battle menacing
+- [Super Onion Boy 2](../games/action/super-onion-boy-2-2.md) — Embark on a thrilling adventure with Super Onion Boy 2, where vibrant levels and retro charm await. Transform with super
+- [SUPER OSCAR](../games/action/super-oscar.md) — Super Oscar is a platform adventure game in which you guide Oscar through a variety of levels filled with obstacles, ene
+- [Super Paw Puppy Patrol Adventure Runner](../games/action/super-paw-puppy-patrol-adventure-runner.md) — Paw Puppy Patrol 's World - Super Adventure gives you the chance to step back in time to your childhood with the legenda
+- [Super Penguboy Game](../games/action/super-penguboy-game.md) — “Super Penguboy” is a very fun and colorful side scrolling game! Help the little penguin to defeat his enemies and go th
+- [Super Penguinos 16](../games/action/super-penguinos-16.md) — Embark on a nostalgic 2D platformer adventure with Super Pinguinos 16! Dash through three charming levels as adorable pe
+- [Super Pig on Xmas](../games/action/super-pig-on-xmas.md) — Super Pig on Xmas is a 2D Platformer where the player needs to collect candies and give it to the piglet who is eagerly 
+- [Super Pizza Quest](../games/action/super-pizza-quest.md) — Embark on a hilarious quest to reclaim your stolen pizza from a greedy dragon! Traverse whimsical worlds and outwit quir
+- [Super Plane Wings Kid Subway Surfers Runner](../games/action/super-plane-wings-kid-subway-surfers-runner.md) — Endless 3D-runner from the first person with the prettiest super planes winds, for all ages! Large buttons and convenien
+- [Super Raccoon World](../games/action/super-raccoon-world.md) — Raccoon brothers are embarking on a huge adventure in the world of monster chickens, scorpions and some other creatures.
+- [Super Red Imposter Hero](../games/action/super-red-imposter-hero.md) — Super Red Imposter Hero is old classic bouncing ball plat-former game similar to Rolling Ball Games. The mission is to j
+- [Super Robo Max](../games/action/super-robo-max.md) — Jump into Super Robo Max's thrilling, colorful world, navigating a hazardous platform with intuitive controls. Battle re
+- [Super Robo Slasher](../games/action/super-robo-slasher.md) — Step into the world of Super Robo Slasher, where you become a robot hero facing waves of enemy machines. Navigate perilo
+- [Super Robot Chogokin](../games/action/super-robot-chogokin-2.md) — Unleash your inner giant in Super Robot Chogokin! Crush everything in your path, from cars to skyscrapers, with satisfyi
+- [Super RunCraft](../games/action/super-runcraft.md) — Super RunCraft is a wonderful 3D Run Game, run through a long minecraft land to collect rows of golden coins, number of 
+- [Super Runner Henry](../games/action/super-runner-henry.md) — Join Henry on a fast-paced adventure filled with cunning traps and formidable foes. Skillfully navigate treacherous terr
+- [Super  Santa Adventures](../games/action/super-santa-adventures.md) — Merry Christmas to everyone. The gameplay of this real Happy Holidays Christmas Music Santa Adventures game is very easy
+- [Super ShortCut The Fall Running Guys 3D](../games/action/super-shortcut-the-fall-running-guys-3d.md) — Here is a new game of the fall guys to race against opponents you have to knockout enemies and stack up over stairs and 
+- [Super Sky Island Adventure](../games/action/super-sky-island-adventure.md) — Are you ready to survive on islands in the sky? You must destroy all the mushrooms and pass the levels! You can improve 
+- [Super Snail Jungle Adventure](../games/action/super-snail-jungle-adventure.md) — As in the original game Snail Bob simply crawls onwards regardless of the situation. And your job is to press buttons, s
+- [Super Soldier Mech Assault](../games/action/super-soldier-mech-assault.md) — Battle through a futuristic world as either of two heroes in Super Soldier Mech Assault. Engage in dynamic combat agains
+- [Super Speed Runner](../games/action/super-speed-runner.md) — Super Speed Runner – this is a great (flat style) arcade game with very beautiful graphics. The game is ideally suited f
+- [Super Speed Runner](../games/action/super-speed-runner-2.md) — Experience the adrenaline rush of Super Speed Runner, where quick reflexes and perfect timing are crucial to overcoming 
+- [Super Sprunki](../games/action/super-sprunki.md) — Embark on a thrilling platforming adventure with Super Sprunki! Inspired by classic games like Super Mario, this game ch
+- [Super Sprunki Run](../games/action/super-sprunki-run.md) — Super Sprunki Run is an action-packed adventure game that takes players on a thrilling journey with the energetic Sprunk
+- [Super Squirrel Run](../games/action/super-squirrel-run.md) — Join a spirited squirrel in an exhilarating quest through vivid forests. Swiftly dodge obstacles, collect acorns, and un
+- [Super Stack](../games/action/super-stack.md) — Stack up the blocks as high as you can! ◉ Simple & Beautiful graphics designed ◉ Compete for the best score in the world
+- [Super Steve World](../games/action/super-steve-world.md) — In this epic platform game, Steve will face many monsters and obstacles along the way, collect power ups and destroy mon
+- [Super Steve World](../games/action/super-steve-world-2.md) — Embark on an adventurous journey as Steve, battling foes by jumping on their heads. Race against time, collecting coins 
+- [Super Stickman Dragon](../games/action/super-stickman-dragon.md) — Find the truest and most powerful warrior with the Dragon ball z characters in the Super Stickman Dragon Warriors game. 
+- [Super Stickman Heroes Fight](../games/action/super-stickman-heroes-fight.md) — Super Stickman Heroes est le meilleur jeu d'arcade d'action et de combat sur Google Play. Les joueurs peuvent choisir le
+- [Super Tank Battle](../games/action/super-tank-battle.md) — On Console Tank Battle is very Classical game. Super Tank Battle is a modern style Tank Battle Game with new attractive 
+- [Super Tank Battle](../games/action/super-tank-battle-2.md) — Dive into Super Tank Battle and master strategic warfare across 500 dynamic maps. Command your tank and an AI ally to co
+- [Super Willie World](../games/action/super-willie-world.md) — Guide Willie the mouse through a whimsical platforming adventure back to his steamboat. Traverse slow-paced, peril-fille
+- [Super Wrestlers : Slaps Fury](../games/action/super-wrestlers-slaps-fury.md) — Show the world that it's possible to break heads as a job and still be able to pose for magazines in this arcade game. T
+- [Super Ziggo](../games/action/super-ziggo.md) — Embark on an exhilarating adventure with Ziggo, the courageous alien, in Super Ziggo. Navigate 15 vibrant levels, defeat
+- [Superball Adventure](../games/action/superball-adventure.md) — Embark on a thrilling journey with Superball Adventure, where precision timing is your ally. Navigate through intensifyi
+- [Supercar](../games/action/supercar.md) — Funny hand-painted racing is a game that allows players to create their own racing cars to go through the hurdles throug
+- [SuperHero 2023](../games/action/superhero-2023.md) — Welcome to an exhilarating new adventure in the world of flying iron superheroes! Unlike other action games such as rope
+- [Superhero Battle](../games/action/superhero-battle.md) — We present to your attention a new incredibly dynamic action game called "Battle of the Superheroes", in which you will 
+- [Superhero Fighting Game](../games/action/superhero-fighting-game.md) — Enter the intense realm of superhero battles, where every move counts. Master kung fu, karate, and boxing to become the 
+- [Superhero Hammar Man](../games/action/superhero-hammar-man.md) — Become a mighty futuristic hero and protect the city from danger in this action-packed open-world adventure! Explore wid
+- [Superhero Police Speed Hero:Rescue Mission](../games/action/superhero-police-speed-hero-rescue-mission.md) — Race your car through the big city traffic in super hero game. In light hero simulator, you as light speed robot go to a
+- [Superhero Race](../games/action/superhero-race.md) — In Superhero Race, dash through deadly obstacle courses as iconic heroes, each with unique abilities. Master timing and 
+- [Superhero Runner](../games/action/superhero-runner.md) — Welcome to Superhero Runner: Superhero Future Fighter, Lets start your future battle against crime as a legendary future
+- [Superhero Transform Change Race](../games/action/superhero-transform-change-race-2.md) — Race through vibrant tracks as various superheroes in Superhero Transform Change Race. Strategically switch forms to tac
+- [SuperMan Hero](../games/action/superman-hero.md) — The DC Comics superheroes are assembling in Injustice Gods Among Us, an arcade fighting game featuring many iconic heroe
+- [Superman Rush](../games/action/superman-rush.md) — Your task is to lead the guy to his beloved, turning him into a Superman. There is a platform on which your hero will wa
+- [superMario](../games/action/supermario.md) — PLAY as Lep who has to overcome obstacles and defeat enemies to find his gold.
+- [Supermarket owner](../games/action/supermarket-owner.md) — good game：This game is a small game that simulates the operation of the supermarket. At the beginning, it will send some
+- [Survival Rush](../games/action/survival-rush.md) — Gear up for the ultimate survival showdown in Survival Rush! In this 3D action-packed adventure,you&rsquo;ll face waves 
+- [Survival Zombie Battle](../games/action/survival-zombie-battle.md) — Survival Zombie Battle plunges you into a shrinking arena teeming with zombies and hostile survivors. Scavenge for weapo
+- [Survive Lava for Brainrots!](../games/action/survive-lava-for-brainrots-2.md) — Run faster and collect Brainrots! Avoid the rising lava! Upgrade your Brainrots! Upgrade your base to place more Brainro
+- [Survive Squad](../games/action/survive-squad.md) — Welcome to Survive Squad, a hot survival game that combines Strategy and Role-Playing. In a world full of crises, you wi
+- [Survive the Disasters: Obby](../games/action/survive-the-disasters-obby.md) — "Survive the Disasters: Obby" – A hardcore obby survival simulator set in epic catastrophic events!
+- [Sustainable](../games/action/sustainable.md) — Dive into the chaos of museum defense as you hunt eco-terrorists intent on vandalizing art. Patrol galleries, identify s
+- [Sustainable 2](../games/action/sustainable-2.md) — In Sustainable 2, step into the shoes of a museum guard battling eco-terrorists in a thrilling whodunit. Navigate throug
+- [Swampy Assault](../games/action/swampy-assault-2.md) — Defend your swamp home against waves of predators in Swampy Assault. Armed with a trusty shotgun, face increasingly chal
+- [Sweet Runner](../games/action/sweet-runner.md) — Run and collect the stars!
+- [Sweetheart Princess](../games/action/sweetheart-princess.md) — This is a casual cake making game. Cut out the shape of the cake according to the prompts. This game is a little cute, v
+- [Swim or Die](../games/action/swim-or-die.md) — Dive into the thrilling world of Swim or Die, where your quick tapping skills keep your pet afloat. Experience a dynamic
+- [Swing Copter](../games/action/swing-copter.md) — Click on the screen to control the Copter. You need to pass narrow places without crash. Try to stay more time playing t
+- [Swing Cube](../games/action/swing-cube.md) — Guide your cube through an endless maze of obstacles, mastering swings and jumps to reach the finish line. Perfect for q
+- [Swing Dice](../games/action/swing-dice.md) — An endless running, More exciting, A real challenge, Addictive game.
+- [Swing Master 2D](../games/action/swing-master-2d.md) — Swing Master 2D is a fun and challenging arcade game where you swing and dash to avoid spikes and obstacles. With 10 exc
+- [Swing Obby for Brainrots](../games/action/swing-obby-for-brainrots.md) — Swing Obby for Brainrots in this game, you need to ride and enhance your Obby to rescue the Brainrots. Join in and start
+- [Swing Star](../games/action/swing-star.md) — Discover Stickman Hook, the new MadBox game. Tap to hook and make incredible jumps; Avoid every obstacle that stands in 
+- [Swipe Runner Quest](../games/action/swipe-runner-quest.md) — Swipe Runner Quest is an exciting coin-collection adventure where speed and precision are your best allies! Swipe to mov
+- [Swipe Rush](../games/action/swipe-rush.md) — Dive into the fast-paced world of Swipe Rush, where quick reflexes are your best ally. Navigate hazardous obstacles, enl
+- [Switch Magic](../games/action/switch-magic.md) — Switch Magic is a very fun and challenging game. Developed with 20 levels. In a dark and magical world, help the young m
+- [Sword And Spin](../games/action/sword-and-spin-2.md) — Sword And Spin lets you unleash your inner warrior in thrilling arcade action. Master swordplay with spinning combos, up
+- [Sword Hunter](../games/action/sword-hunter.md) — Sword Hunter plays like a 2D RPG beat-em-up game. Now you have a chance to control a sword girl to eliminate incoming en
+- [Sword Hunter](../games/action/sword-hunter-2.md) — Engage in relentless 2D combat as a sword-wielding heroine on a quest for justice. Swiftly vanquish waves of foes, upgra
+- [Sword Master: Slice Your Enemies!](../games/action/sword-master-slice-your-enemies.md) — ⚔️ Welcome to the thrilling game "Sword Master: Slice Your Enemies!" Destroy everything in your path using knives, saber
+- [Sword Of Janissary](../games/action/sword-of-janissary.md) — Two cute Janissary characters which are made with pixels, start struggling with each other. One side represents blue Jan
+- [Sword Play: Chop enemies to pieces!](../games/action/sword-play-chop-enemies-to-pieces.md) — A fun action-packed sword game where all you need is to chop and slice enemies into pieces!
+- [Sword Play! Ninja Slice Runner](../games/action/sword-play-ninja-slice-runner.md) — Sword Play! Ninja Slice Runner is a dynamic HTML5 browser game that delivers an engaging arcade challenge. As a talented
+- [Sword Run 3D](../games/action/sword-run-3d.md) — Sword Run 3D is an easy to pick up action runner game. Collect sword pieces, cut off the obstacles that block your progr
+- [Sword Slinger](../games/action/sword-slinger-2.md) — Unleash your inner warrior in Sword Slinger! Master the art of precision and agility as you hurl your sword against hord
+- [Swordboy Vs Skeleton](../games/action/swordboy-vs-skeleton.md) — Sword Boy vs Skeleton is a game where the objective is to kill all skeletons
+- [Swordsman Adventure](../games/action/swordsman-adventure.md) — Swordsman Adventure is a thrilling adventure game where you wield your sword freely on the battlefield to complete a ser
+- [T-rex Run](../games/action/t-rex-run.md) — An addicted running game, simple to control, nice design, fun and relax-able. Tap on the screen to jump at the right tim
+- [T-Rex Runner](../games/action/t-rex-runner.md) — The T-Rex has to run, but you must get rid of many traps, such as cacti and pterodactyls. T-Rex Runner is a game based o
+- [T-Rex Running Black and White](../games/action/t-rex-running-black-and-white.md) — Embark on a thrilling prehistoric dash in T-Rex Running Black and White. Navigate your speeding T-Rex through a hostile 
+- [T-Rex Running Color](../games/action/t-rex-running-color.md) — Guide a spunky T-Rex through a vibrant, ever-accelerating world. Leap over cacti and dodge devious pterodactyls in this 
+- [Table Tug Online](../games/action/table-tug-online.md) — Try to tug the table and bring your opponent across the line. Play local two player mode or challenge players online fro
+- [Takashi Ninja Warrior](../games/action/takashi-ninja-warrior.md) — A heroic ninja warrior adventure set in medieval age with hack n slash and rpg elements. An action RPG fighting game whe
+- [Takeover](../games/action/takeover.md) — For centuries the Rivadis Empire ruled the continent in its shine and glory. But now it fell into necromancers’ hands an
+- [Talking Tom Runner](../games/action/talking-tom-runner.md) — A talking Tom cat lives in a small fairy-tale town. Let's run with him, who will run further?
+- [Tall Boss Run](../games/action/tall-boss-run.md) — The parkour game Tall Boss Run is fun to play! To defeat the robots and finish the levels, make your tall man as tall an
+- [Tall Man Run 3D](../games/action/tall-man-run-3d.md) — In this tall man run game, Run on the track and pass through the different gates to become taller, thicker, thinner, and
+- [Tall Man Runner](../games/action/tall-man-runner.md) — Tall Man Runner is an addictive arcade game. I guess you will fall in love with it! The game play is very simple. You on
+- [Tall Man Runner 3D](../games/action/tall-man-runner-3d.md) — Experience tall man run game by running and passing through different tall multipliers to become taller & thicker in tal
+- [Tall Man Runner Game](../games/action/tall-man-runner-game.md) — Welcome to the Tall Man Runner Game: 3D Running Games. Run as tall, Run as wide, thick and get to the right gates to bec
+- [Tangle Tails](../games/action/tangle-tails.md) — Tangle Tails is a top-down arcade roguelite about a creature made of bendy joints. Hit swarms with your head, then circl
+- [Tangled Rope Around Puzzle](../games/action/tangled-rope-around-puzzle.md) — If you have a rope with unlimited length, how will you use it to pass all pillars and set it at the pointed position wit
+- [Tank Arena Steel Battle](../games/action/tank-arena-steel-battle-2.md) — Dive into the heart of battle in Tank Arena Steel Battle, where every shot counts. Master the art of tank warfare with p
+- [Tank Attack 2](../games/action/tank-attack-2.md) — Ready, warrior. Tank Attack will bring you to the most explosive battlefield ever. Control your tank and straight into c
+- [Tank Battle](../games/action/tank-battle.md) — Command your tank, engage in strategic combat, and upgrade your arsenal in Tank Battle. Traverse dynamic battlefields, h
+- [Tank Battle Force](../games/action/tank-battle-force.md) — Navigate intense battlefields in Tank Battle Force, a thrilling arcade shooter where your skillful tank maneuvers and st
+- [Tank Craft 2](../games/action/tank-craft-2.md) — Tank Craft 2 (also known as TankCraft 2: Hell Bosses War) is an exciting 2D action tank battle game with a unique crafti
+- [Tank Duel 3D](../games/action/tank-duel-3d.md) — Are you ready for the fight of the tanks? Fight and win against your friend or computer in Tank Duel 3D game! Take advan
+- [Tank Running Game](../games/action/tank-running-game.md) — Your task is to help your tank cross obstacles and reach the terminal area on the track of each platform
+- [Tank Stars Battle Arena](../games/action/tank-stars-battle-arena.md) — Tank Stars - Battle Arena is a tank design strategy game with 2D models. In 14 levels, we need you to build tanks to def
+- [Tank Stars Battle Arena](../games/action/tank-stars-battle-arena-2.md) — Engage in tactical tank battles, customizing your arsenal for strategic supremacy across 14 intense levels. Collect diam
+- [Tank War Battle Game](../games/action/tank-war-battle-game.md) — Tank War Battle Game is an exciting action-packed tank combat game where you take control of a powerful battle tank and 
+- [Tank War Ice Age](../games/action/tank-war-ice-age.md) — Tank fight in Ice Age!!!!. Set your round limit and start fighting against your friend. Bombs are too powerful.
+- [Tank War   Two Player](../games/action/tank-war-two-player.md) — Its a game where you can play with a friend and brother forever with very fun and pleasant mechanics. There are 2 tanks 
+- [Tank Wrestle](../games/action/tank-wrestle.md) — Welcome to the world of tank battles, where you can control tanks to fight with other enemies on different maps. There a
+- [TankBattle 2 Player](../games/action/tankbattle-2-player.md) — Are you ready for the battle of tanks? Its duel time, the tanks are going to war. Two enemies must defeat each other. Th
+- [TankHit](../games/action/tankhit.md) — In TankHit game you are crashing head on against CPU or against a friend. In this struggle which happens in 3D labyrinth
+- [Tanking Tanks](../games/action/tanking-tanks.md) — Do you like tanks? Everyone likes:) Try to destroy your enemies in a hard battle!
+- [Tanks Across the Desert](../games/action/tanks-across-the-desert.md) — Command powerful multinational forces across the treacherous North African theater of WWII in an epic fusion of strategy
+- [Tanks Battle](../games/action/tanks-battle.md) — Tanks Battle features: Controlable mighty tank; Cool grafics; Tank physics; 2 weapons;
+- [Tanks Battle Field](../games/action/tanks-battle-field.md) — Command your customizable tank squad in intense 2D battles where strategic decisions shape your victory. Outmaneuver opp
+- [Tanks Battle Royale](../games/action/tanks-battle-royale.md) — Dive into intense, strategic tank clashes in Tanks Battle Royale. Maneuver through a shrinking battlefield, collect powe
+- [Tanks Of Liberty   online](../games/action/tanks-of-liberty-online.md) — Step into the cockpit of a high-tech war machine in Tanks Of Liberty - Online, a tactical top-down shooter that blends n
+- [Tap 10 Sec](../games/action/tap-10-sec.md) — Push your reflexes to the limit with Tap 10 Sec! Race against the clock to tap your screen as fast as possible in just 1
+- [Tap Break Game](../games/action/tap-break-game.md) — Tap Break is free to play puzzle game with easy gameplay but hard to win. A little bug is waiting for his present. Tap o
+- [Tap Ninja](../games/action/tap-ninja.md) — Tap Ninja is a fun and addictive game to play on. We all know about the reflexes have with ninja, so here you have to be
+- [Tap Ninja](../games/action/tap-ninja-2.md) — Slip into ninja mode and tap your way to victory in Tap Ninja! Capture falling items swiftly to score big while artfully
+- [Tap Tank](../games/action/tap-tank.md) — In this platform game you need to tap on the screen to change direction of the tank and to collect diamonds. But watch o
+- [Tap Tap Popping Battle](../games/action/tap-tap-popping-battle.md) — Pop any two or more blocks to destroy them.
+- [Tap Touch and Run](../games/action/tap-touch-and-run.md) — Tap Touch and Run is a tapping puzzle game where you need to control different animals on the stage. At this game you ca
+- [Taps Ufo](../games/action/taps-ufo-2.md) — Dive into Taps Ufo, where your quick reflexes are key to success! Tap to demolish ufos, but avoid planes that diminish y
+- [TDP4 - Team Battle](../games/action/tdp4-team-battle.md) — Dive into exhilarating 2D multiplayer chaos with TDP4 - Team Battle! Master various game modes, wield a vast arsenal, an
+- [Tebo](../games/action/tebo.md) — Tebo is a physics-based platform game with 50 challenging and brain-boosting levels. You have to help Tebo (little alien
+- [teen titans go minecraft teenage runner 3d](../games/action/teen-titans-go-minecraft-teenage-runner-3d.md) — Get caught up in minecraft epic runner adventures and help titans go escape his island neighbors! Run, jump, slide, and 
+- [Teen Titans Go ! Swamp Attack](../games/action/teen-titans-go-swamp-attack.md) — Have fun playing Titan Swamp Attack, an exclusive new game where you will enjoy playing an adventure in the swamp full o
+- [Teeth Run](../games/action/teeth-run.md) — Welcome to the fun game "Tooth Runner"! Today we wanted to cheer you up a little, so we want you to play a very funny to
+- [Teeth Runner](../games/action/teeth-runner.md) — As we all know, teeth are vital organs. Oral health directly or indirectly affects the health of the whole body. Oral di
+- [Teeth Runner](../games/action/teeth-runner-2.md) — Battle sugar monsters and cavity creatures as a heroic toothpaste blob in Teeth Runner. Swipe to dodge enemies, collect 
+- [Teko vs Doov](../games/action/teko-vs-doov.md) — Teko vs Doov is a 2D Sci-Fi themed platformer where you have to collect the silver keys while avoiding enemy robots, fly
+- [Teko vs Doov 2](../games/action/teko-vs-doov-2.md) — Teko vs Doov 2 is a 2D Sci-Fi themed platformer where you play as Teko, a robot, who have to collect the silver keys whi
+- [Telepix](../games/action/telepix.md) — Enter the mesmerizing pixel world of Telepix, where teleportation and timing are key to conquering 20 beautifully challe
+- [Temple Battle Lightsaber](../games/action/temple-battle-lightsaber.md) — Are you ready to fight with your friend? Engage in battle with your friend and the one who achieves the most kills wins.
+- [Temple Battle Lightsaber](../games/action/temple-battle-lightsaber-2.md) — Engage in thrilling lightsaber duels within a mystical temple, navigating rising poisonous waters and dodging falling TN
+- [Temple Maze](../games/action/temple-maze.md) — Temple Maze is one of the best puzzle maze games online, an addictive and fun-free game for kids. Help the characters fi
+- [Temple Quest](../games/action/temple-quest.md) — You shouldn't have stolen that artifact! Now you have to run for your life in an endless maze of temple ruins! Collect g
+- [Temple Run 2](../games/action/temple-run-2.md) — Play Temple Run 2 Online - Run, jump, turn and slide through the endless landscape once again in this online version of 
+- [Temple Run 2 Festival](../games/action/temple-run-2-festival.md) — Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined
+- [Temple Run 2 - Running Game](../games/action/temple-run-2-running-game.md) — Temple Run 2 is an infinite runner where the player must escape from his enemy and avoid all the obstacles and traps tha
+- [Temple Run 2 - Tomb Runner](../games/action/temple-run-2-tomb-runner.md) — Jungle adventure awaits! Do you like running games? If so, this adventure game is for you! The addictive mega-hit Temple
+- [Temple Run Tomb](../games/action/temple-run-tomb.md) — Best running game in mysterious temple.
+- [Temple Runner](../games/action/temple-runner.md) — You're an adventurous explorer, running through ruined temples. Collecting gold to get cool outfits. Avoiding obstacles 
+- [TENKYU -STAGE BALANCE](../games/action/tenkyu-stage-balance.md) — Have fun tenkyu, learn fast Stack Ball tenkyu and start balancing your tenkyu ball skills. Looking to improve your refle
+- [Tenno](../games/action/tenno.md) — Tenno is a 2D platformer where you play as an employee called Tenno who have to collect important office papers which go
+- [Tenno 2](../games/action/tenno-2.md) — Tenno 2 is a 2D platformer where you play as an employee called Tenno who have to collect important office papers which 
+- [Terragzon](../games/action/terragzon.md) — Embark on a thrilling quest in Terragzon, navigating through intricate platforming levels. Collect elusive keys to unloc
+- [Terraria Playground](../games/action/terraria-playground.md) — Immerse yourself in the amazing world of Terraria Playground right now! The game offers a variety of unique items and ch
+- [Terror City](../games/action/terror-city.md) — Dive into the chaos of Terror City, battling invaders as an elite soldier. Navigate treacherous levels, dodge traps, and
+- [The Adventure of Bull](../games/action/the-adventure-of-bull.md) — Embark on a thrilling journey with Bull, the daring explorer, as you navigate a mysterious forest filled with obstacles 
+- [THE ADVENTURE OF THE GREEN SLIME BOY](../games/action/the-adventure-of-the-green-slime-boy.md) — THE ADVENTURE OF THE GREEN SLIME BOY
+- [The Aesthetic World of Obby](../games/action/the-aesthetic-world-of-obby.md) — ✨The Aesthetic World of Obby✨ - It's a beautiful adventure game similar to the popular parkour game Roblox.🎀. Enjoy a p
+- [The Assault](../games/action/the-assault.md) — Dive into the adrenaline-fueled world of The Assault, where your goal is to eliminate monstrous foes with precise taps w
+- [The Battboy Adventure](../games/action/the-battboy-adventure.md) — “Battboy Adventure” is a platform game, where the hero must overcome all the levels by dodging the thorns and eliminatin
+- [The Best Man Rises](../games/action/the-best-man-rises.md) — Step into the role of a savvy bouncer who ensures no wedding crashers ruin the big day. Use quick reflexes to launch uni
+- [The Best Warrior](../games/action/the-best-warrior.md) — In The Best Warrior, you start as a humble peasant with one goal&mdash;to become the greatest warrior in the kingdom. Tr
+- [The Biggest Number](../games/action/the-biggest-number.md) — 🔢 The Biggest Number is a fast-paced 3D number runner and casual math game where every choice can make you stronger—or 
+- [The Black And White](../games/action/the-black-and-white.md) — Immerse yourself in The Black And White, where two unlikely heroes use their unique abilities to solve mind-bending puzz
+- [The Blue-Haired Warrior vs. the Red Mushroom Monsters](../games/action/the-blue-haired-warrior-vs-the-red-mushroom-monsters.md) — Navigate perilous traps and face off against formidable red mushroom monsters in an epic quest for victory. Boost your h
+- [The Branch Runner](../games/action/the-branch-runner.md) — Are you good at endless running arcade games? Here is a chance for you to play a funny running arcade game with 3D pixel
+- [The Bulb Girlfriend](../games/action/the-bulb-girlfriend.md) — The Bulb Girlfriend is a 2D platformer where you have to collect the bottles of energy potions while avoiding the red en
+- [The Bulb Girlfriend 2](../games/action/the-bulb-girlfriend-2.md) — The Bulb Girlfriend 2 is a 2D platformer where you have to collect the bottles of energy potion while avoiding red bulb 
+- [The Castle](../games/action/the-castle.md) — Embark on a perilous journey through a mysterious castle. Conquer menacing traps and formidable foes using your sword an
+- [The Cave of Terror](../games/action/the-cave-of-terror-2.md) — Brave the depths of The Cave of Terror, where every shadow hides a lurking danger. Navigate a haunted labyrinth, collect
+- [The Chaser](../games/action/the-chaser.md) — You just need to escape from the Chaser! Enjoy it!
+- [The Chaser](../games/action/the-chaser-2.md) — Navigate a relentless pursuit in The Chaser, where every decision matters. Dodge obstacles using precise taps to run or 
+- [The Chaser and the Pumpkin](../games/action/the-chaser-and-the-pumpkin-2.md) — Become a cunning pumpkin evading a relentless pursuer in this Halloween adventure. Navigate through 20 suspenseful level
+- [The Chroma Incident](../games/action/the-chroma-incident.md) — In The Chroma Incident, embark on a vibrant journey to restore lost colors to a desolate world. Engage in exhilarating b
+- [The Depth of the Limbo](../games/action/the-depth-of-the-limbo.md) — The game is about a girl in limbo who has to complete all the levels to wake up. Top view: The character must overcome 1
+- [The Dwarf Planet](../games/action/the-dwarf-planet.md) — Uncover the secrets of a mysterious world in The Dwarf Planet. Navigate captivating landscapes as Mark, solving puzzles 
+- [The Egg Stealing Master](../games/action/the-egg-stealing-master.md) — The Egg Stealing Master is a 3D stealth and collection game. Sneak past guards, steal rare eggs, hatch and raise pets in
+- [The Explorer](../games/action/the-explorer.md) — The Explorer is an adventure-platformer game that sets in an alien world. You have landed your ship in a mysterious alie
+- [The Fallen Moai](../games/action/the-fallen-moai.md) — Catch the thrilling challenge of The Fallen Moai, where swift reflexes and strategic timing are your allies. Dive into a
+- [The Floor is Lava 3D](../games/action/the-floor-is-lava-3d.md) — We are happy to announce you clone of famous hyper casual game - The Floor is Lava 3D! Your goal is simple. Jump across 
+- [The Impossible Game](../games/action/the-impossible-game.md) — Jump and fly your way through danger in this rhythm-based action platformer! Prepare for a near impossible challenge in 
+- [The Imposter Between Us](../games/action/the-imposter-between-us.md) — Unravel the mystery aboard a tense spaceship in The Imposter Between Us. As deception lurks, exercise detective skills t
+- [The Italian Lawyer - Save the World](../games/action/the-italian-lawyer-save-the-world.md) — Join Rick Le Roux, an Italian attorney, as he trades the courtroom for combat to save the world. Navigate thrilling batt
+- [The King of Fighters 2021](../games/action/the-king-of-fighters-2021.md) — Welcome to the king of fighters 2021 Game This is a fighting arcade game where youhave 3 rounds to destroy your opponent
+- [The king of war](../games/action/the-king-of-war.md) — This is a very casual game for breaking through the hurdles. If players want to win here, they need to recruit more gunm
+- [The Knight's Fantastic Dream](../games/action/the-knight-s-fantastic-dream.md) — Guide a valiant knight through a mystical, eternal night, collecting keys and dodging slimes to uncover secrets. With in
+- [The Knight's Tower](../games/action/the-knight-s-tower.md) — Embark on a daring ascent in The Knight's Tower, a nostalgic 2D platformer. Navigate a knight through a charming, pixela
+- [The Last Adventure](../games/action/the-last-adventure.md) — Help Ellie and Joel in this adventure through different puzzle levels, and collect diamonds to unlock new adventures.
+- [The Last Chicken](../games/action/the-last-chicken.md) — The Last Chicken is fun action games for all boys and girls!
+- [The Last Fencer](../games/action/the-last-fencer.md) — In The Last Fencer, embrace the thrill of strategic sword duels where timing and precision are key. Outmaneuver opponent
+- [The Last Fox](../games/action/the-last-fox.md) — Enter the haunting world of The Last Fox, where you explore a vast, mysterious forest as the sole remaining fox. With at
+- [THE LAVA ESCAPE](../games/action/the-lava-escape.md) — Survive the heat in THE LAVA ESCAPE! A high-stakes 2D platformer where you must jump over lava pits, dodge arrow shooter
+- [The Life Run](../games/action/the-life-run.md) — The Life Run is an exhilarating adventure where players step into the shoes of a determined protagonist on a mission to 
+- [The Little Runner](../games/action/the-little-runner.md) — Embark on an endless run and master the art of the perfect jump in The Little Runner. Tap or hold to soar over obstacles
+- [The Lost Chicken](../games/action/the-lost-chicken.md) — The Lost Chicken is a 3d arcade game where players smash, bump and bounce through revolving helix platforms to reach the
+- [The Lost Joystick](../games/action/the-lost-joystick.md) — They stole your joystick… but they don’t know who you are! You will do everything to get it back In this psychedelic pix
+- [The Magical Golden Egg](../games/action/the-magical-golden-egg.md) — In this chicken platformer you must get your white chicken to the end of the level by casting spells out your golden egg
+- [The Michishort Hold](../games/action/the-michishort-hold.md) — Dive into The Michishort Hold and become a master alchemist, crafting potent potions to aid your mage in thrilling top-d
+- [The Minecraft free game](../games/action/the-minecraft-free-game.md) — Cut timber, break stones, mine blocks, and also produce out of the significant boating worlds of your dreams! You can de
+- [The Patriots Fight and Freedom](../games/action/the-patriots-fight-and-freedom.md) — Join Ashley in "The Patriots: Fight and Freedom," an action-packed journey of resistance, using intuitive controls and s
+- [The Quest Arena](../games/action/the-quest-arena.md) — Embark on a perilous multiplayer journey in The Quest Arena, where four heroes face relentless foes and powerful bosses.
+- [The Running Sheep](../games/action/the-running-sheep.md) — An endless game play full of different obstacles, make your character running through the mysterious forest path endless
+- [The Running Sheep Game](../games/action/the-running-sheep-game.md) — How carefully you can move your character through out the forest path. The forest path is full of obstacles and Traps. h
+- [The Scythian Warrior](../games/action/the-scythian-warrior.md) — Embark on a vengeance-fueled journey as Aryasp, a formidable warrior in a dynamic 3D world. Engage in strategic battles,
+- [The Smufrs Skate Rush](../games/action/the-smufrs-skate-rush.md) — The Smufrs Skate Rush is like Subway Surfers Go to the forest to collect more berries and stock up for the winter. In or
+- [The Specimen Zero](../games/action/the-specimen-zero.md) — The moment has arrived to persevere in a hostile and mysterious environment. In the 3D horror game Specimen Zero, sick c
+- [The Speed Ninja](../games/action/the-speed-ninja.md) — Play as a fierce warrior from the land of the Rising Sun in this exhilarating runner and test your reflexes in multiple 
+- [The Squared](../games/action/the-squared.md) — Play as a cute cube, Avoid obstacles and do your best score in this side scrolling game!
+- [THE SURVIVAL ALLIENS](../games/action/the-survival-alliens.md) — Get ready for the ultimate tactical survival experience! The world has been invaded, and you are the last line of defens
+- [The Switch Magic](../games/action/the-switch-magic.md) — Switch Magic is a very fun and challenging game In a dark and magical world, help the young mage to search for her sacre
+- [They are all zombies](../games/action/they-are-all-zombies.md) — Use items that appear on your way to slow down zombies who want to catch you. Try to save other survivors while running 
+- [They Are Coming](../games/action/they-are-coming.md) — What will you do if you are chased by too many crazy enemies? They Are Coming provides you with a chance to experience a
+- [They Are Coming 3D Game](../games/action/they-are-coming-3d-game.md) — In this action-packed game, players will step into the shoes of a fearless warrior, ready to take on hordes of enemies. 
+- [Thor King Pig](../games/action/thor-king-pig-3.md) — Embark on a thrilling journey as Thor, battling the cunning King Pig in a vibrant pixel world. Dodge enemies, master pow
+- [ThroneHold](../games/action/thronehold.md) — The throne is lost. The castle is cursed. Take it back. In Thronehold, you step into the boots of a lone warrior trapped
+- [Thronehold Kids](../games/action/thronehold-kids.md) — Thronehold Kids is a game which is made easier for kids so that they can score well in the game. You earn more points an
+- [Throw And Destroy Everything](../games/action/throw-and-destroy-everything.md) — Destruct into parts waves of robots throwing everything that could get hands on and don't let the enemies get away. You 
+- [Throw Sword](../games/action/throw-sword.md) — Throw Sword is an engaging stickman action game where you control a stickman throwing swords to defeat opponents. Aim ca
+- [Thumb Fighter](../games/action/thumb-fighter.md) — Thumb Fighter delivers hilarious one-button battles packed with action. Challenge friends or family in thumb-to-thumb du
+- [Thung Thung Sahur Burning Desire](../games/action/thung-thung-sahur-burning-desire-2.md) — Brave the haunted halls of an abandoned hospital in Thung Thung Sahur: Burning Desire. Navigate eerie corridors and conf
+- [Ticktock Egg Run](../games/action/ticktock-egg-run.md) — TickTock Egg Run is an exciting adventure game where you help a brave little egg through obstacles while avoiding monste
+- [Ticktock Egg Run](../games/action/ticktock-egg-run-2.md) — Embark on a thrilling journey with a plucky egg in Ticktock Egg Run, where timing and precision are your best allies aga
+- [Tiger Run](../games/action/tiger-run.md) — Very exciting and interesting tiger parkour game, as fun as subway parkour
+- [Tile Multiplier Flier](../games/action/tile-multiplier-flier.md) — Tile Multiplier Flier is a fast-paced game where players strategically place letter tiles to form words and earn points.
+- [Tiles Hop Ball Master](../games/action/tiles-hop-ball-master.md) — Tiles Hop Ball Master is a ball jumping skillful arcade game. With 3D platforms and a white ball, you are supposed to co
+- [Tim Adventures](../games/action/tim-adventures.md) — Tim Adventures is a 2D platformer where you have to collect all of the cookies while avoiding the enemies, spikes and gr
+- [Tim Adventures 2](../games/action/tim-adventures-2.md) — Tim Adventures 2 is a 2D platformer where you have to collect all of the cookies while avoiding the enemies, and their b
+- [Time Bomb Rush](../games/action/time-bomb-rush.md) — Introducing Time Bomb Rush, the newest parkour game! Dont miss out on the action. In this thrilling game, your mission i
+- [Time Fracture](../games/action/time-fracture.md) — Time Fracture is a fast-paced sci-fi arcade game where time itself becomes your weapon and your enemy. Run through unsta
+- [Time of Adventure : İce King](../games/action/time-of-adventure-i-ce-king.md) — Adventure of Time, a legendary adventure game, awaits you on a magnificent adventure. you have to be careful in snow lan
+- [Time Witch](../games/action/time-witch.md) — Time Witch is a puzzle platformer where you control a witch with the power to distort time to make elements in the level
+- [Timeless Trimble](../games/action/timeless-trimble.md) — Explore the world of action with a smooth simulation and gameplay of &lsquo;Timeless Trimble&rsquo;.Be aware of the obst
+- [Timely Delivery](../games/action/timely-delivery.md) — Timely Delivery is a fast and casual delivery runner. Press and hold to move, release to stop - simple controls, tight t
+- [Tiny Archer](../games/action/tiny-archer-3.md) — Sharpen your skills in Tiny Archer, a vibrant test of precision and timing. Draw, aim, and release your arrows with intu
+- [Tiny Crash Fighters](../games/action/tiny-crash-fighters.md) — Tiny Crash Fighters is a fast-paced action game where you build your ultimate machine to fight against the CPU or challe
+- [Tiny Crash Fighters Pro](../games/action/tiny-crash-fighters-pro.md) — Design your combat machine in Tiny Crash Fighters Pro and dive into action-packed battles! With over 30 customizable par
+- [Tiny Explorer](../games/action/tiny-explorer.md) — Tiny Explorer is a retro arcade-platforming game where you have to help a small explorer in his quest inside an ancient 
+- [Tiny Zombies](../games/action/tiny-zombies.md) — Dive into the adrenaline-pumping chaos of Tiny Zombies, where quick reflexes and strategic tapping are your tools for su
+- [Titans Defense Run](../games/action/titans-defense-run-2.md) — Experience the thrill of parkour fused with strategic combat in Titans Defense Run. Race through dynamic stages, collect
+- [TNT Sandbox](../games/action/tnt-sandbox.md) — "TNT Sandbox" is an obby-style block sandbox where your main goal is to blow everything up with TNT.
+- [TNTcraft](../games/action/tntcraft.md) — TNTcraft is a 2 player TNT game in a minecraft world where your mission is to explode the zombie spawner using TNT. Make
+- [TO DO  Finish the game](../games/action/to-do-finish-the-game.md) — The developer didnt finish making the game... Luckily, you can use the power of events programming to create your own ga
+- [Tob vs Kov](../games/action/tob-vs-kov.md) — Tob vs Kov is a 2D Sci-fi themed platformer where you play as Tob, the robot, who have to collect red balls while avoidi
+- [Tob vs Kov 2](../games/action/tob-vs-kov-2.md) — Tob vs Kov 2 is a 2D sci-fi themed platformer where you play as Tob, the robot, and your mission is to collect red balls
+- [Tobi The Runner](../games/action/tobi-the-runner.md) — RUN AS FAR AS YOU CAN!
+- [Toilet Monster Long Neck](../games/action/toilet-monster-long-neck.md) — Introducing Skibidi, a groundbreaking game featuring entirely unique gameplay mechanics. In this immersive experience, y
+- [Tom Boy Room Prison](../games/action/tom-boy-room-prison.md) — Unleash your inner strategist as you navigate a creatively constructed prison filled with challenging puzzles. Outsmart 
+- [Tom & Jerry in Whats the Catch](../games/action/tom-jerry-in-whats-the-catch.md) — Play with Tom and Jerry in this game where Tom is chasing after Jerry. Choose which one of the animated characters you w
+- [Tom & Jerry:Runner](../games/action/tom-jerry-runner.md) — Winter is here and Jerry is hungry! Really hungry! Jerry is on a mission to get all the cheese but he must be careful as
+- [Tom Runner](../games/action/tom-runner.md) — In this game you are a postman who is running away from a dog. You must save him with a timely touch and move up and dow
+- [Tom Runner](../games/action/tom-runner-2.md) — Dash through a pulsating city as Tom, the nimble raccoon, eluding persistent police in exhilarating, fast-paced action. 
+- [Tom's World](../games/action/tom-s-world.md) — Embark on an electrifying journey as Tom, the adventurous robot, in a vivid futuristic world. Navigate labyrinths, battl
+- [Tomas Run](../games/action/tomas-run.md) — Leap into the fast-paced world of Tomas Run, where your reflexes will be tested to their limits. Guide Tomas along a nev
+- [Tomato Bounce](../games/action/tomato-bounce.md) — Launch your cheerful tomato from platform to platform with a single tap! Hold to charge your power, aim and release. The
+- [TomatoRunner](../games/action/tomatorunner.md) — jump and advance when faced with obstacles or enemy
+- [Tomb Runner](../games/action/tomb-runner.md) — You stole the cursed statue from the temple and now you need to save your life by running away from the giant monkeys th
+- [Tomb Runner 3D](../games/action/tomb-runner-3d.md) — How far can Professor Jones keep running in the adventures of Tomb Runner? Run, jump, slide, rush and surf through, over
+- [Tomb Runner Online](../games/action/tomb-runner-online.md) — Navigate dangerous terrain as you carry stolen gems from the zombie temple. Reach the evac zone and make a final dash as
+- [Tomb Runner online 3D](../games/action/tomb-runner-online-3d.md) — How it happened that the pursuers followed your adventurer is not clear, but this is not the most important thing now, t
+- [Tony Archer](../games/action/tony-archer.md) — Immerse yourself in the daring exploits of Tony Archer, a hero navigating urban landscapes to rescue friends from menaci
+- [Toon Infinite Runner](../games/action/toon-infinite-runner.md) — Ready for runner toons? You have the chance now to beat the record, run as much as you can and collect money from map.
+- [Tora Boy Adventure](../games/action/tora-boy-adventure.md) — tora boy adventure is a platformer game, journey 10 level and eat cake to get sore, collect all key to unlock next level
+- [Tori](../games/action/tori.md) — Tori is a 2D cute little platformer where you play as Tori, who have to collect orange balls while avoiding the enemies,
+- [Tori 2](../games/action/tori-2.md) — Tori 2 is a 2D platformer where you have to collect the orange balls while avoiding enemies, flying robots, spikes and g
+- [Tornado Giant Rush](../games/action/tornado-giant-rush.md) — Tornado Giant Rush is a tornado-themed running game. You just need to slide to control the tornado forward. Note that to
+- [Torture the Trollface](../games/action/torture-the-trollface.md) — Got some time to kick the trollface? You can torture this dummy in this awesome action game. Do it slowly or get it over
+- [TotC Door](../games/action/totc-door.md) — In totm, which is a retro style arcade game, come to the last level to pass the levels and pass the levels immediately. 
+- [Touba](../games/action/touba.md) — Touba is a 2D platformer where you play as a yellow bird and you have to collect the bowls of grains while avoiding enem
+- [Touba 2](../games/action/touba-2.md) — Touba 2 is a 2D platformer where you have to collect the bowls of grains while avoiding the enemy birds, spikes and reac
+- [Touch and Jump](../games/action/touch-and-jump.md) — This is game where you need to tap on the screen to bounce the ball on the moving levels of boxes that can eat the ball.
+- [Touch the Ships!](../games/action/touch-the-ships-2.md) — Command your fleet through a starry gauntlet in Touch the Ships! Navigate rapidly through dynamic cosmic hazards with in
+- [Touch Wheels](../games/action/touch-wheels.md) — Test your reflexes and quick thinking in Touch Wheels, where every tap counts toward reaching new high scores. As wheels
+- [Touchme](../games/action/touchme.md) — Dive into Touch Me, where tapping yellow balls becomes an exhilarating point-chase amidst lurking dangers. Stay sharp to
+- [Tough Guys - Anime Clicker](../games/action/tough-guys-anime-clicker.md) — Get ready for "Tough Guys - Anime Clicker," where rapid-fire tapping meets strategic timing. Immerse yourself in a vibra
+- [Tower Of ASMR](../games/action/tower-of-asmr.md) — Tower Of ASMR is a cozy 3D parkour climber built entirely around satisfying sound. Every surface reacts under your feet 
+- [Tower of Fall](../games/action/tower-of-fall-2.md) — Descend into the captivating depths of the Tower of Fall, where strategic prowess is key. Maneuver your knight through i
+- [Tower platformer 3D](../games/action/tower-platformer-3d.md) — Tower Platformer 3D is a simple 3D platform game where you climb a huge ruined tower in the middle of the sea. Jump acro
+- [Tower Run](../games/action/tower-run.md) — Tap at the right time to make a tower of humans.
+- [Tower Run Game](../games/action/tower-run-game.md) — Tower Run is recommended as both obstacle-crossing parkour and a skillful arcade game that is made from 3D game engine. 
+- [Tower Run Online - Stack Tower Jump](../games/action/tower-run-online-stack-tower-jump.md) — Tower Run Online is an easy arcade jumping game. You will run in a truck with lots of obstacles. When you stand the rea 
+- [TowerWars](../games/action/towerwars.md) — In this casual battle game your challenge is defeat your enemies while dodging your arrows, will you be able to be faste
+- [Towra](../games/action/towra.md) — Towra is a 2D platformer where you have to collect the keys while avoiding the enemies, saws and spikes and reach the to
+- [Towra 2](../games/action/towra-2.md) — Towra 2 is a 2D platformer where you have to collect the keys while avoiding the enemies, flying creatures, spikes and s
+- [Tox Sprunki Mod](../games/action/tox-sprunki-mod.md) — Tox Sprunki Mod is a platformer with unique mechanics, namely: the presence of poison, which does not allow you to stay 
+- [Tox Sprunki Mod](../games/action/tox-sprunki-mod-2.md) — Navigate through a toxic world as Sprunki Tox, racing against time to avoid your own poison trails. Quick thinking is ke
+- [Traffic Light Clicker](../games/action/traffic-light-clicker.md) — Conquer the road with your clicking prowess in Traffic Light Clicker. Guide Murphy through a million-button challenge, w
+- [Traffic Mania 2021](../games/action/traffic-mania-2021.md) — Traffic Mania is an addictive and challenging game where your main goal is to avoid collision. Do you think that's easy?
+- [Traigon](../games/action/traigon.md) — In Traigon's nostalgic pixelated universe, engage in adrenaline-pumping platforming as you skillfully navigate challengi
+- [TrailBlazing Bunny](../games/action/trailblazing-bunny.md) — Guide a daring bunny through vibrant landscapes in TrailBlazing Bunny. Master tapping to leap over obstacles, collect co
+- [Train Battle](../games/action/train-battle.md) — Outsmart your opponent in Train Battle, where you lay intricate railways in a thrilling contest of strategy and reflexes
+- [Train Lines Rush](../games/action/train-lines-rush.md) — Here is a relaxation train collecting arcade game with a 3D vertical-version game type. You need to control the train to
+- [Train Surf Run 3D](../games/action/train-surf-run-3d.md) — Immerse yourself in Train Surf Run 3D, where vibrant visuals meet nail-biting speeds. Dash through dynamic environments,
+- [Train Surfers](../games/action/train-surfers.md) — Play Train Surfers - Run, jump, turn and slide through the endless. Save yourself from the police and run on tracks and 
+- [Trallero Tung Tung Chicken](../games/action/trallero-tung-tung-chicken.md) — Have you entered the world of farmers? You need to catch the chickens. Catch all the chickens and win the game. The firs
+- [Trap Dodger: The Platformer Challenge](../games/action/trap-dodger-the-platformer-challenge.md) — Traverse perilous levels as a nimble adventurer in Trap Dodger. Master precise timing and quick reactions to outsmart de
+- [Trap Dungeon](../games/action/trap-dungeon.md) — Enter a sinister dungeon where every room is a cunning puzzle. Navigate deadly traps, face unexpected challenges, and en
+- [Trapezio](../games/action/trapezio.md) — Trapezio is a 2D cute little platformer where you have to collect the silver coins while avoiding the enemies, spikes an
+- [Trapezio 2](../games/action/trapezio-2.md) — Trapezio 2 is a 2D cute little platformer where you have to collect the silver coins while avoiding enemies, flying robo
+- [Trash Dash](../games/action/trash-dash.md) — Race through lively, obstacle-filled environments as a feisty feline in Trash Dash. Gather scraps to unlock power-ups, w
+- [Trash Dash Runner](../games/action/trash-dash-runner.md) — Run through the streets as Trash Cat! Collect fishbones and ultra special sardine tins to continually upgrade your chara
+- [Treasure Dash Jungle Adventure](../games/action/treasure-dash-jungle-adventure.md) — Dive into a vibrant jungle adventure, sprinting through ancient ruins and dodging perilous traps. With stunning sunset v
+- [TRex Running Color](../games/action/trex-running-color.md) — T-Rex Running is a game of adventure and very entertaining. The T-Rex has to run, but you need to overcome of many traps
+- [trezeBoost](../games/action/trezeboost.md) — Jump from platform to platform and go as high as possible!
+- [Triangle Back to Home](../games/action/triangle-back-to-home.md) — Guide a whimsical triangular paper figure through enchanting landscapes filled with obstacles in a quest to return home.
+- [Tribal job hopping](../games/action/tribal-job-hopping.md) — The game takes the form of a vertical version of parkour, with players switching weapons and tools along the way, disper
+- [Tribal wars](../games/action/tribal-wars.md) — This is a game where individuals and dinosaurs fight together, after winning can get gold coins, gold coins can buy peop
+- [Tricky Ball Runner](../games/action/tricky-ball-runner.md) — Aim target shoot the obstacles and Reach Destination win the Race .
+- [Tricky Castle](../games/action/tricky-castle.md) — Tricky Castle plunges you into a medieval fortress teeming with devious traps and mind-boggling puzzles. With 40 unique 
+- [Tricky Crab](../games/action/tricky-crab.md) — Help Mr. Crab escape from the pirates and collect the loot, remember you have to be fast or the pirates will catch you!
+- [Tricky Craby](../games/action/tricky-craby.md) — Crab stole pirate treasure and annoyed them. You have to help the crab escape. Watch out there will be traps in front of
+- [Tricky Master](../games/action/tricky-master.md) — This is an original online puzzle game made for free for kids. In this game, you play the role of a student, please take
+- [Tricky Track 3D 2](../games/action/tricky-track-3d-2.md) — Race through a stunning 3D world in Tricky Track 3D 2, where precision and timing are your allies. Steer a fast-paced ba
+- [Tricky Track Game](../games/action/tricky-track-game.md) — Tricky Track 3D is an arcade running race game. It is funny and interesting. You will join in a running steeplechase. Th
+- [Triman](../games/action/triman.md) — Triman is a 2D simple platformer where you need to collect Golden keys and reach the Exit door. There are 8 levels to pl
+- [Triple Run](../games/action/triple-run.md) — Endure the rush in Triple Run, a thrilling tap challenge where precision and reflexes reign. Navigate obstacle-filled co
+- [Trishift](../games/action/trishift.md) — About the Game Shiftrix is a fast-paced action survival game where players switch between different shapes to survive en
+- [Troll Battle Hidden](../games/action/troll-battle-hidden.md) — Troll Battle Hidden is a free online skill and hidden object game. Find out the hidden stars in the specified images. Ea
+- [TrollHead to Face](../games/action/trollhead-to-face-2.md) — Race against the clock in TrollHead to Face, navigating as a whimsical troll-faced stick character. Leap across sky-high
+- [Trolly Runner](../games/action/trolly-runner.md) — Jump into your mine cart for an exhilarating ride as you dodge obstacles, collect treasures, and uncover hidden surprise
+- [Tronbot](../games/action/tronbot.md) — Tronbot is a 2D platformer where you need to collect battery cells in order to unlock the battery-powered security door.
+- [Truck Deliver 3D](../games/action/truck-deliver-3d.md) — Here is a truck balanced arcade game with 3D art animations called Truck Deliver 3D. The factory needs you to transport 
+- [Truck Slam](../games/action/truck-slam.md) — Two monster trucks. Two spinning maces. One survives. Smash enemies in single-player or duel a friend in 2-player mode o
+- [Trump Winter Adventure](../games/action/trump-winter-adventure.md) — Trump Winter Adventure is a fun and free online game for kids! Help the cheerful Trump save Christmas by collecting as m
+- [Truth Runner](../games/action/truth-runner.md) — As a young girl, which way do you like to pass in real life. Truth Runner is a running arcade game on a 3D platform that
+- [Truth Runner](../games/action/truth-runner-2.md) — Run to shape your destiny in Truth Runner. Dash through diverse terrains, aspiring for dream professions while collectin
+- [Try Again](../games/action/try-again.md) — Try Again is a tricky physics platformer. Roll your ball through 70 levels that fight back: floors that vanish, traps th
+- [Tsumani Escape](../games/action/tsumani-escape.md) — Find your way to escape from the Tsunami. Each level is a challenge. Are you ready to accept it? Try to manage all of th
+- [Tsunami Escape](../games/action/tsunami-escape.md) — Find your way to escape from the Tsunami. Each level is a challenge. Are you ready to accept it? Try to manage all of th
+- [Tsunami Escape Run](../games/action/tsunami-escape-run.md) — Find your way to escape from the Tsunami. Each level is a challenge. Are you ready to accept it? Try to manage all of th
+- [Tsunami For Escape Brainrots](../games/action/tsunami-for-escape-brainrots.md) — A tsunami is coming, so be very careful! The entire world will be flooded. You and your friend must work together to ris
+- [Tsunami Smash](../games/action/tsunami-smash.md) — Welcome to Tsunami Smash Run, jump and avoid falling into the water and don't let the tsunami wave smashes you Can you m
+- [Tsunami Steal An Egg](../games/action/tsunami-steal-an-egg.md) — 🥚 Steal eggs from guarded nests and hatch rare pets 💰 Earn cash and build income from your pets 🏃 Train speed on the 
+- [Tsunami Survival Run](../games/action/tsunami-survival-run.md) — Tsunami Survival Run is a running arcade game, which is popular among the running games. The gameplay is simple, but a l
+- [Tug of Heads](../games/action/tug-of-heads.md) — Tug of Heads is a fun wrestling game that can be played for 1 and 2 Player. There are more than 50 hand-designed levels 
+- [Tung Tung Sahur Battle Brr Brr Patapim](../games/action/tung-tung-sahur-battle-brr-brr-patapim.md) — Take on the role of the legendary Tung Tung Sahur and unleash sahur magic to fend off mischievous forest trolls. With qu
+- [Tung Tung Sahur Bike Stunt](../games/action/tung-tung-sahur-bike-stunt.md) — Embark on a whimsical journey with Tung Tung as you conquer outrageous ramps and loops on your trusty motorbike. Experie
+- [Tung Tung Sahur Boss Fight](../games/action/tung-tung-sahur-boss-fight.md) — Step into the eerie world of Tung Tung Sahur: Boss Fight, where your survival hinges on strategy and swift reflexes. Fac
+- [Tung Tung Sahur Invasion](../games/action/tung-tung-sahur-invasion.md) — Battle relentless Tung Tung Sahur monsters in a world overrun by chaos. Precision shooting and strategic movement hold t
+- [Tung Tung Sahur Snow Arena](../games/action/tung-tung-sahur-snow-arena.md) — Powerful snowballs are being fired at you from two towers on the left and right &mdash; be careful! By the way, you can 
+- [Tung Tung Super Sahur](../games/action/tung-tung-super-sahur.md) — Tung Tung Super Sahur is a Platform &ndash; Adventure game where you will help the little hero rescue the princess in a 
+- [Tung Tung Tung Sahur 2](../games/action/tung-tung-tung-sahur-2.md) — Step into the eerie halls of an abandoned hospital as Tung Tung Tung Sahur. Face bizarre Nike-shod shark foes in a tacti
+- [Tung Tung Tung Sahur VS Bombardino Crocodilo](../games/action/tung-tung-tung-sahur-vs-bombardino-crocodilo.md) — The two greatest enemies meet on a long road. Although one is strong, the others powerful stick blows are breaking throu
+- [Tunko](../games/action/tunko.md) — Tunko is a 2D platformer where you have to collect all of the grapes while avoiding enemies, spikes, saws and reach the 
+- [Tunnel Escape](../games/action/tunnel-escape.md) — Tunnel Escape is an exciting action-adventure game where you battle monsters in dark, perilous tunnels. Control your cha
+- [TunnelShuttle](../games/action/tunnelshuttle.md) — Dive into the exhilarating world of TunnelShuttle, where you pilot a high-speed aircraft through treacherous tunnels. Sh
+- [Tunno Boy](../games/action/tunno-boy.md) — Tunno Boy is a 2D cute little platformer where you have to collect all of the blue magical balls while avoiding the enem
+- [Tunno Boy 2](../games/action/tunno-boy-2.md) — Tunno Boy 2 is a 2D cute little platformer where you have to collect all of the blue magical balls while avoiding the ye
+- [TunTun Sahur: Super Runner Game](../games/action/tuntun-sahur-super-runner-game.md) — TunTun Sahur: Super Runner Game &ndash; Ready to have fun running with TunTun Sahur? In this hyper-casual runner, race d
+- [TunTun Sahur Super Runner Game](../games/action/tuntun-sahur-super-runner-game-2.md) — Embark on a thrilling run with TunTun Sahur! Dash down an ever-changing highway, evading random police and scooping up c
+- [Tuny vs Osu](../games/action/tuny-vs-osu.md) — Tuny vs Osu is a 2D Sci-fi themed platformer where you have to collect all of the purple cubes while avoiding the enemie
+- [Tuny vs Osu 2](../games/action/tuny-vs-osu-2.md) — Tuny vs Osu 2 is a 2D Sci-fi themed platformer where you have to collect all of the purple cubes while avoiding the enem
+- [Turbo Race Alphabets](../games/action/turbo-race-alphabets.md) — Take part in the race of your choice by swiping left or right! You may select the racing mode that best meets your requi
+- [Turbo Runner](../games/action/turbo-runner.md) — Race through thrilling levels in Turbo Runner, where quick reflexes are your best friend. Dodge cunning traps and make p
+- [Turf War Battle Game](../games/action/turf-war-battle-game.md) — Control the yellow pawn to fill more squares This is an easy territory grabbing game,tap the screen to control the movem
+- [Turkey Adventure Runner](../games/action/turkey-adventure-runner.md) — Fly high in Turkey Adventure Runner, where quick taps create boxes to keep your turkey airborne! Dodge obstacles with vi
+- [Turtle Quest](../games/action/turtle-quest.md) — Explore the mysterious adventure, collect Yellow Liquid to save Master and Beat Tyfun the enemy. Game story starts with 
+- [Turtle Quest](../games/action/turtle-quest-2.md) — Embark on a thrilling mission as a ninja turtle, navigating treacherous platforms and outsmarting cunning foes to rescue
+- [Tuu Bot](../games/action/tuu-bot.md) — Tuu Bot is a 2D Sci-fi themed platformer where you have to collect all of the batteries while avoiding the giant blades,
+- [Tuu Bot 2](../games/action/tuu-bot-2.md) — Tuu Bot 2 is a 2D Sci-fi themed platformer where you have to collect the batteries while avoiding the enemy robots, flyi
+- [Twerk Race 3D Online](../games/action/twerk-race-3d-online.md) — Twerk Race 3D Online is a new best funny and challenging game at all block running games. Collecting all the block to gr
+- [Twilight Trek](../games/action/twilight-trek.md) — Twilight Trek is a mesmerizing star-collection adventure where you control a bouncing ball on a magical journey through 
+- [Twin Ninja](../games/action/twin-ninja.md) — Master the art of dual control as two nimble ninjas race through intricate landscapes. Stay sharp and coordinate jumps w
+- [Twisty Color Road : Path Painter Run](../games/action/twisty-color-road-path-painter-run.md) — Find your path through the road and don't let collide your painter with other folk. You can complete each level by color
+- [Two Aliens Adventure](../games/action/two-aliens-adventure.md) — Two Aliens Adventure is a fun platformer game! Control two aliens, at the same time, and try to grab all gems to unlock 
+- [Two Ball 3D: Dark](../games/action/two-ball-3d-dark.md) — Two Ball 3D is online with its new version Dark theme! Many new features have been added to the game with the new versio
+- [Two Impostor Squid Challenge](../games/action/two-impostor-squid-challenge.md) — Dive into the pixelated frenzy of Two Impostor Squid Challenge! Strategize and collaborate with a friend to tackle inten
+- [Two Player Red Hands Game](../games/action/two-player-red-hands-game.md) — Welcome to the world of two players of the red hands game. Challenge your friends to play two player hand games and chec
+- [Two Wall](../games/action/two-wall.md) — Hyper-casual game with simple one-touch controls and procedural difficulty. Switch between walls to get points, and avoi
+- [Two Walls](../games/action/two-walls.md) — Hyper-casual game with simple one-touch controls and procedural difficulty. Switch between walls to get points, and avoi
+- [Typing Battle](../games/action/typing-battle.md) — Engage in a thrilling typing showdown where words become weapons! In Typing Battle, type to defeat approaching foes befo
+- [Ultimate Brainrot Battle](../games/action/ultimate-brainrot-battle.md) — Chaotic fights, insane upgrades, pure Italian Brainrot.
+- [Ultimate Dino Runner](../games/action/ultimate-dino-runner.md) — Dash through a retro-inspired world as a daring dinosaur in Ultimate Dino Runner. Master simple controls and perfect you
+- [Ultimate Fight](../games/action/ultimate-fight.md) — "Dive into Ultimate Fight, an electrifying two-player showdown where reflexes and strategy reign. Share a console for dy
+- [Ultimate Hero Clash!](../games/action/ultimate-hero-clash.md) — Teenage Mutant Ninja Turtles VS Power Rangers: Ultimate Hero Clash" pits two beloved teenage superhero groups against ea
+- [Ultimate Hero Clash 2](../games/action/ultimate-hero-clash-2.md) — Embark on an epic adventure with Ultimate Hero Clash 2 game! Experience the excitement as the Power Rangers, the legenda
+- [Ultimate Mario run](../games/action/ultimate-mario-run.md) — Help Mario survive the chase of ferocious Chain Chomp Shark through a series of five dangerous stages. Avoid getting cau
+- [Ultimate Obby Parkour Adventure Online](../games/action/ultimate-obby-parkour-adventure-online.md) — Join the thrilling adventure of Ultimate Obby Parkour, a colorful world filled with obstacles and unique challenges acro
+- [Ultimate Robo Duel 3D](../games/action/ultimate-robo-duel-3d.md) — In the Ultimate Robo Duel 3D game, you can fight in the arena with advanced robots. You will feel yourself in the arena 
+- [Ultimate Robot Fighting](../games/action/ultimate-robot-fighting.md) — Enter the ultimate showdown in Ultimate Robot Fighting. Youll be controlling your robot in battle. Keep shooting enemies
+- [Ultimate Robot Fighting](../games/action/ultimate-robot-fighting-2.md) — Step into an epic mechanical showdown in Ultimate Robot Fighting. Command your robot warrior, annihilate enemies, and su
+- [Ultrahero Vs Monsters Royale Battle](../games/action/ultrahero-vs-monsters-royale-battle.md) — Ultrahero Vs Monsters Royale Battle is an action fighting game where you, as a mighty Ultrahero. Battle against waves of
+- [Ultrahero Vs Monsters Royale Battle](../games/action/ultrahero-vs-monsters-royale-battle-2.md) — Dive into a thrilling clash as a daring Ultrahero fending off relentless monster waves. Strategically merge fast-paced c
+- [Unbroken Soul](../games/action/unbroken-soul.md) — In Unbroken Soul, guide King Tyrion's spirit through a vibrant 2D realm, overcoming perilous traps and foes. Master your
+- [Uncharted : Hidden Stars](../games/action/uncharted-hidden-stars.md) — Uncharted is a series of action-adventure games created by Amy Hennig. The games are developed by Naughty Dog and publis
+- [Undead Appetite](../games/action/undead-appetite.md) — Undead Appetite Run. Dodge. Survive the hunger of the dead. In Undead Appetite, the world has fallen &mdash; and now the
+- [Undead Horizons: Pirates Plague](../games/action/undead-horizons-pirates-plague.md) — Embark on a treacherous journey in Undead Horizons: Pirates Plague, a high-octane action-adventure game. Set in a world 
+- [Undead Warrior](../games/action/undead-warrior.md) — Undead Warrior is a fun action game where you can evolve by collecting gems and eliminating your enemies.
+- [Undercrown](../games/action/undercrown.md) — Undercrown is a top-down 3D dungeon brawler with a nasty little twist: getting to the treasure is only half the run.
+- [Unfair Mario 2](../games/action/unfair-mario-2.md) — Unfair Mario 2 is a brand new hidden obstacles type of game featuring the most beloved hero in the whole gaming industry
+- [Unicorn Kingdom](../games/action/unicorn-kingdom.md) — Get gems and mix them to win prizes. Decorate your album with stickers of the funniest unicorns. ??? Have fun with Arya 
+- [Unicorn Run](../games/action/unicorn-run.md) — Achive a better highscore with your unicorn running and jumping from one platform to another
+- [Unicorn Runner](../games/action/unicorn-runner.md) — Run, Jump & Slide with your little Pony in a new horse running game with exciting fun unicorns to select. Run as fast as
+- [Unicorns Jumper](../games/action/unicorns-jumper.md) — An addicted hypercasual game, simple to control, nice design, fun and relax-able. Jump as high as possible to unlock mor
+- [UniKitty Save Kingdom](../games/action/unikitty-save-kingdom.md) — In this game you will run a thousand adventures in the company of different characters from the Unikitty universe. Help 
+- [UniKitty Save The Kingdom](../games/action/unikitty-save-the-kingdom.md) — In this game you will run a thousand adventures in the company of different characters from the Unikitty universe. Help 
+- [Up and Down : Colors Game](../games/action/up-and-down-colors-game.md) — Test your reflexes in the speediest game ever. It's super simple and you have only 2 choice on your path: up or down. If
+- [Up, Up, and Oops!](../games/action/up-up-and-oops.md) — Climb floating paths in this fast-paced 3D arcade action game. Read the path, choose the correct direction, and move bef
+- [Urban Echo](../games/action/urban-echo.md) — Urban Echo is an exciting action parkour game where you control a character to overcome obstacles in an urban environmen
+- [URBAN JUMP](../games/action/urban-jump.md) — URBAN JUMP is a fast-paced, gritty, and unforgiving arcade platformer where only one thing matters - climbing higher tha
+- [Urban Protector Pro](../games/action/urban-protector-pro.md) — Urban Protector Pro challenges you to be a hero in a besieged city where tactical prowess is key. Engage in fast-paced c
+- [Urban Sniper Multiplayer 2](../games/action/urban-sniper-multiplayer-2-2.md) — In Urban Sniper Multiplayer 2, immerse yourself in thrilling urban warfare. Engage in heart-pounding multiplayer battles
+- [Urban Subway Rail Blazers - Texas Run](../games/action/urban-subway-rail-blazers-texas-run.md) — The addictive Urban Subway Rail Blazers - Texas Run is now out for Android! All your friends are playing it? Run, dash a
+- [Utoo](../games/action/utoo.md) — Utoo is a 2D platformer where you have to collect the blue cubes while avoiding enemies, saws and spikes and reach the E
+- [Utoo 2](../games/action/utoo-2.md) — Utoo 2 is a 2D platformer where you have to collect blue cubes while avoiding the enemies, flying creatures, saws and sp
+- [Vampire Runner](../games/action/vampire-runner.md) — The Vampire Runner game is a cool adventure game. If you are a fan of running or jumping then you can also collect the c
+- [Vampires Edge](../games/action/vampires-edge.md) — Vampires on Limit is an incredibly addictive arcade hit where simple rules yield hours of gripping chaos. Your goal is c
+- [Vanguard - First Strike](../games/action/vanguard-first-strike.md) — Dive into the fast-paced chaos of Vanguard - First Strike, where tactical decisions and quick reflexes are your best all
+- [Vault Hopper](../games/action/vault-hopper.md) — Leap into danger with Vault Hopper, where you play as a swift thief navigating treacherous vaults. With fast-paced jumpi
+- [Vault Vault Collecting Coins](../games/action/vault-vault-collecting-coins.md) — Leap between platforms, tapping coins from treasure vaults in this addictive platformer. With endless level generation a
+- [Vector Parkour](../games/action/vector-parkour.md) — Vector is an exciting arcade-style game featuring you as the exceptional free runner who wont be held down by the system
+- [Vector Parkour 2](../games/action/vector-parkour-2.md) — RUN FOR YOUR LIFE Descend through a huge and complex research facility and try to get out alive – over and over again.
+- [Vemon Run 3D](../games/action/vemon-run-3d-2.md) — Race through a vibrant 3D world as the agile Vemon, dodging obstacles and crushing enemies. Collect gems to upgrade and 
+- [Venom Hero Street Fighting Game](../games/action/venom-hero-street-fighting-game.md) — Become venom, the master and the beholder of the infinity gauntlet who’s been destined to gather all the infinity fighti
+- [Venom's Adventures](../games/action/venom-s-adventures.md) — Venom's Adventures is an adventure game story about this cute venom. You need to control the venom to get to the end of 
+- [Vertical Gravity](../games/action/vertical-gravity.md) — Vertical Gravity is a platform game where you jump through gaps by changing your gravity. When you walk on the platform,
+- [VexMan Parkour](../games/action/vexman-parkour.md) — Welcome to VexMan Parkour, a new stickman adventure Game! Run, Jump and Avoid obstacles to collect golden coins. When yo
+- [Viking Guard Game](../games/action/viking-guard-game.md) — Enter the world of fearless Norse warriors in Viking Guard, an action-packed defense and survival game where courage, st
+- [Viking Runner](../games/action/viking-runner.md) — Play as the viking Haldor as you dodge, jump and throw you axe Play as the viking Haldor as you dodge and jump your way 
+- [Viking War](../games/action/viking-war.md) — Viking War is an action game where you embody a fierce Viking warrior, charging into brutal battles to prove your streng
+- [Viking War](../games/action/viking-war-2.md) — Unleash your inner Viking in this fierce action adventure. Master your weapons, showcase your warrior prowess, and conqu
+- [Viking Way](../games/action/viking-way.md) — Help the warrior to move on without getting hurt by the harmful equipment. Pick the bear and drink to get more life
+- [Vikings Royal Battle](../games/action/vikings-royal-battle.md) — How much do you know about Vikings? Vikings Royal Battle provides you with a chance to act as a Viking with a circle shi
+- [Vikings vs Skeletons](../games/action/vikings-vs-skeletons.md) — Vikings vs Skeletons is an online game that you can play for free. Vikings vs Skeletons is a funny adventure side-scroll
+- [Vikings VS Skeletons](../games/action/vikings-vs-skeletons-2.md) — Embark on a thrilling quest as a fearless Viking, battling relentless skeleton foes with sword slashes or daring jumps. 
+- [Vikings VS Skeletons Game](../games/action/vikings-vs-skeletons-game.md) — Vikings VS Skeletons is a super fun and challenging 2D side-scroller game in the same style as blockbuster games like Su
+- [Vikings : War of Clans](../games/action/vikings-war-of-clans.md) — Play Viking War of Clans by touch on screen or long press the left mouse button to throwing ax to another Viking, take a
+- [Virology](../games/action/virology.md) — Sneak, dodge, and strategize as a clever virus in Virology, the inventive 2D platformer blending classic charm with mode
+- [Virus Clicker](../games/action/virus-clicker.md) — Unleash viral prowess in Virus Clicker, where each tap unlocks thrilling viral powers. Strategize with diverse viruses, 
+- [Virus Crasher](../games/action/virus-crasher.md) — Virus Crasher is a fun game! Help the monster survive, destroy various mutated viruses using the tap or slash method, sc
+- [Void City](../games/action/void-city.md) — Void City is a recreational competitive game in which the player grows a void hole by devouring a city.
+- [Voltier](../games/action/voltier.md) — Voltier is a 2D platformer where you have to collect stolen power boxes while avoiding the enemies, spikes, water bodies
+- [Voltier 2](../games/action/voltier-2.md) — Voltier 2 is a 2D platformer where you have to collect power boxes while avoiding the enemies, bullets, spikes, water, r
+- [Vovan Running](../games/action/vovan-running.md) — Vovan Running is a casual game that help you to fill your spare time. Run and jump around tons of different and WACKY ob
+- [Wall Between US](../games/action/wall-between-us.md) — Dona, the Pig is the leader of his land. He is well respected and very stubborn. The foxes live in the land next to Dona
+- [Wall Breaker](../games/action/wall-breaker-2.md) — Unleash your inner rebel in Wall Breaker, a dynamic adventure where shattering walls of confinement fuels your power. Ex
+- [Wall Breaker 3D](../games/action/wall-breaker-3d.md) — Smash the walls, set yourself free from the boring energy of office space, classroom or crowded streets. Breaking walls 
+- [Wall Kickers](../games/action/wall-kickers.md) — Smash the walls, set yourself free from the boring energy of office space, classroom or crowded streets. Breaking walls 
+- [Wall Punching](../games/action/wall-punching.md) — Are you angry ? Release your anger not on others but on game. Yes!! Break every wall that stands in your way! Release yo
+- [Wall Runner - The Original](../games/action/wall-runner-the-original.md) — Climb to new heights in Wall Runner, a thrilling journey where agility is key. Flip between walls, dodge spikes, and out
+- [Wall Runner - Ultimate](../games/action/wall-runner-ultimate.md) — Defy gravity with Wall Runner - Ultimate! Glide across vertical surfaces, dodging spikes and lasers while collecting coi
+- [Wall Rush 3D](../games/action/wall-rush-3d.md) — Run as fast as wind and race against all best runner in the world. Leap from buildings and vault over wall. Only the 1st
+- [War Airplane](../games/action/war-airplane.md) — Destroy enemy planes. Collect all the bombs. Don't forget to take health supplies. It's up to you to save the world from
+- [War island](../games/action/war-island.md) — Welcome to Island War: The continent in the center of the world was shattered by mysterious power; it became countless i
+- [War Lands](../games/action/war-lands.md) — War Lands is a good action RPG with random elements and maps. The characters and environments are hand drawn giving a ve
+- [War Of Tanks : Paper Note](../games/action/war-of-tanks-paper-note.md) — War Of Tanks: Paper Note is a competitive game that you can play with your friend and alone with "1 PLAYER" and "2 PLAYE
+- [War Parkour](../games/action/war-parkour.md) — Seize the opportunity to skip or destroy the obstacles in front of you. Be careful of the arrow of the marksman. Come on
+- [War Robots Battle Mech Arena](../games/action/war-robots-battle-mech-arena.md) — Want an epic robot battle? In War Robots Battle: Mech Arena, you&rsquo;ll pilot powerful robots. Begin nervous battles i
+- [War Robots Battle Mech Arena](../games/action/war-robots-battle-mech-arena-2.md) — Command mighty robots in War Robots Battle Mech Arena, where strategy meets explosive action. Customize mechs with power
+- [Warden of the Crypt](../games/action/warden-of-the-crypt.md) — Enter the dark and mystical world of Warden of the Crypt, where you take on the role of a mighty wizard sworn to defend 
+- [Warrior Fighters Samurai Sim](../games/action/warrior-fighters-samurai-sim.md) — Please do not ignore them, though! They are effective street competitors. You are offered several defenses and assault m
+- [Warrior Kingdom](../games/action/warrior-kingdom.md) — Warrior Kingdom is an action RPG for one person. You will guide your character through the game, fighting enemies and co
+- [Warrior Run](../games/action/warrior-run.md) — Dash through a vibrant world in Warrior Run, dodging dangerous foes and leaping over obstacles with perfect timing. Quic
+- [Warriors Line Up](../games/action/warriors-line-up.md) — Immerse yourself in a simple yet thrilling gameplay experience filled with dynamic skills, stunning graphics, and a plet
+- [Warriors VS Monster](../games/action/warriors-vs-monster.md) — Join the relentless run in Warriors VS Monster, where quick reflexes are your best ally. Leap over obstacles and slay pu
+- [Wars of Thrones](../games/action/wars-of-thrones.md) — Are you ready to survive in a colorful world full of dangers? In this top-down action game, you&rsquo;ll fight alongside
+- [Warship Battle](../games/action/warship-battle.md) — Command your own pirate ship, set sail, and embark on a bold voyage! Have you ever dreamed of becoming a pirate and conq
+- [Water Hop Chubby](../games/action/water-hop-chubby.md) — This is game with sweet chubby kid who does not know to swim. So your job is to pass this kids in safe place without dro
+- [Water On Mars](../games/action/water-on-mars.md) — Water found on Mars! Show everyone if you can have more water on Mars or Jupiter in this fun 2 player game. Work your fi
+- [Water Runner](../games/action/water-runner.md) — Our character, who is running for his flowers, has 2 difficult roads and at the end of those roads he waters his flowers
+- [Watermelon Day](../games/action/watermelon-day.md) — Watermelon Day is a 2D cute little challenging platformer where you play as Watermelon boy who have to collect the glass
+- [Watermelon Day 2](../games/action/watermelon-day-2.md) — Watermelon Day 2 is a 2D cute little challenging platformer where you play as a Watermelon man who have to collect glass
+- [Waterpark Slide Race](../games/action/waterpark-slide-race-2.md) — Race down monumental slides as a daring Stickman in Waterpark Slide Race. Navigate through intricate twists and adrenali
+- [Waterpark Slide Race Online](../games/action/waterpark-slide-race-online.md) — Enjoy this summer with Waterpark: Slide Race game. Just have a fun racing game with spectacular EDM rhythm game experien
+- [Watto Boy 2](../games/action/watto-boy-2.md) — Embark on a thrilling 2D quest with Watto, the lightbulb hero, in Watto Boy 2. Navigate deadly traps and cunning enemies
+- [Wave Run: Brainrot Escape!](../games/action/wave-run-brainrot-escape.md) — 🚨WARNING: A TSUNAMI IS APPROACHING!🚨
+- [Wave runner Game](../games/action/wave-runner-game.md) — Wave runner casual game where we can feel more excitement while moving upward from down to up. most time consuming game 
+- [Way Dawn](../games/action/way-dawn.md) — Way Dawn is a 2D logic game. You need to position and adjust the platforms correctly to launch the ball and deliver it t
+- [Way of the Samurai](../games/action/way-of-the-samurai.md) — This samurai wants to go back home, but suddenly he dropped in a very very deep hole. Now he must run out this place, bu
+- [Weapon Cloner](../games/action/weapon-cloner.md) — Fight against the hordes of beasts that are coming to attack you,Protect your village from these ravenous monsters for a
+- [Weapon Duel](../games/action/weapon-duel.md) — Weapon Duel is a combat gamePlayers can control character attacks and throw missiles to knock opponents off the platform
+- [Weapon Master](../games/action/weapon-master.md) — Weapon Master this is an interesting and exciting game for boys. You need to knock down all your opponents. This game wi
+- [Weapon Run Battle](../games/action/weapon-run-battle.md) — Dash, leap, and blast through thrilling levels in Weapon Run Battle. Collect cash to upgrade your arsenal and strategica
+- [Web Swing Obby: Aqualand](../games/action/web-swing-obby-aqualand.md) — Master web swinging in this 3D obby parkour game! Shoot your web, build momentum, and release at the right moment to cro
+- [WEDDING BATTLE CLASSIC VS MODERN](../games/action/wedding-battle-classic-vs-modern.md) — Did you hear that? It’s wedding bells ringing! Two lovely couples are getting married. One couple have chosen classic as
+- [Wednesday’s Battle: Monster Symphony](../games/action/wednesday-s-battle-monster-symphony.md) — An endless action game that fuels the urge to try again after every defeat, keeping you hooked for ‘just one more round.
+- [Wednesday's Battle - Monster Symphony](../games/action/wednesday-s-battle-monster-symphony-2.md) — Join Wednesday in an epic rhythmic duel against mythical creatures. Unleash magical melodies from your cello in fast-pac
+- [Western Fight](../games/action/western-fight.md) — In this western themed game you can fight to the fullest with 8 different characters. With 2 player game mode you can fi
+- [Whack A Mole](../games/action/whack-a-mole.md) — There are many moles in the field suddenly, Please drive them away.
+- [Whack Your Boss](../games/action/whack-your-boss.md) — WHACK YOUR BOSS. WHACK HIM, JUST WHACK HIM AS HARD AS YOU CAN. Or, alternatively, whack your computer. This game lets yo
+- [WhackAMole3D](../games/action/whackamole3d.md) — Whack-a-Mole WebGL is a fun and fast-paced arcade game where your reflexes are put to the test! Moles randomly pop out o
+- [Whaito](../games/action/whaito.md) — Whaito is a 2D cute little platformer where you have to collect all of the red cubes while avoiding the spikes, man eate
+- [What's Next?](../games/action/what-s-next.md) — A violent war has began, and now you have to save your people, fighting against anything will try to stop you! Features:
+- [Wheelchair parkour: No limits](../games/action/wheelchair-parkour-no-limits.md) — Race across the city rooftops in a wheelchair, build up speed, jump across huge gaps, and overcome dangerous obstacles. 
+- [Whipsaw Roll](../games/action/whipsaw-roll.md) — Conquer the fierce world of Whipsaw Run, where your glowing orb must deftly overcome perilous landscapes. Master gravity
+- [Whirlwind Waffle War](../games/action/whirlwind-waffle-war.md) — In Whirlwind Waffle War, launch twirling waffles, ensnare opponents with gooey syrup, and climb to triumph in a zany bre
+- [Whispering Echoes - Puzzle Dungeon Escape](../games/action/whispering-echoes-puzzle-dungeon-escape.md) — Navigate a mysterious dungeon in Whispering Echoes, where your own echoes aid in your escape. Solve intricate puzzles us
+- [Who Will Win? Create a Battle!](../games/action/who-will-win-create-a-battle-2.md) — Unleash your creativity and design epic showdowns with a vast arsenal of over 300 objects. Choose from a variety of char
+- [Wickey Adventure](../games/action/wickey-adventure.md) — Wickey Adventure is a skill game where you control a cute boy called Wickey and eat all the delicious candies in a dange
+- [Wild Adventure](../games/action/wild-adventure.md) — Dive into Wild Adventure, where a vibrant, untamed world awaits. Traverse breathtaking landscapes, meet exotic creatures
+- [Wild West Mafia Redemption Gun](../games/action/wild-west-mafia-redemption-gun.md) — Jump into the chaos of the Wild West in Wild West Mafia Redemption Gun. Navigate through intense shootouts against outla
+- [Wings of the Past](../games/action/wings-of-the-past.md) — Experience thrilling vintage air combat in "Wings of the Past." Master pixel-art skies, evade enemy fire, and claim your
+- [Wings of the Viking](../games/action/wings-of-the-viking.md) — Soar through a dark, enchanted forest as a fearless Viking, riding a mighty dragon. Navigate menacing goblins with skill
+- [Wings of War](../games/action/wings-of-war.md) — Wings of War thrusts you into thrilling aerial battles, testing your flying skills and reflexes against relentless foes.
+- [Wingy Wheels](../games/action/wingy-wheels.md) — Wingy Wheels is a cozy hill-sliding game with winged cars. Dive down the slopes to build speed, launch off the hilltops 
+- [Winki Tinli](../games/action/winki-tinli.md) — Help Winki Tinli in his adventure, overcoming the different levels to achieve victory. Crush the enemies you will face a
+- [Winter Battle](../games/action/winter-battle.md) — The perfect winter season has arrived. Join the battle between Santa Claus and the Grinch under the snow. Collect all th
+- [Winter Battle](../games/action/winter-battle-2.md) — The perfect winter season has arrived. Join the battle between Santa Claus and the Grinch under the snow. Collect all th
+- [Winter Battle](../games/action/winter-battle-3.md) — Embrace the winter chaos as Santa and the Grinch face off in a frantic gift-grabbing duel. Accumulate presents to grow i
+- [Winter: Cold Wind](../games/action/winter-cold-wind.md) — More than a thousand years have passed since the last incident; that mysterious avalanche has returned, bringing with it
+- [Winter Gifts](../games/action/winter-gifts.md) — Winter Gifts is retro a platforming-puzzle game where you grab or throw gifts. Give the gifts to children at Christmas t
+- [Winter Wolf](../games/action/winter-wolf.md) — Embark on a thrilling quest through Winter Wolf's icy wilderness as a resourceful wolf. Master the art of Double Jump to
+- [Winx Bloom Magic Attack](../games/action/winx-bloom-magic-attack.md) — Sky Fairy Bloom continues to fight evil witches. Trix witches Darcy and Icy are so evil. Bloom must beat them. Let's pla
+- [Witch Darcy Attacks](../games/action/witch-darcy-attacks.md) — The witch of trix attacks darcy. Will Bloom survive this attack? Move left and right by touching the buttons below. surv
+- [Witch Mirror](../games/action/witch-mirror.md) — In Witch Mirror, embrace the duality of magic by guiding a witch and her mirror double through enchanting, puzzling terr
+- [Wizard Santa Jump](../games/action/wizard-santa-jump.md) — An online action game, Wizard Santa Jump has players guiding Santa as he jumps through several levels. To win, you must 
+- [WOBBLE IT](../games/action/wobble-it.md) — WOBBLE IT is a 3D rolling-ball puzzle platformer. Guide a beach ball across floating block worlds where the ball sticks 
+- [Wobble Run](../games/action/wobble-run.md) — Wobble Run is a 13+ arcade balance runner. You auto-run a leaning stack of wet-ink cans across Sky Docks, Slice Street, 
+- [Women Wrestling Fight Revolution: Fighting Games](../games/action/women-wrestling-fight-revolution-fighting-games.md) — Rockstar girls wrestling rumble 2020 offers bikini model girls fighting experience in this amateur girls wrestling game.
+- [Wonderful High Heels 3D](../games/action/wonderful-high-heels-3d.md) — 1. There are so many levels that the difficulty of the game increases as the level goes on, and it is still fun to play 
+- [Wonderland](../games/action/wonderland.md) — Embark on a thrilling adventure in Wonderland, a game bursting with dynamic challenges across 30 exhilarating levels. Ou
+- [Wood Crafting](../games/action/wood-crafting.md) — Wood Crafting encompasses a diverse range of creative endeavors involving woodworking techniques to shape and manipulate
+- [world war 3](../games/action/world-war-3.md) — An immersive combat strategy game in a world of armies, tanks and warships, War Commander: Rogue Assault delivers a stun
+- [World War - ww3 Mode](../games/action/world-war-ww3-mode.md) — There are more mobile games than any of the epic military strategy games! Your choices and strategy are key to the succe
+- [World Z Defense - Zombie Defense](../games/action/world-z-defense-zombie-defense.md) — Defend humanity in a post-apocalyptic world by strategically deploying unique soldiers to fend off relentless zombie hor
+- [Worms Zone a Slithery Snake](../games/action/worms-zone-a-slithery-snake.md) — Worms Zone is a game with a dynamic storyline. Start growing your worm right now. Having tried to get a real anaconda, a
+- [Wounded Winter A Lakota Story](../games/action/wounded-winter-a-lakota-story.md) — Embark on a journey of vengeance and rescue as Akecheta, navigating stunning low poly landscapes of the western frontier
+- [Wrestle Run](../games/action/wrestle-run.md) — Dive into Wrestle Run, where exhilarating wrestling action meets endless running. Dodge or smash obstacles using epic mo
+- [Wrestling Fight](../games/action/wrestling-fight.md) — Wrestling Fight - is a wrestling game with an entertaining version of it. Your goal is to get to better of your opponent
+- [X O Battle](../games/action/x-o-battle.md) — X-O Battle is the perfect choice for players who enjoy fast-paced puzzle games and strategic challenges. With its combin
+- [X O Battle](../games/action/x-o-battle-2.md) — X-O Battle elevates the classic Tic-Tac-Toe experience with a sleek design, offering quick matches or deep strategic due
+- [X-Parkour](../games/action/x-parkour.md) — Control the role to avoid danger, use your skills reasonably to keep moving forward, and many difficulties will eventual
+- [XMAS Wheelie](../games/action/xmas-wheelie.md) — Wheelie your way in to the holidays
+- [Xoka](../games/action/xoka.md) — Xoka is a 2D platformer where you play as a ghost who have to collect the orbs of human spirits while avoiding the enemy
+- [Xoka 2](../games/action/xoka-2.md) — Xoka 2 is a 2D platformer where you play as a ghost who have to collect the orbs of human spirits while avoiding the ene
+- [Yaatu Ball](../games/action/yaatu-ball.md) — Yaatu Ball is a 2D platformer where you play as a cute ball who have to collect all of the ice cream cones while avoidin
+- [Yasin Cengiz Game](../games/action/yasin-cengiz-game.md) — Help the Tiktoker Yasin to catch all the food in a rushtime. Eat all food and dont let fall or you will lose a life. Eva
+- [Yatosan](../games/action/yatosan.md) — Yatosan is a 2D cute little platformer where you have to collect the slices of cheese while avoiding the enemies, spikes
+- [Yatosan 2](../games/action/yatosan-2.md) — Yatosan 2 is a 2D cute little platformer where you have to collect the slices of cheese while avoiding the enemies, flyi
+- [Yenoghu's Revival](../games/action/yenoghu-s-revival.md) — Embark on a daring escape as a sentient parasite in Yenoghu's Revival. Navigate through a pixel-art labyrinth filled wit
+- [Yeti Adventure](../games/action/yeti-adventure.md) — Yeti Adventure is an online platformer game that challenges players to navigate through a variety of levels, overcome ob
+- [Yeti Dungeon Runner](../games/action/yeti-dungeon-runner.md) — Race through ever-changing mazes in Yeti Dungeon Runner, where quick reflexes and strategic thinking are paramount. Navi
+- [Yeti Run](../games/action/yeti-run.md) — Yeti Run is an endless skiing game where the mountain never runs out but your luck does. You carve down the slope with o
+- [Yeti Sensation](../games/action/yeti-sensation.md) — OH NOOO! Bigfoot wanted! Help embarrassed Yeti to find a way to his new home, avoid sly snowmen, dangerous traps and oth
+- [Yoko](../games/action/yoko.md) — Cute little Mario-style platform game. Collect coins and gems, jump on top of enemies to defeat them and try to find the
+- [You cannot beat this game mate](../games/action/you-cannot-beat-this-game-mate.md) — Embark on an unforgiving platformer adventure where every move tests your limits. Navigate a minimalist Stickman world f
+- [Your Obby Labyrinth](../games/action/your-obby-labyrinth.md) — Join an exciting multiplayer maze adventure! Team up with friends to explore tricky mazes full of secrets, funny message
+- [Your Obby Parkour](../games/action/your-obby-parkour.md) — Enter a thrilling world of non-stop challenges! Run, jump, dodge, and conquer in the ultimate parkour platformer! Surviv
+- [Your Obby Size](../games/action/your-obby-size.md) — Parkour and size control with secrets and surprises! Jump, run, and reach new heights in this thrilling game! Avoid lava
+- [Your Silver Wife](../games/action/your-silver-wife.md) — Embark on an anime-inspired journey where clicks nurture a bond with your virtual partner. Strategize your way through e
+- [Yuas Quest](../games/action/yuas-quest.md) — Yuas Quest is a 2D platformer where you play as an Anime girl called Yua who have to collect the bottles of antidote of 
+- [Yuas Quest 2](../games/action/yuas-quest-2.md) — Yuas Quest 2 is a 2D platformer where you have to play as an anime girl who have to collect antidotes of Zombie virus wh
+- [Yui Christmas Adventure](../games/action/yui-christmas-adventure.md) — Yui Christmas Adventure is a 2D Christmas themed platformer where you play as an anime girl called Yui, who have to coll
+- [Yui Christmas Adventure 2](../games/action/yui-christmas-adventure-2.md) — Yui Christmas Adventure 2 is a 2D Christmas themed platformer where you play as an anime girl called Yui, who have to co
+- [Z Machine](../games/action/z-machine-2.md) — Battle waves of zombies in Z Machine, commanding your tank through diverse maps filled with danger and opportunity. Upgr
+- [Z Stick Duel Fighting](../games/action/z-stick-duel-fighting.md) — Join the ultimate stickman battle in Z Stick Duel Fighting, a game that will make you fight for glory. You will play as 
+- [Zaho Bot](../games/action/zaho-bot.md) — Zaho Bot is a Sci-fi themed platformer where you play as a robot who have to collect all of the flasks containing red ch
+- [Zaho Bot 2](../games/action/zaho-bot-2.md) — Zaho Bot 2 is a 2D Sci-fi themed platformer where you play as a robot who have to collect all of the flasks containing r
+- [Zenifer  Adventure](../games/action/zenifer-adventure.md) — Story begins with King Zulifer and his kingdom, but he becomes very sick due to the magical power of the black witch, no
+- [ZhangFei Legend](../games/action/zhangfei-legend.md) — An H5 action game featuring Zhang Fei, a renowned general from the Three Kingdoms, where players take control of Zhang F
+- [Zibo - The Platform Game](../games/action/zibo-the-platform-game.md) — oh you Do you feel ready for this adventure? You know well what to do. Don't stop, this world needs you. If you turn you
+- [ZigZag Color Line](../games/action/zigzag-color-line.md) — Walk back and forth avoiding any blocks that are not the same color as your line. Collect the same colored blocks to ear
+- [Zipline Rescue Adventure](../games/action/zipline-rescue-adventure.md) — Can you Zipline people and survive in Ultimate challenging puzzle game perfection?
+- [Zizo Adventure](../games/action/zizo-adventure.md) — If you like Super Mario, then you can't miss this game Zizo Adventure, which is a fun adventure game. Watch out for the 
+- [Zodiac Runner](../games/action/zodiac-runner.md) — How do you know about the zodiac? Zodiac Runner is a vertical-version running arcade game with 3D platforms and zodiac i
+- [Zodiac Rush! Horoscope Runner](../games/action/zodiac-rush-horoscope-runner.md) — Choose your horoscope sign and collect the right items and go through the right gates to reach your destination.
+- [Zombie Attack 2](../games/action/zombie-attack-2.md) — Zombie attack 2 is one of the best adventure, zombie shooter run game. Zombie Attack 2 is a 2D adventure game with shoot
+- [Zombie Base](../games/action/zombie-base.md) — Zombie Base is a design game with multiple levels waiting for you to challenge. You need to collect gold coins to enhanc
+- [Zombie Crusher](../games/action/zombie-crusher.md) — Unleash your reflexes in Zombie Crusher, where speed and precision are paramount. Crush relentless undead hordes with ra
+- [Zombie Day](../games/action/zombie-day.md) — Zombie Day is a Zombies gameThe player will play the role of an officerthe player cane knock down zombies to obtain reso
+- [Zombie defense: War Z Survival](../games/action/zombie-defense-war-z-survival.md) — Zombie defense: War Z Survival, the ultimate zombie game, is here to fulfill your gaming desires! Prepare yourself for a
+- [Zombie Dentist 2](../games/action/zombie-dentist-2.md) — This is an interesting dentist game. In this dentist game, your child will learn how to cure the teeth of little patient
+- [Zombie Derby](../games/action/zombie-derby-4.md) — In Zombie Derby, race through zombie-infested landscapes, smashing undead as you go. Combine strategic upgrades with ski
+- [Zombie Fist](../games/action/zombie-fist.md) — Step into a fast-paced 2D action world where you are the lone hero standing against waves of enemies! In this adrenaline
+- [Zombie Idle Defense](../games/action/zombie-idle-defense-2.md) — Defend against relentless zombie hordes in Zombie Idle Defense, where strategy meets survival. Upgrade your fortificatio
+- [Zombie Invasion](../games/action/zombie-invasion-2.md) — Survive the apocalypse in Zombie Invasion, a thrilling 3D adventure. Choose Rick or Kate to battle relentless undead hor
+- [Zombie Land](../games/action/zombie-land.md) — Experience relentless action in Zombie Land, where survival is tested against endless undead waves. Hone your skills alo
+- [Zombie Mission 13](../games/action/zombie-mission-13.md) — The Zombie Mission series continues with its 13th episode in a completely different universe. Our heroes find a magical 
+- [Zombie Mission Survivor](../games/action/zombie-mission-survivor.md) — The zombies and variant creatures are coming over you in waves. It is time to defend yourself in this game! The heroes a
+- [Zombie PACMAN](../games/action/zombie-pacman.md) — Avoid the zombies running around this huge pacman maze.
+- [Zombie Run](../games/action/zombie-run.md) — zomie run is a tml5 endless run game
+- [Zombie Run](../games/action/zombie-run-2.md) — In Zombie Run, immerse yourself in a heart-pounding race for survival through a crumbling post-apocalyptic world. Naviga
+- [Zombie Runner](../games/action/zombie-runner.md) — Zombie Runner is a free online game in which you can kill zombies. Play the best Zombie Run game online. Run as far as y
+- [Zombie Runner](../games/action/zombie-runner-2.md) — Survive the relentless onslaught in Zombie Runner, a thrilling 2D adventure. Outpace zombie hordes in a dystopian wastel
+- [Zombie Running](../games/action/zombie-running.md) — In Zombie Running, race through a crumbling world, evading relentless zombies and deadly traps. Leap over pitfalls, slid
+- [zombie smasher 96](../games/action/zombie-smasher-96.md) — Get ready to defend your home as a mob of zombies is about to invade your town! Those undead creatures are back, and it'
+- [Zombie Street Fighter](../games/action/zombie-street-fighter.md) — Street Fighter IV: Champion Edition perfects the winning gameplay formula by offering the most exciting fighting game on
+- [Zombie vs Fire](../games/action/zombie-vs-fire-2.md) — Flame-filled chaos meets undead foes in "Zombie vs Fire." Navigate a battlefield teeming with flaming zombies, relying o
+- [Zombies Assault](../games/action/zombies-assault.md) — Dive into the relentless chaos of Zombies Assault, where strategic precision in shooting is your weapon against the unde
+- [Zombies Cookies Apocalypse](../games/action/zombies-cookies-apocalypse.md) — Zombies Cookies Apocalypse is an online survival game that has taken the gaming world by storm. Developed by Kiz, one of
+- [Zombies Stay Alive](../games/action/zombies-stay-alive.md) — Become an ultimate zombie slayer in a thrilling Minecraft-inspired world. Outlast the relentless undead horde by seeking
+- [Zombies vs Finger](../games/action/zombies-vs-finger.md) — You feel like you could survive a nuclear explosion in a fridge and you think you could push back an invasion of zombies
+- [Zombify 2d runner](../games/action/zombify-2d-runner.md) — Someday, when you wake up and also understand that all the important things are changes? Individuals around you, the cit
+- [Zombify Me](../games/action/zombify-me.md) — One day, when you wake up and realize that all the things are changes ? the people around you, the city you live, the sc
+- [Zombii Invasion](../games/action/zombii-invasion.md) — Zombie Invasion is an html5 arcade game, survive and kill the zombies to get scores, collect grenade, life, and air bomb
+- [Zombiracer Speed On Earth](../games/action/zombiracer-speed-on-earth-2.md) — Race through thrilling tracks in Zombiracer: Speed On Earth, where merging vehicles enhances combat against relentless z
+- [Zombotron Re-Boot](../games/action/zombotron-re-boot.md) — Embark on a thrilling space adventure in Zombotron Re-Boot. As a daring space hunter, navigate alien zombie-infested wor
+- [Zrist](../games/action/zrist.md) — Dodge endless obstacles while you get used to constantly shifting rules!
+- [Zurry The Ritual Bat](../games/action/zurry-the-ritual-bat.md) — Dive into a thrilling quest with Zurry, the intrepid bat, as you explore magical realms filled with fierce enemies and h

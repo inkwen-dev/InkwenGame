@@ -1,0 +1,24 @@
+# Shark io
+
+<a href="https://inkwengame.com/games/shark-io" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/shark-io/cover.jpg)
+
+The big fish eats the little one.....!
+
+## How to play
+
+Mouse or Touch
+
+## About
+
+The big fish eats the little one.....!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: .io, .io Games

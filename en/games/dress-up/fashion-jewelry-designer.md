@@ -1,0 +1,24 @@
+# Fashion Jewelry Designer
+
+<a href="https://inkwengame.com/games/fashion-jewelry-designer" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/fashion-jewelry-designer/cover.jpg)
+
+Do you like jewelry? If you like jewelry, please don't miss Adella's jewelry store! She loves jewelry very much. Now, she has opened a custom jewelry shop.…
+
+## How to play
+
+Mouse click or tap to play
+
+## About
+
+Do you like jewelry? If you like jewelry, please don't miss Adella's jewelry store! She loves jewelry very much. Now, she has opened a custom jewelry shop. Crowns, pearl necklaces, earrings...all the jewelry you can customize! Come visit Adella's jewelry shop, let's see how to make jewelry.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Decoration, Design, Dress Up, Fashion, Girl, Girls, Kids, Makeover, Simulation

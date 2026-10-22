@@ -1,0 +1,24 @@
+# Little Cat Doctor Pet Vet Game
+
+<a href="https://inkwengame.com/games/little-cat-doctor-pet-vet-game" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/little-cat-doctor-pet-vet-game/cover.jpg)
+
+IzelgueGames Studios lets you work as a veterinarian in our animal medical facility & do cat surgical treatment on animals - cat care video games with funny…
+
+## How to play
+
+IzelgueGames Studios lets you work as a veterinarian in our animal medical facility do cat surgical treatment on animals - cat care video games with funny family pets will make you smile and have a great time looking after cats Inside the family p
+
+## About
+
+IzelgueGames Studios lets you work as a veterinarian in our animal medical facility & do cat surgical treatment on animals - cat care video games with funny family pets will make you smile and have a great time looking after cats! Inside the family pet medical facility game, there are many adorable animals that you, as the best pet physician, need to rescue! Download this wonderful animal vet clinic, Little Cat Doctor: Family Pet Veterinarian Video game ** and see how incredible pet veterinarian video games and medical facility games are! Start your animal experience with fantastic "vet video games" and all cute animals will love you, their veterinarian medical professional! Cure little cats in these "cat games" from different injuries and illness in your cat center: - Fever-- assist your kitty feline clients by taking their temperature and providing a medication! - Thorns-- extract thorns with genuine veterinary devices, spray ticks & use an ointment! - Ear infection-- find and kill germs that are concealing in the ears of cute animals! - Aching throat-- spray the nasty germs, treatment cute family pets and be the best veterinary doctor worldwide! - Bites-- make a potion to deal with felines that got bitten! - Cuts-- pets are awkward, so there's a great deal of work for a competent "cat veterinarian" to clean wounds, play stitching video games and put a bandaid on! - Stomach pains-- in this insane animal surgery game, you can likewise carry out ultrasound like in a genuine animal health center! When animals are treated, feed the kitty with food from a pet store! - Broken bones-- pet caring video games also consist of repairing broken bones! You're the best animal physician & surgeon so you need to do feline care & surgical treatment all alone! - Toothache-- your cute family pet feline patient has some cavity problems! Feel like a real family pet dental expert & have a good time due to the fact that animal dentist video games are so addicting! - Treat kitty cats and gather stars to open new feline health centers & veterinarian centers for your furry feline patients! Collect many stars to be able to play all cat doctor games in our animal health center! You will love being a kitty cat doctor playing hospital video games and surgical treatment video games! Virtual animal care games have the prettiest HD graphics & pleasant background music-- you'll be the happiest kitty cat doctor in all animal veterinarian video games if you come and play our funny cat care game! Cute family pets are waiting in line in your cat medical facility and you require to look after sick animals by playing various feline care games! Family pet care includes many steps, so you must perform family pet surgical treatment really carefully in your veterinary clinic! "Animal veterinarian video games" are great instructional games and innovative video games at the very same time! Looking after an animal is enjoyable but family pet care skills are necessary! In our family pet clinic-- animal healthcare facility video game, you're a famous veterinarian who does the feline makeover and cat care like nobody else! Take care of pets in this animal care video game and remedy sick animals in your virtual pet clinic! Cat doctor video games are so addicting, the time will just zip while you're playing "animal surgical treatment games" in our veterinarian clinic for little family pets! We created the prettiest pet cat video games for girls and boys, who want to be pet vets when they grow up! Our kitty healthcare facility for cat care is the ultimate family pet vet video game where you get to do vet surgical treatment games and be the funny feline vet! Download our new animal vet video game ** Cat Doctor ** and start your cat vet career-- cure cats from all over the world and offer vet take care of animals in this pet veterinary video game!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Animal, Cars, Cartoon, Dress Up, Girls, Love, Puzzle

@@ -1,0 +1,24 @@
+# Undisputed MMA
+
+<a href="https://inkwengame.com/games/undisputed-mma" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/undisputed-mma/cover.jpg)
+
+A 3D MMA FIGHTING GAME CURRENTLY BEING DEVELOPED AND COMING SOON TO ANDROID AND WINDOWS. UPDATE 17!!! WHATS NEW? -YOU CAN NOW PLAY CAREER MODE, KINDA. -SOUNDS!…
+
+## How to play
+
+KEYBOARD CONTROLS W A S D- FOR MOVEMENT J- FOR PUNCHES L- FOR KICKS SHIFT- STRONG ATTACK MODIFIER HOLD THE ATTACK BUTTON ON MOBILE DEVICES I- TO BLOCK K- TO ATTEMPT A TAKEDOWN WHEN YOUR STAMINA THE BLUE BAR IS OVER 50 M- FOR A SUBMISSION WHEN YOU
+
+## About
+
+A 3D MMA FIGHTING GAME CURRENTLY BEING DEVELOPED AND COMING SOON TO ANDROID AND WINDOWS. UPDATE 17!!! WHATS NEW? -YOU CAN NOW PLAY CAREER MODE, KINDA. -SOUNDS! SOUNDS!! SOUNDS!!! - SFX, MUSIC AND CAMERA OPTIONS -A REFEREE -NEW HEALTH SYSTEM -SOME OTHER RANDOM FIXES YOUTUBE LINK: https://www.youtube.com/channel/UCHHQcN6tMElKGcPjAmmVzFQ WHAT TO EXPECT: -CAREER MODE UPDATES -NEW ARENAS -GAMEPAD SUPPORT -MORE FIGHTERS AND WEIGHT CLASSES AND IN THE FUTURE -CHARACTER CREATION -ILL EVENTUALLY GET AROUND TO MAKING AN IN GAME TUTORIAL. FOR NOW, THE CONTROLS ARE IN THE INSTRUCTIONS
+
+## Details
+
+- Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 3D, Action, Android, Boxing, Fight, Fighting, HTML5, Mobile, Sport, Sports, Street Fighting, WebGL

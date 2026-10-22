@@ -1,0 +1,24 @@
+# foot doctor 96
+
+<a href="https://inkwengame.com/games/foot-doctor-96" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/foot-doctor-96/cover.jpg)
+
+Foot Surgery Doctor Care - Free Doctor Games : Enjoy the thrill of being a superhero Foot Doctor to cure all patients coming to your clinic doctor care &…
+
+## How to play
+
+Foot Surgery Doctor Care - Free Doctor Games Enjoy the thrill of being a superhero Foot Doctor to cure all patients coming to your clinic doctor care bringing them back from trauma herein Foot Surgery Doctor Care - Free Doctor Games The injured patie
+
+## About
+
+Foot Surgery Doctor Care - Free Doctor Games : Enjoy the thrill of being a superhero Foot Doctor to cure all patients coming to your clinic doctor care & bringing them back from trauma herein Foot Surgery Doctor Care - Free Doctor Games. The injured patients suffer from kinds of nail & foot doctor problems like painful infections, fractures, wounds, germs, various abrasions & they might need an emergency foot surgery simulator & nail treatment. In this operation games sterilize your surgical tools & keep your er emergency surgery hospital room ready for nail treatment. Be careful, don’t get the bones, nails & skin damaged herein Foot Surgery Doctor Care - Free Doctor Games. Herein doctor games, make use of injection, magic potion, droppers & all medical tools you need & heal painful infections, fractures, wounds, germs & various abrasions. In Foot Surgery Doctor Care - Free Feet Care Doctor Games use tweezers to pull out the thorns & put some ice on the big purple swelling, disinfect the wounds with a cotton ball to save the foot from leg infection herein foot clinic doctor games. The patient is suffering from leg injury that can affect his ankle & leg movements herein feet care hospital games. Call the knee surgeon doctor & all other doctor surgeons on duty to keep a check while you carry out the foot surgery doctor games. Treat them with all the doctor tools & medicines at the doctor’s office in this medical games. The kids have terrible pain on their foot nail doctor simulator. Be a foot doctor in an emergency foot clinic & find out what it feels like to take care of little patients & work in a foot surgery hospital as a surgeon doctor! Welcome to Foot Surgery Doctor Care - Free Doctor Games, you have a chance to help your patients, to prove that you are a super surgeon doctor in doctor care surgery hospital! Gain experience to become the expert foot doctor in feet care medical games. Help the poor patient, so they can feel better again with an amazing doctor treatment herein surgery games. This offline doctor games offers er emergency surgery room which is well equipped with all the instruments related to medical games, injections, re fillers for the medications, dropper & tweezer to perform operations in hospital games. Get to know their history first before treating them & sending them to the operation theater in operation games. They have their brain doctor surgery reports with them or they might have a stomach disease already herein new offline games. Patient may have been suffering with lungs problem or liver problem or a kidney disease within this new surgery games. Patients leg & hand get hurt mostly while playing at home or in their schools or in parks. Curing those patients is a great crazy fun within this surgery games. Pop blisters with hand, spray the abrasions, remove calluses & peel away the dead skin with a foot-file here in hospital games. Some of the patients have fractures in the foot bones, use x-ray to see them & then tap with your hand fingers to heal the broken leg herein offline surgery games. Become an crazy surgeon & fun doctor simulator to gain surgery treatment learning experience herein surgery simulator game. In surgery hospital simulator, be prepared for emergency situations where you have little time to save lives! Carry out complex surgeries & all kinds of other medical procedures on your patient in Foot Surgery Doctor Care - Free Doctor Games. You have been appointed as kids crazy surgeon doctor simulator & now it’s your duty to treat who get leg injured, be the crazy surgeon & perform crazy operations with real life saving tools & injections herein free surgery games. Foot Surgery Doctor Games - Free Hospital Games Features: - Use modern medical tools as a professional surgeon in surgery games. - Look for the broken bones with an x-ray machine at hospital. - Clean the injury with cotton. - Make an incision for the surgery. - Open the skin wider to look insi
+
+## Details
+
+- Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Clicker, Doctor

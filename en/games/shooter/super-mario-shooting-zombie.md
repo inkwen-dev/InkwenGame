@@ -1,0 +1,24 @@
+# Super Mario Shooting Zombie
+
+<a href="https://inkwengame.com/games/super-mario-shooting-zombie" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/super-mario-shooting-zombie/cover.jpg)
+
+Are you a lover of shooting games? If you like adventure games like using guns, then experience Super Mario Shooting Zombie right away. It is one of the latest…
+
+## How to play
+
+Tap to aim and shoot
+
+## About
+
+Are you a lover of shooting games? If you like adventure games like using guns, then experience Super Mario Shooting Zombie right away. It is one of the latest Super Mario games after the last Ben 10 games, Spiderman games, Power rangers game. If you want to discover more games like this, visit our website. In the game, Zombies are ruling the world, and they are everywhere on the map. They exist to destroy everything from trees to people. Not only that, but they also build bases and place obstacles around where they live so that no one can find them. However, with his brave and heroic spirit, Impostor helped the world. With the gun in hand, Impostor will destroy each obstacle and kill Zombie. Now, your task is to help Super Mario destroy those evil Zombies to save the world.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Mario, Shoot, Shooter, Shooting, Super, Zombie

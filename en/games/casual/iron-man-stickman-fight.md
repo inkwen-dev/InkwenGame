@@ -1,0 +1,24 @@
+# Iron Man - Stickman Fight
+
+<a href="https://inkwengame.com/games/iron-man-stickman-fight" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/iron-man-stickman-fight/cover.jpg)
+
+Among all the stickman games, Stickman Fight - Battle Royale is one of the funniest and easiest to play. Fighting against other stickmans to become legend in…
+
+## How to play
+
+Among all the stickman games Stickman Fight - Battle Royale is one of the funniest and easiest to play Fighting against other stickmans to become legend in stickman fight and get awesome rewards in stick fight games In this game you have to c
+
+## About
+
+Among all the stickman games, Stickman Fight - Battle Royale is one of the funniest and easiest to play. Fighting against other stickmans to become legend in stickman fight and get awesome rewards in stick fight games. In this game, you have to collect the supreme duelist varieties of stick fight weapons to make you stronger and stand out from the rest and become the best stickman legends. Unlock warriors with unique design styles and powerful strengths. There are available a lot of level in each game mode for you to explore, especially we are also make an endless mode for all of you. Watch the wheels of your vehicles flying away from you and just have fun playing Stickman Fight - Royal Blade simulator game made for all tastes and ages! Stickman Fight - Royal Blade Features: - Realistic physics - Dynamic gameplay - 100+ levels - 3 game modes - 50+ characters/skins dbz styles, super heroes style and more - Various stunts - Blood and slow-motion effects - Collect these kinds of super fighters: dragon ssj2, z ssj3, ssj4, ultra instinct (ui), xeno... to become strongest stickman warrior. Missed interesting crashes to the different objects and dummies? Then you’d totally enjoy this game for every demolition lover! Play Stickman Fight - Royal Blade game and have fun!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Stickman, Superhero

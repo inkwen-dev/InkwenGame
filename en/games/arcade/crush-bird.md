@@ -1,0 +1,24 @@
+# Crush Bird
+
+<a href="https://inkwengame.com/games/crush-bird" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/crush-bird/cover.jpg)
+
+Crush Bird - Destruction Edition is a fast-paced arcade game where you smash through obstacles, collect power-ups, and cause maximum destruction. Unlike…
+
+## How to play
+
+Tap Click Jump upward and perform a Crush attack Spacebar Alternative control to perform a Crush attack Mega Crush Automatically triggers when you tap click while the Crush Power meter is at 100
+
+## About
+
+Crush Bird - Destruction Edition is a fast-paced arcade game where you smash through obstacles, collect power-ups, and cause maximum destruction. Unlike traditional bird games, your goal is to destroy obstacles using Crush Power rather than just avoiding them. You can build up your meter to activate a Mega Crush that wipes the screen, maintain combos for higher scores, and navigate through different game modes like Mayhem, Rampage, Apocalypse, and Survival. Watch out for indestructible red obstacles unless you have a shield active!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 1 Player, 2026 games, Action, Bird, HTML5, sky, unblockedgames66, unblockedgames76

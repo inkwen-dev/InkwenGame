@@ -1,0 +1,429 @@
+# Board
+
+Solo board games in the browser on InkwenGame—classic tabletop-style free play you can start on the page in a quiet moment, without downloading an app.
+
+- <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
+
+## Games
+
+- [1 Block Puzzles](../games/board/1-block-puzzles.md) — It is a challenging puzzle game. Playing this game is very simple. You need to make blocks to jump over other blocks. It
+- [1010!](../games/board/1010.md) — Drag blocks on the grid and complete a row or column. Play as smart as possible to avoid getting a mess.
+- [1010 Christmas](../games/board/1010-christmas.md) — 1010 Christmas is a unique puzzle game in which you need to collect all the Stars from the board. In order to collect th
+- [10x10 Pirates](../games/board/10x10-pirates.md) — Set sail on a colorful puzzle adventure with 10x10 Pirates! Strategically place blocks to clear lines and avoid gridlock
+- [10x10 Puzzle](../games/board/10x10-puzzle.md) — A reincarnation of the classic 10x10 puzzle game, but with some twists! Fill rows and columns with blocks to clear them,
+- [1LINE – One Line with One Touch](../games/board/1line-one-line-with-one-touch.md) — One Line with One Touch is a simple way to get some brain training exercise everyday. This is a great mind challenging g
+- [2 Player Online Chess](../games/board/2-player-online-chess.md) — Jump into the timeless fun of chess with 2 Player Online Chess! Play solo against the computer or team up with a friend 
+- [2048 checkers](../games/board/2048-checkers.md) — 🧩 2048 Checkers is a fresh twist on the classic 2048, where numbers meet the logic and strategy of checkers! ♟️ Move nu
+- [2048 Cube Buster](../games/board/2048-cube-buster.md) — Using 2048 as an element, here players will experience a new elimination game, the classic game mode but with new 3D gra
+- [3D Hartwig Chess](../games/board/3d-hartwig-chess.md) — Chess is a two-player strategy board game played on a checkered board with 64 squares arranged in an 8×8 square grid. Pl
+- [3Tris](../games/board/3tris.md) — Step into 3Tris, a modern twist on tic-tac-toe that tests your strategic prowess. Outsmart opponents by aligning three m
+- [4 in a Blow](../games/board/4-in-a-blow.md) — 4 in a Blow is Connect 4 with power-ups. Everyone already knows the rules, so you can start playing immediately. Every t
+- [4 in a row - Board game for 2 players](../games/board/4-in-a-row-board-game-for-2-players.md) — Connect 4 is one of the most popular board games for two people. The goal of this tactical game is to connect at least 4
+- [4 in Row Mania](../games/board/4-in-row-mania-2.md) — Step into 4 in Row Mania, where strategic depth meets classic competitive fun. Outsmart your opponent or challenge a cle
+- [8 Ball Pool Multiplayer](../games/board/8-ball-pool-multiplayer-2.md) — Experience the thrill of competitive pool in 8 Ball Pool Multiplayer. Challenge top players across dynamic match locatio
+- [Adventure Quiz](../games/board/adventure-quiz.md) — Embark on a trivia adventure with Adventure Quiz! Test your knowledge across diverse topics while racing against time. E
+- [Aeroplane Chess](../games/board/aeroplane-chess.md) — Take to the skies in Aeroplane Chess, a strategic race where your planes vie for supremacy. With versatile rule sets and
+- [Aeroplane Chess 3D](../games/board/aeroplane-chess-3d.md) — For childhood classic games. Features: - Customizable game rules, Aeroplane chess has many variation rules, different pl
+- [AI Chess Master](../games/board/ai-chess-master.md) — AI Chess Master is a cutting-edge HTML5 chess game that challenges your strategic thinking against an intelligent AI opp
+- [Align 4 BIG](../games/board/align-4-big.md) — Power 4 is a well-known strategy game that is suitable for everyone. Power 4 is played either by two or against the comp
+- [Amaze!!!](../games/board/amaze-2.md) — It's a very excellent classic and simple style leisure and fun mobile game. The game will definitely bring you the best 
+- [Angry Checkers](../games/board/angry-checkers.md) — Angry Checkers is a thrilling take on the traditional board game, where players try to eliminate opponents’ checkers. Av
+- [Angry Checkers](../games/board/angry-checkers-3.md) — Take on a thrilling twist in Angry Checkers by knocking your opponent's pieces off the board. Engage players worldwide o
+- [Animals Connect](../games/board/animals-connect.md) — This is a classic puzzle game, inspired by popular Chinese tile removal game, Mahjong. In this you need to eliminate all
+- [Animals Jumble](../games/board/animals-jumble.md) — Find an animal name using the given letters and then tap that animal on the screen. In each level there will be 5 scramb
+- [Animals Memory Xmas](../games/board/animals-memory-xmas.md) — Click the cards to reveal an animal. Memorize it so that you can match to similar cards.
+- [Animals Word Search](../games/board/animals-word-search.md) — This is an interesting word search game. To start first look the left panel to find the list of animal names to be searc
+- [Arabian TicTacToe](../games/board/arabian-tictactoe.md) — Embark on a strategic duel in Arabian TicTacToe, where vibrant Arabian themes meet classic gameplay. Outsmart your oppon
+- [Austrian Domino Duel](../games/board/austrian-domino-duel.md) — Dive into the charm of early 20th-century Vienna with Austrian Domino Duel. Challenge AI or face online opponents in str
+- [Avoid Barriers](../games/board/avoid-barriers.md) — This is a pretty good relaxation decompression fun small game, only a few simple skills, qulickly click the screen, cons
+- [Backgammon](../games/board/backgammon.md) — Discover the captivating game of Backgammon, where strategy and skill are key. Navigate your pieces to eliminate them be
+- [Backgammon Multiplayer](../games/board/backgammon-multiplayer.md) — Backgammon Multiplayer is a HTML5 Board Game. Enjoy this stylish version of the classic Backgammon Game. 3 Game’s Mode: 
+- [Backgammonia - online backgammon game](../games/board/backgammonia-online-backgammon-game.md) — Backgammonia is a online backgammon game where you can play classic backgammon against computer or against a friend in 2
+- [Ball Board](../games/board/ball-board.md) — Ball Board invites you into a world of strategic puzzles where foresight and precision are key. Maneuver colorful sphere
+- [Ball Rolls](../games/board/ball-rolls.md) — Rotate the balls and crack it. This can be very hard to solve
+- [BattleBox](../games/board/battlebox.md) — Unearth hidden treasures while sidestepping treacherous monsters in BattleBox, a thrilling puzzle adventure that will ch
+- [Battleship on Cells](../games/board/battleship-on-cells.md) — Navigate intense naval battles in Battleship on Cells, a game of strategic cunning where each move could decide your fat
+- [Battleships Pirates](../games/board/battleships-pirates.md) — Battleships Pirates is a classic guessing turn based game, where each team has a grid on which they secretly mark out a 
+- [Battleships Pirates](../games/board/battleships-pirates-2.md) — Embark on an epic voyage with fearless female pirates in Battleships Pirates. Navigate perilous seas, unleash powerful t
+- [Birds Board Puzzles](../games/board/birds-board-puzzles.md) — It is a time bound game where one needs to find 1 difference between two identical looking boards. Once you find a diffe
+- [Black and White Puzzle](../games/board/black-and-white-puzzle.md) — Black White Puzzle is using Black and White Chess to build a puzzle game. Same as Chess, the chess has two colors Black 
+- [Block Hexa Puzzle - New](../games/board/block-hexa-puzzle-new.md) — This is a typical puzzle game that helps train your eyes and brain. It is the "Hexagon" version of the classic Tetris ga
+- [Block Numbers Puzzle](../games/board/block-numbers-puzzle-2.md) — Block Numbers Puzzle invites you into a world of numerical strategy, where sliding blocks to form a perfect sequence tes
+- [Block vs Block II](../games/board/block-vs-block-ii.md) — It is the world most attractive puzzle game, many people play Block vs Block II day by day never stop. How to play this 
+- [Blocks Sliding Tetriz](../games/board/blocks-sliding-tetriz.md) — This is a block Tetris game. Drag and drop the blocks from left to right or from right to left, in order to fill a compl
+- [Blocky Tetriz](../games/board/blocky-tetriz.md) — Use left, right and down keys to move the blocks. Use up key to rotate the blocks. Alternatively you can tap or click bu
+- [Board Kings Board Dice](../games/board/board-kings-board-dice-2.md) — Unleash your inner strategist in Board Kings: Board Dice, a dynamic game where every roll of the dice builds your empire
+- [Board Score Master Game](../games/board/board-score-master-game.md) — Play the classic board table game with smooth controls, realistic physics, and addictive gameplay. Whether you call it b
+- [Brain Quiz: Quizzland](../games/board/brain-quiz-quizzland.md) — Discover the ultimate brain teaser with Brain Quiz: Quizzland! Start playing now and challenge yourself with a wide rang
+- [Bricks Puzzle Classic](../games/board/bricks-puzzle-classic.md) — Bricks Puzzle Classic is a colorful version of Tetris. Arranging the colorful bricks to form complete horizontal lines t
+- [Briscola](../games/board/briscola.md) — Briscola is an engaging Italian card game where strategy meets chance. Master the art of timing as you manipulate a 40-c
+- [Buku Dominoes](../games/board/buku-dominoes.md) — Play Dominoes with friends with the Domino Master, a fast-paced, fantastic multiplayer Dominoes Game! Play Dominoes in M
+- [Busy Little man of the sean](../games/board/busy-little-man-of-the-sean.md) — It is a pixel-style production of the raft survival class of the game, in the game players need to constantly collect al
+- [Carrom Masters](../games/board/carrom-masters.md) — Carrom Masters delivers an immersive board game experience with intuitive touch controls and realistic physics that make
+- [carrom pro](../games/board/carrom-pro.md) — Experience the ultimate digital adaptation of the classic Carrom board game! Carrom Pro blends realistic physics with mo
+- [Carrom Rush](../games/board/carrom-rush.md) — Experience the thrill of strategic skill in Carrom Rush, a dynamic multiplayer board game. Aim, strike, and sink your pi
+- [Cars Traffic King](../games/board/cars-traffic-king.md) — In this simple game you will try to control the traffic lights to avoid accidents between cars. You must pass the lights
+- [Casual Christmas Santa Game](../games/board/casual-christmas-santa-game.md) — Embark on a festive adventure as Santa, solving puzzles to outsmart an evil skeleton and save your reindeer. Balance qui
+- [Casual Pinball Game](../games/board/casual-pinball-game-2.md) — Navigate a mesmerizing landscape with vibrant visuals as you deftly command the flippers in Casual Pinball Game. Dive in
+- [Catch the Snowflake](../games/board/catch-the-snowflake-2.md) — Dive into a festive puzzle adventure with Catch the Snowflake! Merge classic mahjong with a cheerful Christmas twist, li
+- [Caveman Board Puzzles](../games/board/caveman-board-puzzles.md) — It is a time bound game where one needs to find 1 difference between two identical looking boards, filled with cavemen. 
+- [Checkers](../games/board/checkers.md) — Experience the timeless strategy of Checkers, where each move counts in your quest for domination. Navigate the board, c
+- [Checkers 3D International](../games/board/checkers-3d-international.md) — Dive into the strategic world of Checkers with a mesmerizing 3D twist. Engage in thrilling matches across various modes,
+- [Checkers by Fireplace](../games/board/checkers-by-fireplace.md) — Experience a 3D checkers game against a crackling fireplace backdrop, offering adjustable boards for all skill levels. E
+- [Checkers Casual](../games/board/checkers-casual.md) — Immerse yourself in Checkers Casual, a vibrant twist on the classic board game. Challenge your strategic mind in lively 
+- [Checkers Classic - Draughts](../games/board/checkers-classic-draughts.md) — Step into the strategic world of Checkers Classic, where skill triumphs over chance. Challenge the CPU or a friend in of
+- [CHECKERS - Dames](../games/board/checkers-dames.md) — Hi gamers, I created my Checkers app as an example of a good checkers game for me and published it in the Store as a fre
+- [Checkers Legend](../games/board/checkers-legend.md) — The classic and very simple board game everyone knows from their childhood. It comes in many variants, so the game provi
+- [Checkers Legend](../games/board/checkers-legend-2.md) — Master classic strategy with Checkers Legend! Play against a clever AI opponent, plotting each move with precision. Jump
+- [Checkers Two Player](../games/board/checkers-two-player.md) — Challenge your tactical prowess in Checkers Two Player, a thrilling digital twist on the classic game. Strategize your w
+- [Checkmate](../games/board/checkmate.md) — Step into the world of Checkmate, a strategic chess-inspired game featuring 500 unique maps and 24 challenging achieveme
+- [Checkmate](../games/board/checkmate-2.md) — Step into the world of Checkmate, a strategic chess-inspired game featuring 500 unique maps and 24 challenging achieveme
+- [Checkmate](../games/board/checkmate-3.md) — Step into Checkmate, a strategic chess-inspired adventure with 500 diverse maps. Master unique boards, unlock achievemen
+- [Chess Challenges](../games/board/chess-challenges.md) — Master tactical wit in Chess Challenges as you dismantle Rupert the Red King's defenses in mind-bending scenarios. Solve
+- [Chess - Clash of Kings](../games/board/chess-clash-of-kings.md) — Make use of your best chess strategy, analyze your next move and improve your chess skills. Climb the tower of 400 level
+- [Chess Field](../games/board/chess-field.md) — Dive into Chess Field, where lightning-fast blitz matches, challenging puzzles, and tactical training await. Perfect for
+- [Chess for Two](../games/board/chess-for-two.md) — "Chess for Two" brings the timeless strategy of chess to your fingertips. Engage in a digital chessboard duel against AI
+- [Chess free](../games/board/chess-free.md) — Chess with a computer: - Powerful engine - 18 difficulty levels from Beginner to World Champion - Display of possible mo
+- [Chess Free  - Échecs](../games/board/chess-free-checs.md) — Take no prisoners and protect your King at all costs! This 3D Chess game is the best way to play the classic Chess board
+- [Chess - Jungle](../games/board/chess-jungle.md) — Venture into the wild with Chess - Jungle, where strategy meets nature! Maneuver unique animals across diverse terrains 
+- [Chess Mania](../games/board/chess-mania.md) — Make use of your best chess strategy, analyze your next move and improve your chess skills. Climb the tower of 400 level
+- [Chess Master 3D](../games/board/chess-master-3d.md) — Step into the immersive world of Chess Master 3D, where classic chess strategy meets stunning visuals. Navigate your pie
+- [Chess Master King](../games/board/chess-master-king.md) — - Various chess horses and chess boards - Various difficulty level supported by outstanding AI Engine - Tournament mode 
+- [Chess of the Middle Ages](../games/board/chess-of-the-middle-ages.md) — Immerse yourself in "Chess of the Middle Ages," a game blending traditional chess mechanics with a captivating medieval 
+- [Chess Online](../games/board/chess-online.md) — Dive into the strategic depths of Chess Online, where you can challenge opponents worldwide or hone your skills against 
+- [Chess Online Multiplayer](../games/board/chess-online-multiplayer.md) — Play Chess Online and Improve Your Skills!
+- [Chess Online Playing](../games/board/chess-online-playing.md) — "Chess Online Playing" is the best free online chess with a computer with full functionality for amateurs and profession
+- [Chess Royale](../games/board/chess-royale.md) — A non-standard chess game in which kings have magical powers. The player needs to cut down the enemy king, building a vi
+- [ChessT](../games/board/chesst.md) — ChessT reinvents chess by introducing dynamic multiplayer control schemes. Navigate pawns with modern keyboard commands,
+- [CHESSVOLA Puzzles](../games/board/chessvola-puzzles.md) — CHESSVOLA is a chess puzzle training game built for quick daily practice and long-term improvement. Solve tactical posit
+- [Chinese Checkers Master](../games/board/chinese-checkers-master.md) — Chinese Checkers is a traditional board game, some people call it "Chinese chequers" or "Hop Ching Checker Game". This g
+- [Chinese Checkers Master](../games/board/chinese-checkers-master-2.md) — Engage in strategic showdowns with Chinese Checkers Master, a 3D board game where you outsmart advanced AI or friends. W
+- [Chinese morra](../games/board/chinese-morra.md) — Dive into the thrilling world of Chinese morra, where predicting your opponent’s next move is key. Gain 'puntin' by accu
+- [Choco Blocks](../games/board/choco-blocks.md) — Enter the delightful world of Choco Blocks, a tantalizing puzzle adventure where strategy meets sweetness! In this engag
+- [Christmas Lines](../games/board/christmas-lines.md) — Move the Items to the blank spaces in order to create a horizontal or vertical row of 5 identical items. To move an item
+- [Christmas Match n Craft](../games/board/christmas-match-n-craft.md) — ‘Christmas Match and Craft’ is an interesting puzzle game. In this game you need to move the items to the blank spaces s
+- [Christmas Photo Differences 2](../games/board/christmas-photo-differences-2.md) — Find 5 differences between 2 Xmas photos.
+- [Christmas Tic Tac Toe](../games/board/christmas-tic-tac-toe.md) — Christmas Tic Tac Toe is a festive twist on the classic game that brings the holiday spirit to life. Play against friend
+- [Chroma Manga Girls](../games/board/chroma-manga-girls.md) — Are you a Manga fan of and japanese girls ? Are you also a mind games fan and nothing pleases you as much as mixing refl
+- [Cinema Lovers Hidden Kiss](../games/board/cinema-lovers-hidden-kiss.md) — Being alone with their boyfriend or girlfriend at the cinema... the dream of every teenager! No parents spying on you, a
+- [Classic Backgammon](../games/board/classic-backgammon.md) — Embrace the timeless challenge of Classic Backgammon, where strategic moves and calculated risks lead to victory. Roll t
+- [Classic Checkers: Forest](../games/board/classic-checkers-forest.md) — A captivating board game set in a unique forest-themed atmosphere! Enjoy classic checkers rules surrounded by nature. Sh
+- [Classic Checkers Forest](../games/board/classic-checkers-forest-2.md) — Venture into a serene woodland for a classic checkers showdown! Strategically outsmart friends or clever AI opponents am
+- [Classic chess](../games/board/classic-chess.md) — Classic chess is a two-player board game played on a chessboard with 64 squares arranged in rows of an 8x8 grid. Each pl
+- [Classic Chess Duel](../games/board/classic-chess-duel.md) — Master the timeless art of strategy on an 8x8 board in Classic Chess Duel. Challenge an intelligent AI, test your skills
+- [Classic Corners](../games/board/classic-corners.md) — Dive into Classic Corners, a serene yet challenging board game where strategic decisions and analytical prowess are key.
+- [Classic Yatzy](../games/board/classic-yatzy.md) — Classic Yatzy combines luck and strategy in a thrilling dice-rolling challenge. Roll up to three times per turn, select 
+- [Code 420](../games/board/code-420.md) — Code 420 invites players into a thrilling battle of wits, where crafting a secret code and unraveling your opponent's re
+- [Color Maze](../games/board/color-maze-2.md) — Navigate intricate mazes with a colorful twist in Color Maze! Guide your rolling ball to paint the entire board while ex
+- [Color Rings Block Puzzle](../games/board/color-rings-block-puzzle.md) — Icon image Color Rings Block Puzzle About this game Color Rings Block Puzzle is a fun and addictive mobile game that cha
+- [Color Roll 3D Online](../games/board/color-roll-3d-online.md) — It's like a jigsaw puzzle. You can complete the splicing and splicing of the content by moving the drawing paper inside.
+- [Colors Domination](../games/board/colors-domination-2.md) — Master the art of color coordination in Colors Domination! This engaging puzzle game challenges you to transform a dynam
+- [Colors separation](../games/board/colors-separation.md) — This is a relaxing game. Various levels to play freely, all unlocked! Drag the blocks to move them in a corresponding sl
+- [Comic Board Puzzles](../games/board/comic-board-puzzles.md) — It is a time bound game where one needs to find 1 difference between two identical looking boards. Once you find a diffe
+- [Connect 4 Multiplayer](../games/board/connect-4-multiplayer.md) — Connect 4 is a HTML5 Logic Game. Drop your discs into the columns of the game grid and make a line of at least four chip
+- [Connect Animals : Onet Kyodai](../games/board/connect-animals-onet-kyodai.md) — In CONNECT ANIMALS ONET KYODAI game, your goal is to find all matching pairs. It's a kind of matching game or connect ga
+- [Connect Me](../games/board/connect-me.md) — You should put the tiles in the correct position by dragging, dropping and rotating. Connect Me is a relaxing, mind-bend
+- [Connect Pipe! Color Puzzle Game](../games/board/connect-pipe-color-puzzle-game.md) — Connect Pipe! Color Line Game is a vibrant puzzle game. its a visually appealing and challenging experience for players 
+- [Connect The Christmas](../games/board/connect-the-christmas.md) — Connect pairs of matching Christmas characters by creating a path between them. Click / Tap and drag to connect the Chri
+- [Connect The Jelly](../games/board/connect-the-jelly.md) — An addictive puzzle / quiz game to train your brain. Nice design, fun, challenging and relax-able. PLAY NOW!
+- [Connect the pipes](../games/board/connect-the-pipes.md) — Pipe Puzzle: Line Art is a Connect Line puzzle game that’ll keep your mind entertained for hours!. HOW TO PLAY • Connect
+- [Cookie Match](../games/board/cookie-match-2.md) — Cookie Match is a sliding puzzle game where you must match each cookie to its corresponding cutter. If you move the cook
+- [Corners Classic](../games/board/corners-classic.md) — In our corner version, you can improve your analytical skills and strategic thinking while immersing yourself in an atmo
+- [Crazy Little Eights](../games/board/crazy-little-eights-2.md) — Dive into the excitement of Crazy Little Eights, where the challenge is to discard all your cards before your opponent. 
+- [Crazy Plinko](../games/board/crazy-plinko.md) — At first it feels random. Then patterns appear. With each upgrade you influence gravity, angles and timing. The board st
+- [Cross Road Exit](../games/board/cross-road-exit.md) — Test your logic through a hundred of levels that keep getting harder in this puzzle game. Move cars, bus and trailers an
+- [Cupid Valentine Tic Tac Toe](../games/board/cupid-valentine-tic-tac-toe-2.md) — Join Cupid in a romantic twist on the classic Tic Tac Toe. Experience whimsical visuals and strategic gameplay, whether 
+- [Cursed Chutes](../games/board/cursed-chutes.md) — Enter a world of enchanted chaos where every dice roll shifts your fate. Climb magical ladders while dodging sinister sn
+- [Cute Animals Puzzles](../games/board/cute-animals-puzzles.md) — explore adorable Animal Puzzles that help to develop our kid's memory, logical thinking, and visual perception. endless 
+- [Cute Circles](../games/board/cute-circles.md) — Cute Circles is a classic board game in the genre of memory, which helps to relieve stress and train memory in people of
+- [Cute Circles](../games/board/cute-circles-2.md) — Cute Circles offers an enchanting memory challenge with delightful watercolor art. Flip and match hidden illustrations a
+- [Cutting master](../games/board/cutting-master.md) — Cut master mobile games, the game has a fresh and concise style of the game, concise and clear control interface, clear 
+- [Dark Chess](../games/board/dark-chess.md) — A special type of chess, using Chinese chess to play. It is a very interesting chess, it is using Chinese Chess to play 
+- [Dark Chess](../games/board/dark-chess-2.md) — Strategize your way to victory in Dark Chess, where only the strong survive. With a unique rule set based on Chinese Che
+- [Deal Master](../games/board/deal-master.md) — You want to try out your dealing skill?You want to see how your luck is today?Playing Deal Master NOW!
+- [Dice and Flag](../games/board/dice-and-flag.md) — Dice and Flag is a fun and strategic game where you control a character to advance into the opponents territory to captu
+- [Dino Memory](../games/board/dino-memory.md) — Click a card to reveal the Image on it. Memorize it so that you can match to similar Image. Match all of the cards on th
+- [Diy Keyboard Game](../games/board/diy-keyboard-game.md) — Diy Keyboard is a very unique art game. Have you ever thought about design your own style keyboards? Here is the game th
+- [Domino Adventure](../games/board/domino-adventure-2.md) — Dive into Domino Adventure, where strategic thinking meets endless challenges. Outsmart opponents in Block or Draw modes
+- [Domino Block](../games/board/domino-block.md) — Chain up your dominoes and outsmart your opponents in Domino Block! Strategize by matching tiles and blocking others' mo
+- [Domino Legend](../games/board/domino-legend.md) — Dive into the enchanting realm of Domino Legend. Ideal for both veterans and nostalgic players, this online game offers 
+- [Domino Legend](../games/board/domino-legend-2.md) — A classic game of dominoes! Whether you are an experienced player or you haven´t played since your childhood days, this 
+- [Domino legend](../games/board/domino-legend-3.md) — Rediscover the classic appeal of dominoes in Domino Legend, where strategic depth meets captivating graphics. Engage in 
+- [Domino Master Pro](../games/board/domino-master-pro.md) — Challenge friends or international foes in Domino Master Pro for an exhilarating domino adventure. Enjoy a user-friendly
+- [Domino Masters](../games/board/domino-masters.md) — Dominate the board in this four-player Dominoes game that runs seamlessly in your browser&mdash;no downloads, no registr
+- [Domino Multiplayer](../games/board/domino-multiplayer.md) — Domino Multiplayer is a HTML5 Board Game. Enjoy this stylish version of the classic Domino Game. 3 Game’s Mode: - Multip
+- [Domino Online Multiplayer](../games/board/domino-online-multiplayer.md) — Domino Online Multiplayer: Challenge Your Mind in Exciting Domino Duels!
+- [Domino Online Multiplayer](../games/board/domino-online-multiplayer-2.md) — Do you like strategy, excitement and duel battles? You will find different modes, flexible settings and strong opponents
+- [Domino Online Multiplayer](../games/board/domino-online-multiplayer-3.md) — Dive into strategic battles with Domino Online Multiplayer! Challenge AI, real players, or friends in thrilling real-tim
+- [Domino Sausage Duel](../games/board/domino-sausage-duel.md) — Domino Sausage Duel delivers dynamic excitement as players strategically redirect dominoes, aiming to offload them throu
+- [Domino Spider Duel](../games/board/domino-spider-duel.md) — Engage in thrilling standoffs in Domino Spider Duel, where strategic placement and bold moves determine victory. Connect
+- [Dominoes classic duel](../games/board/dominoes-classic-duel.md) — A board game in which a chain of dominoes (bones, stones) is built, touching halves with the same number of dots indicat
+- [Dominoes Classic Duel](../games/board/dominoes-classic-duel-2.md) — Dominoes Classic Duel elevates the traditional game with strategic depth. Build your skill by matching tiles, facing cun
+- [Dominoes Game Online Free](../games/board/dominoes-game-online-free.md) — Dive into a classic strategy challenge with Dominoes Game Online Free, where you can strategically place and match tiles
+- [Dominoes Online Classic Game](../games/board/dominoes-online-classic-game.md) — Dive into the world of online dominoes, where strategic moves meet thrilling competitions. Challenge friends or face off
+- [Dot](../games/board/dot.md) — Very challenging puzzle Control the square to your target position, and then choose turn right or turn left. Aline all d
+- [Dots and Boxes 2](../games/board/dots-and-boxes-2.md) — Dots and Boxes 2.0 is a modern, feature-rich version of the classic pen-and-paper strategy game where players take turns
+- [Dots and Boxes Duel](../games/board/dots-and-boxes-duel.md) — Dots and Boxes Duel blends simplicity with deep strategy as you connect lines to form squares. Customize your board, fac
+- [Dots - Duel](../games/board/dots-duel.md) — Dots - Duel invites you to outthink your opponent in a grid-based strategic showdown. Encircle enemy dots while defendin
+- [Double Checkers](../games/board/double-checkers.md) — Dive into Double Checkers, an exhilarating twist on the classic game. Strategically navigate two boards simultaneously, 
+- [Draw Line](../games/board/draw-line.md) — Connect pairs with similar colors creating a path between them.
+- [Dungeon Chess](../games/board/dungeon-chess-2.md) — Dive into Dungeon Chess, where strategic puzzling meets dynamic RPG action. Navigate treacherous dungeons using a deck o
+- [Durak](../games/board/durak-2.md) — Immerse yourself in Durak, a strategic card game with rich roots in Russian culture. Outsmart opponents by timing your m
+- [Easter Block Puzzle](../games/board/easter-block-puzzle.md) — Easter Block Puzzle is a fun, relaxing block-matching game with a festive Easter theme! Arrange colorful pastel blocks s
+- [Easter Board Puzzles](../games/board/easter-board-puzzles.md) — This is an eye spy board puzzle game where you will have two similar looking boards and you need to find one difference 
+- [Easter Patterns](../games/board/easter-patterns.md) — Look at the pattern what is missing. Drag the missing thing on its place. Just check how many patterns you can complete 
+- [Easter Shadow Match](../games/board/easter-shadow-match.md) — It is an educational as well as fun game for kids. Just look the photo displayed in the left box and click correct shado
+- [Easter  Tic Tac Toe](../games/board/easter-tic-tac-toe.md) — Celebrate the joy and excitement of Easter with Easter Tic Tac Toe &ndash; a delightful twist on the classic game of str
+- [Easter Tic Tak Toe](../games/board/easter-tic-tak-toe.md) — Dive into whimsical Easter spirit with Easter Tic Tac Toe! This classic game springs to life with charming bunny charact
+- [Echo Tiles Musical Puzzle Board Game](../games/board/echo-tiles-musical-puzzle-board-game.md) — Immerse yourself in Echo Tiles, a captivating musical puzzle challenge. Strategically flip tiles to harmonize sound patt
+- [Elite Chess](../games/board/elite-chess.md) — Enjoy classic gameplay with three chess modes, each offering varying time settings suited to your play style. Take your 
+- [Elite Chess](../games/board/elite-chess-2.md) — Elevate your chess game with Elite Chess, featuring three dynamic modes to refine your skills, from quick Bullet matches
+- [Empire Estate - Kingdom Conquest](../games/board/empire-estate-kingdom-conquest-2.md) — Build your empire in Empire Estate - Kingdom Conquest, where strategic property deals and cunning alliances pave your pa
+- [English Checkers](../games/board/english-checkers-2.md) — Dive into the strategic challenge of English Checkers, a timeless battle of wits and strategy. Outsmart your opponent wi
+- [English Checkers Online Multiplayer](../games/board/english-checkers-online-multiplayer.md) — **English Checkers Online Multiplayer: Challenge Your Mind and Master the Game!**
+- [English Training book](../games/board/english-training-book.md) — Choose an English letter or English Sentence, fill in this color, and update your knowledge. Use a color brush, panicle,
+- [Equal Alphabets](../games/board/equal-alphabets.md) — A fun way to practice picture recognition and the alphabet. Make matches of pictures that contain objects whose names st
+- [Even Odd Dice](../games/board/even-odd-dice.md) — Play Even Odd Dice – a thrilling online game for 1-4 players! Easy rules, fun gambling twist. Great for families, friend
+- [Fantastic Checkers](../games/board/fantastic-checkers.md) — Dive into Fantastic Checkers' enthralling realm where orcs clash with humans. Experience a twist on classic board gamepl
+- [Farm Dice Race](../games/board/farm-dice-race.md) — An interesting farm dice game which you can play with you mobile or tablet or computer or just a friend on hot-seat. Shu
+- [Find the Odd 2](../games/board/find-the-odd-2.md) — It is a colorful puzzle game, in which you need to find 1 different item from a group of 4 items. To find accurate diffe
+- [Find Unique Chick](../games/board/find-unique-chick.md) — This is a board puzzle game where you have to tap the unique Chick. All other Trees have their pair in board but one is 
+- [Find Unique Xmas Tree](../games/board/find-unique-xmas-tree.md) — This is a board puzzle game where you have to tap the unique Christmas Tree. All other Trees have their pair in board bu
+- [Flamingo Bingo](../games/board/flamingo-bingo.md) — Dive into the vibrant world of Flamingo Bingo, where you challenge yourself by managing up to four cards at once. Strate
+- [Flow Lines](../games/board/flow-lines.md) — Connect matching colors with lines to create a Flow. Pair all colors, and cover the entire board to solve each puzzle in
+- [Flow Mania](../games/board/flow-mania.md) — A simple, yet addictive puzzle game where you connect pairs of colourful dots with pipe. You must create a flow between 
+- [Flying Duck](../games/board/flying-duck.md) — Soar through perilous challenges in Flying Duck, where quick reflexes and sharp precision are your allies. Navigate thri
+- [Freddy vs Granny XoXo Blast](../games/board/freddy-vs-granny-xoxo-blast.md) — Enter a dark arena where strategy reigns supreme in this horror-themed tic-tac-toe showdown. As the burning intensity ri
+- [Free Checkers](../games/board/free-checkers.md) — Dive into classic Checkers with a twist! Explore versions like American, Russian, and more, each with distinct challenge
+- [Fun Chess Puzzles!](../games/board/fun-chess-puzzles.md) — Test your wits and reflexes in Fun Chess Puzzles!, where strategic moves and lightning speed are your keys to victory. M
+- [Gala Farm Chess](../games/board/gala-farm-chess.md) — Experience strategic duels in Gala Farm Chess, where cunning tactics will lead you to capture kings or secure commanding
+- [Giveaway Checkers](../games/board/giveaway-checkers-2.md) — Giveaway Checkers flips traditional gameplay, challenging you to strategically surrender your pieces. With varying diffi
+- [Golden Beetle Time](../games/board/golden-beetle-time.md) — In this fun and time telling game you will need to guide Beetle towards blocks containing a number that needs to be roun
+- [Gomoku: five stones in a row](../games/board/gomoku-five-stones-in-a-row.md) — Gomoku: Five Stones in a Row is a board logic game for two players. On a square board measuring 19x19 (in the traditiona
+- [Gomoku Five Stones in a Row](../games/board/gomoku-five-stones-in-a-row-2.md) — Challenge your strategic mind with Gomoku Five Stones in a Row, placing colored stones to align five in succession on gr
+- [Goods Sort](../games/board/goods-sort.md) — Imagine being able to sprint through the aisles of a supermarket, frantically snatching all the toys, fruits, and snacks
+- [Goose Game Multiplayer](../games/board/goose-game-multiplayer.md) — Goose Game Multiplayer is a HTML5 Board Game. Enjoy this funny version of the classic Goose Game. 3 Game’s Mode: - Multi
+- [Goose Game Multiplayer](../games/board/goose-game-multiplayer-2.md) — Dive into the hilarity with Goose Game Multiplayer, where classic board game fun meets unexpected twists. Roll the dice,
+- [Greedy Gnomes](../games/board/greedy-gnomes.md) — Engage in a luxurious battle of wits with Greedy Gnomes, where two brotherly rivals use dazzling rubies and diamonds in 
+- [Guess the path](../games/board/guess-the-path.md) — Guess the Path is a puzzle game for the smartest of you. So yes, the first levels are quite simple and you will tell you
+- [Guess Who Multiplayer](../games/board/guess-who-multiplayer.md) — Guess Who Multiplayer is a HTML5 Board Game. The goal of the game is to be the first to guess which character one’s oppo
+- [Halloween Board Puzzles](../games/board/halloween-board-puzzles.md) — It is a time bound game where one needs to find 1 difference between two identical looking boards.
+- [Halloween Matching Puzzles](../games/board/halloween-matching-puzzles.md) — Halloween Matching puzzle is simple yet interesting game in which you slide the blocks towards another identical block. 
+- [Halloween Mazes](../games/board/halloween-mazes.md) — Halloween Mazes is a thrilling puzzle game with twists and turns. Race against the clock to find a path from the entranc
+- [Halloween Words Search](../games/board/halloween-words-search.md) — Find the word in straight line of blocks (Horizontally, vertically or diagonally with any direction), press the block sh
+- [Hanged](../games/board/hanged.md) — Hanged challenges you to unravel numerical mysteries using your wits and logic. Guess secret numbers, sharpen your deduc
+- [Happy Farm: fields puzzle](../games/board/happy-farm-fields-puzzle.md) — You are now in charge of your grandfather's farm. You will have to sow and manage the crops as they should. You need to 
+- [Hardest Game Ever](../games/board/hardest-game-ever.md) — Are you ready to try the hardest game ever? Work your way through 60 incredibly hard levels! High attention and concentr
+- [Hazel Tic Tac Toe](../games/board/hazel-tic-tac-toe.md) — Hazel Tic Tac Toe &ndash; Fun Kids Puzzle Game Online Free Play Hazel Tic Tac Toe, a colorful and entertaining puzzle ga
+- [Head to Head Tic Tac Toe](../games/board/head-to-head-tic-tac-toe.md) — Challenge your strategic prowess in Head to Head Tic Tac Toe, a modern take on the beloved classic. Outwit your rival by
+- [Health](../games/board/health.md) — The virus has taken over the planet. Destroy it by connecting identical tiles and gaining as many points as possible. Fr
+- [Hex Blocks Puzzle](../games/board/hex-blocks-puzzle.md) — Simple to play but difficult to master. Puzzles range from beginner to expert featuring increasingly difficult hex block
+- [Hexable](../games/board/hexable.md) — In the Hexable game your goal is to fill a board resembling a hexagon with straight rows or columns using differently sh
+- [Hexagonal Chess](../games/board/hexagonal-chess.md) — Immerse yourself in a new kind of strategy with Hexagonal Chess, where each piece moves fluidly in six directions. This 
+- [Hotel Manager](../games/board/hotel-manager.md) — As a global real estate mogul in Hotel Manager, build your empire by investing in prime properties worldwide. Hone strat
+- [Ice bucket challenge : President edition](../games/board/ice-bucket-challenge-president-edition.md) — The Ice Bucket Challenge, the new buzz on the web! After the celebrities, come the presidents! Throw buckets of ice on t
+- [Impossible Tic Tac Toe](../games/board/impossible-tic-tac-toe.md) — Challenge your mind with Impossible Tic Tac Toe, where securing a draw is the ultimate triumph. Outwit opponents in stra
+- [Intergalactic Battleship](../games/board/intergalactic-battleship.md) — Engage in a cosmic showdown as you outsmart alien forces, strategically locating and destroying enemy ships. Intergalact
+- [International Draughts](../games/board/international-draughts.md) — International Draughts reimagines classic checkers, offering a strategic challenge on a 10x10 board. Maneuver your piece
+- [Jewel Blocks Galaxy](../games/board/jewel-blocks-galaxy.md) — Simple to play but difficult to master. Puzzles range from beginner to expert featuring increasingly difficult hex block
+- [Juicy Tic Tac Toe](../games/board/juicy-tic-tac-toe.md) — Immerse yourself in a vivid fruit-filled universe with Juicy Tic Tac Toe! Strategize to line up three luscious fruits, f
+- [Jumanji board Game](../games/board/jumanji-board-game.md) — The game includes six players Jumanji movies. Are your friends king of Jumanji ? Bing them all! play this game once! Jum
+- [JumpMe](../games/board/jumpme.md) — Jump Me is a single player puzzle game, based on chess knight steps. The game contains hundreds of levels \ boards in di
+- [Junior Chess](../games/board/junior-chess.md) — Master the art of chess with Junior Chess. Tailor difficulty for the perfect match and visualize potential moves with in
+- [Kadeomon](../games/board/kadeomon-3.md) — Navigate adorable landscapes in Kadeomon, a charming 2D platformer filled with escalating challenges. Test your dexterit
+- [Kingdom Puzzles](../games/board/kingdom-puzzles.md) — Kingdom Puzzle is a relaxing brain game where you see a grid with different colored regions. Your goal is to place one k
+- [Kingdoms Wars](../games/board/kingdoms-wars.md) — Embark on a royal journey in Kingdoms Wars, where strategic dice rolls guide your empire-building adventure. Buy streets
+- [Kitchen Item Search](../games/board/kitchen-item-search.md) — This is a skill based puzzle game. You will see a board filled with different kitchen items. You need to find the exact 
+- [Koko Loco Block Blast](../games/board/koko-loco-block-blast.md) — Think fast, blast smart &mdash; can you beat your best score? Blast blocks, fit shapes, outsmart the grid. Get ready for
+- [Laser Ray](../games/board/laser-ray.md) — Are you good at reflecting lasers? In this game you'll have to correctly direct all the positions of lasers and mirrors 
+- [Link Four](../games/board/link-four.md) — Link Four is an engaging, strategic showdown where players tactically drop discs into columns to create a winning connec
+- [Lof Shadow Match 1](../games/board/lof-shadow-match-1.md) — It is an educational as well as fun game for kids. Just look the photo displayed in the left box and click correct shado
+- [Logic Islands](../games/board/logic-islands-2.md) — A logic puzzle game inspired by Nurikabe and Islands of Insight. Create islands with exact numbers while keeping walls c
+- [Ludo](../games/board/ludo.md) — Ludo brings a timeless pursuit of strategy and chance to life, where players race to move their tokens home while avoidi
+- [Ludo Brawl](../games/board/ludo-brawl.md) — Ludo Brawl reinvents the classic board game with thrilling multiplayer mayhem. Up to four players use strategy and speci
+- [Ludo Champions](../games/board/ludo-champions.md) — Experience the thrill of Ludo Champions, where strategic maneuvering and precision rolls elevate each game into a lively
+- [Ludo classic : a dice game](../games/board/ludo-classic-a-dice-game.md) — Play Ludo star now, a classic and fun board game, alone or with friends & buddies. Enter the club of fans of Ludo, try t
+- [Ludo Fever](../games/board/ludo-fever.md) — Get ready for dice-rolling excitement with Ludo Fever! This digital board game tests your luck as you race to move your 
+- [Ludo Game Multiplayer](../games/board/ludo-game-multiplayer.md) — Ludo Online Multiplayer Games is the perfect place to play online games with your friends. With a huge selection of game
+- [Ludo Game Multiplayer](../games/board/ludo-game-multiplayer-2.md) — Challenge friends in Ludo Game Multiplayer, where luck and strategy unite! Navigate your tokens to victory, dodging riva
+- [Ludo King Dice Club](../games/board/ludo-king-dice-club-2.md) — Ludo King Dice Club turns downtime into strategic fun as players roll dice to advance colorful pieces to the centerboard
+- [Ludo Legend](../games/board/ludo-legend.md) — Play a game of Ludo! Everyones favourite board game! Play alone or with your friends on one device! Just pass it on! Col
+- [Ludo Legend](../games/board/ludo-legend-2.md) — Play a game of Ludo! Everyones favourite board game! Play alone or with your friends on one device! Just pass it on! Col
+- [Ludo Legend](../games/board/ludo-legend-3.md) — Race your friends or AI in Ludo Legend, a thrilling digital spin on a classic board game. Strategize your moves, roll th
+- [Ludo Offline](../games/board/ludo-offline.md) — Relive the nostalgic excitement of Ludo Offline, where strategic moves and smart choices are your keys to victory. Compe
+- [Ludo World](../games/board/ludo-world.md) — Experience endless fun with various vibrant environments, where every roll of the dice brings a new challenge. Choose be
+- [Ludus Roman Checkers](../games/board/ludus-roman-checkers.md) — Ludus Roman Checkers immerses you in the strategic world of ancient Roman warfare. Outsmart opponents by capturing piece
+- [Makruk Thai Chess](../games/board/makruk-thai-chess.md) — Experience the strategic intricacies of Makruk, the captivating Thai take on chess. With distinctive piece movements and
+- [Master Checkers](../games/board/master-checkers.md) — Play Checkers, the classic two-player board game! Make diagonal moves, eliminate opponents, and crown your piece as a ki
+- [Master Checkers](../games/board/master-checkers-2.md) — Master Checkers is fun addictive strategy board game.Checkers is a group of strategy board games for two players which i
+- [Master Checkers](../games/board/master-checkers-3.md) — Master Checkers transforms the timeless board game into a strategic digital showdown. Navigate your pieces wisely to out
+- [Master Checkers Multiplayer](../games/board/master-checkers-multiplayer.md) — Master Checkers Multiplayer is a HTML5 Board Game. Enjoy this stylish version of the classic Checkers Game. 3 Game’s Mod
+- [Master Checkers Multiplayer](../games/board/master-checkers-multiplayer-2.md) — Dive into Master Checkers Multiplayer, where strategic depth meets vibrant visuals. Challenge global players, test your 
+- [Master Chess](../games/board/master-chess.md) — Sharpen your tactics to defeat the king in this classic game. Compete online with either the AI or players from around t
+- [Master Chess Multiplayer](../games/board/master-chess-multiplayer.md) — Master Chess Multiplayer is a HTML5 Board Game. Enjoy this stylish version of the classic Chess Game. 3 Game’s Mode: - M
+- [Master Chess Multiplayer](../games/board/master-chess-multiplayer-2.md) — Master Chess Multiplayer invites you to a strategic showdown. Outthink opponents worldwide or challenge a clever AI. Com
+- [Match Shapes](../games/board/match-shapes.md) — Slide the shapes blocks towards another block having identical shape to eliminate both. Use as least moves as possible t
+- [Mazes](../games/board/mazes.md) — Classic Fun filled Brain Puzzle game for perfect time breaker. You will be trapped in the maze and with your smart brain
+- [Memory Booster Animals](../games/board/memory-booster-animals.md) — Memory Booster Animal is a fun and challenging memory game with 2 phases. In the first phase you'll need to pick a certa
+- [Memory Color](../games/board/memory-color-2.md) — Sharpen your mind with Memory Color, where fast-paced sequences test your memory and concentration. Reproduce the flashi
+- [Mergis](../games/board/mergis.md) — You must release the Mergis so that they match each other when they have the same number. Choose a lane to release. Merg
+- [Mill Nine Mens Morris](../games/board/mill-nine-mens-morris.md) — Dive into Mill Nine Mens Morris, an ancient strategy masterpiece. Outsmart your opponent by aligning trios of pieces, al
+- [Mind Gambit](../games/board/mind-gambit.md) — Mind Gambit is a relaxing puzzle game inspired by the classic Peg Solitaire. Plan your moves carefully to jump and remov
+- [Mini Chess](../games/board/mini-chess-2.md) — Dive into intense strategic battles with Mini Chess, a condensed version of the classic game for quicker, tactical duels
+- [Mini Chess 3D](../games/board/mini-chess-3d.md) — Pocket Chess 3D is an addictive 3D tactical puzzle game that transforms classic chess into bite-sized, brain-teasing cha
+- [Mini Janggi](../games/board/mini-janggi.md) — Dive into Mini Janggi, where streamlined Korean chess meets fast-paced strategy. Maneuver your army on a compact 7x7 boa
+- [Monopoly Online](../games/board/monopoly-online.md) — MONOPOLY online game. It's the classic game of Monopoly that you know and love with an online twist. Relive one of the m
+- [Moon Chess](../games/board/moon-chess.md) — Moon Chess is a cosmic strategy game where you face off against the mysterious Half Moon! Connect the phases of the luna
+- [Morris](../games/board/morris.md) — This is a very puzzle game,players should have enough patience,with their intelligence will be their pieces into three,q
+- [Neon Saga Tic Tac Toe: 69 Level War](../games/board/neon-saga-tic-tac-toe-69-level-war.md) — Are you ready to redefine everything you know about the classic game of X&rsquo;s and O&rsquo;s? Welcome to Neon Saga Ti
+- [Neon Tic-Tac-Toe](../games/board/neon-tic-tac-toe.md) — Dive into the electrifying world of Neon Tic-Tac-Toe, with vibrant visuals and strategic gameplay. Face off against a cl
+- [Nine Mens Morris](../games/board/nine-mens-morris.md) — Looking for a challenging and exciting online board game? Look no further than Nine Mens Morris! With the ability to pla
+- [Number Arrange](../games/board/number-arrange.md) — Solving puzzles has a great benefit, it increases brain production of dopamine. It also affects learning, memory, concen
+- [Numbers crossed](../games/board/numbers-crossed.md) — This game is a combination of a crossword game and a mind puzzle. Instead of playing with words you will play with numbe
+- [Onet Pet Matching](../games/board/onet-pet-matching.md) — Embark on a whimsical journey with Onet Pet Matching, a puzzle game where strategy meets charm. Connect adorable animal 
+- [Othello](../games/board/othello.md) — Othello is a strategic showdown of wit and cunning, where your objective is to outmaneuver your opponent by capturing an
+- [Othello Five](../games/board/othello-five.md) — Classic Othello with a twist - get 5 in a row to win! Flip your opponents stones by trapping them between yours, but vic
+- [Othello Five](../games/board/othello-five-2.md) — Experience the classic challenge of Othello with a strategic twist—line up five stones to claim victory! Engage with dyn
+- [Ouija Voices](../games/board/ouija-voices-2.md) — Plunge into the spine-tingling world of Ouija Voices, where each motion uncovers eerie spirit messages. Navigate the mys
+- [Paint Tomato](../games/board/paint-tomato.md) — Paint Tomato is a vibrant grid puzzle game where you match tomato colors to adjacent ones. Use strategic moves to swiftl
+- [Paper Block 2048](../games/board/paper-block-2048.md) — Paper Block 2048 is Puzzle game with minimalist graphics, simple and addictive. Join the numbers and get to the 2048 til
+- [Parcheesi Deluxe](../games/board/parcheesi-deluxe.md) — Parcheesi Deluxe is a variant game of Ludo, one of the most famous board game (It's also know as Pachisi or Parchis). Th
+- [Pawn Chess](../games/board/pawn-chess.md) — Dive into Pawn Chess, a minimalist yet strategic chess variant where cunning pawn maneuvers are your path to victory. Ma
+- [People Onet](../games/board/people-onet.md) — Dive into People Onet, a captivating tile-matching puzzle adventure where strategic pairing meets time-based challenges.
+- [Petits Chevaux Small Horses](../games/board/petits-chevaux-small-horses-2.md) — Step into a world of strategy and chance with Petits Chevaux Small Horses. Guide your horses around the board, relying o
+- [PicPu Dog](../games/board/picpu-dog.md) — PicPu is a very attractive photo puzzle. Just like Jigsaw puzzle, it is the best kill time game. PicPu is a block puzzle
+- [Picsword Puzzles 2](../games/board/picsword-puzzles-2.md) — This is word puzzle game. Make a meaningful word with the help of two images.
+- [Pill Escape](../games/board/pill-escape.md) — Pill Escape is a puzzle game inspired by the rush-hour style, where your goal is to slide the blue pill to the exit. Mou
+- [Pillar Checkers Duel](../games/board/pillar-checkers-duel.md) — Stack your victories in Pillar Checkers Duel, where each captured piece builds a towering powerhouse. Move strategically
+- [Pirate Slots](../games/board/pirate-slots.md) — Set sail on an exhilarating slots adventure in Pirate Slots! Strategically increase your winning lines and bets, unlocki
+- [Pirates Board Puzzle](../games/board/pirates-board-puzzle.md) — It is a time bound game where one needs to find 1 difference between two identical looking boards. Once you find a diffe
+- [Pixel Draw](../games/board/pixel-draw.md) — Unleash your creativity by crafting unique pixel art from scratch. In Pixel Draw, there are no templates &mdash; only yo
+- [Pixel Pipes](../games/board/pixel-pipes.md) — Pixel Pipes is a logic game in which you have to make the pipes connect taking water from one point to another. Just tap
+- [Play 4 in a Row - Brain Challenge](../games/board/play-4-in-a-row-brain-challenge.md) — Engage in strategic duels and outsmart opponents by aligning four colored balls on a grid. Whether challenging cunning A
+- [Power All](../games/board/power-all.md) — Strategically place blocks to absorb energy and conquer territories in Power All. Navigate diverse puzzle boards, outwit
+- [Pretty Tiles](../games/board/pretty-tiles.md) — Unleash your puzzle-solving skills in Pretty Tiles, a mesmerizing matching game. Race against time to align identical ti
+- [Pskov Checkers](../games/board/pskov-checkers.md) — Dive into the strategic world of Pskov Checkers, where corner-facing boards grant unprecedented freedom of movement. Man
+- [Push It Puzzle Game](../games/board/push-it-puzzle-game.md) — On the boards, use the ball launchers to fill the holes and clear the cells by strategically completing rows and columns
+- [Push the Mouse](../games/board/push-the-mouse.md) — Do you like cute puzzle games? This game is for you! Push The Mouse is a super cute game that will put your intelligence
+- [QBlock Puzzle](../games/board/qblock-puzzle-2.md) — QBlock Puzzle - Addictive block game for fans of puzzles, jigsaw, and classic wooden block. Play QBlock Puzzle 10 minute
+- [Quiz Against Time](../games/board/quiz-against-time.md) — Race against the clock in "Quiz Against Time," where your knowledge and speed are put to the test! Answer 50 diverse que
+- [QuizCoaster](../games/board/quizcoaster.md) — Dive into the thrilling world of QuizCoaster, where your amusement park knowledge faces the ultimate test. Challenge you
+- [Reinarte Checkers](../games/board/reinarte-checkers.md) — A Checkers Games to have fun and test your strategies.
+- [Remember the numbers](../games/board/remember-the-numbers.md) — If you like puzzle games and you want to work on your memory while having some fun, Remember the Numbers is made for you
+- [Reversi 2](../games/board/reversi-2.md) — Dive into Reversi 2, where strategic depth and challenge meet simplicity. Challenge an AI or a friend in thrilling, tact
+- [Reversi Mania](../games/board/reversi-mania-2.md) — Reversi Mania challenges your strategic thinking with double-sided stones and intense player vs player action. Outmaneuv
+- [Reversi Multiplayer](../games/board/reversi-multiplayer.md) — Reversi Multiplayer is a HTML5 Board Game. Enjoy this stylish version of the classic Reversi Game. 3 Game’s Mode: - Mult
+- [Reversi Multiplayer](../games/board/reversi-multiplayer-2.md) — Dive into Reversi Multiplayer, where strategic depth meets competitive excitement. Battle AI, challenge friends locally,
+- [Reversi Othello Duel](../games/board/reversi-othello-duel.md) — Dive into a world of strategic depth with Reversi Othello Duel. Flip your opponent’s chips in engaging matches on a clas
+- [Richman](../games/board/richman.md) — Strategize your path to riches in Richman, where savvy financial maneuvers and city-building finesse determine supremacy
+- [Rock Paper Scissors Multiplayer](../games/board/rock-paper-scissors-multiplayer.md) — Dive into the timeless fun of Rock Paper Scissors, now reimagined for multiplayer delight. Engage in dynamic online duel
+- [Roll The Dice](../games/board/roll-the-dice-2.md) — Embark on an infinite adventure with "Roll The Dice," an arcade clicker that blends nostalgia with modern flair. Strateg
+- [Rotative Pipes Puzzle](../games/board/rotative-pipes-puzzle.md) — Rotative Pipes Puzzle is a game with 70 levels. For each level, you must touch in tiles, rotating them. But the player m
+- [Russian Checkers](../games/board/russian-checkers-2.md) — Experience a fresh take on a timeless strategy game with Russian Checkers. Battle intelligent AI or friends in dynamic m
+- [Russian Draughts](../games/board/russian-draughts.md) — Immerse yourself in the strategic world of Russian Draughts, where every turn matters. Outsmart your opponent by capturi
+- [Russian Draughts Duel](../games/board/russian-draughts-duel.md) — Immerse yourself in Russian Draughts Duel, a thrilling twist on classic checkers. Strategize to capture or immobilize op
+- [SameLock](../games/board/samelock.md) — SameLock is a tile-matching game based on SameGame. The goal of the game is to clear the gameboard. Only groups of two o
+- [Santa Gifts Rush](../games/board/santa-gifts-rush.md) — Santa Gifts Rush is a Christmas based puzzle game. In this game you’ll need to help Santa collect all the gifts and then
+- [Santa Shadow Match](../games/board/santa-shadow-match.md) — Santa Shadow Match is a fun and educational shadow matching game for kids. Look at the figure on the right and click on 
+- [Scopa](../games/board/scopa.md) — Dive into the strategic allure of Scopa, a classic Italian card game where capturing cards with cunning moves is key. En
+- [Shadow Match Halloween](../games/board/shadow-match-halloween.md) — It is an educational as well as fun game for kids. Just look the photo displayed in the left box and click correct shado
+- [Shape Defense](../games/board/shape-defense-2.md) — Guard your treasure against relentless waves of geometric invaders in Shape Defense. Master strategy and quick reflexes 
+- [Shogi Japanese Chess](../games/board/shogi-japanese-chess.md) — Engage in strategic battles of wit and foresight with Shogi. Move, capture, and transform pieces to outsmart your oppone
+- [Short Backgammon](../games/board/short-backgammon.md) — Short Backgammon delivers a fresh twist on the age-old board game, blending strategy and chance within a visually vibran
+- [Sila](../games/board/sila.md) — Race down a snowy mountain, dodge dangerous obstacles, and see how far you can go! Control your snowboarder, react quick
+- [Simple Checkers](../games/board/simple-checkers.md) — Strategize your way to victory in Simple Checkers! Face off against a smart AI, maneuvering diagonally to jump and captu
+- [Simple Chess](../games/board/simple-chess.md) — Take no prisoners, and at all costs, defend your King's honour! This 3D Chess game is the finest way to enjoy the tradit
+- [Simple Domino](../games/board/simple-domino.md) — Engage in a strategic duel of minds with Simple Domino. Intuitive drag-and-drop mechanics make it easy to place your til
+- [Simple puzzle](../games/board/simple-puzzle.md) — Riddles are a kind of word play, here is a small arrangement of the small 'simple crossword puzzle game, let's take a lo
+- [Simple Tic Tac Toe](../games/board/simple-tic-tac-toe.md) — Tic Tac Toe is a classic two-player game that can be played on a computer. The game is played on a 3x3 grid and each pla
+- [Slides And Climbs](../games/board/slides-and-climbs.md) — Slides And Climbs is a laid-back online game based on the traditional English board game of the same name, which served 
+- [SMART MIND GAME](../games/board/smart-mind-game.md) — SMART MIND GAME is an exciting puzzle game the will keep you busy for hours!
+- [Snake and Ladders Multiplayer](../games/board/snake-and-ladders-multiplayer.md) — Snake and Ladders Multiplayer is a HTML5 Board Game. Enjoy this funny version of the classic Snake and Ladders Game. 3 G
+- [Snake and Ladders Party](../games/board/snake-and-ladders-party.md) — Snakes and Ladders, known originally as Moksha Patam, is an ancient Indian board game regarded today as a worldwide clas
+- [SnowBoard Game](../games/board/snowboard-game.md) — Welcome to SnowBoard Game, an exciting winter sports adventure where you ride down snowy slopes, avoid obstacles, and pe
+- [Spaceship Launcher](../games/board/spaceship-launcher.md) — Click on 3 or more similar blocks to get them eliminated. Your goal is to clear the way for spaceships to launch them. D
+- [Speed Pool King](../games/board/speed-pool-king.md) — Dominate the pool table in Speed Pool King, where precision and strategy meet head-to-head competition. Maneuver your cu
+- [Spin the Wheel](../games/board/spin-the-wheel.md) — Test your fortune and strategy in Spin the Wheel, where each spin boosts your score or challenges your recovery. With vi
+- [Spiro](../games/board/spiro.md) — Unleash your creativity in Spiro, a calming yet challenging arcade puzzle game. Glide across the canvas to craft intrica
+- [SpongeBob Tic Tac Toe](../games/board/spongebob-tic-tac-toe.md) — SpongeBob and Patrick playing tic tac toe. Let's play with us. Who do you think will win?
+- [Spot The Difference Diffsy_1](../games/board/spot-the-difference-diffsy-1.md) — Train your brain and test your observation skills with Diffsy &ndash; Spot the Difference, a fun and relaxing visual puz
+- [Spot The Differences Halloween](../games/board/spot-the-differences-halloween.md) — This is a spot the difference game with Halloween theme. Find 5 differences between 2 images.
+- [Squirrel Tic Tac Toe](../games/board/squirrel-tic-tac-toe.md) — Squirrel Tic Tac Toe reimagines the classic game with a playful twist. Strategize against your opponent using special it
+- [Stapler click](../games/board/stapler-click.md) — In this game you embody a stapler. Several sheets of paper will be released on your screen. You must be able to staple t
+- [Straight 4 Multiplayer](../games/board/straight-4-multiplayer.md) — Enter the strategic world of Straight 4 Multiplayer, where you challenge an opponent to connect four discs in a row. Wit
+- [Sudoku Christmas](../games/board/sudoku-christmas.md) — This is a classic sudoku game. You can select any one of three grids(4x4, 6x6 or 9x9) and can set difficulty level. The 
+- [Sudoku Classic](../games/board/sudoku-classic.md) — Sudoku is played on a grid of 9 x 9 spaces. Within the rows and columns are 9 “squares” (made up of 3 x 3 spaces). Each 
+- [Sudoku HTML5](../games/board/sudoku-html5.md) — Dive into the classic challenge of Sudoku, where logic rules over luck. Carefully place numbers to solve intricate puzzl
+- [Summer Mazes](../games/board/summer-mazes.md) — Summer Mazes is a delightful game where you solve sunny puzzles to escape the maze. Easy controls via touch, mouse, or k
+- [Sweet Candy Hexa Puzzle](../games/board/sweet-candy-hexa-puzzle.md) — This is a typical puzzle game that helps train your eyes and brain. It is the "Hexagon" version of the classic Tetris ga
+- [Swipe and Clear](../games/board/swipe-and-clear.md) — Swipe and Clear is a challenging and addictive puzzle game that puts your strategic skills to the test! In each level, y
+- [SYStars](../games/board/systars.md) — The New logic puzzle. A completely unique, exciting gaming experience. Spin the star, flip the chips on the board, score
+- [Tac Tac](../games/board/tac-tac.md) — Dive into the classic Tic Tac Toe experience! Battle a clever AI or compete with friends for endless strategic fun. It's
+- [Tafl: viking chess](../games/board/tafl-viking-chess.md) — A Scandinavian strategy board game that was popular in the Middle Ages. In Scandinavian society, it was comparable to ch
+- [Tafl Viking Chess](../games/board/tafl-viking-chess-2.md) — Strategize to escort your king to safety or orchestrate a siege in Tafl Viking Chess. Navigate medieval Scandinavia with
+- [TaoVip](../games/board/taovip.md) — Discover an aspect of the fantasies of the east through this fun-to-play board game with same screen multiplayer. This i
+- [TaoVip](../games/board/taovip-2.md) — Dive into TaoVip, where a fusion of strategy, skill, and trivia awaits. Navigate an enchanting anime-themed world, maste
+- [TappingTiles](../games/board/tappingtiles.md) — Timed Tapping Trepidation. Addictive and fast-paced reflex game you won\&#39;t want to give up on!
+- [Tavreli Russian Chess](../games/board/tavreli-russian-chess.md) — Experience a new twist on traditional chess where captured pieces stack and create powerful towers, adding layers of str
+- [The Magic Well](../games/board/the-magic-well.md) — Dive into "The Magic Well," where strategic clicking meets endless fun. Spin the magic wheel, amass coins, and upgrade y
+- [The Unique Fish](../games/board/the-unique-fish.md) — Look the different photos of fish and find one of a kind.
+- [Tic-Tac-Tangle](../games/board/tic-tac-tangle.md) — Dive into Tic-Tac-Tangle, a vibrant twist on the classic, where every move sharpens your strategic mind. Outsmart the cl
+- [Tic Tac Toe 2.0](../games/board/tic-tac-toe-2-0.md) — Tic Tac Toe 2.0 elevates the classic game with strategic depth and customizable themes. Play against an intelligent AI o
+- [Tic Tac Toe 2025](../games/board/tic-tac-toe-2025.md) — Hook: Classic strategy puzzle game that challenges players to think ahead Features: List key gameplay elements and modes
+- [Tic Tac Toe HTML5](../games/board/tic-tac-toe-html5.md) — Experience the timeless strategy of Tic Tac Toe like never before. Tackle 3x3, 5x5, and challenging 7x7 grids, aiming to
+- [Tic Tac Toe  Mania](../games/board/tic-tac-toe-mania.md) — Tic Tac Toe Mania is a great way to spend your free time. Stop wasting paper and save the trees. Play Tic Tac Toe Mania 
+- [Tic Tac Toe Mania](../games/board/tic-tac-toe-mania-2.md) — Tic Tac Toe Mania offers a modern twist on a classic duel of wits. Strategically outmaneuver your opponent on three-by-t
+- [Tic Tac Toe Mastermind](../games/board/tic-tac-toe-mastermind.md) — Challenge your strategic prowess in Tic Tac Toe Mastermind, where the timeless game meets a cunning AI opponent. Play as
+- [Tic Tac Toe Multiplayer](../games/board/tic-tac-toe-multiplayer.md) — Ultimate Tic Tac Toe is a HTML5 Board Game. Enjoy this nice version of the classic Tic Tac Toe Game. 3 Game’s Mode: - Mu
+- [Tic Tac Toe Multiplayer](../games/board/tic-tac-toe-multiplayer-2.md) — Dive into Ultimate Tic Tac Toe, where the timeless fun intensifies with thrilling multiplayer action. Challenge friends 
+- [Tic Tac Toe Multiplayer X O](../games/board/tic-tac-toe-multiplayer-x-o.md) — Dive into the timeless duels of Tic Tac Toe Multiplayer X O, where modern graphics meet classic strategy. Challenge frie
+- [Tic Tac Toe Online](../games/board/tic-tac-toe-online.md) — Challenge your friends in Tic Tac Toe Online, a digital spin on the classic game. Engage in turn-based, strategic battle
+- [Tic Tac Toe Planets](../games/board/tic-tac-toe-planets.md) — Click or touch the empty spot to place a planet. Line up three of your planets vertically, horizontally or diagonally to
+- [Tic Tac Toe Quiz](../games/board/tic-tac-toe-quiz.md) — Combine strategy and arithmetic in Tic Tac Toe Quiz, where correct math answers let you claim victory! Engage in solo or
+- [Tic Tac Toe Variant](../games/board/tic-tac-toe-variant.md) — Experience a refreshing twist on Tic Tac Toe. Customize your board from a traditional 3x3 to an intricate 8x8 grid. Chal
+- [Tick Cross 2 Players](../games/board/tick-cross-2-players.md) — Tick cross 2 players is the classic game that works every device around the world with very beautiful graphics. The game
+- [TicTacToe vs AI](../games/board/tictactoe-vs-ai.md) — Engage in thrilling Tic Tac Toe battles against a clever AI or global players. Navigate a user-friendly interface, strat
+- [Tiny Rush](../games/board/tiny-rush.md) — Match animals to collect them, and string several in a row to create big chain combos! Match three or more animals by pl
+- [Tower Blocks Deluxe](../games/board/tower-blocks-deluxe.md) — Build your tower, Block By Block! Simply drop the Block on top of each other and watch your block tower grow, but if you
+- [Triminos Dominoes Triangles](../games/board/triminos-dominoes-triangles.md) — Immerse yourself in strategic triangular tile matching as you race to clear your hand first. Outsmart both AI and online
+- [Truth or Dare](../games/board/truth-or-dare.md) — Dive into the excitement of Truth or Dare, where honesty meets bravery. Challenge yourself with unpredictable questions 
+- [TRZ Battleship](../games/board/trz-battleship-2.md) — Strategically hide and seek enemy ships in TRZ Battleship's exhilarating naval warfare. Unleash your inner tactician as 
+- [TRZ Tangram](../games/board/trz-tangram-2.md) — Engage your mind with TRZ Tangram, where geometric creativity meets mental challenge. Arrange the seven 'tans' to solve 
+- [Tsoro](../games/board/tsoro-2.md) — Tsoro revitalizes an ancient board game with strategic depth and modern flair. Drop colored balls into a wooden board to
+- [Turkish draughts](../games/board/turkish-draughts.md) — The main feature is that moves and captures with checkers are made horizontally and vertically, and not diagonally, as i
+- [Turkish Draughts](../games/board/turkish-draughts-2.md) — Step into the vibrant world of Turkish Draughts, where checkers move uniquely across a dynamic 64-cell board. Strategize
+- [Turn on Bulb](../games/board/turn-on-bulb.md) — Turn on Bulb &mdash; A wire-connecting puzzle game where you rotate tiles to complete the electrical circuit from plug t
+- [Two For 2: match the numbers!](../games/board/two-for-2-match-the-numbers.md) — A very addicting Puzzle Game, similar to the popular 2048 game, but with a different logic. Connect the numbers to obtai
+- [ULTIMATE CHESS](../games/board/ultimate-chess.md) — Ultimate Chess is a classic chess game to play in the browser. Choose Player vs Player to play with a friend on the same
+- [Ultimate Noughts & Crosses](../games/board/ultimate-noughts-crosses.md) — Elevate your Tic-tac-toe experience with Ultimate Noughts & Crosses, where every move alters the game's destiny across i
+- [Unblock Ball: Slide Puzzle](../games/board/unblock-ball-slide-puzzle.md) — Unblock Ball is a simple and addictive rolling ball puzzle game. Use and storm your brain and try to solve each puzzle. 
+- [Unblock It Classic](../games/board/unblock-it-classic.md) — Think strategically and play your moves in your head first, so it's easier to figure out the correct order of moves.
+- [Underwater Photo Differences](../games/board/underwater-photo-differences.md) — Find 5 differences between 2 photos.
+- [Unlimited Carrom Pool](../games/board/unlimited-carrom-pool.md) — Dive into a captivating digital carrom experience with smooth controls, authentic physics, and an engaging interface. Ta
+- [Unno Game](../games/board/unno-game.md) — Unno Game delivers a thrilling twist on the classic card game. Outsmart opponents using special cards to alter game dyna
+- [War Checkers](../games/board/war-checkers.md) — Dive into War Checkers, where classic strategy meets thrilling warfare. Outsmart advanced AI or friends in captivating g
+- [Which Insect Looks Different](../games/board/which-insect-looks-different.md) — This is a difference puzzle game. In this game four images of insects are given. Three of them look exactly same but one
+- [Which Is Different Cartoon](../games/board/which-is-different-cartoon.md) — Click on a image which is different from others.
+- [Which Is Different Halloween](../games/board/which-is-different-halloween.md) — Click on a image which is different from others.
+- [White Nightmare](../games/board/white-nightmare.md) — Simple! Find the pure white color blocks. It is very hard, you hard to see which one is true white color.
+- [Winter Pairs](../games/board/winter-pairs.md) — Slide beautiful Winter Crafts towards it’s similar one to collect the both crafts. Each collected item gives you maximum
+- [Winx Simon Memory](../games/board/winx-simon-memory.md) — Follow the colors or pictures that light up in sequence and tap in the same order. How long a sequence can you remember?
+- [Woblox](../games/board/woblox.md) — Woblox offers mind-bending puzzles where your goal is to skillfully slide blocks and clear a path for the green block. W
+- [Woodcutter 3D](../games/board/woodcutter-3d.md) — This is a woodcutting game. The content of the game is to cut wood, sell wood, upgrade, cut wood and sell wood, upgrade,
+- [WoodPuz: Block Puzzle Games](../games/board/woodpuz-block-puzzle-games.md) — Discover WoodPuz: Block Puzzle Games &ndash; the ultimate brain-teasing escape! Are you a dedicated fan of block puzzles
+- [Word Search Emoji edition](../games/board/word-search-emoji-edition.md) — A new kind of word search games with emoji instead of words. It's really fun. If you like games where you need to search
+- [Word Search Universe](../games/board/word-search-universe.md) — Word Search Universe is a fun and relaxing puzzle game where you search for hidden words in a grid. The game has 20 chap
+- [Words in Ladder](../games/board/words-in-ladder.md) — Unleash your vocabulary in Words in Ladder, where every twist and tweak of letters can spark new creations. Anagram, add
+- [Words Search Classic Edition](../games/board/words-search-classic-edition.md) — No more magazines that take up too much space in the bag. You can now play your favorite games on mobile. This word sear
+- [World War II Conquer Army Puzzle](../games/board/world-war-ii-conquer-army-puzzle.md) — Tap on Board and Occupy more percentage and win levels. Enjoy the TOP Trending game in source code marketplaces.
+- [Xiangqi Chinese Chess Duel](../games/board/xiangqi-chinese-chess-duel.md) — Engage in thrilling Xiangqi battles on a 9x10 board with intricate rules like the central river and strict palace bounda
+- [Xmas Sliding Puzzles](../games/board/xmas-sliding-puzzles.md) — Move image tiles to form the picture shown to the right side of the screen. Touch or click a piece to have it slide to t
+- [Xmas Sudoku Deluxe](../games/board/xmas-sudoku-deluxe.md) — It is simplified Sudoku for kids. Drop items in blank boxes. Don't repeat an item in same column or row. Each time you s
+- [Xmas Tetriz](../games/board/xmas-tetriz.md) — This is Block Tetriz game with Christmas theme. Use left, right and down keys to move the blocks. Use up key to rotate t
+- [Xmasjong](../games/board/xmasjong-2.md) — Immerse yourself in Xmasjong, where holiday cheer meets strategic tile-matching fun. Challenge yourself to clear the boa
+- [Yatzy](../games/board/yatzy.md) — Yatzy is the ultimate classic dice game that brings endless fun and excitement! Experience the thrill of rolling five di
+- [Yatzy Yams](../games/board/yatzy-yams.md) — Hardcore fans of game of dices from all age and all corner of the earth, approach! May it be to occupy yourself during a
+- [Yatzy Yams Classic Edition](../games/board/yatzy-yams-classic-edition.md) — Hardcore fans of game of dices from all age and all corner of the earth, approach! May it be to occupy yourself during a
+- [Yellow Pipes](../games/board/yellow-pipes.md) — Rotate the pipes correctly. FORTY available levels!
+- [Your Sudoku](../games/board/your-sudoku.md) — Sudoku, originally called Number Place is a logic-based, combinatorial number-placement puzzle. This app offer over 1000
+- [Yummy 2048](../games/board/yummy-2048.md) — Merge identical food items by moving them in any direction with the help of arrow keys or swiping your figure on the scr

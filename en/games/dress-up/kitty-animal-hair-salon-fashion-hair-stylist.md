@@ -1,0 +1,24 @@
+# Kitty Animal Hair Salon - Fashion Hair Stylist
+
+<a href="https://inkwengame.com/games/kitty-animal-hair-salon-fashion-hair-stylist" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/kitty-animal-hair-salon-fashion-hair-stylist/cover.jpg)
+
+Welcome to Amy's Animal Hair Salon - the best cat beauty salon game for girls and boys! Here kids can become pet stylists and play with the cutest cats! Animal…
+
+## How to play
+
+Tap or click
+
+## About
+
+Welcome to Amy's Animal Hair Salon - the best cat beauty salon game for girls and boys! Here kids can become pet stylists and play with the cutest cats! Animal style icon Amy the leopard opened her own Animal Hair Salon for cats! Meet her first fluffy cat clients and help them get their dream hair and fashion makeovers! Wash, brush, curl, straighten, color and style the cats' beautiful hair! Dress the cats up in colorful trendy clothes!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Animal, Fun, Girl, Girls, H5, Hair, HTML5, Kid, Kids

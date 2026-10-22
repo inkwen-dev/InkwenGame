@@ -1,0 +1,24 @@
+# BallVania - arcade metroidvania ball games
+
+<a href="https://inkwengame.com/games/ballvania-arcade-metroidvania-ball-games" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/ballvania-arcade-metroidvania-ball-games/cover.jpg)
+
+"Ballvania" is inspired by hard difficult retro games. in this game you play as balls from different sports like Tennisball, Football or Soccerball,…
+
+## How to play
+
+WASD Keys or Arrow Keys to Move the Ball Press P key to Pause the Game in any Level
+
+## About
+
+"Ballvania" is inspired by hard difficult retro games. in this game you play as balls from different sports like Tennisball, Football or Soccerball, Basketball, and Baseball. in this game, your goal is to move the ball via an on-screen controller and avoid Deadly Obstacles like Laser, Rotating Blade, Cannons, Spears, and other difficult Deadly Obstacles which ad juice in the game. you also face holes that port ball into another hole to enhance your gameplay experience. it's a pretty simple and offline addictive game. this arcade game features 20 different ball variants to play and top list of boys free games. you need to try again & again your logic, strategy to complete this logic games. game features 24 hard game levels which provide some serious challenge to you in games that are free to play category. "Ballvania" also features fast-paced nonlinear gameplay to thrill your gameplay experience. soundtrack of this game are so amazing and match the level of the hard game in the world. you need precision movement and precision mind to complete each level of my indie game. difficulty level of game levels inspired by some of the classic games. Made on platform of top games in the market, "Unity Game Engine". unity games are awesome for mobile devices, I use also the same unity game engine to this made with unity game. frankly speaking, I made this indie game on my own. meaning I do all programming, artwork, level design everything except soundtracks. I made this game for everyone who love challenge in games like hardcore games who love challenge in the game. this game is suitable for boys free games, free game for adults, etc. unique things about this indie game in no developer made this kind of game that provides unique gameplay, hard and difficult gameplay experience. unique feature like teleporting, whole level in single screen etc. because of all of this uniqueness this game gonna be good in ball games and arcade games. another uniqueness about this game is it's "easy to learn and hard to master". yes friends, in this single-player, at the starting of the game, you play simple levels. when completing starting levels you faced medium hard game difficult levels, then hardest levels of the game. As you know this indie game inspired by difficult hard game of 90s nostalgia-era classic games, retro games, old games, your challenge gonna be hard to complete each levels. and you experience something new gaming mechanics and smoother gameplay in this boys for games. this game game addictive so play wisely. "Ballvania" also features some puzzle games elements. like you new to choose right hole to go right hole, find right key to unlock doors and precision decision making to complete this free to play boys free games and free game for adults. FEATURES OF THIS INDIE GAME. 1. This Game comes in small size, under 50MB. 2. unlike other games, my indie game provides unique gameplay experience. 3. challenge deadly obstacles like lasers, blades, rotating blades, rockets, spikes, cannons, arrows, shrunken etc. 4. Easy to learn hard to master. 5. hard game in the world, inspired by classic games, retro games, old games of 80s and 90s era. 6. boys free games and free games for adults. 7. fast-paced and nonlinear gameplay. 8. 2d games with great graphics. 9. soundtracks are just amazing. 10. precision and smooth controls. 11. 24 challenge levels. and add more in next update. 12. made with unity "Unity Game Engine" platform. 13. best games in ball games. 14. indie game developed by solo single developer. 15. game with arcade game elements and free to play game. 16. comes with difficult puzzle games elements to challenge you. 17. you need to think like pro hardcore gamer, retro gamer to complete each of these logic games levels. 18. this game is early access right now but almost complete game. 19.feel like playing nostalgia game. 20. And last but not least, game made by Ambitious Game Studio. Developed by BB. (Solo Game Developer).
+
+## Details
+
+- Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 1 Player, 2D, Arcade, Ball, Classic, Escape, Game, Games, Obstacle, Puzzle, Side Scrolling, Unity3D

@@ -1,0 +1,24 @@
+# Helicopter And Tank Battle vehicle wars
+
+<a href="https://inkwengame.com/games/helicopter-and-tank-battle-vehicle-wars" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/helicopter-and-tank-battle-vehicle-wars/cover.jpg)
+
+Welcome to new cool and awesome Helicopter And Tank Battle Desert Storm Multiplayer where you will be able to simulate a pixel real war fighting against real…
+
+## How to play
+
+wasd - drive tank helicoper cars and character Mouse - look around shooting change gun on scroll Tab - menu
+
+## About
+
+Welcome to new cool and awesome Helicopter And Tank Battle Desert Storm Multiplayer where you will be able to simulate a pixel real war fighting against real players around the world. Our fps battlefield game will make you love the realistic tanks and cool effects on bullet and rocket explosion and also when destroy a tank will show nice destroyed ragdoll, dont forget for our helicopter where you can drive and also can enter your friends inside and fly together, the cars can carry players on back and can speed up fast and drifting in map and will gain some xp to buy vehicle in map or also by gain xp can rank fast and unlock some powerful vehicle. I'm not bothered you with more feature on this game, you need to discover what is fun and addictive here. Have fun!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Battle, Battlegrounds, Multiplayer, Shooter, Shooting, Tank, Tanks, Unity3D, War, WebGL

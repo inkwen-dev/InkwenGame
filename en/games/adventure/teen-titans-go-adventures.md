@@ -1,0 +1,24 @@
+# Teen Titans Go Adventures
+
+<a href="https://inkwengame.com/games/teen-titans-go-adventures" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/teen-titans-go-adventures/cover.jpg)
+
+Team Titans Go Adventures - Super Teen Run Jungle 3D is a thrilling, exciting and FREE 3D running game. Carefully designed for kids and families who want to…
+
+## How to play
+
+Team Titans Go Adventures - Super Teen Run Jungle 3D is a thrilling exciting and FREE 3D running game Carefully designed for kids and families who want to run in the most exciting titans adventures jungle Run into the world of running titans wit
+
+## About
+
+Team Titans Go Adventures - Super Teen Run Jungle 3D is a thrilling, exciting and FREE 3D running game. Carefully designed for kids and families who want to run in the most exciting titans adventures jungle! Run into the world of running titans with the company of your hero teenager. Run against a field of rival Titans Go, each with unique personalities and special abilities. Collect a collection of crazy power ups and let your hero teen show off his superhero powers. Unlock and upgrade a variety of jungle. Test your skills in 2 different game modes on 40 imaginative 3D running tracks, Against the fearsome transforming titans. to play this animal Team Titans Go Adventures - Teen Run Jungle running game all you need to do is choose your world and start running and jumping adventure with while collecting as much coins as you can but be aware of enemies that can kill so lose the game whenever you see them, try to hide from them or make jump over them this way they won't harm you. Choose a hero teen and show off your skills behind the wheel and test your reflexes. Show that you can run like no other, beat your friends and prove that you are the ultimate teen Titans Go Rider. Team Titans Go Adventures - Teen Run Jungle 3D has real engine and crash sounds, skid marks and tire smoke. Yet it's easy to run and suitable for kids of all ages! The fluid controls allow you to move left and right and use lots of great power-ups Beat records to unlock new levels. You will never get bored with this game, collect coins and discover new titan heroes! Join your chosen teenager in this exciting and adventurous hero run game. You will be accompanied by your favorite characters; Teen Titans Robin, Teen Titans Raven and Teen Titans Star fire. Win all the world and collect coins to unlock them all! Addictive Game play. Here you won't find boring and dull kids running Adventures games where everything is predictable and formulaic. We offer you only the best teen running game. For kids and their parents, the best teen robin running game with awesome transforming world for girls and boys. Be sure to come back and run your favorite teen every day so you can unlock the exclusive and awesome daily rewards. Robin, Raven and Beast Boy are waiting for you at the finish line! Never give up your journey on the race track, you will always find your teen hero friends ready to help. Features of Team Titans Go Adventures - Teen Run Jungle running game: + Stunning sound effects and old school background music. + You have more than 80 challenging levels where you have to collect points to win. + More than 20 different enemies in the game like frogs, crocodiles, spiders, dragons, snails and monsters.... + Team Titans Go Adventures - Teen Run Jungle running game is really fun and easy to play. + Destructible bricks with special skill items inside. + 10 fantastic boss fights in the game (cruel scorpion, dangerous cat golem, scary crocodile and fast spider) in 8 different castle worlds + many bonuses, power-ups for, hidden blocks and items + 100 adventurous, exciting and addictive levels + earth and water land - means jumping and running AND also swimming + super first combiner of 3D and 2D high resolution graphics in the game + 6 different challenging worlds in the game (Wonder-world, Dread Forest, Sand land and Mountain Sphere) + fantastic one-tap game play reminiscent of classic old-school games in the game +Tons of amazing power-ups +Free and easy to play, hard to master +Unlock a collection of Teen Titans Go's World How to play Team Titans Go Adventures - Teen Run Jungle running game: + button makes shooting the enemy + button to jump + right and left button to move your Team Titans Go Adventures - Teen Run Jungle run game + Press the down button on a tree stump to get a hidden bonus level. + After you drink the magic bottle, you will become the Team Titans Go Adventures - Teen Run Jungle Run Game with magical powers and the ability to destroy blocks.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Adventure

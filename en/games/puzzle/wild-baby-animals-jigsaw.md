@@ -1,0 +1,24 @@
+# Wild Baby Animals Jigsaw
+
+<a href="https://inkwengame.com/games/wild-baby-animals-jigsaw" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/wild-baby-animals-jigsaw/cover.jpg)
+
+Wild Baby Animals Jigsaw game is free online game in jigsaw puzzle genre. You have 6 images of wild baby animals in three modes to play. Choose one of the mode…
+
+## How to play
+
+Use mouse to play this game
+
+## About
+
+Wild Baby Animals Jigsaw game is free online game in jigsaw puzzle genre. You have 6 images of wild baby animals in three modes to play. Choose one of the mode for the game that you previous choose and start to play. Drag and drop the pieces to solve the puzzle and create an image. Enjoy, and have fun!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Animal, Baby, HTML5, Jigsaw, Mobile, Puzzle

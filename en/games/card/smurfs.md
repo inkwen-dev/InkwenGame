@@ -1,0 +1,24 @@
+# Smurfs
+
+<a href="https://inkwengame.com/games/smurfs" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/smurfs/cover.jpg)
+
+The Smurfs (French: Les Schtroumpfs; Dutch: De Smurfen) is a Belgian comic franchise centered on a fictional colony of small, blue, human-like creatures who…
+
+## How to play
+
+Use Your Mouse
+
+## About
+
+The Smurfs (French: Les Schtroumpfs; Dutch: De Smurfen) is a Belgian comic franchise centered on a fictional colony of small, blue, human-like creatures who live in mushroom-shaped houses in the forest. The Smurfs was first created and introduced as a series of comic characters by the Belgian comics artist Peyo (the pen name of Pierre Culliford) in 1958, wherein they were known as Les Schtroumpfs. There are more than 100 Smurf characters, and their names are based on adjectives that emphasise their characteristics, such as "Jokey Smurf", who likes to play practical jokes on his fellow smurfs. "Smurfette" was the first female Smurf to be introduced in the series. The Smurfs wear Phrygian caps, which came to represent freedom during the modern era.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Brain, card, Memory, Puzzle

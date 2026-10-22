@@ -1,10 +1,8 @@
 # 关于本仓库
 
-这是 <a href="https://inkwengame.com/" target="_blank" rel="noopener noreferrer">InkwenGame</a> 的**公开目录**：给人、搜索引擎和 AI 读的 Markdown 组织层。
+这是 <a href="https://inkwengame.com/" target="_blank" rel="noopener noreferrer">InkwenGame</a> 的**公开文档目录**。
 
-- 默认英语；有中文则附中文段。
-- 游玩链接一律指向 `https://inkwengame.com` 详情页。
+- 多语分树：[`en/`](../en/README.md)、[`zh/`](../zh/README.md)。
+- 游玩链接指向 `https://inkwengame.com`。
 - 封面用自有 CDN（`img.inkwengame.com`）。
 - **不含**可玩 iframe、后台与密钥。
-
-分类入口见根目录 [README.zh-CN.md](../README.zh-CN.md)。

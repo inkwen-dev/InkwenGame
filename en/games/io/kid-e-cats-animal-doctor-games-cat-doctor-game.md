@@ -1,0 +1,24 @@
+# Kid E Cats Animal Doctor Games Cat Doctor Game
+
+<a href="https://inkwengame.com/games/kid-e-cats-animal-doctor-games-cat-doctor-game" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/kid-e-cats-animal-doctor-games-cat-doctor-game/cover.jpg)
+
+These are kids doctor games with cats! Become a cat doctor in kids hospital games! ⛑ Kitty cat games for kids all of ages: treat all characters of the cartoon!
+
+## How to play
+
+play with mouse click
+
+## About
+
+These are kids doctor games with cats! Become a cat doctor in kids hospital games! ⛑ Kitty cat games for kids all of ages: treat all characters of the cartoon!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: .io Games, 1 Player, 3D, Adventure, Aircraft, Animal, Arcade

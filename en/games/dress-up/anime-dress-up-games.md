@@ -1,0 +1,24 @@
+# Anime Dress Up Games
+
+<a href="https://inkwengame.com/games/anime-dress-up-games" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/anime-dress-up-games/cover.jpg)
+
+Do you like manga or anime girl dress up games? Sure you do! And what's you've really missed is fantasy anime dress up in a Role Playing Games style! 6 cute…
+
+## How to play
+
+Simple gameplay with efficient and easy to learn controls
+
+## About
+
+Do you like manga or anime girl dress up games? Sure you do! And what's you've really missed is fantasy anime dress up in a Role Playing Games style! 6 cute anime girls are looking for a good RPG fan to dress them up! The game is completely free. No purchases in this anime dress up game whatsoever!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Anime, Arcade, Boys, Dress Up, Fantasy, Fashion, Girl, Girls, Magic

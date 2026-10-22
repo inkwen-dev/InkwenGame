@@ -1,0 +1,560 @@
+# Card
+
+Free card games on InkwenGame: solitaire layouts, poker-style tables, and other browser card play with a mouse or finger. Settle in for a quiet round—no download needed.
+
+- <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
+
+## Games
+
+- [2048 Cards](../games/card/2048-cards.md) — 2048 Cards is an addicting card game based on the 2048 mechanism.2048 You need to stack cards in columns with numerical 
+- [2048 Solitaire](../games/card/2048-solitaire.md) — Simple to play but so satisfying. Can you make a 2048 card? Use your finger or mouse to drag the cards from the bottom o
+- [2048CardGame](../games/card/2048cardgame.md) — This is a puzzle game, come to challenge synthesis 2048!
+- [21 Rush - Ultimate Card Game](../games/card/21-rush-ultimate-card-game.md) — Welcome to 21 Rush : Ultimate Card Game - A smart, fast paced card challenge that blends the thrill of Blackjack with th
+- [21 Solitaire](../games/card/21-solitaire.md) — 21 Solitaire is a Black Jack variation with 4 different game modes. The game includes basic modes for beginners and casi
+- [4 Color Card Game](../games/card/4-color-card-game.md) — 4 Color Card Game is a fast-paced, easy-to-learn card game perfect for players of all ages. The goal is simple: match ca
+- [4 Colors](../games/card/4-colors.md) — Get ready to challenge up to three computer opponents in this game!
+- [4 Colors Card Mania](../games/card/4-colors-card-mania.md) — 4 Colors Card Mania is a thrilling and fast-paced card game inspired by the uno gameplay. Challenge against AI opponents
+- [4 Colors Multiplayer](../games/card/4-colors-multiplayer.md) — 4 Colors Multiplayer. Face up to 3 real opponents or 3 computer-controlled players. Match cards by color or number. Use 
+- [4 Colors Multiplayer](../games/card/4-colors-multiplayer-2.md) — Dive into the fast-paced card game action of 4 Colors Multiplayer! Strategically match colors and numbers while deployin
+- [4 Colors PGS](../games/card/4-colors-pgs.md) — Challenge your strategy skills in 4 Colors PGS, a card game blending simplicity and depth. Outsmart up to three clever A
+- [6 Peaks Solitaire](../games/card/6-peaks-solitaire.md) — A single player card game, the classic Tri Peaks with double the amount of cards and fifteen different layouts.
+- [777 Classic Slots Vegas Casino Fruit Machine](../games/card/777-classic-slots-vegas-casino-fruit-machine.md) — 777 Classic Slots Casino is THE ultimate, authentic, old downtown Vegas experience! With exciting, free casino slots of 
+- [Above and Below Solitaire](../games/card/above-and-below-solitaire.md) — The game is played with 2 decks of cards. At first, a card is dealt face up as an "indicator". 4 foundation piles are to
+- [Age of Slots™ Best New Hit Vegas Slot Games Free](../games/card/age-of-slots-best-new-hit-vegas-slot-games-free.md) — Best New Slots for 2021 is Age of Slots™, the Best New Hit Vegas Slot Games Free! Get 30+ Las Vegas slot machines AND th
+- [AIchessgame](../games/card/aichessgame.md) — Play Chess against a powerful AI engine. Choose to play as White or Black, get real-time position evaluation, and use th
+- [Algerian Solitaire](../games/card/algerian-solitaire.md) — Algerian Solitaire offers a challenging twist on classic Solitaire, where strategic thinking is key. Navigate complex ca
+- [American Cars Coloring Book](../games/card/american-cars-coloring-book.md) — Now it's time for wonderful game that's called American Cars Coloring Book, let's coloring! You will find six different 
+- [Among Us Memory Card](../games/card/among-us-memory-card.md) — Space, rockets, astronauts, asteroids, traitors and spies! Does it remind you of anything? Of course, this is another ad
+- [Among Us Memory2](../games/card/among-us-memory2.md) — Click on a card to reveal an image. Memorize the location of the card so that you can match it to a similar looking card
+- [Amoung us Business](../games/card/amoung-us-business.md) — Be the top business tycoon of your town. Amoung us Business LUCKY CHEST IS 100% FREE TO PLAY TO WIN REAL MONEY! Have you
+- [Ancient Memory](../games/card/ancient-memory.md) — Tap or click any card to reveal its icon. Memorize it and try to find its pair in board. Match all of the cards on the b
+- [Animal Babies](../games/card/animal-babies.md) — Click the cards to reveal an animal baby. Memorize their locations so that you can match to similar cards. Match all of 
+- [Animal cards memory](../games/card/animal-cards-memory.md) — Animal Cards Memory is a game that helps you train your memory. No matter how old you are, these types of games are usef
+- [Animal Pair Card Match](../games/card/animal-pair-card-match.md) — Animal Pair Card Match is a charming matching puzzle game that combines cute animal cards and relaxing elimination gamep
+- [Animals Cards Match](../games/card/animals-cards-match.md) — This is educational memory game. In this game you are asked to open all the cards on the board. The cards will open when
+- [Animals Cards Memory](../games/card/animals-cards-memory.md) — Click the cards to flip an animal. Memorize their position and match them up in pairs. Match all of the cards on the boa
+- [Animals Clicker](../games/card/animals-clicker.md) — Animals Clicker is a clicker with lots of cards with cute animals and pets. Click on the cards to unlock new animals and
+- [Animals Memo Match](../games/card/animals-memo-match.md) — Click the cards to reveal an animal. Memorize it so that you can match to similar cards.
+- [Animals Memory HTML5](../games/card/animals-memory-html5.md) — Tap or click any card to reveal its card. Memorize it and try to find its pair in board. Match all of the cards on the b
+- [Animals Pairing](../games/card/animals-pairing.md) — tap the card if two of same are in front of each other. If they are same then will be removed from both moving lines.
+- [Anime Girl Card Match](../games/card/anime-girl-card-match.md) — Anime sometimes called Japanimation, is hand-drawn and computer animation originating from Japan. The term anime is deri
+- [ANIME GIRLS MEMORY CARD](../games/card/anime-girls-memory-card.md) — ANIME GIRLS MEMORY CARD é um jogo de cartas com lindas ilustrações de garotas de anime. A cada nível o número de cartas 
+- [ARMA Card Match](../games/card/arma-card-match.md) — ARMA (stylized as ARMA) is a series of first person tactical military shooters, originally released for Microsoft Window
+- [Armour Clash](../games/card/armour-clash.md) — Armour Clash is real time strategy tank game. Objective is to destroy the opponent base by deploying the tanks. Each tan
+- [Armour Crush](../games/card/armour-crush.md) — Armour Crush is a strategy tank deployment game. Objective is to destroy the opponent base by deploying the tanks. Deplo
+- [Army of Soldiers](../games/card/army-of-soldiers.md) — The most epic war game is now available. Play now to : "Army of Soldiers : Worlds war". You must defend the earth agains
+- [Army Stick Soldier](../games/card/army-stick-soldier.md) — A game in which you are a soldier and you have to run through a path full of obstacles using your stick !
+- [Autumn Solitaire Tripeaks](../games/card/autumn-solitaire-tripeaks.md) — Play Classic TriPeaks or 100 different autumn levels. Remove all cards from the tableau, you can remove top cards that a
+- [Autumn Solitaire Tripeaks](../games/card/autumn-solitaire-tripeaks-2.md) — Navigate through a vibrant autumn landscape in Autumn Solitaire Tripeaks. Experience the thrill of classic TriPeaks game
+- [Axie Infinity](../games/card/axie-infinity.md) — Match the same pair of images and test & improve your memory with this game. Beat the opponents in multiplayer game mode
+- [Badugi Card Game](../games/card/badugi-card-game.md) — Experience the best online card game with BADUGI. Join players worldwide in this exciting BADUGI Card Game experience. P
+- [Banderas del mundo](../games/card/banderas-del-mundo.md) — Learn the world flags while having fun playing 3 different game modes: classic hangman, 1 image - 4 options and couples.
+- [Barbie Card Match](../games/card/barbie-card-match.md) — Barbie is a fashion doll manufactured by the American toy company Mattel, Inc. and launched in March 1959. American busi
+- [Barbie Memory Cards](../games/card/barbie-memory-cards.md) — Do you want to play matching cards with the most beautiful pictures of Barbie? Come on, find the match of the same pictu
+- [Battle Card Monster](../games/card/battle-card-monster.md) — Unleash strategic genius in Battle Card Monster, where each duel tests your tactical prowess. Assemble a fearsome deck, 
+- [Battle Cards](../games/card/battle-cards.md) — Battle Cards is a card roguelike where you move your hero card around the playing field. When moved, you collide with ad
+- [Battle Jitsu](../games/card/battle-jitsu.md) — In Battle Jitsu, you enter intense multiplayer online battles where strategy is everything. Carefully choose your cards 
+- [Battle of Aliens](../games/card/battle-of-aliens.md) — Battle of Aliens is strategy unit deploy game, you need to defeat the opponent by deploying the alien ships. Choosing th
+- [Battle of Orcs](../games/card/battle-of-orcs.md) — Battle of Orcs is real time strategy units deployment game. Objective is to destroy the opponent base by deploying the o
+- [Beetle Solitaire](../games/card/beetle-solitaire.md) — Beetle Solitaire is a solitaire game where the objective is to order all the cards in descending runs from King down to 
+- [Ben 10 Matching The Memory Cards](../games/card/ben-10-matching-the-memory-cards.md) — One of your best friends, Ben 10 is back! Your favorite superhero is bringing for you today the new Ben 10 Matching the 
+- [Ben 10 Memory Cards Universe](../games/card/ben-10-memory-cards-universe.md) — A new online Cartoon Network game for boys is appearing here on our website, and you can find it under the Ben 10 Memory
+- [Billionaire Casino Slots - The Best Fruit Machin](../games/card/billionaire-casino-slots-the-best-fruit-machin.md) — the Billionaire welcomes you to his Casino with the best Slot machines! Put on your top hat , and go on a quest to becom
+- [BINGO Real](../games/card/bingo-real.md) — Bingo Real is a 75 ball game that could you make you play bingo with house card with different closing patterns as real 
+- [Black Hole Solitaire](../games/card/black-hole-solitaire.md) — Black Hole is an addictive solitaire card game with similar rules as Tri Peaks or golf solitaire.
+- [Blackjack](../games/card/blackjack.md) — Blackjack is a card game that aims to beat the dealer without passing 21
+- [BlackJack 21 Casino](../games/card/blackjack-21-casino.md) — BlackJack 21 Casino offers an exhilarating gaming experience, combining the thrill of classic blackjack with modern casi
+- [Blackjack King - Offline](../games/card/blackjack-king-offline.md) — A typical/traditional card game: Blackjack. Enjoy playing casino game without worry of losing real money. Very fun and a
+- [Blackjack Master](../games/card/blackjack-master.md) — Blackjack is one of the most popular casino games in the world. Try your luck and strategy skills in this card game wher
+- [BlackJack Pro](../games/card/blackjack-pro.md) — This fun game is built for Blackjack lovers, test your luck and skills in this classic card game.There are some misconce
+- [Bottle Solitaire](../games/card/bottle-solitaire.md) — Game objective: Clear as many bottles as possible. It would be the best if there is only one bottle left in the end and 
+- [Build Castle 3D](../games/card/build-castle-3d.md) — Classic driving simulation games. Fresh and simple game screen. Simple operation, easy to control. Collect more bricks. 
+- [Build levels – earn money!](../games/card/build-levels-earn-money.md) — Get ready for an addictive challenge! Tap the screen to release balls and aim for the holes in each round. After every r
+- [Buraco](../games/card/buraco.md) — Dive into the dynamic card game of Buraco, combining Rummy and Canasta excitement. Strategically form melds and aim for 
+- [Bus Simulation - City Bus Driver](../games/card/bus-simulation-city-bus-driver.md) — Ultimate bus simulator: bus games are the most with the amazing city bus driver. Top new adventurous idea in bus race: c
+- [Car Parking Pro - Car Parking Game & Driving Game](../games/card/car-parking-pro-car-parking-game-driving-game-2.md) — Make Deliveries and complete tons of Parking Missions at the Shopping Mall. Featuring a garage of 10 cars to choose from
+- [Card Battle](../games/card/card-battle.md) — Come to enter the exciting world of card battles, where strategy is combined with passion! In this card puzzle game, eac
+- [Card Battle](../games/card/card-battle-2.md) — Dive into Card Battle's strategic puzzle realm where each card wields unique powers. Choose between boosting coins or st
+- [Card Legends Battle Royale](../games/card/card-legends-battle-royale.md) — Dive into a high-speed card-battle arena, where luck and strategy reign supreme. Unleash superhuman card powers in a thr
+- [Card Match](../games/card/card-match-2.md) — Unleash your memory prowess in Card Match, a vibrant puzzle adventure perfect for kids. Discover lively themes with anim
+- [Card Match Memory!](../games/card/card-match-memory.md) — Click the cards to flip. Memorize their position and match them up in pairs. Match all of the cards on the board to comp
+- [Card Match Serenity Relax & Pair](../games/card/card-match-serenity-relax-pair.md) — Embark on a tranquil journey with Card Match Serenity. Delight in relaxing visuals and a gentle soundtrack as you uncove
+- [Card Memory Match](../games/card/card-memory-match.md) — Card Memory Match
+- [Card Memory Match](../games/card/card-memory-match-2.md) — Test your memory in Card Memory Match, a delightful puzzle game where you flip and pair cards to clear the board. With e
+- [Card Memory Match Time](../games/card/card-memory-match-time.md) — Card Memory Match Time is a 1 player puzzle game in which you have to touch the cards and memorize to reveal them all.
+- [Card Mini Match](../games/card/card-mini-match.md) — Enjoy instant brain-teasing fun with Card Mini Match! This minimalist memory game features adorable emoji characters and
+- [Card Monsters](../games/card/card-monsters.md) — Unleash your memory prowess in Card Monsters, a thrilling race against time. Match pairs of whimsical creatures, clearin
+- [Card Quest](../games/card/card-quest.md) — Card Quest is a card battle game with Triple Triad game rules und strong fantasy visuals, where you progress through the
+- [Card Quest: 10 Minute Adventure](../games/card/card-quest-10-minute-adventure.md) — Dudes, this is a very short strategic card battle game that blends tactical gameplay with quirky humor and vibrant creat
+- [Card Quest: Solitaire](../games/card/card-quest-solitaire.md) — Embark on an epic journey through the world of cards in Card Quest: Solitaire! This is not just another solitaire &ndash
+- [Card Solitaire: Word Game](../games/card/card-solitaire-word-game.md) — Explore the exciting world of word solitaire, packed with clever associations, tricky word sort levels, and fun topic so
+- [Card Sort: Challenge](../games/card/card-sort-challenge.md) — Card Sort: Challenge is a colorful logic puzzle with card sorting, tricky obstacles, boosters, daily rewards, achievemen
+- [Cardboard Racing Time](../games/card/cardboard-racing-time.md) — Play Loud House Extreme Cardboard Racing online for free. Extreme Cardboard Racing is a unique take on the racing genre.
+- [Cardivo Adventure](../games/card/cardivo-adventure.md) — Cardivo Adventure is a relaxing card-sorting puzzle game where every card belongs to a themed collection. Move cards bet
+- [Cards in Fool](../games/card/cards-in-fool.md) — Play Cards in Fool – a strategic turn-based online card game! Outsmart opponents, make them draw cards, and climb the le
+- [Cards Memory Matching](../games/card/cards-memory-matching.md) — Immerse yourself in Cards Memory Matching, where sharp memory skills and quick reflexes are your keys to success. Flip c
+- [Caribbean Stud Poker](../games/card/caribbean-stud-poker.md) — Play a casino card game against the house in this straight to the point poker variation.
+- [Cars Card Memory](../games/card/cars-card-memory.md) — Click the cards to flip a car. Memorize their position and match them up in pairs. Match all of the cards on the board t
+- [Cash Frenzy Casino – Free Slots Games Online](../games/card/cash-frenzy-casino-free-slots-games-online.md) — Everything you want is in the Cash Frenzy! TOP FREE casino slots games 2021 will give you the luckiest experience. Downl
+- [Casino Cards Memory](../games/card/casino-cards-memory.md) — Casino Memory Cards is a game that challenges the memory of the position of 2 cards the same. When you flip true you wil
+- [Casino cards - Play Free Online Casino Card Game](../games/card/casino-cards-play-free-online-casino-card-game.md) — Gin Rummy Stars - Play Free Online Rummy Card Game Best Gin Rummy Game! Play #1 Multiplayer Classic Gin Rummy Game with 
+- [Casino Memory Cards](../games/card/casino-memory-cards.md) — Tray to match all identical cards, and be fast before time runs out. See how good you are with your memory with cards. F
+- [Casino Mysterious Yumeko : Vegas Casino Machine](../games/card/casino-mysterious-yumeko-vegas-casino-machine.md) — Welcome and Play popular Las Vegas Free Mysterious Casino Slots Game. as Welcome BONUS in your Casino Slot game! Inside 
+- [casino Royal memory card](../games/card/casino-royal-memory-card.md) — The classic card game Cassino also known as Casino. The rules are simple, but the game is anything but simple. This is a
+- [Cassino Card](../games/card/cassino-card.md) — The aim is to capture cards from a layout on the table, by playing a card from your hand which matches in number a table
+- [Cassino Card Game](../games/card/cassino-card-game.md) — The aim is to capture cards from a layout on the table, by playing a card from your hand which matches in number a table
+- [Castle Cards](../games/card/castle-cards.md) — Castle Cards - Memory Puzzle Game is an exciting and brain-training card-matching game with a medieval theme! Test your 
+- [Casual Poker Online](../games/card/casual-poker-online.md) — &ldquo;Poker Online&rdquo; is a fun and easy way to enjoy classic Texas Holdem online. No real-money betting &mdash; jus
+- [Chase Zombie](../games/card/chase-zombie.md) — In Zombie Chase, players navigate a chaotic world filled with the undead, using every ounce of strategic prowess to outl
+- [Chicken Memory Match](../games/card/chicken-memory-match.md) — Get ready to challenge your memory with Chicken Memory Match, where you slide tiles to piece together adorable chicken i
+- [Choco Draw](../games/card/choco-draw.md) — Welcome to Choco Draw, the sweetest twist on classic card games! In this candy-themed challenge, each card is marked wit
+- [Christmas Card Memory](../games/card/christmas-card-memory.md) — Click the cards to flip a christmas items. Memorize their position and match them up in pairs. Match all of the cards on
+- [Christmas Freecell Solitaire](../games/card/christmas-freecell-solitaire.md) — Create stacks of cards from Ace to King and beat the game . You can use free cells to store cards.
+- [Christmas Klondike Solitaire](../games/card/christmas-klondike-solitaire.md) — Christmas Klondike Solitaire is the well-known card sorting puzzle game for a single player. Build suit piles in ascendi
+- [Christmas Memory Cards](../games/card/christmas-memory-cards.md) — We have prepared a Christmas concept memory card game for you. Have fun!
+- [Christmas Memory Matching](../games/card/christmas-memory-matching.md) — This game is a memory matching game. This made for Christmas. You have 30 levels to complete with your memory. Keep your
+- [Christmas Pictures](../games/card/christmas-pictures.md) — Christmas game for orientation and memory development for children and adults. This game will help your child to have fu
+- [City Driver 2 - Drive Around The City (Ready)](../games/card/city-driver-2-drive-around-the-city-ready.md) — Enjoy your time by driving the Bmw city car rider 2021 testing your racing skills on the city roads. this is not just th
+- [Clash Of Warriors](../games/card/clash-of-warriors.md) — Become a master of strategy and deck building. Collect and choose from 90 unique magic cards and place them right. Win b
+- [Classic Golf Solitaire Card Game](../games/card/classic-golf-solitaire-card-game.md) — Unleash your strategic prowess in Classic Golf Solitaire as you meticulously clear the card grid. With Aces as dual-role
+- [Classic Klondike Solitaire Card Game](../games/card/classic-klondike-solitaire-card-game.md) — Klondike solitaire is one of the most addictive solitaire card games. It is played with a single 52 playing cards. The o
+- [Classic Solitaire:  Card Games](../games/card/classic-solitaire-card-games.md) — Solitaire, is the most popular single player card game in the world. If you like classic Solitaire, you're going to love
+- [Classic Solitaire Klondike](../games/card/classic-solitaire-klondike.md) — Immerse yourself in Classic Solitaire Klondike, where strategy meets relaxation. Sort cards by suit in ascending order w
+- [Classic Solitaire Master](../games/card/classic-solitaire-master.md) — The addictive game you&rsquo;ve been playing on your computer for years now goes wherever you do. Whether you know it as
+- [Classic Spider Solitaire](../games/card/classic-spider-solitaire.md) — Spider Solitaire is a popular classic card game. You need to move cards and drag them to their destination. Use your str
+- [Cleo and Cuquin Memory Card Match](../games/card/cleo-and-cuquin-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Cocomelon Memory Card Match](../games/card/cocomelon-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Color Hoop Stack - Sort Puzzle](../games/card/color-hoop-stack-sort-puzzle.md) — Color Hoop Stack is a classic addictive sort puzzle game. Solve the puzzle by sorting colorful hoops. Color Hoop Stack i
+- [Connect Animal Pokematch](../games/card/connect-animal-pokematch.md) — Welcome to Connect Animal Pokematch puzzle memory game. Tap to Flip Cards and use your memory to Match two Cards with th
+- [Containment Protocol: Roguelike Deckbuilder](../games/card/containment-protocol-roguelike-deckbuilder.md) — 🎮 Command a combat android in a sci-fi roguelike deckbuilder. Combine cards, anticipate enemy attacks and outsmart dang
+- [Cool Moto Racer](../games/card/cool-moto-racer.md) — Enjoy 3D bike racing game and be an xtreme bike rider. Perform insane stunt actions on Extreme Stunt Bike. Compete with 
+- [Count Holiday Cards](../games/card/count-holiday-cards.md) — Count Holiday Cards is one kind of mathematical game where you need to count fast the cards with gifts and to click on c
+- [Count The Cards](../games/card/count-the-cards.md) — Tray to count the number of carts before your time is run out! How accurate you are your time is shorter and shorter. So
+- [Crazy Little Eights](../games/card/crazy-little-eights.md) — Great online version of the popular card game. Your goal is get rid of all your cards. You can play with a card of the s
+- [Crazy Match](../games/card/crazy-match.md) — Halloween is approaching! The memory game we have prepared with Halloween concept is waiting for you! There are 8 challe
+- [Crescent Solitaire](../games/card/crescent-solitaire.md) — Crescent Solitaire is a captivating card game where the objective is to move all cards from the outer tableau piles to t
+- [Crow Memory](../games/card/crow-memory.md) — CROW MEMORY is a crow-themed memory matching game featuring 8 unique characters and 16 cards in total. When the game sta
+- [Curious George Memory Card Match](../games/card/curious-george-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Cute Animal Puzzle](../games/card/cute-animal-puzzle.md) — explore adorable Animal Puzzles that help to develop our kid's memory, logical thinking, and visual perception. endless 
+- [Cute Elements](../games/card/cute-elements.md) — Elemental characters with special powers have been caged, use the water element to free the rest of the team and combine
+- [Cute Puppy Memory](../games/card/cute-puppy-memory.md) — Cute Puppy Memory is a fun and free to play online memory game suitable for all ages. Match all the identical cards to e
+- [Dandys World Memory](../games/card/dandys-world-memory.md) — Test your recall with the colorful crew from Dandy&rsquo;s World! This memory game features 15 progressively challenging
+- [Deck Of Deception](../games/card/deck-of-deception.md) — Deck of Deception is an online multiplayer bluffing card game where every coin counts. Play number cards to match the ca
+- [Dino Cards](../games/card/dino-cards.md) — It's a collection of 15 different Dinosaurs cards to read! It's just an educational dino game!
+- [Dino Cards](../games/card/dino-cards-2.md) — Explore the prehistoric world with Dino Cards, an interactive adventure where fun meets education. Discover fascinating 
+- [Dinosaur Cards Game](../games/card/dinosaur-cards-game.md) — It's a collection of 15 different Dinosaurs descriptive cards to read! It's just an educational dino game!
+- [Dirty Seven](../games/card/dirty-seven.md) — Dirty Seven is a shedding-type card game for 2 players. The objective of the game is to be the first player to discard a
+- [Doggie Duo Discoveries](../games/card/doggie-duo-discoveries.md) — This is a fun and engaging memory game where players flip over pairs of cards to find matching images. Sharpen your conc
+- [Dogs Memory](../games/card/dogs-memory.md) — Click the cards to reveal a Dog. Memorize their locations so that you can match to similar cards. Match all of the cards
+- [Domino Smash 3D](../games/card/domino-smash-3d.md) — Domino Smash 3D is a free online puzzle game for boys played on a puzzle game. You will control a ball to rush to domino
+- [Dominoes BIG](../games/card/dominoes-big.md) — The player with the highest double (double 6 therefore) begins the domino game. If no one owns this domino, it will be t
+- [Donald Duck](../games/card/donald-duck.md) — Donald Duck is a cartoon character created in 1934 at Walt Disney Productions. Donald is an anthropomorphic white duck w
+- [Dora memory cards](../games/card/dora-memory-cards.md) — Dora Memory Cards is a puzzle game for kids. The objective of the game is to match all cards that are the same. So click
+- [double klondike solitaire Card](../games/card/double-klondike-solitaire-card.md) — Ready for the ultimate solitaire test? Try Double Klondike Solitaire! This exciting and strategic twist on the classic g
+- [dragon card 2048](../games/card/dragon-card-2048.md) — The player's task is to move the cute dinosaurs so that the small dinosaurs can finally synthesize bigger and more advan
+- [DragonBall Match Cards](../games/card/dragonball-match-cards.md) — Welcome to this amazing Cards memory game with dragonball characters! Look carefully and remember cards! Tap to flip two
+- [Draw Bridge](../games/card/draw-bridge.md) — Drag to create a path and guide the car to the goal! You can only draw the line once, be careful not to break the car! E
+- [Dreamland Solitaire: Dark Prophecy Collector's Edition](../games/card/dreamland-solitaire-dark-prophecy-collector-s-edition.md) — Unleash magic in Dreamland Solitaire: Dark Prophecy as you battle an evil witch in a whimsical card adventure. Strategic
+- [Dungeon Chess](../games/card/dungeon-chess.md) — Dungeon Chess is a strategic puzzle game with roguelike elements, offering compact yet complex gameplay sessions. Manipu
+- [Dungeon Solitaire](../games/card/dungeon-solitaire.md) — Dungeon Solitaire is a dark fantasy card roguelike inspired by the classic game Scoundrel. Fight monsters, equip weapons
+- [Duo Cards](../games/card/duo-cards.md) — Play this fun version of the popular card game classic and try to be the first to score 500 points! The rules are easy t
+- [DUO With Friends - Multiplayer Card Game](../games/card/duo-with-friends-multiplayer-card-game.md) — DUO With Online Friends game is a challenging game with unlimited entertainment. DUO cards game is an advanced version o
+- [DUO With Friends - Multiplayer Card Game](../games/card/duo-with-friends-multiplayer-card-game-2.md) — Unleash strategic fun with DUO With Friends, where traditional card play is reimagined for multiplayer excitement. Empty
+- [Durak](../games/card/durak.md) — Durak is essentially a shedding card game where each player will try to get rid of the cards in their hand first. Durak 
+- [Durak Card Game](../games/card/durak-card-game.md) — Experience the thrilling tension of Durak, where strategic card play meets high-stakes decision-making. Outsmart your op
+- [Durak vs AI](../games/card/durak-vs-ai.md) — Test your strategic mettle against an evolving AI in Durak vs AI. Outsmart a clever computer opponent that learns from e
+- [Easter Card Memory](../games/card/easter-card-memory.md) — Slide a row of candies horizontally or vertically to make a horizontal or vertical row of 3 or more similar frogs. Use m
+- [Easter Card Memory Deluxe](../games/card/easter-card-memory-deluxe.md) — Click the cards to flip an easter items. Memorize their position and match them up in pairs. Match all of the cards on t
+- [Easy Solitaire](../games/card/easy-solitaire.md) — Play the simplest solitaire game you can find online. In this game you will be able to access the entire collection of c
+- [Egyxos memory cards](../games/card/egyxos-memory-cards.md) — Play Egyxos Memory Cards online game. The objective of the game is to solve the memory puzzles as fast as you can to sco
+- [Emerland Solitaire](../games/card/emerland-solitaire.md) — Welcome to the wonderful country of Emerland! Dive deep into the world of magical tale where great mages battle for the 
+- [Emily's Hotel Solitaire](../games/card/emily-s-hotel-solitaire.md) — Dive into the atmosphere of a light summer adventure in Emily’s Hotel Solitaire!
+- [Emilys Hotel Solitaire](../games/card/emilys-hotel-solitaire.md) — What are you going to do when you go on a journey to a tropical island? Will you spend your time in a lounger, enjoying 
+- [Emoji Solitaire](../games/card/emoji-solitaire.md) — Welcome to Emoji Solitaire, a fresh, captivating puzzle game that beautifully marries the timeless rules of classic soli
+- [Empire.io – Build and Defend your Kingdoms](../games/card/empire-io-build-and-defend-your-kingdoms.md) — Empire.io is an isometric tower defense style game combined with archer shooting. Protect your empire by shooting and ba
+- [Encanto Memory Card Match](../games/card/encanto-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Extreme Car Driving Simulator 3d 2021](../games/card/extreme-car-driving-simulator-3d-2021.md) — Extreme Car Driving Simulator is the best car simulator of 2014, thanks to its advanced real physics engine Ever wanted 
+- [Fairway Solitaire](../games/card/fairway-solitaire.md) — Fairway Solitaire is a well-polished golf solitaire game with a unique theme. The rules are simple, clear cards from the
+- [Fairway Solitaire - Classic Cards Game](../games/card/fairway-solitaire-classic-cards-game.md) — A simple, yet funny solitaire card game. Try to win as many rounds of golf solitaire as you can by removing all the card
+- [Farm 2048](../games/card/farm-2048.md) — Merge the dropped cards to end up with the number 2048 and free up space for the next cards! Farm 2048 is a fun math puz
+- [Farm Animals Memory Cards](../games/card/farm-animals-memory-cards.md) — Test your memory with Farm Animals Memory Cards! Flip and match pairs before time runs out in this exciting, fast-paced 
+- [Fidget Trading Card Toy](../games/card/fidget-trading-card-toy.md) — Fidget Trading Card Toy is a fidget trading game that allows you to feel the fun of collecting toy cards! In the game, y
+- [Fidget Trading Card Toy](../games/card/fidget-trading-card-toy-2.md) — Engage in electrifying card duels where your timing and slap strength dictate victory. Trade, strategize, and perfect yo
+- [Find Pair: Attention Memory](../games/card/find-pair-attention-memory.md) — It is an exciting game that will help you relax and train your brain at the same time. Your task is to find identical pi
+- [Fish Cards Match](../games/card/fish-cards-match.md) — Click or touch the card to open it. Watch and memorize the FISH on the cards. Your goal is to open 2 similar cards conti
+- [Fish Memory Game](../games/card/fish-memory-game.md) — Challenge your memory with Fish Memory Game, where you must swiftly identify matching motifs that appeared two cards ear
+- [Flames & Fortune](../games/card/flames-fortune.md) — Enter the world of Flames & Fortune, where card battles meet fiery strategies. Conquer ever-changing dungeons with tacti
+- [Flip 8](../games/card/flip-8.md) — Flip 8 is a press-your-luck card game about knowing when to stop. Every card you flip joins your hand and adds its value
+- [Flip Card Memory Test](../games/card/flip-card-memory-test.md) — Challenge your memory with Flip Card Memory Test! Match cards to earn points and unlock hidden puzzle pieces. With three
+- [Flip & Match](../games/card/flip-match-2.md) — Enter a medieval realm with Flip & Match, where memory and strategy are your allies. Flip cards to reveal matches, earn 
+- [FLOORLAND CREATOR](../games/card/floorland-creator.md) — The void is a game where you manage the cards of famous players, you can win prizes from the game, join now and play to 
+- [Food Card Sort](../games/card/food-card-sort.md) — Food Card Sort is a unique and challenging 3D puzzle game that tests players logic and reasoning skills. With a variety 
+- [Food Truck Chef Cooking](../games/card/food-truck-chef-cooking.md) — Welcome to Food Truck Chef Cooking, a casual food cooking simulation game online. Want to experience a day of a food tru
+- [Foody Memory](../games/card/foody-memory.md) — Click the cards to reveal a food icon . Memorize it so that you can match to similar cards. Match all of the cards on th
+- [Four Colors](../games/card/four-colors.md) — Four Colors is a HTML5 Card Games. Face up to 3 computer-controlled opponents. Match cards by color or number, play acti
+- [Four Colors Multiplayer Monument Edition](../games/card/four-colors-multiplayer-monument-edition.md) — Immerse yourself in the vibrant world of Four Colors Multiplayer Monument Edition. Match cards by color or number in thi
+- [fours colors](../games/card/fours-colors.md) — Fours Colors is a fast-paced and entertaining card game inspired by classic color-matching mechanics. Your objective is 
+- [Free Cell](../games/card/free-cell.md) — This is a very interesting strategy game. The gameplay is similar to Galcon Fusion, but it's also very different. In thi
+- [Free Cell Solitaire](../games/card/free-cell-solitaire.md) — Strategically arrange cards from Ace to King in Free Cell Solitaire, utilizing empty cells to unlock the path to victory
+- [Free City Driving](../games/card/free-city-driving.md) — Get ready to drive car as real car driver within city car driving games and car games that provides the amazing simulati
+- [Free Classic Solitaire](../games/card/free-classic-solitaire.md) — Free Classic Solitaire offers a captivating card-stacking experience with gorgeous graphics and satisfying animations. E
+- [Free Solitaire](../games/card/free-solitaire.md) — Dive into Free Solitaire, where strategic card arrangement meets timeless relaxation. Tackle the challenge of building f
+- [Freecell Classic](../games/card/freecell-classic.md) — Play Freecell Classic, the ultimate free online card games experience! This addictive Freecell Solitaire challenges your
+- [Freecell Solitaire](../games/card/freecell-solitaire.md) — Best your score or just have a relaxing game of Free cell Solitaire! Jump right in, no additional settings needed. Look 
+- [Freecell Solitaire](../games/card/freecell-solitaire-2.md) — Experience the timeless charm of Freecell Solitaire with its simple yet captivating gameplay. Strategically stack and so
+- [Freecell Solitaire Cards](../games/card/freecell-solitaire-cards.md) — Dive into the strategic world of Freecell Solitaire Cards, where each move is a puzzle to unravel. Aim to stack your car
+- [Freecell Solitaire Deluxe](../games/card/freecell-solitaire-deluxe.md) — Dive into strategic card play with Freecell Solitaire Deluxe. Masterfully arrange cards in alternating colors and descen
+- [Freecell Solitaire Free](../games/card/freecell-solitaire-free.md) — Freecell Solitaire Free elevates classic Solitaire with face-up cards and strategic planning. Utilize four open cells to
+- [Fruit Memory Extravaganza](../games/card/fruit-memory-extravaganza.md) — Fruit Memory Extravaganza is a vibrant and juicy card-based memory game that challenges your brain and sharpens your rec
+- [Fruits Solitaire](../games/card/fruits-solitaire.md) — This is a skill based puzzle game where you match and collect fruits. Collect all the fruits by making pairs of the frui
+- [Fruity Veggie Memory](../games/card/fruity-veggie-memory.md) — Tap or click any card to reveal its icon. Memorize it and try to find its pair in board. Match all of the cards on the b
+- [Fun Halloween Memory](../games/card/fun-halloween-memory.md) — Fun Halloween Memory is a free online game from genre of memory and halloween games. Flip the tiles and try to match the
+- [Fun memory](../games/card/fun-memory.md) — Test your focus and train your brain in this ultimate memory matching challenge! Conquer 12 intense levels, flip the car
+- [Funny Cars Memory](../games/card/funny-cars-memory.md) — Funny Cars Memory is puzzle memory game with funny cars. The images will be displayed and you will have few seconds to m
+- [Golf Solitaire](../games/card/golf-solitaire.md) — Simple to play but joyously addictive card game Try to clear the course before the deck cards run out.
+- [Golf Solitaire](../games/card/golf-solitaire-2.md) — Immerse yourself in Golf Solitaire, where strategic card play meets relaxing rhythm. Clear the tableau with precision by
+- [Golf Solitaire Pro](../games/card/golf-solitaire-pro.md) — Enjoy this stylish version of the classic Golf Solitaire game! Your goal is to clear all the cards from the board. You c
+- [Goofy](../games/card/goofy.md) — Goofy is a funny-animal cartoon character created in 1932 at Walt Disney Productions. Goofy is a tall, anthropomorphic d
+- [Guess card](../games/card/guess-card.md) — Dive into the thrilling card-flipping excitement of Guess Card, where every decision blends strategy with chance. Will t
+- [Halloween Shuffle](../games/card/halloween-shuffle.md) — This Halloween we bring you a simple pair-matching game what could possibly go wrong, right? Discover your way through t
+- [Hand Daily](../games/card/hand-daily.md) — A daily card roguelite. Every day, the same 52-card deck deals across the world. Build five-card hands, chain joker effe
+- [Happy Farm Solitaire](../games/card/happy-farm-solitaire.md) — Happy Farm Solitaire is a wonderful game with very nice graphics and a relaxing ambiance. If you like cards games and so
+- [Happy Halloween Memory](../games/card/happy-halloween-memory.md) — Young witch, on the eve of Halloween, holds special magical rites to protect the homes of people living in her village. 
+- [Happy Halloween - Princess Card Designer](../games/card/happy-halloween-princess-card-designer.md) — Soon your favorite holiday! Halloween is a time of miracles, horror and sweets. Hurry to congratulate your loved ones wi
+- [Hello Kitty Memory Card Match](../games/card/hello-kitty-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [HOLDEM CARD GAME](../games/card/holdem-card-game.md) — ** HOLDEM CARD GAME is A FREE-TO-PLAY ONLINE H5 GAME. * HOLDEM CARD GAME is the online Texas Holdem game that allows you
+- [Holdem Royale](../games/card/holdem-royale.md) — Holdem Royale is Texas Holdem poker with real players, live. Pull up a chair in a Wild West saloon, buy in, and outplay 
+- [Important Math Cards](../games/card/important-math-cards.md) — Important Math Cards is a game where a card contains multiplication answer while another contains the multiplying number
+- [Imposter Amoung Us Puzzles](../games/card/imposter-amoung-us-puzzles.md) — Another of Impostor Among Us .. this Among Us Fans puzzle games .. very exciting cute, easy and fun puzzle games. Impost
+- [Infinite Heroes](../games/card/infinite-heroes.md) — Traverse a realm where each card holds the key to victory or defeat. In Infinite Heroes, strategic card battles pit you 
+- [Jewel Classic Block Puzzle Tetrix](../games/card/jewel-classic-block-puzzle-tetrix.md) — This is Block Puzzle Tetrix Jewel Classic an addictive and easy-to-learn game where you bend your mind and fly your fing
+- [Jigsolitaire Deluxe](../games/card/jigsolitaire-deluxe.md) — Jigsolitaire Deluxe is a refined card-based puzzle where every level turns into the creation of a masterpiece. Move pict
+- [Kart Stroop Challenge](../games/card/kart-stroop-challenge.md) — Welcome to Kart Stroop Challenge car driving game! Kart Stroop Challenge is a fast-paced car racing game where you must 
+- [Khafre Antique Solitaire](../games/card/khafre-antique-solitaire.md) — discover the old culture as well as fantastic tuts and khafre. Enjoy playing Khafre Antique Solitaire, a game of solitai
+- [King of FreeCell](../games/card/king-of-freecell.md) — Play FreeCell solitaire in this polished version of the classic card game.
+- [King of Spider Solitaire](../games/card/king-of-spider-solitaire.md) — The classic spider solitaire with multiple difficulty levels.
+- [King Solitaire](../games/card/king-solitaire.md) — Immerse yourself in King Solitaire's majestic card world, where strategic drag-and-drop gameplay demands both patience a
+- [Klondike](../games/card/klondike.md) — Klondike Solitaire is a HTML5 Game. Enjoy this stylish version of the classic Klondike Solitaire!
+- [Klondike 2024](../games/card/klondike-2024.md) — Dive into Klondike 2024 and rediscover classic solitaire with a modern flair. Strategically maneuver cards through capti
+- [Klondike Card Quest](../games/card/klondike-card-quest.md) — Embark on Klondike Card Quest, where strategic stacking meets classic solitaire excitement. Perfect for casual gamers se
+- [Klondike Classic Solitaire](../games/card/klondike-classic-solitaire.md) — Unwind with Klondike Classic Solitaire, where strategic card-stacking reigns supreme. Drag and drop through a web-based 
+- [Klondike Solitaire](../games/card/klondike-solitaire.md) — Klondike Solitaire offers timeless card-stacking fun as you strategically arrange alternating colors to reveal hidden ca
+- [Klondike Solitaire 4 Suits](../games/card/klondike-solitaire-4-suits.md) — Dive into Klondike Solitaire 4 Suits, a vibrant twist on the classic card game. Arrange cards into four suits with alter
+- [Klondike Solitaire Cards](../games/card/klondike-solitaire-cards.md) — Step into the relaxing realm of Klondike Solitaire Cards. This addictive digital card game offers a strategic challenge 
+- [Klondike Solitaire Game](../games/card/klondike-solitaire-game.md) — Relax and challenge your mind with Klondike Solitaire, one of the most popular and beloved card games of all time. Enjoy
+- [Klondike Solitaire - Magic Stone](../games/card/klondike-solitaire-magic-stone.md) — Classic Klondike solitaire game with two levels of difficulty and 3D background.
+- [Klondike Solitaire Panda](../games/card/klondike-solitaire-panda.md) — Experience the charm of Klondike Solitaire Panda, where strategic card play meets a delightful panda theme. Enjoy elegan
+- [Klondike Solitaire Paradise](../games/card/klondike-solitaire-paradise.md) — Klondike Solitaire Paradise offers a fresh twist on the classic card game with challenging three-card deals. Enjoy seaml
+- [Klondike Solitaire Pro](../games/card/klondike-solitaire-pro.md) — Enjoy a stylish version of the Klondike card game. A modern reiteration of this classic Solitaire game with undo, hints 
+- [Klondike Solitaire TLG](../games/card/klondike-solitaire-tlg.md) — Build up four foundations by suit from Ace to King. Use Magic button, when you got stuck!
+- [Klondike Solitaire Treasures](../games/card/klondike-solitaire-treasures.md) — Klondike Solitaire Treasures is classic Klondike solitaire with a collection to build. HOW TO PLAY Move all 52 cards ont
+- [Klondike Solitaire Turn 3](../games/card/klondike-solitaire-turn-3.md) — A classic solitaire game where you draw cards 3 by 3. You must rebuild the 4 suits to win the game.
+- [Klondike Solitaire Turn One](../games/card/klondike-solitaire-turn-one.md) — A classic solitaire game where you draw cards one by one. You must rebuild the 4 suits to win the game.
+- [Kraken Memory Card for Kids](../games/card/kraken-memory-card-for-kids.md) — Unleash your memory skills with Kraken Memory Card for Kids! Delight in matching pairs before the clock stops to win. As
+- [La Bataille](../games/card/la-bataille.md) — "La bataille" is the most famous french card game ! It's super easy to play and very fun. you have a pile of cards, and 
+- [Las Vegas Blackjack](../games/card/las-vegas-blackjack.md) — Enjoy authentic atmosphere of Las Vegas casino. You have unique opportunity to try your luck and win great prizes in a h
+- [Las Vegas Poker](../games/card/las-vegas-poker.md) — Play one of the most exciting card games in the world. Win up to 3 types of big tournaments and unlock your avatar. Rule
+- [LEGO CITY Memory Card Match](../games/card/lego-city-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Level Up Mutants](../games/card/level-up-mutants.md) — Level Up Mutants: An Awesome Casual Game.Discover the fun of training monsters in Level Up Mutants, the most addictive c
+- [Lines - Air Balloons](../games/card/lines-air-balloons.md) — Dive into a whimsical puzzle adventure with Lines - Air Balloons. Strategically draw paths to connect and clear vibrant 
+- [Little Baby Bum](../games/card/little-baby-bum.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Little Red Riding Hood Memory Card Match](../games/card/little-red-riding-hood-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Lovely Couples Memory](../games/card/lovely-couples-memory.md) — Click the cards to reveal a couple. Memorize it so that you can match to similar cards.
+- [Lucky Lady's Charm Deluxe Casino Slot](../games/card/lucky-lady-s-charm-deluxe-casino-slot.md) — This slot machine is the ultimate lucky charm in online casino!
+- [Machine slot games Roulette and casino games](../games/card/machine-slot-games-roulette-and-casino-games.md) — Welcome to the #1
+- [Madness Cooking Burger Games](../games/card/madness-cooking-burger-games.md) — Hello, Best Burger Cooking Chef! You’re welcome in our free Burger Cooking Simulator game. Burger wala game is here! Hav
+- [Mafia Cards](../games/card/mafia-cards.md) — Dive into Mafia Cards, where strategic card battles meet the cutthroat world of organized crime. Match and build powerfu
+- [Magic Story of Solitaire](../games/card/magic-story-of-solitaire.md) — Welcome to the amazing and magical world of solitaire. Here you can feel at home, comfortably playing solitaire on a tav
+- [Magic Tri Peaks Solitaire](../games/card/magic-tri-peaks-solitaire.md) — Magic Tri Peaks Solitaire is the classic one lower one higher solitaire you know and love. It sounds easy: just remove c
+- [Magical Memory](../games/card/magical-memory.md) — Click the cards to reveal a magic icon . Memorize it so that you can match to similar cards. Match all of the cards on t
+- [Match - A memory game](../games/card/match-a-memory-game.md) — Play the awesome game in different sort of levels. Test your brain in the hard level.
+- [Match Card](../games/card/match-card.md) — Ignite your brain cells with the mind-boggling Memory Game! Flip cards, find matching pairs, and feel like a mental acro
+- [Match Pairs Memory Card](../games/card/match-pairs-memory-card.md) — Match Pair: Memory Card Game takes the classic concentration game to the next level. Embark on an epic journey across 19
+- [Mau-Mau - 101 Card Duel](../games/card/mau-mau-101-card-duel.md) — Dive into Mau-Mau - 101 Card Duel, where both wit and strategy shine. Discard your cards by matching suits or values, fa
+- [Mech Battle Arena](../games/card/mech-battle-arena.md) — A real-time robot card duel. Build a deck of 8 robots, drop them on the field to destroy the enemy towers, open chests o
+- [Meemory Match](../games/card/meemory-match.md) — Memory Match is a simple classic board game which can help and challenging your brain memory. and reach highest score as
+- [Mega Casino Mania](../games/card/mega-casino-mania.md) — Mega Casino Mania brings the ultimate online casino slots experience straight to your screen! Spin exciting 777 slot mac
+- [Mega Ramps stunt cars 3d](../games/card/mega-ramps-stunt-cars-3d.md) — Extreme ramp car stunt racing games: Impossible Tracks Play of impossible car games 2020 ramp drive in which you will ch
+- [Meme Challenge Dank Memes](../games/card/meme-challenge-dank-memes.md) — Meme Challenge: Dank Memes is a fun and casual card game! Designed for those who like to be funny and humorous! You will
+- [memorize nature](../games/card/memorize-nature.md) — You have a set of cards on the table. The cards have pairs which have random positions on the table, what you have to do
+- [memorize the birds](../games/card/memorize-the-birds.md) — memorize the variety of birds that are shown to you in each of the images. The birds shown are of different types to mak
+- [Memory Card](../games/card/memory-card.md) — Memory Card challenges your memory and concentration as you match pairs in a race against time. With increasing difficul
+- [Memory Card Challenge](../games/card/memory-card-challenge.md) — Unleash thrilling fun with Memory Card Challenge, where vibrant themes turn your memory workout into an exciting quest. 
+- [Memory Card Match](../games/card/memory-card-match.md) — Test your memory with Memory Card Match, where vibrant, themed cards challenge your recall abilities. Flip cards to find
+- [Memory Cards](../games/card/memory-cards.md) — Test your memory and cognitive skills with Memory Cards! Sequence through increasingly challenging levels by identifying
+- [Memory CoronaVirus](../games/card/memory-coronavirus.md) — Test your memory with the photos and protect your self,friends and your family.
+- [Memory Match Game](../games/card/memory-match-game.md) — Memory Match is a free online puzzle game for boys played on PuzzleGame. It combines the traditional card memory game wi
+- [Memory Match Magic](../games/card/memory-match-magic.md) — Dive into the enchanting world of Memory Match Magic, a delightful casual game that challenges your memory and takes you
+- [Memory Match Master Card Challenge](../games/card/memory-match-master-card-challenge.md) — Test your memory prowess with Memory Match Master, an addictive journey through whimsical card-matching puzzles. Flip vi
+- [Memory of a Gamer](../games/card/memory-of-a-gamer.md) — Are you a gamer? How good is your memory? Play and challenge yourself to see if you can pass all the levels proving to b
+- [MEMORY TRAINING. AMERICAN FLAGS](../games/card/memory-training-american-flags.md) — MEMORY TRAINING AMERICAN FLAGS has 3 different categories with 4 levels each. To play, click on the cards to reveal the 
+- [MEMORY TRAINING. EUROPEAN FLAGS](../games/card/memory-training-european-flags.md) — MEMORY TRAINING EUROPEAN FLAGS has 3 different categories with 4 levels each. To play, click on the cards to reveal the 
+- [Memorybot](../games/card/memorybot.md) — Dive into the captivating world of Memorybot, where beautifully animated cards test your memory under the pressure of ti
+- [Mental Hospital Escape game](../games/card/mental-hospital-escape-game.md) — The character of the game is completely mentally healthy. But despite this, he was locked up in a psychiatric hospital. 
+- [Minecraft Card Matching Puzzle](../games/card/minecraft-card-matching-puzzle.md) — Minecraft Card Matching Puzzle is a fun and relaxing card matching game that tests your memory and attention. Tap on car
+- [Minions](../games/card/minions.md) — Minions are the numerous creatures that appear in the Despicable Me franchise, which began with the eponymous 2010 film.
+- [Minions Memory Match Up](../games/card/minions-memory-match-up.md) — It's possible now to play Minions Memory Match Up game in your web browser for free at Superkidgames.com .Put your mind 
+- [Miraculous Memory Match Up](../games/card/miraculous-memory-match-up.md) — Its possible now to play Miraculous Memory Match Up game in your web browser for free at superkidgames.com . Put your mi
+- [Mischievous Pairs](../games/card/mischievous-pairs.md) — Flip cards, remember their positions, and clear the board before time runs out, or challenge a friend in local two-playe
+- [Modern Bus Parking Rcc](../games/card/modern-bus-parking-rcc.md) — Modern bus parking simulator Free Games offline is new Bus Simulator 2020 with several parking challenge
+- [Monster Card Battle](../games/card/monster-card-battle.md) — Monster Card Battle is a confrontation battle game for boys. It is a collection of battle cards with a simple battle car
+- [Moto Race City](../games/card/moto-race-city.md) — Time is key. The longer you ride, the more money you earn to unlock faster, stronger bikes. Feel the speed, upgrade your
+- [Mr Bean Five Difference Challenge](../games/card/mr-bean-five-difference-challenge.md) — Find the differences between two photos in Mr Bean Five Difference Challenge, lets have fun! Behind these pictures are s
+- [MY CUTE PET](../games/card/my-cute-pet.md) — My cute pet is a memory card game with super cute animals. With each level the number of cards will increase bringing mo
+- [My Talking Tom Card Match](../games/card/my-talking-tom-card-match.md) — This simple but elegant memory card matching game was designed for anyone that wants brain improvement. Our pairs card g
+- [MycoThreeMemo](../games/card/mycothreememo.md) — Welcome to the quiet hunt, mushroom picker! Embark on an exciting journey through a virtual forest where mushrooms chang
+- [Mythiq](../games/card/mythiq.md) — Mythiq A Card-Based Memory Adventure Through Legendary Realms Enter the enchanting world of Mythiq, where memory meets m
+- [Naegi Poker](../games/card/naegi-poker.md) — Play one of the most exciting holdem games in the world. Pick your avatar and Win at 2 types of table room you want! Rul
+- [Napoleon Solitaire](../games/card/napoleon-solitaire.md) — A Classic Napoleon Solitaire Card Game. Move all the cards from bottom to the top. Beautiful graphics and a lot of fun f
+- [Napoleon Solitaire](../games/card/napoleon-solitaire-2.md) — Unleash your strategic prowess in Napoleon Solitaire, a compelling twist on a timeless classic. Masterfully organize des
+- [Naruto Memory Card Match](../games/card/naruto-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Necromancer Memory Magic & Card Game for Kids](../games/card/necromancer-memory-magic-card-game-for-kids.md) — Flip cards to match enchanting images in a whimsical world of necromancy. Race against the clock, earning points for eac
+- [New Looney Tunes Snap](../games/card/new-looney-tunes-snap.md) — In the fairy-tale forest in which Luni Tunz lives, it became so boring that some beasts made friends with each other. An
+- [Nine to Wonderland: Card Duel RPG](../games/card/nine-to-wonderland-card-duel-rpg.md) — Nine to Wonderland is a head-to-head card duel RPG where a standard deck becomes a weapon. Every card you lay down hits:
+- [Nova Solitaire](../games/card/nova-solitaire.md) — Relax Now! Try this Most Addictive Classic Solitaire Card Games for You FREE!. With original nova Solitaire, you can pla
+- [Number Domination](../games/card/number-domination.md) — Number Domination is a turn-based strategy card game where players compete to claim tiles on the board using number card
+- [Number games Solitaire style](../games/card/number-games-solitaire-style.md) — Solitaire 0-21 in Blackjack style is a symbiosis of 3 games, you can say 3 in 1. Firstly it is almost traditional blackj
+- [Numblocks Solitaire](../games/card/numblocks-solitaire.md) — This is a skill based puzzle game where you match and collect number blocks. Collect all the number blocks by making pai
+- [Offline Poker](../games/card/offline-poker.md) — Play offline texas holdem poker
+- [Ola! Solitaire](../games/card/ola-solitaire.md) — Ola! Solitaire brings classic Klondike gameplay together with clear rules, large cards, and comfortable controls for sen
+- [Pac-Man Card Match](../games/card/pac-man-card-match.md) — Pac-Man (stylized in all capitals as PAC-MAN) is an arcade game designed by Toru Iwatani (1955–) of Namco, and released 
+- [PairScape](../games/card/pairscape.md) — PairScape is a relaxing tile-matching adventure set in a vibrant world of fresh vegetables and blooming flowers. Match i
+- [Pandjohng Solitaire](../games/card/pandjohng-solitaire.md) — You need to go through all 80 levels to free all 80 pandas. Use jokers and bonuses to simplify the process. In addition 
+- [Pandjohng Solitaire](../games/card/pandjohng-solitaire-2.md) — Rescue delightful pandas across 80 captivating levels in Pandjohng Solitaire. Engage with enhanced solitaire mechanics, 
+- [PegSolitaire](../games/card/pegsolitaire.md) — A very classic fun jump checkers game. In the game, we need to observe the position of the pieces, through the pieces to
+- [Pet Card Sort](../games/card/pet-card-sort.md) — Pet Card Sort is an adorable matching puzzle game where you organize cute animal cards across a double-sided game board!
+- [Pick And Match Game](../games/card/pick-and-match-game.md) — Pick & Match is a fun little memory puzzle game where the goal is to turn over the card with the same animal. Completing
+- [Pikachu Memory Card Match](../games/card/pikachu-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Pirate pairs](../games/card/pirate-pairs.md) — Help the pirate find pairs. Tap on any card to open it. Find the appropriate card by clicking on the second card. To rep
+- [Planet Pair](../games/card/planet-pair.md) — Planet Pair is a memory game with pairs of planets. Each round has 3 phases of increasing difficulty: 3 pairs in the fir
+- [Playing Cards Memory](../games/card/playing-cards-memory.md) — We are with you in the game Playing Cards Memory will help him with this. Together with him you will play the simplest c
+- [Pocket Solitaire](../games/card/pocket-solitaire.md) — Pocket Solitaire delivers strategic card gameplay, challenging you to organize tableau cards into foundation piles under
+- [Pokemon Find Pairs](../games/card/pokemon-find-pairs.md) — Pokemon Find Pairs is a memory puzzle game. Choose your mode from easy medium or hard. This game will help you imporove 
+- [Poker Challenge](../games/card/poker-challenge.md) — Poker Challenge is an online game that allows players to compete against each other in a variety of poker games. The gam
+- [Poker Clicker](../games/card/poker-clicker.md) — Unlock upgrades and rare cards to collect, with over 60+ achievements to get in this idle clicker game about racking up 
+- [Poker (Heads Up)](../games/card/poker-heads-up.md) — We offer you an online poker game (heads up). Poker is a popular card game, the purpose of which is to collect a winning
+- [Poker House Escape](../games/card/poker-house-escape.md) — Poker House Escape is a point and click game developed by 8B Games/Games2mad. Imagine that you had been to a house; ther
+- [Poker Tri Peaks](../games/card/poker-tri-peaks.md) — Poker tri peaks is a solitaire style game where the player has the main objective of clearing decks from the table.
+- [Poker Web](../games/card/poker-web.md) — Create poker hands from the cards in the web of this strategic solitaire game. Earn all achievement medals in this simpl
+- [Poker2048](../games/card/poker2048.md) — Poker2048 blends the strategic depth of poker with the addictive gameplay of sliding-tile puzzles. On a 4&times;4 grid, 
+- [Pop Dice - Start Rolling And Go](../games/card/pop-dice-start-rolling-and-go.md) — Quick Dice is fun board game to play. In front of your screen, a playing field will appear with various visible colored 
+- [Power Rangers Card Game](../games/card/power-rangers-card-game.md) — Take turns throwing power rangers cards. When you see the same card, press the button and grab it. Collect all the cards
+- [PUBG  Gunfight Pixel](../games/card/pubg-gunfight-pixel.md) — PUBG Gunfight Pixel is a fps death match game, kill the maximum opponents to get points to win the match. Good Luck
+- [Pucca Memory Card Match](../games/card/pucca-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [Puzzleguys Hearts](../games/card/puzzleguys-hearts.md) — Classic Hearts game. It is is an "evasion-type" trick-taking playing card game and, in this version you'll play against 
+- [Pyramid Solitaire](../games/card/pyramid-solitaire.md) — Dive into the ancient challenge of Pyramid Solitaire, where strategic pairing and clever planning are essential. Uncover
+- [Pyramid Solitaire Classic](../games/card/pyramid-solitaire-classic.md) — Remove all cards from the pyramid by combining two cards to a total value of 13. The numerical cards are worth the face 
+- [Pyramid Solitaire Classic](../games/card/pyramid-solitaire-classic-2.md) — Dive into the timeless challenge of Pyramid Solitaire Classic, where strategy and skill guide you to victory. Pair cards
+- [PyroPairs](../games/card/pyropairs.md) — PyroPairs is a fun and challenging card-matching game based on memory with varying difficulty. You have 8+ cards each ti
+- [Quick Cards](../games/card/quick-cards.md) — Keep throwing the cards on your turn, the larger card wins! The winner keeps both the cards. In case of tie, the game is
+- [Quick Cards](../games/card/quick-cards-2.md) — Dive into the thrilling world of Quick Cards, where every card throw could clinch victory. Outsmart your opponent in fas
+- [race box](../games/card/race-box.md) — race box game has a lot of success review and player this MONTH that significantly improves overall game performance, es
+- [Rash Driving And Parking Game](../games/card/rash-driving-and-parking-game.md) — Welcome to the Offroad jeep driving games 4x4 where you will enjoy the offroad curvy and bumpy tracks with your 4x4 offr
+- [Refuge Solitaire](../games/card/refuge-solitaire.md) — Escape into the serene world of Refuge Solitaire, where strategy meets chance. Traverse through Alpine landscapes as you
+- [Reinarte Cards](../games/card/reinarte-cards.md) — There are several fun card games for you to spend your time testing your knowledge and logical thinking skills, among th
+- [ReNumber Kids](../games/card/renumber-kids.md) — This is an easy version of memory-based games where each tile shows a multiplication &lt; 100. You are supposed to remem
+- [Rick and Morty Card Match](../games/card/rick-and-morty-card-match.md) — Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon
+- [Ricky Zoom: Room with a Zoom](../games/card/ricky-zoom-room-with-a-zoom.md) — Make room for the vroom! Explore Wheelford, the world of preschool TV show Ricky Zoom. Teaching friendship and teamwork 
+- [Rummy Multiplayer](../games/card/rummy-multiplayer.md) — Rummy Multiplayer is a HTML5 Card Game. Enjoy this stylish version of the classic Rummy card game. 3 Game’s Mode: - Mult
+- [Ruthless! Merciless Cards](../games/card/ruthless-merciless-cards.md) — RUTHLESS! is an online multiplayer card game from the crazy eights family — with a mean streak. Empty your hand to win, 
+- [Santa Find](../games/card/santa-find.md) — Unleash your memory prowess in Santa Find, a festive card-matching game. Peek before the flip and match pairs of jolly S
+- [School Memory Deluxe](../games/card/school-memory-deluxe.md) — Click the cards to reveal the items. Memorize their locations so that you can match to similar cards. Match all of the c
+- [Scorpion Solitaire](../games/card/scorpion-solitaire.md) — Step into Scorpion Solitaire, where your strategic prowess meets a unique card challenge. Compete through varying diffic
+- [Scroll Happy Run](../games/card/scroll-happy-run.md) — This is a fun addicting skill game in which you have to control a little character that rolls through paths full of obst
+- [Scuffed Uno](../games/card/scuffed-uno.md) — Scuffed Uno lets you play the popular Uno card game in your web browser. The aim of the game is to be the first player w
+- [Sea Creatures Cards Match](../games/card/sea-creatures-cards-match.md) — Click or touch the card to open it. Watch and memorize the creature on the cards. Your goal is to open 2 similar cards c
+- [SEOTDA CARD GAME](../games/card/seotda-card-game.md) — ** SEOTDA CARD GAME is FREE-TO-PLAY ONLINE H5 GAME. * SEOTDA CARD GAME is a Korean card game using 20 Hwatu (hereinafter
+- [Seraphim Anime Memory & Card Game for Kids](../games/card/seraphim-anime-memory-card-game-for-kids.md) — Unleash your memory skills in Seraphim Anime! Race against the clock to match vibrant anime-themed pairs. Boost your sco
+- [SEVEN CARD GAME](../games/card/seven-card-game.md) — ** SEVEN CARD GAME is A FREE-TO-PLAY ONLINE H5 GAME. * SEVEN CARD GAME, which is called SEVEN CARD STUD, is a classic po
+- [Shuffle Sage](../games/card/shuffle-sage.md) — Shuffle Sage &ndash; A Solitaire Challenge of Wisdom and Strategy Step into the world of Shuffle Sage, a solitaire-inspi
+- [Shuffle Sage](../games/card/shuffle-sage-2.md) — Embark on a strategic journey in Shuffle Sage, where cunning and composure unite. Arrange your card sequences with preci
+- [Simple Free Cell Solitaire](../games/card/simple-free-cell-solitaire.md) — Challenge your strategic thinking with Simple Free Cell Solitaire. Skillfully maneuver cards to organize each suit from 
+- [Simple Klondike Solitaire](../games/card/simple-klondike-solitaire.md) — Dive into the timeless challenge of Simple Klondike Solitaire, where strategy and patience are your best allies. Arrange
+- [Simple Spider Solitaire](../games/card/simple-spider-solitaire.md) — Delve into a classic card game with Simple Spider Solitaire. Test your strategic skills by arranging sequences from king
+- [Skibidi Toilet Match Up](../games/card/skibidi-toilet-match-up.md) — time to test your memory in the Skibidi Toilet Match UP game! Join the Skibidi Toilet and see how many card pairs you ca
+- [Sky Stunt 3d 2021](../games/card/sky-stunt-3d-2021.md) — Are you ready for driving on the sky road to perform impossible car stunt. Get best driving experience on impossible tra
+- [Slot Games - Free casino slot games for fun](../games/card/slot-games-free-casino-slot-games-for-fun.md) — Play Hot Vegas Free Slot machines without wifi - online or offline - and try to win the Jackpot! It’s like a HOT Vegas C
+- [SLOT MACHINES FREE - Online slots real money](../games/card/slot-machines-free-online-slots-real-money.md) — Play LAS VEGAS SLOT MACHINES FREE! Try OVER 35+ FREE Slot Machines unlocked NOW with Hot Las Vegas Slots Casino! Updated
+- [Slots: Epic Jackpot Slots Games Free & Casino Game](../games/card/slots-epic-jackpot-slots-games-free-casino-game.md) — PLAY NEW EPIC JACKPOT SLOT GAMES FREE! Try 40+ FREE Slot Games unlocked now in Epic Jackpot Slots Free! Updated 2x/month
+- [Slots: Fast Fortune Free Casino Slots with Bonus](../games/card/slots-fast-fortune-free-casino-slots-with-bonus.md) — Welcome to SLOTS GRAPE, the most prestigious casino community! For all the casino lovers around the world, we are introd
+- [Slots: No Limits - Slots Free with Bonus Casinos!](../games/card/slots-no-limits-slots-free-with-bonus-casinos.md) — Play NO LIMITS SLOT MACHINES FREE WITH BONUS CASINOS! Try OVER 45+ FREE Slot Machines unlocked NOW with No Limits Vegas 
+- [Slots: VIP Deluxe Slot Machines- Free slot Games](../games/card/slots-vip-deluxe-slot-machines-free-slot-games.md) — Play Free Vegas Slot machines with bonus games without wifi - online or offline - and try to win the Jackpot! The best V
+- [SlotsSlots](../games/card/slotsslots.md) — This slot machine is the ultimate lucky charm in online casino!
+- [Smurfs](../games/card/smurfs.md) — The Smurfs (French: Les Schtroumpfs; Dutch: De Smurfen) is a Belgian comic franchise centered on a fictional colony of s
+- [Solitaire](../games/card/solitaire.md) — Enjoy four classic solitaire experiences in one polished card game collection. Play Spider, FreeCell, Klondike, and Pyra
+- [Solitaire 0 - 21](../games/card/solitaire-0-21.md) — Fun numbers game with solitaire flavor to relax and unwind while keeping your mind sharp. Collect all the number cards o
+- [Solitaire 13in1 Collection](../games/card/solitaire-13in1-collection.md) — Popular solitaire is simple and addictive game for one player, which goal is to get rid of all the cards on the table, w
+- [Solitaire 13in1 Collection](../games/card/solitaire-13in1-collection-2.md) — Experience the timeless charm of Solitaire with this 13-in-1 collection. Immerse yourself in a visually soothing interfa
+- [Solitaire 15 in 1 Collection](../games/card/solitaire-15-in-1-collection.md) — Discover endless strategic fun with Solitaire 15 in 1 Collection. Master 15 unique solitaire variants, from beloved clas
+- [Solitaire 15in1 Collection](../games/card/solitaire-15in1-collection.md) — Freecell and Klondike are just the beginning! Dive deep into the world of Solitaire in the largest Solitaire combo relea
+- [Solitaire](../games/card/solitaire-2.md) — Solitaire Free is the #1 klondike solitaire Card Games. The solitaire Free is popular and classic tripeaks card games yo
+- [Solitaire 2048](../games/card/solitaire-2048.md) — Solitaire 2048 is a free online card and merge game for boys played on PuzzleGame.The game is easy to learn and quite ad
+- [Solitaire 8 Collection](../games/card/solitaire-8-collection.md) — Eight solitaire classics in one collection: Klondike, Spider, FreeCell, TriPeaks, Pyramid, Golf, Yukon and Scorpion. No 
+- [Solitaire 8 Collection](../games/card/solitaire-8-collection-2.md) — Solitaire 8 Collection brings together eight classic solitaire games in one place: Klondike, Spider, FreeCell, TriPeaks,
+- [Solitaire: Card Master](../games/card/solitaire-card-master.md) — Master the classic Klondike solitaire! Move cards by alternating color and descending order, build foundations from Ace 
+- [Solitaire Card Sort Puzzle](../games/card/solitaire-card-sort-puzzle.md) — Solitaire Card Sort Puzzle is a clever color matching and sorting game designed to test your organizational and puzzle s
+- [Solitaire: Card Sorting](../games/card/solitaire-card-sorting.md) — An intellectual card puzzle that combines the mechanics of classic solitaire with the logic of thematic sorting. At each
+- [Solitaire. Card Sorting](../games/card/solitaire-card-sorting-2.md) — Dive into a mind-bending card puzzle where classic solitaire meets strategic sorting. Organize vibrant themed cards into
+- [Solitaire Champions](../games/card/solitaire-champions.md) — Dive into Solitaire Champions, where strategy meets elegance in this classic card game. Navigate through intricate level
+- [solitaire chllg 3d](../games/card/solitaire-chllg-3d.md) — Solitaire is one of the best card games free for Android . Spider Solitaire has a fantastic user interface, beautiful gr
+- [Solitaire Classic](../games/card/solitaire-classic.md) — Solitaire (also known as Klondike or patience) is the most famous and the best cards game on mobile, tablet and desktop.
+- [Solitaire - Classic Card Game](../games/card/solitaire-classic-card-game.md) — Indulge in a refreshing digital take on the beloved card game, Solitaire, blending traditional strategy with creative cu
+- [Solitaire Classic - Klondike Master](../games/card/solitaire-classic-klondike-master.md) — Immerse yourself in the classic challenge of Solitaire Classic - Klondike Master! Strategically stack cards, reveal hidd
+- [Solitaire Crime Stories](../games/card/solitaire-crime-stories.md) — Solitaire Crime Stories is an exciting new Solitaire game which will carry you away into a world of fascinating criminal
+- [Solitaire Crime Stories](../games/card/solitaire-crime-stories-2.md) — Solitaire Crime Stories is an exciting new Solitaire game which will carry you away into a world of fascinating criminal
+- [Solitaire Crime Stories](../games/card/solitaire-crime-stories-3.md) — Dive into Solitaire Crime Stories, where cunning strategy meets intriguing mysteries. Solve captivating card puzzles, ex
+- [Solitaire Da Card](../games/card/solitaire-da-card.md) — Card games that have been played on PC for a long time can now be played on Android, this game is free without any in-ap
+- [Solitaire Deluxe](../games/card/solitaire-deluxe.md) — Rediscover a great classic game on your phone or pc: The Solitaire. Challenge your patience and intelligence in this car
+- [Solitaire Emperor - Secrets of Fate](../games/card/solitaire-emperor-secrets-of-fate.md) — This game will immerse you in the world of exciting adventures of Tarot cards.
+- [Solitaire Freecell Frenzy](../games/card/solitaire-freecell-frenzy.md) — Freecell Frenzy every round gets trickier! Move all cards to the four foundations from Ace to King in matching suits. Bu
+- [Solitaire Games](../games/card/solitaire-games.md) — Features: - multiple games - addictive gameplay
+- [Solitaire GC](../games/card/solitaire-gc.md) — This game is classic solitaire game.
+- [Solitaire Girls 2](../games/card/solitaire-girls-2.md) — Solitaire Girls 2 is a unique card solitaire game that perfectly combines classic card gameplay with anime girl collecti
+- [Solitaire Golf](../games/card/solitaire-golf-2.md) — Sharpen your strategy and skill in Solitaire Golf, where simple gameplay becomes a captivating mental challenge. With in
+- [Solitaire Grand Harvest](../games/card/solitaire-grand-harvest.md) — Solitaire Grand Harvest: the go-to Tripeaks Solitaire game for Solitaire card game fans! Are you a fan of online card ga
+- [Solitaire Grande](../games/card/solitaire-grande.md) — Find out why millions of people all over the world play Solitaire every day! Enjoy a relaxing gameplay with standard 1-c
+- [Solitaire Grande](../games/card/solitaire-grande-2.md) — Solitaire Grande rejuvenates the classic card game with stunning themes and customizable decks. Unlock achievements, ear
+- [Solitaire Holiday](../games/card/solitaire-holiday.md) — Escape into tranquility with Solitaire Holiday, blending classic card play with a festive twist. Enjoy strategic gamepla
+- [Solitaire Instant Play](../games/card/solitaire-instant-play.md) — Dive into Solitaire Instant Play, where elegance meets strategy. This captivating card game offers stunning visuals and 
+- [Solitaire King Game](../games/card/solitaire-king-game.md) — Solitaire King reinvents the timeless card game for the digital age. With intuitive gameplay, it challenges both newcome
+- [Solitaire: Klondike](../games/card/solitaire-klondike.md) — The addictive game you’ve been playing on your computer for years now goes wherever you do. Whether you know it as Patie
+- [Solitaire Klondike - Treasure Island](../games/card/solitaire-klondike-treasure-island.md) — This game is an ideal choice for those who want to spend time with benefit and pleasure. Relieve fatigue and stress by p
+- [Solitaire Legend](../games/card/solitaire-legend.md) — Do you remember the times without internet? Passing time playing the same old game on the computer. The classic card sor
+- [Solitaire Legend](../games/card/solitaire-legend-2.md) — Rediscover the timeless appeal of Solitaire Legend, where strategic card sorting meets endless fun. Enjoy the freedom of
+- [Solitaire Manga Girls](../games/card/solitaire-manga-girls.md) — Play smartly to unlock the most pretty and sexy girls in the game SOLITAIRE MANGA GIRLS. The game is super simple and is
+- [Solitaire Master](../games/card/solitaire-master.md) — Dive into Solitaire Master, where timeless card challenges await with three captivating modes: classic Solitaire, Freece
+- [Solitaire Master-Classic Card](../games/card/solitaire-master-classic-card.md) — Solitaire by XT Studios is the new best way to play the classic card game you know and love for FREE, offline and online
+- [Solitaire Match Puzzle](../games/card/solitaire-match-puzzle.md) — Hot pot, barbecue, custard tarts, pasta whatever you love is here. Solitaire Match Puzzle is a food-themed puzzle game. 
+- [Solitaire Puzzle 2048](../games/card/solitaire-puzzle-2048.md) — Dive into Solitaire Puzzle 2048, where solitaire meets 2048's addictive number merging! Strategically combine cards to r
+- [Solitaire Quest](../games/card/solitaire-quest.md) — Solitaire Quest is a classic and relaxing card game that challenges you to organize cards, build sequences, and clear th
+- [Solitaire Seasons](../games/card/solitaire-seasons.md) — You need to go through all 40 levels to open all four windows, each of which goes into its own season. Use jokers to sim
+- [Solitaire Seasons](../games/card/solitaire-seasons-2.md) — Explore the vivid landscapes of Solitaire Seasons, where each card game is a step into changing seasons. Engage in strat
+- [Solitaire Solitaire](../games/card/solitaire-solitaire.md) — Rediscover a great classic game on your phone or pc: The Solitaire. Challenge your patience and intelligence in this car
+- [Solitaire Spider](../games/card/solitaire-spider.md) — Enjoy the best free and popular Solitaire card games in the world for free at any time and place! It's time to train you
+- [Solitaire: Spider and Klondike](../games/card/solitaire-spider-and-klondike.md) — Immerse yourself in the captivating world of solitaire and test your strategic planning and logical thinking abilities. 
+- [Solitaire Stars](../games/card/solitaire-stars.md) — Do you love playing Solitaire? Get ready for Solitaire: Yukon Play Cards, a fun and free card game! This is a special ty
+- [Solitaire Story - Tripeaks](../games/card/solitaire-story-tripeaks.md) — Control in the game "The Story of Solitaire - Three Peaks" on the computer is carried out with the mouse, and on the tou
+- [Solitaire Streak](../games/card/solitaire-streak.md) — Dive into Solitaire Streak, where strategic elegance meets cascading thrills. Engage in the dynamic art of stacking card
+- [Solitaire The Collection](../games/card/solitaire-the-collection.md) — 33 card game variants in one collection. Play familiar solitaires, discover new rules and pick the difficulty — from a c
+- [Solitaire The Collection](../games/card/solitaire-the-collection-2.md) — 33 card game variants in one collection. Play familiar solitaires, discover new rules and pick the difficulty &mdash; fr
+- [Solitaire: The Eternal Deck](../games/card/solitaire-the-eternal-deck.md) — Solitaire: The Eternal Deck — a classic card solitaire game with a modern design and intuitive controls. Think through e
+- [Solitaire Treasures](../games/card/solitaire-treasures.md) — Classic Klondike Solitaire (Draw 1) where every deal is guaranteed winnable. Collect animated card decks, backs, backgro
+- [Solitaire Tripeaks](../games/card/solitaire-tripeaks.md) — Explore the mysteries of the Deep Sea with Solitaire TriPeaks, the classic solitaire card game which allows you to train
+- [Solitaire Tripeaks](../games/card/solitaire-tripeaks-2.md) — Explore the mysteries of the Deep Sea with Solitaire TriPeaks, the classic solitaire card game which allows you to train
+- [Solitaire TriPeaks Garden](../games/card/solitaire-tripeaks-garden.md) — In Solitaire TriPeaks Garden you can play hundreds of levels filled with the most addictive version of solitaire there i
+- [Solitaire TriPeaks Garden](../games/card/solitaire-tripeaks-garden-2.md) — Immerse yourself in Solitaire TriPeaks Garden, where classic solitaire meets musical delight and unique card mechanics. 
+- [Solitaire TriPeaks Harvest](../games/card/solitaire-tripeaks-harvest.md) — Escape into the serene world of Solitaire TriPeaks Harvest, where classic card strategy meets the joy of virtual farming
+- [Solitaire TS](../games/card/solitaire-ts.md) — Sharpen your mind with Solitaire TS, where strategy meets chance. Tackle ever-changing card configurations on a virtual 
+- [Solitaire World](../games/card/solitaire-world.md) — Solitaire World 125 types of games is inspired by the world&rsquo;s most popular single-player card games, offering clas
+- [Solitaire World Tour](../games/card/solitaire-world-tour.md) — This game features an incredible 100 levels. Open 4 cards in a row to activate a combination and earn +1 extra card to y
+- [Solitaire World Tour](../games/card/solitaire-world-tour-2.md) — Embark on a captivating card-flipping journey with Solitaire World Tour. Conquer 100 handcrafted levels, unlock strategi
+- [Solitaire : zen earth edition](../games/card/solitaire-zen-earth-edition.md) — SOLITAIRE : ZEN EARTH EDITION is the most zen and relaxing solitaire game of all cards games. Play now to this great cla
+- [Solitaire Zero 21](../games/card/solitaire-zero-21.md) — In Solitaire Zero 21, strategize to reach the magic number by selecting cards that cleverly add or subtract from your to
+- [Sonic Memory Cards](../games/card/sonic-memory-cards.md) — You have already perfectly learned all the heroes of the world of Sonic, who are happy to help our super hedgehog to per
+- [Sort It Out: Category Sort](../games/card/sort-it-out-category-sort.md) — A fast-paced, head-to-head card sorting game. Cards are stacked on a wooden tabletop grid, each showing an emoji or icon
+- [Space Through - Card Clicker Game](../games/card/space-through-card-clicker-game.md) — Space Card Clicker.
+- [Spaces Solitaire](../games/card/spaces-solitaire.md) — The full pack of cards is dealt to the card table, into four rows of cards. Each row has a single space. Your task is to
+- [Spaces Solitaire](../games/card/spaces-solitaire-2.md) — Discover a fresh twist on the classic with Spaces Solitaire. Strategically arrange decks, moving cards of matching suits
+- [Spider Solitaire](../games/card/spider-solitaire.md) — Spider Solitaire is a HTML5 Game. Enjoy this stylish version of the classic Spider Solitaire!
+- [Spider Solitaire](../games/card/spider-solitaire-2.md) — In Spider Solitaire, refine your strategic skills by organizing cards into descending suit-based columns. Craft King-to-
+- [Spider Solitaire 2 Suits](../games/card/spider-solitaire-2-suits.md) — Spider Solitaire card game with 2 suits. The objective of this Spider Solitaire game is to create eight sequences of the
+- [Spider Solitaire 3](../games/card/spider-solitaire-3.md) — Experience Spider Solitaire, one of the popular single-player card games. Arrange cards in descending order and form com
+- [Spider Solitaire 3D](../games/card/spider-solitaire-3d.md) — Standard Spider Solitaire cards patience game with 3D cards and animated 3D background and 3 levels of difficulty: 1 col
+- [Spider Solitaire](../games/card/spider-solitaire-4.md) — Dive into the strategic depth of Spider Solitaire, a timeless card game that tests your ability to sequence and organize
+- [Spider Solitaire Cards](../games/card/spider-solitaire-cards.md) — Dive into Spider Solitaire Cards, where strategy meets simplicity. Arrange cards in descending order from King to Ace wi
+- [Spider Solitaire Classic Ver](../games/card/spider-solitaire-classic-ver.md) — Spider Solitaire Classic Ver offers a strategic challenge, tasking players with arranging cards from King to Ace within 
+- [Spider Solitaire Deluxe](../games/card/spider-solitaire-deluxe.md) — Unleash your strategic genius with Spider Solitaire Deluxe, a captivating twist on the classic card game. Stack cards fr
+- [Spider Solitaire : Manga Girls](../games/card/spider-solitaire-manga-girls.md) — This version of SPIDER SOLITAIRE has wonderful and unique graphics and fantastic user interface. Enjoy your spare time a
+- [Spider Solitaire Plus](../games/card/spider-solitaire-plus.md) — New Card Themes: Our Spider Solitaire card game has new & fun card themes that you can play with. Customize your card ba
+- [Spider Solitaire Pro](../games/card/spider-solitaire-pro.md) — Spider Solitaire is a card game that uses two decks of cards. The more cards, the more exciting the solitaire! You will 
+- [Spiderman Match Cards](../games/card/spiderman-match-cards.md) — Let's play matching cards with pictures of spiderman and his enemies. Let's strengthen our memory and have fun.
+- [Spiderman Memory Card Match](../games/card/spiderman-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [SpongeBob Card Match](../games/card/spongebob-card-match.md) — SpongeBob SquarePants is an American animated television series created by marine biologist and animator Stephen Hillenb
+- [Spooky Memory](../games/card/spooky-memory.md) — Tap or click any card to reveal its icon. Memorize it and try to find its pair in board. Match all of the cards on the b
+- [Spooky Tripeaks](../games/card/spooky-tripeaks.md) — It is a Halloween variation of Solitaire. You need to pass all 100 levels. Use jokers and other bonus cards to simplify 
+- [Spooky Tripeaks](../games/card/spooky-tripeaks-2.md) — Uncover card mysteries in Spooky Tripeaks, a thrilling twist on solitaire. Match spooky-themed cards swiftly to outsmart
+- [Sprunki Memory](../games/card/sprunki-memory.md) — Sprunki Memory offers you to simultaneously train and test your visual memory. Choose a mode: single, passing levels and
+- [Sprunki Memory Card Match](../games/card/sprunki-memory-card-match.md) — Put your memory to the ultimate test with Sprunki Memory Card Match! Dive into a world of fun and challenge as you flip 
+- [Sprunki Memory Card Match](../games/card/sprunki-memory-card-match-2.md) — Sprunki Memory Card Match offers an enchanting journey of memory and fun, inviting you to uncover adorable characters by
+- [Sprunki Memory Game](../games/card/sprunki-memory-game.md) — Get ready for a fast-paced memory challenge with a Sprunki twist! In Sprunki Card Match, your mission is simple: flip th
+- [Sprunki Whooo](../games/card/sprunki-whooo.md) — Face the funniest card puzzle ever in Sprunki Whooo. Together with the adorable Sprunki characters, youll figure out the
+- [Squid Game Memory Card Match](../games/card/squid-game-memory-card-match.md) — Step into the thrilling world of Squid Game Memory Card Match! Test your memory and focus as you uncover pairs of iconic
+- [Stack Fill 3D](../games/card/stack-fill-3d.md) — Slide your finger and fill all empty spots.
+- [Stackitaire](../games/card/stackitaire.md) — Stackitaire is an addictive solitaire card-sorting puzzle. Shuffle through stacks of mixed cards and sort them into comp
+- [Stacklands](../games/card/stacklands.md) — Stacklands is a card game with innovative gameplay. It is a mixture of city management and stacked card game, where vari
+- [Stacklands](../games/card/stacklands-2.md) — In Stacklands, build and manage a thriving village by stacking cards. Craft tools, fend off enemies, and optimize resour
+- [starpoly](../games/card/starpoly.md) — Pc trading board game which can be played against AI and among family and friends.contains unique features such as lotte
+- [Stars Brawl Guys.io](../games/card/stars-brawl-guys-io.md) — "BrawlGuys.io"! Now you will find yourself in a battle arena in the style of Brawl Stars and will fight not for life, bu
+- [Stick Cards War](../games/card/stick-cards-war.md) — Each card has its own unique abilities, and using them strategically can make you stronger! Drag the cards on yourself o
+- [Stick Soldier Stickman War Stick Epic Simulator RT](../games/card/stick-soldier-stickman-war-stick-epic-simulator-rt.md) — Stick soldier is Arcade game, Hold your finger on screen to make the stick grow. Stretch the stick in order to reach and
+- [Stupid-Zombies](../games/card/stupid-zombies.md) — Those stupid zombies are back, and you are humanity's last hope to keep them brainless. But beware, ammo is limited so y
+- [Subway Super Hero Surfers](../games/card/subway-super-hero-surfers.md) — Subway Super Hero Surfers Stack Friend is a crazy jumping game. Just Tap or click to jump over stacks to get a high scor
+- [Summer Cold Drinks Card Memory](../games/card/summer-cold-drinks-card-memory.md) — Click the cards to flip a cold drink. Memorize their position and match them up in pairs. Match all of the cards on the 
+- [Sunny Fields](../games/card/sunny-fields.md) — Welcome to a vibrant farming adventure! Build and expand your own farm by purchasing animals and structures. Produce goo
+- [Supa Tic Tac Toe](../games/card/supa-tic-tac-toe.md) — Tic-Tac-Deck evolves the classic grid into a brutal tactical arena. Forget simple X’s and O’s—here, your hand is your we
+- [Super Alphabet Memory](../games/card/super-alphabet-memory.md) — is a classic memory game. learn the alphabet in an easy and fun way! Are you ready?
+- [Super Animal Memory](../games/card/super-animal-memory.md) — Remember two cards of the same animals to advance
+- [Super Card Memory Match](../games/card/super-card-memory-match.md) — The objective of this game is to gather the even cards Win the game when you collect them all! Enjoy this game. You will
+- [Super Mario Card Matching Puzzle](../games/card/super-mario-card-matching-puzzle.md) — Let's train your mind with Super Mario Card Match game. You've probably played through the very popular Super Mario game
+- [Super Mario Memory Card Match](../games/card/super-mario-memory-card-match.md) — Super Mario Memory Card Match is a delightful card-matching game that takes you on a colorful adventure filled with fun 
+- [Super Poker](../games/card/super-poker.md) — SuperPoker is a puzzle game with a casino style, where you match combinations such as pairs, triplets, or special groups
+- [SweetFlip](../games/card/sweetflip.md) — SweetFlip is a game about your memory power. You have to use your memory to match similar cards out of 8+ cards each lev
+- [Talking Tom Match Up](../games/card/talking-tom-match-up.md) — Welcome to this amazing Cards memory game! Look carefully and remember cards! Tap to flip two identical cards to elimina
+- [Tavern Cardsharp](../games/card/tavern-cardsharp.md) — Tavern Cardsharp is a pixel card game. Take a seat across from a rival, bet your coins and duel. Win and you take the be
+- [TCG Shop: Dino Adventure](../games/card/tcg-shop-dino-adventure.md) — A prehistoric trading-card shop game. Battle league rivals in 3v3 fights where a card’s power is both its attack and its
+- [The Amazing Maurice Card Match](../games/card/the-amazing-maurice-card-match.md) — A goofy streetwise cat, who has the perfect money-making scam. He finds a dumb-looking kid who plays a pipe and has his 
+- [The Bad Guys Card Match](../games/card/the-bad-guys-card-match.md) — The Bad Guys is a 2022 American computer-animated heist comedy film[6][7][8] loosely based on the children's book series
+- [The Battle](../games/card/the-battle.md) — Rediscover one of the greatest games of your childhood with « The Battle » and feel again the weight of destiny on your 
+- [The Princess and the Frog Memory Card Match](../games/card/the-princess-and-the-frog-memory-card-match.md) — Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in 
+- [The Spider Solitaire](../games/card/the-spider-solitaire.md) — This version of SPIDER SOLITAIRE has wonderful and unique graphics and fantastic user interface. Enjoy your spare time a
+- [Three Peaks Solitaire - Egypt](../games/card/three-peaks-solitaire-egypt.md) — Pyramid Solitaire is simple and addictive game for one player, which goal is to get rid of all the cards on the table, w
+- [Too Cute Puppies](../games/card/too-cute-puppies.md) — Too Cute Puppies is memory matching game with little cute puppies. You need to find the matching pair of cards with pupp
+- [Traditional Klondike Spider Solitaire](../games/card/traditional-klondike-spider-solitaire.md) — Traditional Klondike Spider Solitaire merges the strategic layering of Klondike with Spider Solitaire's complexity. Navi
+- [Tri Peaks City](../games/card/tri-peaks-city.md) — Build a city by placing roads, train tracks and rivers while playing tri peaks solitaire. For every level you complete y
+- [Tri Peaks Emerland Solitaire](../games/card/tri-peaks-emerland-solitaire.md) — Tri Peaks Emerland Solitaire
+- [Tripeaks Solitaire 100 levels](../games/card/tripeaks-solitaire-100-levels.md) — Dive into Tripeaks Solitaire 100 Levels, a mesmerizing card adventure with 100 puzzles to conquer. Strategize by selecti
+- [Tripeaks Solitaire Classic](../games/card/tripeaks-solitaire-classic.md) — Play Classic TriPeaks or 100 different Tripeaks levels. Remove all cards from the tableau, you can remove top cards that
+- [Tripeaks Solitaire: Kings and Queens](../games/card/tripeaks-solitaire-kings-and-queens.md) — Become a member of our Kings and Queens Club and enjoy its unlimited possibilities to play as much as you want! Enjoy th
+- [Triple Combo](../games/card/triple-combo.md) — Play Triple Combo online for free, the fast card game with a poker deck. Make three-of-a-kinds, flushes, and straights i
+- [Trollhunters Rise of The Titans Card Match](../games/card/trollhunters-rise-of-the-titans-card-match.md) — Trollhunters: Rise of the Titans is a 2021 American computer-animated science fantasy film directed by Johane Matte, Fra
+- [Turning Red Card Match](../games/card/turning-red-card-match.md) — Turning Red is a 2022 American computer-animated fantasy comedy film produced by Pixar Animation Studios and distributed
+- [Tute](../games/card/tute.md) — Tute is a captivating card game blending strategy and chance using a 40-card deck. Aim to win tricks and declare high-sc
+- [UNO Card Game](../games/card/uno-card-game.md) — Uno Friends is the classic card game that’s easy to pick up and impossible to put down. It is a game that's very simple 
+- [Uno Game](../games/card/uno-game.md) — To beat the opponent, we have to empty the entire pile of cards in our hand. match the cards according to their colours 
+- [Uno Multiplayer](../games/card/uno-multiplayer.md) — Uno Multiplayer is an exhilarating digital adaptation of the classic card game that brings friends and family together f
+- [Uno Online](../games/card/uno-online.md) — UNO Online is a strategy card game. In the game, the first player to clear his hand will become the winner. In order to 
+- [UNO Online](../games/card/uno-online-2.md) — UNO Online brings the classic strategy card game to life with digital flair. Outwit opponents by cleverly deploying spec
+- [Uno Party Card](../games/card/uno-party-card.md) — Want a fun card battle with friends? Uno-Party Card brings the classic UNO card game to your screen. Allow you to challe
+- [Uno Super Heroes](../games/card/uno-super-heroes.md) — Uno Super Heroes brings classic Uno gameplay into a vibrant world of superheroes! Play as iconic characters with unique 
+- [Uno with Buddies](../games/card/uno-with-buddies.md) — Uno with Buddies is an online classic card game that’s easy to pick up and impossible to put down.
+- [UNO! world](../games/card/uno-world.md) — Uno world is a fast and frenzied card game that has been a family favorite for over four decades now. Featuring a balanc
+- [Valentines Cards Match](../games/card/valentines-cards-match.md) — Click the cards to reveal a love icon . Memorize it so that you can match to similar cards. Match all of the cards on th
+- [Vegetable Cards Match](../games/card/vegetable-cards-match.md) — Click or touch the vegetable card to open it. Watch and memorize the vegetable on the cards. Your goal is to open 2 simi
+- [Vikings](../games/card/vikings.md) — Vikings is a card game, develop your cards, conquer new lands. There are many adventures waiting for you.
+- [Virus Cards Memory](../games/card/virus-cards-memory.md) — Click the cards to flip a virus. Memorize their position and match them up in pairs. Match all of the cards on the board
+- [VR Poker](../games/card/vr-poker.md) — Texas Hold em game. Unlock a hidden character and a new level if you have the skills. This game has interesting 3D graph
+- [Wander Wild](../games/card/wander-wild.md) — A fantasy card battler with roguelite progression, where tactical card battles combine with constant camp development an
+- [Web Solitaire](../games/card/web-solitaire.md) — An Interesting solitaire game with all solvable puzzles. Sort all the cards in the four stacks for each type. On upper s
+- [Wendigo Memory Card & Matching Game](../games/card/wendigo-memory-card-matching-game.md) — Immerse yourself in a spooky card-flipping challenge where each eerie pair you match heightens the intensity. Race again
+- [Whooo?](../games/card/whooo.md) — Whooo? is a casual puzzle online game for boys for free. You can guess in the game through the given tips. If you guess 
+- [WHOT The Ultimate Nigerian Card Game](../games/card/whot-the-ultimate-nigerian-card-game.md) — Experience the classic African card game WHOT! Play solo against AI or challenge friends in real-time multiplayer. Featu
+- [Wild Girls Slot - Win Big Playing Online Casino](../games/card/wild-girls-slot-win-big-playing-online-casino.md) — Wild Girls Slot is THE ultimate, authentic, old downtown Vegas experience! With exciting, free casino slots of Vegas gam
+- [Wild West Freecell](../games/card/wild-west-freecell.md) — On the tableau can you build down on alternating color. You can use the Freecells (top left) to temporarily park a card.
+- [Wild West Freecell](../games/card/wild-west-freecell-2.md) — Dive into the Wild West with Freecell's riveting twist. Strategically stack cards in alternating colors while harnessing
+- [Wild West Poker Lite](../games/card/wild-west-poker-lite.md) — Welcome to Wild West Poker a casual poker game that transports you back to the rugged and lawless era of the Wild West, 
+- [Winnie Pooh](../games/card/winnie-pooh.md) — Winnie-the-Pooh, also called Pooh Bear, is a fictional anthropomorphic teddy bear created by English author A. A. Milne.
+- [Winx Memory Match](../games/card/winx-memory-match.md) — Matching pictures of beautiful fairies bloom, flora, stella and tecna and their enemies trix witches darcy, icy and stor
+- [Word Associations Solitaire](../games/card/word-associations-solitaire.md) — Word Associations Solitaire is a relaxing card puzzle. Match words by associations, unlock themes, and train your brain 
+- [Word Solitaire](../games/card/word-solitaire.md) — Word Solitaire is not just another word game - it’s a unique and addictive word puzzle that blends the challenge of a ca
+- [Wordeck: Associations](../games/card/wordeck-associations.md) — WorDeck: Solitaire is a browser-based logic game that combines classic solitaire-style card interaction with word associ
+- [World of Alice   Dino Colors](../games/card/world-of-alice-dino-colors.md) — World of Alice - Dino Colors is an educational game developed for children with the aim of combining colors and improvin
+- [World of Alice   Sports Cards](../games/card/world-of-alice-sports-cards.md) — World of Alice - Sports Cards World of Alice - Sports Cards is an educational game developed for children where they can
+- [xLeague Solitaire](../games/card/xleague-solitaire.md) — Patience, card solitaire or just solitaire, is a genre of card games that can be played by a single player. Patience gam
+- [Xmas Challenge Game](../games/card/xmas-challenge-game.md) — This game is made for Christmas. There are 60 challenges to complete. You have to complete the game and unlock the next 
+- [Xmas Memory Match](../games/card/xmas-memory-match.md) — Get into the holiday spirit with this simple yet exciting memory card matching game, perfect for anyone looking to give 
+- [Your Trumps a Card Duel](../games/card/your-trumps-a-card-duel.md) — Engage in strategic card duels where you aim to outsmart your opponent and empty your hand first. Draw cards only when n
+- [ZAP](../games/card/zap.md) — Play ZAP, the thrilling online puzzle card game! Match cards by color or number to clear your hand and block opponents. 
+- [Zero 21](../games/card/zero-21.md) — Zero 21 challenges you to keep your total between 0 and 21 in a card game where each choice is pivotal. Balancing strate
+- [Zero21](../games/card/zero21.md) — Zero21 is a challenging game with a simple rule: Try to stay between 0 and 21. It's not easy! Zero21 Solitaire is a fun 
+- [Zombie Memory Card for Kids](../games/card/zombie-memory-card-for-kids.md) — Zombie Memory Card for Kids offers a thrilling challenge for young minds. Flip through spooky cards, match pairs quickly
+- [Zoo Hunt - Memory](../games/card/zoo-hunt-memory.md) — Click on a card to reveal an image. Memorize the location of the card so that you can match it to a similar looking card

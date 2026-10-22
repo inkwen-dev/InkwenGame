@@ -1,0 +1,24 @@
+# Little Lovely Dentist - Fun & Educational
+
+<a href="https://inkwengame.com/games/little-lovely-dentist-fun-educational" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/little-lovely-dentist-fun-educational/cover.jpg)
+
+Lots of people want to be great dentists. Is that your dream? Now you get a chance to treat those poor patients at the clinic in this dentist game! Patients…
+
+## How to play
+
+Tap or click
+
+## About
+
+Lots of people want to be great dentists. Is that your dream? Now you get a chance to treat those poor patients at the clinic in this dentist game! Patients are lining up outside. Let's start to check patients' teeth/tooth problems. They suffer from kinds of teeth problems such as bad teeth, tooth decay, dental calculus, and more.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Baby, Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

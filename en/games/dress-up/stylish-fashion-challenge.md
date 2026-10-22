@@ -1,0 +1,24 @@
+# Stylish Fashion Challenge
+
+<a href="https://inkwengame.com/games/stylish-fashion-challenge" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/stylish-fashion-challenge/cover.jpg)
+
+Welcome to the Stylish Fashion Challenge. A stylish Fashionista plans to show her fashion skill to her opponent. Join and play as a fashion designer for her.…
+
+## How to play
+
+Left Mouse Button Click
+
+## About
+
+Welcome to the Stylish Fashion Challenge. A stylish Fashionista plans to show her fashion skill to her opponent. Join and play as a fashion designer for her. Help her to pick a nice costume for each event and compare her costumes with other players. Browse her wardrobe and pick outfits and costumes which is suitable for the events. Play and have fun!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Dress Up, Fashion, Girls

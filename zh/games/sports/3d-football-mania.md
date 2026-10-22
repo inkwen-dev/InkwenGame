@@ -1,0 +1,24 @@
+# 3D足球狂热
+
+<a href="https://inkwengame.com/zh/games/3d-football-mania" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/3d-football-mania/cover.jpg)
+
+《3D足球狂热》是一款趣味十足、节奏明快的足球游戏！进球得分、铲球过人，尽享精彩比赛。操作简单易上手，无论是快速切磋还是友谊赛，都是绝佳选择。
+
+## 怎么玩
+
+在两分钟倒计时结束前，进球数要比对手多。使用方向键移动，V 键传球，空格键射门，Shift 键冲刺/铲球，F 键切换到离球最近的队友。在移动设备上，使用摇杆和传球、射门、冲刺和切换按钮。
+
+## 介绍
+
+《3D足球狂热》是一款趣味十足、节奏明快的足球游戏！进球得分、铲球过人，尽享精彩比赛。操作简单易上手，无论是快速切磋还是友谊赛，都是绝佳选择。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/sports" target="_blank" rel="noopener noreferrer">体育</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en
+- 开发者: Playgama
+- 标签: 3D, 街机, 足球, 运动

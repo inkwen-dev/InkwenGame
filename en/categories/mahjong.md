@@ -1,0 +1,313 @@
+# Mahjong
+
+Solo mahjong matching on InkwenGame: clear open tiles in pairs on solitaire boards. Free browser mahjong for one player—not four-player table play—and no download.
+
+- <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
+
+## Games
+
+- [2048 extended](../games/mahjong/2048-extended.md) — 2048 is a beautiful and addictive sliding block numbers puzzle game. Merg numbers, create 2048 tile, win the game, and m
+- [3D Chess - Arcane Edition](../games/mahjong/3d-chess-arcane-edition.md) — Step into a mystical enchanted garden and play chess like never before.
+- [Advent Mahjong](../games/mahjong/advent-mahjong.md) — Advent Mahjong is a connect Mahjong in Cristmas setting. By passing a level you get one day closer to Cristmas and the c
+- [Advent Mahjong](../games/mahjong/advent-mahjong-2.md) — Immerse yourself in the joyous spirit of Advent Mahjong, a Christmas-themed puzzle adventure. Navigate through intricate
+- [Alien Mahjong](../games/mahjong/alien-mahjong.md) — Try to remove all the tiles in those 3 levels by matching at least 2 of the same tiles at once. Use the bomb mode when n
+- [Alien Mahjong](../games/mahjong/alien-mahjong-2.md) — Enter the quirky realm of Alien Mahjong, where you must match identical tiles amidst evolving challenges. When tradition
+- [Alphabet Mahjong](../games/mahjong/alphabet-mahjong.md) — Dive into a relaxing and brain-boosting puzzle adventure with Alphabet Mahjong! Match colorful alphabet tiles, sharpen y
+- [Amelies Mahjong](../games/mahjong/amelies-mahjong.md) — Endless random generated Mahjong Solitaire game.
+- [Among Float Connect](../games/mahjong/among-float-connect.md) — Connect 2 same among items with a path that no more than two 90 degree angles. Clear the board by removing all pairs of 
+- [Among Mahjong Tiles](../games/mahjong/among-mahjong-tiles.md) — Among Mahjong Tiles is the classic tile-matching game with among theme. Match the pairs of the same tiles to clear them.
+- [Among Us Impostor Mahjong Connect](../games/mahjong/among-us-impostor-mahjong-connect.md) — Connect all the among us impostor mahjong tiles and clear the board in this html5 mahjong connection games. You can only
+- [Among Us Mahjong](../games/mahjong/among-us-mahjong.md) — We offer you to enjoy the puzzle game about Among As. This is an ancient Chinese mahjong game in the style of your favor
+- [Among Us Mahjong Game](../games/mahjong/among-us-mahjong-game.md) — We offer you to enjoy the puzzle game about Among As. This is an ancient Chinese mahjong game in the style of your favor
+- [Animal Connection](../games/mahjong/animal-connection.md) — This game is a mahjong match game. Mahjong match games allow you to connect and remove tiles which: directly touch. touc
+- [Animal Kingdom Mahjong](../games/mahjong/animal-kingdom-mahjong.md) — Match identical animal-themed tiles in Animal Kingdom Mahjong! Clear the board by finding pairs and enjoy a relaxing til
+- [Animals Mahjong](../games/mahjong/animals-mahjong.md) — Simplified classic Mahjong game with animals. You can eliminate pair of similar items. You can select only those pairs w
+- [Animals Mahjong Connection](../games/mahjong/animals-mahjong-connection.md) — Connect all the animals mahjong tiles and clear the board in this html5 mahjong connection games. What's the max level c
+- [Animals Mahjong Connects](../games/mahjong/animals-mahjong-connects.md) — Connect all the animals mahjong tiles and clear the board in this html5 animals puzzle games.
+- [Aqua Link](../games/mahjong/aqua-link.md) — Aqua Link is a fun to play block connect game. You need to connect two identical blocks. The Connecting Line between two
+- [Autumn Cottage Connect](../games/mahjong/autumn-cottage-connect.md) — Autumn Cottage Connect is a cozy tile-connecting puzzle game filled with the warmth and charm of autumn. Match colorful 
+- [Beach Connect Mahjong](../games/mahjong/beach-connect-mahjong.md) — This is a Mahjong linking game. You must match two identical blocks. Connecting Line between two matching blocks can hav
+- [Birds Connect Deluxe](../games/mahjong/birds-connect-deluxe.md) — Bird Connect Deluxe is a classic puzzle game. In this you need to eliminate all the tiles appearing on the board. You ca
+- [Birds Mahjong Deluxe](../games/mahjong/birds-mahjong-deluxe.md) — Simplified classic Mahjong game with birds theme. You can eliminate pair of similar items. You can select only those pai
+- [Black Friday Mahjong](../games/mahjong/black-friday-mahjong.md) — Black Friday shopping is fun! To buy things you need to match tiles with the same image on them. Unlike regular mahjong 
+- [Black Friday Mahjong](../games/mahjong/black-friday-mahjong-2.md) — Experience a unique fusion of Black Friday chaos and the tranquil strategy of Mahjong. Match shopping-themed tiles in a 
+- [Blossom Link](../games/mahjong/blossom-link.md) — Blossom Link is a captivating flower-themed puzzle game where you match and connect flower tiles. Simply tap a tile, the
+- [Cafe 3 in a Row](../games/mahjong/cafe-3-in-a-row.md) — Tile your way through a culinary-themed puzzle adventure, where organizing vibrant cafe-inspired tiles grants a satisfyi
+- [Cake Link Master](../games/mahjong/cake-link-master.md) — Cake Link Master is a fun puzzle game where you tap two matching cakes to connect them with a line. The line can turn up
+- [Cakes Mahjong Connect](../games/mahjong/cakes-mahjong-connect.md) — This is a Mahjong linking game. You must match two identical blocks. Connecting Line between two matching blocks can hav
+- [Candy Links](../games/mahjong/candy-links.md) — This is a Mahjong linking game. You must match two identical blocks. Connecting Line between two matching blocks can hav
+- [Candy Mahjong](../games/mahjong/candy-mahjong.md) — Simplified classic Mahjong game with Candy theme. You can eliminate pair of similar items. You can select only those pai
+- [Candy Mahjong 3D](../games/mahjong/candy-mahjong-3d.md) — Candy Mahjong 3D is a colorful 3D puzzle experience where you match two identical candy tiles to clear them from the boa
+- [Candy Mahjong Tiles](../games/mahjong/candy-mahjong-tiles.md) — Candy Mahjong Tiles is tiles based pair matching game. Collect the pairs of identical tiles by clicking or tapping them.
+- [Captain Hangman](../games/mahjong/captain-hangman.md) — Welcome on the ship of the Captain Hangman, the great pirate. Accept his challenge and find as many words you can. Victo
+- [Car Logo Mahjong Connection](../games/mahjong/car-logo-mahjong-connection.md) — Connect all the car logo mahjong tiles and clear the board in this html5 mahjong connection games. You can only connect 
+- [Cards Connect](../games/mahjong/cards-connect.md) — 12 Levels await us where we have to match pairs to remove them from the grid. With each match we get more time added.
+- [Cartoon Mahjong](../games/mahjong/cartoon-mahjong.md) — Relax, Match, and Train Your Mind Every Day! Welcome to Cartoon Mahjong, the perfect blend of relaxation and brain train
+- [Cat Pixel Mahjong](../games/mahjong/cat-pixel-mahjong.md) — Pixel Cat Mahjong is an enigmatic mahjong game. However, instead of the usual tiles with hieroglyphics, very funny and c
+- [Catch The Snowflake](../games/mahjong/catch-the-snowflake.md) — In Catch The Snowflake, be prepared to test your attention! Snowflakes and Christmas trees decorate the tiles in this ga
+- [Cats Mahjong](../games/mahjong/cats-mahjong.md) — Tap 2 similar cats with 2 open sides. Eliminate all the tiles to win a level.
+- [Christmas 2019 Mahjong Connect](../games/mahjong/christmas-2019-mahjong-connect.md) — Connect all the christmas mahjong pieces and clear the board in this html5 christmas puzzle games.
+- [Christmas 2020 Mahjong Deluxe](../games/mahjong/christmas-2020-mahjong-deluxe.md) — Match 2 of the same christmas mahjong tiles to remove them from the board. You only can use free tiles. A free tile is n
+- [Christmas Connect Deluxe](../games/mahjong/christmas-connect-deluxe.md) — This is a classic puzzle game, inspired by popular Chinese Block removal game, Mahjong. In this you need to eliminate al
+- [Christmas Float Connect](../games/mahjong/christmas-float-connect.md) — Connect 2 same christmas items with a path that no more than two 90 degree angles. Clear the board by removing all pairs
+- [Christmas Mahjong](../games/mahjong/christmas-mahjong.md) — Simplified classic Mahjong game with Xmas theme. You can eliminate pair of similar items. You can select only those pair
+- [Christmas Mahjong 2019](../games/mahjong/christmas-mahjong-2019.md) — Combine 2 of the same christmas mahjong tiles to remove them from the board. You only can use free tiles. A free tile is
+- [Christmas Mahjong Connection 2020](../games/mahjong/christmas-mahjong-connection-2020.md) — Connect all the christmas mahjong tiles and clear the board in this html5 mahjong connection games. You can only connect
+- [Christmas Onet Connect](../games/mahjong/christmas-onet-connect.md) — Christmas Onet Connect is a fun and relaxing cute mahjong connect game. Your task is to find pairs and remove all tiles 
+- [Classic Mahjong Deluxe](../games/mahjong/classic-mahjong-deluxe.md) — Match 2 of the same mahjong tiles to remove them from the board. You only can use free tiles. A free tile is not covered
+- [Cold Drink Mahjong Connection](../games/mahjong/cold-drink-mahjong-connection.md) — Connect all the cold drink mahjong tiles and clear the board in this html5 mahjong connection games. You can only connec
+- [Connect 2 Cars](../games/mahjong/connect-2-cars.md) — Connect 2 Cars is the ultimate puzzle game designed to entertain kids and adults alike! Whether you&rsquo;re a puzzle en
+- [Connect Joy](../games/mahjong/connect-joy.md) — Welcome to Connect Joy, the exciting Onet puzzle game! Sharpen your mind by connecting 2 identical elements on the board
+- [Critter Mahjong Solitaire](../games/mahjong/critter-mahjong-solitaire.md) — Critter Mahjong Solitaire is a fun and relaxing game where you match cute animal tiles. Join a group of happy jungle ani
+- [Cute Tiles Mahjong](../games/mahjong/cute-tiles-mahjong.md) — Welcome to Cute Tiles Mahjong &mdash; a charming and relaxing puzzle adventure filled with colorful tiles, adorable char
+- [Delicious Food Connection](../games/mahjong/delicious-food-connection.md) — Connect all the delicious food tiles and clear the board in this html5 connection games. What's the max level can you pl
+- [Delicious Food Mahjong Connects](../games/mahjong/delicious-food-mahjong-connects.md) — Connect all the delicious food mahjong tiles and clear the board in this html5 mahjong games. What's the max level can y
+- [Demonic Mahjong](../games/mahjong/demonic-mahjong.md) — Demonic Mahjong is a simple yet thrilling mahjong game with a dark, demonic theme. Match tiles to clear the board and pr
+- [Dominos Pirates](../games/mahjong/dominos-pirates.md) — Hoist ho boys ! Play this fun Dominoes game in the caribbean, where pirates quest for the pearl treasure. It's a great o
+- [Easter Link](../games/mahjong/easter-link.md) — This is a Mahjong linking game. You must match two identical blocks. Connecting Line between two matching blocks can hav
+- [Easter Mahjong Connection](../games/mahjong/easter-mahjong-connection.md) — Connect all the easter mahjong tiles and clear the board in this html5 mahjong connection games. You can only connect 2 
+- [Easter Mahjong Deluxe](../games/mahjong/easter-mahjong-deluxe.md) — Tap 2 similar egg blocks with 2 open sides. Eliminate all the tiles to win a level.
+- [Easter Triple Mahjong](../games/mahjong/easter-triple-mahjong.md) — A triple mahjong game with Easter theme. You can eliminate only three of same tiles. Those tiles can be selected which h
+- [Emerland Solitaire](../games/mahjong/emerland-solitaire-2.md) — Welcome to the wonderful country of Emerland! Dive deep into the world of magical tale where great mages battle for the 
+- [Emoji Connect](../games/mahjong/emoji-connect.md) — Do you love puzzle linking games? Well this is an amazing puzzle game where you have to match 2 identical Emoji crazy Ti
+- [Emoji link : the smile game](../games/mahjong/emoji-link-the-smile-game.md) — If you love emoji and like games, this super fun emoji game is for you ! The goal of the game is super simple : you just
+- [Enchanted Mahjong Saga](../games/mahjong/enchanted-mahjong-saga.md) — Enchanted Mahjong Saga is a fast-paced twist on the classic tile-matching game, with unlimited levels to challenge your 
+- [Fantasy Fish World Mahjong](../games/mahjong/fantasy-fish-world-mahjong.md) — Fantasy Fish World Mahjong is a delightful Mahjong Solitaire puzzle game immersed in a vibrant underwater fantasy realm.
+- [Farm Fruits Link](../games/mahjong/farm-fruits-link.md) — Welcome to Farm fruits link puzzle game. be quick and tap on two identical pairs of fruits and continue to clear the boa
+- [Farm Onet](../games/mahjong/farm-onet.md) — Welcome to Farm Onet puzzle connect game. Explore tons of amazing levels with some cool fruits and veggies graphics. Mat
+- [Farm Tiles Harvest](../games/mahjong/farm-tiles-harvest.md) — Experience top-rated farm-themed tile matching in Farm Tile Harvest! Draw up to 9 tiles featuring fruits, veggies, and t
+- [Farting Joey Flying Bird](../games/mahjong/farting-joey-flying-bird.md) — Here is a funny boy farting in a funny style and save himself from knives, be careful don't stop the fart because these 
+- [Feed the Parrot](../games/mahjong/feed-the-parrot.md) — Embark on a relaxing adventure with a delightful parrot as you solve vibrant fruit-tiled puzzles. Match identical fruits
+- [Fish Connections](../games/mahjong/fish-connections.md) — This is a classic puzzle game, inspired by popular Mahjong block removal game. In this, you need to eliminate all the ti
+- [Fish Mahjong](../games/mahjong/fish-mahjong.md) — Simplified classic Mahjong game with Ocean and Fish theme. You can eliminate pair of similar items. You can select only 
+- [FLAG CONNECT](../games/mahjong/flag-connect.md) — In this you need to eliminate all the tiles appearing on the board. You can connect identical tiles to each other to eli
+- [Food Connect](../games/mahjong/food-connect.md) — You can test your pattern detection skills in this relaxed mahjong &amp; connect puzzle game with sweet food theme. You 
+- [Fresh Fruit Mahjong Connection](../games/mahjong/fresh-fruit-mahjong-connection.md) — Connect all the fresh fruit mahjong tiles and clear the board in this html5 mahjong connection games. What's the max lev
+- [Fruit Mahjong](../games/mahjong/fruit-mahjong.md) — Fruit Mahjong is mahjong solitaire with a twist you can see from every angle. Juicy fruit tiles are stacked into layered
+- [Fruitlinker](../games/mahjong/fruitlinker.md) — This is a Mahjong linking game. You must match two identical blocks. Connecting Line between two matching blocks can hav
+- [Fruits Float Connect](../games/mahjong/fruits-float-connect.md) — Connect 2 same fruit with a path that no more than two 90 degree angles. Clear the board by removing all pairs of identi
+- [Fruits Mahjong](../games/mahjong/fruits-mahjong.md) — Simplified classic Mahjong game with Fruits theme. You can eliminate pair of similar items. You can select only those pa
+- [GEM MAHJONG](../games/mahjong/gem-mahjong.md) — GEM MAHJONG is a relaxing tile-matching puzzle with a sparkling twist. Tap any two free tiles that show the same gem to 
+- [Girls Sandals Mahjong](../games/mahjong/girls-sandals-mahjong.md) — Simplified classic Mahjong game with Sandals theme. You can eliminate pair of similar items. You can select only those p
+- [Halloween Cakes Mahjong](../games/mahjong/halloween-cakes-mahjong.md) — Simplified classic Mahjong game with Halloween theme. You can eliminate pair of similar items. You can select only those
+- [Halloween Connect Puzzle](../games/mahjong/halloween-connect-puzzle.md) — Are you ready for halloween? Welcome to Halloween Connect Puzzle Game. Click and match 2 identical halloween items to el
+- [Halloween Mahjong](../games/mahjong/halloween-mahjong.md) — Connect the all halloween mahjong tiles and clear the board in this html5 mahjong games. What's the max level can you pl
+- [Halloween Mahjong Connection](../games/mahjong/halloween-mahjong-connection.md) — Connect all the halloween mahjong tiles and clear the board in this html5 mahjong connection games. You can only connect
+- [Halloween Mahjong Deluxe](../games/mahjong/halloween-mahjong-deluxe.md) — A mahjong game with Halloween theme. You can eliminate only two of same tiles. Those tiles can be selected which have at
+- [Halloween Mahjong Deluxe 2020](../games/mahjong/halloween-mahjong-deluxe-2020.md) — Match 2 of the same halloween mahjong tiles to remove them from the board. You only can use free tiles. A free tile is n
+- [Halloween Mahjong Tiles](../games/mahjong/halloween-mahjong-tiles.md) — Halloween Mahjong Tiles is the classic tile-matching game with halloween theme. Match the pairs of the same tiles to cle
+- [Halloween Mahjongs 2019](../games/mahjong/halloween-mahjongs-2019.md) — Combine 2 of the same halloween mahjong tiles to remove them from the board. You only can use free tiles. A free tile is
+- [Hamster Pop](../games/mahjong/hamster-pop.md) — Exercise your brain and clear the levels of cute hamsters by moving them onto the bottom of the screen. There is limited
+- [Happy Easter Links](../games/mahjong/happy-easter-links.md) — Connect 2 same easter items with a path that no more than two 90 degree angles. Clear the board by removing all pairs of
+- [Happy Farm : The crop](../games/mahjong/happy-farm-the-crop.md) — In this beautiful game, you have to collect the fruits and vegetables from your vegetable garden. It's easy to pick them
+- [Happy Farm : Tiles Match](../games/mahjong/happy-farm-tiles-match.md) — Test your skills by matching and linking the same kind images and work your way up to victory! Try to remove all the ico
+- [Happy Food Link](../games/mahjong/happy-food-link.md) — Happy Food Link is a fun Mahjong Connect game where you match tasty food tiles and connect pairs with paths using up to 
+- [Happy Fruit Link](../games/mahjong/happy-fruit-link.md) — Enjoy a fun and relaxing puzzle adventure in Happy Fruit Link! Match two identical fruit tiles and connect them with a l
+- [Hats Mahjong Connect](../games/mahjong/hats-mahjong-connect.md) — Hats Mahjong Connect is a fun to play block connect game. You need to connect two identical hats. The Connecting Line be
+- [HEX Connect](../games/mahjong/hex-connect.md) — HEX Connect is a captivating hexagonal Mahjong Connect puzzle game where players strategically link pairs of identical c
+- [Hidden Pairs Mahjong](../games/mahjong/hidden-pairs-mahjong.md) — Match and clear all the tile in this Hidden Pairs Mahjong solitaire game. Use your observation skills to find and select
+- [Hiking Mahjong](../games/mahjong/hiking-mahjong.md) — Tap 2 similar items with 2 open sides. Eliminate all the tiles to win a level.
+- [Insects Mahjong Deluxe](../games/mahjong/insects-mahjong-deluxe.md) — Simplified classic Mahjong game with Insects theme. You can eliminate pair of similar insects. You can select only those
+- [John Wick 4 Game](../games/mahjong/john-wick-4-game.md) — Dodge the bullet, shoot and kill them all in this epic killing shooter game! Forget all other action games and get ready
+- [JuicyJong](../games/mahjong/juicyjong.md) — Play JuicyJong, the ultimate color puzzle game! A fresh twist on Mahjong that challenges your mind with every move. Test
+- [Jungle Mahjong](../games/mahjong/jungle-mahjong.md) — Jungle Mahjong is tiles based pair matching game. Collect the pairs of identical tiles by clicking or tapping them. You 
+- [Jungle Mahjong Deluxe](../games/mahjong/jungle-mahjong-deluxe.md) — Jungle themed game based on the popular classic Chinese game. To play remove paired free blocks. The block is considered
+- [Just Mahjong](../games/mahjong/just-mahjong.md) — Experience serene simplicity in "Just Mahjong." Focus solely on classic mahjong solitaire across hundreds of thoughtfull
+- [Kids Mahjong Connect](../games/mahjong/kids-mahjong-connect.md) — An easy mahjong connect game build for kids with cute emojis.
+- [King of Mahjong: Connecting Tiles](../games/mahjong/king-of-mahjong-connecting-tiles.md) — "King of Mahjong: Connecting Tiles" - an exciting, colorful, and straightforward puzzle game in the Mahjong genre, where
+- [Kitchen Mahjong](../games/mahjong/kitchen-mahjong.md) — Simplified classic Mahjong game with Girls theme. You can eliminate pair of similar items. You can select only those pai
+- [Kris Mahjong Animals](../games/mahjong/kris-mahjong-animals.md) — In Kris Mahjong Animals, be prepared to test your attention! Cats and Lions and other cute animals decorate the tiles in
+- [Kris Mahjong Animals](../games/mahjong/kris-mahjong-animals-2.md) — Kris Mahjong Animals combines heartwarming animal tiles with fast-paced mahjong challenges. Sharpen your observation ski
+- [Link 2 balls](../games/mahjong/link-2-balls.md) — Do you like Onet puzzle Games? Well! Link 2 Ball is an amazing onet linking puzzle game with balls graphics. Tap to conn
+- [Magic mahjong](../games/mahjong/magic-mahjong.md) — Dive into the world of &ldquo;Magic Mahjong,&rdquo; where classic mechanics meet the mystique of runes. Each level bring
+- [Magic Mahjong](../games/mahjong/magic-mahjong-2.md) — Immerse yourself in Magic Mahjong, merging traditional gameplay with enchanting runes. Strategically match open runes fr
+- [Magic Solitaire](../games/mahjong/magic-solitaire.md) — Welcome to the amazing magical world of solitaire! Here you can make yourself at home, playing layouts on a tavern table
+- [Mahjong](../games/mahjong/mahjong.md) — An addictive game to train your eyes and brain. Match the pairs of the same tiles to clear them. You need to clear all t
+- [Mahjong 3D](../games/mahjong/mahjong-3d.md) — Welcome to Mahjong 3D! Enjoy the ancient board game classic now in it's most immersive experience! Turn the objects arou
+- [Mahjong 3D Match](../games/mahjong/mahjong-3d-match.md) — Welcome to the 3D Mahjong adventure! Challenge your mind with speed and precision. Plan your moves, view the board from 
+- [Mahjong Adventure Puzzle](../games/mahjong/mahjong-adventure-puzzle.md) — Mahjong Tile Match is a fun and relaxing puzzle game inspired by the classic Mahjong tile-matching experience. Find and 
+- [Mahjong African Dream](../games/mahjong/mahjong-african-dream.md) — Mahjong African Dream is a classic mahjong game with exotic flavor. Play one of 16 boards that symbolize black continent
+- [Mahjong Alchemy](../games/mahjong/mahjong-alchemy.md) — Collect the same cards by simply selecting them on the screen! Train your memory and improve your attentiveness to find 
+- [Mahjong Around The World Africa](../games/mahjong/mahjong-around-the-world-africa.md) — Our mahjong journey will start on the African continent. Find all mahjong pairs to clear the game field and set free all
+- [Mahjong Around The World Africa](../games/mahjong/mahjong-around-the-world-africa-2.md) — Venture through the African tropics in Mahjong Around The World Africa, a thrilling twist on a classic board game. Match
+- [Mahjong at Home - Scandinavian Edition](../games/mahjong/mahjong-at-home-scandinavian-edition.md) — Immerse yourself in the tranquil beauty of snow-covered Nordic landscapes with Mahjong at Home - Scandinavian Edition. E
+- [Mahjong At Home - Xmas Edition](../games/mahjong/mahjong-at-home-xmas-edition.md) — Celebrate the festive spirit with Mahjong At Home - Xmas Edition! Delight in holiday-themed tiles as you match pairs and
+- [Mahjong Battles Egypt](../games/mahjong/mahjong-battles-egypt.md) — This is a classic mahjong with turn based, 2 player mode and Egyptian theme. When your turn comes, You can draw a pair o
+- [Mahjong Big](../games/mahjong/mahjong-big.md) — Are you ok to play "Mahjong Big", the best and coolest Mahjong solitaire game ever ? With over 4 000 levels and fun grap
+- [Mahjong Big](../games/mahjong/mahjong-big-2.md) — Dive into the world of Mahjong Big, where observation and strategy combine. Navigate through intricate tile formations u
+- [Mahjong Bird Tiles](../games/mahjong/mahjong-bird-tiles.md) — Mahjong Bird Tiles is a relaxing Mahjong solitaire game where your objective is to clear every layered board by matching
+- [Mahjong Butterflies Deluxe](../games/mahjong/mahjong-butterflies-deluxe.md) — Dive into Mahjong Butterflies Deluxe, where vibrant visuals and over 160 unique tiles await. Match tiles, collect butter
+- [Mahjong Candy](../games/mahjong/mahjong-candy.md) — An addictive game to train your eyes and brain. Match the pairs of the same candies to clear them. You need to clear all
+- [Mahjong Chains](../games/mahjong/mahjong-chains.md) — Mahjong Chains is a classic connect game. Find identical mahjong stones to connect them and remove them from the board. 
+- [Mahjong Chef](../games/mahjong/mahjong-chef.md) — A tile-matching puzzle game inspired by Mahjong Solitaire. Tap two free tiles of the same type to clear them from the bo
+- [Mahjong Classic](../games/mahjong/mahjong-classic.md) — "Mahjong Classic" is a classic mahjong solitaire with a unique algorithm for generating levels - a random layout of chip
+- [Mahjong Connect](../games/mahjong/mahjong-connect.md) — In MAHJONG CONNECT game, your goal is to find all matching pairs. It's a kind of matching game or connect game ("linker"
+- [Mahjong Connect](../games/mahjong/mahjong-connect-2.md) — Mahjong Connect revitalizes the classic tile game with a fresh digital twist that emphasizes speed and accessibility. St
+- [Mahjong Connect-3](../games/mahjong/mahjong-connect-3.md) — Mahjong Connect is a challenging mobile puzzle game that will keep you captivated for hours. There are many levels for p
+- [Mahjong Connect Classic](../games/mahjong/mahjong-connect-classic.md) — Mahjong Connect Classic is a traditional tile-matching puzzle game. Simply connect pairs via a connecting line that can 
+- [Mahjong Connect Deluxe](../games/mahjong/mahjong-connect-deluxe.md) — This is a classic puzzle game, inspired by popular Chinese tile removal game, Mahjong. In this you need to eliminate all
+- [Mahjong Connect Fish World](../games/mahjong/mahjong-connect-fish-world.md) — Mahjong Connect Fish World is an innovative matching puzzle game that combines an ocean world theme with classic mahjong
+- [Mahjong connect : majong classic](../games/mahjong/mahjong-connect-majong-classic.md) — In MAHJONG CONNECT game, your goal is to find all matching pairs. It's a kind of matching game or connect game ("linker"
+- [Mahjong connect : majong classic (Onet game)](../games/mahjong/mahjong-connect-majong-classic-onet-game.md) — In MAHJONG CONNECT game, your goal is to find all matching pairs. It's a kind of matching game or connect game ("linker"
+- [Mahjong Connect: Spooky](../games/mahjong/mahjong-connect-spooky.md) — Click a tile to select it. Click another tile to make a move. A move can only be made if there are 2 or fewer bends in t
+- [Mahjong Connect Spooky](../games/mahjong/mahjong-connect-spooky-2.md) — Dive into the chilling fun of Mahjong Connect Spooky, where you strategically match spooky-themed tiles with limited pat
+- [Mahjong Crush Saga](../games/mahjong/mahjong-crush-saga.md) — An addictive game to train your eyes and brain. Match the pairs of the same tiles to clear them. You need to clear all t
+- [Mahjong Deluxe](../games/mahjong/mahjong-deluxe.md) — Mahjong Deluxe is a HTML5 mahjong game. Enjoy this stylish mahjong game with wooden tiles!!
+- [Mahjong Deluxe 2](../games/mahjong/mahjong-deluxe-2.md) — Rediscover a great classic with Mahjong Deluxe 2. Challenge your patience and your capacity of thinking in this puzzle g
+- [Mahjong Deluxe](../games/mahjong/mahjong-deluxe-3.md) — Dive into Mahjong Deluxe, where each game offers a fresh, unique puzzle experience. With limitless board layouts and var
+- [Mahjong Dogs](../games/mahjong/mahjong-dogs.md) — Simplified classic Mahjong game with cute dogs theme. You can eliminate pair of similar blocks. You can select only thos
+- [Mahjong Elimination Game](../games/mahjong/mahjong-elimination-game.md) — Mahjong Elimination Game is an interesting mahjong puzzle game. There are many kinds of mahjong in this game. Try to con
+- [Mahjong Farm](../games/mahjong/mahjong-farm.md) — Experience the serene charm of Mahjong Farm, where strategic tile matching meets farmyard fun. Race against time in each
+- [Mahjong FireFly](../games/mahjong/mahjong-firefly.md) — What do you know about Fireflies? Small, but strong: use the power of these tiny creatures to enlighten your path to vic
+- [Mahjong Fish World](../games/mahjong/mahjong-fish-world.md) — Mahjong Fish World is a challenging and fun underwater runner game. Players control a fish as they swim through a series
+- [Mahjong Fishing Combats](../games/mahjong/mahjong-fishing-combats.md) — This is a turn based mahjong game in which you play with an opponent. When your turn comes, you can draw a pair of simil
+- [Mahjong Flowers](../games/mahjong/mahjong-flowers.md) — Relax and improve your memory and ability at the same time with the worldwide favourite adaptation of the traditional ch
+- [Mahjong Flowers](../games/mahjong/mahjong-flowers-2.md) — Dive into Mahjong Flowers, where strategy blooms in vibrant tile-stacking puzzles. Match highlighted pieces from the edg
+- [Mahjong for Free](../games/mahjong/mahjong-for-free.md) — Immerse yourself in the timeless puzzle of Mahjong for Free, where strategic tile matching meets a serene, untimed exper
+- [Mahjong Fruit 3D](../games/mahjong/mahjong-fruit-3d.md) — Before you on the screen will be seen a three-dimensional image of cubes on the faces of which you will see various imag
+- [Mahjong Garden](../games/mahjong/mahjong-garden.md) — Discover Mahjong Garden, where strategic thinking takes center stage. Connect matching tiles to clear your path while so
+- [Mahjong Gold](../games/mahjong/mahjong-gold.md) — Find the same gold bars and select them one by one using the PC mouse. Hints, undo and shuffle are also available to you
+- [Mahjong Halloween](../games/mahjong/mahjong-halloween.md) — An addictive game to train your eyes and brain. Match the pairs of the same tiles to clear them. You need to clear all t
+- [Mahjong Jungle World](../games/mahjong/mahjong-jungle-world.md) — Simplified classic Mahjong game with Jungle theme. You can eliminate pair of similar items. You can select only those pa
+- [Mahjong Lines](../games/mahjong/mahjong-lines.md) — Mahjong Lines is an engaging logic puzzle game in the mahjong connect genre, where you need to find and connect pairs of
+- [Mahjong Link Puzzle](../games/mahjong/mahjong-link-puzzle.md) — Tired of boring, uninventive card games, mindless casino simulators and classic tripeaks solitaire? Meet our relaxing Ma
+- [Mahjong Linker : Kyodai game](../games/mahjong/mahjong-linker-kyodai-game.md) — In this Kyodai game, you must link Mahjong tiles with 3 lines maximum. This free game is a good mix of puzzle game and s
+- [Mahjong Magic Islands](../games/mahjong/mahjong-magic-islands.md) — Mahjong with history. Puzzle and adventure. Play and win! Connect tiles and collect prizes.
+- [Mahjong Magic Islands](../games/mahjong/mahjong-magic-islands-2.md) — The wonderful world of the Magic Islands is in desparate need of magic to help restore the waning natural beauty of thei
+- [Mahjong Mahjong](../games/mahjong/mahjong-mahjong.md) — Mahjong is a classic game which uses a set of tiles. The goal of this game, is to match identical tiles and remove them 
+- [Mahjong Mania!](../games/mahjong/mahjong-mania.md) — The ancient Chinese game in your pocket. Clear the boards full of beautiful tiles, piled in thoughtful pyramids. Hone yo
+- [Mahjong Mania](../games/mahjong/mahjong-mania-2.md) — Dive into Mahjong Mania, where captivating tile-matching challenges await! Conquer 150 dynamic levels across three diffi
+- [Mahjong Master 2](../games/mahjong/mahjong-master-2.md) — The classic solitaire game of matching Chinese tiles in your pocket, thanks to Inlogic. Carefully consider every move an
+- [Mahjong Master 2](../games/mahjong/mahjong-master-2-2.md) — Dive into the timeless challenge of Mahjong Master 2, where strategic tile-matching meets modern-day fun. Remove pairs o
+- [Mahjong Master Challenge](../games/mahjong/mahjong-master-challenge.md) — Ready to flip tiles, race the clock and sharpen your mind? MahjongMasterChallenge packs many handcrafted mahjong layouts
+- [mahjong master tile sort and match](../games/mahjong/mahjong-master-tile-sort-and-match.md) — Mahjong Master is a classic tile-matching puzzle game. Match identical mahjong tiles in pairs to clear the board across 
+- [Mahjong Match](../games/mahjong/mahjong-match.md) — Immerse yourself in our brain games, each level waiting for your mahjong match strategic touch. Your objective? Match th
+- [Mahjong Match](../games/mahjong/mahjong-match-2.md) — Relax, focus, and challenge your mind in Mahjong Match! This elegant tile-matching adventure transforms the classic mahj
+- [Mahjong Match Club](../games/mahjong/mahjong-match-club.md) — Choose two matching mahjongs and remove them. Following removal, a moveable green space will emerge. Mahjong pieces shou
+- [Mahjong My World](../games/mahjong/mahjong-my-world.md) — Embark on a world tour of the largest and most famous cities on the planet. The first stop is Paris and you should thoro
+- [Mahjong Ornaments](../games/mahjong/mahjong-ornaments.md) — Simplified classic Mahjong game with girls' ornaments theme. You can eliminate pair of similar items. You can select onl
+- [Mahjong Pair Up](../games/mahjong/mahjong-pair-up.md) — Dive into Mahjong Pair Up, where your objective is to clear the board by pairing identical tiles. Navigate thrilling puz
+- [Mahjong Pet Quest](../games/mahjong/mahjong-pet-quest.md) — Embark on a delightful journey with Mahjong Pet Quest, where charming animal-themed tiles create a playful twist on trad
+- [Mahjong Pirate Plunder Journey](../games/mahjong/mahjong-pirate-plunder-journey.md) — Play this fun Mahjong in the caribbean, where pirates quest for the pearl treasure. Your goal in this epic pirates majon
+- [Mahjong Pirate Plunder Quest](../games/mahjong/mahjong-pirate-plunder-quest.md) — Mahjong Pirate Plunder Quest is a tile-matching puzzle game based on classic Mahjong solitaire. Players remove pairs of 
+- [Mahjong Pretty Manga Girls](../games/mahjong/mahjong-pretty-manga-girls.md) — Play smartly to unlock the most pretty girls in the game MAHJONG PRETTY MANGA GIRLS. The game is super simple, you just 
+- [Mahjong Puzzle Game](../games/mahjong/mahjong-puzzle-game.md) — Mahjong Puzzle Game is a classic and relaxing tile-matching puzzle game designed for players who enjoy calm, thoughtful,
+- [Mahjong Puzzle: Tile Match](../games/mahjong/mahjong-puzzle-tile-match.md) — Mahjong Puzzle: Tile Match is a soothing yet brain-teasing tile-matching game where you clear the board by linking ident
+- [Mahjong Quest](../games/mahjong/mahjong-quest-2.md) — Embark on an immersive journey with Mahjong Quest, combining classic puzzle charm with strategic twists. Match tiles swi
+- [Mahjong - Quest of Japan Clans](../games/mahjong/mahjong-quest-of-japan-clans.md) — Embark on a serene journey through ancient Japan in Mahjong - Quest of Japan Clans. Experience a harmonious blend of cla
+- [Mahjong Resize](../games/mahjong/mahjong-resize.md) — You need to find and match tiles with the same pictures of animals. Unlike regular mahjong, the game has tiles of differ
+- [Mahjong Riddles Egypt](../games/mahjong/mahjong-riddles-egypt.md) — Embark on an Egyptian adventure, solving intriguing Mahjong puzzles to unearth hidden treasures. Test your speed and obs
+- [Mahjong Royal](../games/mahjong/mahjong-royal.md) — Embark on a mesmerizing journey with Mahjong Royal, a fusion of traditional Mahjong and solitaire. Strategically match t
+- [Mahjong Sakura Petals](../games/mahjong/mahjong-sakura-petals.md) — Immerse yourself in Mahjong Sakura Petals, where traditional mahjong meets the allure of Japanese culture. Solve captiva
+- [Mahjong Solitaire](../games/mahjong/mahjong-solitaire.md) — Mahjong Solitaire is one of the most popular board game int the world. Challenge and train your brain with this classic 
+- [Mahjong Solitaire - Butterfly Connect](../games/mahjong/mahjong-solitaire-butterfly-connect.md) — Unleash your concentration in Mahjong Solitaire - Butterfly Connect, where vibrant butterflies await your discovery. Con
+- [Mahjong Solitaire Crush Game](../games/mahjong/mahjong-solitaire-crush-game.md) — Mahjong Puzzle Game is a classic and relaxing tile-matching puzzle game designed for players who enjoy calm, thoughtful,
+- [Mahjong Solitaire Game](../games/mahjong/mahjong-solitaire-game.md) — Mahjong Solitaire Game is a classic tile-matching puzzle game that takes inspiration from traditional Mahjong games. It 
+- [Mahjong Solitaire Zodiac](../games/mahjong/mahjong-solitaire-zodiac.md) — Train your brain with Mahjong Solitaire Zodiac! Match mahjong tiles, solve relaxing puzzles, and enjoy classic gameplay 
+- [Mahjong Sort Puzzle](../games/mahjong/mahjong-sort-puzzle.md) — This is an addictive matching puzzle game. If you are a mahjong fan and love matching games, this game is for you. You n
+- [Mahjong Street Cafe](../games/mahjong/mahjong-street-cafe.md) — You have to find three identical tiles with food to destroy them. The tiles are placed on a special form where 7 tiles c
+- [Mahjong Street Cafe](../games/mahjong/mahjong-street-cafe-2.md) — Dive into Mahjong Street Cafe, where traditional tile-matching meets modern match-3 excitement. Set in a charming street
+- [Mahjong Sunset](../games/mahjong/mahjong-sunset.md) — Relaxed sunset atmosphere with your favorite board game. 16 boards to pick from.
+- [Mahjong Sweet Connection](../games/mahjong/mahjong-sweet-connection.md) — It is necessary to gradually remove two identical candies, while they should not be blocked. That is, they should have f
+- [Mahjong Sweet Connection](../games/mahjong/mahjong-sweet-connection-2.md) — Indulge in "Mahjong Sweet Connection," where matching sweet icons becomes a strategic adventure. Navigate puzzles with a
+- [Mahjong Sweet Connection Easter](../games/mahjong/mahjong-sweet-connection-easter.md) — Indulge in a sweet Easter treat with Mahjong-Sweet-Connection-Easter, a delightful match-3 & mahjong hybrid puzzle game!
+- [Mahjong Sweet Easter](../games/mahjong/mahjong-sweet-easter.md) — Easter eggs and candies, what could be better? Celebrate easter with our new game! Match as many tiles as you can before
+- [Mahjong Sweet Easter](../games/mahjong/mahjong-sweet-easter-2.md) — Experience the festive joy of matching vibrant Easter-themed tiles in Mahjong Sweet Easter. Battle the clock and tackle 
+- [Mahjong Tide](../games/mahjong/mahjong-tide.md) — Mahjong Solitaire with classic art behind every board. Match pairs of free, identical tiles to clear the table. Play the
+- [Mahjong Tiles](../games/mahjong/mahjong-tiles.md) — Play the real Mahjong puzzle game. Match up traditional Mahjong tiles until all of tiles are gone in this authentic Chin
+- [Mahjong Tiles Christmas](../games/mahjong/mahjong-tiles-christmas.md) — Mahjong Tiles Christmas is winter theme game. Collect the pairs of identical tiles by clicking or tapping them. You can 
+- [Mahjong Tiles Match](../games/mahjong/mahjong-tiles-match.md) — Mahjong Puzzle Game is a relaxing and challenging tile-matching game inspired by the classic Mahjong experience. Match i
+- [Mahjong Tiles Matching](../games/mahjong/mahjong-tiles-matching.md) — Dive into Mahjong Tiles Matching, where traditional mahjong meets Match-3 puzzle fun. Strategically swap to align three 
+- [Mahjong Tiles Quest](../games/mahjong/mahjong-tiles-quest.md) — Mahjong Tiles Quest is a free mahjong matching game. This premium quality game is your perfect match for playing some re
+- [Mahjong Tower](../games/mahjong/mahjong-tower.md) — Step into the ancient world of Mahjong Tower, where engaging strategy meets intricate puzzle design. Unravel the secrets
+- [Mahjong Tower HD](../games/mahjong/mahjong-tower-hd.md) — Eliminating all identical tiles in turn is a common rule of the game. Mahjong Towers gives a richer connotation to this 
+- [Mahjong Tower: Puzzles](../games/mahjong/mahjong-tower-puzzles.md) — Mahjong Tower: Puzzles are a mix of "puzzle" and "three-in-a-row" genres in a mahjong setting. An exciting puzzle game f
+- [Mahjong Toy Chest](../games/mahjong/mahjong-toy-chest.md) — Race the clock and clean up your playroom by matching pairs of identical toys: little trains, balls, stuffed animals, bo
+- [Mahjong tralalero tralala](../games/mahjong/mahjong-tralalero-tralala.md) — Mahjong Tralalero Tralala &ndash; Match, Relax &amp; Enjoy the Fun! Dive into a joyful Mahjong experience like no other!
+- [Mahjong Triple 3D Tile Match](../games/mahjong/mahjong-triple-3d-tile-match.md) — Immerse yourself in a vibrant 3D puzzle adventure with Mahjong Triple 3D. Unwind as you match three identical tiles to c
+- [Mahjong Unlimited](../games/mahjong/mahjong-unlimited.md) — Mahjong Unlimited - fun classic oriental puzzle game with tiles and dragons! Let yourself relax in this mahjong game wit
+- [Mahjong with a friend](../games/mahjong/mahjong-with-a-friend.md) — Find identical boards and select them one by one with the help of the computer mouse. Tips from your friend are also ava
+- [Mahjongg Dimensions 3D](../games/mahjong/mahjongg-dimensions-3d.md) — Mahjongg Dimensions 3D literally adds a dimension of fun to your match-making experience. Play Mahjongg Dimensions 3D, m
+- [Mahjongg Solitaire](../games/mahjong/mahjongg-solitaire.md) — Relax and unwind with Mahjongg Solitaire! Match pairs of mahjongg tiles to clear the board and complete each level. With
+- [MahjongPeng](../games/mahjong/mahjongpeng.md) — MahjongPeng is a puzzle eliminating GamesPlayers can push mahjong to merge and eliminate themWhen players merge and elim
+- [Marine Mahjong](../games/mahjong/marine-mahjong.md) — If you love water and sea-ocean theme, then Marine Mahjong is for you! Match the tiles which have captain hats, ships, b
+- [Mario and Friends Connect](../games/mahjong/mario-and-friends-connect.md) — Do you like Mario games? Well! This is an amazing puzzle connect mario game where you have to link two identical mario f
+- [Match Master](../games/mahjong/match-master.md) — Get ready for a new, challenging and original matching pairs brain game. You need to match 3D objects on the ground and 
+- [Matching Tiles 3D](../games/mahjong/matching-tiles-3d.md) — Match, tap, and clear your way to victory in Matching Tiles 3D. Train your brain and sharpen your memory in this fun and
+- [Mothers Day Float Connect](../games/mahjong/mothers-day-float-connect.md) — Connect 2 same mothers day items with a path that no more than two 90 degree angles. Clear the board by removing all pai
+- [New Mahjong 2026](../games/mahjong/new-mahjong-2026.md) — A modern and captivating interpretation of the classic Eastern puzzle. Immerse yourself in an atmosphere of tranquility 
+- [Olimpian Mahjong](../games/mahjong/olimpian-mahjong.md) — Match identical sport tiles to remove them from the playing field. All mahjong tiles represent kinds of winter sports th
+- [Olympian Mahjong](../games/mahjong/olympian-mahjong.md) — Olympian Mahjong transforms tile-matching into a thrilling winter sports challenge. Set amidst the Olympic Games, match 
+- [ONet Halloween Links](../games/mahjong/onet-halloween-links.md) — Connect 2 same halloween items with a path that no more than two 90 degree angles. Clear the board by removing all pairs
+- [Onet Mahjong Connect](../games/mahjong/onet-mahjong-connect.md) — Onet Mahjong Connect is an easy and fun puzzle game where players match identical tiles. The goal is to connect two matc
+- [Onet Puzzle - Tile Match Game](../games/mahjong/onet-puzzle-tile-match-game.md) — Onet Puzzle is a tile-matching game to play and relax in the free time. It offers 20+ elaborate themes and music for muc
+- [Onet Winter Christmas Mahjong](../games/mahjong/onet-winter-christmas-mahjong.md) — Onet Winter Christmas Mahjong is a fun and relaxing cute mahjong connect game. Your task is to find pairs and remove all
+- [Paw Mahjong](../games/mahjong/paw-mahjong.md) — In Paw Mahjong you have to match the same animal icons and try to beat all the levels. Select a tile with an animal icon
+- [Paw Mahjong](../games/mahjong/paw-mahjong-2.md) — Dive into Paw Mahjong, a delightful animal-themed puzzle game. Match lively animal tiles for points, strategically elimi
+- [Pet Care Mahjong](../games/mahjong/pet-care-mahjong.md) — Simplified classic Mahjong game with Pet Care theme. You can eliminate pair of similar items. You can select only those 
+- [Petzoong](../games/mahjong/petzoong.md) — Petzoong is a fun arcade matching mahjong game. It a simple yet fun game to play featuring cute animals and background a
+- [Pirates Mahjong](../games/mahjong/pirates-mahjong.md) — Set sail with Pirates Mahjong, a deluxe tile-matching game packed with pirate-themed puzzles. Match pairs of tiles adorn
+- [Pirates Tiles Challenge](../games/mahjong/pirates-tiles-challenge.md) — Pirates Tiles Challenge is a delightful tile-matching puzzle game with a vibrant pirate adventure theme. The core gamepl
+- [Pixel Cat Mahjong](../games/mahjong/pixel-cat-mahjong.md) — Pixel Cat Mahjong combines delightful pixel art with a strategic twist. Match similar tiles using clear paths, strategic
+- [Pride Mahjong](../games/mahjong/pride-mahjong.md) — You have to find three identical tiles with food to destroy them. The tiles are placed on a special form where 7 tiles c
+- [Pride Mahjong](../games/mahjong/pride-mahjong-2.md) — Pride Mahjong ingeniously merges traditional mahjong with match-3 excitement. Engage in strategic tile matching with uni
+- [Resize Mahjong](../games/mahjong/resize-mahjong.md) — Uncover animal pairs in a mahjong twist where tile sizes and shapes vary. Strategically match identical animals, conside
+- [School Connect](../games/mahjong/school-connect.md) — Connect identical tiles to each other to eliminate both. Each connection can have no more than 2 turns.
+- [School Mahjong Deluxe](../games/mahjong/school-mahjong-deluxe.md) — Simplified classic Mahjong game with SCHOOL ITEMS theme. You can eliminate pair of similar items. You can select only th
+- [Sea Fish Onet](../games/mahjong/sea-fish-onet.md) — Welcome to the underwater connect puzzle game part2 called Sea fish Onet. be quick and tap on two identical pairs of und
+- [Sea Life Mahjong](../games/mahjong/sea-life-mahjong.md) — Classic Mahjong game with sea creatures and exciting levels. Eliminate identical tiles in pairs in order to collect all 
+- [Sea Monsters Mahjong](../games/mahjong/sea-monsters-mahjong.md) — Dive into Sea Monsters Mahjong, an underwater twist on the classic game. Match sea monster tiles strategically&mdash;rem
+- [Sheep Link Puzzle](../games/mahjong/sheep-link-puzzle.md) — Welcome to Sheep Link Puzzle Are you a fan of puzzle link and connect objects? Sheep Link puzzle is an amazing and funny
+- [Shisen-sho](../games/mahjong/shisen-sho.md) — Shisen-sho is a mahjong puzzle game to remove all mahjong tiles according to rules. It is a simple game but addictive!
+- [Shoes Connect](../games/mahjong/shoes-connect.md) — Who likes onet puzzle games? Welcome to Shoes Connect Puzzle. Tap or Click to connect 2 identical shoes items to Pop the
+- [Sigil Seeker](../games/mahjong/sigil-seeker.md) — Welcome to Sigil Seeker!\\\\nEmbark on a quest to collect mystical sigils by tapping tiles on the screen. Add tiles to y
+- [Skibidi Link](../games/mahjong/skibidi-link.md) — Do you like skibidi toilet games? Well! This is an amazing puzzle connect skibidi game where you have to link two identi
+- [Snack Mahjong](../games/mahjong/snack-mahjong.md) — You have to find a pair of identic images and clear the entire game field. If there are wooden boxes on the field you ca
+- [Snack Mahjong](../games/mahjong/snack-mahjong-2.md) — Dive into Snack Mahjong, where strategy meets speed through creative challenges. Match identical images while cleverly n
+- [Sorcerer Mahjong Marvels](../games/mahjong/sorcerer-mahjong-marvels.md) — Step into the Sorcerer Mahjong Marvels. Match mystical tiles adorned with enchanting artifacts. Collect only open tiles 
+- [Spartan Mahjong](../games/mahjong/spartan-mahjong.md) — Simplified classic Mahjong game with Spartan theme. You can eliminate pair of similar items. You can select only those p
+- [Spooky Links](../games/mahjong/spooky-links.md) — Spooky Link is a relaxing Halloween-themed game where you connect matching spooky tiles. Tap a tile, then tap its match.
+- [Sports Mahjong Connection](../games/mahjong/sports-mahjong-connection.md) — Connect all the sports mahjong tiles and clear the board in this html5 mahjong connection games. You can only connect 2 
+- [Squid Mahjong Connect](../games/mahjong/squid-mahjong-connect.md) — Connect all the squid mahjong tiles and clear the board in this html5 mahjong connection games. You can only connect 2 t
+- [Squid Mahjong Connect 2](../games/mahjong/squid-mahjong-connect-2.md) — Connect all the squid mahjong tiles and clear the board in this html5 mahjong connection games. You can only connect 2 t
+- [Stylish Purses Mahjong](../games/mahjong/stylish-purses-mahjong.md) — It is simple and interesting mahjong game. In this game, you can remove those identical tiles which have 2 adjacent side
+- [Sugar Blast: Snowy Pop](../games/mahjong/sugar-blast-snowy-pop.md) — Sugar Blast: Welcome to Snowy Pop! 🍫💥 Join 125 thrilling levels filled with colorful candies, plan your moves, and put
+- [Summer Connect](../games/mahjong/summer-connect.md) — You can test your pattern detection skills in this relaxed mahjong &amp; connect puzzle game with summer theme. You can 
+- [Summer Mahjong](../games/mahjong/summer-mahjong.md) — Tap 2 similar items with 2 open sides. Eliminate all the tiles to win a level.
+- [Sunny Link](../games/mahjong/sunny-link.md) — Sunny Link is an easy and fun game where players match tiles with summer icons. The goal is to connect two identical til
+- [Sweety Mahjong](../games/mahjong/sweety-mahjong.md) — Sweety Mahjong is a HTML5 mahjong game. Enjoy this coloroued mahjong game with sweety symbols!
+- [Sweety Mahjong](../games/mahjong/sweety-mahjong-2.md) — Indulge in a delightful twist on classic mahjong with Sweety Mahjong. Navigate through charming layouts adorned with swe
+- [The Great Mahjong](../games/mahjong/the-great-mahjong.md) — The Great Mahjong is an HTML5 online game with a pleasing design and many available layouts. Select a tile and find its 
+- [Tile Farm Story: Matching Game](../games/mahjong/tile-farm-story-matching-game.md) — Are you tired of your dull daily routine? Discover the magical world of the remote corners of the Earth where life is in
+- [Tile Master Match](../games/mahjong/tile-master-match.md) — Tile Master Match Game requires you to match 3 blocks of the same element, you will pass the level when all tiles are ma
+- [Tile Match](../games/mahjong/tile-match.md) — Welcome to Tile Match! Get ready for a fun and exciting game where you need to keep matching tiles before they reach the
+- [Tile Match Explorer](../games/mahjong/tile-match-explorer.md) — Tile Match Explorer is a blend of traditional tile match games and innovative puzzle mechanics, offering a fresh twist o
+- [Tile Matcher Triple Fun](../games/mahjong/tile-matcher-triple-fun.md) — Tile Matcher Triple Fun is a relaxing triple tile-matching puzzle game inspired by Mahjong Solitaire, where players tap 
+- [Tile Pair Jam: Mahjong Master](../games/mahjong/tile-pair-jam-mahjong-master.md) — Tile Pair Jam is a sliding mahjong puzzle. Shift tiles horizontally or vertically to create matching pairs. Plan each mo
+- [Tile Stack: Mahjong](../games/mahjong/tile-stack-mahjong.md) — Tile Stack Mahjong is a fun and challenging Mahjong puzzle game where strategy and careful planning are the keys to vict
+- [Tile Valley](../games/mahjong/tile-valley.md) — Tile Valley is an engaging and fun tile-matching puzzle game inspired by Mahjong. It’s designed to challenge your brain 
+- [Toys Mahjong Connect](../games/mahjong/toys-mahjong-connect.md) — Toys Mahjong Connect is a classic puzzle game, inspired by popular Chinese tile removal game, Mahjong. In this you need 
+- [Traditional Mahjong](../games/mahjong/traditional-mahjong.md) — Dive into the timeless challenge of Traditional Mahjong, where elegant designs meet strategic depth. Test your wits by p
+- [Travel Mahjong Deluxe](../games/mahjong/travel-mahjong-deluxe.md) — Travel Mahjong Deluxe is a relaxing tile-matching puzzle where you match identical tiles and strategically clear the boa
+- [Undead Mahjong](../games/mahjong/undead-mahjong.md) — Undead Mahjong is a thrilling Halloween-themed puzzle game where players match spooky tiles featuring ghosts, skeletons,
+- [Underwater Connect](../games/mahjong/underwater-connect.md) — Welcome to the underwater connect puzzle game. be quick and tap on two identical pairs of underwater creatures and conti
+- [Valentines Day Mahjong](../games/mahjong/valentines-day-mahjong.md) — Simplified classic Mahjong game with Valentines theme. You can eliminate pair of similar items. You can select only thos
+- [Valentines Love Link](../games/mahjong/valentines-love-link.md) — Welcome to Valentines Love Link! Connect matching Valentines items with straight lines, allowing up to two turns. Beat t
+- [Valentines Mahjong Deluxe](../games/mahjong/valentines-mahjong-deluxe.md) — Classic Mahjong game with valentine's day items and exciting levels. Eliminate identical tiles in pairs in order to coll
+- [Vegetables Mahjong Connection](../games/mahjong/vegetables-mahjong-connection.md) — Connect all the vegetables mahjong tiles and clear the board in this html5 mahjong connection games. You can only connec
+- [Virus Mahjong Connection](../games/mahjong/virus-mahjong-connection.md) — Connect all the virus mahjong tiles and clear the board in this html5 mahjong connection games. What's the max level can
+- [Winter Connect](../games/mahjong/winter-connect.md) — Winter connect is a fun to play tile connect game. You need to connect two identical tiles. The Connecting Line between 
+- [Winter Mahjong](../games/mahjong/winter-mahjong.md) — You can test your pattern detection skills in this relaxed mahjong &amp; connect puzzle game with winter christmas theme
+- [Winter Tiles](../games/mahjong/winter-tiles.md) — Enjoy Winter Tiles with a festive theme! Match and collect pairs of identical winter-themed tiles. Click or tap two tile
+- [Woodventure](../games/mahjong/woodventure.md) — Take a weekend trip through forest full of cute animals in this classic mahjong connect game. Mahjong connect games have
+- [Workshop Tools Link](../games/mahjong/workshop-tools-link.md) — Workshop Tools Link is a block connect game. You need to connect two blocks of identical tools. The Connecting Line betw
+- [Xmas Float Connect](../games/mahjong/xmas-float-connect.md) — Connect 2 same xmas items with a path that no more than two 90 degree angles. Clear the board by removing all pairs of i
+- [Xmas Mahjong](../games/mahjong/xmas-mahjong.md) — Connect the all christams tiles and clear the board in this html5 mahjong games. Whats the max level can you play? You c
+- [Xmas Mahjong Deluxe](../games/mahjong/xmas-mahjong-deluxe.md) — Match 2 of the same xmas mahjong tiles to remove them from the board. You only can use free tiles. A free tile is not co
+- [Xmas Mahjong Tiles](../games/mahjong/xmas-mahjong-tiles.md) — Xmas Mahjong Tiles is the classic tile-matching game with christmas theme. Match the pairs of the same tiles to clear th
+- [Xmas Presents Mahjong](../games/mahjong/xmas-presents-mahjong-2.md) — Immerse yourself in a festive Mahjong experience with Xmas Presents Mahjong. Strategically match tiles in increasingly c
+- [Xmas Triple Mahjong](../games/mahjong/xmas-triple-mahjong.md) — A triple mahjong game with Christmas theme. You can eliminate only three of same tiles. Those tiles can be selected whic
+- [Xmasjong](../games/mahjong/xmasjong.md) — Find a couple of identical tiles to remove them from the playing field. If you collect all the tiles underneath, you wil
+- [Yummy Food Mahjong](../games/mahjong/yummy-food-mahjong.md) — Simplified classic Mahjong game with FOOD theme. You can eliminate pair of similar items. You can select only those pair
+- [Yummy Link](../games/mahjong/yummy-link.md) — Welcome Yummy Link Puzzle Game. Tap to link two identical cake tiles to eleminate them. You can link identical tiles in 
+- [Zoo Mahjongg Deluxe](../games/mahjong/zoo-mahjongg-deluxe.md) — Eliminate identical tiles in pairs in order to collect all tiles.

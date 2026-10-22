@@ -1,0 +1,24 @@
+# My Pizza Outlet
+
+<a href="https://inkwengame.com/games/my-pizza-outlet" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/my-pizza-outlet/cover.jpg)
+
+My Pizza Outlet Game is the ideal fast food cooking game in which you can make pizza for your customers! Take every “pizza order call”, make and sell pizza and…
+
+## How to play
+
+Use mouse to play the game
+
+## About
+
+My Pizza Outlet Game is the ideal fast food cooking game in which you can make pizza for your customers! Take every “pizza order call”, make and sell pizza and get a review from the customers. Make sure not to disappoint them, follow the recipe carefully and deliver pizza on time!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Cook, Cooking, Girl, Girls

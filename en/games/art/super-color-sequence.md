@@ -1,0 +1,24 @@
+# Super Color Sequence
+
+<a href="https://inkwengame.com/games/super-color-sequence" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/super-color-sequence/cover.jpg)
+
+in this game The objective is to complete the sequence, forming a list of the same color.
+
+## How to play
+
+Click or touch
+
+## About
+
+in this game The objective is to complete the sequence, forming a list of the same color.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 2D, Color, Coloring, Fun, Game, Games, Kid, Kids, Mind

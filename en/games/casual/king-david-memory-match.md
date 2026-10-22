@@ -1,0 +1,20 @@
+# King David Memory Match
+
+<a href="https://inkwengame.com/games/king-david-memory-match" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/king-david-memory-match/cover.png)
+
+Embark on a mental journey with King David Memory Match. Strategically rearrange tiles to reveal stunning images, stimulating your problem-solving skills. Each…
+
+## About
+
+Embark on a mental journey with King David Memory Match. Strategically rearrange tiles to reveal stunning images, stimulating your problem-solving skills. Each move brings you closer to clarity, making it a captivating challenge for all ages. Unravel the puzzle as patience and planning transform chaos into harmony.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GamePix
+- Tags: Memory

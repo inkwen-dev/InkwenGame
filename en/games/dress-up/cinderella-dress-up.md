@@ -1,0 +1,24 @@
+# Cinderella Dress Up
+
+<a href="https://inkwengame.com/games/cinderella-dress-up" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/cinderella-dress-up/cover.jpg)
+
+Cinderella goes to the ball, where she will meet a handsome Prince. Before such an important event, Princess Cinderella needs to be brought to a beauty salon…
+
+## How to play
+
+Mouse Only
+
+## About
+
+Cinderella goes to the ball, where she will meet a handsome Prince. Before such an important event, Princess Cinderella needs to be brought to a beauty salon and dressed together with other princesses, fairies and brides. How else can girls develop a sense of style and the ability to dress fashionably and stylishly as not through dress-up games for girls, where princesses, fairies and brides are just waiting for young fashion lovers to start dressing and dressing them in the most beautiful.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Dress Up, Girl, Girls, HTML5, Mobile, WebGL

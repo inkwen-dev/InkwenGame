@@ -1,0 +1,24 @@
+# Division Bird Image Uncover
+
+<a href="https://inkwengame.com/games/division-bird-image-uncover" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/division-bird-image-uncover/cover.jpg)
+
+In this game, a bird image is hidden beneath division expression tiles. Players must drag and drop the correct number bubbles onto the matching tiles to solve…
+
+## How to play
+
+Use a mouse or touchpad to drag and drop the correct number bubble onto the matching tiles to solve the expressions
+
+## About
+
+In this game, a bird image is hidden beneath division expression tiles. Players must drag and drop the correct number bubbles onto the matching tiles to solve the expressions. As each expression is solved, the bird image gradually gets revealed. The goal is to uncover the entire image by completing all the math problems correctly.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Educational, html5 games, Logical, Math, Mobile, Number, Puzzle, School

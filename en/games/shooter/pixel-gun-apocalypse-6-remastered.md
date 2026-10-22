@@ -1,0 +1,24 @@
+# Pixel Gun Apocalypse 6 Remastered
+
+<a href="https://inkwengame.com/games/pixel-gun-apocalypse-6-remastered" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/pixel-gun-apocalypse-6-remastered/cover.jpg)
+
+Step into the ultimate blocky zombie apocalypse! As the last sniper standing, you must defend against endless waves of relentless undead, including creepy…
+
+## How to play
+
+Aim Swipe the screen to look around and locate the approaching zombies Zoom Tap the scope button to zoom in for a precise shot Shoot Press the fire button to eliminate the blocky enemies Upgrade Earn points from your kills to unlock and improve you
+
+## About
+
+Step into the ultimate blocky zombie apocalypse! As the last sniper standing, you must defend against endless waves of relentless undead, including creepy clowns and infected soldiers. Use your precision aim to survive the horde and earn your spot on the leaderboards. Web Dev <a href='https://www.kizi10.org/'>https://www.kizi10.org/</a> Upgrade your weapons, master your sniping skills, and become the top hunter in this thrilling action game.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Mentolatux, Multiplayer, Shooting, survival, unity games, WebGL, Zombie
