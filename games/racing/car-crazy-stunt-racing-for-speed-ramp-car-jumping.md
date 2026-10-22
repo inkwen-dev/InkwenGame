@@ -1,0 +1,24 @@
+# Car Crazy Stunt Racing for Speed Ramp Car Jumping
+
+<a href="https://inkwengame.com/games/car-crazy-stunt-racing-for-speed-ramp-car-jumping" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/car-crazy-stunt-racing-for-speed-ramp-car-jumping/cover.jpg)
+
+Are you ready to enjoy the crazy car driving on sky tracks by playing car driving. Impossible tracks car driving game brings a thrilling driving experience in…
+
+## How to play
+
+This game is so amazing that It makes wnna play adain cause it chalenges how fast you drive and how can you react
+
+## About
+
+Are you ready to enjoy the crazy car driving on sky tracks by playing car driving. Impossible tracks car driving game brings a thrilling driving experience in the high sky that will make drivers feel proud like driving sky car games on top of clouds.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Action, Adult, Adventure, Boy, Car, Crazy, Family, Fun, Funny, Girl, HTML, HTML5, jump, Jumping, Kid, Kids, New, WebGL

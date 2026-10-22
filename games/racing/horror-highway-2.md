@@ -1,0 +1,20 @@
+# Horror Highway
+
+<a href="https://inkwengame.com/games/horror-highway-2" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/horror-highway-2/cover.png)
+
+Navigate a twisted, haunted highway as Santa Claus in Horror Highway. Master the balance between speed and caution on perilous roads filled with chilling…
+
+## About
+
+Navigate a twisted, haunted highway as Santa Claus in Horror Highway. Master the balance between speed and caution on perilous roads filled with chilling obstacles and enemies. Survive by reaching safety points, using hidden paths, and staying vigilant amidst the spine-tingling atmosphere. Can you conquer the terror and endure?
+
+## Details
+
+- Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GamePix
+- Tags: Racing

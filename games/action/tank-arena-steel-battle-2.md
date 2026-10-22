@@ -17,4 +17,4 @@ Dive into the heart of battle in Tank Arena Steel Battle, where every shot count
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: tanks
+- Tags: Tanks

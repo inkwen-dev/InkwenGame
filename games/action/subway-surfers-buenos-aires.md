@@ -1,0 +1,24 @@
+# Subway Surfers Buenos Aires
+
+<a href="https://inkwengame.com/games/subway-surfers-buenos-aires" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/subway-surfers-buenos-aires/cover.jpg)
+
+The Subway Surfers World Tour goes to stunning Buenos Aires! - Experience unique architecture and dazzling beaches - Team up with Sofia and unlock her brand…
+
+## How to play
+
+DASH as fast as you can
+
+## About
+
+The Subway Surfers World Tour goes to stunning Buenos Aires! - Experience unique architecture and dazzling beaches - Team up with Sofia and unlock her brand new Tango outfit - Take a trip through the colorful streets on the cool Roto board - Search for shiny horse shoes to win the Weekly Hunt prizes
+
+## Details
+
+- Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, HTML5, Hypercasual, Jumping, running, subway, Subway Surfers

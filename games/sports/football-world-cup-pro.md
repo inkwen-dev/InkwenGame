@@ -1,0 +1,24 @@
+# Football World Cup Pro
+
+<a href="https://inkwengame.com/games/football-world-cup-pro" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/football-world-cup-pro/cover.jpg)
+
+Football World Cup Pro is an exciting football tournament game where players compete in fast-paced matches to win the ultimate world championship. Choose your…
+
+## How to play
+
+Mobile Touch Touch and drag the player ball to aim your shot then release your finger to kick and score Adjust drag distance for power and direction PC Mouse Click and drag the player ball using the mouse to aim then release the mouse button to
+
+## About
+
+Football World Cup Pro is an exciting football tournament game where players compete in fast-paced matches to win the ultimate world championship. Choose your favorite team, enter knockout battles, and score amazing goals in realistic stadiums. The game features smooth controls, smart AI opponents, and multiple game modes including World Cup, League, and Friendly matches. Upgrade your team, improve skills, and climb to the top of global rankings. Easy to play but challenging to master, this game delivers nonstop football action for all ages. Perfect for fans of competitive soccer games, Football World Cup Pro
+
+## Details
+
+- Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: .io, 1 Player, Football, Hypercasual, Soccer, Sports

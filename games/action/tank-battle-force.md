@@ -17,4 +17,4 @@ Navigate intense battlefields in Tank Battle Force, a thrilling arcade shooter w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: tanks
+- Tags: Tanks

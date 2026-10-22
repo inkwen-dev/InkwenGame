@@ -21,4 +21,4 @@ Top undead breakout games, both single-player and multiplayer, provide you acces
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player, 2 Player Games, Car, Helicopter, Multiplayer, Shooter, Shooting, tanks, Unity3D, War
+- Tags: .io Games, 2 Player, 2 Player Games, Car, Helicopter, Multiplayer, Shooter, Shooting, Tanks, Unity3D, War

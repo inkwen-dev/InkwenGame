@@ -17,4 +17,4 @@ Command your tank, engage in strategic combat, and upgrade your arsenal in Tank 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: tanks
+- Tags: Tanks

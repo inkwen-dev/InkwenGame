@@ -17,4 +17,4 @@ Dive into Super Tank Battle and master strategic warfare across 500 dynamic maps
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: tanks
+- Tags: Tanks

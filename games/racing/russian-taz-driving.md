@@ -1,0 +1,24 @@
+# Russian Taz Driving
+
+<a href="https://inkwengame.com/games/russian-taz-driving" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/russian-taz-driving/cover.jpg)
+
+Select different russian cars and drive them across the district.
+
+## How to play
+
+WASD - Drive Space - Brake C - Change camera
+
+## About
+
+Select different russian cars and drive them across the district.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 3D, Car, Cars, Driving, Racing, Simulation, Simulator, Unity3D, WebGL

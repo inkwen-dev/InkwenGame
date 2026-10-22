@@ -35,7 +35,7 @@ Tank Craft 2 (also known as TankCraft 2: Hell Bosses War) is an exciting 2D acti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Crafting, pve, survival, tanks
+- Tags: Crafting, pve, survival, Tanks
 
 ## 中文
 

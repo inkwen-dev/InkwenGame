@@ -1,0 +1,24 @@
+# Santa Basket
+
+<a href="https://inkwengame.com/games/santa-basket" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/santa-basket/cover.jpg)
+
+Santa Basket is an exciting sports game to play for all ages. Play this technical game which tests your aiming ability to make a goal. How long you can stay in…
+
+## How to play
+
+Just one click tap to play
+
+## About
+
+Santa Basket is an exciting sports game to play for all ages. Play this technical game which tests your aiming ability to make a goal. How long you can stay in the game is determined by how well you can aim. Calculate the right angle and degree of force and shoot Santa through into the basket!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Basketball, Boys, Casual, HTML, HTML5, Kids, Mobile, Sport, Sports
