@@ -1,0 +1,24 @@
+# Anna Frozen Match 3 Book
+
+<a href="https://inkwengame.com/games/anna-frozen-match-3-book" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/anna-frozen-match-3-book/cover.jpg)
+
+Fans of coloring, we present a brand new game Raskarski Cold Heart. Here you can color pictures with all the main characters of your favorite cartoon. In…
+
+## How to play
+
+Use Mouse To Play and Follow introduction
+
+## About
+
+Fans of coloring, we present a brand new game Raskarski Cold Heart. Here you can color pictures with all the main characters of your favorite cartoon. In total, the game will have four pages, each of the pages will have four coloring pages. If you don't like the pictures on the first page, go to the next one and maybe there you will find the most beautiful picture that you want to color. Choose the right colors to make your picture itself bright. After you color the picture, click on the camera icon to save the picture and start coloring the next one. Have a nice game!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Arcade, Cartoon, Cartoon Network, Color, Coloring, Frozen

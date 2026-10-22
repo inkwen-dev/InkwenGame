@@ -1,0 +1,311 @@
+# 2048 Merge Blocks
+
+<a href="https://inkwengame.com/games/2048-merge-blocks" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/2048-merge-blocks/cover.jpg)
+
+Merge Puzzle - 2048 Blocks
+
+## How to play
+
+HOW TO PLAY MERGE PUZZLE - 2048 BLOCKS
+
+BASIC GAMEPLAY:
+
+1. TAP TO SELECT
+Tap any numbered tile on the board. All connected tiles with the same number will be highlighted. Tiles connect horizontally, vertically, and diagonally.
+
+2. MERGE TILES
+Tap again to merge all highlighted tiles into one. The merged tile appears at your tap location with a higher value. The more tiles you connect, the higher the resulting number!
+
+3. SCORE POINTS
+Each merge earns points based on the tiles merged. Create bigger combinations for massive scores. Chain reactions happen automatically when new merge opportunities appear after tiles fall.
+
+4. REACH THE GOAL
+In level mode, reach the target tile value (shown at the top) before running out of moves. In endless mode, keep merging and try to achieve the highest score possible.
+
+
+MERGE FORMULA:
+
+The game uses a special merge formula that rewards connecting more tiles:
+- 2 tiles: Value doubles (2+2 = 4)
+- 3-4 tiles: Value quadruples (2+2+2 = 8)
+- 5-6 tiles: Value multiplies by 8 (2+2+2+2+2 = 16)
+- 7+ tiles: Even bigger multipliers!
+
+Tip: Always look for the largest groups of matching tiles for maximum points!
+
+
+GAME MODES:
+
+Level Mode
+- Complete 40 levels across 4 collections
+- Each level has a target tile and limited moves
+- Progress unlocks new challenges
+
+Endless Mode
+- No move limit - play until the board fills up
+- Try to reach the highest tile possible
+- Compete on global leaderboards
+
+Daily Challenge
+- New puzzle every day for all players
+- Same puzzle worldwide - compare your skills
+- Special daily leaderboard
+
+
+POWER-UPS:
+
+UNDO (50 coins)
+Made a mistake? Undo your last move and try a different strategy.
+
+HAMMER (50 coins)
+Remove any single tile from the board. Great for clearing blockers or setting up big merges.
+
+SHUFFLE (50 coins)
+Rearrange all tiles randomly. Use when no good moves are available.
+
+
+TIPS FOR HIGH SCORES:
+
+1. Plan Ahead
+Look at the entire board before making a move. Find the largest possible group of matching tiles.
+
+2. Work from the Bottom
+Focus on merging tiles at the bottom of the board. This creates space for new tiles to fall and potentially form chains.
+
+3. Create Chain Reactions
+Position tiles so that after one merge, falling tiles create new matching groups automatically.
+
+4. Save Power-Ups
+Don't use power-ups too early. Save them for difficult situations in later levels.
+
+5. Connect Diagonals
+Remember tiles connect diagonally too! Look for diagonal chains that other players might miss.
+
+6. Build Big Numbers
+Higher value tiles are harder to match but worth more points. Try to build toward the corners where they won't block other merges.
+
+## About
+
+Merge Puzzle - 2048 Blocks
+
+Dive into the ultimate number merge puzzle game! Merge Puzzle combines the addictive gameplay of 2048 with innovative tap-to-merge mechanics for a fresh brain-teasing experience.
+
+Connect and merge matching number tiles to create higher values. The more tiles you connect, the bigger your score! Start with simple 2s and 4s, then work your way up to massive numbers like 2048, 8192, and beyond.
+
+KEY FEATURES:
+
+Addictive Merge Gameplay
+Tap matching tiles to merge them into higher numbers. Connect tiles horizontally, vertically, and diagonally for maximum combinations. Create chain reactions and watch your score skyrocket!
+
+40+ Challenging Levels
+Progress through four unique collections - Beginner, Intermediate, Expert, and Master. Each collection offers 10 handcrafted puzzles with increasing difficulty. Can you complete them all?
+
+Daily Challenges
+Test your skills with a new puzzle every day! Compete against players worldwide on the daily leaderboard and prove you're the best puzzle solver.
+
+Endless Mode
+Play without limits in endless mode. How high can you score? Challenge yourself to reach new milestones and unlock achievements.
+
+Power-Ups & Boosters
+Use strategic power-ups to overcome tough situations:
+- Undo: Take back your last move
+- Hammer: Remove any tile from the board
+- Shuffle: Rearrange all tiles for new opportunities
+
+Global Leaderboards
+Compete with players around the world. Climb the rankings and become the ultimate merge puzzle champion!
+
+Quest System
+Complete daily and lifetime quests to earn coins and unlock rewards. Track your progress and achievements as you master the game.
+
+WHY PLAYERS LOVE MERGE PUZZLE:
+
+- Easy to learn, challenging to master
+- No time pressure - play at your own pace
+- Beautiful graphics and smooth animations
+- Relaxing yet engaging gameplay
+- Works offline - play anywhere, anytime
+- Regular updates with new content
+
+Perfect for puzzle lovers, number game enthusiasts, and anyone who enjoys brain training games. Whether you have a few minutes or a few hours, Merge Puzzle delivers satisfying gameplay every session.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: Playgama
+- Tags: blocks, merge, number, Puzzle
+
+## 中文
+
+<a href="https://inkwengame.com/zh/games/2048-merge-blocks" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+2048 合并方块
+
+合并拼图 - 2048 方块
+
+### 怎么玩
+
+如何玩合并拼图 - 2048 方块
+
+基本玩法：
+
+1. 点击选择
+
+点击棋盘上任意数字方块。所有数字相同的相邻方块都会高亮显示。方块可以水平、垂直和对角线连接。
+
+2. 合并方块
+
+再次点击即可将所有高亮显示的方块合并为一个。合并后的方块会出现在您点击的位置，并且数值更高。连接的方块越多，合并后的方块数值就越高！
+
+3. 得分
+
+每次合并都会根据合并的方块数量获得相应的分数。创造更大的组合可以获得更高的分数。方块下落后，新的合并机会出现时，会自动触发连锁反应。
+
+4. 达成目标
+
+在关卡模式中，在步数用完之前达到目标方块数值（显示在顶部）。在无尽模式中，不断合并方块，努力获得最高分。
+
+合并公式：
+
+游戏采用特殊的合并公式，连接更多方块即可获得奖励：
+
+- 2 个方块：分数翻倍 (2+2 = 4)
+
+- 3-4 个方块：分数翻四倍 (2+2+2 = 8)
+
+- 5-6 个方块：分数乘以 8 (2+2+2+2+2 = 16)
+
+- 7 个及以上方块：分数倍数更高！
+
+提示：尽量寻找最大数量的相同方块组合，以获得最高分数！
+
+游戏模式：
+
+关卡模式
+
+- 完成 4 个系列共 40 个关卡
+
+- 每个关卡都有一个目标方块和有限的步数
+
+- 完成关卡即可解锁新的挑战
+
+无尽模式
+
+- 无步数限制 - 玩到棋盘填满为止
+
+- 尝试达到尽可能高的方块高度
+
+- 在全球排行榜上与其他玩家一较高下
+
+每日挑战
+
+- 每天为所有玩家提供新的谜题
+
+- 全球玩家使用相同的谜题 - 比拼你的技巧
+
+- 每日专属排行榜
+
+道具：
+
+撤销（50 金币）
+
+走错了？撤销上一步，尝试不同的策略。
+
+锤子（50 金币）
+
+移除棋盘上的任意单个方块。非常适合清除障碍物或进行大型合并。
+
+洗牌（50 金币）
+
+随机重新排列所有方块。当没有好的走法时使用。
+
+高分秘诀：
+
+1. 提前规划
+
+在移动之前先观察整个棋盘。找到尽可能多的匹配方块。
+
+2. 从底部开始
+
+专注于合并棋盘底部的方块。这样可以为新方块的下落创造空间，并有可能形成连锁。
+
+3. 创造连锁反应
+
+合理放置方块，使下落的方块在一次合并后自动形成新的匹配组合。
+
+4. 保留道具
+
+不要过早使用道具。将它们留到后面关卡的困难情况下使用。
+
+5. 连接对角线
+
+记住，方块也可以沿对角线连接！寻找其他玩家可能忽略的对角线连锁。
+
+6. 构建高分值
+
+高分值的方块更难匹配，但得分更高。尽量在靠近角落的位置构建，以免阻碍其他方块的合并。
+
+### 介绍
+
+合并拼图 - 2048 方块
+
+畅玩终极数字合并拼图游戏！合并拼图融合了 2048 令人上瘾的玩法和创新的点击合并机制，带来全新的脑力挑战体验。
+
+连接并合并匹配的数字方块，创造更高的数值。连接的方块越多，得分越高！从简单的 2 和 4 开始，逐步挑战 2048、8192 等超大数字。
+
+主要特色：
+
+令人上瘾的合并玩法
+
+点击匹配的方块，将它们合并成更大的数字。横向、纵向和对角线连接方块，实现最大组合。创造连锁反应，见证你的分数飙升！
+
+超过 40 个挑战关卡
+
+挑战四个独特的关卡系列——初级、中级、专家和大师。每个系列包含 10 个精心设计的谜题，难度递增。你能全部通关吗？
+
+每日挑战
+
+每天挑战全新谜题，考验你的解谜技巧！在每日排行榜上与全球玩家一较高下，证明你是最强的解谜高手。
+
+无尽模式
+
+在无尽模式中畅玩无限制。你能获得多高的分数？挑战自我，达成新的里程碑，解锁成就。
+
+道具与强化
+
+运用策略性道具，化解难题：
+
+- 撤销：撤销上一步操作
+
+- 锤子：移除棋盘上的任意方块
+
+- 洗牌：重新排列所有方块，创造新的机会
+
+全球排行榜
+
+与世界各地的玩家一较高下。攀登排行榜，成为终极合并谜题冠军！
+
+任务系统
+
+完成每日任务和终身任务，赢取金币，解锁奖励。追踪你的进度和成就，不断精进你的游戏技艺。
+
+玩家喜爱《合并拼图》的理由：
+
+- 易于上手，精通却极具挑战性
+
+- 无时间限制，随心畅玩
+
+- 精美画面，流畅动画
+
+- 轻松休闲，又不失趣味性
+
+- 支持离线游玩，随时随地，想玩就玩
+
+- 定期更新，带来全新内容
+
+《合并拼图》完美契合拼图爱好者、数字游戏爱好者以及所有喜欢益智游戏的玩家。无论您只有几分钟还是几个小时，《合并拼图》都能让您在每一次游戏中都获得酣畅淋漓的体验。

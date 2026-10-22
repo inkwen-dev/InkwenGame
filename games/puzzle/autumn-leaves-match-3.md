@@ -1,0 +1,24 @@
+# Autumn Leaves Match 3
+
+<a href="https://inkwengame.com/games/autumn-leaves-match-3" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/autumn-leaves-match-3/cover.jpg)
+
+Autumn Leaves Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series of three pieces or more to achieve the…
+
+## How to play
+
+Use your mouse to play the game or tap on the screen
+
+## About
+
+Autumn Leaves Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series of three pieces or more to achieve the highest possible score, be careful to account the scale to the left did not fall too low, otherwise the game will be over. The game is done to a beautiful autumn style! Enjoy the game!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Arcade, Fun, HTML5, Kids, Puzzle

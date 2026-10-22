@@ -6,4 +6,3003 @@ Free browser puzzle games on InkwenGame: match-3, bubble shooters, merge boards,
 
 ## Games
 
-_Games in this category appear under `../games/puzzle/` as they are exported._
+- [0h h1](../games/puzzle/0h-h1.md) — Dive into 0h h1, a minimalist logic puzzle that challenges your strategic prowess. Fill grids with 0s and 1s while navig
+- [+1 Pickaxe: Break Blocks 3D](../games/puzzle/1-pickaxe-break-blocks-3d.md) — +1 Pickaxe: Break Blocks 3D — Ready to turn an ordinary pickaxe into a true weapon of destruction? Embark on an exciting
+- [10 Blocks](../games/puzzle/10-blocks.md) — Turning to the playing field of the online Color Blocks game, you will be faced with the task of filling out a full vert
+- [10 Blocks](../games/puzzle/10-blocks-2.md) — Dive into the vibrant world of 10 Blocks, where your strategic genius is tested as you place falling blocks on a 10x10 g
+- [10 Words Challenge](../games/puzzle/10-words-challenge.md) — Get ready for an exciting free word puzzle game that will test your vocabulary and strategic skills! You have 10 turns t
+- [10 x 10](../games/puzzle/10-x-10.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [100 Balls](../games/puzzle/100-balls.md) — Test your reflexes in 100 Balls, where timing and precision are everything. Tap to guide cascading balls into moving cup
+- [100 Doors Puzzle Box](../games/puzzle/100-doors-puzzle-box.md) — 100 Doors Puzzle Box is an exciting puzzle and escape room game where every level brings a new challenge, mysterious doo
+- [100 Hidden Capybaras](../games/puzzle/100-hidden-capybaras.md) — Are you ready for an object search game that's as cute as it is challenging? Dive into Find 100 Capybaras, an adventure 
+- [100 seconds Labyrinth](../games/puzzle/100-seconds-labyrinth.md) — Navigate intricate mazes under pressure in 100 Seconds Labyrinth! Tackle mind-bending paths, shift perspectives swiftly,
+- [100 the game](../games/puzzle/100-the-game.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [1001 Arabian Nights](../games/puzzle/1001-arabian-nights.md) — Get ready for an enchanting journey in 1001 Arabian Nights. The sands of this legendary desert are full of magic, myster
+- [101 Dalmations Jigsaw Puzzle Collection](../games/puzzle/101-dalmations-jigsaw-puzzle-collection.md) — Who but little mischievous spotted puppies is so fond of all sorts of puzzles? Obviously, many of the regulars on our ga
+- [1010 Animals Tetriz](../games/puzzle/1010-animals-tetriz.md) — ‘1010 animals tetriz’ is a very addicting puzzle game. Pick the block groups from the left panels and drop in the board 
+- [1010 Diamonds Rush](../games/puzzle/1010-diamonds-rush.md) — 100 DAIMONDS RUSH is a unique puzzle game in which you need to collect all the diamond blocks from the board. In order t
+- [1010 Elixir Alchemy](../games/puzzle/1010-elixir-alchemy.md) — Enter the enchanting world of 1010 Elixir Alchemy, where strategic placement reigns supreme. Strategically place Tetris-
+- [1010 Fish Blocks](../games/puzzle/1010-fish-blocks.md) — Pick and drop sets of fish blocks to complete vertical and horizontal rows. Once you do the complete row or rows will be
+- [1010 Fruits Farming](../games/puzzle/1010-fruits-farming.md) — Drop fruits blocks in the board to make one or more rows or columns of 10 fruits.
+- [1010 No Danger](../games/puzzle/1010-no-danger.md) — '1010 No Danger’ is a unique puzzle game in which you need to eliminate all the blocks with danger sign on it from the b
+- [1010 Treasure Rush](../games/puzzle/1010-treasure-rush.md) — 1010 Treasure is a Tetris block puzzle game. Your goal is to collect all treasure blocks. Pick and drop the block sets o
+- [1010 Treasures](../games/puzzle/1010-treasures.md) — '1010 Treasures’ is a unique puzzle game in which you need to collect all the Ancient Golden Coins from the board. In or
+- [10x 10](../games/puzzle/10x-10.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [10x10](../games/puzzle/10x10.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [10x10! Block Puzzle Classic](../games/puzzle/10x10-block-puzzle-classic.md) — Dive into the tranquil challenge of 10x10! Block Puzzle Classic, where strategic placement of colorful blocks on a 10x10
+- [10x10 Farming](../games/puzzle/10x10-farming.md) — Manage your small 10x10 field. Grow various crops and harvest it. Be smart when placing new seedings, so you never run o
+- [10x10 : fill the grid !](../games/puzzle/10x10-fill-the-grid.md) — Are you ready to play the most addictive and challenging game in the world ? 10x10 is a superb game where you need to fi
+- [12-12!](../games/puzzle/12-12.md) — 12-12 is a puzzle game where the user has to place blocks in a board and group them to get points. Drag the colored bloc
+- [123 Squid Game Challenge Jigsaw](../games/puzzle/123-squid-game-challenge-jigsaw.md) — 456 Challenge Jigsaw is a kind of interesting puzzle game jigsaw, which is developed for the people who love the movie. 
+- [13 The game](../games/puzzle/13-the-game.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [15 Halloween Games](../games/puzzle/15-halloween-games.md) — This addicting Halloween game offers 15 thrilling mini-games, each with unique graphics and a different order of play, e
+- [15 Puzzle](../games/puzzle/15-puzzle.md) — 15 Puzzle is a numbers game where you need to put all numbers in order to complete the game. The numbers available are a
+- [15 Puzzle Classic](../games/puzzle/15-puzzle-classic.md) — Test your logic and coordination with 15 Puzzle Classic. Slide numbered blocks to arrange them in order within a wooden 
+- [15 Puzzle - Collect a picture](../games/puzzle/15-puzzle-collect-a-picture.md) — Test your strategic thinking with "15 Puzzle - Collect a Picture" as you piece together jumbled images. With each slide 
+- [15 Puzzle - Collect numbers](../games/puzzle/15-puzzle-collect-numbers.md) — Revisit the classic 15 Puzzle, where strategic tile sliding combines with brain-teasing challenges. With adjustable diff
+- [1LINE One Line with Only One Touch](../games/puzzle/1line-one-line-with-only-one-touch.md) — One Line with One Touch is a simple way to get some brain training exercise everyday. This is a great mind challenging g
+- [2-4-8 : link identical numbers](../games/puzzle/2-4-8-link-identical-numbers.md) — 248… is a super fun and easy game to play. You just need to connect the dots with the same numbers vertically or horizon
+- [2 Dots](../games/puzzle/2-dots.md) — This is a game with 2 dots in different colors located horizontally at the top of the screen and at the bottom. They mov
+- [2 Dots Challenge](../games/puzzle/2-dots-challenge.md) — There two rotating colored circles (red and blue) at the center of the screen and you have to shoot the colored ball giv
+- [2 Squares](../games/puzzle/2-squares.md) — In this game you need to connect 2 squares with same color. The squares will came from all sides and you need to rotate 
+- [2020 Arch KRGT-1 Slide](../games/puzzle/2020-arch-krgt-1-slide.md) — Play this slide puzzle games of the motorcycle - arch krgt-1 2020. It's include 3 images and 3 modes to play.
+- [2020 Ducati Panigale Slide](../games/puzzle/2020-ducati-panigale-slide.md) — Play this slide puzzle games of 2020 Ducati Panigale. It's include 3 images and 3 modes to play.
+- [2020 Plus Block Puzzle](../games/puzzle/2020-plus-block-puzzle.md) — 2020 Plus is the latest version of this classic block puzzle game. Your task is to place groups of three randomly formed
+- [2020 Porsche Cayenne GTS Puzzle](../games/puzzle/2020-porsche-cayenne-gts-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: 2020 Porsche Cayenne GTS Puzzle. All images is with the car - 202
+- [2020 Triumph Rocket Slide](../games/puzzle/2020-triumph-rocket-slide.md) — Play this slide puzzle games of the motorcycle - triumph rocket 2020. It's include 3 images and 3 modes to play.
+- [2021 Ford F-150 Puzzle](../games/puzzle/2021-ford-f-150-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: 2021 Ford F-150 Puzzle. All images is with the car - 2021 Ford F-
+- [2021 Mustang Match 1 Puzzle](../games/puzzle/2021-mustang-match-1-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: 2021 Mustang Match 1 Puzzle. All images is with the 2021 car Must
+- [2021 Opel Mokka-e Puzzle](../games/puzzle/2021-opel-mokka-e-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: 2021 Opel Mokka-e Puzzle. All images is with the car - 2021 Opel 
+- [2021 Porsche 911 Turbo Puzzle](../games/puzzle/2021-porsche-911-turbo-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: 2021 Porsche 911 Turbo Puzzle. All images is with the car - porsc
+- [2021 UK Porsche 911 Turbo S Puzzle](../games/puzzle/2021-uk-porsche-911-turbo-s-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: 2021 UK Porsche 911 Turbo S Puzzle. All images is with the car - 
+- [2048](../games/puzzle/2048-2.md) — Slide and strategize your way to victory in 2048, a deceptively simple yet deeply engaging puzzle. Merge matching tiles 
+- [2048 2048](../games/puzzle/2048-2048.md) — 2048 2048 - the world needs this kind of mathematics! Both old and young with a mathematical mind and a humanitarian min
+- [2048 3D](../games/puzzle/2048-3d.md) — 2048 3D is a single-player sliding block puzzle game. The objective of the game is to slide numbered tiles on a grid to 
+- [2048 3D: Merge Cubes](../games/puzzle/2048-3d-merge-cubes.md) — Merge the Blocks, Reach 2048, and Conquer the Levels!**
+- [2048 Air Vehicles](../games/puzzle/2048-air-vehicles.md) — Ready for a high-flying twist on a classic challenge? Merge planes, helicopters, and jets to craft the ultimate flying m
+- [2048 Animals](../games/puzzle/2048-animals.md) — Experience a heartwarming twist on the classic puzzle with 2048 Animals. Merge adorable creatures and transform your boa
+- [2048 Ball](../games/puzzle/2048-ball.md) — This is an interesting leisure game. It is simple to play. Drag the ball and slide it. Release it when aiming at the bal
+- [2048 Ball Buster](../games/puzzle/2048-ball-buster.md) — 2048 Ball Buster is a brand-new puzzle game with an elimination theme. All you need to do in the game is to eliminate an
+- [2048 Balls](../games/puzzle/2048-balls.md) — 2048 Balls is a puzzle online game for boys for free. If you love playing merge and ball games, you have come to the rig
+- [2048 Balls Puzzle](../games/puzzle/2048-balls-puzzle.md) — Feel the thrill of merging colorful, numbered balls in 2048 Balls Puzzle. Strategize every drop as you aim for the covet
+- [2048 Ballz](../games/puzzle/2048-ballz.md) — 2048 Ballz - is an endless physics puzzle with 2048 mechanics! You have to combine balls of the same color to get new on
+- [2048 Ballz](../games/puzzle/2048-ballz-2.md) — Immerse yourself in 2048 Ballz, where numbers meet physics in a vibrant, visually captivating puzzle challenge. Strategi
+- [2048 Bears](../games/puzzle/2048-bears.md) — Swipe and strategize your way to victory in 2048 Bears, a charming puzzle adventure where adorable bears merge to maximi
+- [2048 - Blocks Destruction](../games/puzzle/2048-blocks-destruction.md) — Dive into endless fun with 2048 - Blocks Destruction! Master the art of shooting balls and merging numbers to obliterate
+- [2048 Bubble Box 3D](../games/puzzle/2048-bubble-box-3d.md) — Chain Cube 2048 is a great puzzle game for those, who like challenging brain-teasers and logic number games. Believe us,
+- [2048 Champion](../games/puzzle/2048-champion.md) — Test your puzzle-solving skills in 2048 Champion, where every strategic move counts. Combine numbers to reach the covete
+- [2048 Classic Puzzle - Challenge](../games/puzzle/2048-classic-puzzle-challenge.md) — Join the timeless challenge of 2048 Classic Puzzle! Slide and merge tiles strategically to hit the magical 2048 target. 
+- [2048 Clicker](../games/puzzle/2048-clicker.md) — Merge numbered tiles and rack up points in 2048 Clicker, an addictive blend of classic puzzle and idle clicker mechanics
+- [2048 cube](../games/puzzle/2048-cube.md) — This is a very special 3D game composed of blocks. Click the screen and drag the blocks to move, aim and fire. The same 
+- [2048 Cube Merge Block](../games/puzzle/2048-cube-merge-block.md) — Swipe, aim, and release to merge cubes in this addictive puzzle challenge. Strategically combine numbers while avoiding 
+- [2048 Cube Run](../games/puzzle/2048-cube-run-2.md) — Navigate a dynamic path in 2048 Cube Run, where puzzle merging meets endless running. Merge identical cubes to climb tow
+- [2048 Cube Runner: 3D Merge](../games/puzzle/2048-cube-runner-3d-merge.md) — 2048 Cube Runner is a fast-paced 3D runner that combines obstacle-course action with satisfying 2048-style merging. Guid
+- [2048 Cube Shooting Merge](../games/puzzle/2048-cube-shooting-merge.md) — 2048 Cube Shooting Merge is an addictive merge puzzle online game for those who like challenging brain teasers and logic
+- [2048 Cube Winner](../games/puzzle/2048-cube-winner.md) — Are you ready to challenge yourself? 2048 Cube Winner is an addictive merge puzzle game for those who like challenging b
+- [2048 Dogs](../games/puzzle/2048-dogs.md) — Slide tiles to merge matching dog breeds and unlock charming new pups in 2048 Dogs. With each puzzle solved, discover ra
+- [2048 Drag and Drop](../games/puzzle/2048-drag-and-drop.md) — See how many score you could achieve in this 2048 drag and drop game ?
+- [2048 Drag and Drop](../games/puzzle/2048-drag-and-drop-2.md) — Merge numbers to reach 2048 in this captivating puzzle. Drag and drop tiles to double their value, but plan your moves c
+- [2048 Drop Merge](../games/puzzle/2048-drop-merge.md) — 2048 Drop Merge is a puzzle game that challenges players to strategically drop and merge numbered tiles to reach the elu
+- [2048 Foodies](../games/puzzle/2048-foodies.md) — Embark on a fruity puzzle adventure with 2048 Foodies! Merge delicious fruits and berries to discover mouthwatering trea
+- [2048 Hex Chain Merge](../games/puzzle/2048-hex-chain-merge.md) — Embark on a thrilling puzzle adventure with 2048 Hex Chain Merge. Strategically navigate a hexagonal grid, merging numbe
+- [2048 Hexa Merge Block](../games/puzzle/2048-hexa-merge-block.md) — Join the numbers and get to the 2048 tile on the hexagon board! Swipe to move all tiles. When two tiles with the same nu
+- [2048 Knights](../games/puzzle/2048-knights.md) — 2048 Knights is a puzzle twist on the classic 2048. Slide your knights across the board, merge matching numbers to forge
+- [2048 Land Vehicles](../games/puzzle/2048-land-vehicles.md) — Combine and conquer in 2048 Land Vehicles, where strategic merging of cars, trucks, and buses unlocks powerful machines.
+- [2048 Legend](../games/puzzle/2048-legend.md) — 2048 is a simple game where you add up numbers. That's it. Although, it's not as easy as it seems. It can prove to be qu
+- [2048 Legend](../games/puzzle/2048-legend-2.md) — 2048 Legend challenges you to merge tiles and reach the dazzling number 2048. Simple swipes control an intricate puzzle 
+- [2048 Level 12](../games/puzzle/2048-level-12.md) — Embark on a thrilling numerical adventure with 2048 Level 12! Merge like-numbered tiles to achieve the coveted 2048, emp
+- [2048 - Link 'n Merge](../games/puzzle/2048-link-n-merge.md) — Combine matching number bubbles in "2048 - Link 'n Merge" to reach the ultimate goal of 2048. Strategically link and mer
+- [2048: Magic hex](../games/puzzle/2048-magic-hex.md) — 2048: Magic Hex is a challenging puzzle game in which you have to use your quick addition skills to complete tasks. Your
+- [2048 Magic Hex](../games/puzzle/2048-magic-hex-2.md) — Dive into 2048 Magic Hex, a fast-paced puzzle game set on a hexagonal grid. Test your addition skills as you strategical
+- [2048 Magical Number](../games/puzzle/2048-magical-number.md) — 2048 Magical Number Game is the most addictive and FREE stack number puzzle game! Play it to train your brain, and sharp
+- [2048 Master](../games/puzzle/2048-master.md) — 2048 Master is a puzzle game. Slide tiles in any direction in this mathematical puzzle game to make identical digits con
+- [2048 Match Balls](../games/puzzle/2048-match-balls.md) — Merge colorful, numbered balls in 2048 Match Balls, where strategic aiming and shooting lead you closer to the elusive 2
+- [2048 Merge](../games/puzzle/2048-merge.md) — Merge numbered balls in a captivating puzzle adventure. Strategize to combine identical values, crafting larger numbers 
+- [2048 Merge Block](../games/puzzle/2048-merge-block.md) — 2048 Merge Block is a puzzle game that combines 2048 and merged cubes. Combine the corresponding numbers and the number 
+- [2048 Merge Blocks](../games/puzzle/2048-merge-blocks.md) — Merge Puzzle - 2048 Blocks
+- [2048 Merge Number Blocks](../games/puzzle/2048-merge-number-blocks.md) — Dive into the addictive challenge of 2048 Merge Number Blocks! Strategically combine number blocks to reach the elusive 
+- [2048 Merge Throw](../games/puzzle/2048-merge-throw.md) — Experience a captivating twist on the classic 2048 game in 2048 Merge Thrower! Combine numbered blocks and hurl them acr
+- [2048 Number Ball](../games/puzzle/2048-number-ball.md) — The Eatable Numbers Ball Game is a fun way to get your child involved and active while they're playing outside. Eatable 
+- [2048 Number Ball](../games/puzzle/2048-number-ball-2.md) — Chase and devour numbers in 2048 Number Ball, where quick reflexes meet strategic thinking. Guide your ball to munch on 
+- [2048 Number Match](../games/puzzle/2048-number-match.md) — Engage in a thrilling numbers game with 2048 Number Match, where cerebral challenges await. Merge tiles by connecting ma
+- [2048 Number Merge](../games/puzzle/2048-number-merge.md) — Slide and strategize in 2048 Number Merge, where each move blends tiles to climb higher in numbers. Master your planning
+- [2048 numbers](../games/puzzle/2048-numbers.md) — This is a 2048 compositing game. Click the screen, drag the box, click the same adjacent box of the screen emitting box 
+- [2048 Original](../games/puzzle/2048-original.md) — Simply swipe to move the tiles. When two tiles with the same number touch, they merge into one. Reach the 2048 tile and 
+- [2048 Physics](../games/puzzle/2048-physics.md) — 2048 matching game with physical interaction. More fun to play and interesting puzzle.
+- [2048 Physics 3D](../games/puzzle/2048-physics-3d.md) — A fun and simple casual game that aims to score as many points as possible by following the 2048 rule. The game uses phy
+- [2048 Puzzle](../games/puzzle/2048-puzzle.md) — 2048 Puzzle is a classic skill number game, simple and addictive. Join the numbers and get to the 2048 tile! When two ti
+- [2048 Puzzle Animals](../games/puzzle/2048-puzzle-animals.md) — 2048 is a beautiful and addictive sliding block numbers puzzle game. Merg numbers, create 2048 tile, win the game, and m
+- [2048 Puzzle Challenge - Number Merge Mania!](../games/puzzle/2048-puzzle-challenge-number-merge-mania.md) — Merge numbers and crack the ultimate 2048 tile in this vibrant puzzle game! Slide tiles with simple controls, strategize
+- [2048 - Puzzle Game](../games/puzzle/2048-puzzle-game.md) — A famous game 2048 in 3 kind of modes
+- [2048 Sea Vehicles](../games/puzzle/2048-sea-vehicles.md) — Set sail on a nautical puzzle adventure in 2048 Sea Vehicles. Merge bagels into boats, then boats into grand ships. Stra
+- [2048 Shoot Merge Number 3D](../games/puzzle/2048-shoot-merge-number-3d.md) — A fresh 3D take on classic 2048! Aim, shoot and merge numbered blocks (2&rarr;4&rarr;8&rarr;&hellip;&rarr;2048) for sati
+- [2048 Shooter Merge](../games/puzzle/2048-shooter-merge.md) — Experience the excitement of an arcade adventure infused with the captivating gameplay of 2048! Dive into a 3D world wit
+- [2048 Unicorn](../games/puzzle/2048-unicorn.md) — Join the numbers and get to the 2048 tile!
+- [2048 Wood Block](../games/puzzle/2048-wood-block.md) — Test your strategic skills with 2048 Wood Block, a captivating puzzle game where you merge numbered blocks to reach the 
+- [2048 X2 Legend](../games/puzzle/2048-x2-legend.md) — "2048 X2 Legend" challenges your strategy and foresight in an addictive puzzle. Merge blocks to reach the elusive 2048, 
+- [2048 X2 Legends](../games/puzzle/2048-x2-legends.md) — The elusive 2048 block is almost within your reach. Combine and count up your blocks. Reach higher and higher scores, sh
+- [2048 X2 Merge Blocks](../games/puzzle/2048-x2-merge-blocks.md) — Immerse yourself in the captivating fusion of strategy and puzzle-solving with 2048 X2 Merge Blocks. Navigate falling nu
+- [20482048](../games/puzzle/20482048.md) — Immerse yourself in the strategic delight of stacking 3D dice in 2048 2048. Merge identical numbers to craft ever higher
+- [2048Cell](../games/puzzle/2048cell.md) — 2048 synthesis of large cells is a cell synthesis game. Two identical cells can synthesize larger cells with each other.
+- [2048ColourBalls](../games/puzzle/2048colourballs.md) — In 2048ColourBalls, dive into a kaleidoscope of strategy and excitement as you match colored balls with the same numbers
+- [2048Skill Edition](../games/puzzle/2048skill-edition.md) — This is an exciting twist on the classic 2048 game! In this version, weve added new games and skills that elevate the ex
+- [2244 Number Match](../games/puzzle/2244-number-match.md) — Challenge your brain with 2244 Number Game, a fun and addictive number-matching puzzle! Swipe and merge identical number
+- [2248 Block Merge](../games/puzzle/2248-block-merge.md) — Upon beginning to play, you will undoubtedly become hooked on these 2048 puzzle games. They are crafted with stunning vi
+- [248 Scribble](../games/puzzle/248-scribble.md) — 248 Scribble is a casual mobile merge puzzle game inspired by 2048, where players connect adjacent dots with matching nu
+- [2D Maze Balance](../games/puzzle/2d-maze-balance.md) — A game that will test your dexterity and patience. In the game Maze Balance you will have the task to collect all the ke
+- [3 Link](../games/puzzle/3-link.md) — In 3 Link,your goal is to remove all the images from the board by connecting 3 identical images. Connect lovely images o
+- [3 match puzzle battle](../games/puzzle/3-match-puzzle-battle.md) — Match three puzzles to attack enemies and advance through the stages. There are four types of puzzles: recovery, attack,
+- [321 Choose the Different](../games/puzzle/321-choose-the-different.md) — Sharpen your observational skills in 321 Choose the Different. Challenge yourself to spot the unique figure among a sea 
+- [321 Diferent Patch](../games/puzzle/321-diferent-patch.md) — 321 Diferent Patch is a casual, quick-play game in which you have to discover the different figure among several that lo
+- [3D Bowling](../games/puzzle/3d-bowling.md) — This is the best and most realistic 3D bowling game on the Android phones. It is the only bowling game that fully embrac
+- [3D Bowling Game](../games/puzzle/3d-bowling-game.md) — This is the best and most realistic 3D bowling game on the Android phones. It is the only bowling game that fully embrac
+- [3d Bubble Rush](../games/puzzle/3d-bubble-rush.md) — 3D Bubble Rush is a fabulous casual game. If you are looking for a way to release your extra energy, if you want to expr
+- [3D Bubble Rush Game](../games/puzzle/3d-bubble-rush-game.md) — 3D Bubble Rush is a fabulous casual game. If you are looking for a way to release your extra energy, if you want to expr
+- [3D Dots](../games/puzzle/3d-dots.md) — 3D Dots is a relaxing connect-the-dots puzzle that happens in real 3D space. Every level starts as a cloud of numbered d
+- [3D Fill](../games/puzzle/3d-fill.md) — Dive into the mind-bending world of 3D Fill! Navigate intricate 3D puzzles by connecting cubes with one smooth movement.
+- [3D Halloween Jigsaw](../games/puzzle/3d-halloween-jigsaw.md) — 3D Halloween Jigsaw is a 3D remake of the classic jigsaw puzzle with beautiful halloween themes. Can you solve the puzzl
+- [3d Isometric Puzzle](../games/puzzle/3d-isometric-puzzle.md) — Navigate through mesmerizing 3D isometric environments, strategically collapsing yellow tiles to reveal your path. With 
+- [3D Isometric Tiles](../games/puzzle/3d-isometric-tiles.md) — 3D Isometric Tiles game is a fun and addictive puzzle game with isometric tiles. Find secret path to finish all levels. 
+- [3D Jewel Sudoku](../games/puzzle/3d-jewel-sudoku.md) — Embark on a vibrant adventure with 3D Jewel Sudoku, where classic Sudoku meets dazzling jewels. Perfect for young minds,
+- [3D Jigsaw Puzzle](../games/puzzle/3d-jigsaw-puzzle.md) — 3D Jigsaw Puzzle is the implementation of the classic jigsaw puzzle with beautiful and realistic 3D graphic.
+- [3D Jigsaw Puzzle](../games/puzzle/3d-jigsaw-puzzle-2.md) — Immerse yourself in the timeless challenge of assembling intricate jigsaw puzzles with a modern twist. Experience captiv
+- [3D Kid Sliding Puzzle](../games/puzzle/3d-kid-sliding-puzzle.md) — Solve a variety of 3&times;3 and 3&times;4 slide puzzles featuring cute animal drawings by moving one piece at a time in
+- [3D Kid Sliding Puzzle](../games/puzzle/3d-kid-sliding-puzzle-2.md) — Dive into a vibrant 3D world where kids slide scrambled blocks to reveal charming cartoon scenes. Engage their creativit
+- [3D Physics Stack](../games/puzzle/3d-physics-stack.md) — 3D Physics Stack is a fun min physics and educational game. Your goal is to stack the blocks on top of each other to cre
+- [3D Physics Stacks](../games/puzzle/3d-physics-stacks.md) — 3D Physics Stack is a fun min physics and educational game. Your goal is to stack the blocks on top of each other to cre
+- [3d Puzzle](../games/puzzle/3d-puzzle.md) — 3D isometric Puzzle Game is a fun and addictive puzzle game with isometric tiles. Find secret path to finish all levels.
+- [3D Pyramid Maze](../games/puzzle/3d-pyramid-maze.md) — A 3D maze that IS a mountain. Roll a glowing ball up a stepped square pyramid, climbing terrace by terrace from the base
+- [3D Touch](../games/puzzle/3d-touch.md) — This is a logic game where you have to tap the cubes generating possible paths. You can't go back, your goal is for ever
+- [3D Triple Match](../games/puzzle/3d-triple-match.md) — Dive into 3D Triple Match, an addictive and relaxing 3D puzzle matching game designed to test your observation and sorti
+- [3Sudoku](../games/puzzle/3sudoku.md) — Immerse yourself in 3Sudoku's captivating puzzle world. Challenge your logic skills across three difficulty levels as yo
+- [4 Clues 1 Word](../games/puzzle/4-clues-1-word.md) — Think you’re a master of language? Put your lateral thinking to the test with 4 Clues 1 Word, the word puzzle game that 
+- [4 Pics Guess Word -Puzzle Game](../games/puzzle/4-pics-guess-word-puzzle-game.md) — Do you like word puzzle games? Here is the most wonderful word game. DOWNLOAD the ‘4 Pics Guess Word’ to train your brai
+- [4 Pics Word](../games/puzzle/4-pics-word.md) — Do you like word games? Do you like picture quizzes? Then find out what everyone's talking about! It’s 4 Pics 1 Word Qui
+- [4096 Puzzle](../games/puzzle/4096-puzzle.md) — Join the numbers and get to the 4096 tile! Swipe to move all tiles. When two tiles with the same number touch, they merg
+- [456 Challenge Jigsaw](../games/puzzle/456-challenge-jigsaw.md) — 456 Challenge Jigsaw is a kind of interesting puzzle game jigsaw, which is developed for the people who love the movie. 
+- [456 Minimal Bubble Shooter](../games/puzzle/456-minimal-bubble-shooter.md) — Put your strategy skills to the test! Compete against friends and family and see who can reach the highest score and get
+- [4inROW](../games/puzzle/4inrow.md) — 4inRow is an addictive strategy game where you match wits against an intelligent AI opponent in a race to connect four c
+- [4WD Electric Cars Jigsaw](../games/puzzle/4wd-electric-cars-jigsaw.md) — 4WD Electric Cars Jigsaw game is free online game and you have 6 images in three modes to play easy, medium and hard. Ch
+- [4x4 ATV Motorbikes for Kids](../games/puzzle/4x4-atv-motorbikes-for-kids.md) — In this 4x4 ATV Motorbikes for Kids game you have 6 images in three modes to play. Choose one of the mode for the game t
+- [4x4 Buggy Off-Road Puzzle](../games/puzzle/4x4-buggy-off-road-puzzle.md) — 4x4 Buggy Off-Road Puzzle game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to pla
+- [4x4 Easter](../games/puzzle/4x4-easter.md) — Move pieces of Easter cartoons to form the picture shown to the right side of the screen.
+- [4x4 Halloween](../games/puzzle/4x4-halloween.md) — Move Halloween photo tiles to form the picture shown to the right side of the screen.
+- [4x4 Jeep Offroad Drive Jigsaw](../games/puzzle/4x4-jeep-offroad-drive-jigsaw.md) — 4x4 Jeep Offroad Drive Jigsaw game is free online game and you have 6 images in three modes to play easy, medium and har
+- [4X4 OFFROAD](../games/puzzle/4x4-offroad.md) — Come and enjoy driving large euro trucks transporting goods and offroad jeeps Prado with a wonderful driving experience 
+- [4x4 Pic Puzzles](../games/puzzle/4x4-pic-puzzles.md) — Move pieces of awesome images between tiles to arrange them in correct order. Touch or click a block to shift it on adja
+- [4x4 SUV Parking](../games/puzzle/4x4-suv-parking.md) — 4x4 Suv parking game have modern car parking features with auto driving simulation. In this new car parking game you wil
+- [4x4 Xmas](../games/puzzle/4x4-xmas.md) — Move Xmas photo tiles to form the picture shown to the right side of the screen.
+- [5 Fruit Crash](../games/puzzle/5-fruit-crash.md) — - Swiped is a very simple to learn swipe action based game for all touch screen mobile devices. - Each level is progress
+- [5 Fruits](../games/puzzle/5-fruits.md) — 5 Fruits is a fruit matching game. The fruit on the top should overlap with the same fruit from those coming and so the 
+- [6 Errors Game](../games/puzzle/6-errors-game.md) — Test your vocabulary and deduction skills in 6-Errors, a word-guessing game! You have 6 chances to guess a hidden word b
+- [7x7 Ultimate](../games/puzzle/7x7-ultimate-2.md) — Slide and strategize as you align colorful blocks on a dynamic grid. Make lines of four or more to clear them, but bewar
+- [8 super race](../games/puzzle/8-super-race.md) — 8 super race game has a lot of success review and player this MONTH that significantly improves overall game performance
+- [8K - 3 match game](../games/puzzle/8k-3-match-game.md) — Connect numbers and numbers together, but do every step wisely, otherwise your efforts will sink into oblivion and becom
+- [8x8 Block Puzzle](../games/puzzle/8x8-block-puzzle.md) — Immerse yourself in 8x8 Block Puzzle, a strategic game of logic where planning is paramount. Arrange blocks on a grid to
+- [9-Patch Puzzle Quest](../games/puzzle/9-patch-puzzle-quest-2.md) — Dive into 9-Patch Puzzle Quest, where your wits will be tested with strategic block placement. Navigate increasingly int
+- [99Balls](../games/puzzle/99balls.md) — Can you hit all the numbered balls? Some are harder to hit than others. Aim and hit in this challenging puzzle game.
+- [9x9 Rotate and Flip](../games/puzzle/9x9-rotate-and-flip.md) — This is a 9x9 grid block game. You must fit the pieces to make horizontal or vertical matches. There are three game mode
+- [A Boy in a Puzzle!](../games/puzzle/a-boy-in-a-puzzle.md) — Dive into thrilling maze challenges with A Boy in a Puzzle! Navigate intricate labyrinths under pressure as time ebbs aw
+- [A Shaun the Sheep Movie Farmageddon Jigsaw Puzzle](../games/puzzle/a-shaun-the-sheep-movie-farmageddon-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [A Thief's Journey](../games/puzzle/a-thief-s-journey.md) — Sneak through intricate puzzles in A Thief's Journey, a captivating blend of stealth and strategy. Plan your path in art
+- [Abandoned Room Hidden Numbers](../games/puzzle/abandoned-room-hidden-numbers.md) — Find all the numbers in the pictures. Good luck!
+- [Abby Hatcher Jigsaw Puzzle](../games/puzzle/abby-hatcher-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [ABC Alphabet Jump](../games/puzzle/abc-alphabet-jump.md) — is a game to learn the alphabet in an easy and fun way. Jump over the letters in the order of the alphabet. Are you read
+- [ABC Jump](../games/puzzle/abc-jump.md) — In this game we have used a genre similar to “Doodle Jump” for teaching alphabets. We have used a method in which childr
+- [ABC's of Halloween](../games/puzzle/abc-s-of-halloween.md) — Play with 6 images in this perfect jigsaw puzzle game: ABC's of Halloween. All images is with the ABC's of Halloween. So
+- [ABCpop](../games/puzzle/abcpop.md) — Learn capital letters with ABCPop, the game that mixes letters and pop-it. Relax by completing the pop-it capital letter
+- [Aberiel Church Jigsaws](../games/puzzle/aberiel-church-jigsaws.md) — Escape the noise of daily life and embark on a peaceful journey through the world&rsquo;s most beautiful churches in Abe
+- [Absorbus](../games/puzzle/absorbus.md) — Immerse yourself in Absorbus, a puzzle-platformer where you absorb and manipulate elements like fire and water in a drea
+- [Abyss Sweeper](../games/puzzle/abyss-sweeper.md) — Abyss Sweeper reinvents the classic Minesweeper formula into an intense, infinite descent into the unknown. You are the 
+- [Abyssal Fish](../games/puzzle/abyssal-fish.md) — In the seabed are hiding the most terrifying creatures. The darkness is total and the silence is absolute. In these dark
+- [Academy Match](../games/puzzle/academy-match.md) — Dive into the vibrant world of Academy Match, where strategic thinking meets delightful fun. Swap gems and fruits to cre
+- [Action Balls: Gyrosphere Race](../games/puzzle/action-balls-gyrosphere-race.md) — Let’s prepare yourself to feel happy and relaxed by playing going balls. Roll, spin, jump and don’t lose lives because u
+- [Add-N](../games/puzzle/add-n.md) — Wanna workout your brain? then tryout this challenging game you won't regret
+- [Addition: Bird Image Uncover](../games/puzzle/addition-bird-image-uncover.md) — In this game, a bird image is hidden beneath addition expression tiles. Players must drag and drop the correct number bu
+- [Additive Fun   2048](../games/puzzle/additive-fun-2048.md) — The gameplay is simple: you slide the numbered tiles in any of the eight directions, and when two tiles with the same nu
+- [Adds And Match Christmas](../games/puzzle/adds-and-match-christmas.md) — The rules are very simple and intuitive for everyone; So You just drag' n' drop the numbers in to the match boxes! There
+- [Adopt a Pet Jigsaw](../games/puzzle/adopt-a-pet-jigsaw.md) — Adopt a Pet, hey guys, you love animals, right? Then this animal friendly puzzle will interest you. There is a very impo
+- [Adorable Fish Memory](../games/puzzle/adorable-fish-memory.md) — Adorable Fish Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try to matc
+- [Adorable Monster Memory](../games/puzzle/adorable-monster-memory.md) — Adorable Monster Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try to m
+- [Adorable Puppies In Cars Match 3](../games/puzzle/adorable-puppies-in-cars-match-3.md) — Adorable Puppies In Cars Match 3 – this cool game three in a row, in which you have to put the blocks of the same color 
+- [Advance Car Parking Game Car Driver Simulator](../games/puzzle/advance-car-parking-game-car-driver-simulator.md) — You can set camera angle by swiping on screen up, down left and right. zoom in and out by double touch " Advance Car Par
+- [Advance Parking Car](../games/puzzle/advance-parking-car.md) — Play Advance Car Parking: Modern Car Parking Game 2020 which is a unique and genuine car parking game of 2020. You get t
+- [Advanced Physics Puzzles-Challenges](../games/puzzle/advanced-physics-puzzles-challenges.md) — Dive into Advanced Physics Puzzles-Challenges, where intellect meets fun. Navigate complex scenarios by skillfully apply
+- [Advent Match and Move](../games/puzzle/advent-match-and-move.md) — Looking for a fun and challenging memory game? Look no further than Advent Match and Move! With Picture Memory Games, Ma
+- [Adventure Match 3](../games/puzzle/adventure-match-3.md) — Embark on a vibrant journey with Adventure Match 3, where your puzzle-solving skills lead to dazzling gem cascades and e
+- [Adventure Time Match 3 Games Online](../games/puzzle/adventure-time-match-3-games-online.md) — Adventure Time Match 3 Games Online is a match-3 type game. Play best game online for A:\UIPath\Assets\ReslutGames\InPut
+- [Adventures of Flig - air hockey shooter](../games/puzzle/adventures-of-flig-air-hockey-shooter.md) — "Adventures of Flig" - opens a new world in hockey games without glow and neon! It's interesting story which combines th
+- [Affection Brothers Jigsaw](../games/puzzle/affection-brothers-jigsaw.md) — Affection brothers jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the corre
+- [Africa Carnivore Jigsaw](../games/puzzle/africa-carnivore-jigsaw.md) — Africa carnivore jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct
+- [Africa Maze](../games/puzzle/africa-maze.md) — In this Maze game, you as tourist who visit Africa, need to pass all mazes and to get to famous historical places. You c
+- [African Animals: Jigsaw Puzzles](../games/puzzle/african-animals-jigsaw-puzzles.md) — Embark on a colorful journey through the African savannah! In this engaging puzzle game, you will find 6 beautiful level
+- [Against Coronavirus Slide](../games/puzzle/against-coronavirus-slide.md) — Play this slide puzzle games of the against coronavirus. It's include 3 images and 3 modes to play.
+- [Agent Banie](../games/puzzle/agent-banie.md) — Agent Banie game has a lot of success review and player this MONTH that significantly improves overall game performance,
+- [AgeOf2048](../games/puzzle/ageof2048.md) — Very fun composition game, sliding the screen of the same building will synthesize new buildings. When you reach a certa
+- [Agricultural Machines](../games/puzzle/agricultural-machines.md) — Agricultural Machines game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. C
+- [AIBABY PUZZLE](../games/puzzle/aibaby-puzzle.md) — Dive into AIBABY PUZZLE, where vibrant puzzles await players of all ages. Choose from three engaging difficulty levels, 
+- [Air Combat Puzzle](../games/puzzle/air-combat-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Air Combat Puzzle. All images is with the air combat. Solve all p
+- [Air Combat Puzzle 2](../games/puzzle/air-combat-puzzle-2.md) — Play with 6 images in this perfect jigsaw puzzle game: Air Combat Puzzle 2. All images is with the air combat. Solve all
+- [Air Combat Slide](../games/puzzle/air-combat-slide.md) — Play this slide puzzle games of the air combat. It's include 3 images and 3 modes to play.
+- [Air Hockey 1](../games/puzzle/air-hockey-1.md) — Air Hockey 1 game has a lot of success review and player this MONTH that significantly improves overall game performance
+- [Air Horn](../games/puzzle/air-horn.md) — With this air horn simulator, you can play You just have to select the speaker that you like and click on it to make it 
+- [Air Slip](../games/puzzle/air-slip.md) — Air Slip is a game where you need to control the beam. There is a green ball on the beam that moves along the beam as it
+- [Air Slip Game](../games/puzzle/air-slip-game.md) — Slide the ball away from the purple cubes and collect the blue ones. The game is difficult. Simple and addictive gamepla
+- [Air Space Attack](../games/puzzle/air-space-attack.md) — Brace yourself and take responsibility for your Galaxy Shooting Space Shooter!
+- [Air Warfare games](../games/puzzle/air-warfare-games.md) — You control a modern combat aircraft, on board of which there are many weapons. The enemy is trying to dominate your air
+- [Airplane Memory](../games/puzzle/airplane-memory.md) — Airplane Memory is a free online game from genre of memory and airplane games. Flip the tiles and try to match them up i
+- [Airplane Puzzles](../games/puzzle/airplane-puzzles.md) — Airplane puzzle is a fun online puzzle game. Drag the pieces into right position using mouse. Solving puzzles is relaxin
+- [Airplane Puzzles](../games/puzzle/airplane-puzzles-2.md) — Unleash your inner aviator in Airplane Puzzles, a captivating game where you solve aviation-themed jigsaws. Engage in mo
+- [Airplanes Puzzle](../games/puzzle/airplanes-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Airplanes Puzzle. All images is with the airplane. Solve all puzz
+- [Akari](../games/puzzle/akari.md) — Dive into the luminous world of Akari, where strategic thinking meets light-filled challenges. Navigate through escalati
+- [Aladdin Genies & Gems](../games/puzzle/aladdin-genies-gems.md) — Join the Aladdin Genies & Gems and help Aladdin and his darling Princess Shiraz liberate the Pomegranate Palace from the
+- [Aladdin Jewels](../games/puzzle/aladdin-jewels.md) — After the last known adventures, Aladdin realized that his friend the genie was not the only one and now he was going to
+- [Aladdin Jigsaw Puzzle](../games/puzzle/aladdin-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles.let's see how fast can you solve this
+- [Aladdin Jigsaw Puzzle Collection](../games/puzzle/aladdin-jigsaw-puzzle-collection.md) — Collect puzzles based on the Disney feature film "Aladdin", wherever you are! Move the fragments around the screen in th
+- [Alchemist Bubbles](../games/puzzle/alchemist-bubbles.md) — Blast into a magical realm as a savvy alchemist in Alchemist Bubbles. Strategically shoot and match vibrant bubbles, dod
+- [Alchemist Lab - Jewel Crush](../games/puzzle/alchemist-lab-jewel-crush.md) — Welcome to the world of Alchemy Match3 Lab Make a simple match for 3 Jewel elements to clar them and Match 4 or 5 chips 
+- [Alchemist Merge](../games/puzzle/alchemist-merge.md) — Enter the enchanting realm of Alchemist Merge, where you combine elements in a mysterious, Halloween-inspired world. Wit
+- [Alchemist puzzle](../games/puzzle/alchemist-puzzle.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Alchemist puzzle game](../games/puzzle/alchemist-puzzle-game.md) — Alchemist puzzle : mix potions, is a casual puzzle game. This is the Best finger-sliding potions elimination game Enjoy 
+- [Ales Kitchen](../games/puzzle/ales-kitchen.md) — A short party game that can be played by 2-6 players!
+- [Alex Meets Ally Autumn](../games/puzzle/alex-meets-ally-autumn.md) — Unite Alex and Ally by skillfully hooking Alex to various objects. Engage in a challenging puzzle adventure where collec
+- [Alfa Romeo Giulia GTA Puzzle](../games/puzzle/alfa-romeo-giulia-gta-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Alfa Romeo Giulia GTA Puzzle. All images is with the car - Alfa R
+- [Alice in Wonderland Jigsaw Puzzle Collection](../games/puzzle/alice-in-wonderland-jigsaw-puzzle-collection.md) — The free games posted on the site are a good opportunity to have fun. The girl, following an unusual rabbit, rushes thro
+- [Alice in Wonderland Match3 Puzzle](../games/puzzle/alice-in-wonderland-match3-puzzle.md) — The free games posted on the site are a good opportunity to have fun. The girl, following an unusual rabbit, rushes thro
+- [Alien Bubbles](../games/puzzle/alien-bubbles.md) — Embark on a whimsical mission in Alien Bubbles, where a valiant dinosaur fights to thwart the alien invasion. With a tru
+- [Alien Gems](../games/puzzle/alien-gems.md) — Try to conquer a new planet in this epic match-3 RPG game. You just landed on a foreign planet full of hostile aliens. M
+- [Alien Home Block Collapse](../games/puzzle/alien-home-block-collapse.md) — This is a twisted block collapse game with interesting puzzles. In each level you will find a UFO which has lost its pat
+- [Alien Merge 2048](../games/puzzle/alien-merge-2048.md) — Alien Merge 2048 is a modified version of the game 2048, but with the same objective. Join equal numbers until you reach
+- [Alien Merge 2048](../games/puzzle/alien-merge-2048-2.md) — Enter the cosmic realm of Alien Merge 2048, where puzzle mastery meets interstellar charm. Slide and merge tiles to reac
+- [Alien Robot Warrior Hidden](../games/puzzle/alien-robot-warrior-hidden.md) — Alien Robot Warrior Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and try t
+- [Alien Wonderland Hidden](../games/puzzle/alien-wonderland-hidden.md) — Alien Wonderland Hidden is a free online skill and hidden object game. Find out the hidden stars in the specified images
+- [Aliens Bubble Shooter](../games/puzzle/aliens-bubble-shooter.md) — Another Bubble game where you need to destroy 3 or more balls with same ball. Sometimes for extra points there is Aliens
+- [Aliens in Chains](../games/puzzle/aliens-in-chains.md) — Aliens in Chains is a new casual game on desktop and mobile you can play at Superkidgames.com for free, this game is dif
+- [Aliens In Space Hidden](../games/puzzle/aliens-in-space-hidden.md) — Aliens In Space Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and try to ma
+- [Aliens Photo Tile Quest](../games/puzzle/aliens-photo-tile-quest.md) — Embark on a thrilling tile-swapping adventure with charming aliens in Aliens Photo Tile Quest. Dive into diverse worlds 
+- [Aliens vs Bug](../games/puzzle/aliens-vs-bug.md) — Bug is an alien insect from another galaxy. He fell on planet Earth and found himself in a forest full of dangers. In th
+- [Align](../games/puzzle/align.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Almond Connection Link Win](../games/puzzle/almond-connection-link-win.md) — This game is a bright and satisfying puzzle game where your goal is to connect matching dots and fill the entire board w
+- [Almost Infinite](../games/puzzle/almost-infinite.md) — Almost Infinite is a calm crafting and discovery game. You start with four elements (Fire, Water, Earth and Wind) and co
+- [Alphabet Jump](../games/puzzle/alphabet-jump.md) — Alphabet Jump is game where you can learn alphabet in interesting way. You need to jump on alphabet letters in the corre
+- [Alphabet Lore Jigsaw](../games/puzzle/alphabet-lore-jigsaw.md) — Alphabet Lore Jigsaw is a very addictive and popular puzzle game. 12 jigsaws with themes of alphabet lore and rainbow fr
+- [Alphabet Lore Jigsaw Wonderland](../games/puzzle/alphabet-lore-jigsaw-wonderland.md) — Unravel the charming world of Alphabet Lore Jigsaw Wonderland! Test your brain by sliding and snapping vibrant pieces in
+- [Alphabet Memory](../games/puzzle/alphabet-memory.md) — This is memory game with Alphabets. With this game you can learn Letters, how they spells and how sounds when you speak.
+- [Alphabet Merge Challenge](../games/puzzle/alphabet-merge-challenge.md) — Do you like Alphabet Merge challlenge? If you like them, you must not miss this game! The gate of the arena are open, an
+- [Alphabet Merge Runner](../games/puzzle/alphabet-merge-runner.md) — Join the adrenaline-pumping world of Alphabet Merge Runner, where evolution meets action in a thrilling alphabet battle 
+- [Alpine A110 S Puzzle](../games/puzzle/alpine-a110-s-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Alpine A110 S Puzzle. All images is with the themes of the car - 
+- [Alpine Mountain Jigsaw](../games/puzzle/alpine-mountain-jigsaw.md) — Alpine Mountain jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct 
+- [Alus Revenge](../games/puzzle/alus-revenge.md) — Icon image Gods of Egypt: Match 3 About this game Welcome to Gods of Egypt: Match 3, one of the best match 3 puzzle game
+- [Alvin and Friend Jigsaw](../games/puzzle/alvin-and-friend-jigsaw.md) — Alvin and Friend Jigsaw is a free online game from genre of jigsaw puzzle and cartoon games. You can select one of the 6
+- [Alvinnn and the Chipmunks Jigsaw Puzzle](../games/puzzle/alvinnn-and-the-chipmunks-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Alvinnn!!! Jigsaw Puzzle](../games/puzzle/alvinnn-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Amaze Mission](../games/puzzle/amaze-mission.md) — Enter the world of Block Blast, a fun and free block puzzle game where every move challenges your brain and strategy, re
+- [Amazing Brick](../games/puzzle/amazing-brick.md) — Amazing Brick game has a lot of success review and player this MONTH that significantly improves overall game performanc
+- [Amazing Bubble Breaker](../games/puzzle/amazing-bubble-breaker.md) — Are you looking for a challenge? Great! Amazing Bubble Breaker, except the easy mode, has a medium and hard mode for any
+- [Amazing Bubble Connect](../games/puzzle/amazing-bubble-connect.md) — ⚡Highly addictive puzzle game about connecting the bubbles.⚡ Connect same colored bublbles to get points. Connect four h
+- [Amazing Cannon](../games/puzzle/amazing-cannon.md) — The gun in the Amazing Cannon game will shoot colorful balls, but this is not important for completing the tasks set at 
+- [Amazing Dominoes](../games/puzzle/amazing-dominoes.md) — Play 5 classic game modes (Muggins, Draw, Block, Sewastpol and Bergen) Beautiful and relaxing gameplay with six themes a
+- [Amazing Heroes](../games/puzzle/amazing-heroes.md) — Amazing Heroes is a fun reflex game to match as many items as you can. this game is a mix of speed, memory, and skills! 
+- [Amazing Spain Puzzle](../games/puzzle/amazing-spain-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Amazing Spain Puzzle. All images is with the amazing spain. Solve
+- [Amazing Sticky Hex](../games/puzzle/amazing-sticky-hex.md) — Are you looking for a new and intriguing brain trainer game to challenge your mind and explore exciting levels? Do you l
+- [Amazing Word Search](../games/puzzle/amazing-word-search.md) — ⭐⭐Amazing Word Search is classic, easy to play word search game for everyone⭐⭐ Play our game for free, find words for wh
+- [Amazing World Of Gumball Puzzle](../games/puzzle/amazing-world-of-gumball-puzzle.md) — Amazing World Of Gumball Puzzle is a free online game from genre of jigsaw puzzle and cartoon games. You can select one 
+- [Ambulance Emergency Simulator 2021](../games/puzzle/ambulance-emergency-simulator-2021.md) — Immediately respond to incidents that require emergency. Do your missions as the emergency service.
+- [Ambulance Match3](../games/puzzle/ambulance-match3.md) — One person became ill and now an ambulance is rushing to him. Collect all the elements in groups of at least three and s
+- [Ambulance Slide Puzzle](../games/puzzle/ambulance-slide-puzzle.md) — In the period of an epidemic, and even more so a pandemic, specialized ambulances become the main and popular transport.
+- [Ambulance Trucks Differences](../games/puzzle/ambulance-trucks-differences.md) — Find seven differences between two pictures with Ambulance trucks. Your time is limited and you need to find them before
+- [Ambulance Trucks Jigsaw](../games/puzzle/ambulance-trucks-jigsaw.md) — Ambulance Trucks Jigsaw is jigsaw game with Ambulance Trucks. You can play with 12 images on this game. Click on image a
+- [Ambulance Trucks Memory](../games/puzzle/ambulance-trucks-memory.md) — Ambulance Trucks Memory is memory game with Ambulance Trucks. Pair two same cards to eliminate. Pair all cards for given
+- [American Cars Jigsaw](../games/puzzle/american-cars-jigsaw.md) — American Cars Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images an
+- [American Dad Jigsaw Puzzle](../games/puzzle/american-dad-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the American Dad. The game com
+- [American Daddy Jigsaw Puzzle Collection](../games/puzzle/american-daddy-jigsaw-puzzle-collection.md) — In this Puzzle game: American Dad, you will have the opportunity to see a picture of a famous family from a popular cart
+- [American Football Card Match](../games/puzzle/american-football-card-match.md) — American football, referred to as football in the United States and Canada, and also known as "gridiron football" or sim
+- [American Girl Sliding Game](../games/puzzle/american-girl-sliding-game.md) — Dive into the enchanting puzzle adventure of American Girl Sliding Game, where strategic moves bring charming images to 
+- [American Trucks Jigsaw](../games/puzzle/american-trucks-jigsaw.md) — American Trucks Jigsaw game is free online game and you have 6 images of in three modes to play easy, medium and hard. C
+- [American Trucks Memory](../games/puzzle/american-trucks-memory.md) — American Trucks memory is puzzle memory game. You need to memorize position of images with American Trucks and to find t
+- [Among As Match3 Running Game](../games/puzzle/among-as-match3-running-game.md) — Guys, are you ready to stretch your fingers a little and arrange a free race with the cosmonauts "Among Us"? Then, welco
+- [Among Impostor Collapse](../games/puzzle/among-impostor-collapse.md) — Collapse the among impostor blocks by connecting 2 or more similar impostors. Collapse 6 or more impostor to get a bomb.
+- [Among Memory Match](../games/puzzle/among-memory-match.md) — Among Memory Match is a simple classic board game with among theme which can help and challenging your brain skill of me
+- [Among Rescue](../games/puzzle/among-rescue.md) — A rescue game's totally new style, instead of the hero and rescue the princess as the previous game, then in this game w
+- [Among Rescuer](../games/puzzle/among-rescuer.md) — Among Rescue is a challenging puzzle game, where you need to collect all the treasures, rescue the hero and overcome imp
+- [Among Space Jigsaw](../games/puzzle/among-space-jigsaw.md) — Among Space Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choose on
+- [Among Them Jigsaw](../games/puzzle/among-them-jigsaw.md) — In this Among Them Jigsaw game, you have 6 images in three modes to play. Choose one of the modes for the game that you 
+- [Among Them Space Puzzle](../games/puzzle/among-them-space-puzzle.md) — Among Them Space Puzzle is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choo
+- [Among Us Bubble Shoot Puzzle](../games/puzzle/among-us-bubble-shoot-puzzle.md) — Impostors Bubble Shoot Puzzle. One of the fascinating puzzle solving games, Impostor Puzzle Master: Sort The Colors brin
+- [Among Us Bubble Shooter](../games/puzzle/among-us-bubble-shooter.md) — Aim, match and smash all the bubbles in this relaxing color-matching adventure. To pop the bubbles, you must match three
+- [Among Us Characters Jigsaw](../games/puzzle/among-us-characters-jigsaw.md) — Among Us Characters Jigsaw game is a free online game and you have 6 images in three modes to play. Choose one of the mo
+- [Among Us Christmas Memory](../games/puzzle/among-us-christmas-memory.md) — Among Us Christmas Memory is a free online game from genre of memory. Flip the tiles and try to match them up in pairs. 
+- [Among Us Collection](../games/puzzle/among-us-collection.md) — Cooll math3/collecting game about Among Us. Collect as long chains of identical items of the Among As personages as poss
+- [Among Us Color Defense](../games/puzzle/among-us-color-defense.md) — A skill and speed game about Among As. Our space base has been attacked, and your task is to defend it. Don't let your e
+- [Among Us Crash](../games/puzzle/among-us-crash.md) — Crash among us is the best game ever! Among us: play this game on Y9-games.com and have fun! It is the best musical and 
+- [Among Us Difference](../games/puzzle/among-us-difference.md) — Among Us Difference is interesting kids game with cartoon theme and it's time for you to have fun! In this game you need
+- [Among Us Differences](../games/puzzle/among-us-differences.md) — In the game Among Us Differences you will find a full search for differences on ten fascinating levels with impostors an
+- [Among Us - Find Us](../games/puzzle/among-us-find-us.md) — Among Us - Find Us is a free online hidden object game. A certain area will appear on the screen in front of you. You wi
+- [Among Us Hidden Numbers](../games/puzzle/among-us-hidden-numbers.md) — Among Us Hidden Numbers is a free online skill and hidden object game. Find out the hidden numbers in the specified imag
+- [Among Us Hidden Stars](../games/puzzle/among-us-hidden-stars.md) — Among Us Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specified images. 
+- [Among Us Jigsaw](../games/puzzle/among-us-jigsaw.md) — Among Us Jigsaw is a free online game from genre of puzzle and jigsaw games. In this game you have a total of 12 jigsaw 
+- [Among Us Jigsaw Game](../games/puzzle/among-us-jigsaw-game.md) — The game has been a hit recently, with several players getting on the ship ready to go, but there are bad guys among the
+- [Among Us Jigsaw Puzzle](../games/puzzle/among-us-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the among us. The game comes w
+- [Among Us Jigsaw Puzzle Collection](../games/puzzle/among-us-jigsaw-puzzle-collection.md) — Did you know that the famous game about space traitors appeared two years ago? Yes, that's exactly what it was, it's onl
+- [Among Us Jigsaw Puzzle Game](../games/puzzle/among-us-jigsaw-puzzle-game.md) — Among Us Jigsaw Puzzle Game is a fascinating puzzle game about impostors among crewmates. This game brings you a lot of 
+- [Among Us Jigsaw Puzzle Online](../games/puzzle/among-us-jigsaw-puzzle-online.md) — Did you know that the famous game about space traitors appeared two years ago? Yes, that's exactly what it was, it's onl
+- [Among Us Jigsaw Puzzle Planet](../games/puzzle/among-us-jigsaw-puzzle-planet.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles.let's see how fast can you solve this
+- [Among us Match](../games/puzzle/among-us-match.md) — Inspired by Among us game made a match 3 game in the same theme for Among us fans. have fun !
+- [Among Us Match 3](../games/puzzle/among-us-match-3.md) — Among Us Match 3 – this cool game is three in a row, in which you have to put the blocks of the same color in a series o
+- [Among Us Match 3 Puzzle](../games/puzzle/among-us-match-3-puzzle.md) — Among Us Match 3 Puzzle is an attractive html5 puzzle game. vibrant colors, match at least 3 impostor icons to score poi
+- [Among Us Match Collection](../games/puzzle/among-us-match-collection.md) — Cooll math3/collecting game about Among Us. Collect as long chains of identical items of the Among As personages as poss
+- [Among Us Match3 Cards](../games/puzzle/among-us-match3-cards.md) — Space, rockets, astronauts, asteroids, traitors and spies! Does it remind you of anything? Of course, this is another ad
+- [Among Us Memory Puzzle](../games/puzzle/among-us-memory-puzzle.md) — Match the same pair of images and test & improve your memory with this game. Beat the opponents in multiplayer game mode
+- [Among Us Online Games Puzzle Match3](../games/puzzle/among-us-online-games-puzzle-match3.md) — Among Us Online Games Puzzle Match3 is a match-3 type game. Play best game online for A:\UIPath\Assets\ReslutGames\InPut
+- [Among us Pop it Jigsaw](../games/puzzle/among-us-pop-it-jigsaw.md) — Among us Pop it Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choos
+- [Among Us Puzzle](../games/puzzle/among-us-puzzle.md) — You've never seen the Betweenus character like this, each graphic is a different adventure, sometimes at a Halloween par
+- [Among Us Skins](../games/puzzle/among-us-skins.md) — Among Us Skins – this cool game three in a row, in which you have to put the blocks of the same color in a series of thr
+- [Among Us Slide](../games/puzzle/among-us-slide.md) — Welcome to the game "Among As Slide"! Here you will find a collection of slide-puzzles with images of the funniest chara
+- [Among Us Slide WG](../games/puzzle/among-us-slide-wg.md) — Play this slide puzzle games of the Among Us. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 pieces) to 
+- [Among Us Smash](../games/puzzle/among-us-smash.md) — Among Us Smash is a game with Among Us balloons. There is different colors on among us balloons and you need to smash it
+- [Among Us Space Colorfull - Pin Pull Game](../games/puzzle/among-us-space-colorfull-pin-pull-game.md) — Among Us Space Colorfull - Pin Pull Game is a captivating puzzle game in which everything revolves around colors and Amo
+- [Among Us Space Jigsaw](../games/puzzle/among-us-space-jigsaw.md) — Among Us Space Jigsaw game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. C
+- [Among Us Tap](../games/puzzle/among-us-tap.md) — Among Us Tap is free to play puzzle game with easy gameplay but hard to win. A little bug is waiting for his present. Ta
+- [Amusement Park Hidden Stars](../games/puzzle/amusement-park-hidden-stars.md) — Amusement Park Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specified im
+- [Ancient 2048](../games/puzzle/ancient-2048.md) — Ancient 2048 is a casual puzzle game with stunning graphics. Functions: • casual gameplay; • great graphics.
+- [Ancient Caculate](../games/puzzle/ancient-caculate.md) — Ancient Calculate is an engaging math puzzle game where you calculate the total score to unlock magical doors. Each door
+- [Ancient Egypt - match 3 game](../games/puzzle/ancient-egypt-match-3-game.md) — Welcome to Ancient Egypt! Your mission is to swipe and match 3 or more identical objects to clear them from the board an
+- [Ancient Samurai Jigsaw](../games/puzzle/ancient-samurai-jigsaw.md) — Ancient Samurai Jigsaw is a free online game from genre of puzzle and jigsaw games. You need to start from the first one
+- [Anderson o Chapeleiro](../games/puzzle/anderson-o-chapeleiro.md) — The character called Luiz ended up accepting an invitation to play, but he ended up being teleported to another dark and
+- [Angel Figure Jigsaw](../games/puzzle/angel-figure-jigsaw.md) — Angel figure jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jig
+- [Angela Christmas Jigsaw Puzzle](../games/puzzle/angela-christmas-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Angelo Rules Puzzle](../games/puzzle/angelo-rules-puzzle.md) — Angelo Rules Puzzle is a free online game from genre of jigsaw puzzle and cartoon games. You can select one of the 6 ima
+- [Angle Shot Game](../games/puzzle/angle-shot-game.md) — Shoot and destroy the white balls that appear around the circle. The game is difficult. Simple and addictive gameplay.
+- [Angry bird 3 Final Destination](../games/puzzle/angry-bird-3-final-destination.md) — Welcome all Bubble Shooters to the most Addictive Bubble Blast Game! Just Match 3 to pop bubbles of the same color and r
+- [Angry Birds Dream Blast Slingshot](../games/puzzle/angry-birds-dream-blast-slingshot.md) — Welcome all Angry Birds Dream Blast Slingshot to the most Addictive Bubble Blast Game! Just Match 3 to pop bubbles of th
+- [Angry Birds Go! Hidden Stars](../games/puzzle/angry-birds-go-hidden-stars.md) — Angry Birds Go! Hidden Stars is a free online fun and hidden object game. Find out the hidden stars in the specified ima
+- [Angry Birds Hidden Stars](../games/puzzle/angry-birds-hidden-stars.md) — Angry Birds Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specified image
+- [Angry Birds Jigsaw Puzzle](../games/puzzle/angry-birds-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the angry birds. The game come
+- [Angry Birds Jigsaw Puzzle Collection](../games/puzzle/angry-birds-jigsaw-puzzle-collection.md) — If you love the "Angry Birds" cartoon and are fond of folding puzzles, then this free online game invites you to indulge
+- [Angry Birds Match 3](../games/puzzle/angry-birds-match-3.md) — Angry Birds Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series o
+- [Angry Birds Match 3 slides](../games/puzzle/angry-birds-match-3-slides.md) — If you love the "Angry Birds" cartoon and are fond of folding puzzles, then this free online game invites you to indulge
+- [Angry Birds Pop It Jigsaw](../games/puzzle/angry-birds-pop-it-jigsaw.md) — Angry Birds Pop It Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Ch
+- [Angry Birds Racers Jigsaw](../games/puzzle/angry-birds-racers-jigsaw.md) — Angry Birds Racers Jigsaw is a free online jigsaw puzzle game. You can select one of the three images and then select on
+- [Angry Boxers Fight](../games/puzzle/angry-boxers-fight.md) — Angry Boxers Fight game is free online game and you have 6 images of boxing matches in three modes to play easy, medium 
+- [Angry Bubble](../games/puzzle/angry-bubble.md) — Angry Bubble is a fun action puzzle game where you control a character to eliminate all monsters appearing on the arena.
+- [Angry Impostor](../games/puzzle/angry-impostor.md) — The battle of the humanoid team against Impostors continues. This time your task is to get from the slingshot to the ene
+- [Angry Little Red Riding Hood](../games/puzzle/angry-little-red-riding-hood.md) — Mouse click to help Little Red Riding Hood bring down the big wolf and monsters, and make Little Red Riding Hood safe at
+- [Angry Owls](../games/puzzle/angry-owls.md) — Click or touch groups of minimum 2 blocks of the same color to erase them. The more blocks you erase, the more points yo
+- [Angry Tower](../games/puzzle/angry-tower.md) — Build your tower, Block By Block in this super cool fan games based on famous birds! Simply drop the Block on top of eac
+- [Angry Vegetables](../games/puzzle/angry-vegetables.md) — Start by pressing a vegetable and then move the pointer on the similar vegetables which are adjacent to the previous. Ma
+- [Animal Blocks](../games/puzzle/animal-blocks.md) — Animal Blocks is a delightful fusion of block puzzle mechanics and charming animal-themed visuals. Crafted for casual fu
+- [Animal Box](../games/puzzle/animal-box.md) — Don't let the animals fall, catch all them and fill up your box, test your reflex and be careful to catch bombs and fire
+- [Animal Bubble Blast](../games/puzzle/animal-bubble-blast.md) — Join the clever fox on a magical puzzle adventure! Aim, match, and pop adorable animal bubbles like pigs, bears, and bun
+- [Animal Bubble Pixel](../games/puzzle/animal-bubble-pixel.md) — Animal Bubble Pixel is a fun puzzle game where you use colorful pixel bubbles to complete animal shapes. Aim, shoot, and
+- [Animal Bus Traffic Jam](../games/puzzle/animal-bus-traffic-jam.md) — All aboard for the cutest puzzle ride ever in Animal Bus Traffic Jam. This clever match-3 sort puzzle and casual logic g
+- [Animal Bus Traffic Jam](../games/puzzle/animal-bus-traffic-jam-2.md) — Join the cutest traffic puzzle adventure! Navigate a charming chaos of colorful buses and help delightful animal passeng
+- [Animal Cars Match 3](../games/puzzle/animal-cars-match-3.md) — Animal Cars Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series o
+- [Animal Crush](../games/puzzle/animal-crush.md) — Animal Crush is puzzle fun addictive Match 3 game, You need to match minimum 3 same object.
+- [Animal Crush Match](../games/puzzle/animal-crush-match.md) — Match 3 games are puzzle games you need to match 3 or more object by exchanging two pieces or by clicking on a group of 
+- [Animal Daycare Game](../games/puzzle/animal-daycare-game.md) — Welcome to Animal Daycare Game, a fun and heartwarming simulation where you take care of cute pets and give them the lov
+- [Animal Explorer 2 Puzzle Game](../games/puzzle/animal-explorer-2-puzzle-game.md) — Embark on an enchanting puzzle journey with Animal Explorer Season 2, featuring a stunning assortment of global animal p
+- [Animal Explorer Puzzle](../games/puzzle/animal-explorer-puzzle.md) — Embark on a wild adventure with Animal Explorer Puzzle! Young minds solve vibrant jigsaws featuring adorable animals. Ex
+- [Animal Explorer Puzzle game](../games/puzzle/animal-explorer-puzzle-game.md) — Welcome to the enchanting world of Animal Explorer&mdash;a captivating game designed for young adventurers and budding p
+- [Animal Farm Merge](../games/puzzle/animal-farm-merge.md) — Dive into a Animal farm journey where you can train your skills to merge all the animals and get the big Horse. Can you 
+- [Animal Feed Puzzle](../games/puzzle/animal-feed-puzzle.md) — Dive into the vibrant world of Animal Feed Puzzle, where each level challenges your wits to nourish adorable animals. Na
+- [Animal: Find The Differences](../games/puzzle/animal-find-the-differences.md) — Animal: Find the Difference is a fun and engaging puzzle game where players test their observation skills by spotting di
+- [Animal Finder](../games/puzzle/animal-finder.md) — Children's game for ages 2 to 4 years. When clicking on play you will have a stage with several images of animals, and o
+- [Animal Finding](../games/puzzle/animal-finding.md) — Finding Animal is a fun and entertaining observation game where you must quickly find the different animal among a serie
+- [Animal Firetrucks Match 3](../games/puzzle/animal-firetrucks-match-3.md) — Animal Firetrucks Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a se
+- [Animal Jigsaw](../games/puzzle/animal-jigsaw.md) — Combine the pieces, complete the puzzle. Have fun!
+- [Animal Kids Memory](../games/puzzle/animal-kids-memory.md) — Boost your child's brainpower with Animal Kids Memory! Uncover matching animal pairs and sharpen memory skills in this d
+- [Animal Kingdom Match 3](../games/puzzle/animal-kingdom-match-3.md) — Animal Kingdom Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a serie
+- [Animal Klotski](../games/puzzle/animal-klotski.md) — Animal Klotski is a charming and addictive Klotski puzzle game where every move matters! Cute animals block the path, an
+- [Animal Match 2](../games/puzzle/animal-match-2.md) — Dive into Animal Match 2, an enchanting arcade adventure where you match adorable animals and overcome exciting challeng
+- [Animal Match Master](../games/puzzle/animal-match-master.md) — Animal Match Master is a puzzle game that you can play online. The objective of the game is to link three animals of the
+- [Animal Match-Up](../games/puzzle/animal-match-up.md) — Unleash your puzzle prowess in Animal Match-Up, where adorable chaos reigns! Flip tiles to reunite families, match pets 
+- [Animal Merge](../games/puzzle/animal-merge.md) — Objective: Merge animal bubbles to create upgraded animals and ultimately achieve the final objective by collecting full
+- [Animal Merge: Zoo Drop](../games/puzzle/animal-merge-zoo-drop.md) — Drop cute zoo animals into the container and merge matching ones to evolve them! Combine two chicks to get a bunny, two 
+- [Animal Mix : GPT](../games/puzzle/animal-mix-gpt.md) — Feature: - A lot of animals form anywhere such as: dinosaur, sharp, cat, dog, lizard,... - Each animal has a unique appe
+- [Animal Monster Trucks Difference](../games/puzzle/animal-monster-trucks-difference.md) — Animal Monster Truck Difference is a free online difference and kids game! In this game you will need to find 7 differen
+- [Animal Path Puzzle](../games/puzzle/animal-path-puzzle.md) — Navigate delightful animal characters through intricate puzzles as they munch their way to victory. Each move is vital, 
+- [Animal Puzzle](../games/puzzle/animal-puzzle-2.md) — Dive into a realm where puzzle-solving meets the wild kingdom. Piece by piece, uncover vibrant animal images, with each 
+- [Animal Puzzle Deluxe](../games/puzzle/animal-puzzle-deluxe.md) — Relax and solve beautiful animal puzzles in four unique styles: Classic Jigsaw, Wave Pieces, Hexa Puzzles, and Irregular
+- [Animal Puzzle Game](../games/puzzle/animal-puzzle-game.md) — Animal Puzzle Game is a beautiful puzzle game with high quality graphics designed for children and adults, solve the puz
+- [Animal Puzzle Kids](../games/puzzle/animal-puzzle-kids.md) — Welcome to our exciting jigsaw puzzle game where you have the opportunity to create a variety of animals by putting them
+- [Animal Saver](../games/puzzle/animal-saver.md) — Animal Saver is a fun bubble shooter game suitable for all ages. It offers endless entertainment and relaxation with smo
+- [Animal Shape Puzzle](../games/puzzle/animal-shape-puzzle.md) — Animal Shape Puzzle is one casual free online game for kids to play. According to the above, matching the little items b
+- [Animal Shapes](../games/puzzle/animal-shapes.md) — In this game, you are given four animals and four shadow shapes of these animals and have to match each animal with its 
+- [Animal Sort](../games/puzzle/animal-sort.md) — 30 different challenging levels are waiting for you. There are different numbers of animal faces in each level. Match th
+- [Animal Sort   Cute Game Puzzle](../games/puzzle/animal-sort-cute-game-puzzle.md) — Are you a pet person? Do you wanna run a farm that is full of cute animals? Try Animal Sort, not only be an owner but al
+- [Animal Stackers](../games/puzzle/animal-stackers.md) — Merge adorable animals in a delightful stack-and-combine puzzle adventure! Start small and work your way to the magical 
+- [Animal Tiles](../games/puzzle/animal-tiles.md) — Animal Tiles Game requires you to match 3 blocks of the same element, you will pass the level when all tiles are matched
+- [Animal Touch](../games/puzzle/animal-touch.md) — Animal Touch is a game where you need to click and find all animals that is shown in your monitor. Find all the animals 
+- [Animal Tower Puzzle](../games/puzzle/animal-tower-puzzle.md) — Animal Tower Puzzle Game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Cho
+- [Animal Word Search Quest](../games/puzzle/animal-word-search-quest.md) — A fun animal adventure filled with hidden words! Animal Word Search Quest is a colorful and relaxing word puzzle game wh
+- [Animal World - Hidden Object](../games/puzzle/animal-world-hidden-object.md) — Sharpen your observational skills in "Animal World - Hidden Object," a captivating game that challenges you to find ten 
+- [Animals Block Blast](../games/puzzle/animals-block-blast.md) — Immerse yourself in Animals Block Blast, where strategic block placement meets adorable animal designs. Match animal blo
+- [Animals Brick](../games/puzzle/animals-brick.md) — **AnimalBrick** is a fun and addictive tile-matching puzzle game where you match three identical animal tiles to clear t
+- [Animals Collection](../games/puzzle/animals-collection.md) — Collect the animals in this game. Press any animal to start. Now move the 'mouse or finger tip' on identical adjacent an
+- [Animals Crush!](../games/puzzle/animals-crush.md) — Step into the enchanting world of Animals Crush, where vibrant visuals and adorable creatures await. Match charming anim
+- [Animals Crush Match 3 Toy Crush](../games/puzzle/animals-crush-match-3-toy-crush.md) — Easy to play swipe Animal Crush Mania match 3 or more Animal Crush Mania by putting them on the same line! Get point by 
+- [Animals Drive Jigsaw](../games/puzzle/animals-drive-jigsaw.md) — Animals Drive Jigsaw is a jigsaw puzzle games with cute animals. You can play with twelve images of animals jigsaw. Star
+- [Animals Halves Match](../games/puzzle/animals-halves-match.md) — Animals Halves Match is a board puzzle game where the player needs to match a halve to a symmetrical one. First, look ca
+- [Animals Jigsaw Puzzle](../games/puzzle/animals-jigsaw-puzzle.md) — You like Jigsaw puzzle, you also like animals, this game is dedicated for you. There are many customizable grid sizes. H
+- [Animals Jigsaw Puzzle - Eagle](../games/puzzle/animals-jigsaw-puzzle-eagle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the animals - eagle. The game 
+- [Animals Jigsaw Puzzle - Horses](../games/puzzle/animals-jigsaw-puzzle-horses.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the animals - horses. The game
+- [Animals Jigsaw Puzzle - Tiger](../games/puzzle/animals-jigsaw-puzzle-tiger.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of animals - tiger. The game come
+- [Animals Merge](../games/puzzle/animals-merge.md) — Embark on a charming adventure by merging adorable creatures to evolve majestic animals in Animals Merge. With intuitive
+- [Animals Pairs Match 3](../games/puzzle/animals-pairs-match-3.md) — Embark on a whimsical journey with Animals Pairs Match 3, where vibrant animals await your strategy! Match adorable crea
+- [Animals Pairs Match 3 Online Game](../games/puzzle/animals-pairs-match-3-online-game.md) — It's no secret that players love matching three or more objects together in order to complete a task. And now, they can 
+- [Animals Pic Tetriz](../games/puzzle/animals-pic-tetriz.md) — This is a simple yet interesting picture tetriz game. In this game you need to drop the picture pieces to its exact posi
+- [Animals Puzzle](../games/puzzle/animals-puzzle.md) — Animal Puzzle is jigsaw game with Funny Animals. There is four interesting images with happy animals. Select your favori
+- [Animals Puzzle for Kids](../games/puzzle/animals-puzzle-for-kids.md) — This free puzzle game helps your kids develop matching, tactile and fine motor skills while playing 100 different Animal
+- [Animals Puzzles](../games/puzzle/animals-puzzles.md) — An educational puzzle game for your child. While playing the Animal themed puzzle game, your child will have fun and lea
+- [Animals Shapes](../games/puzzle/animals-shapes.md) — In Animals Shapes you need to place the animals according to the shape of the correct place. Test how much you know abou
+- [Animals Slide Puzzle](../games/puzzle/animals-slide-puzzle.md) — Animals Slide Puzzle is a simple HTML5 classic puzzle game. Move pieces of f1 images between tiles to arrange them in co
+- [Animals Words 2022](../games/puzzle/animals-words-2022.md) — Play Animals words 2022 online game for free. Graduation game, funny, memories for kids about animals world
+- [Anime Bear Jigsaw Puzzles](../games/puzzle/anime-bear-jigsaw-puzzles.md) — Dive into vibrant jigsaw challenges with Anime Bear Jigsaw Puzzles! Perfectly balancing relaxation and cognitive stimula
+- [Anime Christmas Jigsaw Puzzle](../games/puzzle/anime-christmas-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the anime christmas. The game 
+- [Anime Christmas Jigsaw Puzzle 2](../games/puzzle/anime-christmas-jigsaw-puzzle-2.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the anime christmas. The game 
+- [Anime Dog Jigsaw Puzzles](../games/puzzle/anime-dog-jigsaw-puzzles.md) — Immerse yourself in the tranquil challenge of Anime Dog Jigsaw Puzzles, where each tap or click brings adorable canine i
+- [Anime Find The Differences](../games/puzzle/anime-find-the-differences.md) — Dive into the world of anime with Anime Find The Differences, a delightful and challenging puzzle game for fans of all a
+- [Anime Ghoul Jigsaw Puzzles](../games/puzzle/anime-ghoul-jigsaw-puzzles.md) — Dive into the vibrant realm of Anime Ghoul Jigsaw Puzzles, where your mind meets an artistic challenge. Navigate through
+- [Anime Girl Jigsaw Puzzle Collection](../games/puzzle/anime-girl-jigsaw-puzzle-collection.md) — Collect cute puzzles with bright and beautiful pictures. Each picture shows a cute girl from the anime cartoon. Choose t
+- [Anime Girl Match3 Puzzle](../games/puzzle/anime-girl-match3-puzzle.md) — Collect cute puzzles with bright and beautiful pictures. Each picture shows a cute girl from the anime cartoon. Choose t
+- [Anime Girls In Red Dress Tile Puzzle](../games/puzzle/anime-girls-in-red-dress-tile-puzzle.md) — Anime in red dress with cold snow and snowmen. Relax by solving a puzzle and unlock 5 anime girls in red dress. No timer
+- [Anime Girls Jigsaw](../games/puzzle/anime-girls-jigsaw.md) — Welcome to the fun puzzle game of the famous Anime Girls. Anime Girls Jigsaw, consisting of 12 pictures of anime girls, 
+- [Anime Halloween Jigsaw Puzzle](../games/puzzle/anime-halloween-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the anime halloween. The game 
+- [Anime Halloween Jigsaw Puzzle 2](../games/puzzle/anime-halloween-jigsaw-puzzle-2.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the anime halloween. The game 
+- [Anime Jigsaw Puzzle](../games/puzzle/anime-jigsaw-puzzle.md) — Anime Jigsaw Puzzle is a premium quality puzzle game, with amazing puzzle image pack. Just pick an image from the levels
+- [Anime Jigsaw Puzzle Pro](../games/puzzle/anime-jigsaw-puzzle-pro.md) — Anime Jigsaw Puzzle pro is a premium quality puzzle game, with amazing puzzle image pack. Just pick an image from the le
+- [Anime Jigsaw Puzzles](../games/puzzle/anime-jigsaw-puzzles.md) — Anime Jigsaw Puzzles is a fun puzzle game with amazing anime graphics.
+- [Anime Lion Jigsaw Puzzles](../games/puzzle/anime-lion-jigsaw-puzzles.md) — Piece together enchanting images with Anime Lion Jigsaw Puzzles. Navigate scattered tiles, revealing hidden art as you h
+- [Anime Monkey Jigsaw Puzzles](../games/puzzle/anime-monkey-jigsaw-puzzles.md) — Immerse yourself in the addictive world of Anime Monkey Jigsaw Puzzles, where precision meets relaxation. Piece together
+- [Anime Puzzle Quest](../games/puzzle/anime-puzzle-quest.md) — Dive into Anime Puzzle Quest, where vibrant anime heroes and strategic puzzles converge. Craft your ultimate team to con
+- [Anime Puzzles](../games/puzzle/anime-puzzles.md) — Welcome to the world of Anime puzzles - classic anime-themed puzzles! This game offers the perfect combination of relaxa
+- [Anime Wolf Jigsaw Puzzles](../games/puzzle/anime-wolf-jigsaw-puzzles.md) — Immerse yourself in tranquil brain-teasing fun with Anime Wolf Jigsaw Puzzles. Choose stunning images, adjust the challe
+- [Animerge](../games/puzzle/animerge.md) — Animerge is a twist to the famous Watermelon Suika game. It is a fun and relaxing casual game where players merge cute a
+- [Anipo](../games/puzzle/anipo.md) — Anipo is a light yet challenging puzzle game where you control a character with a unique color to move across land piece
+- [Anipo](../games/puzzle/anipo-2.md) — Guide your vibrant character across ever-changing lands, leaving a trail of color with each step. Strategize your path t
+- [Anna Frozen Jigsaw Puzzle Collection](../games/puzzle/anna-frozen-jigsaw-puzzle-collection.md) — Do you like the cartoon "Frozen"? We are sure that you are looking forward to the continuation of this amazing story, th
+- [Anna | Frozen Match 3](../games/puzzle/anna-frozen-match-3.md) — Are you like Anna | Frozen? and you want play The new Of Princess Games Anna | Frozen Now You Can Play New Free online P
+- [Anna Frozen Match 3 Book](../games/puzzle/anna-frozen-match-3-book.md) — Fans of coloring, we present a brand new game Raskarski Cold Heart. Here you can color pictures with all the main charac
+- [Anna Frozen Slide](../games/puzzle/anna-frozen-slide.md) — Everyone who followed the adventures of the two princesses sisters Anna and Elsa recently could see on the big screens t
+- [Annihilate](../games/puzzle/annihilate.md) — Annihilate is puzzle game in which you have to match pairs of atoms of the same color. Avoid pitfalls like black holes, 
+- [Ant Color Blast](../games/puzzle/ant-color-blast.md) — Toy Bomb: Blast Cubes Puzzles is the most popular blast game! Full of challenges and fun! Filled with thousands of fun a
+- [Ant-Man Match 3 Games Online](../games/puzzle/ant-man-match-3-games-online.md) — Ant-Man Match 3 Games Online is a match-3 type game. Play best game online for A:\UIPath\Assets\ReslutGames\InPut\Ant-Ma
+- [Ant Maze](../games/puzzle/ant-maze-2.md) — Lead your intrepid ant through dynamic mazes in "Ant Maze," where pixel-art charm meets strategic survival. Defeat aggre
+- [Anti Aircraft 3D Game](../games/puzzle/anti-aircraft-3d-game.md) — Anti Aircraft 3D is undoubtedly one of the most interesting shooting games of this year, with addictive gameplay and 3D 
+- [Anti Stress   Mind Relax Games](../games/puzzle/anti-stress-mind-relax-games.md) — As playing games in this, you would really enjoy the game play. are on the hunt for stress anxiety relief games, then yo
+- [Anti Stress Planet Games](../games/puzzle/anti-stress-planet-games.md) — Antistress Relaxing toys &amp; Stress Relief is a calm game with stress relief games, satisfying and relaxing games, anx
+- [Antient Dinosaurs Memory](../games/puzzle/antient-dinosaurs-memory.md) — Winter Pinguins Memory is a free online game from genre of memory. Flip the tiles and try to match them up in pairs. Pai
+- [Ants Clear All : Color Block Puzzle](../games/puzzle/ants-clear-all-color-block-puzzle.md) — Send out your ants and carry every colorful block away! Ants Clear All : Color Block Puzzle is a single-player puzzle ga
+- [Ants: Tap Tap Color Ants](../games/puzzle/ants-tap-tap-color-ants.md) — Hold on tight! Because the ants are coming for a shelter! Have you ever seen colored ants? Or an anthill simulator? Thes
+- [Anya Jigsaw Puzzle Frenzy](../games/puzzle/anya-jigsaw-puzzle-frenzy.md) — Dive into Anya Jigsaw Puzzle Frenzy, blending intricate anime artistry with challenging slider puzzles. Each exquisitely
+- [Apex Legends Jigsaw Puzzle](../games/puzzle/apex-legends-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Apocalyptic Disaster Hidden](../games/puzzle/apocalyptic-disaster-hidden.md) — Apocalyptic Disaster Hidden is a free online skill and hidden object game. Find out the hidden stars in the specified im
+- [Apollo Space Age Childhood Jigsaw Puzzle](../games/puzzle/apollo-space-age-childhood-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [App For Kids](../games/puzzle/app-for-kids.md) — These games are designed for your kids to use at home or early grade school classrooms. Play along with your kid to help
+- [Apple Worm](../games/puzzle/apple-worm.md) — In this cute brainteaser game with crawling mechanics, you need to help the gluttonous apple snake collect apples and es
+- [Aqua Bubble Blast](../games/puzzle/aqua-bubble-blast.md) — Dive into the vibrant world of Aqua Bubble Blast, an underwater bubble shooter where strategy meets excitement. Progress
+- [Aqua Challenge](../games/puzzle/aqua-challenge.md) — You are a small fish in a huge ocean and you have to try very hard to survive! There are many bigger fish out there and 
+- [Aqua Drop Quest](../games/puzzle/aqua-drop-quest.md) — Dive into Aqua Drop Quest, a refreshing puzzle game where perfect timing and precision lead to success. Masterfully drop
+- [Aqua Fish Tile Match](../games/puzzle/aqua-fish-tile-match.md) — Dive into Aqua Fish Tile Match, where vibrant puzzles and charming sea creatures create a captivating underwater adventu
+- [AQUA PANG](../games/puzzle/aqua-pang.md) — Fun in your hand ~ Aqua Pang! In a beautiful and peaceful Aqualand, One day land animals started taking our friends! Let
+- [Aqua Paradise - Match3](../games/puzzle/aqua-paradise-match3.md) — Dive into the serene depths of Aqua Paradise, where vibrant sea-themed puzzles await. Connect tiles for dazzling combos,
+- [Aqua Sort: Water Color Puzzle](../games/puzzle/aqua-sort-water-color-puzzle.md) — Dive into the relaxing world of Aqua Sort: Water Color Puzzle! Your goal is simple: sort the colored liquids into the fl
+- [Aqualogics Puzzles Game](../games/puzzle/aqualogics-puzzles-game.md) — Aqualogics is a challenging and fast-paced water sorting puzzle game designed for sharp minds! Sort all colored liquids 
+- [AquaSort 2: Color Puzzle](../games/puzzle/aquasort-2-color-puzzle.md) — AquaSort 2: Color Puzzle is an engaging and relaxing water-sorting puzzle game designed to challenge your mind and provi
+- [Aquatic Triple Mahjong](../games/puzzle/aquatic-triple-mahjong.md) — A triple mahjong game with ocean theme. You can eliminate only three of same tiles. Those tiles can be selected which ha
+- [Arabian Night](../games/puzzle/arabian-night.md) — Arabian Night Tic-Tac-Toe made impossible due to the computer's smart counter-move every turn.
+- [Arabian Tic Tac Toe](../games/puzzle/arabian-tic-tac-toe.md) — Arabian Night is competitive game similar as X O, so you will have opponent and your job is to be smarter and to defeat 
+- [Arcane Jigsaw Puzzle](../games/puzzle/arcane-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Arcane Jinx Jigsaw Puzzle](../games/puzzle/arcane-jinx-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Archery Bottle Shoot](../games/puzzle/archery-bottle-shoot.md) — This is a real master 3D Archery Bottle Shooting Expert. Different bottle shoot games brings you wildly and amazing inte
+- [Arctic Path Puzzle](../games/puzzle/arctic-path-puzzle.md) — Navigate the frosty tundra in Arctic Path Puzzle, where sliding through icy paths becomes an addictive brain workout. So
+- [Ariel | The Little Mermaid Match 3 Puzzle](../games/puzzle/ariel-the-little-mermaid-match-3-puzzle.md) — Are you like The Little Mermaid? and you want play The new Of Princess Games The Little Mermaid Now You Can Play New Fre
+- [Aristocats Jigsaw Puzzle Collection](../games/puzzle/aristocats-jigsaw-puzzle-collection.md) — Go to the party with the aristocratic cats! There will be everything: a lot of people, delicious treats, great music and
+- [Arithmetic Kids Games](../games/puzzle/arithmetic-kids-games.md) — Arithmetic Kids Game is a game where you can show your mathematical knowledge. In this math game you have to add, subtra
+- [Arithmetic Line](../games/puzzle/arithmetic-line.md) — This is a game mix between calculation and ingenuity. Above the head there will be a problem, you need to calculate and 
+- [Arithmetic Lines](../games/puzzle/arithmetic-lines.md) — Arithmetic Lines is a fun math game where you have to find the right math sign that answers the given question. You need
+- [Arlo & Spots Jigsaw Puzzle Planet](../games/puzzle/arlo-spots-jigsaw-puzzle-planet.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles.let's see how fast can you solve this
+- [Arlo the Alligator Boy Jigsaw Puzzle](../games/puzzle/arlo-the-alligator-boy-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Armored Fighters Jigsaw](../games/puzzle/armored-fighters-jigsaw.md) — Armored Fighters Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choo
+- [Army Of Skeletons Jigsaw](../games/puzzle/army-of-skeletons-jigsaw.md) — Army Of Skeletons Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 image
+- [Army Run Merge](../games/puzzle/army-run-merge.md) — Embark on an exhilarating journey of strategy and speed in this adrenaline-pumping runner game! Merge weapons to forge f
+- [Army Trucks Hidden Objects](../games/puzzle/army-trucks-hidden-objects.md) — Army Trucks Hidden Objects is a game with hidden bombs. You need to find all 10 hidden bombs in one image for 60 seconds
+- [Army Trucks Jigsaw](../games/puzzle/army-trucks-jigsaw.md) — Army Trucks Jigsaw game is free online game and you have 6 images of in three modes to play easy, medium and hard. Choos
+- [Army Trucks Memory](../games/puzzle/army-trucks-memory.md) — Army Trucks Memory is memory game with army trucks. In this game you need to memorize the place of images and than they 
+- [Army Vehicles And Aircraft Memory](../games/puzzle/army-vehicles-and-aircraft-memory.md) — Army Vehicles And Aircraft Memory is a free online game from genre of memory and monsters truck games. Flip the tiles an
+- [Army Vehicles Memory](../games/puzzle/army-vehicles-memory.md) — Army Vehicles Memory is a free online game from genre of memory and military games. Flip the tiles and try to match them
+- [Army Weapon Vehicles Match 3](../games/puzzle/army-weapon-vehicles-match-3.md) — Army Weapon Vehicles Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a
+- [Arnie Attack 1](../games/puzzle/arnie-attack-1.md) — Arnie Attack 1 game has a lot of success review and player this MONTH that significantly improves overall game performan
+- [Arrow Cube 3D](../games/puzzle/arrow-cube-3d.md) — Remove every arrow from the six-sided cube by finding the perfect order. Arrow Cube Escape is a calm 3D logic puzzle tha
+- [Arrow Escape 3D](../games/puzzle/arrow-escape-3d.md) — Arrow Escape 3D is a calm 3D puzzle game played on the surface of a cube. Tap a colorful arrow to send it sliding off th
+- [Arrow Exit Puzzle](../games/puzzle/arrow-exit-puzzle.md) — 🔓 Unlock your logic with Arrow Away! Looking for a satisfying brain workout? Arrow Away is a minimalist logic puzzle ga
+- [Arrow Jam](../games/puzzle/arrow-jam.md) — A logic puzzle where every move changes the whole situation on the board. Arrows are scattered across a grid. Tap an arr
+- [ARROW MASTER](../games/puzzle/arrow-master.md) — Master your reflexes with arrow master you need to hit all the arrows correctly by avoiding the other arrows Dont let th
+- [Arrow Parking](../games/puzzle/arrow-parking.md) — Arrow Parking is a relaxing puzzle game that challenges players to think ahead. Place arrow tiles to create the perfect 
+- [Arrow Rope Maze](../games/puzzle/arrow-rope-maze.md) — Arrow Rope Maze is a relaxing yet clever escape puzzle where your goal is to guide each arrow along its rope without get
+- [Arrow Shift Logic Tree](../games/puzzle/arrow-shift-logic-tree.md) — In Arrow Shift Logic Tree, every movement must follow the rules of the arrows. One wrong slide can leave you trapped, wh
+- [Arrow Swipe Game](../games/puzzle/arrow-swipe-game.md) — Arrow Out Puzzle Game is a fun, brain-challenging puzzle game designed to test your logic, focus, and problem-solving sk
+- [Arrow Tap Game](../games/puzzle/arrow-tap-game.md) — Puzzle, Brain, Logic, Maze, Mind, Levels, onetouch, touch, Casual, Skill, 2026 g Arrow Tap Escape Puzzle Games is a rela
+- [ArrowBlob Puzzle Quest](../games/puzzle/arrowblob-puzzle-quest.md) — Navigate captivating puzzles in ArrowBlob Puzzle Quest, where every move counts. Strategically toggle arrow blocks to gu
+- [Arrower](../games/puzzle/arrower.md) — Arrower is a minimalist and relaxing puzzle game. The goal is to move all yellow arrows to the yellow box. You do it by 
+- [Arrows Disappear](../games/puzzle/arrows-disappear.md) — You are faced with a growing stack of 3D blocks, each showing different arrow directions. The core idea is quick decisio
+- [Arrows Out!](../games/puzzle/arrows-out.md) — Arrow Escape is a puzzle game that delivers fast-paced, strategic challenges for players who enjoy logic-driven gameplay
+- [Arrows Out 3D](../games/puzzle/arrows-out-3d.md) — Arrows Out 3D is a relaxing 3D puzzle game about clearing a solid made of paper blocks, one arrow at a time. Every block
+- [Art Of Puzzle](../games/puzzle/art-of-puzzle.md) — Art Of Puzzle is a free jigsaw online puzzle game with beautiful pictures for boys, which can make you feel at ease and 
+- [Ash Hidden Objects](../games/puzzle/ash-hidden-objects.md) — Today in this game your task is to help the funny Ash and pikachu to find the hidden objects. After entering one of the 
+- [Ash Hidden Objects](../games/puzzle/ash-hidden-objects-2.md) — Join the amusing Ash and Pikachu on a treasure hunt to uncover hidden objects. Sharpen your concentration, race against 
+- [ASMR Image Match Puzzle](../games/puzzle/asmr-image-match-puzzle.md) — Rediscover comfort and joy with Onet Puzzle, your go-to tile match &amp; connect game for moments of relaxation and pure
+- [Assemble Factory Puzzle](../games/puzzle/assemble-factory-puzzle.md) — Play Assemble Factory Puzzle, a free online game where you solve challenging assembly line puzzles. Strategically place 
+- [Asterix and Obelix Jigsaw Puzzle](../games/puzzle/asterix-and-obelix-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Asterix Jigsaw Puzzle Collection](../games/puzzle/asterix-jigsaw-puzzle-collection.md) — Asterix is now in a terrible mood, so in order to cheer him up, you need to perform an interesting and exciting task. Th
+- [Aston Martin Vantage Roadster Puzzle](../games/puzzle/aston-martin-vantage-roadster-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Aston Martin Vantage Roadster Puzzle. All images is with the car 
+- [Astro Merge](../games/puzzle/astro-merge.md) — Merge falling planets, create combos, and build the biggest stack! The pressure keeps rising, so think fast and beat you
+- [Astro Playtime](../games/puzzle/astro-playtime.md) — Astro Playtime is a game for kids where they have to match-3 of the same type of elements like Moon, Earth, Mars etc. Th
+- [Astronaut Jigsaw](../games/puzzle/astronaut-jigsaw.md) — Astronaut jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsaw
+- [Astronaut Jump](../games/puzzle/astronaut-jump.md) — come on this strategy adventure so you don't get lost in the infinity of space!
+- [Atlantis The Lost Empire Jigsaw Puzzle Collection](../games/puzzle/atlantis-the-lost-empire-jigsaw-puzzle-collection.md) — This game is based on the famous cartoon Atlantis The Lost Empire. The goal of the game is extremely simple – you need t
+- [Atomic Merge 2048](../games/puzzle/atomic-merge-2048.md) — Combine falling blocks in a thrilling race to 2048! Strategically drop and merge numbers to prevent cosmic chaos. Keep y
+- [Attack a Word](../games/puzzle/attack-a-word.md) — Dear friends, I hope you are enjoying this app. You can improve your vocabulary by searching and matching words in Words
+- [Attack on Titan Jigsaw Puzzle](../games/puzzle/attack-on-titan-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Attack on Titan Puzzle Jigsaw](../games/puzzle/attack-on-titan-puzzle-jigsaw.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [ATV Adventure Puzzle](../games/puzzle/atv-adventure-puzzle.md) — In this ATV Adventure Puzzle game you have 6 images of famous characters in three modes to play. Choose one of the mode 
+- [ATV Offroad Puzzle](../games/puzzle/atv-offroad-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: ATV Offroad Puzzle. All images is with the atv offroad. Solve all
+- [ATV Quad Bike Racing](../games/puzzle/atv-quad-bike-racing.md) — ATV Quad Bike Racing game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Ch
+- [Audi Q5 TDI Puzzle](../games/puzzle/audi-q5-tdi-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Audi Q5 TDI Puzzle. All images is with the car - audi q5 tdi. Sol
+- [Audi Q7 Jigsaw](../games/puzzle/audi-q7-jigsaw.md) — This is a jigsaw game with Audi cars. You can find 12 images of Audi Q7 vehicles. Start the game click on the first imag
+- [Audi RS Q Dakar Rally Puzzle](../games/puzzle/audi-rs-q-dakar-rally-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Audi RS Q Dakar Rally Puzzle. All images is with the car - Audi R
+- [Audi RS Q Dakar Rally  Slide](../games/puzzle/audi-rs-q-dakar-rally-slide.md) — Play this slide puzzle games of the car - Audi RS Q Dakar Rally. It's include 3 images and 3 modes (3x3 pieces, 4x4 piec
+- [Audi RS3 Puzzle](../games/puzzle/audi-rs3-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Audi RS3 Puzzle. All images is with the car - Audi RS3. Solve all
+- [Audi TTS Roadster Slide](../games/puzzle/audi-tts-roadster-slide.md) — Play this slide puzzle games of the car - audi tts roadster. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 
+- [Audi Vehicles Jigsaw](../games/puzzle/audi-vehicles-jigsaw.md) — Audi Vehicles Jigsaw is a game where you can choose one of twelve pictures with Audi vehicles. Choose a mode to play wit
+- [Australian Hero Match 3](../games/puzzle/australian-hero-match-3.md) — Australian Hero Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a seri
+- [Autumn Garden - Find 100 butterflies](../games/puzzle/autumn-garden-find-100-butterflies.md) — Find 100 butterflies hidden in different places in 20 pictures. Good luck!
+- [Autumn Halloween Jigsaw](../games/puzzle/autumn-halloween-jigsaw.md) — Autumn halloween jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct
+- [Autumn Leaves Match 3](../games/puzzle/autumn-leaves-match-3.md) — Autumn Leaves Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series
+- [Autumn Slide](../games/puzzle/autumn-slide.md) — Play this slide puzzle games of the autumn. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 pieces) to pl
+- [Autumn Trees Jigsaw](../games/puzzle/autumn-trees-jigsaw.md) — Autumn Trees jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jig
+- [Avengers Bubble Shooter](../games/puzzle/avengers-bubble-shooter.md) — Play the classic and most addictive bubble pop game, match 3 characters and clear levels. You need to aim & shoot, to dr
+- [Aviation Art Air Combat Slide](../games/puzzle/aviation-art-air-combat-slide.md) — Play this slide puzzle games of the aviation art air combat. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 
+- [Avoid The Tow Truck](../games/puzzle/avoid-the-tow-truck.md) — Change your moving direction by touching or clicking the screen and try to avoid tow truck who want to catch you.
+- [Awesome 4x4 Slider](../games/puzzle/awesome-4x4-slider.md) — Move pieces of awesome images between tiles to arrange them in correct order. Touch or click a block to shift it on adja
+- [Axe Shoot](../games/puzzle/axe-shoot.md) — Axe Shoot is one of the most relaxing and fun free simulator casual games. This is a popular tap and smashes arcade game
+- [Axes Merge](../games/puzzle/axes-merge.md) — Combine (3 or more, in lines) axes to create even more powerful axes! How far can your power reach? But be careful not t
+- [Axes Merge](../games/puzzle/axes-merge-2.md) — Unleash your strategic skills in Axes Merge, a thrilling match-3 game where you combine axes to forge mightier weapons. 
+- [Axolotl Jigsaw Picture Puzzle](../games/puzzle/axolotl-jigsaw-picture-puzzle.md) — Immerse yourself in Axolotl Jigsaw Picture Puzzle, where stunning imagery meets enchanting creature lore. Each completed
+- [Baba Is You](../games/puzzle/baba-is-you.md) — Baba Is You transforms puzzle-solving into a creative adventure where you manipulate game rules by rearranging words. Gu
+- [Baby Appa Tile Puzzle Frenzy](../games/puzzle/baby-appa-tile-puzzle-frenzy.md) — Embark on a tile-shifting adventure with Baby Appa Tile Puzzle Frenzy, where strategy meets fun. Slide tiles to reconstr
+- [Baby Bath Jigsaw](../games/puzzle/baby-bath-jigsaw.md) — Baby Bath Jigsaw is a fun online puzzle game. Drag the pieces into right position using mouse. Solving puzzles is relaxi
+- [Baby Bear Jigsaw](../games/puzzle/baby-bear-jigsaw.md) — Baby Bear Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the six images and t
+- [Baby Bubble Pop](../games/puzzle/baby-bubble-pop.md) — Step into a whimsical world with Baby Bubble Pop! Young players delight in popping pastel bubbles as they drift down aga
+- [Baby Care : Toddler games](../games/puzzle/baby-care-toddler-games.md) — Game for children " Baby care" necessarily will like little restless, because this wonderful kid will not leave anyone i
+- [Baby Daisy Caring and Fun Time](../games/puzzle/baby-daisy-caring-and-fun-time.md) — Baby Daisy Caring and Fun Time game is free online game in jigsaw puzzle genre. You have 6 images in three modes to play
+- [Baby Daisy Having Fun](../games/puzzle/baby-daisy-having-fun.md) — In this Baby Daisy Having Fun game you have 6 images with famous character baby Daisy in three modes to play. Choose one
+- [Baby Dragons Memory](../games/puzzle/baby-dragons-memory.md) — Baby Dragons Memory is a free online game from genre of memory. Flip the tiles and try to match them up in pairs. Pair u
+- [Baby Dress Jigsaw](../games/puzzle/baby-dress-jigsaw.md) — Baby Dress jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsa
+- [Baby Merge: Puzzle Master](../games/puzzle/baby-merge-puzzle-master.md) — Baby Merge is an irresistibly cute drop-and-merge puzzle game! Drop adorable baby animals into the pen &mdash; when two 
+- [Baby Panda Animal Puzzle](../games/puzzle/baby-panda-animal-puzzle.md) — Baby Panda Animal Puzzle is a very popular game. Do you love animals? I guess the answer is yes! In this game, you can c
+- [Baby Room Differences](../games/puzzle/baby-room-differences.md) — Baby Room Difference is fun game suitable for all ages. Do you have an eagle eye? Look at two photos and see if you can 
+- [Baby Shark](../games/puzzle/baby-shark.md) — "Baby Shark" is a children's song about a family of sharks. Popular as a campfire song, it has taken off since 2016, spr
+- [Baby Sitter: Merge 2](../games/puzzle/baby-sitter-merge-2.md) — Help a young mother take care of her restless baby. Relax in this colorful game! Connect tiles and decorate the nursery.
+- [Baby Taylor Bubble Tea Maker](../games/puzzle/baby-taylor-bubble-tea-maker.md) — Bubble Tea is the favorite drink of girls nowadays. If you go out, you will see almost every girl has a glass of Bubble 
+- [Baby Taylor Bubble Tea Maker - Milk Tea Shop](../games/puzzle/baby-taylor-bubble-tea-maker-milk-tea-shop.md) — Did you mention bubble tea? Bubble tea has become one of the most popular drinks. On the street or in the mall, you will
+- [Baby Taylor Superhero Emergency](../games/puzzle/baby-taylor-superhero-emergency.md) — We all know Taylor and she is a good friend of ours. But he also has a secret identity, a superhero. After school, Taylo
+- [Baby Tiger Jigsaw Puzzles](../games/puzzle/baby-tiger-jigsaw-puzzles.md) — Dive into vibrant challenges with Baby Tiger Jigsaw Puzzles! Experience brain-teasing fun as you move tiles into place, 
+- [Baby Unicorn Memory Match & Hidden Objects](../games/puzzle/baby-unicorn-memory-match-hidden-objects.md) — Enter a whimsical unicorn realm where memory and attention collide in delightful harmony. Match enchanting cards and unc
+- [Back To School Jigsaw Picture Puzzle](../games/puzzle/back-to-school-jigsaw-picture-puzzle.md) — Unravel the charm of school days in Back To School Jigsaw Picture Puzzle. Test your perception and analytical skills by 
+- [Back To School Memory](../games/puzzle/back-to-school-memory.md) — Back To School Memory is a free online game from genre of memory and kids games. Flip the tiles and try to match them up
+- [Background Color Tap](../games/puzzle/background-color-tap.md) — In this tap game you need to tap the squares who have the same color as color when background blink. Be careful, because
+- [Backyard Parking Car Jam](../games/puzzle/backyard-parking-car-jam.md) — Play one of the most realistic parking games on the market. Drive various cars each with an unique behavoir. Discover lo
+- [Bacteria](../games/puzzle/bacteria.md) — Dive into a microscopic puzzle world in Bacteria. Touch and detonate organisms, setting off chain reactions to clear eac
+- [Bad Piggies Jigsaw Puzzle Collection](../games/puzzle/bad-piggies-jigsaw-puzzle-collection.md) — Bad Piggies games offer a return to the colorful worlds of angry birds. But not in order to shoot, but in order to evalu
+- [Bad Piggies Mact3 Puzzle](../games/puzzle/bad-piggies-mact3-puzzle.md) — Bad Piggies games offer a return to the colorful worlds of angry birds. But not in order to shoot, but in order to evalu
+- [Bad Piggies Match-3 Game](../games/puzzle/bad-piggies-match-3-game.md) — Welcome to our space shooting gallery! Shoot all the bad piggies in the shooting range! Be careful not to hit the Angry 
+- [Badabump](../games/puzzle/badabump.md) — Hey there, help little dragon Badabump release as many fireballs as possible! Unfortunately, the little dragon has had a
+- [Bakugan Jigsaw Puzzle Collection](../games/puzzle/bakugan-jigsaw-puzzle-collection.md) — A puzzle puzzle game with the participation of heroes from Bakugan. Choose a difficulty mode, mix the pieces and then tr
+- [Balance](../games/puzzle/balance.md) — Balance is a game where you have to jump over boxes and balance them. As more boxes come, you are on a taller tower and 
+- [Balance Quest](../games/puzzle/balance-quest.md) — Embark on Balance Quest, a captivating journey where agility and strategy merge. Navigate tricky obstacles, deftly balan
+- [Balance Stack](../games/puzzle/balance-stack.md) — The player needs to stack the Shapes One by One without making them fall. After all Shapes are stacked, a short timer st
+- [Baldie Jigsaw Challenge](../games/puzzle/baldie-jigsaw-challenge.md) — Baldie Jigsaw Challenge is a super fun and free to play online puzzle game for kids and adults. Drag the small pieces in
+- [Ball 27](../games/puzzle/ball-27.md) — Ball 27 is a hyper-casual game with a minimalist look and procedural difficulty. A super challenging game where you shot
+- [Ball and Goal](../games/puzzle/ball-and-goal.md) — Touch the ball, aim and shoot and try to get score on the goal. You can have 3 mistakes before game is ended. So be prec
+- [Ball and Maze](../games/puzzle/ball-and-maze.md) — Ball and Maze Puzzle is a challenging maze game. Slide the ball to move it and collect stars. Collect all the stars and 
+- [Ball Battle](../games/puzzle/ball-battle.md) — Ball battle is a game in which you play as the blue and compete against the red. Hit the white balls with your main ball
+- [Ball Blaster](../games/puzzle/ball-blaster.md) — Ball Blaster Dont Cras hDumagu Zombies Night game has a lot of success review and player this MONTH that significantly i
+- [Ball Blaster Canon](../games/puzzle/ball-blaster-canon.md) — Ball Blaster is a hyper-casual addictive game where you use a cannon to shoot bombs at huge boulders to smash them and g
+- [Ball Break The Hoops](../games/puzzle/ball-break-the-hoops.md) — Ball Bounce Break The Hoops is a thrilling and fast-paced arcade game that challenges your timing, precision, and reflex
+- [Ball Burst](../games/puzzle/ball-burst.md) — Launch into Ball Burst, the addictive puzzle where every tap sends a cascade of color. Strategize your shots, watch vibr
+- [Ball Catcher](../games/puzzle/ball-catcher.md) — Ball Catcher is a puzzle game for kids. At this game you need to have good reflex. The goal is to catch the small balls 
+- [Ball Catcher Game](../games/puzzle/ball-catcher-game.md) — Catch the balls with different colored ball, carefully choose the side. The game is difficult. Simple and addictive game
+- [Ball Collector](../games/puzzle/ball-collector.md) — There will be three targets on the bottom of the game. They will be yellow, pink and blue. A bomb will move in front of 
+- [Ball color](../games/puzzle/ball-color.md) — Its a simple puzzle game. You need to sort the mixed balls in the container according to their colors. The game settings
+- [Ball Color 3D Game](../games/puzzle/ball-color-3d-game.md) — The objects in Ball Color3D are composed of various geometric shapes, including common spheres, cubes, and rhomboids, as
+- [Ball Color Smash](../games/puzzle/ball-color-smash.md) — Ball Color Smash is an exciting and fast-paced arcade game that tests your reflexes and color-matching skills. In this g
+- [Ball Color Sort Puzzle Game](../games/puzzle/ball-color-sort-puzzle-game.md) — Test your wits with the Ball Color Sort Puzzle Game, where you strategically organize vibrant balls into tubes. Enjoy a 
+- [Ball Connect](../games/puzzle/ball-connect.md) — Ball Connect is a fun and brain-teasing puzzle game where your goal is to link matching balls through a tangled grid of 
+- [Ball Crush](../games/puzzle/ball-crush.md) — Dive into Ball Crush, where speed meets strategy in a thrilling 60-second puzzle frenzy. Match clusters of identical bal
+- [Ball Cup Boom](../games/puzzle/ball-cup-boom.md) — Ball Cup Boom is a physics-based puzzle game where you must carefully pick up the ball using your mouse and guide it int
+- [Ball Domino](../games/puzzle/ball-domino.md) — Dive into a captivating puzzle world with Ball Domino, where your strategy sets off mesmerizing chain reactions. Guide y
+- [Ball Duet](../games/puzzle/ball-duet.md) — Ball Duet is an exciting endless bouncing game in which you touch left to turn the ball left, touch right to turn the ba
+- [Ball Fall 2](../games/puzzle/ball-fall-2.md) — Ball Fall is a free and addictive online game for boys played on PuzzleGame. Choose the right direction and throw your c
+- [BALL FiLL CHALLANGE](../games/puzzle/ball-fill-challange.md) — Santa Ball Fill 3D - New Use your brain and find a way to get down the santa ball fill 3d Features of santa ball fill 3d
+- [Ball Fit Puzzle](../games/puzzle/ball-fit-puzzle.md) — Fit Balls is a fun and addictive puzzle game. Pour the ball into the jar,Put all the balls fit in the jar without crossi
+- [Ball Jump](../games/puzzle/ball-jump.md) — Ball Jump is ball game where you need to control ball by clicking on the screen or to use arrow keys to move right or le
+- [Ball Jump Switch](../games/puzzle/ball-jump-switch.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Ball Magnet](../games/puzzle/ball-magnet.md) — Get ready for an extremely new, simple, original, but at the same time challenging. Move the magnet to attract the block
+- [Ball_Match](../games/puzzle/ball-match.md) — You can play the super ball match game online for free at y9-games.com! You will love this fun ball game. Collect all th
+- [Ball Maze](../games/puzzle/ball-maze.md) — Balls Maze is a classic puzzle game, perfect for taking a quick break to train your brain. It’s designed to be a surpris
+- [Ball Merge 2048](../games/puzzle/ball-merge-2048.md) — In Ball Merge 2048, you start the game with ball number 2 and enlarge your ball with multiples of number 2. Try to reach
+- [Ball Packing Master Puzzle &ndash; Fill Box](../games/puzzle/ball-packing-master-puzzle-ndash-fill-box.md) — Sort colorful balls, fill the correct boxes, and solve satisfying sorting puzzles! Plan your moves carefully, use helpfu
+- [Ball Paint 3D](../games/puzzle/ball-paint-3d.md) — Ball Paint 3D is a relaxing, simple, and fun game for kids, free online. You only have to find the balls of the same col
+- [Ball Puzzle](../games/puzzle/ball-puzzle.md) — If you want to exercise your brain and increase your ability to think, then try this simple yet addicting puzzle game. I
+- [Ball Puzzle](../games/puzzle/ball-puzzle-2.md) — Slide tiles to create a seamless path and guide the eager ball to its destination in Ball Puzzle. With limited moves and
+- [Ball Roll Color 2048](../games/puzzle/ball-roll-color-2048.md) — Immerse yourself in the enchanting world of 2048 Ball Roll and Color, a delightful casual game that promises simplicity 
+- [Ball Rotate](../games/puzzle/ball-rotate.md) — Ball Rotate is a puzzle game that rotates a touch screen to let the Ball come out of the maze and eventually into the pi
+- [Ball Slider](../games/puzzle/ball-slider.md) — Guide your ball through intricate mazes, collecting coins while avoiding walls in this addictive puzzle challenge. With 
+- [Ball Sort](../games/puzzle/ball-sort.md) — Ball Sort Puzzle is a fun and addictive puzzle game! Try to sort the colored balls in the tubes until all balls with the
+- [Ball Sort 2D](../games/puzzle/ball-sort-2d.md) — As the most relaxing and addictive color sorting game, this ball puzzle is engineered to both entertain and sharpen your
+- [Ball Sort Color](../games/puzzle/ball-sort-color.md) — Ball Sort Color is a free leisure online game for boys that can exercise wisdom and brain. Your main task is to make eac
+- [Ball Sort Color Puzzle](../games/puzzle/ball-sort-color-puzzle.md) — Challenge your logic with Ball Sort Color Puzzle, where strategy is key. Sort vibrant balls into flasks, advancing throu
+- [Ball Sort - Color Puzzle Game](../games/puzzle/ball-sort-color-puzzle-game.md) — Dive into the strategic world of Ball Sort, where sorting colorful spheres becomes a delightful brain exercise. Plan eac
+- [Ball Sort Halloween](../games/puzzle/ball-sort-halloween.md) — Immerse yourself in the festive spirit with Ball Sort Halloween! Engage in a mesmerizing puzzle game, where your task is
+- [Ball Sort Master 3D](../games/puzzle/ball-sort-master-3d.md) — Color Ball Sort 3D Match Puzzle offers visually appealing 3D graphics with vibrant colors and clean designs. The animati
+- [Ball Sort Puzzle](../games/puzzle/ball-sort-puzzle.md) — Someone mixed the balls in the flasks! Put things in order and sort the balls so that each flask contains balls of the s
+- [Ball Sort Puzzle](../games/puzzle/ball-sort-puzzle-2.md) — Ball Sort - Bubble Sort Puzzle Game Sharpen your mind by playing this awesome brain puzzle game.
+- [Ball Sort Puzzle](../games/puzzle/ball-sort-puzzle-3.md) — Challenge your mind with Ball Sort Puzzle, where vibrant colors meet strategic planning. Arrange matching balls in their
+- [Ball Sort Puzzle](../games/puzzle/ball-sort-puzzle-4.md) — Immerse yourself in Ball Sort Puzzle, a captivating game where your strategic skills are key. Sort vibrant balls into ma
+- [Ball Sort Puzzle block 3d](../games/puzzle/ball-sort-puzzle-block-3d.md) — Ball Sort Puzzle is a fun and addictive puzzle game! Try to sort the colored balls in the tubes until all balls with the
+- [Ball Sort Puzzle - Color Games](../games/puzzle/ball-sort-puzzle-color-games.md) — Ball Sort Puzzle, a color sorting game, is a fun and relaxing game that entertains and stimulates your brain! Quickly so
+- [Ball Sort Puzzle Free](../games/puzzle/ball-sort-puzzle-free.md) — Ball Sort Puzzle is a challenging puzzle game that will keep you entertained for hours! Sort the colored balls in the tu
+- [Ball Sort Puzzle Game](../games/puzzle/ball-sort-puzzle-game.md) — Immerse yourself in the colorful challenge of sorting vibrant balls into their matching tubes. Test your strategic skill
+- [Ball Sort Puzzle New](../games/puzzle/ball-sort-puzzle-new.md) — An addictive puzzle and matching game to train your brain. Move the balls properly to divide them into separate tubes (s
+- [Ball Stair Jump](../games/puzzle/ball-stair-jump.md) — Ball Stair Jump is an arcade game where you have to climb the steps with a bouncing ball. You have to bounce the ball in
+- [Ball to Roll](../games/puzzle/ball-to-roll.md) — Send your ball into the golf hole. There are three stars in the scene. The more stars you collect, the higher the evalua
+- [Ball toss puzzle](../games/puzzle/ball-toss-puzzle.md) — Toss all of the balls onto the board to fill up all of the spaces. Think ahead to make sure the entire board gets filled
+- [ball vs spikes](../games/puzzle/ball-vs-spikes.md) — In this game, you can challenge your friend and compete with them in the leaderboard. This casual game can keep you ente
+- [Ball Wall 2](../games/puzzle/ball-wall-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [BallBlastPals](../games/puzzle/ballblastpals.md) — BallBlastPals is a bright and exciting bubble-shooter adventure where fun meets fast thinking! Aim your launcher, shoot 
+- [BallCrazeSortGame](../games/puzzle/ballcrazesortgame.md) — Tap on the colored boxes below to match them with the corresponding balls above. Pair each box with its matching color t
+- [BallDestroy](../games/puzzle/balldestroy.md) — Dive into BallDestroy, where strategic tapping meets colorful chaos. Match three or more same-colored balls to shatter t
+- [Ballerina Cappuccina loves Tung Tung Sahur](../games/puzzle/ballerina-cappuccina-loves-tung-tung-sahur.md) — Dive into a whimsical world where love defies gravity! In this enchanting puzzle adventure, carefully remove blocks to h
+- [Ballet Tutu Jigsaw](../games/puzzle/ballet-tutu-jigsaw.md) — Ballet tutu jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigs
+- [Balloon Match Master](../games/puzzle/balloon-match-master.md) — Balloon Match Master is the perfect game for anyone who loves colorful, fun, and addictive gameplay. With easy-to-learn 
+- [Balloon Match Master](../games/puzzle/balloon-match-master-2.md) — Pop into the colorful, strategic world of Balloon Match Master. Match and burst same-color balloons against the clock ac
+- [Balloon Maze](../games/puzzle/balloon-maze.md) — Navigate vibrant mazes by rotating pathways, guiding a spiked ball to burst colorful balloons. Every level challenges yo
+- [Balloon Paradise](../games/puzzle/balloon-paradise.md) — Today in the city amusement park will be held a skill competition called Balloon Paradise in which you can take part. Th
+- [Balloon Paradise Pet Bubble Pop Match Ice Cream](../games/puzzle/balloon-paradise-pet-bubble-pop-match-ice-cream.md) — "Balloon Paradise Pet Bubble Pop Match Ice Cream"Today in the city amusement park will be held a skill competition calle
+- [Balloon Pop Challenge](../games/puzzle/balloon-pop-challenge.md) — Immerse yourself in Balloon Pop Challenge, a vibrant puzzle experience where strategic popping of colorful clusters lead
+- [Balloon Pop Games - Bubble Popper Baloon Popping](../games/puzzle/balloon-pop-games-bubble-popper-baloon-popping.md) — The balloon app involves fun and exciting balloon pop free games filled with colorful balloons for children to pop and e
+- [Balloon Popping 2](../games/puzzle/balloon-popping-2.md) — This is an engaging dart and balloon game played within a two-dimensional grid. Gameplay:In this game, you are presented
+- [Balloon Popping Game for Kids - Online Games](../games/puzzle/balloon-popping-game-for-kids-online-games.md) — Play the best offline balloon popping game for kids. Totally free. Balloon Popping by SNG is the best free offline game 
+- [Balloon Popping3](../games/puzzle/balloon-popping3.md) — This is an engaging dart and balloon game played within a two-dimensional grid. Gameplay:In this game, you are presented
+- [Balloon Slicer](../games/puzzle/balloon-slicer-2.md) — Balloon Slicer challenges your instincts as you deftly launch blades to burst balloons through complex, bouncy courses. 
+- [Balloon Slicer Game](../games/puzzle/balloon-slicer-game.md) — Balloon Slicer is a very addictive online puzzle game for free. It is designed for boys. There are lots of ballons surro
+- [Balloon Touch Bubble](../games/puzzle/balloon-touch-bubble.md) — Balloon pop for toddlers. Balloon pop games smasher for kids. Offline, no wifi
+- [Balloons and scissors](../games/puzzle/balloons-and-scissors-2.md) — Dive into the vibrant world of Balloons and Scissors, where mental agility and precision blend seamlessly. Pop colorful 
+- [Balloons Creator](../games/puzzle/balloons-creator.md) — Balloons Creator – this is a game in which you need to create colorful balls and fill the area on the screen with them.
+- [Balloons Creator Game](../games/puzzle/balloons-creator-game.md) — Balloons Creator is a free online puzzle game for boys played on PuzzleGame. You need to create colorful balls to make t
+- [Balloons Game](../games/puzzle/balloons-game.md) — Welcome to our newest free game Balloons. The goal of the game is to pop the balloons much as you can, to reach the targ
+- [Balloons Matching Deluxe](../games/puzzle/balloons-matching-deluxe.md) — Swap adjacent blocks in order to make a horizontal or vertical row of 3 identical blocks. To complete a level you need t
+- [Balls Animal](../games/puzzle/balls-animal.md) — Balls Animal is an addictive brain teaser where players sort colorful balls into matching tubes to solve challenging puz
+- [Balls Catch Game](../games/puzzle/balls-catch-game.md) — Balls Catch Game is a fun and addictive casual arcade game that challenges your reflexes and timing. Colorful balls fall
+- [Balls Catching](../games/puzzle/balls-catching.md) — Balls catching is fast paced realistic ball catching game with gorgeous look and great atmosphere, simple control and ha
+- [Balls Crusher](../games/puzzle/balls-crusher.md) — Balls Crusher is a casual puzzle game which is suitable for all ages. You only need to aim the balloon to launch. Until 
+- [Balls Fill 3D](../games/puzzle/balls-fill-3d.md) — Christmas is coming. Santa wants to bring out the twisted eggs for the coming of the festival. Can you help Santa put th
+- [Balls Numbers](../games/puzzle/balls-numbers.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Balls Numbers Match !](../games/puzzle/balls-numbers-match.md) — Can you shoot balls, merge them and reach 2048 ? This game is a mix of arcade and puzzle game. You will love it as it is
+- [Balls Out 3D](../games/puzzle/balls-out-3d.md) — Balls Out 3D is fun addictive hyper casual puzzle game.Rotate the maze to move balls into the tube. One-touch simple con
+- [Balls Rolling 3D: Sky Ball](../games/puzzle/balls-rolling-3d-sky-ball.md) — Roll and Balance your ball in the sky. Reach the destination without falling. Select your Rolling Ball and start the Sky
+- [Balls Sorter - Puzzle](../games/puzzle/balls-sorter-puzzle.md) — Immerse yourself in Balls Sorter - Puzzle, where vibrant colors meet strategic challenges. Test your logic and hone your
+- [BallSdestroy](../games/puzzle/ballsdestroy.md) — Unleash your quick wits and nimble fingers in BallSdestroy, a pulse-pounding marble matching game. Overcome time-pressur
+- [Ballz Puzzle](../games/puzzle/ballz-puzzle.md) — Bricks Breaker - Glow Balls is a addictive and challenging brick game. Just play it to relax your brain. Be focus on bre
+- [Ballz Puzzle](../games/puzzle/ballz-puzzle-2.md) — Devise a strategy and fire balls to shatter an ever-advancing array of bricks. Precision and timing are key as you colle
+- [Ballz Shooter](../games/puzzle/ballz-shooter.md) — Falling Ball is a frantic arcade game in which you need to shoot balls down the screen to take health off of the static 
+- [Bambi Jigsaw Puzzle Collection](../games/puzzle/bambi-jigsaw-puzzle-collection.md) — This puzzle game offers you to collect from a huge number of pieces one of the frames of the famous film created at the 
+- [Bamboo](../games/puzzle/bamboo.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [BanJia](../games/puzzle/banjia.md) — Casual Moving Game,Includes house decoration!A level-breaking game with a store system that can be used to purchase new 
+- [Bank Robbery Puzzle](../games/puzzle/bank-robbery-puzzle.md) — Become a master thief! Choose your hero, crack security systems, avoid guards, complete dangerous heists, and steal your
+- [Banshee Memory Puzzle & Hidden Objects](../games/puzzle/banshee-memory-puzzle-hidden-objects.md) — Immerse yourself in a haunted adventure where memory puzzles meet hidden object quests. Match ghostly cards, uncover sec
+- [Barbarian Hunters](../games/puzzle/barbarian-hunters.md) — You must immediately neutralize the barbarians who attack your village but do not inadvertently harm women. Otherwise yo
+- [Barbecue Picnic Hidden Objects](../games/puzzle/barbecue-picnic-hidden-objects.md) — In this hidden objects game your job is to find ten hidden barbecues in each image. Try to pass all six levels and to wi
+- [Barbecue Ribs Jigsaw](../games/puzzle/barbecue-ribs-jigsaw.md) — Barbecue ribs jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct ji
+- [Barbell Sort Puzzle](../games/puzzle/barbell-sort-puzzle.md) — Barbell Sort Puzzle is a sorting game, each barbell has different color barbell pieces, you need to move the same color 
+- [Barbie Dreamhouse Adventure Jigsaw Puzzle](../games/puzzle/barbie-dreamhouse-adventure-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles.let's see how fast can you solve this
+- [Barbie Hidden Star](../games/puzzle/barbie-hidden-star.md) — Find all hidden stars object in the scene and enjoy !
+- [Barbie Hidden Stars](../games/puzzle/barbie-hidden-stars.md) — Try to find all hidden stars in time inside the Barbie and her friends world.
+- [Barbie Magic Pegasus](../games/puzzle/barbie-magic-pegasus.md) — Barbie Magic Pegasus is a combination of puzzles, drag and drop is used for the easy level, and sliding type for the har
+- [Barbie Match Master](../games/puzzle/barbie-match-master.md) — Play as your favorite Barbie characters in this exciting match-3 puzzle game, Barbie Match Master! Remove tiles from pla
+- [Barbie Match3 Slide](../games/puzzle/barbie-match3-slide.md) — If you want to get a Barbie doll as a gift, then collect a picture with the image of her and her friends and you will ge
+- [Barbie Mermaid Power Jigsaw Puzzle](../games/puzzle/barbie-mermaid-power-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Barbie Princess Adventure Jigsaw](../games/puzzle/barbie-princess-adventure-jigsaw.md) — Barbie Princess Adventure Jigsaw is an interesting jigsaw cartoon game, which is developed for kids especially for girls
+- [Barbie Princess Match 3 Puzzle](../games/puzzle/barbie-princess-match-3-puzzle.md) — Are you like Barbie Princess? and you want play The new Of Princess Games Barbie Princess Now You Can Play New Free onli
+- [Barbie Puzzles](../games/puzzle/barbie-puzzles.md) — Barbie Puzzles Game is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and
+- [Barbie Slide](../games/puzzle/barbie-slide.md) — If you want to get a Barbie doll as a gift, then collect a picture with the image of her and her friends and you will ge
+- [Base Gases Match-3](../games/puzzle/base-gases-match-3.md) — Explore elemental chemistry in Base Gases Match-3, where you align tiles of basic gases to trigger vibrant chain reactio
+- [Baseball kid](../games/puzzle/baseball-kid.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Basic Snake](../games/puzzle/basic-snake.md) — Basic Snake inspired by classic snake game with colorful and modern game. Eat the dots, grow to a big monster snake and 
+- [Basketball Hero Jigsaw](../games/puzzle/basketball-hero-jigsaw.md) — Basketball Hero Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images 
+- [Basketball Shot one](../games/puzzle/basketball-shot-one.md) — Basketball Shot one game has a lot of success review and player this MONTH that significantly improves overall game perf
+- [Bataille card](../games/puzzle/bataille-card.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Batman Bubble Shoot Puzzle](../games/puzzle/batman-bubble-shoot-puzzle.md) — Do you like adventure games? If the answer is yes then you should not miss Batman Bubble Shoot Puzzle game. If you want 
+- [Batman Card Match](../games/puzzle/batman-card-match.md) — Batman is a fictional superhero appearing in American comic books published by DC Comics. The character was created by a
+- [Batman Color Fall Puzzle Game](../games/puzzle/batman-color-fall-puzzle-game.md) — Batman Color Fall Puzzle Game is a captivating puzzle game in which everything revolves around colors and Among Us. The 
+- [Batman Jigsaw](../games/puzzle/batman-jigsaw.md) — Batman Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and then 
+- [Batman Jigsaw Game](../games/puzzle/batman-jigsaw-game.md) — Batman Jigsaw is a game with popular kids action hero. Batman. This game has 12 levels to play. Start with given image a
+- [Batman Jigsaw Puzzle](../games/puzzle/batman-jigsaw-puzzle.md) — Batman Jigsaw Puzzle is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images an
+- [Batman Jigsaw Puzzle Collection](../games/puzzle/batman-jigsaw-puzzle-collection.md) — Try our collection of jigsaw puzzles about the Knight of the Night - Batman. 12 iconic pictures about your favorite hero
+- [Batman Match 3 - Matching Puzzle Game](../games/puzzle/batman-match-3-matching-puzzle-game.md) — Batman journey in new match 3 game starts right now! Batman Match 3 - Matching Puzzle Game - Match 3 Games Free 2021 is 
+- [Batman Match 3 Puzzle](../games/puzzle/batman-match-3-puzzle.md) — Another brain training game for you is Batman Match 3 Puzzle. This game will help you to have a different view of the th
+- [Batman Match 3 - Puzzle Challenge](../games/puzzle/batman-match-3-puzzle-challenge.md) — Batman journey in new match 3 game starts right now! Batman Match 3 - Matching Puzzle Game - Match 3 Games Free 2021 is 
+- [Batman Match3 Slide Puzzle](../games/puzzle/batman-match3-slide-puzzle.md) — Try our collection of jigsaw puzzles about the Knight of the Night - Batman. 12 iconic pictures about your favorite hero
+- [Batman Memory Puzzle Game](../games/puzzle/batman-memory-puzzle-game.md) — If you are a fan of the puzzle genre as well as batman, then you cannot ignore this game - Batman Memory Puzzle Game. Ou
+- [Batman Rescue Puzzle Game](../games/puzzle/batman-rescue-puzzle-game.md) — "You are playing Rescue game, which is one of the best brain training games in Batman games. If you love a game about cr
+- [Batman The Brave and the Bold Jigsaw Puzzle](../games/puzzle/batman-the-brave-and-the-bold-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Battle Airplanes Jigsaw](../games/puzzle/battle-airplanes-jigsaw.md) — Battle Airplanes Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 6 images 
+- [Battle Ducks 2](../games/puzzle/battle-ducks-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Battle Robot Jigsaw Puzzle Collection](../games/puzzle/battle-robot-jigsaw-puzzle-collection.md) — Here is an image with robots, which will need to be put together from small parts. You will have to use your memory and 
+- [Battle Robot Jigsaw Puzzle Online](../games/puzzle/battle-robot-jigsaw-puzzle-online.md) — Here is an image with robots, which will need to be put together from small parts. You will have to use your memory and 
+- [Battleship jigsaw](../games/puzzle/battleship-jigsaw.md) — Battleship jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsa
+- [Bauble Match Deluxe](../games/puzzle/bauble-match-deluxe.md) — Bauble Match Deluxe is an innovative game with Match 3 plus classic bubble shooter game-play mechanics. To win this game
+- [Bazooka Boy Adventure](../games/puzzle/bazooka-boy-adventure.md) — Bazooka Boy is a fun shooting breakout casual game. Use the weapons at hand to fight and blow up enemy bases and buildin
+- [Beach Cocktails Memory](../games/puzzle/beach-cocktails-memory.md) — This is memory game with different beach cocktails. Memorize the images and try to pair two same images to neutralize th
+- [Beach Crab Jigsaw](../games/puzzle/beach-crab-jigsaw.md) — Beach crab jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsa
+- [Beach Defense: Merge Tower](../games/puzzle/beach-defense-merge-tower.md) — A Tiny Merge is a beach-themed tower defense game where every run is about building smarter, merging faster, and survivi
+- [Beach Jigsaw](../games/puzzle/beach-jigsaw.md) — Fantastic Jigsaw game with a great fun at beach. Drag and drop the picture pieces to their exact locations.
+- [Beach Match Madness](../games/puzzle/beach-match-madness.md) — Looking for a fun and challenging memory game? Look no further than Beach Match Madness! With Picture Memory Games, Matc
+- [Beach Rescue](../games/puzzle/beach-rescue.md) — Beach Rescue offers a straightforward puzzle gaming experience, challenging you to create a path that leads to the rescu
+- [Beach Rescue Emergency Boat](../games/puzzle/beach-rescue-emergency-boat.md) — When an emergency occurs, your job as a beach lifeguard rescuer is to save the residents of the city beach. Beach lifegu
+- [Beach Volley Ball Jigsaw](../games/puzzle/beach-volley-ball-jigsaw.md) — This is jigsaw game with images of volleyball on beach. select the difficult that you wanna play and put the pieces in r
+- [Beachball Fun](../games/puzzle/beachball-fun.md) — Drop all of the colered balls in the bucket with the same color. Use left mouse button to cut the chain.
+- [Bead Cleaner Amaze](../games/puzzle/bead-cleaner-amaze.md) — Bead Cleaner Amaze is a very simple casual game. You just need to manipulate the tool so that it can help the bead to go
+- [Bead Synthesis](../games/puzzle/bead-synthesis.md) — Tap the screen to string beads, and two beads of the same level will synthesize more advanced beads.
+- [Bear Ball Master : Honey King](../games/puzzle/bear-ball-master-honey-king.md) — Embark on an epic puzzle journey in Bear Ball Master: Honey King. Join a lovable bear on a mission to save the Honey Kin
+- [Bear Boom](../games/puzzle/bear-boom.md) — The BEST FREE MATCH 3 GAME! Match cute jellies to achieve goal! If you are in the mood for an amazingly delicious jelly 
+- [Bear Boom Crush](../games/puzzle/bear-boom-crush.md) — The BEST FREE MATCH GAME Match cute jellies to achieve goal. If you are in the mood for an amazingly delicious jelly puz
+- [Bear Go Home](../games/puzzle/bear-go-home.md) — Bear Go Home is a charming puzzle adventure game where you help a little bear find its way back home safely. Observe the
+- [BearShift](../games/puzzle/bearshift.md) — BearShift is a puzzle of finding path by moving blocks here and there. The bear in the game has been blocked from freedo
+- [Beast Uncaged: Screw Puzzle](../games/puzzle/beast-uncaged-screw-puzzle.md) — Beast Uncaged: Screw Puzzle &ndash; Can You Set the Beast Free? Trapped behind a cage of screws and bolts, the mighty be
+- [Beast Uncaged - Screw Puzzle](../games/puzzle/beast-uncaged-screw-puzzle-2.md) — In Beast Uncaged, unlock the thrill of freeing trapped beasts through intricate screw puzzles. Each level presents a fas
+- [Beat Corona - Memory Game](../games/puzzle/beat-corona-memory-game.md) — Beat Corona is memory game where you need to memorize two same images with people who wearing masks. These days is impor
+- [Beaten Barry Prison Face LOL](../games/puzzle/beaten-barry-prison-face-lol.md) — Get ready to laugh out loud in Beaten Barry Prison Face LOL &ndash; the wacky face-deformation game where you can poke, 
+- [Beautiful Princesses - Find a Pair](../games/puzzle/beautiful-princesses-find-a-pair.md) — It's time to practice your memory! Try to find twin princesses Ariel, Jasmine, Elsa, Anna, Rapunzel and Tiana playing th
+- [Beauty and The Beast Jigsaw Puzzle Collection](../games/puzzle/beauty-and-the-beast-jigsaw-puzzle-collection.md) — Can we assume that you know the story of a gentle Beauty and her beloved Monster? Their images, the correct position of 
+- [Beauty and The Beast Match3 Puzzle](../games/puzzle/beauty-and-the-beast-match3-puzzle.md) — Can we assume that you know the story of a gentle Beauty and her beloved Monster? Their images, the correct position of 
+- [Beauty & the Beast Coloring Book](../games/puzzle/beauty-the-beast-coloring-book.md) — Beauty & the Beast Coloring Book is cool coloring game for kids and adults. Play Beauty & the Beast Coloring Book online
+- [Beauty Women Smile Jigsaw](../games/puzzle/beauty-women-smile-jigsaw.md) — Beauty women smile jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the corre
+- [BebeFinn Jigsaw Puzzle](../games/puzzle/bebefinn-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Become A Florist-3](../games/puzzle/become-a-florist-3.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Become a Nurse-3](../games/puzzle/become-a-nurse-3.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Bee And Bear Origon](../games/puzzle/bee-and-bear-origon.md) — Let your bee deliver the honey to the hungry Bear. Click on a connected group of 3 or more of the same flowers to remove
+- [Bee and Flower](../games/puzzle/bee-and-flower.md) — Bee and Flower is a light and relaxing skill game where you control a small bee flying around the garden to collect vibr
+- [Bee Connect](../games/puzzle/bee-connect.md) — Get ready to connect colourful lines of Babees, make awesome combos and have some buzzing fun!
+- [Bee Puzzle](../games/puzzle/bee-puzzle.md) — Enter a mesmerizing world of Bee Puzzle, where matching vibrant honeycombs and managing strategic power-ups elevate a cl
+- [Beehive Yourself 2](../games/puzzle/beehive-yourself-2.md) — Welcome to Beehive yourself. Guide the little Bee with your mouse cursor to the hive, but beware as she may run straight
+- [Beer Catcher](../games/puzzle/beer-catcher.md) — Catch all the falling beer bottles and achieve the highest score. www.durmangames.com
+- [Beetle Blitz](../games/puzzle/beetle-blitz.md) — Join the vibrant, buzzing world of Beetle Blitz, where bees and beetles compete in dazzling match-3 challenges. Navigate
+- [Belle Princess Match 3 Puzzle](../games/puzzle/belle-princess-match-3-puzzle.md) — "Are you like Belle? and you want play The new Of Princess Games Belle Now You Can Play New Free online Princess Games f
+- [Belt And Go](../games/puzzle/belt-and-go.md) — Belt And Go is a game that simulates seat belts. The goods in the car are loaded but not fixed with ropes. Your task is 
+- [Ben 10 Alien Match](../games/puzzle/ben-10-alien-match.md) — Ben 10 aliens fourarm diamondhead fireball and slapback matching game. Down the aliens falling from above to wherever yo
+- [Ben 10 Car Jigsaw](../games/puzzle/ben-10-car-jigsaw.md) — Ben 10 Car Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and t
+- [Ben 10 Colorful Universe](../games/puzzle/ben-10-colorful-universe.md) — Ben 10 Colorful Universe
+- [Ben 10 Difference Alien Force](../games/puzzle/ben-10-difference-alien-force.md) — Ben 10 Difference Alien Force
+- [Ben 10 Find Grey Matter](../games/puzzle/ben-10-find-grey-matter.md) — Ben 10 grey matter hiding. What omnitrix watch is it hiding in? Follow very well with your eyes. Find out where you are.
+- [Ben 10 Gold match-3](../games/puzzle/ben-10-gold-match-3.md) — BEN 10: MATCH UP! GAME · PLAY ONLINE FOR FREE Sharpen your memory with Ben 10: Match Up, a free online game that center 
+- [Ben 10 Halloween Bubble Shoot](../games/puzzle/ben-10-halloween-bubble-shoot.md) — Boy Ben found himself in the mystical world of Halloween thanks to the Ben 10 Halloween Bubble Shooter game, but he wasn
+- [Ben 10 Halloween Bubble Shooter](../games/puzzle/ben-10-halloween-bubble-shooter.md) — Ben 10 Halloween Bubble Shooter
+- [Ben 10 Heroes Dentist](../games/puzzle/ben-10-heroes-dentist.md) — Treat our Superhero patients with crazy tools! Free Fun Games for Boys and Girls! Be the best dentist at this Superhero 
+- [Ben 10 Hidden Keys](../games/puzzle/ben-10-hidden-keys.md) — Ben 10 Hidden Keys is a free online skill and hidden object game. Find out the hidden keys in the specified images. Each
+- [Ben 10 Jigsaw Puzzle](../games/puzzle/ben-10-jigsaw-puzzle.md) — Ben 10 Jigsaw Puzzle is a free online game from genre of cartoon and jigsaw games. In this game you have a total of 12 j
+- [Ben 10 Jigsaw Puzzle Collection](../games/puzzle/ben-10-jigsaw-puzzle-collection.md) — In this game, you can practice putting puzzles together with the famous hero Ben 10. Everyone knows that a boy who has r
+- [Ben 10 Match 3 Cards Alien Force](../games/puzzle/ben-10-match-3-cards-alien-force.md) — Are you like Ben 10 Memory Cards Alien Force? and you want play The new Of Princess Games Ben 10 Memory Cards Alien Forc
+- [Ben 10 Match 3 Puzzle](../games/puzzle/ben-10-match-3-puzzle.md) — Are you a fan of puzzle games? enjoy the match 3 game with superheroes in the world ben 10
+- [Ben 10 Match 3 Puzzle Challange](../games/puzzle/ben-10-match-3-puzzle-challange.md) — Are you like Ben 10? and you want play The new Of Princess Games Ben 10 Now You Can Play New Free online Games for Carto
+- [Ben 10 Match 3 Puzzle Game](../games/puzzle/ben-10-match-3-puzzle-game.md) — In this game, you can practice putting puzzles together with the famous hero Ben 10. Everyone knows that a boy who has r
+- [Ben 10 Memory](../games/puzzle/ben-10-memory.md) — Ben 10 Memory is a free online game from genre of memory. Flip the tiles and try to match them up in pairs. Pair up all 
+- [Ben 10 Memory Alien Force](../games/puzzle/ben-10-memory-alien-force.md) — Ben 10 Memory Alien Force
+- [Ben 10 Memory Challenge](../games/puzzle/ben-10-memory-challenge.md) — Ben 10 Memory Challenge is free online game suitable for all Ben 10 lovers. The aim of the game is to find all matching 
+- [Ben 10 Memory Time](../games/puzzle/ben-10-memory-time.md) — Ben 10 Memory Time is an exciting and engaging free online game designed specifically for all the Ben 10 lovers out ther
+- [Ben 10 Memory Universe](../games/puzzle/ben-10-memory-universe.md) — Ben 10 Difference Universe
+- [Ben 10 Puzzle Challenge](../games/puzzle/ben-10-puzzle-challenge.md) — Ben 10 Puzzle Challenge is an online game that you can play for free. Ben 10 Puzzle Challenge. Drag the pieces into righ
+- [Ben 10 Rescue](../games/puzzle/ben-10-rescue.md) — A rescue game with Ben 10 character, Enjoy the wonderful world of ben10, ben 10 games, ben 10 omniverse, ben 10 aliens o
+- [Ben 10 Spot the Difference](../games/puzzle/ben-10-spot-the-difference.md) — Ben 10 Spot The Difference is a puzzle game that challenges you with the pairs of almost identical Ben 10 images that sl
+- [Ben 5 Difference](../games/puzzle/ben-5-difference.md) — Ben 5 Difference &ndash; Spot the Hidden Changes! Test your observation skills in Ben 5 Difference, a fun and challengin
+- [Ben Hollys Coloring Book](../games/puzzle/ben-hollys-coloring-book.md) — Ben Hollys Coloring Book is cool coloring game for kids and adults. Play Ben Hollys Coloring Book online for free. This 
+- [Ben Hollys Jigsaw Puzzle](../games/puzzle/ben-hollys-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Ben10 Hidden Objects](../games/puzzle/ben10-hidden-objects.md) — Ben10 Hidden Objects.. Find all hidden objects in the scene. Total 21 Levels
+- [Ben10 Jigsaw Puzzle](../games/puzzle/ben10-jigsaw-puzzle.md) — Train your brain with Ben 10 Aliens. Solve the puzzle with 5 Bens aliens pictures, 4x4 of tiles. No time limit, you can 
+- [Bendy Circle](../games/puzzle/bendy-circle.md) — Bendy Circle is a light yet challenging puzzle game where you need to untangle all the rubber bands intertwined with eac
+- [Bent 10](../games/puzzle/bent-10.md) — Do you want to become a cool street musician and rock everyone around? Then, welcome to the Friday Night Funkin games se
+- [Bentley Continental GT Speed Puzzle](../games/puzzle/bentley-continental-gt-speed-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Bentley Continental GT Speed Puzzle. All images is with the car -
+- [Bentley Continental GT Speed Slide](../games/puzzle/bentley-continental-gt-speed-slide.md) — Play this slide puzzle games of the car - Bentley Continental GT Speed. It's include 3 images and 3 modes (3x3 pieces, 4
+- [Bentley Supersports Convertible Puzzle](../games/puzzle/bentley-supersports-convertible-puzzle.md) — Play with 9 images in this perfect jigsaw puzzle game: Bentley Supersports Convertible Puzzle. All images is with the ca
+- [Benz E-Class Cabriolet Puzzle](../games/puzzle/benz-e-class-cabriolet-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Benz E-Class Cabriolet Puzzle. All images is with the car - Benz 
+- [Berries Jigsaw](../games/puzzle/berries-jigsaw.md) — Berries jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsaw o
+- [Berries Jumper](../games/puzzle/berries-jumper.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Best Emergency Ambulance Rescue Drive Sim](../games/puzzle/best-emergency-ambulance-rescue-drive-sim.md) — You are a city ambulance driver, & you have to prove yourself an amazing city ambulance driver by providing highly effic
+- [Best Friend DIY](../games/puzzle/best-friend-diy-2.md) — Join Galya, a scientist in need of companionship, on her quest to use logic and creativity in crafting the perfect frien
+- [BEST FRIENDS JIGSAW](../games/puzzle/best-friends-jigsaw.md) — Best Friend jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigs
+- [Best Friends Puzzle](../games/puzzle/best-friends-puzzle.md) — Hop on an epic adventure with the Bug Heroes and help them defeat the menacing birds of the forest! Strategically link a
+- [Best Friends Puzzle](../games/puzzle/best-friends-puzzle-2.md) — Unleash your strategic prowess in Best Friends Puzzle, where vibrant match-3 mechanics meet epic forest quests. Empower 
+- [Best Sweet Candy Shop](../games/puzzle/best-sweet-candy-shop.md) — Swapping and matching candies to progress through levels and earn rewards. Crush all the sweets! Come and join for tasty
+- [Bicycle Drivers Puzzle](../games/puzzle/bicycle-drivers-puzzle.md) — In this Bicycle Drivers Puzzle game you have 6 images in three modes to play. Choose one of the mode for the game that y
+- [Bicycle Jigsaw](../games/puzzle/bicycle-jigsaw.md) — Bicycle Jigsaw is a fun online puzzle game. Drag the pieces into right position using mouse. Solving puzzles is relaxing
+- [Big Bubbles](../games/puzzle/big-bubbles.md) — Big Bubbles is a game about absorbing smaller bubbles while avoiding being absorbed by bigger bubbles. As you absorb bub
+- [Big Cats Jigsaw](../games/puzzle/big-cats-jigsaw.md) — Fantastic Jigsaw game with big cats like lions, leopards, jaguar, white panther, cheetah etc. Drag and drop the picture 
+- [Big Donuts Mania](../games/puzzle/big-donuts-mania.md) — If youve made a match, the donuts will be clear, and you will get the points! The more you get, the better you will rank
+- [Big Donuts Mania](../games/puzzle/big-donuts-mania-2.md) — Dive into Big Donuts Mania, where matching colorful donuts against the clock is not only delicious but addictive. Make s
+- [Big Farm Match 3](../games/puzzle/big-farm-match-3.md) — Use left, right and down keys to move the blocks. Use up key to rotate the blocks. Alternatively you can tap or click bu
+- [Big Farming Fun](../games/puzzle/big-farming-fun.md) — By playing Big Farming Fun make your way in each level by matching 3 of the same shapes as many as possible to clear the
+- [Big Farming Fun](../games/puzzle/big-farming-fun-2.md) — Dive into Big Farming Fun, a dynamic blend of farming excitement and puzzle challenges. Race against the clock to match 
+- [Big Fast Airplanes Match 3](../games/puzzle/big-fast-airplanes-match-3.md) — Big Fast Airplanes Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a s
+- [Big Luggage Trucks Match 3](../games/puzzle/big-luggage-trucks-match-3.md) — Big Luggage Trucks Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a s
+- [Big Monster Truck Jump](../games/puzzle/big-monster-truck-jump.md) — Big Monster Truck Jump is jumping game where the bigger monster truck must jump over smaller. So click on the left or ri
+- [Big Monster Trucks](../games/puzzle/big-monster-trucks.md) — In this Big Monster Trucks game you have 6 images of monster truck toys in three modes to play. Choose one of the mode f
+- [Big Must Jump](../games/puzzle/big-must-jump.md) — Two squares enter the screen and move toward each other. All you have to do is touch either side of the screen to jump o
+- [Big Oceans Fish Jigsaw](../games/puzzle/big-oceans-fish-jigsaw.md) — Big Oceans Fish Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choos
+- [Big Puzzle in Australia](../games/puzzle/big-puzzle-in-australia.md) — 6 games in 1. Jigsaw puzzle, sliding puzzle, swap puzzle... Reassemble 8 images in this perfect puzzle game. To solve th
+- [Big Smash](../games/puzzle/big-smash.md) — Aim your tennis balls at a tower of cubes on the table and knock the whole lot down. Stone, wood, ice, jelly... every cu
+- [Big Space Adventure](../games/puzzle/big-space-adventure.md) — Big Space Adventure is the same classic game of other match 3 games. You will need to match 3 identical objects to swap,
+- [Big Trucks And Cars Memory](../games/puzzle/big-trucks-and-cars-memory.md) — Big Trucks And Cars Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try t
+- [Big Vowels Fun](../games/puzzle/big-vowels-fun.md) — Welcome to Big Vowels Fun &ndash; The Ultimate Vowel Match-3 Challenge! Step into a bright and playful world where vowel
+- [Big Vowels Fun](../games/puzzle/big-vowels-fun-2.md) — Dive into Big Vowels Fun, where vibrant vowel tiles await your matching skills. Strategize and connect A, E, I, O, U to 
+- [Big War Hidden Stars](../games/puzzle/big-war-hidden-stars.md) — Big War Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specified images. E
+- [Bigfoot Slide](../games/puzzle/bigfoot-slide.md) — Play this slide puzzle games of the bigfoot truck. It's include 3 images and 3 modes to play.
+- [Biggest Gum](../games/puzzle/biggest-gum.md) — Boy Biggest Gum is a interesting kids bubble game. It teaches where to tap the screen and then hold when are you suppose
+- [BigWatermelon](../games/puzzle/bigwatermelon.md) — New popular - synthetic super watermelon! Pass by, don't miss it! The perfect combination of synthetic play and fruit, s
+- [Billiards Jigsaw](../games/puzzle/billiards-jigsaw.md) — Billiards jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsaw
+- [Billy](../games/puzzle/billy.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Billy the Puppet Snapshot Scramble Puzzle](../games/puzzle/billy-the-puppet-snapshot-scramble-puzzle.md) — Piece together the image of the iconic Billy the Puppet in this challenging and addictive puzzle game. Slide tiles into 
+- [Bim Bam A Burst of Puzzle Excitement](../games/puzzle/bim-bam-a-burst-of-puzzle-excitement.md) — Experience the thrill of Bim Bam, where strategic aiming and shooting lead to explosive puzzle-solving. Navigate through
+- [Bingo Pop](../games/puzzle/bingo-pop.md) — Enjoy bingo games free to play!!! If you enjoy playing bingo with friends then our bingo multiplayer feature is perfect 
+- [Biomutant Online Jigsaw Puzzle planet](../games/puzzle/biomutant-online-jigsaw-puzzle-planet.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles.let's see how fast can you solve this
+- [Bird Chain](../games/puzzle/bird-chain.md) — Playing in the Jungle of colourful birds. Link and match the bird with the longest chain and highest score.
+- [Bird Flying](../games/puzzle/bird-flying.md) — Bird Flying is flappy bird game where you need to tap on screen to control the bird. Avoid obstacles and try to flying b
+- [Bird In A Pot](../games/puzzle/bird-in-a-pot.md) — Guide a little green bird through a whimsical, eerie world in Bird In A Pot. Strategically manipulate physics-based puzz
+- [Bird Match Master](../games/puzzle/bird-match-master.md) — Bird MatchMaster is an online puzzle game where you match three birds together. It's a fun and challenging game that you
+- [Bird Shooting](../games/puzzle/bird-shooting.md) — This game has a lot of success review and player this MONTH that significantly improves overall game performance, especi
+- [Bird Sort Color Puzzle Game](../games/puzzle/bird-sort-color-puzzle-game.md) — Dive into a vibrant world of colorful birds in Bird Sort, a delightful puzzle adventure. Strategically sort birds by col
+- [Bird Sort Color Sorting](../games/puzzle/bird-sort-color-sorting.md) — Dive into the mesmerizing world of Color Bird Sort, where strategic puzzles meet vibrant avian delight. Arrange charming
+- [Bird Sort Mania](../games/puzzle/bird-sort-mania.md) — Dive into Bird Sort Mania and delight in the challenge of arranging charming birds by type. Strategically pick and place
+- [Bird Sort Puzzles](../games/puzzle/bird-sort-puzzles.md) — Bird Sort Puzzles is a fun and challenging game where players sort colorful birds into matching nests. With various bird
+- [Bird Tile Trio](../games/puzzle/bird-tile-trio.md) — Every bird has its perfect trio&mdash;can you find them all? Match three identical bird tiles, reveal hidden layers, and
+- [Birds of Prey Puzzle](../games/puzzle/birds-of-prey-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Birds of Prey Puzzle. All images is with the birds of prey. Solve
+- [Birds of Prey Slide](../games/puzzle/birds-of-prey-slide.md) — Play this slide puzzle games of the birds of prey. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 pieces
+- [Birds Puzzle](../games/puzzle/birds-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Birds Puzzle. All images is with the bird. Solve all puzzles and 
+- [Birds Slide](../games/puzzle/birds-slide.md) — Play this slide puzzle games of the birds. It's include 3 images and 3 modes to play.
+- [Birds Sort Color Match Puzzle](../games/puzzle/birds-sort-color-match-puzzle.md) — Welcome to the gentle world of Bird Sort Color, where the gentle embrace of nature meets the joy of relaxation! Say good
+- [BirdsQueue](../games/puzzle/birdsqueue.md) — Lovely birds are in the wrong line. Come and line up the birds of the same color.
+- [Birthday Cake Puzzle](../games/puzzle/birthday-cake-puzzle.md) — Not everyone loves a birthday cake? Do you want to see the most beautiful cakes of different shapes and colors in this g
+- [Birthday Girl Jigsaw](../games/puzzle/birthday-girl-jigsaw.md) — Welcome to our newest Birthday Girl Jigsaw game. In this game, you have 6 images. Choose one of the modes for the game t
+- [Black Clover Jigsaw Puzzle](../games/puzzle/black-clover-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Black Gold Plumber](../games/puzzle/black-gold-plumber.md) — Become an oil tycoon in Black Gold Plumber and become the richest man on the Earth. Exploit all the oil reserve in Texas
+- [Black Hole](../games/puzzle/black-hole.md) — Black Hole is a puzzle, intelligence, fun game that takes place in outer space. For those who want to have a good time, 
+- [Black Hole io 3D Game](../games/puzzle/black-hole-io-3d-game.md) — Black Hole io 3D Game - Swallow Everything &amp; Dominate the City! Enter the ultimate black hole battle and compete to 
+- [Black Plumber](../games/puzzle/black-plumber.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Black Sphere](../games/puzzle/black-sphere.md) — In front of you on the screen you will see a playing field on which you will see several round cells. One of them will c
+- [Black Star Pinball](../games/puzzle/black-star-pinball.md) — In this pinball game you will play only with one ball. If you drop the ball the game will over. But is not that simple. 
+- [Blade Merge](../games/puzzle/blade-merge.md) — Blade Merge is a thrilling blend of merging strategy and intense blade battles. Combine your blades to forge mightier we
+- [Blase Schütze Halloween](../games/puzzle/blase-sch-tze-halloween.md) — Es ist Halloween und die Uhr wartet auf die Hexenstunde. Hilf der jungen Hexe, das Kirschmonster zu retten und sei pünkt
+- [Blasen Schiessen Tier](../games/puzzle/blasen-schiessen-tier.md) — Schieße und kombiniere drei oder mehr gleichfarbige Blasen, um den Spielbereich freizumachen und die gefangenen Vögel zu
+- [Blast Boxes](../games/puzzle/blast-boxes.md) — Hello Welcome to Blast Boxes, a new puzzle match3 game. Tap on 2 or more similar boxes to remove them. Tap on 6 similar 
+- [Blast Jam](../games/puzzle/blast-jam.md) — Blast Jam is a colour-matching puzzle about clearing a picture made of jelly cubes. Tap a shooter to send it into the do
+- [Blast Mania](../games/puzzle/blast-mania.md) — Dive into Blast Mania, a match-3 puzzle adventure where elements like fire, wind, and water collide. Strategically conne
+- [Blast Sprunki](../games/puzzle/blast-sprunki.md) — Hey, the cute Green Sprunki needs your help to escape from this dark world! Your mission is to guide Sprunki safely to t
+- [Blast Sprunki](../games/puzzle/blast-sprunki-2.md) — Guide the endearing Green Sprunki through a shadowy world in this whimsical adventure. Strategically place explosives to
+- [Blast The Ball](../games/puzzle/blast-the-ball.md) — It is a fun game that combines speed and skill Decoupled. Your goal is to explode the number of balls set in 100 differe
+- [Blasties](../games/puzzle/blasties.md) — Blasties is a candy-based game where you shoot candies from ground and they are supposed to make chain of similar candie
+- [Blastify 2](../games/puzzle/blastify-2.md) — Dive into Blastify 2, where strategic tapping meets vibrant puzzle-solving. Smash colorful blocks to hit level-specific 
+- [Blasting Marbles](../games/puzzle/blasting-marbles.md) — Blasting Marbles is a thrilling 2D puzzle adventure game where your objective is to strategically place the required num
+- [Blaze Monster Machines Differences](../games/puzzle/blaze-monster-machines-differences.md) — Now it's time for wonderful game that's called Blaze Monster Machines Differences, let's have fun! Behind these pictures
+- [Blaze Monster Machines Hidden Keys](../games/puzzle/blaze-monster-machines-hidden-keys.md) — Blaze Monster Machines Hidden Keys is a free online skill and hidden object game. Find out the hidden keys in the specif
+- [Blaze Monster Truck Jigsaw](../games/puzzle/blaze-monster-truck-jigsaw.md) — Blaze Monster Truck Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the twelve
+- [Blaze Monster Trucks Hidden Stars](../games/puzzle/blaze-monster-trucks-hidden-stars.md) — Blaze Monster Trucks Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specif
+- [Blaze Monster Trucks Memory](../games/puzzle/blaze-monster-trucks-memory.md) — This is memory game with Monster Trucks machines. Click on the cards to turn around and see which monster machine image 
+- [Blend Fruits](../games/puzzle/blend-fruits.md) — Merge and grow fruity combos in Blend Fruits, a strategic puzzle adventure. Keep your board tidy as you blend identical 
+- [Blend It 3D](../games/puzzle/blend-it-3d.md) — How many car logos do you know? Can you guess these car logos in our new puzzle game Car Logos Quiz? In each level, we w
+- [Blob Giant](../games/puzzle/blob-giant.md) — Blob Giant 3D has proven to be the most interesting new arcade game this year. It has addictive gameplay and a 3D art st
+- [Blob Line](../games/puzzle/blob-line.md) — Dive into Blob Line, the delightful puzzle game where you connect colorful blobs to clear the board. Enjoy simple tap-an
+- [Blob Merge](../games/puzzle/blob-merge.md) — Control a cute slime and become the biggest on the map! Search for slimes of the same color and merge with them to grow.
+- [Blob Twist – Color Puzzle](../games/puzzle/blob-twist-color-puzzle.md) — A fun and colorful puzzle game where you twist, dodge obstacles, and guide your blob to the finish. Test your timing and
+- [Block 2048](../games/puzzle/block-2048.md) — Strategize your way to victory in Block 2048, where merging numbered tiles creates exciting chain reactions. Navigate th
+- [Block 21](../games/puzzle/block-21.md) — Tap/click on a group of three or more blocks with the same color. Get block 21. Have fun!
+- [Block 3D](../games/puzzle/block-3d.md) — Block 3D is a very fun and interesting game, which uses simple building blocks and colors to create a simple game screen
+- [Block Animal Puzzle](../games/puzzle/block-animal-puzzle.md) — Block Animal Puzzle is fun addictive puzzle game. Move all animal blocks in the grey blocks but there is a catch no grey
+- [Block Blast](../games/puzzle/block-blast.md) — Dive into this popular and free puzzle game designed to stretch your brain and entertain you during your free time. Your
+- [Block Blast 1](../games/puzzle/block-blast-1.md) — Welcome to the block town, the quirky candy cat is here to challenge you in the new game of Block Blast 1!
+- [Block Blast](../games/puzzle/block-blast-2.md) — Fill the empty tiles by using different blocks. Make sure to use your puzzle skills in filling the empty tiles. Can you 
+- [Block Blast 2048](../games/puzzle/block-blast-2048.md) — Block Blast 2048 is a calm yet engaging number puzzle where it’s easy to relax while sharpening your logic. Merge adjace
+- [Block Blast jewel puzzle](../games/puzzle/block-blast-jewel-puzzle.md) — Block Blast: Jewel Puzzle - Think Fast. Stack Smart. Rule the Leaderboard! Dive into Block Blast: Jewel Puzzle, the ulti
+- [Block Blast Mania](../games/puzzle/block-blast-mania.md) — In Block Blast Mania , your mission is simple: try to place colorful blocks of various shapes on the game board in such 
+- [Block Blast Master](../games/puzzle/block-blast-master.md) — Game Block Blast Master, where every move counts and strategy and speed are the keys to success. In this exciting game y
+- [Block Blaster](../games/puzzle/block-blaster.md) — Block Blaster is a puzzle game that blends the challenge of a grid-based cube game with the addictive fun of classic blo
+- [Block Bloom](../games/puzzle/block-bloom.md) — Block Bloom is a colorful puzzle-shooter about smart timing and sharper planning.
+- [Block Breaker](../games/puzzle/block-breaker.md) — Block Breaker is a casual and very fun game. Break all the blocks in each level to collect points and advance levels. Co
+- [Block Builder](../games/puzzle/block-builder.md) — Immerse yourself in the world of Block Builder, where creative construction meets strategic puzzles. Each level challeng
+- [Block Builder Jam](../games/puzzle/block-builder-jam.md) — Block Builder Jam is a new puzzle game that will test your logical thinking and creativity! This game will captivate you
+- [Block Burst Puzzle Zenith](../games/puzzle/block-burst-puzzle-zenith.md) — Immerse yourself in Block Burst Puzzle Zenith, where vibrant block-stacking meets strategic mastery. Form clusters of ma
+- [Block Clash](../games/puzzle/block-clash.md) — A Crypto currency match-3 game! Get into making money with latest cryptos added to the game. Bring more and more in a li
+- [Block Collapse Challenge](../games/puzzle/block-collapse-challenge.md) — Collapse the blocks by clicking groups of horizontally or vertically connected same-color blocks. On each collapse you w
+- [Block Combo Blast](../games/puzzle/block-combo-blast.md) — Dive into the captivating universe of <strong>Block Combo Blast</strong>, a free game blending classic block puzzles wit
+- [Block Craze](../games/puzzle/block-craze.md) — Get ready for a thrilling puzzle adventure with Craze Block! Step into a world of vibrant colors and brain-teasing fun w
+- [Block Crush](../games/puzzle/block-crush.md) — lock Crush is an 8x8 block puzzle in the Block Blast style. Drag pieces from the tray onto the board and fill complete r
+- [Block Dancing 3D](../games/puzzle/block-dancing-3d.md) — New realistic 3D model maps and special effects, lots of game scene experiences, dozens of accessories and box effects, 
+- [BLOCK FUSION](../games/puzzle/block-fusion.md) — Place block shapes on the grid and fill complete rows or columns to clear them! Chain multiple clears for massive combo 
+- [Block Hex Puzzle](../games/puzzle/block-hex-puzzle.md) — This is a typical puzzle game that helps train your eyes and brain. It is the "Hexagon" version of the classic Tetris ga
+- [Block Hexa Puzzle](../games/puzzle/block-hexa-puzzle.md) — This is a great Puzzle game to challenge your brain, with more than 240 levels from beginner to advanced, easy to play v
+- [Block Hexa Puzzle Pro](../games/puzzle/block-hexa-puzzle-pro.md) — Engage your mind with Block Hexa Puzzle Pro, where tapping and dragging blocks forms intricate shapes. Challenge yoursel
+- [Block Ice Puzzle](../games/puzzle/block-ice-puzzle.md) — Dive into the chilling world of Block Ice Puzzle, where clever strategy is key! Slide and maneuver blocks within a frost
+- [Block Jam Match Game](../games/puzzle/block-jam-match-game.md) — Embark on a thrilling adventure that combines strategic block matching, a heart-pounding bus mini-game, an explosive Bom
+- [Block Legend Puzzle](../games/puzzle/block-legend-puzzle.md) — Welcome To Play Block Legend Puzzle. "Block Legend Puzzle " is a fun and classic block game! And our Block Puzzle is not
+- [Block Magic Puzzle](../games/puzzle/block-magic-puzzle.md) — Block Magic Puzzle is similar to the classic Tetris game, but differs in the mechanics of building blocks, which makes i
+- [Block Magic Puzzle](../games/puzzle/block-magic-puzzle-2.md) — Dive into the vibrant world of Block Magic Puzzle, where strategy meets speed in a refreshing twist on classic block-bui
+- [Block Magic Puzzle Game](../games/puzzle/block-magic-puzzle-game.md) — Puzzle Game is a most addictive puzzle games collection, With beautiful graphics and interesting levels. Puzzle Game bri
+- [Block Mania](../games/puzzle/block-mania.md) — Block Mania is an addictive block puzzle game combines block building, puzzle solving and enjoyable gameplay. This great
+- [Block Mania 2048](../games/puzzle/block-mania-2048.md) — Dive into Block Mania 2048, where strategic merging meets exhilarating challenges. Drag and connect blocks to scale the 
+- [Block Mania Puzzle](../games/puzzle/block-mania-puzzle.md) — Want a brain-bending puzzle challenge? In Block Mania Puzzle Path, you&rsquo;ll face a series of thought-provoking puzzl
+- [Block Master Gem Puzzle](../games/puzzle/block-master-gem-puzzle.md) — Block Master Gem Puzzle is a fun and addictive 8x8 block puzzle game with exciting game modes. Enjoy endless relaxing ga
+- [Block Master: Polygonal Puzzle](../games/puzzle/block-master-polygonal-puzzle.md) — A game about collecting blocks. But not the usual ones. Instead of the familiar squares, you get a bunch of polygons tha
+- [Block Master - Super Puzzle](../games/puzzle/block-master-super-puzzle.md) — Unleash your strategic prowess in this captivating puzzle challenge. Drag and drop blocks to fill lines, clear the board
+- [Block Match](../games/puzzle/block-match-2.md) — Dive into the fast-paced world of Block Match, where every second counts! Strategize and match vibrant blocks to rack up
+- [Block Match 3D](../games/puzzle/block-match-3d.md) — Block Match 3D is a relaxing yet brain-teasing 3D puzzle where you take apart a giant cube of blocks, piece by piece. Ev
+- [Block Merge](../games/puzzle/block-merge.md) — Combine strategy and speed in Block Merge, a vibrant puzzle challenge where colorful blocks burst upon contact. Plan you
+- [Block Merge City](../games/puzzle/block-merge-city.md) — Block Merge City is a relaxing isometric puzzle game where you place and combine buildings to evolve them into bigger st
+- [Block Mine Fuse TNT](../games/puzzle/block-mine-fuse-tnt.md) — Block Mine Fuse TNT is an exhilarating adventure game where players take on the mission to liberate the world from the o
+- [Block Mover   Unlock Your Brain](../games/puzzle/block-mover-unlock-your-brain.md) — Relax Your Mind Between Rush Hours whether youre a kid or an adult. Engage Your Intellect and Unlock Your Brain with Woo
+- [Block Number Puzzle](../games/puzzle/block-number-puzzle.md) — Block Number Slide is a fun and engaging online puzzle game where players slide numbered blocks on a grid to arrange the
+- [Block Numbers Puzzle](../games/puzzle/block-numbers-puzzle.md) — Welcome to Block Numbers Puzzle Game! Challenge your mind with the classic Number Puzzle! Slide numbered blocks to solve
+- [Block Pictures](../games/puzzle/block-pictures.md) — Block Pictures invites you to assemble fragmented images, cleverly balancing enjoyment and challenge. Strategically plac
+- [Block Push Game](../games/puzzle/block-push-game.md) — Block Push Game is a classic logic puzzle game where your goal is to move and push blocks into the correct positions. Ea
+- [Block Pusher Voxel World 3D](../games/puzzle/block-pusher-voxel-world-3d.md) — Dive into a captivating 3D puzzle adventure where every move matters. Navigate intricate voxel landscapes inspired by cl
+- [Block Puzzle](../games/puzzle/block-puzzle.md) — Test your strategic skills and reflexes in Block Puzzle! Navigate gravity-defying challenges as you deftly position bloc
+- [Block Puzzle 2048 Game](../games/puzzle/block-puzzle-2048-game.md) — Block Puzzle 2048 Game is a puzzle game that combines 2048 and merged cubes. Combine the corresponding numbers and the n
+- [Block Puzzle Ancient](../games/puzzle/block-puzzle-ancient.md) — Turn the direction of the blocks and place them correctly on the board.
+- [Block Puzzle Blast](../games/puzzle/block-puzzle-blast.md) — Strategically arrange blocks on a grid in Block Puzzle Blast, clearing lines to maximize space and earn high scores. Enj
+- [Block Puzzle Blaster](../games/puzzle/block-puzzle-blaster.md) — Dive into Block Puzzle Blaster, a captivating twist on classic block games. Strategically fill rows or columns on an 8x8
+- [Block Puzzle Block Game](../games/puzzle/block-puzzle-block-game.md) — Dive into a vibrant world of strategic fun with a block puzzle game that sharpens your mind. Arrange colorful blocks int
+- [Block Puzzle Cats](../games/puzzle/block-puzzle-cats.md) — Train your brain and solve puzzles with cute cats! Drag and drop the cats onto the puzzle board and try to put them all 
+- [Block Puzzle Chuzzle Classic](../games/puzzle/block-puzzle-chuzzle-classic-2.md) — Dive into Block Puzzle Chuzzle Classic, where vibrant falling blocks create an electrifying challenge. Strategize to ali
+- [Block Puzzle Delux](../games/puzzle/block-puzzle-delux.md) — Block Puzzle Gem---Simple yet challenging! This game is so fun meanwhile will help you improve your spatial geometric sk
+- [Block Puzzle Gem: Jewel Blast](../games/puzzle/block-puzzle-gem-jewel-blast.md) — Gem Puzzle - Very good and easy to play puzzle game on DOP5. To play the game , the player uses the mouse to drag and dr
+- [Block Puzzle Guardian](../games/puzzle/block-puzzle-guardian.md) — Block Puzzle Guardian is a popular and awesome puzzle game. The goal is to drag and drop blocks in order to make them fu
+- [Block Puzzle Guardian](../games/puzzle/block-puzzle-guardian-2.md) — Dive into Block Puzzle Guardian, a captivating blend of strategy and fun. Arrange uniquely shaped blocks to form complet
+- [Block Puzzle Guardian - Puzzle](../games/puzzle/block-puzzle-guardian-puzzle.md) — Block Puzzle Jewel Game ★ Enjoy the classic jewel style block puzzle game!
+- [Block Puzzle Jewel](../games/puzzle/block-puzzle-jewel.md) — Dive into Block Puzzle Jewel, where strategic planning and swift decisions reign. Arrange colorful blocks into full line
+- [Block Puzzle: Jewel Block](../games/puzzle/block-puzzle-jewel-block.md) — Block Puzzle: Jewel Block is a colorful endless puzzle game where you place glossy jewel pieces onto a grid and clear co
+- [Block Puzzle King](../games/puzzle/block-puzzle-king.md) — Block Puzzle King is a classic elimination game. Its adorable graphics prevent eye strain, and varied level difficulties
+- [Block Puzzle King](../games/puzzle/block-puzzle-king-2.md) — Block Puzzle King is a very simple game but super relaxing for everyone with any age, It's free and can play offline at 
+- [Block puzzle legend](../games/puzzle/block-puzzle-legend.md) — Challenge your brain in Block Puzzle Legend. Enjoy the ultimate classic puzzle game. Slide, match, and blast blocks to c
+- [Block Puzzle Legend](../games/puzzle/block-puzzle-legend-2.md) — Dive into Block Puzzle Legend and test your wits. Arrange, match, and clear vibrant blocks to pursue high scores. Perfec
+- [Block Puzzle Magic](../games/puzzle/block-puzzle-magic.md) — Block Puzzle Magic is a simple yet addictive puzzle game that challenges players to arrange blocks on a grid to clear fu
+- [Block Puzzle Magic](../games/puzzle/block-puzzle-magic-2.md) — Dive into Block Puzzle Magic, where classic puzzle gameplay meets cube-smashing excitement. Strategically rotate and pla
+- [Block Puzzle Master 2020](../games/puzzle/block-puzzle-master-2020.md) — Simple but addictive puzzle game! "Block Puzzle Master 2020 very funny and classic block puzzle of for everyone. You wil
+- [Block Puzzle Merge](../games/puzzle/block-puzzle-merge.md) — Challenge your puzzle prowess in Block Puzzle Merge, where strategic block placement is key. Navigate five thrilling mod
+- [Block Puzzle: Prize Mania](../games/puzzle/block-puzzle-prize-mania.md) — A classic block-drop puzzle that transforms into a true collector’s experience!
+- [Block Puzzle Star](../games/puzzle/block-puzzle-star.md) — Click on 3 or more connected stars of the same color to eliminate the stars and get a star bomb under certain conditions
+- [Block Puzzle Travel](../games/puzzle/block-puzzle-travel.md) — Embark on a vibrant block-busting adventure in Block Puzzle Travel! Strategically place and clear lines of blocks, using
+- [Block Puzzle Tropical Story](../games/puzzle/block-puzzle-tropical-story.md) — Block Puzzle Tropical Story is a vibrant puzzle game that blends relaxing gameplay with a sense of island adventure. You
+- [Block Puzzles Jewel](../games/puzzle/block-puzzles-jewel.md) — Welcome to Block Puzzle, a simple but addictive puzzle game! Block Puzzle is a free jigsaw puzzle totally. Once you play
+- [Block Sculptor](../games/puzzle/block-sculptor.md) — Block Sculptor is a 3D puzzle game where you become the sculptor. Inside every block hides a colorful shape — your goal 
+- [Block Slide Fall Down](../games/puzzle/block-slide-fall-down.md) — Block Slider Puzzle Game is a simple and at the same time challenging game. A popular and relaxing sliding block puzzle 
+- [Block Slider Game](../games/puzzle/block-slider-game.md) — When you start the game and enter the main interface. In an 8X10 checkerboard, 2-3 rows of squares are randomly raised f
+- [Block Sliding - Jewel Blast](../games/puzzle/block-sliding-jewel-blast.md) — Block Sliding - Jewel Blast, a new artisan relaxing block puzzle. Just move the jewel horizontally, try to fill the jewe
+- [Block Sort: Colormania](../games/puzzle/block-sort-colormania.md) — Block Sort: Colormania is a fun color sort block puzzle game! Stack, match and solve puzzles. Challenge your mind, sort 
+- [Block Sort Pirate Treasure](../games/puzzle/block-sort-pirate-treasure.md) — 🏴‍☠️ Ahoy, puzzle mateys! Ready to sort some loot? 💎💰
+- [Block Sort Puzzle](../games/puzzle/block-sort-puzzle.md) — Block Sort Puzzle is an exciting multi-colored block sorting puzzle that will test your logic and attentiveness! Sort as
+- [Block Splash Puzzle](../games/puzzle/block-splash-puzzle.md) — Block Splash Puzzle immerses you in a vibrant challenge, demanding strategic block placements to clear lines like a tang
+- [Block Stacking Game](../games/puzzle/block-stacking-game.md) — Block Stacking is a very fun, leisure, and pressure-relieving game. The game is very delicate and fresh. In the game, yo
+- [Block tetris](../games/puzzle/block-tetris.md) — Play color blocks with puzzle and arcade game mode! Tout est gratuit, a simple puzzle game.
+- [Block to Block - Puzzle](../games/puzzle/block-to-block-puzzle.md) — Dive into Block to Block, a puzzle game where sliding and fitting blocks into place tests your strategic mind. Each leve
+- [Block Triangle](../games/puzzle/block-triangle.md) — Are you ready for the rainbow Triangle puzzle game? Arrange shapes made up of triangles to fill various designs! The pos
+- [Block Triangle Puzzle](../games/puzzle/block-triangle-puzzle.md) — Are you ready to solve block puzzle games with rainbow triangles? Arrange shapes made up of triangles to fill up all kin
+- [BlockBlast](../games/puzzle/blockblast.md) — BlockBlast is a classic block game suitable for all ages. It is extremely easy to learn, but achieving high scores can b
+- [Blockfall Blitz: Master the Falling Blocks!](../games/puzzle/blockfall-blitz-master-the-falling-blocks.md) — Blockfall Blitz is a fast-paced, addictive puzzle game inspired by classic falling block titles. Strategically place des
+- [BlockFit Puzzler](../games/puzzle/blockfit-puzzler-2.md) — Dive into BlockFit Puzzler, where strategic block alignment meets challenging puzzles. Experience the thrill of aligning
+- [Blockibo: Color Blocks](../games/puzzle/blockibo-color-blocks.md) — Block Escape is a vibrant logic puzzle game where every move matters. Guide colorful blocks across a compact game board,
+- [Blockoodoku Block Puzzle](../games/puzzle/blockoodoku-block-puzzle.md) — Blockudoku Block Adventure offers an addictive twist on classic puzzles, merging Sudoku logic with block mechanics. Clea
+- [BlockPuzzle](../games/puzzle/blockpuzzle.md) — Wood Block Puzzle - Classic Block Puzzle Game is a classic block puzzle game with a wooden style. Its a great game as a 
+- [Blocks 8](../games/puzzle/blocks-8.md) — Simple but fun and challenging block puzzle tetris arcade game! Fill a row or column with the pieces you have available 
+- [Blocks and Car](../games/puzzle/blocks-and-car.md) — Blocks and Car is a fun and casual puzzle game that combines Tetris-style block mechanics with passenger matching gamepl
+- [Blocks And Lines - Puzzle](../games/puzzle/blocks-and-lines-puzzle.md) — Connect colorful blocks in this engaging puzzle game where strategy meets creativity. Draw uninterrupted lines to link m
+- [Blocks Color](../games/puzzle/blocks-color.md) — Three in a Row is already an outdated game. It is being replaced by a new casual puzzle game. This arcade game is as eas
+- [Blocks Connect](../games/puzzle/blocks-connect.md) — Enter a vibrant world of strategic puzzles in Blocks Connect, where you link colorful blocks without crossing paths. Per
+- [Blocks Fall](../games/puzzle/blocks-fall.md) — "Blocks Fall" merges the timeless challenge of Tetris with a thrilling avoider twist. Skillfully clear falling blocks to
+- [Blocks Fill and Clear](../games/puzzle/blocks-fill-and-clear-2.md) — Dive into a world of strategic puzzles with Blocks Fill and Clear. Test your reflexes and decision-making as you strateg
+- [Blocks Fruit Match3](../games/puzzle/blocks-fruit-match3.md) — Tile Connect Master - Blocks Fruit Match3 game is a classic triple match game, which is fun, challenging, and brain trai
+- [Blocks Hexa Jigsaw Puzzle™](../games/puzzle/blocks-hexa-jigsaw-puzzle.md) — New free hexa jigsaw puzzle game every day - a Daily Free hexa jigsaw Puzzle and hexa puzzle picture challenge .more tha
+- [Blocks Match 3](../games/puzzle/blocks-match-3.md) — Blocks Match 3 is a thrilling match-3 puzzle! Swap colorful red, green, and blue blocks to form lines of 3+ and clear th
+- [Blocks Match Game](../games/puzzle/blocks-match-game.md) — Brix block blast is the best match 3 blocks game online! Not your average casual game - popping bubbles and smashing blo
+- [Blocks  Match3](../games/puzzle/blocks-match3.md) — If you love playing merge games, then you will surely like ""Merge Block Puzzle Game"" developed by Fun Free Apps & Game
+- [Blocks Merge](../games/puzzle/blocks-merge.md) — Remove all the blocks before the timer turns off. The same colored blocks explode when they come near to each other. You
+- [Blocks Miraculous ladybug Match](../games/puzzle/blocks-miraculous-ladybug-match.md) — Challenge your brain with a new simple block Miraculous ladybug. You will love it at the first times you play. Classic g
+- [Blocks: Move HIT   PRO](../games/puzzle/blocks-move-hit-pro.md) — Calling all blockheads and those who are called brainy! In Blocks - Move &amp; HIT -PRO youre a hero on a mission, but t
+- [Blocks: Move & Hit - PRO](../games/puzzle/blocks-move-hit-pro-2.md) — Guide an adventurous block through dynamic mazes, mastering strategic rebounds off immovable stone blocks. Every collisi
+- [blocks of color](../games/puzzle/blocks-of-color.md) — The player must rely on sharp observation and quick reflexes to click and overcome incoming obstacles. As the score incr
+- [Blocks of Puzzle](../games/puzzle/blocks-of-puzzle.md) — Do you love free block puzzle games? If you are here, then you love them! This puzzle game is reminiscent of tangram and
+- [Blocks Puzzle](../games/puzzle/blocks-puzzle.md) — Blocks Puzzle or also called 1010 is a simple HTML5 puzzle game. Drag blocks into grid board until board grid vertical o
+- [Blocks Puzzle](../games/puzzle/blocks-puzzle-3.md) — Strategically arrange unique blocks to clear lines and score points in this engaging puzzle game. As lines disappear, cr
+- [Blocks Puzzle Halloween](../games/puzzle/blocks-puzzle-halloween.md) — This is a typical puzzle game that helps train your eyes and brain. You love the Tetris game, you also love the Hallowee
+- [Blocks Puzzle Jewel 2](../games/puzzle/blocks-puzzle-jewel-2.md) — Blocks Puzzle Jewel 2 is an amazing game. make full lines vertically or horizontally to clear the blocks and to get a hi
+- [Blocks Shooter 3D! Run, Shoot, Merge Weapons!](../games/puzzle/blocks-shooter-3d-run-shoot-merge-weapons.md) — 🎯 The game "Blocks Shooter 3D! Run, Shoot, Меrge Weapons!" will appeal to everyone who loves action, shooters and runne
+- [Blocks Stack Puzzle](../games/puzzle/blocks-stack-puzzle.md) — Dive into Blocks Stack Puzzle, where strategic thinking meets vibrant visuals. Skillfully fit multi-colored blocks into 
+- [Blocks Stack Rush](../games/puzzle/blocks-stack-rush-2.md) — Embark on a pixelated adventure in Blocks Stack Rush, where your block character races against time. Stack blocks to per
+- [Blocks Super Match](../games/puzzle/blocks-super-match.md) — Interesting new block puzzle game , classic puzzle game with drag blocks where you should place blocks in order to have 
+- [Blocks Super Match3](../games/puzzle/blocks-super-match3.md) — Match 3 games are puzzle games you need to match 3 or more object by exchanging two pieces or by clicking on a group of 
+- [Blocks Tower](../games/puzzle/blocks-tower.md) — A very popular and addictive game release the block by taping anywhere and construct the tower as tall as possible! If y
+- [Blocks Up](../games/puzzle/blocks-up.md) — Blocks Up is a fun online puzzle game. Match 3 blocks of the same color. Don’t let the blocks reach the dotted line! Hav
+- [Blocks with a Twist](../games/puzzle/blocks-with-a-twist.md) — Dive into a captivating puzzle adventure where every move counts. Strategically fill lines and clear space, but the game
+- [BlocksClassic](../games/puzzle/blocksclassic.md) — Blocks Classic is match two block breaking game where you have to clear all the blocks on the board. The game have three
+- [BlockStacking](../games/puzzle/blockstacking.md) — Block Stacking is a fun and addictive block puzzle game where your goal is to arrange blocks to complete full rows, clea
+- [Blocky Ball 3D](../games/puzzle/blocky-ball-3d.md) — Blocky Ball 3D is a game where you try to get the ball to the exit by moving wooden disc blocks. You must create the cor
+- [Blocky Chains](../games/puzzle/blocky-chains.md) — Connect similar candies using touchpad or mouse. Make a group of 3 or more, horizontally, vertically or diagonally adjac
+- [Blocky Friend](../games/puzzle/blocky-friend.md) — Blocky Friend game has a lot of success review and player this MONTH that significantly improves overall game performanc
+- [Blocky Roads 3D](../games/puzzle/blocky-roads-3d.md) — Jump into your car and discover green hills, snowy mountains and desert dunes in this unique physics racer! The tornado 
+- [Blocky Set - 3d brick constructions](../games/puzzle/blocky-set-3d-brick-constructions.md) — A 3D emulator of real-life brick-building games, where you are presented with a complete model and must reproduce it by 
+- [BLOKKU](../games/puzzle/blokku.md) — BLOKKU is an addictive block puzzle game! Drag and drop pieces onto the 11x11 grid, fill complete rows and columns to cl
+- [Blonde Doll Fashion Style Puzzle](../games/puzzle/blonde-doll-fashion-style-puzzle.md) — Blonde Doll Fashion Style Puzzle game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes
+- [Blonde Dolls Hairstyle Jigsaw](../games/puzzle/blonde-dolls-hairstyle-jigsaw.md) — Blonde Dolls Hairstyle Jigsaw game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to
+- [Bloody Nightmare](../games/puzzle/bloody-nightmare.md) — The game is intended for players over the age of 18, as in it, you will need to feel like killers and kill live targets 
+- [Bloom Crush](../games/puzzle/bloom-crush.md) — Bloom Crush is a classic match-3 puzzle game filled with fun challenges. Swap items to make lines of three or more match
+- [Bloom Me](../games/puzzle/bloom-me.md) — Bloom Me is fun color bingo game. Choose the right answers and make the flowers bloom.
+- [Bloom Me!](../games/puzzle/bloom-me-2.md) — Dive into the vibrant world of Bloom Me!, where quick thinking and sharp wit are your keys to success. Form the word "BI
+- [Bloons](../games/puzzle/bloons.md) — Bloons is a fun arcade game in which you need to help the monkey to pop the balloons with its darts.
+- [Bloons Battles](../games/puzzle/bloons-battles.md) — Bloons Battles is a fun game with monkeys and colored balloons. Check your skill in this game and try to pop all the bal
+- [Bloop!](../games/puzzle/bloop.md) — Bloop is a brainy isometric maze puzzler. Each level is a small grid, roll Bloop around, collect every diamond to open t
+- [Blossom](../games/puzzle/blossom.md) — Unleash your inner botanist in Blossom, a captivating puzzle adventure where strategic linking makes gardens flourish. S
+- [Blossom Paradise](../games/puzzle/blossom-paradise.md) — Click to connect water and flow it, blow the flowers and plants Have Fun.
+- [Blossom Sort - Flower Games](../games/puzzle/blossom-sort-flower-games.md) — Dive into Blossom Sort, where vibrant flowers and mind-bending logic puzzles await. Merge identical blossoms to craft st
+- [Blow Fish 2](../games/puzzle/blow-fish-2.md) — Navigate underwater levels in Blow Fish 2, using precision and strategy to unleash pearls that vanquish sea creatures. M
+- [Blow Kings Game](../games/puzzle/blow-kings-game.md) — In Blow Kings, an exciting and unique competition is about to begin, and our guests are all brave and eager to win. Beli
+- [Bloxcape](../games/puzzle/bloxcape.md) — Bloxcape is a puzzle game with minimalistic graphics and sound effects. Take out a block with a star and complete levels
+- [Bloxorz](../games/puzzle/bloxorz.md) — Bloxorz is a block sliding puzzle game. You will need roll the block around the board until it falls into the square hol
+- [Bloxorz](../games/puzzle/bloxorz-2.md) — Guide a block through intricate puzzles while keeping it from tumbling off the edges. With each level, the challenge int
+- [Blue Ball Game](../games/puzzle/blue-ball-game.md) — Control a flying blue ball and bypass red obstacles of different sizes. The game is difficult. Simple and addictive game
+- [Blue Koala Jigsaw Puzzles](../games/puzzle/blue-koala-jigsaw-puzzles.md) — Get ready to dive into a world of cute and colorful puzzles with Blue Koala Puzzle - Jigsaw Game! This fun and relaxing 
+- [Blue Morpho Butterfly Jigsaw](../games/puzzle/blue-morpho-butterfly-jigsaw.md) — Blue Morpho Butterfly jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the co
+- [Blue Roses Puzzle](../games/puzzle/blue-roses-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Blue Roses Puzzle. All images is with the anime girl with the blu
+- [Blue Story](../games/puzzle/blue-story.md) — Navigate the charming world of Blue Story, a puzzle game where you must strategically remove obstacles to unite two ende
+- [Blumgi Merge Online](../games/puzzle/blumgi-merge-online.md) — Play Blumgi Merge Online for free on Gen30.online, where exciting HTML5 games are just a click away. This addictive merg
+- [BMW 1-Series UK Puzzle](../games/puzzle/bmw-1-series-uk-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: BMW 1-Series UK Puzzle. All images is with the bmw 1-series uk. S
+- [Bmw Driving & Parking](../games/puzzle/bmw-driving-parking.md) — Are you ready for most realistic Bmw CAR game! More then race , park and car game… Customize your cars and try to pass c
+- [BMW iX3 2021 Puzzle](../games/puzzle/bmw-ix3-2021-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: BMW iX3 2021 Puzzle. All images is with the car - BMW iX3 2021. S
+- [BMW M4 Coupe Puzzle](../games/puzzle/bmw-m4-coupe-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: BMW M4 Coupe Puzzle. All images is with the car - BMW M4 Coupe. S
+- [BMW M4 GT3 Puzzle](../games/puzzle/bmw-m4-gt3-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: BMW M4 GT3 Puzzle. All images is with the car - BMW M4 GT3. Solve
+- [BMW M4 GT3 Slide](../games/puzzle/bmw-m4-gt3-slide.md) — Play this slide puzzle games of the car - BMW M4 GT3. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 pie
+- [BMW M5 Competition Puzzle](../games/puzzle/bmw-m5-competition-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: BMW M5 Competition Puzzle. All images is with the car - bmw m5 co
+- [BMW S1000RR Slide](../games/puzzle/bmw-s1000rr-slide.md) — Play this slide puzzle games of the motorcycle - BMW S1000RR. It's include 3 images and 3 modes to play.
+- [BMW X6 M50i Puzzle](../games/puzzle/bmw-x6-m50i-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: BMW X6 M50i Puzzle. All images is with the bmw x6 m50i. Solve all
+- [Bmx Bike](../games/puzzle/bmx-bike.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [BMX Bikers Jigsaw](../games/puzzle/bmx-bikers-jigsaw.md) — BMX Bikers Jigsaw game is free online game and you have 6 images in three modes to play easy, medium and hard. Choose on
+- [BOAR HUNTING JIGSAW](../games/puzzle/boar-hunting-jigsaw.md) — This game demands from you good shooting skills to running animals. You have to camouflage yourself against them. Fast r
+- [Boat Jigsaw](../games/puzzle/boat-jigsaw.md) — This premium quality game is the perfect choice for lovers of jigsaw puzzles. Boat Jigsaw that gives you the perfect fre
+- [Boat Merge](../games/puzzle/boat-merge.md) — Boat Merge is a relaxing idle merge game where players combine matching boats to create faster and more valuable vessels
+- [Boat Merge &amp; Race](../games/puzzle/boat-merge-amp-race.md) — Enjoy the fun of Boat Merge &amp; Race, a 3D arcade racing game that lets you control your own boat. You can merge two i
+- [Boat Rescue Challenge](../games/puzzle/boat-rescue-challenge-2.md) — Navigate treacherous waters in Boat Rescue Challenge, mastering quick reflexes and strategic foresight to rescue strande
+- [Boat Viking War](../games/puzzle/boat-viking-war.md) — Enter the brutal world of Viking warriors and become the strongest fighter in this action-packed battle adventure. Vikin
+- [Bobble Space Shooter](../games/puzzle/bobble-space-shooter.md) — Blast into an intergalactic adventure with Bobble Space Shooter, where strategy meets cosmic fun. Aim and fire your way 
+- [Boho Animals Jigsaw](../games/puzzle/boho-animals-jigsaw.md) — These animals are very different from other animals you know because they dress very stylishly. Their style is completel
+- [Bokeh Picture Perfect Puzzle](../games/puzzle/bokeh-picture-perfect-puzzle.md) — Rediscover the classic slide puzzle with Bokeh Picture Perfect Puzzle. Manipulate tiles to reveal vibrant images while e
+- [Bole Touch](../games/puzzle/bole-touch.md) — How to Play: - Tap two or more adjacent bubble of the same color. - The more bubble crush at once time, the higher score
+- [Bolt Unwind Challenge](../games/puzzle/bolt-unwind-challenge.md) — Unwind your mind with Bolt Unwind Challenge, a puzzle game demanding strategy and precision. Strategically untangle comp
+- [Bolts](../games/puzzle/bolts.md) — Dive into Bolts, where strategy meets ingenuity in a world of nuts and bolts. Every level is a fresh puzzle adventure, d
+- [Bolts and nuts](../games/puzzle/bolts-and-nuts.md) — Become a master strategist in Bolts and Nuts, where each click dictates the fall of planks. Engage in thought-provoking 
+- [Bolts and Nuts - Color Sorting](../games/puzzle/bolts-and-nuts-color-sorting.md) — Dive into the vibrant world of Bolts and Nuts, where your logic is key. Unscrew, collect, and solve engaging puzzles as 
+- [Bolts and Nuts in 3D!](../games/puzzle/bolts-and-nuts-in-3d.md) — This game is a logic puzzle. You have to unscrew the bolts from the planks! Your task is to choose the right bolt to uns
+- [Bomb Bam](../games/puzzle/bomb-bam.md) — Dive into Bomb Bam's vivid arcade world, where precision meets speed! Launch colorful balls, match identical hues to ign
+- [BOMBAMAN 3D](../games/puzzle/bombaman-3d.md) — Dive into an exhilarating 3D journey with BOMBAMAN 3D! Tackle complex mazes, strategically use bombs to clear paths, and
+- [Bombs Drops](../games/puzzle/bombs-drops.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Bonbon Kids](../games/puzzle/bonbon-kids.md) — Bonbon Kids is the game name which is a dice-based game in candy setting. Candies are love by kids. The game has been ma
+- [Bonbon Monsters](../games/puzzle/bonbon-monsters.md) — Bonbon Monster is a cute puzzle game in which you have to feed each blue monster exactly one piece of candy. All the oth
+- [Bony Match3](../games/puzzle/bony-match3.md) — Bony Match3 is an exciting and addictive match 3 puzzle game that will tantalize your taste buds! In this captivating ga
+- [Boo Chains](../games/puzzle/boo-chains.md) — Link cute Halloween monsters with the same number or one apart and watch them blow up! Long chains create pumpkin bombs,
+- [Booba Jigsaw Puzzle](../games/puzzle/booba-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Boom Ballz](../games/puzzle/boom-ballz.md) — Shoot the ball z and break block z in endless brick block tiles demolition game. How to play: - Touch the screen with yo
+- [Boom Blast Puzzle Game](../games/puzzle/boom-blast-puzzle-game.md) — Step into the colorful world of Boom Blast Puzzle Game and enjoy an exciting puzzle adventure packed with fun and challe
+- [Boom Push](../games/puzzle/boom-push.md) — Boom Push is a very fun and free leisure puzzle online game by pushing boom for boys. You need to summon more people her
+- [Boomix](../games/puzzle/boomix.md) — Boomix is a memory-card based game where each card on flip contains a fire-cracker. Your job is to match the same cards 
+- [Boomstone](../games/puzzle/boomstone.md) — Match gems. Blast them. Watch the score explode. Boomstone is an addictive gem-matching puzzle with a roguelike twist. E
+- [Boon Blast](../games/puzzle/boon-blast.md) — Dive into the vibrant world of Boon Blast, where your reflexes meet strategic popping fun. Burst groups of colorful obje
+- [Bop The Blox](../games/puzzle/bop-the-blox.md) — If you love matching games, and fun strategy games, this one is for you! Help Professor Bop keep track of that pesky Blo
+- [border](../games/puzzle/border.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Botls Screw Puzzle](../games/puzzle/botls-screw-puzzle.md) — Dive into a labyrinth of intertwined iron panels, bolts, nuts, and plates adorned with scattered bolt fragments and ring
+- [Bottle cap challenge](../games/puzzle/bottle-cap-challenge.md) — Bottle cap challenge - cap of the Challenge bottle is a popular 2019 flashmob. Many celebrities have tried this challeng
+- [Bottle Cap Puzzle](../games/puzzle/bottle-cap-puzzle.md) — Get your change on the famous Bottle Cap Puzzle. Swipe as according to your stars to collect them all. Gather as many st
+- [Bottle Color Match Challenge](../games/puzzle/bottle-color-match-challenge.md) — Your task is simple but thrillingly challenging: arrange the bottles so that the colors match! Move, combine, and find m
+- [Bottle Flip](../games/puzzle/bottle-flip-2.md) — Bottle Flip is casual fun game. In the game you need to flip the bottle and make high score. A bottle flying through the
+- [Bottle Flip 3D](../games/puzzle/bottle-flip-3d.md) — You have to flip a plastic bottle in the exciting arcade game Bottle Flip 3D! Make the bottle jump or even double flip. 
+- [Bottle Jump](../games/puzzle/bottle-jump.md) — Bottle Jump bottleneck game have different levels for you there on each level you have a new challenge for complete that
+- [Bottle Pop!](../games/puzzle/bottle-pop.md) — You have to pop bottles in the exciting arcade game Bottle Pop! Make the bottle explode, jump or even fly. How? Just tap
+- [Bottle Tap](../games/puzzle/bottle-tap.md) — Bottle Tap is a very interesting physics puzzle game. You need to tap the bottles and make the juice collect stars. Use 
+- [Bottle Taps](../games/puzzle/bottle-taps.md) — Bottle Tap , Just click ,Collect Stars Pop Have Fun.Bottle tap is fun hypercasual game.
+- [Bounce Ball Jump](../games/puzzle/bounce-ball-jump.md) — Bounce Ball Jump is a puzzle game with Ball. Control the ball that moves and jumps on the stairs. There are spikes and o
+- [Bounce Ball Online](../games/puzzle/bounce-ball-online.md) — With simple controls and challenging adventures, Bounce Ball Online is carefully designed for players of all ages. Roll,
+- [Bounce Blast](../games/puzzle/bounce-blast.md) — Bounce Blast is an explosive chain-combo ball launcher thatll keep you hooked for hours! Aim and launch colorful balls t
+- [Bounce challenge game](../games/puzzle/bounce-challenge-game.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Bounce Panda 2](../games/puzzle/bounce-panda-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Bounce & Roll!](../games/puzzle/bounce-roll.md) — Bounce & Roll! is pretty simple. You need to lead your cute character, bounce and roll it to reach the treasure at the e
+- [Bouncing Ball](../games/puzzle/bouncing-ball.md) — Try to guide your ball through narrow steps as far as you can. Later on the game you can switch different types of ball!
+- [Bouncy Ball Challenge](../games/puzzle/bouncy-ball-challenge.md) — Bouncy Ball Challenge is super fun online game that you can play for free on PC and mobile. No download needed! The aim 
+- [Bouncy Egg](../games/puzzle/bouncy-egg.md) — In this super bouncy physics game you have to bounce your egg into the basket using springs, conveyer belts and walls. A
+- [Bouncy Woods](../games/puzzle/bouncy-woods.md) — Bouncy Woods is a puzzle game in which you must destroy all the bricks and recruit as many ducks as possible in the prog
+- [Box Blast](../games/puzzle/box-blast.md) — Box Blast is a minimalist, skill-based physics puzzle where you use blasts to push a box around, hopefully in the finish
+- [Box Box](../games/puzzle/box-box.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Box Colour Fill Game](../games/puzzle/box-colour-fill-game.md) — Once you download, you will never stop playing it. Just one objective: Fill the board. Very easy gameplay mechanics with
+- [Box Delivery Trucks Hidden](../games/puzzle/box-delivery-trucks-hidden.md) — Box Delivery Trucks Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and try t
+- [Box It Up](../games/puzzle/box-it-up.md) — Box It Up is a fast-paced puzzle game that tests your skills in managing a bustling can factory. Organize and pack cans 
+- [Box Jelly](../games/puzzle/box-jelly.md) — The main goal of the game is to guide all cute little jellyfish to the rescue area! Be careful because the small jellyfi
+- [Box Kid](../games/puzzle/box-kid.md) — Push the box towards the targets. Pass the 30 levels and get your diamonds !!
+- [Box Magician](../games/puzzle/box-magician-2.md) — Box Magician is a cute Halloween-themed physics puzzle game where you help a little witch collect treasure! Tap and remo
+- [Box Mover Puzzle Push Solve & Win](../games/puzzle/box-mover-puzzle-push-solve-win.md) — Test your strategic thinking and spatial skills in Box Mover Puzzle. Navigate boxes into place across increasingly compl
+- [Box Puncher](../games/puzzle/box-puncher.md) — In this game you are fighter who need to punch boxes and to earn points. But this is time limited game and you need to a
+- [Box Puzzle](../games/puzzle/box-puzzle.md) — Classic push box game, see if you can beat it.
+- [Box Puzzle](../games/puzzle/box-puzzle-2.md) — Strategically maneuver blocks to align matching stars in Box Puzzle. This game challenges your logic and patience throug
+- [Box Puzzle 2](../games/puzzle/box-puzzle-2-2.md) — Tackle an array of increasingly difficult puzzles in Box Puzzle 2, where your strategic prowess is vital. Glide seamless
+- [Box Roller](../games/puzzle/box-roller.md) — Box Roller is an exciting puzzle game where you control a wooden box rolling through terrain to land precisely in the ta
+- [Box Size](../games/puzzle/box-size.md) — We want to invite you in our new and exciting game called Box Size. Once you start the game you need to click on the box
+- [Box Switch](../games/puzzle/box-switch.md) — There is trouble at the Toy Factory and the Ball Department is working overtime - help them out by sorting the plummetin
+- [Box Tap Sort](../games/puzzle/box-tap-sort.md) — A head-to-head 3D color-sort puzzle. Dismantle candy-colored cube stacks by tapping cubes that match your active color o
+- [Box VS Triangles-2](../games/puzzle/box-vs-triangles-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Boxers in Arena](../games/puzzle/boxers-in-arena.md) — In this Boxers in Arena game you have 6 images of boxers in action in three modes to play. Choose one of the mode for th
+- [Boxes](../games/puzzle/boxes-2.md) — Guide a delightful green box through intricate, physics-driven mazes in Boxes. Collect hidden pearls across 20 enchantin
+- [Boxes Blast](../games/puzzle/boxes-blast.md) — Hey, the cute colored Boxes need your help to escape from this dark world! Your mission is to land the Boxes in the safe
+- [Boxes Drop](../games/puzzle/boxes-drop.md) — Play at Boxes Drop and have fun with this entertaining puzzle game! The goal of the game is to get the coin into the bas
+- [Boxes Drop](../games/puzzle/boxes-drop-2.md) — Guide a coin to victory in Boxes Drop, a captivating puzzle adventure. Strategically eliminate wooden boxes to maneuver 
+- [Boxes Physic](../games/puzzle/boxes-physic.md) — Get the green boxes off the screen as quickly as you can by breaking boxes into 4 smaller parts and strategically using 
+- [Boxing Champions Fight](../games/puzzle/boxing-champions-fight.md) — Boxing Champions Fight game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. 
+- [Boxing Hero](../games/puzzle/boxing-hero.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Boxman Sokoban](../games/puzzle/boxman-sokoban.md) — Boxman Sokoban is a free classic box-pushing puzzle game. The objective is to put all the boxes in the marked positions 
+- [Boy](../games/puzzle/boy.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Boys & Girls Bubble Pop](../games/puzzle/boys-girls-bubble-pop.md) — In Boys & Girls Bubble Pop, you must burst water ballons to trigger a chain reaction in order to eliminate them. You nee
+- [Boys With Glasses Jigsaw](../games/puzzle/boys-with-glasses-jigsaw.md) — Boys With Glasses Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 image
+- [Brain Calculator](../games/puzzle/brain-calculator.md) — Brain Calculator is an exciting puzzle calculator game in which you will manipulate numbers by adding them, subtracting 
+- [Brain Challenge](../games/puzzle/brain-challenge.md) — This game will challenge your mind, think out of the box Unexpected and mind-blowing answers will amaze you 250 Fun leve
+- [Brain Crazy: IQ Challenge Puzzle](../games/puzzle/brain-crazy-iq-challenge-puzzle.md) — Brain Crazy: IQ Challenge Puzzle is an addictive, mind-bending puzzle game designed to test common sense, logic, and out
+- [Brain Crossy Words](../games/puzzle/brain-crossy-words.md) — HAPPY ANNIVERSARY and a warm thank you to every one of our players for their efforts! In the previous two years, we have
+- [Brain Find: Can you find it?](../games/puzzle/brain-find-can-you-find-it.md) — If you are fan of tricky games, riddles, brain teasers, brain games or any other quiz game, Brain Find is one of the mos
+- [Brain Find Can You Find It 2](../games/puzzle/brain-find-can-you-find-it-2.md) — Brain Find brings new brain puzzles! Combine brain power and discovery for a brain challenge like no other! You can use 
+- [Brain Game Battery Color Sort Puzzle](../games/puzzle/brain-game-battery-color-sort-puzzle.md) — Match batteries of the same color to power up the grid and illuminate the room. With vibrant visuals and engaging gamepl
+- [Brain Games](../games/puzzle/brain-games.md) — Brain Games is a series of challenges, riddles and puzzles. Test your logical reasoning, accuracy, memory and creativity
+- [Brain It On: Launch Ball](../games/puzzle/brain-it-on-launch-ball.md) — This is a casual puzzle game, you need to launch the ball to the designated position. And make sure he doesn't pop out. 
+- [Brain Line Connect](../games/puzzle/brain-line-connect.md) — Brain Line Connect is a simple-but-challenging brain puzzle where you draw one continuous line to connect all dots on th
+- [Brain Master IQ Challenge](../games/puzzle/brain-master-iq-challenge.md) — Brain Master IQ Challenge is a free online puzzle game with hundreds of free IQ challenges that will help improve your I
+- [Brain Puzzle Out](../games/puzzle/brain-puzzle-out.md) — You will test your mind through a series of puzzles and challenges designed to increase the activity and temperature of 
+- [Brain Puzzle Quest Bangkok Edition](../games/puzzle/brain-puzzle-quest-bangkok-edition.md) — Journey through Bangkok's vibrant culture with Brain Puzzle Quest. Solve captivating puzzles depicting iconic landmarks 
+- [Brain Puzzle Tricky Choices](../games/puzzle/brain-puzzle-tricky-choices-2.md) — Unlock mind-bending challenges in Brain Puzzle Tricky Choices! Navigate intricate puzzles that test your logic and creat
+- [Brain Puzzle: Tricky Quest](../games/puzzle/brain-puzzle-tricky-quest.md) — Brain Test is an addictive free tricky puzzle game with a series of tricky brain teasers. Different riddles and tricky t
+- [Brain Teaser](../games/puzzle/brain-teaser.md) — Brain Teaser evaluates your logical think ability, reflexes, accuracy, memory and creativity. Do not answer the quests i
+- [Brain Teaser 2](../games/puzzle/brain-teaser-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Brain Teasers : Colors Game](../games/puzzle/brain-teasers-colors-game.md) — This game is a simple puzzle game that is easy to learn & quick to play. This blaster will challenge your brain and your
+- [Brain Test](../games/puzzle/brain-test.md) — Play this game to measure your intelligence!
+- [Brain Test: IQ Challenge](../games/puzzle/brain-test-iq-challenge-2.md) — Brain Training: Logic &amp; Puzzle Games Educational puzzle game for all ages! Improve logical thinking with pattern rec
+- [Brain Test IQ Challenge 2](../games/puzzle/brain-test-iq-challenge-2-3.md) — Embrace the ultimate brain workout with Brain Test IQ Challenge 2. Navigate quirky puzzles by drawing paths, dodging obs
+- [Brain Test - Puzzle](../games/puzzle/brain-test-puzzle.md) — Test your intellect and have a lot of fun! Think outside the box, train your brain. Solve exciting puzzles for adults - 
+- [Brain Test - Tricky Puzzle Journey](../games/puzzle/brain-test-tricky-puzzle-journey.md) — Brain Test is a fun intellectual casual game. Test your IQ and you'll have tons of fun at the same time! Unlike previous
+- [Brain Train Puzzle Game](../games/puzzle/brain-train-puzzle-game.md) — Brain Train ek fun aur addictive puzzle game hai jo aapke dimaag ko sharp aur focus ko strong banata hai. Is game mein a
+- [Brain Training Puzzle - Test You IQ Games](../games/puzzle/brain-training-puzzle-test-you-iq-games.md) — A simple black and white color block can test your intelligence！ I want you to play until the end，Then tell me，I've been
+- [Brain Tricks: Brain Games](../games/puzzle/brain-tricks-brain-games.md) — Train Your Brain with Mind-Bending Riddles & Puzzles! 🧠✨
+- [Brain tricks puzzles for kids](../games/puzzle/brain-tricks-puzzles-for-kids.md) — Brain tricks puzzles for kids is and addictive genius game that allow your genius kid to calculate math operations in sh
+- [Brainrot A Difference Challenge](../games/puzzle/brainrot-a-difference-challenge.md) — Put your observation skills to the test in Brainrot &ndash; A Difference Challenge, the ultimate photo puzzle game! Spot
+- [Brainrot Crush](../games/puzzle/brainrot-crush.md) — Dive into the colorful world of Italian memes with Brainrot Match! This exciting Match-3 puzzle game features 6 hilariou
+- [Brainrot Evolution](../games/puzzle/brainrot-evolution.md) — Welcome to Brainrot Evolution! UPDATES EVERY SATURDAY! Eat to gain levels! Gain levels to unlock new Brainrot Evolutions
+- [Brainrot Explorer: Match and Crush Game](../games/puzzle/brainrot-explorer-match-and-crush-game.md) — Enter a crumbling city's chaos in Brainrot Explorer, where puzzles defy logic. Match, sort, and merge quirky items while
+- [Brainrot Garden. Merge Cats](../games/puzzle/brainrot-garden-merge-cats.md) — Welcome to the strangest garden ever, where cats grow instead of vegetables. Your mission is to merge identical cats to 
+- [Brainrot Garden. Merge Cats](../games/puzzle/brainrot-garden-merge-cats-2.md) — Step into a peculiar garden where cats blossom like flowers. Merge identical felines to uncover bizarre new species. As 
+- [Brainrot Hidden Stars](../games/puzzle/brainrot-hidden-stars.md) — Play Brainrot Hidden Stars game online and for free. Find out the hidden stars in the specified images. Each level has 1
+- [Brainrot Merge](../games/puzzle/brainrot-merge.md) — Get ready for a weirdly satisfying evolution puzzle! In Brainrot Merge, drop creatures like Tun-Tun-Tun Sahur, Chimpanzi
+- [Brainrot Merge](../games/puzzle/brainrot-merge-2.md) — Unleash your inner chaos manager in Brainrot Drop Merge Challenge! Merge absurd creatures like laser-eyed monkeys in a m
+- [Brainrot Merge](../games/puzzle/brainrot-merge-3.md) — Dive into zany evolution with Brainrot Merge! Drop and merge quirky creatures, from bouncing chimps to rolling spions, c
+- [Brainrot Merge: Drop Puzzle](../games/puzzle/brainrot-merge-drop-puzzle.md) — Brainrot Merge: Drop Puzzle is a wildly absurd merge puzzle game where quirky creatures evolve into chaotic meme-powered
+- [Brainrot Merge & Fight](../games/puzzle/brainrot-merge-fight.md) — Brainrot Merge & Fight is a chaotic strategy brawler where you fuse quirky heroes into stronger versions and send them i
+- [Brainrot Mind Puzzle Sort Challenge](../games/puzzle/brainrot-mind-puzzle-sort-challenge.md) — Embark on a vibrant tube-sorting adventure with Brainrot Mind Puzzle. Challenge your logic and memory as you tap, move, 
+- [Brainrot Rescue](../games/puzzle/brainrot-rescue.md) — Brainrot Rescue is a festive puzzle game where players help Brainrot Claus retrieve his stolen gifts from mischievous sn
+- [Brainrot Sudoku](../games/puzzle/brainrot-sudoku.md) — Brainrot Sudoku is a hilarious twist on the classic number puzzle! Instead of filling grids with numbers, youll solve pu
+- [Brainrots Merge](../games/puzzle/brainrots-merge.md) — An engaging merge-clicker autobattler.
+- [Brainstorm](../games/puzzle/brainstorm.md) — Brainstorm - Tricky Test will train your brain with fun brain teasers. Don’t keep your mind idle. Make your mind think o
+- [Brainstorming](../games/puzzle/brainstorming.md) — Brainstorming is a tricky brain-teaser puzzle game that breaks the rules of logic! Forget everything you know &mdash; he
+- [Brainstorming 2D](../games/puzzle/brainstorming-2d.md) — Brainstorming 2D is a puzzle game. In each slider puzzle, you will see a grid with colored grid edges with squares insid
+- [Brainwave Blockade Puzzle](../games/puzzle/brainwave-blockade-puzzle.md) — Immerse yourself in Brainwave Blockade Puzzle, where strategic block placement is your weapon. Defend against relentless
+- [Brake Down](../games/puzzle/brake-down.md) — Tap on screen to brake the circle and to pass all obstacles without crash.
+- [Brake in Time](../games/puzzle/brake-in-time.md) — In this game you have to control the red ring not to collide with the rotating cubes. When you tap the screen or click t
+- [Brand New Cars Jigsaw](../games/puzzle/brand-new-cars-jigsaw.md) — Brand New Cars Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images a
+- [Brasil Hidden Alphabets](../games/puzzle/brasil-hidden-alphabets.md) — Try to find all the letters in the pictures and have fun!
+- [Brawl Stars Jigsaw](../games/puzzle/brawl-stars-jigsaw.md) — Brawl Stars Jigsaw is a free online game from genre of puzzle and jigsaw games. In this game you have a total of 12 jigs
+- [Brawl Stars Jigsaw Puzzle Collection](../games/puzzle/brawl-stars-jigsaw-puzzle-collection.md) — The brave fighters from Brawl Stars are tired of the constant battles for victory. Today they want to spend time playing
+- [Brawl Stars Match3](../games/puzzle/brawl-stars-match3.md) — We are glad to welcome you to the game three in a row with Brawl Stars! Collect images of Brawl Stars heroes in groups o
+- [Brawl Stars Puzzle](../games/puzzle/brawl-stars-puzzle.md) — Brawl Stars Puzzle is a free online game from genre of puzzle and jigsaw games. You can select one of the 6 images and t
+- [Brawl Stars Slide](../games/puzzle/brawl-stars-slide.md) — Welcome to the most fun fighters of the virtual world! In the game "Brawl Stars Slide", you will join this funny company
+- [Bread Barbershop Jigsaw Puzzle](../games/puzzle/bread-barbershop-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Bread Delicious](../games/puzzle/bread-delicious.md) — Try to fulfill the conditions specified in the current assignment in a clearly allotted time, then you will not be able 
+- [Bread Yolk Egg Jigsaw](../games/puzzle/bread-yolk-egg-jigsaw.md) — Bread yolk egg jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct j
+- [Break Brick Out](../games/puzzle/break-brick-out.md) — "Break Brick Out" is one of the best Brick breaking game. You need to control the reflect bar to hit the ball and destro
+- [Break Glass Wine](../games/puzzle/break-glass-wine.md) — Break Glass Wine is a game where you have to break all the wine glasses by throwing colorful balls. Use many physical ob
+- [Break Ice](../games/puzzle/break-ice.md) — Break Ice is a physics based puzzle game which is calm, fun and a little challenging game (if you want to collect all th
+- [Break The Candies](../games/puzzle/break-the-candies.md) — Use the Arrow keys to move your candy around, avoid the obstacles, and touch the target to break them all together. 40 l
+- [Break The Gems](../games/puzzle/break-the-gems.md) — Move your gem cleverly, touch the target one to break them. 40 levels to play, can you complete them all? Play now!
+- [Break the Maze](../games/puzzle/break-the-maze.md) — Embark on an adrenaline-fueled escape, breaking through intricate mazes laden with moving traps and secret routes. Outsm
+- [Break The Snowman Xmas](../games/puzzle/break-the-snowman-xmas.md) — Move your snowman cleverly, touch the target one to break them. 40 levels to play, can you complete them all? Merry Chri
+- [Breaking Fall Jigsaw](../games/puzzle/breaking-fall-jigsaw.md) — Drop the elevator down and try to reach the Finish line. Easy to play Hard to master.
+- [breaking_the_bank.swf](../games/puzzle/breaking-the-bank-swf.md) — Breaking the Bank is a stickman puzzle game made by Puffballs United, just as Infiltrating The Airship and Fleeing The C
+- [Breathtaking Sunset Jigsaw](../games/puzzle/breathtaking-sunset-jigsaw.md) — Breathtaking Sunset Jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the corr
+- [Brick Breaker Neon](../games/puzzle/brick-breaker-neon.md) — Brick Breaker Neon is a game with a classic concept but with an innovative style have fun with 200 different levels that
+- [Brick Breaker Puzzle Game](../games/puzzle/brick-breaker-puzzle-game.md) — Brick Breaker Game is a classic arcade-style experience reimagined with modern visuals, smooth controls, and addictive g
+- [Brick Breaker Unicorn](../games/puzzle/brick-breaker-unicorn.md) — Swipe your finger to throw the candy balls and break the sweet candy bricks. Have fun with Brick Breaker Unicorn.
+- [Brick Challenge](../games/puzzle/brick-challenge.md) — Brick Challenge is a fun puzzle game where you need to arrange bricks of the same color next to each other to score poin
+- [brick circles](../games/puzzle/brick-circles.md) — Welcome to this amazing bubble number Shooter. Your mission is to aim and shoot bubbles to prevent them from touching th
+- [Brick  Defense](../games/puzzle/brick-defense.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Brick Dodge Game](../games/puzzle/brick-dodge-game.md) — Brick Dodge is different than brick breaker game. This is sim ply brick game, where you need to pass the brick between w
+- [Brick Game Classic](../games/puzzle/brick-game-classic.md) — Brick Game Classic is a classic Tetris online game. If you are a fan of classic games, then this game that has been popu
+- [Brick Out Fire](../games/puzzle/brick-out-fire.md) — Brick out fire is a game where you earn points by throwing the ball over the platform and directing the platform, bounci
+- [Brick Out gemes](../games/puzzle/brick-out-gemes.md) — The aim of the game is to destroy all the bricks and collect any falling power-ups to move to the next level. All in the
+- [Brick Together](../games/puzzle/brick-together.md) — Control the yellow block to push single colored blocks. Blocks of the same color stick to blocks of the same color when 
+- [Brickbox](../games/puzzle/brickbox.md) — BrickBox is a captivating 2D puzzle game where players must strategically push a dime to a designated finish zone within
+- [BrickBox](../games/puzzle/brickbox-2.md) — Navigate intricate mazes in BrickBox, a strategic 2D puzzle adventure where you guide a diamond to its goal without hitt
+- [Bricklayer](../games/puzzle/bricklayer.md) — This is an interesting game of moving bricks to build a wall. Drag the bricks to build the wall. The bricks in two adjac
+- [Bricks Balls Breaker](../games/puzzle/bricks-balls-breaker.md) — Bricks Balls Breaker is a addictive and challenging brick game. Just play it to relax your brain. Be focus on breaking b
+- [Bricks Breaker](../games/puzzle/bricks-breaker.md) — Relax your brain and play the best bricks breaker game this year. Touch and shoot balls to break all bricks. You must cl
+- [Bricks Breaker Arcade Space Game](../games/puzzle/bricks-breaker-arcade-space-game.md) — [How to play] • Easy and simple mechanics that anyone can utilize and enjoy. • Shoot the ball and break the bricks. • Ta
+- [Bricks Breakout](../games/puzzle/bricks-breakout.md) — Introducing the best Brick Breaker game that everyone can enjoy. Enjoy various missions and addictively simple play cont
+- [Bricks Deluxe](../games/puzzle/bricks-deluxe.md) — In this interesting puzzle game, your job is to match three or more bricks to eliminate them and fill their colour meter
+- [Bricks N Balls](../games/puzzle/bricks-n-balls.md) — Bricks N Balls - is a brand new and challenging bricks breaker puzzle game. Play and relax your brain. Focus on breaking
+- [Bridge Builder](../games/puzzle/bridge-builder-2.md) — Stretch the stick in order to reach and walk on the platforms. Watch out! If the stick is not long enough, you will fall
+- [Bridge Builder 3D](../games/puzzle/bridge-builder-3d.md) — Become a design engineer who will have to improvise and, above all, adapt to the task at hand. Use different materials t
+- [Bridge Builder: Puzzle Game](../games/puzzle/bridge-builder-puzzle-game.md) — Meet an amazing puzzle game Bridge Builder. Connect blocks with bridges. Each block has a number with the number of brid
+- [Bridge Control](../games/puzzle/bridge-control.md) — In the case of our Bridge Control game, you don’t need it, enough dexterity and skill. Your bridge is already ready, it 
+- [Bridge Go Animal Rescue](../games/puzzle/bridge-go-animal-rescue.md) — Bridge Go Animal Rescue is a fun online game for kids where you tap the screen to start building bridges. Control the to
+- [Bridge Ladder Race](../games/puzzle/bridge-ladder-race.md) — Do you want to be a champion? Try this game Bridge Race that combines collecting and racing! You need to collect your co
+- [Bridge Race   Test of Precision](../games/puzzle/bridge-race-test-of-precision.md) — Bridge Race is an exciting online game that challenges your focus, timing, and quick reflexes. The main goal is to guide
+- [Bring the Ball](../games/puzzle/bring-the-ball.md) — In the new exciting game Bring the Ball you will have to help a small ball to get to a certain place. In front of you on
+- [British 4x4 Offroad Vehicles](../games/puzzle/british-4x4-offroad-vehicles.md) — British 4x4 Offroad Vehicles game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to 
+- [British-American Union Jigsaw](../games/puzzle/british-american-union-jigsaw.md) — British-American Union Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play
+- [British Cars Jigsaw](../games/puzzle/british-cars-jigsaw.md) — British Cars Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and
+- [British Racing Cars Jigsaw](../games/puzzle/british-racing-cars-jigsaw.md) — British Racing Cars Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. C
+- [Brix and Blox](../games/puzzle/brix-and-blox.md) — Match blocks with bricks in table. Gather points open new levels
+- [Broken Cars Jigsaw](../games/puzzle/broken-cars-jigsaw.md) — This is interesting jigsaw game with five images of broken cars. Choose your favorite image to start to play and choose 
+- [Broken Hearts Match](../games/puzzle/broken-hearts-match.md) — Did they break your heart too? Then this game is for you, merge the broken hearts, complete all the levels, collect all 
+- [Brown And Friends Jigsaw Puzzle](../games/puzzle/brown-and-friends-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Brr Brr Patapim Block Puzzle](../games/puzzle/brr-brr-patapim-block-puzzle.md) — Dive into a lively puzzle adventure with Brr Brr Patapim cheering you on! Stack colorful blocks to clear rows and earn p
+- [Brunette's Fashion Shots Jigsaw](../games/puzzle/brunette-s-fashion-shots-jigsaw.md) — Brunette's Fashion Shots Jigsaw game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes 
+- [Brush Room Game](../games/puzzle/brush-room-game.md) — Move the brush to paint the room. Paint the house to finish a building.
+- [BTS Kids Puzzle](../games/puzzle/bts-kids-puzzle.md) — BTS Kids Puzzle is fun online game suitable for all ages. Little kids will love this game. Choose puzzle you want to pla
+- [Bubbla Boing](../games/puzzle/bubbla-boing.md) — Classic breakout gameplay Multiple levels Power-ups and bonuses Smooth paddle control Progressive difficulty Destroy all
+- [Bubble 2048](../games/puzzle/bubble-2048.md) — Shoot And Merge Numbers！ The number 2048 will explode and eliminate more bubbles！ Are you ready to dive into Bubble 2048
+- [Bubble Animal Saga](../games/puzzle/bubble-animal-saga.md) — Bubble shooters no longer offer banal multi-colored bubbles as game elements. Whom you will not meet on the playing fiel
+- [Bubble Ball Shooter](../games/puzzle/bubble-ball-shooter.md) — Bubble Ball is an untimed bubble-popping strategy game with a classic interface and arcade special effects noises. The p
+- [Bubble Blast](../games/puzzle/bubble-blast.md) — Dive into a classic match-3 bubble puzzle! Enjoy tons of levels and exciting bonuses that keep the gameplay fresh.
+- [BUBBLE BLAST](../games/puzzle/bubble-blast-2.md) — Bubble Blast is a fun and fast-paced arcade game where players pop bubbles to score points. Different bubbles appear on 
+- [Bubble Blast 3D](../games/puzzle/bubble-blast-3d.md) — Welcome to Bubble Blast 3D A amazing bubble shooter with a new 3D style Aim and shoot bubbles with the same color and us
+- [Bubble Blitz Galaxy](../games/puzzle/bubble-blitz-galaxy.md) — Welcome to Bubble Blitz Galaxy! Aim and shoot bubbles towards similar ones to collect them while ensuring they stay away
+- [Bubble Boat](../games/puzzle/bubble-boat.md) — The bubble shooter game that is very easy to play. Once you start playing you wont stop! The goal of the game is to drop
+- [Bubble Boom](../games/puzzle/bubble-boom.md) — A classic bubble shooter where you’ll need to show your skills! Aim, shoot, and pop bubbles through colorful levels fill
+- [Bubble Boom](../games/puzzle/bubble-boom-2.md) — Dive into Bubble Boom, where classic Minesweeper gets a thrilling makeover! Uncover surprises with each click—will it be
+- [Bubble Bounce](../games/puzzle/bubble-bounce.md) — Dive into the vibrant world of Bubble Bounce! Navigate through a cascade of colorful bubbles, popping and dodging with s
+- [Bubble Boy](../games/puzzle/bubble-boy.md) — Your Bubble Jet is out of bubbles! Go on a journey to refill your jet and take back off into the sky! (this game is not 
+- [Bubble Burst](../games/puzzle/bubble-burst.md) — Bubble Burst is a cool activity, that requires a lot of dedication. The goal of the game is quite simple, so you must po
+- [Bubble Burst](../games/puzzle/bubble-burst-2.md) — Dive into the whimsical world of Bubble Burst, where quick reflexes and precision are key. Pop vibrant bubbles amidst co
+- [Bubble Burst Saga](../games/puzzle/bubble-burst-saga.md) — Dive into Bubble Burst Saga, where vibrant color-matching meets thrilling challenges. Launch balls strategically to crea
+- [Bubble Bust](../games/puzzle/bubble-bust.md) — Bubble Bust a bubble shooting classic game. Aim and shoot bubbles and complete your missions. Collect little creatures b
+- [Bubble Bust 2](../games/puzzle/bubble-bust-2.md) — This is the most amazing bubble shooter Games Welcome to the magical bubble shooting world! Explore Tons of Amazing and 
+- [Bubble Buster HD](../games/puzzle/bubble-buster-hd.md) — Bubble Buster HD has 4 game modes; Time or turn based arcade mode, and time or turn based random mode. Classic arcade ga
+- [Bubble Carousel](../games/puzzle/bubble-carousel.md) — Bubble Carousel is a special bubble shooter game in which you need to collect the bubble from the carousel, which makes 
+- [Bubble Cave](../games/puzzle/bubble-cave.md) — Bubble Cave is a unique 3 match game that anyone can enjoy! Different bubbles are falling down from the top. You have to
+- [Bubble Challenge](../games/puzzle/bubble-challenge.md) — If you are looking for relaxing, stress relief games to calm your mind, you should try Bubbles Empire Champions today an
+- [Bubble Classic](../games/puzzle/bubble-classic.md) — Dive into Bubble Classic, a captivating bubble shooter where precision and strategy reign supreme. Aim strategically to 
+- [Bubble Cloud](../games/puzzle/bubble-cloud.md) — Embark on a cosmic bubble-blasting adventure with Bubble Cloud. Master dynamic spinner mechanics as you strategize each 
+- [Bubble Color](../games/puzzle/bubble-color.md) — Bubble color is a fun game where you can shoot with arrows of the same color choice, to win this game, collect as many p
+- [Bubble Crash](../games/puzzle/bubble-crash.md) — Halloween Bubble Shooter is a simple match game, shoot in 3 or more balls with same colors, and get high score!
+- [Bubble Dreamscape](../games/puzzle/bubble-dreamscape.md) — Enter a mesmerizing world of vibrant bubbles in Bubble Dreamscape. Strategize and aim to match and pop your way through 
+- [Bubble Drop](../games/puzzle/bubble-drop.md) — Amazing bubbles are falling from the Sky! Your mission is to Pop those bubbles to clear your level. Amazing challenges a
+- [Bubble Emoji](../games/puzzle/bubble-emoji.md) — Bubble Emoji is a multi-level bubble shooter game. The goal of the game is to help the cute Teddy bear collect the items
+- [Bubble Eyes](../games/puzzle/bubble-eyes.md) — Immerse yourself in Bubble Eyes, where colorful bubbles with adorable eyes float. Click and draw to match the same-color
+- [Bubble Farm](../games/puzzle/bubble-farm.md) — Bubble Farm is a fun and Addictive shooting bubble buster game. Complete a level to unlock the next level, each level ha
+- [Bubble Fish](../games/puzzle/bubble-fish.md) — This is our new puzzle game called Bubble Fish. You need to connect three fish to score. You grab and drop the fish with
+- [Bubble Fish](../games/puzzle/bubble-fish-2.md) — Dive into Bubble Fish, an exhilarating blend of shooter tactics and Match 3 gameplay. Race against time, skillfully blas
+- [Bubble Foxy](../games/puzzle/bubble-foxy.md) — Welcome to a colorful Bubble Shooter adventure! Join the adorable fox on a journey through magical worlds filled with cu
+- [BUBBLE FRUIT SHOOTER](../games/puzzle/bubble-fruit-shooter.md) — Help the bubble to collect all kinds of fruits, free the trapped kitties and collect them all. Are you ready for the fru
+- [Bubble Fruit Shooter 2D](../games/puzzle/bubble-fruit-shooter-2d.md) — Bubble Fruit Shooter 2D Game is an entertaining 2D bubble shooter puzzle game where players must shoot and match colorfu
+- [BUBBLE GAME 3: CHRISTMAS EDITION](../games/puzzle/bubble-game-3-christmas-edition.md) — The best time of the year is here! Yes Christmas! So it's also time to give tribute to one of the greatest games of all 
+- [Bubble Ghost Shooter](../games/puzzle/bubble-ghost-shooter.md) — Welcome to a new and amazing and scary bubble shooting game. Are you ready to satisfy and serve monsters and ghosts. Aim
+- [Bubble Go Up](../games/puzzle/bubble-go-up.md) — Contact your hands to control and steer clear of the piloting barriers within this water faucet based game through which
+- [Bubble Gum](../games/puzzle/bubble-gum.md) — Blow it up and rise high! 🎈✨
+- [Bubble Gun Beach](../games/puzzle/bubble-gun-beach.md) — Bubble Gun Beach is a fun shooting game with amazing graphics.
+- [Bubble Hero](../games/puzzle/bubble-hero.md) — Embark on a bubbly adventure in Bubble Hero! Unleash your hero skills, shoot bubbles to rescue tiny creatures, and disco
+- [Bubble Hero 3D](../games/puzzle/bubble-hero-3d.md) — Blast through 80 vibrant levels in Bubble Hero 3D, where matching and popping bubbles becomes your thrilling mission to 
+- [Bubble Hit](../games/puzzle/bubble-hit.md) — Unleash your strategic prowess in Bubble Hit, a physics-based arcade adventure with 28 immersive levels. Toss stones to 
+- [Bubble Huggy Wuggy](../games/puzzle/bubble-huggy-wuggy.md) — Fans of the popular computer game Poppy Playtime are presented a custom cursor featuring one of the main characters, Hug
+- [Bubble Hunt](../games/puzzle/bubble-hunt.md) — Bubble Hunt is a Classical bubble shooter game with 48 challenges. Aim and release the bubble in order to combine it wit
+- [Bubble Hunter](../games/puzzle/bubble-hunter.md) — Bubble Hunter is a cool bubble shooter game. You are a little boy who goes on an adventurous journey into the jungle. Th
+- [Bubble Invasion 3D](../games/puzzle/bubble-invasion-3d.md) — Get ready to experience the ultimate evolution of puzzle shooters in Bubble Invasion 3D! This game takes the classic bub
+- [Bubble Jumper](../games/puzzle/bubble-jumper.md) — Navigate your way through a dazzling arcade adventure in Bubble Jumper! Master the art of shooting and timing to propel 
+- [Bubble Kingdom 2](../games/puzzle/bubble-kingdom-2.md) — Get ready to pop bubbles and beat level after level in Bubble kingdom - a fun bubble pop shooter game that will challeng
+- [Bubble Man Runner Game](../games/puzzle/bubble-man-runner-game.md) — Welcome to Bubble Runner Game, a fun and exciting running game full of colorful bubbles, jumping action, and endless adv
+- [Bubble Man Running Game](../games/puzzle/bubble-man-running-game.md) — Bubble Man Running Gameis a thrilling mobile game that puts you in control of an unstoppable hero on a quest for suprema
+- [Bubble Mania](../games/puzzle/bubble-mania.md) — 🎯 Bubble Mania
+- [Bubble Mania Shooter](../games/puzzle/bubble-mania-shooter.md) — Bubble Mania is a multi-level bubble shooter game. The goal of the game is to help the cute Teddy bear collect the items
+- [Bubble Match 3](../games/puzzle/bubble-match-3.md) — Bubble Match 3 is puzzle Match 3 game with colorful and beautiful graphics, collect three or more of the same Bubble.
+- [Bubble Match 3](../games/puzzle/bubble-match-3-2.md) — Immerse yourself in Bubble Match 3, a vibrant puzzle adventure where strategically aligning colorful bubbles unlocks add
+- [Bubble Math Dive](../games/puzzle/bubble-math-dive.md) — Dive into an enchanting underwater adventure with Bubble Math Dive! Guided by a cheerful octopus, solve math puzzles to 
+- [Bubble Maze](../games/puzzle/bubble-maze.md) — This is an extremely interesting leisure puzzle mobile game. Bubble Maze uses a simple and fresh game style to build an 
+- [Bubble Merge](../games/puzzle/bubble-merge.md) — Shoot bubbles with the canon, aim for the right angle, make them bounce and merge them to create the biggest number! Con
+- [Bubble Merge 2048](../games/puzzle/bubble-merge-2048.md) — Welcome to Bubble Merge 2048, where classic 2048 meets exciting bubble-blasting action! Shoot, merge, and blast through 
+- [Bubble Merge 2d](../games/puzzle/bubble-merge-2d.md) — Bubble Merge is a relaxing physics-based puzzle game where you combine matching bubbles to create new items and complete
+- [Bubble Merging](../games/puzzle/bubble-merging.md) — Immerse yourself in the enchanting world of alchemy with Bubble Merging! Strategically combine vibrant bubbles to craft 
+- [Bubble Monster](../games/puzzle/bubble-monster.md) — Bubble Monster is a multi-level bubble shooter game. The goal of the game is to help the cute Teddy bear collect the ite
+- [Bubble monsters 2021](../games/puzzle/bubble-monsters-2021.md) — bubble shooter fun in Bubble Wings. Relaxing family atmosphere and cheerful farm fruits. We continuously more puzzle lev
+- [Bubble Monsters Shooter](../games/puzzle/bubble-monsters-shooter.md) — Bubble Monsters Shooter Aim and release to shoot and pop 2 more more identical bubble monsters and clear the levels befo
+- [Bubble Ocean](../games/puzzle/bubble-ocean.md) — A tap game to pove your speed! You are in control of the ocean and you must create bubbles to bring the pollution back t
+- [Bubble Penguins](../games/puzzle/bubble-penguins.md) — Play the classic and most addictive bubble pop game for FREE, match 3 colors and clear levels. Don’t miss out this fun r
+- [Bubble Pet Game](../games/puzzle/bubble-pet-game.md) — Welcome to Bubble Pet Game, a colorful and super fun bubble shooting adventure where cute pets need your help! Get ready
+- [Bubble Pet Rescue](../games/puzzle/bubble-pet-rescue.md) — Bubble Pet Rescue is FREE, best fun game and Addictive shooting bubble buster game Bubble Pet is the most classic and am
+- [Bubble Pet Saga](../games/puzzle/bubble-pet-saga.md) — Aim, match and smash all the pets in this relaxing cute adventure game. Help the little pets to match 3 or more to incre
+- [Bubble Pets Shooter](../games/puzzle/bubble-pets-shooter.md) — Bubble Pets Shooter is an arcade game where you pop colorful bubbles. Make combinations of three or more bubbles of the 
+- [Bubble Pets Shooter](../games/puzzle/bubble-pets-shooter-2.md) — Burst into a vibrant arcade adventure with Bubble Pets Shooter. Strategically launch colorful bubbles to form clusters, 
+- [Bubble Pirate Shooter](../games/puzzle/bubble-pirate-shooter.md) — Zounds! You went in search of the treasure of the lost island. But it will not be easy because you are not the only priv
+- [Bubble Pirates Mania](../games/puzzle/bubble-pirates-mania.md) — Enjoy this Bubble shooter fun game. Shoot and match 3 colorful bubbles to pop them! Whether you want a simple game to pa
+- [Bubble Pirates Mania](../games/puzzle/bubble-pirates-mania-2.md) — Set sail aboard your pirate ship in a whimsical bubble-bursting adventure! Navigate tricky puzzles, aim with precision, 
+- [Bubble Planets](../games/puzzle/bubble-planets.md) — Bubble Planets is a fun bubble shooter game with an unique theme. Match bubbles that look like planets and get the highe
+- [Bubble Poke](../games/puzzle/bubble-poke.md) — Dive into Bubble Poke, a vibrant arcade game where your mission is to burst color-matched bubbles. Experience the exhila
+- [Bubble Pop](../games/puzzle/bubble-pop.md) — Bubble Pop is simple yet addictive! Select your level, Aim and shoot 2 or more similar fruits to pop them. Try to unlock
+- [Bubble Pop 2](../games/puzzle/bubble-pop-2.md) — Race through vibrant bubble worlds in Bubble Pop 2, a thrilling 3D arcade adventure. Pop and merge orbs to grow stronger
+- [Bubble Pop](../games/puzzle/bubble-pop-3.md) — Dive into Bubble Pop, a vibrant puzzle world where quick thinking and fast reflexes burst bubbles in a satisfying cascad
+- [Bubble Pop](../games/puzzle/bubble-pop-4.md) — Blast your way through vibrant levels with precision and strategy in Bubble Pop! Aim and fire at clusters of matching bu
+- [Bubble Pop Adventure](../games/puzzle/bubble-pop-adventure.md) — More than 100 levels with challenging obstacles. Stunning graphics and cute animations. Formula for maximum fun: aim, sh
+- [Bubble Pop Adventure](../games/puzzle/bubble-pop-adventure-2.md) — Dive into Bubble Pop Adventure, where vibrant worlds challenge you to master strategic bubble popping before time's up. 
+- [Bubble Pop Balloons](../games/puzzle/bubble-pop-balloons.md) — Dive into the delightful world of Bubble Pop Balloons, where a single tap unleashes vibrant cascades. Effortlessly chain
+- [Bubble Pop Fairyland](../games/puzzle/bubble-pop-fairyland.md) — Bubble Pop Fairyland is an exciting bubble shooter game that’s very highly addictive! Aim, shoot & pop all the color bub
+- [Bubble Pop Fairyland](../games/puzzle/bubble-pop-fairyland-2.md) — Bubble Pop Fairyland is an exciting bubble shooter game that&rsquo;s very highly addictive! Aim, shoot &amp; pop all the
+- [Bubble Pop Fairyland](../games/puzzle/bubble-pop-fairyland-3.md) — Enter a whimsical world in Bubble Pop Fairyland, where precision shooting and vibrant puzzles collide. Master epic bubbl
+- [Bubble Pop Frenzy](../games/puzzle/bubble-pop-frenzy.md) — Bubble Pop Frenzy is a fast-paced arcade game where you pop bubbles to score points while avoiding dangerous bomble trap
+- [Bubble Pop Legend](../games/puzzle/bubble-pop-legend.md) — Bubble Pop Legend is the best way to kill time. Aim & shoot to pop all colorful bubbles to clear the board and win coins
+- [Bubble Pop Master](../games/puzzle/bubble-pop-master.md) — If you like to pop the bubbles, then this is the right place for all bubble empire champions! Bubble Pop Origin Puzzle G
+- [Bubble Pop Origin](../games/puzzle/bubble-pop-origin.md) — Bubble Shooter is one of the most addictive fun bubble games for android devices with over 300 difficult and challenging
+- [Bubble Pop Shooter](../games/puzzle/bubble-pop-shooter.md) — Bubble Pop! Puzzle Game Legend is a highly addictive bubble shooter game loved by millions! This bubble shooter will eli
+- [Bubble Pop Story](../games/puzzle/bubble-pop-story.md) — Bubble Pop Story is an addicting bubble shooter game that you can play here at CrazyGames.com. 56,229 players have playe
+- [Bubble Popper](../games/puzzle/bubble-popper.md) — Pop colorful bubbles to clear each level! Click or tap bubbles to make them disappear - smaller bubbles give more points
+- [Bubble Popping](../games/puzzle/bubble-popping.md) — Your role is to go through every challenge Bubble Popping have prepared for you! Some may require a bit of attention or 
+- [Bubble Pops](../games/puzzle/bubble-pops.md) — Bubble Pop is an addictive hyper casual mobile game. Select groups of two or more bubbles and pop them to increase your 
+- [Bubble Puzzle](../games/puzzle/bubble-puzzle.md) — Engage your mind with Bubble Puzzle, where you swipe to connect dots and fit unique figures into tricky spots. Each leve
+- [Bubble Puzzle Match](../games/puzzle/bubble-puzzle-match.md) — Bubble Puzzle Match is the most Addictive bubble shooting game. All you have to do is to aim and shoot bubbles with the 
+- [Bubble Quest](../games/puzzle/bubble-quest.md) — Embark on a vibrant journey in Bubble Quest, where every bubble burst leads you closer to mastery. Test your wits with e
+- [Bubble run](../games/puzzle/bubble-run.md) — Move forward on the platform and destroy the pop it characters or dodge them. Be careful and react quickly to the approa
+- [Bubble Runner](../games/puzzle/bubble-runner.md) — Guide your bubble buddy through perilous paths in Bubble Runner, a fast-paced adventure where your navigational prowess 
+- [Bubble Rush](../games/puzzle/bubble-rush.md) — Aim from the center and pop colorful bubbles in Bubble Rush. Match bubbles of the same color, plan each shot, and clear 
+- [Bubble Saga](../games/puzzle/bubble-saga.md) — Aim, match and smash all the pets in this relaxing cute adventure game. Help the little pets to match 3 or more to incre
+- [Bubble Shoot Burst](../games/puzzle/bubble-shoot-burst.md) — Bubble Shoot Burst are based on the classic Match 3 formula, so your goal is to match at least three candy bubbles of th
+- [Bubble Shoot Merge Box 2048](../games/puzzle/bubble-shoot-merge-box-2048.md) — Bubble Shoot Merge Box 2048 is a fast-paced puzzle shooter that combines classic bubble shooting mechanics with the addi
+- [Bubble Shoot Merge Box 2048](../games/puzzle/bubble-shoot-merge-box-2048-2.md) — Experience the thrill of Bubble Shoot Merge Box 2048, where bubble shooting meets 2048 number merging. Strategically aim
+- [Bubble Shooter](../games/puzzle/bubble-shooter.md) — Bubble shooter is a puzzle HTML5 game . The goal of the game is to clear all the bubbles from the level avoiding any bub
+- [Bubble Shooter 1000](../games/puzzle/bubble-shooter-1000.md) — Match three or more bubbles of the same color to clear them off the board, until you run out
+- [Bubble Shooter](../games/puzzle/bubble-shooter-2.md) — Dive into a vibrant world of bubbles with Bubble Shooter! Test your aim and strategy as you pop colorful bubbles and tac
+- [Bubble Shooter 2.0](../games/puzzle/bubble-shooter-2-0.md) — The goal of the game is to clear the playing field by forming groups of three or more like-colored marbles. The game end
+- [Bubble Shooter 2020](../games/puzzle/bubble-shooter-2020.md) — The evil monkey kidnapped the raccoon cubs. Help the mother raccoon save her cubs by shooting the matching color balls i
+- [Bubble Shooter 2021](../games/puzzle/bubble-shooter-2021.md) — Oh mon Dieu ! L'oncle doberman effrayant a piégé tous les adorables chats dans la bulle. Allez, tirez et écrasez les bul
+- [Bubble Shooter 2023](../games/puzzle/bubble-shooter-2023.md) — If you like to pop the bubbles, then this is the right place for all bubble empire champions! Bubble Pop Origin Puzzle G
+- [Bubble Shooter 2025](../games/puzzle/bubble-shooter-2025.md) — Dive into Bubble Shooter 2025's colorful world where precision meets strategy. Launch bubbles to match three or more, tr
+- [Bubble Shooter 2d](../games/puzzle/bubble-shooter-2d.md) — Bubble Monster is a multi-level bubble shooter game. The goal of the game is to help the cute Teddy bear collect the ite
+- [Bubble Shooter 3](../games/puzzle/bubble-shooter-3.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Bubble Shooter Africa](../games/puzzle/bubble-shooter-africa.md) — Enjoy this bubble shooter game with African theme and power ups. Aim and release the items in order to combine it with o
+- [Bubble Shooter Aura](../games/puzzle/bubble-shooter-aura.md) — Bubble Shooter Aura is a modern and calming take on the classic bubble shooter game. Featuring soft colors, smooth anima
+- [Bubble Shooter Balloons](../games/puzzle/bubble-shooter-balloons.md) — Classical bubble shooter game with 30 challenging levels.
+- [Bubble Shooter Balls](../games/puzzle/bubble-shooter-balls.md) — Play the classic and most addictive Bubble Shooter game for FREE, now available on Google Play and perfect for your devi
+- [Bubble Shooter Blast](../games/puzzle/bubble-shooter-blast.md) — Immerse yourself in Bubble Shooter Blast, where precision and strategy are your keys to victory. Conquer over 200 vibran
+- [Bubble Shooter Blast Mania](../games/puzzle/bubble-shooter-blast-mania.md) — Dive into a tropical paradise with Bubble Shooter Blast Mania! Aim your colorful cannon and pop matching bubbles to clea
+- [Bubble Shooter Blast Master](../games/puzzle/bubble-shooter-blast-master.md) — Shoot the bubbles and earn points Bubble Shooter Blast Master is a free online browser game which is recommended for all
+- [Bubble Shooter Blast Master](../games/puzzle/bubble-shooter-blast-master-2.md) — Dive into Bubble Shooter Blast Master and unravel vibrant puzzles. Aim and launch your bubbles to create explosive chain
+- [Bubble Shooter Boom Blaster](../games/puzzle/bubble-shooter-boom-blaster.md) — Play the best bubble shooter game online for free! We are the best bubble shooter game online for free. We offer you the
+- [Bubble Shooter Boom Blaster](../games/puzzle/bubble-shooter-boom-blaster-2.md) — Dive into Bubble Shooter Boom Blaster's vibrant world where precision meets strategy. Match and pop colorful bubbles, na
+- [Bubble Shooter Bubble Shooting Game](../games/puzzle/bubble-shooter-bubble-shooting-game.md) — Hey, have you heard of the new game? It's called Bubble Shooter! You shoot little bubbles that match three or more to re
+- [Bubble Shooter Bunny](../games/puzzle/bubble-shooter-bunny.md) — Bubble Shooter Bunny is a puzzle game where you need to match three or more same color bubble in order to eliminate them
+- [Bubble Shooter Burst](../games/puzzle/bubble-shooter-burst.md) — Bubble Shoot Burst are based on the classic Match 3 formula, so your goal is to match at least three candy bubbles of th
+- [Bubble Shooter Candies](../games/puzzle/bubble-shooter-candies.md) — It is a classical bubble shooter game with 36 challenging levels. In each level you will find a different challenge. To 
+- [Bubble Shooter Candy Popper](../games/puzzle/bubble-shooter-candy-popper.md) — It is a classical bubble shooter game; pop the candy hidden among the bubbles. There will be 48 challenging levels. In e
+- [Bubble Shooter Candy Wheel](../games/puzzle/bubble-shooter-candy-wheel.md) — This is a special bubble shooter game in which you will find a rotating wheel of bubbles. To complete the game you need 
+- [Bubble Shooter Candy Wheel Level Pack](../games/puzzle/bubble-shooter-candy-wheel-level-pack.md) — Bubble Shooter Candy Wheel Level Pack is a fun and challenging game where you shoot candy bubbles to match three or more
+- [Bubble Shooter Challenge](../games/puzzle/bubble-shooter-challenge.md) — Bubble Shooter Pop Burst Challenge is packed with exciting power-ups and boosters that help you overcome difficult level
+- [Bubble Shooter Chicken](../games/puzzle/bubble-shooter-chicken.md) — Eveyone loves bubble shooting games. Welcome to Bubble shooter chicken a new amazing bubble shooting game. Aim and relea
+- [Bubble Shooter Clash Blast Online](../games/puzzle/bubble-shooter-clash-blast-online.md) — Bubble Shooter Cash Blast Online is a fun, fast-paced, and addictive bubble shooter game where every pop can lead to big
+- [Bubble Shooter Classic](../games/puzzle/bubble-shooter-classic.md) — Pop all the balloons, get the highest score and beat your rivals!
+- [Bubble Shooter Classic Game](../games/puzzle/bubble-shooter-classic-game.md) — Simple endless bubble shooter with classical touch.
+- [Bubble Shooter: classic match 3](../games/puzzle/bubble-shooter-classic-match-3.md) — Shoot the bubbles to create a combination of three or more bubbles of the same color. The more bubbles in a combination,
+- [Bubble Shooter Classic Online](../games/puzzle/bubble-shooter-classic-online.md) — Bubble Shooter Classic Online is a game.Blast all the colorful balloons, and test your strategy and logic skills solving
+- [Bubble Shooter Classic Pop](../games/puzzle/bubble-shooter-classic-pop.md) — Welcome to Bubble Shooter - Classic Pop, an addictive bubble-shooting game! Use your precision and quick thinking to mat
+- [Bubble Shooter Coin](../games/puzzle/bubble-shooter-coin.md) — When you start Bubble Shooter Coin, you&rsquo;ll notice many bubbles on your screen ready for you to pop them! You&rsquo
+- [Bubble Shooter Colored Planets](../games/puzzle/bubble-shooter-colored-planets.md) — Play the classic FREE bubble pop game! Shoot, match 3 colors and clear levels! Fun and relaxing game! Aim and shoot to d
+- [Bubble Shooter Colors](../games/puzzle/bubble-shooter-colors.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Bubble Shooter : Colors Game](../games/puzzle/bubble-shooter-colors-game.md) — "BUBBLE SHOOTER COLOR GAME" is a classic arcade game that you can play for FREE! You must match 3 bubbles to burst them 
+- [Bubble Shooter Crystal Hunt](../games/puzzle/bubble-shooter-crystal-hunt.md) — Bubble Shooter Crystal Hunt is an exciting endless bubble-shooting puzzle game where players must collect specific targe
+- [Bubble Shooter Deluxe](../games/puzzle/bubble-shooter-deluxe.md) — Classic bubble shooter game with an endless game-play. Don't let the bubble touch the bottom line.
+- [BUBBLE SHOOTER DOGS](../games/puzzle/bubble-shooter-dogs.md) — Dogs have prepared several game levels for you, in each of which you will have a task to clear the upper part of the pla
+- [Bubble Shooter Easter](../games/puzzle/bubble-shooter-easter.md) — Bubble Shooter Easter is a Classical bubble shooter game with many new items and power ups. Aim and release the Egg in o
+- [Bubble Shooter Egypt](../games/puzzle/bubble-shooter-egypt.md) — Collect all the antiques from the Bubbles. The antiques will be collected when the bubble shot by you, combines with a g
+- [BUBBLE SHOOTER FARM](../games/puzzle/bubble-shooter-farm.md) — BUBBLE SHOOTER FARM is a classic bubble shooter game in a happy setting. Help the little yellow bird by clearing all bub
+- [Bubble Shooter FreeDom](../games/puzzle/bubble-shooter-freedom.md) — Bubble Freedom is a new bubble shooting classic game. Aim & match 3 or more bubble to clear the board and kill all the c
+- [Bubble Shooter Fruits](../games/puzzle/bubble-shooter-fruits.md) — It is a classical bubble shooter game with 36 challenging levels. In each level you will find a different challenge. To 
+- [Bubble Shooter Fruits Candies](../games/puzzle/bubble-shooter-fruits-candies.md) — Bubble Shooter Fruits Candies is a Classical bubble shooter game with many new items and power ups. Aim and release the 
+- [Bubble Shooter Fruits Wheel](../games/puzzle/bubble-shooter-fruits-wheel.md) — This is a special bubble shooter game in which you will find a rotating wheel of fruits. To complete the game you need t
+- [Bubble Shooter Funny Halloween Paper Fold](../games/puzzle/bubble-shooter-funny-halloween-paper-fold.md) — Halloween bubble shooter is a classical bubble shooter game. To complete a level you need to pop the trapped bubbles to 
+- [Bubble Shooter : Galaxy Defense-2](../games/puzzle/bubble-shooter-galaxy-defense-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Bubble Shooter Genies](../games/puzzle/bubble-shooter-genies.md) — Play the most fun, relaxing and addictive bubble shooter game for FREE, match 3 colors and clear levels. you need to aim
+- [Bubble Shooter Gold Mining](../games/puzzle/bubble-shooter-gold-mining.md) — It is a classical bubble shooter game; mine the gold hidden among the bubbles. There will be 60 challenging levels. In e
+- [Bubble Shooter Golden Chests](../games/puzzle/bubble-shooter-golden-chests.md) — Bubble Shooter Golden Chests is a Classical bubble shooter game with many new challenges and power ups. Aim and release 
+- [Bubble Shooter Golden Football](../games/puzzle/bubble-shooter-golden-football.md) — Bubble Shooter Golden Football is a classical bubble shooter game in which you need to collect all the Golden Footballs 
+- [Bubble Shooter Halloween](../games/puzzle/bubble-shooter-halloween.md) — You in the game Bubble Shooter Halloween will have to destroy bubbles all and not let them touch the ground. You will ne
+- [Bubble Shooter Halloween Game](../games/puzzle/bubble-shooter-halloween-game.md) — Mаtсh 3 or more hаllоwееn balls оf the same color tо pop thе bаllѕ Bubblе Hаllоwееn is a nеw bubble ѕhооtеr game thаt іѕ
+- [Bubble Shooter:Halloween Party](../games/puzzle/bubble-shooter-halloween-party.md) — Guys, Are you ready for the party. It’s time for the celebration with Bubble Shooter- Halloween Party 2021 game. Bubble 
+- [Bubble Shooter Halloween Special](../games/puzzle/bubble-shooter-halloween-special.md) — This classic shooter game is all about endless Halloween-mask popping fun with a spooky twist. Aim and shoot to create g
+- [Bubble Shooter Happy Chef](../games/puzzle/bubble-shooter-happy-chef.md) — As a classic game, Candy Bubble shooter is popular at all over the world. No matter women, elderly, housewives, handsome
+- [Bubble Shooter HD](../games/puzzle/bubble-shooter-hd.md) — Dive into the addictive world of Bubble Shooter HD, where vibrant visuals meet challenging puzzles. Skillfully aim to ma
+- [Bubble Shooter Hero](../games/puzzle/bubble-shooter-hero.md) — Bubble Shooter games are very addictive, popular and loved by many people around the world. Try Bubble Shooter Hero & Ju
+- [Bubble Shooter Hexagon](../games/puzzle/bubble-shooter-hexagon.md) — Bubble Shooter Hexagon is a classical bubble shooter game with hexa bubbles. Aim and release the bubble in order to grou
+- [Bubble Shooter Home](../games/puzzle/bubble-shooter-home.md) — Welcome to Bubble Strike! A free online game that provides you only fun and happiness every time. You can play it on any
+- [Bubble Shooter Infinite](../games/puzzle/bubble-shooter-infinite.md) — Bubble Shooter Infinite is a bubble shooter game with all of the classic features along with new power-ups. Keep the bub
+- [Bubble Shooter Island Quest](../games/puzzle/bubble-shooter-island-quest.md) — Bubble Shooter Island Quest is an enchanting bubble shooter puzzle game set in a lush jungle island paradise. Its core c
+- [Bubble Shooter Jasmine](../games/puzzle/bubble-shooter-jasmine.md) — Bubble shooters are fun, exciting and relaxing. Get ready to play the most addictive bubble pop game for free. Indulge i
+- [Bubble Shooter Jungle](../games/puzzle/bubble-shooter-jungle.md) — Bubble Shooter Jungle is an addictive bubble shooter game with 50+ levels. Match three or more to pop the bubbles in thi
+- [Bubble Shooter Kids](../games/puzzle/bubble-shooter-kids.md) — Bubble Shooter Kids features: - amazing graphics - multiple levels - power-ups
+- [Bubble Shooter Kit : Match 3](../games/puzzle/bubble-shooter-kit-match-3.md) — Play the most popular bubble shooter game for FREE in Bubble Shooter Kit! Bubble Shooter Kit Mtach 3 is fun and addictiv
+- [Bubble Shooter Legend](../games/puzzle/bubble-shooter-legend.md) — Aim, match and smash all the colorful bubbles in this relaxing color matching adventure. To break the bubbles, you need 
+- [Bubble Shooter Legend 2](../games/puzzle/bubble-shooter-legend-2.md) — Enjoy a fun shooting puzzle game in Bubble Shooter Legend. Use your shooting skills in this casual puzzle game. Your goa
+- [Bubble Shooter Legend](../games/puzzle/bubble-shooter-legend-3.md) — Immerse yourself in Bubble Shooter Legend, a captivating puzzle journey where precision and strategy merge. Aim, fire, a
+- [Bubble Shooter Level Pack](../games/puzzle/bubble-shooter-level-pack.md) — It is a classic bubble shooter game where you eliminate bubbles by shooting similar bubble on them. Your goal is to elim
+- [Bubble Shooter Lof Toons](../games/puzzle/bubble-shooter-lof-toons.md) — This is a special bubble shooter game in which you will find a rotating wheel of smiley toon faces. To complete the game
+- [Bubble Shooter Love](../games/puzzle/bubble-shooter-love.md) — Shoot and match three or more same colored bubbles in order to clear the game area and free the trapped birds. Features:
+- [Bubble Shooter Magic](../games/puzzle/bubble-shooter-magic.md) — Bubble Shooter Magic game! Your mission is to shoot down all the bubbles as possible before running out of time. You onl
+- [Bubble Shooter Mania](../games/puzzle/bubble-shooter-mania.md) — Bubble Shooter Mania Welcome to a new bubble shooter arcade game! Aim and slide to release colorful bubbles and shoot bu
+- [Bubble Shooter Marbles](../games/puzzle/bubble-shooter-marbles.md) — It is a classical bubble shooter game with 48 challenging levels. In each level you will find a different challenge. To 
+- [Bubble Shooter Mega](../games/puzzle/bubble-shooter-mega.md) — Bubble Shooter Mega is an exhilarating bubble-popping arcade puzzle game featuring vibrant clusters of red, yellow, and 
+- [Bubble Shooter Party](../games/puzzle/bubble-shooter-party.md) — Bubble Shooter Party is the most addictive bubble shooting game made by KizGame.com! Aim and shoot bubble with the same 
+- [Bubble Shooter Pet Match 3](../games/puzzle/bubble-shooter-pet-match-3.md) — Bubble Fight IO is an online multiplayer Bubble Shooter game that you can play ANYTIME, ANYWHERE! The bubbles are stacke
+- [Bubble Shooter Pirates 3](../games/puzzle/bubble-shooter-pirates-3.md) — Bubble Shooter Pirates is a Bubble shooter match3 game. Aim to shoot Bubble with the same color and release the golden D
+- [Bubble Shooter Planets](../games/puzzle/bubble-shooter-planets.md) — Bubble Shooter Planets is a Classical bubble shooter game with many new items and power ups. Aim and release the planet 
+- [Bubble Shooter POP](../games/puzzle/bubble-shooter-pop.md) — Pop vibrant bubbles by strategically aiming and shooting in Bubble Shooter POP, a dynamic 2D puzzle game. Harness your s
+- [Bubble Shooter Pop: Fun Blast](../games/puzzle/bubble-shooter-pop-fun-blast.md) — Shoot and pop bubbles and experience hours of fun in this classic bubble shooter game! Bubble Shooter 3 is a new and awe
+- [Bubble Shooter Pr](../games/puzzle/bubble-shooter-pr.md) — "Bubble Shooter Pet" is the best fun game and the most popular games for all of kind age, very exciting game, very simpl
+- [Bubble Shooter Pro](../games/puzzle/bubble-shooter-pro.md) — The goal of the game is to clear the playing field by forming groups of three or more like-colored marbles. The game end
+- [Bubble Shooter Pro 2](../games/puzzle/bubble-shooter-pro-2.md) — Today, the virtual world is full of different game options that involve the destruction of multi-colored bubbles. You ha
+- [Bubble Shooter Pro 2026](../games/puzzle/bubble-shooter-pro-2026.md) — Discover the ultimate arcade thrill with Bubble Shooter Pro 2026! Aim, match, and pop colorful bubbles in this addictive
+- [Bubble Shooter Puddings](../games/puzzle/bubble-shooter-puddings.md) — Enjoy this bubble shooter game with tasty puddings and power ups. Aim and release the items in order to make a group of 
+- [Bubble Shooter - puzzle](../games/puzzle/bubble-shooter-puzzle.md) — Put your strategy skills to the test! Compete against friends and family and see who can reach the highest score and get
+- [Bubble Shooter Puzzle - Puzzle](../games/puzzle/bubble-shooter-puzzle-puzzle.md) — Play and enjoy the classic Bubble Shooter ™ Puzzle game in a super fun puzzle version! Pop bubbles in thousands of aweso
+- [Bubble Shooter Rainbow](../games/puzzle/bubble-shooter-rainbow.md) — Your favorite characters from Disney shows have all invited you right now to play the new and awesome game called Disney
+- [Bubble Shooter Relaxing Puzzle](../games/puzzle/bubble-shooter-relaxing-puzzle.md) — Welcome to the Bubble Shooter Relaxing Puzzle shooting game world! Play the classic and the most popular free bubble sho
+- [Bubble Shooter ro](../games/puzzle/bubble-shooter-ro.md) — Bubble Shooter ro is a fun arcade game where the player has to match 3 or more bubbles of the same collor.
+- [Bubble Shooter Saga](../games/puzzle/bubble-shooter-saga.md) — Bubble Shooter Saga is a multi-level bubble shooter game. The goal of the game is to help the cute Teddy bear collect th
+- [Bubble Shooter Saga Online](../games/puzzle/bubble-shooter-saga-online.md) — Bubble shooter is a game with balls in which you have to connect more than 3 balls of the same color by throwing one col
+- [Bubble Shooter Space](../games/puzzle/bubble-shooter-space.md) — Plunge into the cosmic realm of Bubble Shooter Space, where popping vibrant bubbles grants points and ignites a chain of
+- [Bubble Shooter Spooky](../games/puzzle/bubble-shooter-spooky.md) — It is a spooky bubble shooter game; collect the Golden 'Jack-o'-lanterns' hidden among the zombie's eyes. There will be 
+- [Bubble Shooter Squirrel](../games/puzzle/bubble-shooter-squirrel.md) — Bubble Shooter is a new version developed by the famous game titles such as shooting balls, shooting dinosaur eggs, shoo
+- [Bubble Shooter: Squirrel Rescue](../games/puzzle/bubble-shooter-squirrel-rescue.md) — Aim, shoot, and pop colorful bubbles to rescue the baby squirrels trapped in the forest! Match 3+ bubbles to clear the b
+- [Bubble Shooter Stars](../games/puzzle/bubble-shooter-stars.md) — It is a classical bubble shooter game with 48 challenging levels. In each level you will find a different challenge with
+- [Bubble Shooter Tale](../games/puzzle/bubble-shooter-tale.md) — Play Bubble Shooter Tale, the bubble shooter adventure with 70 challenging levels. Make combinations of 3 or more bubble
+- [Bubble Shooter: Tap & Pop](../games/puzzle/bubble-shooter-tap-pop.md) — Play Bubble Shooter: Tap & Pop – a thrilling bubble-shooting game with exciting levels, upgrades, and bonuses! Test your
+- [Bubble Shooter Treasure Rush](../games/puzzle/bubble-shooter-treasure-rush.md) — Bubble Shooter Treasure Rush is a target-based challenging bubble shooter game. Aim and release the bubble to group it w
+- [Bubble Shooter Vale](../games/puzzle/bubble-shooter-vale.md) — Bubble Shooter Vale is a fun and relaxing bubble shooting puzzle game where you match colorful bubbles and clear the boa
+- [Bubble Shooter Valentines](../games/puzzle/bubble-shooter-valentines.md) — Bubble Shooter Valentines is a Classical bubble shooter game, with Modern features and valentines theme. Heart Balloons 
+- [Bubble Shooter Wheel](../games/puzzle/bubble-shooter-wheel.md) — This is a special bubble shooter game in which you will find a rotating wheel of bubbles. To complete the game you need 
+- [Bubble Shooter Winter Pack](../games/puzzle/bubble-shooter-winter-pack.md) — Bubble Shooter Winter Pack is a classical bubble shooter game with winter theme. Aim and release the bubble in order to 
+- [Bubble Shooter X](../games/puzzle/bubble-shooter-x.md) — Dive into Bubble Shooter X, where precision meets strategy in this timeless bubble-popping adventure. Clear your screen 
+- [Bubble Shooter Xmas Pack](../games/puzzle/bubble-shooter-xmas-pack.md) — In this classical bubble shooter game, collect the Xmas lights before they chase you; There will be 36 levels in this ga
+- [Bubble Shooters](../games/puzzle/bubble-shooters.md) — Bubble shooters is a classic and addictive game. You have to aim and shoot to pop all the balloons. You have to combine 
+- [Bubble Shooting Pro Fun](../games/puzzle/bubble-shooting-pro-fun.md) — Experience the pure joy of arcade gaming with Bubble Shooting Pro Fun! This addictive puzzle adventure offers endless en
+- [Bubble Shot Master](../games/puzzle/bubble-shot-master.md) — Dive into Bubble Shot Master for a thrilling match-3 experience where strategy meets vibrant fun. Aim and shoot to pop c
+- [Bubble Shoterr](../games/puzzle/bubble-shoterr.md) — Bubble Shoterr games are very addictive, popular and loved by many people around the world. Jump into a new world of bub
+- [Bubble Shots](../games/puzzle/bubble-shots.md) — Bubble Shots is a classic arcade skill game where the objective is to shoot and make disappear as many bubbles as possib
+- [Bubble Smash](../games/puzzle/bubble-smash.md) — Bubble Smash is a relaxing yet addictive bubble-merge puzzle game. Aim and launch bubbles into the playfield, merge matc
+- [Bubble Sniper](../games/puzzle/bubble-sniper.md) — Master your precision and strategic skills in Bubble Sniper. Use a slingshot to obliterate vibrant bubble clusters while
+- [Bubble Sort](../games/puzzle/bubble-sort.md) — In Bubble Sort, your goal is to sort the bubbles by color. Start by moving the vials into the correct tubes until there 
+- [Bubble Sorter](../games/puzzle/bubble-sorter.md) — Bubble Sort is a puzzle sorting game. The goal of the game is to sort the bubble balls by colors. Put the bubbles in the
+- [Bubble Sorting](../games/puzzle/bubble-sorting.md) — Bubble Sorting is a puzzle game. In this game, your objective is to sort the bubbles by color. Start by moving the bubbl
+- [Bubble Sorting Game](../games/puzzle/bubble-sorting-game.md) — Sorting Puzzle Game is a fun, relaxing, and brain-boosting puzzle game designed for players who enjoy logical challenges
+- [Bubble Sorting Infinite Remastered](../games/puzzle/bubble-sorting-infinite-remastered.md) — Bubble Sorting Infinite Remastered is a fun and calming puzzle game where you sort colorful bubbles into matching tubes.
+- [Bubble Space](../games/puzzle/bubble-space.md) — The bubble shooter game that is very easy to play. Once you start playing you wont stop! The goal of the game is to beat
+- [bubble Spin](../games/puzzle/bubble-spin.md) — Bubble Spin is a fun tap 2 game that challenges you to match, break and blast for hours! This is a great cube matching p
+- [Bubble star](../games/puzzle/bubble-star.md) — Shoot bubbles and match colors to pop and drop your way to help the robot find the UFO and back to home! You’ll be addic
+- [Bubble Stars boxes: Sirius & Najia](../games/puzzle/bubble-stars-boxes-sirius-najia.md) — 104 characters and 1037 skins are waiting for you!
+- [Bubble Sugar](../games/puzzle/bubble-sugar.md) — Dive into Bubble Sugar, a delightful puzzle adventure bursting with vibrant colors and sweet challenges. Match and pop s
+- [Bubble Tea](../games/puzzle/bubble-tea.md) — Bubble Tea is a super fun simulating tea making game, which has many levels waiting for you to challenge. It allows you 
+- [Bubble Tea Cocktail Maker Mix Drinks](../games/puzzle/bubble-tea-cocktail-maker-mix-drinks.md) — Dive into the world of crafting drinks with the exciting **Bubble Tea Cocktail Maker Mix Drinks** game. Explore diverse 
+- [Bubble Tea Maker](../games/puzzle/bubble-tea-maker.md) — Surprise! The ice dessert shop is open in the crazy carnival! The patio beverage is also known as pearl tea, boba nai ch
+- [Bubble Tea Mixing Game](../games/puzzle/bubble-tea-mixing-game.md) — Bubble Tea &ndash; Color Game is all about mixing and matching and blending and fusing a huge assortment of flavors and 
+- [Bubble Touch](../games/puzzle/bubble-touch.md) — Bubble Touch is a game where bubbles come from the bottom up and you have to shoot them before they cross the finish lin
+- [Bubble Touch](../games/puzzle/bubble-touch-2.md) — Dive into Bubble Touch, where speed meets strategy. Test your reflexes by popping bubbles before they drift out of reach
+- [Bubble Tower](../games/puzzle/bubble-tower.md) — Bubble Tower 3D is a relaxing 3D bubble-pop / color-match puzzle game. You rotate a tower (or cylinder) loaded with colo
+- [Bubble Trouble](../games/puzzle/bubble-trouble.md) — Bubble Trouble is a retro-style arcade shooter where you play as a devil in a trench coat armed with a spike gun. Pop bo
+- [Bubble Truck](../games/puzzle/bubble-truck.md) — Bubble Truck is a great arcade puzzle game. The trucks will come from the left side of the game screen, and they will pa
+- [Bubble Up](../games/puzzle/bubble-up.md) — Dive into the vibrant world of Bubble Up, where colorful puzzles meet thrilling strategy. Masterfully navigate and oblit
+- [Bubble Up Arcade](../games/puzzle/bubble-up-arcade.md) — Guide your delicate bubble skyward in Bubble Up Arcade, a vibrant game of quick reflexes and precision. Navigate around 
+- [Bubble Up Endless](../games/puzzle/bubble-up-endless.md) — Strategically pop color-matched balls in Bubble Up Endless, where escalating complexities deliver a thrilling challenge.
+- [Bubble Voyage](../games/puzzle/bubble-voyage.md) — Fun bubble shooting game, challenge three stars with your fingers. By clicking to preset the launch trajectory of the bu
+- [Bubble vs Blocks](../games/puzzle/bubble-vs-blocks.md) — Connect the num-bubbles to destroy the num-blocks. Each block comes up with a number, and you need to chain some num-bub
+- [Bubble War](../games/puzzle/bubble-war.md) — Bubble War &ndash; The Ultimate Bubble Shooting Battle! Get ready for an exhilarating bubble-popping experience in Bubbl
+- [Bubble Warriors](../games/puzzle/bubble-warriors.md) — Bubble Warriors is a bubble shooter game where player needs to collect key for entering into next mission. Army of bubbl
+- [Bubble Wheel Halloween](../games/puzzle/bubble-wheel-halloween.md) — Play Bubble Wheel Halloween and get ready for spooky bubble-shooting fun! Aim and shoot to match Halloween-themed bubble
+- [Bubble Wipeout](../games/puzzle/bubble-wipeout.md) — Shoot down as many bubbles as you can – aim, match, shoot and burst the same colored bubbles. Keep in eye on the clock t
+- [Bubble Witch Saga](../games/puzzle/bubble-witch-saga.md) — Welcome to Bubble Witch Saga, a New bubble shooter adventure game. Aim to shoot bubble, transform bubble to fruits to ea
+- [Bubble Wooble](../games/puzzle/bubble-wooble.md) — Pop your way through vibrant challenges in Bubble Wooble, where precision and strategy are key. Liberate cute monsters f
+- [Bubble Word Jam](../games/puzzle/bubble-word-jam.md) — Pop word bubbles, sort them into categories, and relax while you train your brain. Word Bubble Sort is a satisfying word
+- [Bubble World](../games/puzzle/bubble-world.md) — Bubble World returns with a modern taste including a new adventure mode. Try to make a complete tour of the island (beac
+- [BubbleFishBuddies](../games/puzzle/bubblefishbuddies.md) — Wow, the little crab caught a lot of small fish. He's going to save some for his dinner, so now he's going to put the li
+- [Bubblehead Ball](../games/puzzle/bubblehead-ball.md) — Are you a guy who is a talented with skills and speed? If yes, lets score. Bubblehead Ball is a thrilling and fast-paced
+- [Bubbles Arcade](../games/puzzle/bubbles-arcade.md) — Experience the thrill of Bubbles Arcade, where quick reflexes and precision take center stage. Rotate platforms to match
+- [Bubbles Blast](../games/puzzle/bubbles-blast.md) — Bubbles Blast is a fast-paced neon bubble shooter set in deep space. Aim and fire colorful glowing bubbles to match 3 or
+- [Bubbles Clicker](../games/puzzle/bubbles-clicker.md) — Dive into the colorful chaos of Bubbles Clicker, where quick reflexes and strategic tapping are your keys to success. Bu
+- [Bubbles Fish](../games/puzzle/bubbles-fish.md) — Welcome to Bubble Fish! Get ready for a challenging bubble shooter experience. Aim and release bubbles to create groups 
+- [Bubbles Nout](../games/puzzle/bubbles-nout.md) — Bubbles Nout is exciting world of bubbles by GamesNout.com. Tap and make score.
+- [Bubbles Number](../games/puzzle/bubbles-number.md) — Welcome to this amazing bubble number Shooter. Your mission is to aim and shoot bubbles to prevent them from touching th
+- [Bubbles Pop](../games/puzzle/bubbles-pop.md) — Dive into Bubbles Pop, a soothing bubble-shooter experience where strategy meets relaxation. Strategically aim to pop cl
+- [Bubbles Pop Challenge](../games/puzzle/bubbles-pop-challenge.md) — Pop, pop, pop! Welcome to Bubbles Pop! Throw your bubbles and challenge yourself to achieve the highest score possible i
+- [Bubbles Shooter Squirrel](../games/puzzle/bubbles-shooter-squirrel.md) — Bubble Shooter Squirrel is an addictive, entertaining, and yet fun game for any age person to kill time, just Aim, Shoot
+- [BubbleShooter](../games/puzzle/bubbleshooter.md) — Play the classic FREE bubble pop game! Shoot, match 3 colors and clear levels! Fun and relaxing game! Aim and shoot to d
+- [BubbleStack](../games/puzzle/bubblestack.md) — Reach for the sky in BubbleStack! This exciting twist on the classic shooter challenges you to build the tallest tower o
+- [BUCA PULL](../games/puzzle/buca-pull.md) — Have you got the skill to aim the puck in the hole? With hundreds of satisfying, puzzling and beautiful levels, this is 
+- [Bucaa](../games/puzzle/bucaa.md) — 3 Mice is a skill game where you have to guide 3 mice down the platforms.
+- [Bucket Brigade](../games/puzzle/bucket-brigade.md) — Bucket Brigade Bucket Brigade is a cozy toy-themed puzzle game where you guide a rescue convoy across a sunny beach.
+- [Bucket Crusher](../games/puzzle/bucket-crusher.md) — Bucket Crusher is an interesting arcade game which is suitable for all ages. Your main task is to control the robotic ar
+- [Buddhist Ritual Water Jigsaw](../games/puzzle/buddhist-ritual-water-jigsaw.md) — Buddhist ritual water jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the co
+- [Buddy Jigsaw Puzzle](../games/puzzle/buddy-jigsaw-puzzle.md) — Buddy Jigsaw Puzzle is fun game suitable for all ages. Solving puzzles and brain teasers are important activities to tea
+- [Buddy Quest](../games/puzzle/buddy-quest.md) — Explore the fun and use your brain to find the buddy A physics based brain game, you have to destroy those blocks then h
+- [Budgie Spot the Difference](../games/puzzle/budgie-spot-the-difference.md) — Get ready for a fun bird puzzle adventure with Budgie Spot the Difference! Look carefully at two colorful budgie picture
+- [Bug Buddies Match 3](../games/puzzle/bug-buddies-match-3.md) — Bug Buddies Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series o
+- [Bug Match](../games/puzzle/bug-match.md) — Unleash your inner entomologist in Bug Match! Swap colorful insects to create lines of three or more, lighting up the bo
+- [Bugatti Bolide Jigsaw Puzzle](../games/puzzle/bugatti-bolide-jigsaw-puzzle.md) — In Bugatti Bolide Jigsaw Puzzle there are 6 images of the most extreme modern Bugatti. Solve all the puzzles and keep yo
+- [Bugatti Centodieci Puzzle](../games/puzzle/bugatti-centodieci-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Bugatti Centodieci Puzzle. All images is with the car - Bugatti C
+- [Bugatti Sports Car Puzzle](../games/puzzle/bugatti-sports-car-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Bugatti Sports Car Puzzle. All images is with the Bugatti Sports 
+- [Bugs Bunny Jigsaw Puzzle](../games/puzzle/bugs-bunny-jigsaw-puzzle.md) — Bugs Bunny Jigsaw Puzzle is a free online game from genre of puzzle and jigsaw games. In this game you have a total of 1
+- [Bugs Bunny Jigsaw Puzzle Collection](../games/puzzle/bugs-bunny-jigsaw-puzzle-collection.md) — The restless heroes of the old animated series "Funny Melodies" - Twitty, the treacherous cat Sylvester, coyote, shepher
+- [Bugs Hunter](../games/puzzle/bugs-hunter.md) — Bugs Hunter is a kind of bubble shooter game. But this time the spider needs to catch the bugs who are coming towards hi
+- [Bugs Match](../games/puzzle/bugs-match.md) — This is a match-3 game where you have to matching 3 identical insects to destroy them. In this game you can move the ins
+- [Build a Snowman](../games/puzzle/build-a-snowman.md) — Build a Snowman is a hardcore logical game, where the main task is to merge 2 parts of the snowman's body. It sounds lik
+- [Build Balance - Physics Puzzle](../games/puzzle/build-balance-physics-puzzle.md) — Stack your way to victory in this addictive physics puzzle game. Test your precision as you carefully build towering str
+- [Build Car for Kill Zombies](../games/puzzle/build-car-for-kill-zombies.md) — Zombies have taken over the world, and only your car can break through. Build it yourself in the workshop from engines, 
+- [Build Dance Bot](../games/puzzle/build-dance-bot.md) — Come and join this assembling the great dance robot and make them dance happily. You have to fix their legs,hands, body,
+- [Build My Brainrot](../games/puzzle/build-my-brainrot.md) — Build My Brainrot is a casual puzzle–simulation game where players collect and place colored blocks on a grid to complet
+- [Build Your Robot](../games/puzzle/build-your-robot.md) — Who needs a big factory to create robots when you can easily do it on your computer or mobile?! In this game, you can us
+- [Building a House - Match 3](../games/puzzle/building-a-house-match-3.md) — Transform your dream home while engaging in captivating match-3 puzzles. Earn stars by conquering challenging levels, th
+- [BuildUp 3D](../games/puzzle/buildup-3d.md) — Challenge your mind and test your reflexes in BuildUp 3D &ndash; the ultimate 3D puzzle and tower-building game! Stack b
+- [Bulica](../games/puzzle/bulica.md) — Test your reflexes and skills in this fun game, can you be the best? Use your finger to cut the rope and drop the ball, 
+- [Bulldog Puppy Puzzle](../games/puzzle/bulldog-puppy-puzzle.md) — Bulldog Puppy Puzzle game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Ch
+- [Bulldozer Climb](../games/puzzle/bulldozer-climb.md) — Bulldozer Climb is jumping platform game where you need to jump over hills and to collect clocks to add same extra time.
+- [Bulldozer Jigsaw](../games/puzzle/bulldozer-jigsaw.md) — Bulldozer Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and th
+- [Bulldozers Jigsaw Game](../games/puzzle/bulldozers-jigsaw-game.md) — Bulldozers Jigsaw is a game with bulldozers images. This game offer to you twelve images with bulldozers. Your job is to
+- [Bullet Man](../games/puzzle/bullet-man.md) — Hey there, Bullet Man. Use your gun to perfect your lethal accuracy and shoot at as many bad guys as possible. Challengi
+- [Bump Bandit](../games/puzzle/bump-bandit.md) — Bump Bandit is a clever top-down puzzle game wrapped in a retro jazzy atmosphere. You play as a quirky little thief dete
+- [Bunnies Driving Cars Match 3](../games/puzzle/bunnies-driving-cars-match-3.md) — Bunnies Driving Cars Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a
+- [Bunny Funny](../games/puzzle/bunny-funny.md) — In the magical land of Bunnyville, a little pink rabbit named Hoppy dreams of becoming the greatest egg collector. Every
+- [Burger Trucks Jigsaw](../games/puzzle/burger-trucks-jigsaw.md) — This is jigsaw game with burger trucks. There is twelve images with burger food trucks. Choose a image and play in Easy,
+- [BURJ KHALIFA JIGSAW](../games/puzzle/burj-khalifa-jigsaw.md) — Burj Khalifa jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jig
+- [Burning Rabits](../games/puzzle/burning-rabits.md) — This time you need to feed the rabbits. They want to eat carrots, but watch sometimes the dynamite will become in place 
+- [BurstBlitz](../games/puzzle/burstblitz.md) — BurstBlitz is a match-3 game in fire-crackers setting. Bring same type of crackers in chain with more than 3 and increas
+- [Bus Differences](../games/puzzle/bus-differences.md) — Now is the time to look at several buses in which we need to find differences. Behind these pictures are small differenc
+- [Bus Escape: Clear Jam](../games/puzzle/bus-escape-clear-jam.md) — Dismantle the bus and send the passengers home! This colorful parking puzzle will give you an exciting adventure and a b
+- [Bus Jam](../games/puzzle/bus-jam-3.md) — Navigate vibrant 3D roads in Bus Jam, a thrilling puzzle game where you strategically sort passengers by color and avoid
+- [Bus Jam Sort](../games/puzzle/bus-jam-sort.md) — The passengers are waiting for their bus, sort them out based on their color! Visually, Bus Jam Game is a visual treat, 
+- [Bus Jigsaw](../games/puzzle/bus-jigsaw.md) — Bus Jigsaw is a fun online puzzle game. Drag the pieces into right position using mouse. Solving puzzles is relaxing, re
+- [Bus out - Bus Away traffic jam](../games/puzzle/bus-out-bus-away-traffic-jam.md) — 🚍 Bus Out – Bus Away Traffic Jam
+- [Bus Parking King](../games/puzzle/bus-parking-king.md) — Welcome to the bus parking game adventure, a bus simulator game, where you can prove your skills as a bus driver. In the
+- [Bus Queue](../games/puzzle/bus-queue.md) — Dive into the logic-driven world of Bus Queue, where strategic brilliance is your ticket to success. Craft perfect rides
+- [Bus Route](../games/puzzle/bus-route.md) — The BUS ROUTE is a colourful and fun puzzlesorting game created by gameNply.com In this game: You have a queue of passen
+- [Bus Simulation - City Bus Driver 3](../games/puzzle/bus-simulation-city-bus-driver-3.md) — Ultimate bus simulator: bus games are the most with the amazing city bus driver. Top new adventurous idea in bus race: c
+- [Buses Differences](../games/puzzle/buses-differences.md) — We present a new puzzle game Buses Differences. With its help, you can test your attentiveness and intelligence. A playi
+- [Buto Square](../games/puzzle/buto-square-3.md) — Dive into the thrilling world of Buto Square, a captivating 2D platformer! Collect rare red hats while navigating throug
+- [Butterflies Jigsaw](../games/puzzle/butterflies-jigsaw.md) — Butterflies jigsaw is a game where you can choose an image with Butterfly from twelve images. After that choose in which
+- [Butterflies Puzzle](../games/puzzle/butterflies-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Butterflies Puzzle. All images is with the anime girl with the bu
+- [Butterfly Jigsaw Puzzle](../games/puzzle/butterfly-jigsaw-puzzle.md) — Butterfly Jigsaw Puzzle is an online puzzle game. 15 levels of increasing difficulty, your puzzle-solving skills will fl
+- [Butterfly Jigsaw Puzzle](../games/puzzle/butterfly-jigsaw-puzzle-2.md) — Piece together vivid butterfly puzzles in a captivating game that blends nature's beauty with puzzle-solving joy. Naviga
+- [Butterfly Matching](../games/puzzle/butterfly-matching.md) — Butterflies are some of the most beautiful creatures in the world. They come in all shapes and sizes, and each one is un
+- [Butterfly Matching](../games/puzzle/butterfly-matching-2.md) — Dive into the colorful excitement of Butterfly Matching, where your keen observation and quick reflexes are key. Identif
+- [Butterfly Merge](../games/puzzle/butterfly-merge.md) — Evolve vibrant butterflies by merging eggs, caterpillars, and larvae in Butterfly Merge. Strategically connect elements 
+- [Butterfly Slide](../games/puzzle/butterfly-slide.md) — Play this slide puzzle games of the butterfly. It's include 3 images and 3 modes to play.
+- [Button Fever](../games/puzzle/button-fever.md) — Button Fever is an attractive idle game to spend your spare time. You just need to click the button to gain the money th
+- [Buzzy Match](../games/puzzle/buzzy-match.md) — Race against the clock in Buzzy Match, a thrilling match-3 puzzle adventure! Strategically align adorable insects to tac
+- [Cabana Beach Jigsaw](../games/puzzle/cabana-beach-jigsaw.md) — Cabana Beach Jigsaw is game with interesting and funny images with Cabana Beach. Choose mode that you want to play and e
+- [Cadillac CT4-V Jigsaw Puzzle](../games/puzzle/cadillac-ct4-v-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the car - Cadillac CT4-V. The 
+- [Cafe](../games/puzzle/cafe.md) — Enter "Cafe 3 in a Row", an engaging game where you have to put three products in a row to pass the levels. It's a fresh
+- [Cahaya Laser](../games/puzzle/cahaya-laser.md) — Cahaya Laser is puzzle games! get your brain to work, in this game you have 40 level to play! the laser will reflect as 
+- [Cake Blocks Collapse](../games/puzzle/cake-blocks-collapse.md) — Collapse the blocks by tapping groups of horizontally or vertically connected same-color blocks. On each collapse you wi
+- [Cake Crunch](../games/puzzle/cake-crunch.md) — Cake Crunch is an amazing match3 puzzle game where you can swipe, match and crush delicious cakes. -How to Play : Swap a
+- [Cake Link](../games/puzzle/cake-link.md) — Another toy in which on the playing field you need to connect sweet multi-colored jellybeans! From one to the other. you
+- [Cake Madness](../games/puzzle/cake-madness.md) — Do you like Match3 candy games? Well this game will blow your mind! Welcome to Cake Madness, a crazy cake match3 puzzle 
+- [CAKE MAINE](../games/puzzle/cake-maine.md) — Cake Mania is the most dynamic match-3 game you’ll ever play! Match as much aa cake and blast the bomb to score high. Pl
+- [Cake Match3](../games/puzzle/cake-match3.md) — Cake Match3 is a free classic block game. It&rsquo;s a challenging block puzzle and popular game with endless fun and ti
+- [Cake Match3](../games/puzzle/cake-match3-2.md) — Indulge in Cake Match 3, where vibrant sweets await! Swap and match delicious pastries to create mouthwatering combos an
+- [Cake Ready](../games/puzzle/cake-ready.md) — Cake Ready is a cozy merge-and-renovate puzzle game. Combine matching ingredients and kitchen tools to fulfill customer 
+- [Cake Rush Saga](../games/puzzle/cake-rush-saga.md) — Cake Rush Saga is puzzle Match game with colorful and beautiful graphics, collect three or more of the same cake
+- [Cake Rush Saga](../games/puzzle/cake-rush-saga-2.md) — Indulge in a sugar-coated adventure with Cake Rush Saga! Match three or more delicious cakes to clear the board and crea
+- [Cake Shop: Bake lover](../games/puzzle/cake-shop-bake-lover.md) — Wow, your cake shop has opened! As a cake shop owner, do you know how to cook satisfactory cakes for customers? No worri
+- [Cake Smash](../games/puzzle/cake-smash.md) — Enter a sugary realm in Cake Smash, the delightful Match-3 puzzler. Swap and align cakes to craft delectable masterpiece
+- [Cake Sort](../games/puzzle/cake-sort.md) — Sort colorful cake slices to assemble whole desserts on a 4x4 grid. Enjoy relaxing clay-style 3D visuals, expanding flav
+- [Cake Sorting Deluxe](../games/puzzle/cake-sorting-deluxe.md) — Cake Sorting Deluxe is a fun and relaxing puzzle game that challenges your sorting skills! Shift cakes across shelves to
+- [Cambodia Elephant Kid Jigsaw](../games/puzzle/cambodia-elephant-kid-jigsaw.md) — Cambodia elephant kid jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the co
+- [Cameraman Plunge](../games/puzzle/cameraman-plunge.md) — Challenge your skills in this quirky game as you strategically shift cups to guide the camera into the hilarious Skibidi
+- [Camp Arrange](../games/puzzle/camp-arrange.md) — Camp Arrange is a lighthearted yet challenging puzzle game where you need to arrange colorful blocks in their designated
+- [Camper Trucks Jigsaw](../games/puzzle/camper-trucks-jigsaw.md) — Camper Trucks Jigsaw is a game with five images of camper trucks that you can play with. Choose the picture you like the
+- [Can You Reach 8K?](../games/puzzle/can-you-reach-8k.md) — Welcome to our site where we present our new game Can You Reach 8K? In this game you have to combine three or more ident
+- [Candi Cruz Saga](../games/puzzle/candi-cruz-saga.md) — Candi Cruz Saga Collect 3 of the same sweets to build the stage and then go to the next level. Candi Cruz Saga This Game
+- [Candies All The Way](../games/puzzle/candies-all-the-way.md) — Slide a row of candies horizontally or vertically to make a horizontal or vertical row of 3 or more similar candies. Use
+- [Candies Monsters](../games/puzzle/candies-monsters.md) — Help to a little monsters eat a candy with same color, but be careful, candies with other colors not to their liking. Go
+- [Candy Balls](../games/puzzle/candy-balls.md) — Everyone wants to relax after the a hectic pace of a work day, and this game knows how to help with that, Simple actions
+- [Candy Blast](../games/puzzle/candy-blast.md) — One of the best simple games Connect same Candy horizontally ,vertically, in a zigzag. Connect needed number of Candy by
+- [Candy Blast: Candy Bomb Puzzle Game](../games/puzzle/candy-blast-candy-bomb-puzzle-game.md) — Forget the old times! Because the most delicious game of colored candies is here! Are you bored of the orthodox color ma
+- [Candy Blast - Candy Bomb Puzzle Game](../games/puzzle/candy-blast-candy-bomb-puzzle-game-2.md) — Dive into a sugary adventure with Candy Blast, where your puzzle-solving skills create sweet explosions. Navigate colorf
+- [Candy Blast Mania - Match 3 Puzzle Game](../games/puzzle/candy-blast-mania-match-3-puzzle-game.md) — Candy Blast Mania is a brand new puzzle game designed for players who just want to play and have fun without being distr
+- [Candy Blast Master](../games/puzzle/candy-blast-master.md) — Drag a row or column to matching any 3 or more Candy Blast Master with the same color, you can eliminate them. Enjoy the
+- [Candy Blast Match3](../games/puzzle/candy-blast-match3.md) — Contains super vibrant 110+ unique 2d images of candies in different colors, rainbow colored elements, different power-u
+- [Candy Blast Saga](../games/puzzle/candy-blast-saga.md) — Embark on a whimsical quest in Candy Blast Saga, a charming Match 3 adventure. Swap candies, overcome clever obstacles, 
+- [Candy Block Collapse](../games/puzzle/candy-block-collapse.md) — Collapse the candy blocks by connecting 2 or more similar candy. Collapse 6 or more candy to get a bomb. More points are
+- [Candy Blocks](../games/puzzle/candy-blocks.md) — Candy Blocks is a super fun puzzle game. It`s simple yet addictive gameplay that challenges your brain, Just move the bl
+- [Candy Blocks](../games/puzzle/candy-blocks-2.md) — Dive into Candy Blocks, a captivating puzzle adventure. Arrange quirky blocks to masterfully clear lines in all directio
+- [Candy Blocks Collapse](../games/puzzle/candy-blocks-collapse.md) — Click on 2 or more than 2 candy blocks to eliminate them. To complete a level you need to eliminate all the blocks on th
+- [Candy Blocks Game](../games/puzzle/candy-blocks-game.md) — Dive into a vibrant candy-themed puzzle adventure! Align colorful candy blocks to clear rows and score big. Test your st
+- [Candy Blocks Sweet](../games/puzzle/candy-blocks-sweet.md) — Candy Blocks - Very interesting 2D puzzle game with candy blocks. You need to collect six candies in a row and score poi
+- [Candy Bonanza 5 in Row](../games/puzzle/candy-bonanza-5-in-row.md) — Click the candy you want to move, then click the place that you want it to go. but if other candies were on the moving r
+- [Candy Bonbon](../games/puzzle/candy-bonbon.md) — Candy Bonbon is puzzle match3 game. Tap to Crush 3 or more similar Candies and complete your mission. Collect boosters a
+- [CANDY BOOM](../games/puzzle/candy-boom.md) — This is logical puzzle game with candy. If you match two or more identical candy, when you click on them they will be de
+- [Candy Boom Links](../games/puzzle/candy-boom-links.md) — Candy Boom Links is a game where a chain reaction of candies is supposed to lead to destruction of all existing candies.
+- [Candy Breaker-2](../games/puzzle/candy-breaker-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Candy Breaker sugared](../games/puzzle/candy-breaker-sugared.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Candy Brick](../games/puzzle/candy-brick.md) — Drop the bricks to get the candy. In Candy Brick you can earn extra live, shields for balls, you can play with more ball
+- [Candy Bubble](../games/puzzle/candy-bubble.md) — Play candy bubbles, the bubble shooter adventure with 70 challenging levels. Make combinations of 3 or more bubbles to m
+- [Candy Bubble](../games/puzzle/candy-bubble-2.md) — Dive into the vibrant world of Candy Bubble, where strategic match-3 mechanics meet delightful, colorful visuals. Aim an
+- [Candy Bubble Blast](../games/puzzle/candy-bubble-blast.md) — Welcome this is an amazing puzzle candy popping game. Bubble candies are falling from the sky! Pop 3 or more candies of 
+- [Candy Bubble Panda](../games/puzzle/candy-bubble-panda.md) — Welcome to the world of candy bubble panda , which has a variety of bubbles and candies are waiting for you. Aim, shoot 
+- [Candy Bubble Spin](../games/puzzle/candy-bubble-spin.md) — Welcome to Candy Bubble Spin, a new kind of bubble shooter games. Aim and shoot rotating candies and bubble to clear the
+- [Candy Bubbles](../games/puzzle/candy-bubbles.md) — Amazing candy bubble buster game comes, it's the best Bubble Shooter with amazing effects! Your goal is to match groups 
+- [Candy Burst](../games/puzzle/candy-burst.md) — Candy Burst features: - multiple levels - multiple skins - fun one touch gameplay
+- [Candy Burst 2021](../games/puzzle/candy-burst-2021.md) — You might play many symmetry and casual games but this sweet candy brust game is making the candy and brust easy to play
+- [Candy Burst Match3](../games/puzzle/candy-burst-match3.md) — Candy Burst, an iconic Match 3 puzzle game offering you great gaming experience filled with relaxation and fun. Swap and
+- [Candy-CandyShop](../games/puzzle/candy-candyshop.md) — Candy-CandyShop - Cooking Game Make sweet cotton candy cooking in unicorn theme carnival food game Its carnival time and
+- [Candy Cascade](../games/puzzle/candy-cascade.md) — Candy Cascade is a classic match-3 puzzle about sweets. Swap neighbouring candies, line up three or more and complete th
+- [Candy Cascade](../games/puzzle/candy-cascade-2.md) — Click on groups of two or more candies to destroy them. You need to collect certain amount of different sweets on every 
+- [Candy Cascade](../games/puzzle/candy-cascade-3.md) — Candy Cascade invites you to indulge in strategic fun, navigating through 40 levels of candy-matching puzzles. Conquer o
+- [Candy Chain Master](../games/puzzle/candy-chain-master.md) — Welcome to Candy Chain Master! The board has blue tiles with candies on them. Start by selecting a candy and move across
+- [Candy Chain Match](../games/puzzle/candy-chain-match.md) — Connect similar items using touch or mouse. Make a group of 3 or more, horizontally, vertically or diagonally adjacent i
+- [Candy Color](../games/puzzle/candy-color.md) — Tap on screen to rotate circle who is with different colors. Tap to rotate circle to get same colors on circle and candy
+- [Candy Color Sort Puzzle](../games/puzzle/candy-color-sort-puzzle.md) — Test your strategic thinking with Candy Color Sort Puzzle! Tackle increasingly challenging levels by sorting vibrant col
+- [Candy Connect New](../games/puzzle/candy-connect-new.md) — A fun and addictive matching game. You need to find all the pairs of sweety and colorful candy tiles (by tapping them) w
+- [Candy Connection](../games/puzzle/candy-connection.md) — Today we present to you the puzzle game Candy Connection. In it we have to solve a rather interesting puzzle. Before us 
+- [Candy Cookie Rush Match 3 Sweet Legend bomb fever](../games/puzzle/candy-cookie-rush-match-3-sweet-legend-bomb-fever.md) — "Candy Cookie Rush Match 3 Sweet Legend bomb fever"Fullscreen Mobile-friendly Game Now don't crush the candies. Match th
+- [Candy Craze](../games/puzzle/candy-craze.md) — Dive into the vibrant world of Candy Craze, where precision shooting meets strategic puzzle-solving. Master your candy c
+- [Candy Crush Blast](../games/puzzle/candy-crush-blast.md) — Candy Crush Blast is the ultimate candy match-3 adventure! Swap colorful candies to make matches, create powerful specia
+- [Candy Crush Eggs Blast Game: Eggs Link Puzzle](../games/puzzle/candy-crush-eggs-blast-game-eggs-link-puzzle.md) — Play the new version of the candy game with candy egg blast. Candy Eggs Blast Link Puzzle Game & Save The Bird Eggs & Le
+- [Candy Crush Saga King](../games/puzzle/candy-crush-saga-king.md) — Plan your moves by matching 3 or more candies in a row, using boosters wisely in order to overcome those extra sticky pu
+- [Candy Crush Saga - Match 3 Puzzle](../games/puzzle/candy-crush-saga-match-3-puzzle.md) — Switch and match Candies in this tasty puzzle adventure to progress to the next level for that sweet winning feeling! So
+- [Candy Crush Soda](../games/puzzle/candy-crush-soda.md) — Play the sweetest match-3 mini game & enjoy the full-of-fun hours in candies world! Candy Crush Soda is a totally fresh 
+- [Candy Crush Soda King](../games/puzzle/candy-crush-soda-king.md) — Plan your moves by matching 3 or more candies in a row, using boosters wisely in order to overcome those extra sticky pu
+- [Candy Crushing](../games/puzzle/candy-crushing.md) — Plan your moves by matching 3 or more candies in a row, using boosters wisely in order to overcome those extra sticky pu
+- [Candy Cube](../games/puzzle/candy-cube.md) — In the new Candy Cube game, you will have to destroy various candies that threaten to fill a completely defined location
+- [CANDY CUBE MANIA](../games/puzzle/candy-cube-mania.md) — Cube Mania is a challenging matching game. In the game, you need to blow your mind and collect 3 same blocks to eliminat
+- [Candy Cupid](../games/puzzle/candy-cupid.md) — The newest puzzle game from the Candy Crush Franchise! Join this match 3 puzzle game to find them! This friendly bunch h
+- [Candy Cutter Saga Kids](../games/puzzle/candy-cutter-saga-kids.md) — Candy Cutter Saga Kids - is a game made easy for kids from its last version. It has only 10 levels and they are pretty e
+- [Candy Dalgona](../games/puzzle/candy-dalgona.md) — Welcome to Dalgona Candy - Dalgona Game. This is a game about the squid hiding in dalgona sweets honeycomb. Cut the squi
+- [Candy Dash](../games/puzzle/candy-dash.md) — Candy Dash is a very fun matching game. This classic matching game for all of kind age:children, kids and adult is the b
+- [Candy Dash 2](../games/puzzle/candy-dash-2.md) — Dive into Candy Dash 2, a thrilling puzzle game that demands quick reflexes and strategic precision. Match blocks to gai
+- [Candy Diamonds](../games/puzzle/candy-diamonds.md) — Candy Diamond is one of the most using game with all age of peoples.
+- [CANDY DREAM](../games/puzzle/candy-dream.md) — Welcome to Candy Dream, the ultimate candy matching puzzle adventure! Dive into a world filled with delicious candies an
+- [Candy Drop](../games/puzzle/candy-drop.md) — Immerse yourself in Candy Drop's vibrant world, where sweet strategy meets a race against time. Strategically position c
+- [Candy Drops](../games/puzzle/candy-drops.md) — Welcome to Candy Drops, a Fun and amazing Match3 candy Game. Enjoy Tons of amazing and challenging levels. Choose One Ca
+- [Candy Egg Blast](../games/puzzle/candy-egg-blast.md) — Unleash your strategy in Candy Egg Blast! Match colorful eggs to hatch adorable birds and save them from doom. Encounter
+- [Candy Explosion](../games/puzzle/candy-explosion.md) — In this puzzle game you need to connect 3 or more same candy and to destroy them. In that way you earn points and time t
+- [Candy Eyes Match](../games/puzzle/candy-eyes-match.md) — Candy Eyes Match is a match3 Puzzle Game! Swipe to match 3 or more colorful eye candies to clear them from the board and
+- [Candy Fruit Crush](../games/puzzle/candy-fruit-crush.md) — Play Candy Fruit Crush Match3 Puzzle Game and enjoy tons of challenging levels & amazing Gifts. Just Swipe, Match Fruits
+- [Candy Fruits Match](../games/puzzle/candy-fruits-match.md) — Are you Looking for some satisfying fruit match free puzzles
+- [Candy Glass 3D](../games/puzzle/candy-glass-3d.md) — Candy Glass 3d is the most addictive game. The goal of the game is to get the candies through the cup by tapping on the 
+- [Candy Go Round Sweet Puzzle Match 3 Game Crunch](../games/puzzle/candy-go-round-sweet-puzzle-match-3-game-crunch.md) — "Candy Go Round Sweet Puzzle Match 3 Game Fight " is an online game that you can play for free You need to match three o
+- [Candy Grab](../games/puzzle/candy-grab.md) — Candy Grab saga is about to begin. Enjoy this candy collection game in cute candy land. On your journey be sure to check
+- [Candy House Crash](../games/puzzle/candy-house-crash.md) — Candy House Crash - Do you want to play with these awesome candies? This is a game where you have to put the candies of 
+- [Candy Ice Cream Crush](../games/puzzle/candy-ice-cream-crush.md) — Candy Ice Cream Crush: A Vibrant Sweet Journey Embark on an exciting journey with Candy Ice Cream Crush! This is a vibra
+- [Candy Ice Cream Crush](../games/puzzle/candy-ice-cream-crush-2.md) — Immerse yourself in Candy Ice Cream Crush, a delightful puzzle adventure! Swap and match colorful treats to conquer uniq
+- [Candy Jewel Crush](../games/puzzle/candy-jewel-crush.md) — Cake Crunch is an amazing match3 puzzle game where you can swipe, match and crush delicious cakes. -How to Play : Swap a
+- [Candy Jigsaw](../games/puzzle/candy-jigsaw.md) — Candy Jigsaw is a fun puzzle game with amazing graphics.
+- [candy land](../games/puzzle/candy-land.md) — candy land is an easy game but it needs some concentration.All what you have to is to left click and try to throw candy 
+- [Candy Land Puzzle](../games/puzzle/candy-land-puzzle.md) — Blast candies in Candy bomb! Simply match 3 or more candies in the same color to collect them! Start your journey to the
+- [Candy Land Puzzle Game](../games/puzzle/candy-land-puzzle-game.md) — Candy Land Puzzle is a new match-3 puzzle game. Play now & try to beat 99 challenging levels ! Collect fruit baskets or 
+- [candy lands](../games/puzzle/candy-lands.md) — candy lands Same candy land game but with new levels.All what you have to is to left click and try to throw candy on Col
+- [Candy Lines](../games/puzzle/candy-lines.md) — Candy Lines is a game where you have to arrange the candies in a line to make them disappear. This game is played like c
+- [Candy love match](../games/puzzle/candy-love-match.md) — Candy love are greeting you in our new terrific match 3 puzzle. Help the angel complete the level. You can use your free
+- [Candy Love Rush](../games/puzzle/candy-love-rush.md) — Candy Love Rush is a connect match game on html5, connecting the candy to match the same candy color
+- [Candy Lover](../games/puzzle/candy-lover.md) — Swing into action with Candy Lover, where intuitive hooking mechanics let you navigate through vibrant levels. Collect s
+- [Candy Manor - Home Design](../games/puzzle/candy-manor-home-design.md) — Welcome to Candy Manor! Renovate the mansion and solve challenging puzzles with this new relaxing and fun free match-3 g
+- [Candy Match](../games/puzzle/candy-match.md) — Match 3 game.
+- [Candy Match 3](../games/puzzle/candy-match-3.md) — Candy Match 3 is puzzle Match 3 game with colorful and beautiful graphics, collect three or more of the same Jewel.
+- [Candy Match 3.1](../games/puzzle/candy-match-3-1.md) — Candy Match 3 Kit game is a highly addictive puzzle game that offers hours of fun. The objective of the game is to match
+- [Candy Match 3 Deluxe](../games/puzzle/candy-match-3-deluxe.md) — Candy Match 3 Deluxe is a online game that you can play for free. Candy Match 3 Deluxe is a simple match 3 game, tap scr
+- [Candy Match 3 fun](../games/puzzle/candy-match-3-fun.md) — Swap to make matches of 3 or more candies. Collect as many candies as possible and relax in this fascinating Candy Match
+- [Candy Match-3 HD](../games/puzzle/candy-match-3-hd.md) — Candy Match3 – this cool game three in a row, in which you have to put the blocks of the same color in a series of three
+- [Candy Match 3 Jelly](../games/puzzle/candy-match-3-jelly.md) — Move and Match 3 or more of the same colored candies. And Clear all dynamic levels. Try to connect sweet candies to clea
+- [CANDY MATCH 3 KIT 2025](../games/puzzle/candy-match-3-kit-2025.md) — Candy Match 3 is a fun and addictive puzzle game that challenges your mind while satisfying your sweet tooth! Match thre
+- [Candy Match Blitz](../games/puzzle/candy-match-blitz.md) — Immerse yourself in the vibrant world of Candy Match Blitz, where quick thinking meets strategic planning. Race against 
+- [Candy Match Master](../games/puzzle/candy-match-master.md) — The Candy Match Master game is a highly addictive puzzle game that offers hours of fun. The objective of the game is to 
+- [Candy Match Master](../games/puzzle/candy-match-master-2.md) — Indulge in the sugary fun of Candy Match Master, where you align vibrant candies in this enthralling puzzle adventure. P
+- [CANDY MATCH MOVE](../games/puzzle/candy-match-move.md) — Candy Match Move is a colorful tile-pair puzzle game that combines quick matching with smart movement. Tap adjacent iden
+- [Candy Match Pop](../games/puzzle/candy-match-pop.md) — Candy Match Pop is a colorful single-player match-3 puzzle adventure with 80 levels across four chapters. Swap neighbori
+- [Candy Match Puzzle](../games/puzzle/candy-match-puzzle.md) — Dive into a delightful puzzle experience with Candy Puzzle Match, where matching candies is all about tapping! Simply ta
+- [Candy Match Puzzle Challenge](../games/puzzle/candy-match-puzzle-challenge.md) — Candy Match Puzzle is an exciting and free-to-play online match-4 style game designed to bring endless fun and challenge
+- [Candy Match Saga](../games/puzzle/candy-match-saga.md) — Candy Match Saga is a match 3 game like candy crush game
+- [Candy Match Saga 2](../games/puzzle/candy-match-saga-2.md) — Embark on a vibrant candy-filled adventure with Candy Match Saga 2. Swap and match colorful candies to solve captivating
+- [Candy Match Sagas 2](../games/puzzle/candy-match-sagas-2.md) — Enjoy the adventure in the magic world of Candy Match Sagas 2. Immerse yourself in an exciting Match 3 game Secuel with 
+- [Candy Match3](../games/puzzle/candy-match3.md) — Candy Match3 is an online game that you can play for free You need to match three of the same candies to get points Ther
+- [Candy Matching](../games/puzzle/candy-matching.md) — Swap adjacent blocks to line up 3 or more of the same type of candies next to each other horizontally or vertically to m
+- [Candy Merge Sort](../games/puzzle/candy-merge-sort.md) — Candy Merge Sort is a fun and relaxing puzzle game where you sort colorful candies into matching tubes. Move candies car
+- [Candy Monster Box](../games/puzzle/candy-monster-box.md) — Candy Monster Box offers an engaging, captivating gameplay experience that ensures endless entertainment. Slide right or
+- [Candy Monsters Puzzle](../games/puzzle/candy-monsters-puzzle.md) — You have to fill the plate with candies hidden in the candy monster's room by solving puzzles. The candy monster is impa
+- [Candy Plus Candy](../games/puzzle/candy-plus-candy.md) — Candy Plus Candy is a match 3 game where you move candies towards other similar candies to make a line of 3 similar cand
+- [Candy Pop](../games/puzzle/candy-pop.md) — Welcome to the most addictive match three game all you have to do is to match candies with the same color to win the lev
+- [Candy Pop Challenge](../games/puzzle/candy-pop-challenge.md) — Candy Pop Challenge is an exciting and free-to-play online game that brings fun to players of all ages. Whether you are 
+- [Candy Pop Mania](../games/puzzle/candy-pop-mania.md) — Dive into Candy Pop Mania - the colorful match 3 game! Pop, blast, and match colorful candies as you journey through hun
+- [Candy Pop Mania](../games/puzzle/candy-pop-mania-2.md) — Enter the whimsical realm of Candy Pop Mania, where puzzling excitement and sweet surprises collide! Strategically swipe
+- [Candy Pop Match3](../games/puzzle/candy-pop-match3.md) — Welcome to this amazing puzzle match3 candy crush game. the game have tons of stunning and challenging levels and your m
+- [Candy Pop Me](../games/puzzle/candy-pop-me.md) — Candy Pop is a matching game where you get to match delicious candies! Candies cannot be matched diagonally. New candies
+- [Candy Rush](../games/puzzle/candy-rush.md) — Candy Rush is a puzzle match 3 game with colorful and beautiful graphics, collect three or more of the same candy. The a
+- [Candy Saga 2](../games/puzzle/candy-saga-2.md) — Download Candy Crush Soda Saga now! From the makers of the legendary Candy Crush Saga comes Candy Crush Soda Saga! Uniqu
+- [Candy Shake Shake Gravity Puzzle](../games/puzzle/candy-shake-shake-gravity-puzzle.md) — Immerse yourself in a world of swirling sweets where gravity is your ally. Tilt and swipe to rotate a candy jar, creatin
+- [Candy Shop](../games/puzzle/candy-shop.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Candy Shop: 3D Match Puzzle](../games/puzzle/candy-shop-3d-match-puzzle.md) — Welcome to Candy Shop! This is a creative 3D candy puzzle game, different from classic match-3 games. Tap three identica
+- [Candy Shuffle](../games/puzzle/candy-shuffle.md) — Welcome to Candy Shuffle Match3 Puzzle Game! Candy Shuffle is a delightful match-3 puzzle game that will satisfy your sw
+- [Candy Shuffle Match-3](../games/puzzle/candy-shuffle-match-3.md) — Welcome to Candy Shuffle March3 Puzzle Game. Challenge yourself to Tons of DELICIOUS PUZZLES in a spellbinding magical M
+- [Candy Sling Shot](../games/puzzle/candy-sling-shot.md) — Step into a vibrant candy realm in Candy Sling Shot, where precise aiming and strategic shooting lead to sugary triumphs
+- [Candy Smash](../games/puzzle/candy-smash.md) — Your candy buddies are here and do not expect from them anything less than long hours of fun and entertainment.Candy Sma
+- [Candy Smash](../games/puzzle/candy-smash-2.md) — Get ready for a sugary adventure in Candy Smash! Strategically swap colorful candies to trigger explosive matches and sc
+- [Candy Smash Deluxe](../games/puzzle/candy-smash-deluxe.md) — Slide the blocks towards another identical block to eliminate both. Use as least moves as possible to do this. Eliminati
+- [candy smasher](../games/puzzle/candy-smasher.md) — Fruit Monster Match is a crazy fruit matching game made by kizgame.com All you have to do is to tap or click or 2 or mor
+- [Candy Smush](../games/puzzle/candy-smush.md) — Candy Smush - Sweet, Addictive, and Full of Fun! Welcome to Candy Smush , the sugary-sweet puzzle adventure that will ha
+- [Candy Smush](../games/puzzle/candy-smush-2.md) — Dive into a whimsical kingdom of puzzles with Candy Smush, where vibrant visuals and strategic candy matches create an i
+- [Candy Sort](../games/puzzle/candy-sort.md) — Candy Sort is a colorful sorting puzzle where you move candies between tubes and group them by color. Place candies only
+- [Candy Super Line](../games/puzzle/candy-super-line.md) — If you can stay ahead of the game and keep those matches coming, your board will be nice and clean. Make sure you don’t 
+- [Candy Super Lines](../games/puzzle/candy-super-lines.md) — Candy Super Lines Match3 is a simple match 3 game, tap screen drag and drop the jelly get high score. Enjoy the game!
+- [Candy Super Match](../games/puzzle/candy-super-match.md) — Candy Match 3 features: - 50 levels - Four power-ups - Good graphics with amazing effects - Candy combos
+- [Candy Super Match](../games/puzzle/candy-super-match-2.md) — Indulge in a vibrant, candy-filled adventure with Candy Super Match. Engage in fast-paced match-3 gameplay as you swap s
+- [Candy Super Pop](../games/puzzle/candy-super-pop.md) — The Best Match 3 Puzzle Game Prepare yourself for a delightful journey with Super Candy Pop, an entertaining and captiva
+- [Candy Super Sugar](../games/puzzle/candy-super-sugar.md) — Have fun popping candy in this innovative game that mixes bubble shoot and Ping-Pong. There are 85 challenging levels.
+- [Candy Swap](../games/puzzle/candy-swap.md) — Here is the new innovative candy match-3 game! Swap candies to make sweet lines of 3 or more to create candy blasts! Mat
+- [Candy Sweet](../games/puzzle/candy-sweet.md) — candy sweet is a connect match game on html5, connecting the candy to match the same candy color
+- [Candy Sweet](../games/puzzle/candy-sweet-2.md) — Dive into the delectable world of Candy Sweet, where matching delightful treats unleashes captivating effects. Strategiz
+- [Candy Sweet Boom](../games/puzzle/candy-sweet-boom.md) — Welcome to Candy Sweet Boom. In this simple candy matching game, you can swipe and match three candies with the same sha
+- [Candy Sweet Garden](../games/puzzle/candy-sweet-garden.md) — Hello all fan of sweet candy puzzle type game. Start exploring your sweet candy adventure today, swipe and match yummy c
+- [Candy Sweet Mania - Match 3](../games/puzzle/candy-sweet-mania-match-3.md) — Switch and match Candies in this tasty puzzle adventure to progress to the next level for that sweet winning feeling! So
+- [Candy Sweet Sugar - Match 3](../games/puzzle/candy-sweet-sugar-match-3.md) — Candy Sweet Sugar, the brand new connect 3 puzzle game, will bring you to the colorful and tasty candy kingdom for adven
+- [Candy The Rope](../games/puzzle/candy-the-rope.md) — Candy The Rope is a wonderful puzzle game in which the goal is very simple, to get the little candy in the monster mouth
+- [Candy Time](../games/puzzle/candy-time.md) — Immerse yourself in Candy Time's vibrant world of colorful confections! This match-3 puzzle adventure captivates players
+- [Candy Unblock](../games/puzzle/candy-unblock.md) — Slide and strategize your way through a delightful candy adventure in Candy Unblock. Challenge your logic as you navigat
+- [Candy World](../games/puzzle/candy-world.md) — Candy Woeld - The Candy strikes back with gorgeous sweet graphics and several hundreds of brand new challenging levels a
+- [Candy World bomb](../games/puzzle/candy-world-bomb.md) — Candy World bomb - The Candy strikes back with gorgeous sweet graphics and several hundreds of brand new challenging lev
+- [Candy World Saga](../games/puzzle/candy-world-saga.md) — Explore the candy world with a candy matching challenge. Game story begins with Mark and Julie. Once their grandfather c
+- [Candy7x7Block](../games/puzzle/candy7x7block.md) — In Candy7x7Block, venture into a whimsical realm where alchemy reigns supreme. Strategically gather coins and brew magic
+- [CandyCurrent](../games/puzzle/candycurrent.md) — CandyCurrent is a candy-based match-3 game under sea water. You have cakes and candies to match, 3 in same line. Sweet d
+- [CandyMatch.io](../games/puzzle/candymatch-io.md) — CandyMatch.io features: - addictive match 3 gameplay - very good candy graphics - multiple levels - multiple game modes
+- [Cannon Balls 3D](../games/puzzle/cannon-balls-3d.md) — Play Cannon Balls 3D game in your web browser for free on Superkidgames.com. Try to be the master of destruction, heat u
+- [Cannon Candy: Shooter Bubble Candy Blast](../games/puzzle/cannon-candy-shooter-bubble-candy-blast.md) — Cannon Candy: Shooter Bubble Candy Blast Game. The game is a bubble shooter that has you shoot candy at the bubbles to p
+- [Cannon Candy - Shooter Bubble Candy Blast](../games/puzzle/cannon-candy-shooter-bubble-candy-blast-2.md) — Dive into Cannon Candy's vibrant world where popping candy clusters replaces bubbly bursts. Aim and shoot to unravel del
+- [Cannon Merge](../games/puzzle/cannon-merge.md) — Defend your base against relentless snow monsters by merging and upgrading your artillery in Cannon Merge. Strategize to
+- [Cannon Numbers](../games/puzzle/cannon-numbers.md) — In this ballz shooter you need to swipe the cannon to avoid a jump ball bounce to becoming a new bonus master. Blast gam
+- [Cannon Shot buckets](../games/puzzle/cannon-shot-buckets.md) — Fill all the buckets with balls to complete a level. Use your finger to move various objects to change the direction of 
+- [Cannons](../games/puzzle/cannons.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Canon Bubble](../games/puzzle/canon-bubble.md) — Aim, shoot, and pop in Canon Bubble! Strategically match colors to clear the board and rack up points. With its quick-pa
+- [Canon Shooter Challenge](../games/puzzle/canon-shooter-challenge.md) — Immerse yourself in Canon Shooter Challenge, where precision and strategy are key. Conquer dynamic levels with intuitive
+- [Capsicum Match 3](../games/puzzle/capsicum-match-3.md) — This is classic match 3 game with many new features. Keep matching until all the blocks turn to golden. Use different po
+- [Captain American Jigsaw Puzzle](../games/puzzle/captain-american-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the Captain America. The game 
+- [Captain Gold](../games/puzzle/captain-gold.md) — Captain Gold is a hyper-casual game that comes with an adventure theme. In this game, the player needs to help Captain, 
+- [Captain Of The Sea Difference](../games/puzzle/captain-of-the-sea-difference.md) — Captain of the Sea Difference is interesting kids game and it's time for you to have fun!In this game you need to find t
+- [Capybara-HexaSort](../games/puzzle/capybara-hexasort.md) — Capybara Hexa Sort is a relaxing color-sorting puzzle game with a cheerful capybara theme. Place stacks of colorful hexa
+- [Capybara Screw Jam](../games/puzzle/capybara-screw-jam-2.md) — Join a lovable capybara on a whimsical puzzle journey. Strategically place colorful dots to solve vibrant puzzles and un
+- [Capybas](../games/puzzle/capybas.md) — Capybas is a cozy logic puzzle game that blends the deduction of Minesweeper with the rule-based thinking of Sudoku. Fin
+- [Car Charging Station](../games/puzzle/car-charging-station.md) — Car Charging Station is puzzle jigsaw game with images of charging cars. choose image and start to play this game. Click
+- [Car Escape Parking](../games/puzzle/car-escape-parking.md) — 🚗🅿️ Car Escape Parking is a mind-twisting puzzle adventure where every move counts! The parking lot is packed, cars ar
+- [Car Games - Epic Car Parking](../games/puzzle/car-games-epic-car-parking.md) — o you love car games? Have any experience before in driving games? No, let's drive and learn parking in this crazy drivi
+- [Car Parking 3d: Driving Games](../games/puzzle/car-parking-3d-driving-games.md) — Are you annoyed by all the similar parking games, and lack of high quality graphics and uniqueness? Are you looking forw
+- [Car parking 3D: Merge Puzzle](../games/puzzle/car-parking-3d-merge-puzzle.md) — Рarking lot is packed with cars, will you be able to combine all the cars and leave? Marge puzzle for those who know how
+- [Car Parking 3D Merge Puzzle](../games/puzzle/car-parking-3d-merge-puzzle-2.md) — Strategize and solve intricate puzzles as you merge and navigate through a congested parking lot. Each move in Car Parki
+- [Car Parking Order](../games/puzzle/car-parking-order.md) — Car parking order game to test your brainpower and skills in this remarkable puzzle game. Unlock new levels of traffic j
+- [Car Parking Pro-SBH](../games/puzzle/car-parking-pro-sbh.md) — From the creators of the legendary driving and drifting game Drift Max Pro comes a brand new 3D parking and driving game
+- [Car Parts](../games/puzzle/car-parts.md) — Are you looking for adventurous and adrenaline rush game? You have come to the right place! Car parts is the ultimate ch
+- [Car Puzzles](../games/puzzle/car-puzzles-2.md) — Car Puzzles offers a delightful challenge as you arrange scattered tiles to reveal vibrant car images. Engage your mind 
+- [Car Racing Competition](../games/puzzle/car-racing-competition.md) — Italian Fastest Cars game is a free online game and you have 6 images in three modes to play easy medium, and hard. Choo
+- [Car Stunt Pakring-SBH](../games/puzzle/car-stunt-pakring-sbh.md) — Car Parking 3D: Online Drift is completely renewed. New car tuning options, new city and multiplayer game modes are adde
+- [Car Transform Mania Merger Tycoon](../games/puzzle/car-transform-mania-merger-tycoon.md) — Merge cars and watch your automotive empire grow in Car Transform Mania Merger Tycoon! Strategically combine cars to unl
+- [Car Wash Jigsaw](../games/puzzle/car-wash-jigsaw.md) — Car Wash Jigsaw is jigsaw game with cute washing cars. You can play with twelve images. Start with first one, choose you
+- [Card Match](../games/puzzle/card-match.md) — Try this nice game of cards, you must find all pairs equally among all the cards using your memory, this game is designe
+- [Cargo Captain](../games/puzzle/cargo-captain.md) — Cargo Captain is a physics-based puzzle adventure where you help the captain stack crates and clear rows to earn points.
+- [Cargo Path Puzzle](../games/puzzle/cargo-path-puzzle.md) — Cargo Path Puzzle is a free puzzle-platformer that puts your logic and movement skills to the test. Navigate tricky leve
+- [Cargo Ships Jigsaw](../games/puzzle/cargo-ships-jigsaw.md) — Cargo Ships Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and 
+- [CargoMatchMaster](../games/puzzle/cargomatchmaster.md) — Cargo Match Master is a casual organizing game where the main objective is to assist players in organizing cargo contain
+- [Carnival Jigsaw Picture Puzzle](../games/puzzle/carnival-jigsaw-picture-puzzle.md) — Immerse yourself in the colorful world of Carnival Jigsaw Picture Puzzle, where each completed vibrant carnival scene un
+- [Cars and Road](../games/puzzle/cars-and-road.md) — Connect similar Cars using touch input or mouse. Make a group of 3 or more, horizontally, vertically or diagonally adjac
+- [Cars Drifting Jigsaw](../games/puzzle/cars-drifting-jigsaw.md) — Cars Drifting Jigsaw game is free online game and you have 6 images in three modes to play. Choose one of the mode for t
+- [Cars In The Future Hidden](../games/puzzle/cars-in-the-future-hidden.md) — Cars In The Future Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and try to
+- [Cars Traffic King-2](../games/puzzle/cars-traffic-king-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Cars Vs Blocks](../games/puzzle/cars-vs-blocks.md) — Welcome to Cars & Blocks — a fun and satisfying color-match puzzle game where strategy meets smooth driving!
+- [Cartoon Airplanes: Jigsaw Puzzles](../games/puzzle/cartoon-airplanes-jigsaw-puzzles.md) — Cartoon Airplanes: Jigsaw Puzzles is a colorful and relaxing puzzle game for kids and adults. Choose from different cart
+- [Cartoon Ambulance Slide](../games/puzzle/cartoon-ambulance-slide.md) — Play this slide puzzle games of the cartoon ambulance. It's include 3 images and 3 modes to play.
+- [Cartoon Animal Puzzle](../games/puzzle/cartoon-animal-puzzle.md) — Combine the pieces of 6 different puzzles with fun animal pictures and meet the animals.
+- [Cartoon Animals In Cars Match 3](../games/puzzle/cartoon-animals-in-cars-match-3.md) — Cartoon Animals In Cars Match 3 – this cool game three in a row, in which you have to put the blocks of the same color i
+- [Cartoon Autumn Puzzle](../games/puzzle/cartoon-autumn-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cartoon Autumn Puzzle. All images is with the cartoon autumn. Sol
+- [Cartoon Bus Slide](../games/puzzle/cartoon-bus-slide.md) — Play this slide puzzle games of the cartoon bus. It's include 3 images and 3 modes to play.
+- [Cartoon Candy](../games/puzzle/cartoon-candy.md) — Your goal is to link as many matching candies as you can. Tap and hold on a candy and drag to a matching candy and so on
+- [Cartoon Candy Deluxe](../games/puzzle/cartoon-candy-deluxe.md) — Cartoon Candy Deluxe is a cute matching game where you connect 3 or more cute candies according to their shape and color
+- [Cartoon Candy : Match3 Puzzle](../games/puzzle/cartoon-candy-match3-puzzle.md) — witch skull candy is one of the best match-3 games! The classic elimination game, the new play new game props! Start you
+- [Cartoon Car Jigsaw](../games/puzzle/cartoon-car-jigsaw.md) — Cartoon Car Jigsaw is a free online jigsaw puzzle game. You can select one of the three images and then select one of th
+- [Cartoon Crush Candy Sweet Legend Match 3 Puzzle](../games/puzzle/cartoon-crush-candy-sweet-legend-match-3-puzzle.md) — witch skull candy is one of the best match-3 games! The classic elimination game, the new play new game props! Start you
+- [Cartoon Dinosaur Memory Challenge](../games/puzzle/cartoon-dinosaur-memory-challenge.md) — Play Cartoon Dinosaur Memory Challenge for free online! Turn over two cards and try to find the matching pairs of cards.
+- [Cartoon Farm Differences](../games/puzzle/cartoon-farm-differences.md) — This is a type of casual game where two versions of the same picture are shown side by side and you must find the differ
+- [Cartoon Giraffe Puzzle](../games/puzzle/cartoon-giraffe-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cartoon Giraffe Puzzle. All images is with the cartoon giraffe. S
+- [Cartoon Kart Puzzle](../games/puzzle/cartoon-kart-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cartoon Kart Puzzle. All images is with the cartoon kart. Solve a
+- [Cartoon Motorbike Jigsaw](../games/puzzle/cartoon-motorbike-jigsaw.md) — Cartoon Motorbike Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the twelve i
+- [Cartoon Motorcycles Puzzle](../games/puzzle/cartoon-motorcycles-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cartoon Motorcycles Puzzle. All images is with the cartoon motorc
+- [Cartoon Pigeon Jigsaw](../games/puzzle/cartoon-pigeon-jigsaw.md) — Cartoon Pigeon Jigsaw if fun puzzle game suitable for all ages. Piece together sweet pigeons to get a whole image. Choos
+- [Cartoon Pimple Pop](../games/puzzle/cartoon-pimple-pop.md) — Cartoon Pimple Pop is a quirky and amusing online game that offers a fun and satisfying experience for players of all ag
+- [Cartoon Police Cars Puzzle](../games/puzzle/cartoon-police-cars-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cartoon Police Cars Puzzle. All images is with the cartoon police
+- [Cartoon Puzzle](../games/puzzle/cartoon-puzzle.md) — Cartoon Puzzle game consisting of 12 different fun photos is waiting for you to join the pieces! Have fun!
+- [Cartoon Puzzle HD](../games/puzzle/cartoon-puzzle-hd.md) — This premium quality app is the perfect choice for lovers of jig saw puzzles. Cartoon Puzzle that gives you the perfect 
+- [Cartoon Rotate](../games/puzzle/cartoon-rotate.md) — Complete the puzzle by turning the pieces of 6 different cheerful puzzles.
+- [Cartoon Sea Fish Memory](../games/puzzle/cartoon-sea-fish-memory.md) — Cartoon Sea Fish Memory is a free online game from genre of memory. Flip the tiles and try to match them up in pairs. Pa
+- [Cartoon Talking Tom Jigsaw Puzzle](../games/puzzle/cartoon-talking-tom-jigsaw-puzzle.md) — Play the mobile game Cartoon Talking Tom Jigsaw Puzzle on your smartphone, pad or tablet directly without installation. 
+- [Cartoon Truck Jigsaw](../games/puzzle/cartoon-truck-jigsaw.md) — Let's play our new jigsaw puzzle game called Cartoon Truck Jigsaw. You can select one of the twelve images and then sele
+- [Cartoon Trucks Jigsaw](../games/puzzle/cartoon-trucks-jigsaw.md) — Cartoon Trucks Jigsaw is jigsaw game with trucks. There is 12 levels in this game and you can play in easy, normal or ha
+- [Cartoon Trucks Match 3](../games/puzzle/cartoon-trucks-match-3.md) — Change the place of two Cartoon Trucks to match 3 or more in a row, in which you have to put the balls of the same color
+- [Cartoons Five Diffs](../games/puzzle/cartoons-five-diffs.md) — Spot 5 differences between 2 cartoon portraits
+- [Cashier Point](../games/puzzle/cashier-point.md) — In this game, you take on the role of a cashier at a store, where the main task is to calculate and return the correct c
+- [Casino Jigsaw](../games/puzzle/casino-jigsaw.md) — Casino jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsaw or
+- [Castle Puzzle 3D](../games/puzzle/castle-puzzle-3d.md) — Castle Puzzle is a very new casual puzzle game and very attractive game too.Click on the tetris to destroy them and land
+- [Castle Slot 2020](../games/puzzle/castle-slot-2020.md) — In the Castle Slot 2020 game, you can experience the experience of a player without having to pay in real money! And if 
+- [Castle Slot Machine](../games/puzzle/castle-slot-machine.md) — On start of the game, you will need to configure the settings of the gaming machine, by putting the number of lines whic
+- [Castle Slot Machines](../games/puzzle/castle-slot-machines.md) — Before the game, you will need to configure the settings of the gaming machine, putting the number of lines which will b
+- [Castle Story](../games/puzzle/castle-story.md) — Romantic story, Castle, Puzzles! Help Alice the young lady renovate the castle and solve challenging puzzles with magic.
+- [CasualCheckers](../games/puzzle/casualcheckers.md) — In the casual version of international checkers, the player\\s goal is to eat all the pieces of the other party. At the 
+- [Cat-A-Gory](../games/puzzle/cat-a-gory.md) — Cat A Gory is an off-the-wall word puzzler that will keep you coming back for more. You start the game with 8 lovable Ca
+- [Cat And Kids Differences](../games/puzzle/cat-and-kids-differences.md) — Now it's time for wonderful game that's called Kids And Cat Differences, let's have fun! Behind these pictures are small
+- [Cat Block Puzzle](../games/puzzle/cat-block-puzzle.md) — Cat Block Puzzle is a fun and relaxing block slide puzzle game with a cute cat theme. In this game, you slide blocks acr
+- [Cat Block Puzzle](../games/puzzle/cat-block-puzzle-2.md) — Welcome to Cozy Cat &ndash; the ultimate cozy block puzzle experience! Get ready to stretch your brain and warm your hea
+- [Cat Box Merge](../games/puzzle/cat-box-merge.md) — Cat Box Merge is a cozy casual game about cats, boxes, and merging. Open boxes, discover adorable cats, and combine iden
+- [Cat Condo](../games/puzzle/cat-condo.md) — Cat Condo is a free online puzzle and merging game for boys played on Puzzlegame. This game uses the cartoon cat and tak
+- [Cat Dekor](../games/puzzle/cat-dekor.md) — Desc: HTML5 Puzzle game on HTML5 gaming portal for Indonesian market
+- [Cat Eye's Jigsaw](../games/puzzle/cat-eye-s-jigsaw.md) — Cat eye's jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsaw
+- [Cat Face](../games/puzzle/cat-face.md) — Match the cat face, brain game with funny cat faces Game starts with a story of a game event named &ldquo;Cat Face&rdquo
+- [Cat Freeway](../games/puzzle/cat-freeway.md) — Cute Overload game challenges your reaction skills. The main road is filled with adorable cats moving back and forth, wh
+- [Cat Game - How to loot](../games/puzzle/cat-game-how-to-loot.md) — This is a very fun puzzle game. The kitten knight follows the will of the old cat king to find the missing princess Kate
+- [Cat Jigsaw Puzzle Frenzy](../games/puzzle/cat-jigsaw-puzzle-frenzy.md) — Immerse yourself in feline fun with Cat Jigsaw Puzzle Frenzy. Manipulate sliding tiles to uncover adorable cat images. T
+- [Cat Life Merge Money](../games/puzzle/cat-life-merge-money.md) — Experience the life of a stray cat, beg from humans, earn money to buy food, and merge the money you beg to get more mon
+- [Cat Life Merge Money](../games/puzzle/cat-life-merge-money-2.md) — Help a determined stray cat rise to affluence by merging money and upgrading its skills. Engage in fast-paced, strategic
+- [Cat Puzzle](../games/puzzle/cat-puzzle.md) — Dive into Cat Puzzle, where assembling adorable feline images pushes your cognitive and observational skills. Strategica
+- [Cat Puzzle Memory Match](../games/puzzle/cat-puzzle-memory-match.md) — Immerse yourself in Cat Puzzle Memory Match, where charming cat cards await your keen memory. Flip and match to hone you
+- [Cat Puzzle Slider](../games/puzzle/cat-puzzle-slider.md) — Cat Puzzle Slider is a delightful 4x4 picture slider game where players rearrange scrambled images of adorable cats to c
+- [Cat Room Blast](../games/puzzle/cat-room-blast.md) — The cute kitty has long dreamed of her own home, and finally her dream has come true. However, the house that the cat go
+- [Cat RoomBlast](../games/puzzle/cat-roomblast.md) — Help our adorable cat fix its apartment up by solving various puzzles with satisfying animations. You can start by apply
+- [Cat Safari 2](../games/puzzle/cat-safari-2.md) — Create cute cats in the colorful animal app Cat Safari. Mysterious crates seem to appear regularly on a large abandoned 
+- [Cat Sorter Puzzle](../games/puzzle/cat-sorter-puzzle.md) — Unleash your logic in Cat Sorter Puzzle, where organizing colorful cats amidst chaos becomes a delightful challenge. Str
+- [Cat Strapped](../games/puzzle/cat-strapped.md) — Cat Strapped is an off-the-wall word puzzler that will keep you coming back for more. You start the game with 8 lovable 
+- [Cat Stretch](../games/puzzle/cat-stretch.md) — Slide the screen and let the cat enter the hole at the specified number of steps.
+- [Cat Stretch Game](../games/puzzle/cat-stretch-game.md) — Stretch your cat from starting point to finish in a certain number of moves.
+- [Cat Suika](../games/puzzle/cat-suika.md) — Cat Suika is a relaxing and adorable merge puzzle game with a feline twist! Drop fluffy cats from the top and try to mat
+- [Cat-tastic Puzzle Challenge](../games/puzzle/cat-tastic-puzzle-challenge.md) — Embark on a feline adventure with Cat-tastic Puzzle Challenge. Piece together delightful cat scenes using easy drag-and-
+- [Cat Town - Tile Match Puzzle](../games/puzzle/cat-town-tile-match-puzzle.md) — Dive into Cat Town, where saving adorable cats hinges on your puzzle prowess. Navigate through vibrant landscapes filled
+- [Cat Walk - Girls Walking](../games/puzzle/cat-walk-girls-walking.md) — Do you want that dress? All you have to do is say yes! Customers are lining up at your store looking for help. They are 
+- [Catch an Ant](../games/puzzle/catch-an-ant.md) — Catch an Ant is a high-speed test of strategy and reflexes. Capture the swift-moving ants by clicking or tapping as they
+- [Catch Capybara](../games/puzzle/catch-capybara.md) — Dive into vibrant 3D puzzles in Catch Capybara, where strategic tile matching sharpens your mind. Navigate through exhil
+- [Catch Insect](../games/puzzle/catch-insect.md) — Catch Insect is a fun skill-based puzzle game where you must use your thinking and reflexes to catch cunning insects. Ea
+- [Catch it](../games/puzzle/catch-it.md) — The ball is rolling on the blackboard. The player's goal is to roll the ball to the specified position and obtain the re
+- [Catch N Create](../games/puzzle/catch-n-create.md) — A level based simple letter games for kids
+- [catch penguins](../games/puzzle/catch-penguins.md) — &ldquo;Request activation&rdquo; Description (Copy and Paste this): Cache Penguins: The Ultimate Arctic Match-3 Adventur
+- [Catch The Apple 2](../games/puzzle/catch-the-apple-2.md) — Many of the hedgehog’s buddies are ready to help him collect the apples and the stars that come on his way. Snakes, owls
+- [Catch the Bear](../games/puzzle/catch-the-bear.md) — Catch the Bear: A Cozy Puzzle Adventure 🐻🧩
+- [Catch The Candy](../games/puzzle/catch-the-candy.md) — Welcome to the Catch The Candy. Enjoy playing the cute puzzle games for kids. Just point and click the mouse to catch th
+- [Catch The Hen: Lines and Dots](../games/puzzle/catch-the-hen-lines-and-dots.md) — Welcome to Hen Catch: Lines and Dots. Our game presents a fresh approach to the classic line and dots concept, featuring
+- [Catch the Pika](../games/puzzle/catch-the-pika.md) — Are you ready to catch the pika? Tap on boxes to release the poke ball and make it rotate to touch the pika. Explore som
+- [Catch The Thief](../games/puzzle/catch-the-thief.md) — Catch The Thief is a very addictive game. The task is very simple need to collide the police and the thief. But is not e
+- [CatDoku](../games/puzzle/catdoku.md) — CatDoku is a cozy logic puzzle with cute cats! Place the fluffy heroes on the board following three simple rules: one ca
+- [Catdoku Sudoku Puzzle](../games/puzzle/catdoku-sudoku-puzzle.md) — Catdoku Sudoku Puzzle combines colorful region puzzles with simple but challenging placement rules. Your goal is to plac
+- [Category Match](../games/puzzle/category-match.md) — Category Match is a fun, relaxing, and brain-teasing puzzle game where you match cute memoji cards by their correct cate
+- [Catiator Wars](../games/puzzle/catiator-wars.md) — Enjoy the game with tanks and different types of rockets. Start with tank, defeat your enemy and gain coins. Then using 
+- [CatLines](../games/puzzle/catlines.md) — Simple match 5 game for kids designed to enhance logical thinking skills. Match 5 or more same colored cats in a straigh
+- [Cats and Candies](../games/puzzle/cats-and-candies.md) — Cats And Candies is a bright and exciting match-3 puzzle game. Match three or more candies in a row, create powerful com
+- [Cats and Dogs Puzzle](../games/puzzle/cats-and-dogs-puzzle.md) — We can say that cats and dogs are the most adorable animals. Combine the pieces and complete the puzzles in this game co
+- [Cats and Dogs Slide Puzzle](../games/puzzle/cats-and-dogs-slide-puzzle.md) — Engage your brain with Cats and Dogs Slide Puzzle, a delightful blend of challenge and charm. Slide tiles to form adorab
+- [Cats and gold coins](../games/puzzle/cats-and-gold-coins.md) — This is a very fun puzzle game, kitten Knight by the old cat king's will, to find the missing Princess Kate, follow the 
+- [Cats Block Puzzle](../games/puzzle/cats-block-puzzle.md) — Just drag and drop cats onto the puzzle board and see if you can make them all fit perfectly! 🧩 Each puzzle has its own
+- [Cats Picnic](../games/puzzle/cats-picnic.md) — Cats Picnic Link is a Match 3 Puzzle Game. it is an exciting challenging game for gamers of all age. It is cheerful fun 
+- [CatSorter Puzzle](../games/puzzle/catsorter-puzzle.md) — A total cat chaos! These fluffy troublemakers have spread over different seats and are waiting for someone clever enough
+- [Cava Prehistoric Defense](../games/puzzle/cava-prehistoric-defense.md) — The village is being invaded by dinosaurs, protect the village and kill all dinosaurs. Embark on this adventure.
+- [Cave](../games/puzzle/cave.md) — Cave is puzzle game where you need to navigate cave man to collect flying ghosts. Controlling the player is difficult, a
+- [Cave Club Dolls Jigsaw Puzzle Collection](../games/puzzle/cave-club-dolls-jigsaw-puzzle-collection.md) — Cool girls from the Cave Club doll series invite you to play with them. Collect all 12 puzzles with your favorite charac
+- [Cave Club Dolls Match 3 Puzzle Game](../games/puzzle/cave-club-dolls-match-3-puzzle-game.md) — Cool girls from the Cave Club doll series invite you to play with them. Collect all 12 puzzles with your favorite charac
+- [Caveman Jigsaw](../games/puzzle/caveman-jigsaw.md) — Fantastic Jigsaw game with a theme of ancient time. Drag and drop the picture pieces to their exact locations.
+- [Cavern Monsters](../games/puzzle/cavern-monsters.md) — This is cavern Monsters, an amazing Match3 game. Swipe to connect monsters of the same shape and unlock the next level. 
+- [Celebrities](../games/puzzle/celebrities.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Cement Trucks Hidden Objects](../games/puzzle/cement-trucks-hidden-objects.md) — Cement Trucks Hidden Objects is puzzle hidden game where you need to find ten hidden objects in image with Cement Trucks
+- [Cemeteries Slide Puzzle](../games/puzzle/cemeteries-slide-puzzle.md) — Enter a haunting world of strategic puzzle-solving with Cemeteries Slide Puzzle. Engage your mind as you slide and conne
+- [CG Girls Jigsaw Puzzle](../games/puzzle/cg-girls-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the CG girls. The game comes w
+- [chain color sort](../games/puzzle/chain-color-sort.md) — Its time to put your sorting and coordination skills to the test! In this game, youll be faced with a series of color ch
+- [Chain Cube: 2048](../games/puzzle/chain-cube-2048.md) — So don't be shy, do yourself a favor and download Chain Cube! A whole new take on the famous brainteaser game! Now in 3D
+- [Chain Cube 2048 3D](../games/puzzle/chain-cube-2048-3d-2.md) — Dive into a three-dimensional puzzle adventure with Chain Cube 2048 3D. Combine like-numbered blocks inside a dynamic cu
+- [Chain Cube 2048 3D Merge Game](../games/puzzle/chain-cube-2048-3d-merge-game.md) — Ready to challenge yourself? Chain Cubes 2048 is an addictive merging puzzle online game for those who like challenging 
+- [Chain Cube 2048 3D Merge Game](../games/puzzle/chain-cube-2048-3d-merge-game-2.md) — Strategically merge bouncing 3D cubes to hit 2048 in Chain Cube 2048. This engaging puzzle challenges your logic and pro
+- [Chain Disk 2048](../games/puzzle/chain-disk-2048.md) — Chain Disk 2048 is a refreshing 2048 game. Each disk has numbers on it, and you need to control the disks with the same 
+- [Chain n Gain](../games/puzzle/chain-n-gain.md) — Try this cute casual puzzle game. Connect matching items in chains for explosive combos! Every move shifts the board: cl
+- [Chain Reaction](../games/puzzle/chain-reaction-2.md) — Chain Reaction challenges your mind with every strategic move, igniting an exciting cascade of number mergers. Dive into
+- [Chain the Color Block](../games/puzzle/chain-the-color-block.md) — "Chain the Color Block" is an addictive puzzle game. It is no time limit, think clearly and place the block on right pos
+- [Chaki Food Drop](../games/puzzle/chaki-food-drop.md) — Chaki Food Drop is controlled puzzle game where you need to catch all fruits and foods, and to eat them. Avoid knifes, b
+- [Chaki Jet](../games/puzzle/chaki-jet.md) — This time Chaki want to try to fly. So he put jet on his back and start the adventure. You need to help him to fly more 
+- [Chaki Memory Game](../games/puzzle/chaki-memory-game.md) — In Chaki Memory Game you need to memorize the images and to click on it to guest all. Pass all levels and enjoy.
+- [Chameleon Jigsaw](../games/puzzle/chameleon-jigsaw.md) — Chameleon jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsaw
+- [Chameleon Want Eat](../games/puzzle/chameleon-want-eat.md) — Feed the Chameleon with different insects. The Chameleon will change the color and that is the easiest way to eat insect
+- [Change Brick](../games/puzzle/change-brick.md) — Change Brick is an engaging puzzle game where you need to move and arrange colorful blocks to their designated positions
+- [Change Square Game](../games/puzzle/change-square-game.md) — Change the color of the square to the color of the approaching ball. The game is difficult. Simple and addictive gamepla
+- [Chaotic Ball](../games/puzzle/chaotic-ball.md) — Chaotic Ball is a game where you need to collect the stars with small orange ball. But the ball is all chaotic. She make
+- [Chaotic Ball Game](../games/puzzle/chaotic-ball-game.md) — Control the direction of rotation of the ball to bypass the blue circles and collect stars. The game is difficult. Simpl
+- [Chaotic Spin Game](../games/puzzle/chaotic-spin-game.md) — Change the trajectory of the ball to avoid obstacles, and collect small flying squares. The game is difficult. Simple an
+- [Charge Everything Game](../games/puzzle/charge-everything-game.md) — Charge Everything is a free puzzle online game for boys played on PuzzleGame. You should allocate the sockets reasonably
+- [Charge It Now](../games/puzzle/charge-it-now.md) — Connect all the plugs to a matching socket. Hypercasual game with one finger control. Easy to play, hard to master. Do y
+- [Charge Me](../games/puzzle/charge-me.md) — Navigate intricate puzzles in Charge Me, where strategic connections of devices to their chargers are your key to victor
+- [Charlotte Valley](../games/puzzle/charlotte-valley-2.md) — Navigate the enchanting fields of Charlotte Valley, gathering colorful flowers as you strategically maneuver through 20 
+- [Chasing Tom](../games/puzzle/chasing-tom.md) — Chasing Tom invites you into a whimsical world of match-3 fun, where each combo brings you closer to catching the elusiv
+- [Chat Master](../games/puzzle/chat-master.md) — Chat to different people according to the scene. Like the President of the outside cold inside hot, strict father, imp G
+- [CheckersHD](../games/puzzle/checkershd.md) — Checkers is a fun puzzle game. It supports two players. Let's play with your friends.
+- [Cheerful Challenge](../games/puzzle/cheerful-challenge.md) — Match the animal blocks with Sarah, a girl who would like to match tile blocks There were many animal blocks available, 
+- [Cheese Tower](../games/puzzle/cheese-tower.md) — This is a cheese tower building game where colored cheese blocks rack up on each other limited the set base. The more bl
+- [Chess Game Jigsaw](../games/puzzle/chess-game-jigsaw.md) — Chess Game jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsa
+- [Chick Slot](../games/puzzle/chick-slot.md) — In the Chick Slot slot game, you can experience the experience of a player without having to pay in real money! And if y
+- [Chicken And Duck Brothers](../games/puzzle/chicken-and-duck-brothers.md) — Chicken and duck brothers 2 is an extremely interesting adventure game and 2-player game on Dop5. Coming to Brothers and
+- [Chicken Banana Pen](../games/puzzle/chicken-banana-pen.md) — Enjoy a unique game based on Chicken Banana Internet hit. Put your accuracy to test and shoot pens in order to stab the 
+- [Chicken Jockey: Hidden Lava Chicken](../games/puzzle/chicken-jockey-hidden-lava-chicken-3.md) — Race against the clock in Chicken Jockey, where spotting elusive Lava Chickens among chaotic Minecraft-inspired scenes t
+- [Chicken Jumper](../games/puzzle/chicken-jumper.md) — Explore a world made out of crazy blocks. Can you jump your way through all 30 challenging levels? Jump on each of the b
+- [Chicken Merge](../games/puzzle/chicken-merge.md) — Chicken Merge is a merge game with tower defense elements in which your objective is to deploy numerous chickens to prot
+- [Chicken Merge 2](../games/puzzle/chicken-merge-2.md) — Chicken Merge 2 is a merge-meets-tower-defense game where your feathered army stands between your base and endless waves
+- [Chicken Wars: Merge Guns](../games/puzzle/chicken-wars-merge-guns.md) — Welcome to the exciting world of chicken tower defense! With the power of merging, you can create even stronger chickens
+- [Chico Bon Bon Jigsaw Puzzle](../games/puzzle/chico-bon-bon-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Child Elephant Jigsaw](../games/puzzle/child-elephant-jigsaw.md) — Child Elephant jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct j
+- [Children's Day Differences](../games/puzzle/children-s-day-differences.md) — Spot the all differences between the two pictures of the Children's Day within the giving time. The faster, the higher o
+- [Children's Sweet Cake Jigsaw](../games/puzzle/children-s-sweet-cake-jigsaw.md) — Children's sweet cake jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the co
+- [ChillPaths](../games/puzzle/chillpaths.md) — ChillPaths is a relaxing yet brain-teasing puzzle adventure set in a cool, icy world. Your mission is simple: slide froz
+- [Chinchilla Trails](../games/puzzle/chinchilla-trails.md) — Chinchilla Trails is a cozy route-building puzzle about helping a lost chinchilla find the way home. Rotate each trail t
+- [Chinese 2048](../games/puzzle/chinese-2048.md) — 2048 is often played on a plain 4×4 grid, with numbered tiles that slide when a player moves them using the four arrow k
+- [Chinese Dragon Jigsaw Puzzles](../games/puzzle/chinese-dragon-jigsaw-puzzles.md) — Dive into the intriguing world of Chinese dragons with this challenging jigsaw puzzle game. Slide and manipulate tiles t
+- [Chinese Dragons Puzzle](../games/puzzle/chinese-dragons-puzzle.md) — Chinese Dragons Puzzle game is free online game and you have 6 images in three modes to play. Choose one of the mode for
+- [Chinese Water Dragon Jigsaw](../games/puzzle/chinese-water-dragon-jigsaw.md) — Chinese Water Dragon Jigsaw game is free online game in jigsaw puzzle genre. You have 6 images in three modes to play. C
+- [Chinese Water Dragon Jigsaw Puzzles](../games/puzzle/chinese-water-dragon-jigsaw-puzzles.md) — Dive into the captivating world of Chinese Water Dragon Jigsaw Puzzles, where sliding tiles and strategic moves create m
+- [Chip and Dale 2021 Slide](../games/puzzle/chip-and-dale-2021-slide.md) — The famous characters of cartoons and games "Chip and Dale" are again rushing to the rescue. Can you collect all the pic
+- [Chip and Potato Coloring Book](../games/puzzle/chip-and-potato-coloring-book.md) — Chip and Potato Coloring Book is cool coloring game for kids and adults. Play Chip and Potato Coloring Book online for f
+- [Chistmas MatchUp](../games/puzzle/chistmas-matchup.md) — Welcome to Christmas Cards Matching Puzzle game. This is amazing an Cards memory game with christmas characters! Look ca
+- [CHOAS COLORFULL](../games/puzzle/choas-colorfull.md) — Colorful Chaos; beat your high score with quick reflexes and coordination
+- [Chocolate Dream](../games/puzzle/chocolate-dream.md) — Indulge in the luscious world of Chocolate Dream, where strategic match-3 puzzle fun awaits! Swap and match chocolates t
+- [Choli Climb](../games/puzzle/choli-climb.md) — You should help Choly to climb the mountain and reach its peak. But there are many places that you can fall down, so you
+- [Choli Food Drop](../games/puzzle/choli-food-drop.md) — You are a little (but fat!) cute flightless chicken that is hungry and needs to eat as much as it can! But because you c
+- [Choli Jet](../games/puzzle/choli-jet.md) — You are a cute but weird little creature that wants to travel across the land and you are using a jet pack to do this! B
+- [Choli Sky Jump](../games/puzzle/choli-sky-jump.md) — You are a cute but weird little creature that wants to go high in the sky! You have to jump on platforms and go higher. 
+- [Choly Drop Food](../games/puzzle/choly-drop-food.md) — You are a little (but fat!) cute flightless chicken that is hungry and needs to eat as much as it can! But because you c
+- [Choly Water Hop](../games/puzzle/choly-water-hop.md) — You are a cute but weird little creature that wants to cross the lake! You have to jump on platforms that are on water`s
+- [Choo Choo](../games/puzzle/choo-choo.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Choose Puzzle](../games/puzzle/choose-puzzle.md) — Dive into Choose Puzzle where brain-teasing challenges await with four distinct puzzles, each offering a unique test of 
+- [Christmas 2019 Match 3](../games/puzzle/christmas-2019-match-3.md) — Christmas 2019 Match-3 is a good match-3 games with 16 levels. In each level, you need to clear the dirty cells. Make a 
+- [Christmas 2019 Puzzle](../games/puzzle/christmas-2019-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Christmas 2019 Puzzle. All images is with the christmas 2019. Sol
+- [Christmas 2020 Match 3 Deluxe](../games/puzzle/christmas-2020-match-3-deluxe.md) — Match three or more identical christmas items and reach the target of each level. The hourglasses bombs and jolly item w
+- [Christmas 2020 Spot Differences](../games/puzzle/christmas-2020-spot-differences.md) — Spot 5 differences between the two pictures of the christmas within the giving time. The faster, the higher of the socre
+- [Christmas 2021 Jigsaw](../games/puzzle/christmas-2021-jigsaw.md) — Christmas 2021 Jigsaw is a fantastic jigsaw puzzle game with the theme of the Christmas. Drag and drop the pieces to the
+- [Christmas 2021 Puzzle](../games/puzzle/christmas-2021-puzzle.md) — Play with 9 images in this perfect jigsaw puzzle game: Christmas 2021 Puzzle. All images is with the themes of christmas
+- [Christmas Animals](../games/puzzle/christmas-animals.md) — Christmas Animals is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choose one
+- [Christmas at Cattle Hill Jigsaw Puzzle](../games/puzzle/christmas-at-cattle-hill-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Christmas at Cattle Hill Jigsaw Puzzle Games For](../games/puzzle/christmas-at-cattle-hill-jigsaw-puzzle-games-for.md) — Christmas Jigsaw puzzles game about Christmas! The most realistic jigsaw experience you can get on a smart phone.It is a
+- [Christmas Bake Cookies Jigsaw](../games/puzzle/christmas-bake-cookies-jigsaw.md) — Christmas bake cookies jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the c
+- [Christmas Balloons Bursting](../games/puzzle/christmas-balloons-bursting.md) — Christmas Balloons Bursting is a mouse skill game where you will be given a certain numbers of balloon for you to pop. P
+- [Christmas Balls](../games/puzzle/christmas-balls.md) — Christmas Balls is fun addictive hyper casual match 3 game. Christmas is round the corner enjoy this wonderful game on t
+- [Christmas Block Challenge](../games/puzzle/christmas-block-challenge.md) — Christmas Block Challenge: Strategically place festive blocks on a 10x10 grid, completing rows or columns of 10 to colle
+- [Christmas Blocks](../games/puzzle/christmas-blocks-2.md) — Get into the festive groove with Christmas Blocks! Experience a holiday-themed twist on classic Tetris as you skillfully
+- [Christmas Blocks Collapse](../games/puzzle/christmas-blocks-collapse.md) — Collapse christmas blocks by connecting 2 or more similar blocks. Collapse 6 or more blocks to get a bomb. More points a
+- [Christmas Bounce - Santa Mania](../games/puzzle/christmas-bounce-santa-mania.md) — Celebrate the holiday spirit with Christmas Bounce - Santa Mania! Navigate through snowy scenes, strategically breaking 
+- [Christmas Bubble breaker Games amazing Shooter](../games/puzzle/christmas-bubble-breaker-games-amazing-shooter.md) — Are you looking for a challenge? Great! Amazing Bubble Breaker, except the easy mode, has a medium and hard mode for any
+- [Christmas Bubble Shooter 2019](../games/puzzle/christmas-bubble-shooter-2019.md) — Christmas bubble shooter is a classical bubble shooter game. To complete a level you need to pop the trapped bubbles to 
+- [Christmas Bubble Shooter Game](../games/puzzle/christmas-bubble-shooter-game.md) — Welcome to the Christmas Bubble Shooter Game! Get ready for a scary adventure filled with endless bubble-popping fun! Di
+- [Christmas Bubbles HD](../games/puzzle/christmas-bubbles-hd.md) — Christmas Bubbles is a simple match game, shoot in 3 or more balls with same colors, and get high score!.
+- [Christmas Bubbles Match 3](../games/puzzle/christmas-bubbles-match-3.md) — This is Christmas Match 3 game with Bubbles or ornaments. Look on snow globe to see which bubbles you need to match it t
+- [Christmas Capital Letters](../games/puzzle/christmas-capital-letters.md) — In this Christmas game your job is to touch only capital letters. Be focused and fast. You can miss ten letters and you 
+- [Christmas Cards Jigsaw](../games/puzzle/christmas-cards-jigsaw.md) — Christmas Cards Jigsaw is a game where you have to assemble the parts of the New Year postcard and get the picture. Choo
+- [Christmas Carols Jigsaw](../games/puzzle/christmas-carols-jigsaw.md) — Christmas Carols Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images
+- [Christmas Cars Find the Bells](../games/puzzle/christmas-cars-find-the-bells.md) — Christmas Cars Find the Bells is a beautiful online game with hidden bells. Find out the hidden bells in the specified i
+- [Christmas Cars Jigsaw](../games/puzzle/christmas-cars-jigsaw.md) — This is jigsaw game with Christmas Cartoon cars. The game have 12 images with different Christmas cars. Start with first
+- [Christmas Challenge](../games/puzzle/christmas-challenge.md) — WOW Santa have a lot of challenges this Christmas. This time the gifts are frozen, so he need to broke the ice with snow
+- [Christmas Characters Slide](../games/puzzle/christmas-characters-slide.md) — Play this slide puzzle games of the christmas characters. It's include 3 images and 3 modes to play.
+- [Christmas Clay Doll Puzzle](../games/puzzle/christmas-clay-doll-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Christmas Clay Doll Puzzle. All images is with the christmas clay
+- [Christmas Clay Doll Slide](../games/puzzle/christmas-clay-doll-slide.md) — Play this slide puzzle games of the christmas clay doll. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 
+- [Christmas Collection](../games/puzzle/christmas-collection.md) — Collect the christmas items in this html5 game. Press any xmas item to start. Now move the 'mouse or finger tip' on iden
+- [Christmas Collection 2019](../games/puzzle/christmas-collection-2019.md) — Collect christmas gifts so that Santa can send them off to the good little boys and girls. Press any gift to start. Now 
+- [Christmas Connect](../games/puzzle/christmas-connect.md) — Christmas Connect is a cute matching game where you connect 3 or more cute Xmas items of the same color. You have 30 sec
+- [Christmas Connect 3](../games/puzzle/christmas-connect-3.md) — Connect similar items using touch or mouse. Make a group of 3 or more, horizontally, vertically or diagonally adjacent i
+- [Christmas Connection](../games/puzzle/christmas-connection.md) — Christmas Connection is puzzle Match 3 game with a Christmas theme. The wizard chanted a spell and the Christmas items t
+- [Christmas Cookies Jigsaw](../games/puzzle/christmas-cookies-jigsaw.md) — Christmas cookies jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correc
+- [Christmas Cookies Match 3](../games/puzzle/christmas-cookies-match-3.md) — Christmas Cookies Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a se
+- [Christmas Crush](../games/puzzle/christmas-crush.md) — It's Christmas Time Welcome to Christmas Crush Match3 Game with Amazing Christmas Jewels. Swipe and match 3 or more colo
+- [Christmas Cupcake Match 3](../games/puzzle/christmas-cupcake-match-3.md) — Christmas Cupcake Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a se
+- [Christmas Deer Jigsaw](../games/puzzle/christmas-deer-jigsaw.md) — Christmas Deer Jigsaw is a fun online puzzle game. Drag the pieces into right position using mouse. Solving puzzles is r
+- [Christmas Differences](../games/puzzle/christmas-differences.md) — In this Christmas Differences game you will see beautiful pictures with a Christmas theme. Your task in Christmas Differ
+- [Christmas Dogs Styles](../games/puzzle/christmas-dogs-styles.md) — Christmas Dogs Styles game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. C
+- [Christmas Drop - Merge Game](../games/puzzle/christmas-drop-merge-game.md) — Santa's gifts have been nabbed by his evil twin! Dive into this captivating merge game where your quick wits and strateg
+- [Christmas Factory-2](../games/puzzle/christmas-factory-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Christmas Fairytale Connection](../games/puzzle/christmas-fairytale-connection.md) — Play the newest Christmas Fairytale Connection game. Connect a minimum of 2 same Christmas theme squares to destroy them
+- [Christmas Find The Differences](../games/puzzle/christmas-find-the-differences.md) — Get into the festive spirit with Christmas Find The Differences, the ultimate holiday-themed puzzle game! Test your obse
+- [Christmas Food Click 2024](../games/puzzle/christmas-food-click-2024.md) — Christmas Food Click is a simple and fun click puzzle game. Click 2 or more christmas food to match them. The more food 
+- [Christmas for Lover Puzzle](../games/puzzle/christmas-for-lover-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Christmas for Lover Puzzle. All images is with the christmas love
+- [Christmas Fun Hidden Stars](../games/puzzle/christmas-fun-hidden-stars.md) — Christmas Fun Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specified ima
+- [Christmas Funny Dog Jigsaw](../games/puzzle/christmas-funny-dog-jigsaw.md) — Christmas funny dog jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the corr
+- [Christmas Game Frozen Match 3 Game Sweet Baby Girl](../games/puzzle/christmas-game-frozen-match-3-game-sweet-baby-girl.md) — "Christmas Game Frozen Match 3 Game Sweet Baby Girl" Special winter holiday season game Sweet Baby Girl Christmas Fun 2 
+- [Christmas Games For Kids](../games/puzzle/christmas-games-for-kids.md) — Christmas Games For Kids It's a cool kid's game, is very easy and intuitive to play, fun for the entire family! it will 
+- [Christmas Gift Challenge](../games/puzzle/christmas-gift-challenge.md) — Christmas Gift Challenge is one of the best match 3 games free puzzle games about new years countdown and matching games
+- [Christmas Gift Match](../games/puzzle/christmas-gift-match.md) — Celebrate the joy of the holiday season with Christmas Gift Match, a delightful gift-matching puzzle game! Dive into the
+- [Christmas Gift Merge](../games/puzzle/christmas-gift-merge.md) — Christmas Gift Merge – We promise you will love this puzzle game. It will help you to train your mind and relax. If you 
+- [Christmas Gift Shooter](../games/puzzle/christmas-gift-shooter.md) — "Space Action-adventure Online Game" is a free game that allows players to experience an adventure in space while enjoyi
+- [Christmas Gifts](../games/puzzle/christmas-gifts.md) — Christmas Gifts is fun addictive hyper casual match 3 game.Christmas is round the corner enjoy this wonderful game on th
+- [Christmas Gifts Crush Holiday Swapper Candy Match3](../games/puzzle/christmas-gifts-crush-holiday-swapper-candy-match3.md) — Santa's Christmas Gifts game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play.
+- [Christmas Gifts Falling](../games/puzzle/christmas-gifts-falling.md) — The newest Christmas puzzle game is Christmas Gifts Falling. Your goal in this game is to use Santa Claus to arrange the
+- [Christmas Gifts Game](../games/puzzle/christmas-gifts-game.md) — This game is a Christmas game. It is a bubble shooter game. Shoot the ball to match 3 or more than 3 to collect the gift
+- [Christmas Gifts Sorting](../games/puzzle/christmas-gifts-sorting.md) — Welcome to the newest puzzle sorting game called Christmas Gifts Sorting. Help the Santa Claus to sort the Christmas gif
+- [Christmas Grab Match 3](../games/puzzle/christmas-grab-match-3.md) — Grab a christmas items and drop it on top of another column and match 3 or more of the same items in a row (horizontally
+- [Christmas Helper Jigsaw](../games/puzzle/christmas-helper-jigsaw.md) — Christmas Helper Jigsaw is a free online game from genre of jigsaw puzzle and cartoon games. You can select one of the 6
+- [Christmas Hexa Puzzle](../games/puzzle/christmas-hexa-puzzle.md) — Christmas Hexa Puzzle is a relaxing holiday-themed jigsaw game where you arrange vibrant hexagonal tiles to complete fes
+- [Christmas Illustration Puzzle](../games/puzzle/christmas-illustration-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Christmas Illustration Puzzle. All images is with the christmas. 
+- [Christmas Jigsaw](../games/puzzle/christmas-jigsaw.md) — Christmas Jigsaw that gives you the perfect free jigsaw puzzle experience. Solving puzzles is relaxing, rewarding, and k
+- [Christmas Jigsaw Puzzle](../games/puzzle/christmas-jigsaw-puzzle.md) — Enjoy Christmas holiday with playing the Jigsaw Puzzle. There are many beautiful landscape images and many customizable 
+- [Christmas Jigsaw Puzzles](../games/puzzle/christmas-jigsaw-puzzles.md) — Are you a cat lover with a passion for puzzles? If so, get ready for an adorable and engaging adventure with &ldquo;Chri
+- [Christmas Lovers Slide](../games/puzzle/christmas-lovers-slide.md) — Play this slide puzzle games of the christmas lovers. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 pie
+- [Christmas Mascots Memory](../games/puzzle/christmas-mascots-memory.md) — This is Christmas game with more levels. You need to click on Christmas cards and when they turn, a picture of Christmas
+- [Christmas Match](../games/puzzle/christmas-match.md) — Your gift are here and do not expect from them anything less than long hours of fun and entertainment.Christmas Match 3 
+- [Christmas Match 3 Deluxe](../games/puzzle/christmas-match-3-deluxe.md) — Match three or more identical christmas items and reach the target of each level. The hourglasses bombs and jolly items 
+- [Christmas Match 3 - Puzzle Game](../games/puzzle/christmas-match-3-puzzle-game.md) — Christmas Match 3 - Puzzle Game 2020 for free! Santa Claus is coming soon again to let you play as a match 3 puzzle game
+- [Christmas Match 3 Puzzle Game 2021](../games/puzzle/christmas-match-3-puzzle-game-2021.md) — Christmas Match 3 is one of the most popular match-3 puzzle game online right now. Be a sweeper and swipe tiles into cla
+- [Christmas Match Three](../games/puzzle/christmas-match-three.md) — Happy New Year to all match3 game lovers and welcome to a new match3 puzzle game. Swipe and Match 3 or more similar chri
+- [Christmas Match3](../games/puzzle/christmas-match3.md) — Your gift are here and do not expect from them anything less than long hours of fun and entertainment.Christmas Match 3 
+- [Christmas Matching](../games/puzzle/christmas-matching.md) — Match 3 or more identical christmas items to make them explode before time runs out. If you match 4 or more identical ch
+- [Christmas Matching Game](../games/puzzle/christmas-matching-game.md) — Enjoy your holidays with family by playing the Christmas matching game online. During the vacations Christmas Matching G
+- [Christmas Matching Game](../games/puzzle/christmas-matching-game-2.md) — Step into a magical winter wonderland with the Christmas Matching Game, where holiday icons await your strategic touch. 
+- [Christmas Maze](../games/puzzle/christmas-maze.md) — Christmas Maze is an online game that you can play for free. Christmas Maze is a simple but very challenging arcade game
+- [Christmas Memory Challenge](../games/puzzle/christmas-memory-challenge.md) — Concentration has always been popular because you can play it on many different levels, and always challenge yourself to
+- [Christmas Memory Match](../games/puzzle/christmas-memory-match.md) — Christmas Memory Match is a simple classic board game with christmas theme which can help and challenging your brain ski
+- [Christmas Merge - Match 3 Puzzle](../games/puzzle/christmas-merge-match-3-puzzle.md) — Dive into the festive fun of Christmas Merge - Match 3 Puzzle, where vibrant visuals and cheerful tunes accompany your q
+- [Christmas N Tiles](../games/puzzle/christmas-n-tiles.md) — Christmas N Tiles is a fun and simple elimination mahjong-inspired game, your goal is to move tiles onto the bottom of t
+- [Christmas Ornaments Jigsaw Puzzles](../games/puzzle/christmas-ornaments-jigsaw-puzzles.md) — Christmas Ornaments Jigsaw Puzzles is a cozy holiday jigsaw game where you pick a picture and assemble it piece by piece
+- [Christmas Ornaments Memory](../games/puzzle/christmas-ornaments-memory.md) — On the eve of Christmas holidays we offer you a memory game with Christmas ornaments. Your goal is to hit all the pairs 
+- [Christmas Penguin Puzzle](../games/puzzle/christmas-penguin-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Christmas Penguin Puzzle. All images is with the christmas pengui
+- [Christmas Penguin Slide](../games/puzzle/christmas-penguin-slide.md) — Play this slide puzzle games of the christmas penguin. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 pi
+- [Christmas Pop It Jigsaw](../games/puzzle/christmas-pop-it-jigsaw.md) — Christmas Pop It Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in the Christmas - Winter th
+- [Christmas Puzzle](../games/puzzle/christmas-puzzle.md) — Candy Match game, here you have to match 3 or more of the same type doll to clear them from the board. Every time you cl
+- [Christmas Puzzle](../games/puzzle/christmas-puzzle-2.md) — Unleash festive fun with Christmas Puzzle! Connect identical Christmas-themed objects to score big. As the pace quickens
+- [Christmas Puzzle 2](../games/puzzle/christmas-puzzle-2-2.md) — Immerse yourself in holiday cheer with Christmas Puzzle 2. Reassemble vibrant festive images by rotating and arranging m
+- [Christmas Puzzle For Kids](../games/puzzle/christmas-puzzle-for-kids.md) — An educational puzzle game for your child. While playing the Christmas themed puzzle game, your child will have fun and 
+- [Christmas Puzzle With Santa](../games/puzzle/christmas-puzzle-with-santa.md) — Christmas Puzzle With Santa is a cheerful jigsaw game full of holiday magic! Join Santa Claus and enjoy relaxing puzzle 
+- [Christmas Quest](../games/puzzle/christmas-quest.md) — Christmas Quest is an unique match 3 game. Move the items to the blank spaces in order to create a horizontal or vertica
+- [Christmas Romance Slide](../games/puzzle/christmas-romance-slide.md) — Play this slide puzzle games of the christmas romance. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 pi
+- [Christmas Rooms Differences](../games/puzzle/christmas-rooms-differences.md) — Before Christmas Holidays we offer you a game with Christmas decor rooms. But there is seven differences in each rooms. 
+- [Christmas Run Puzzle](../games/puzzle/christmas-run-puzzle.md) — Immerse yourself in a festive challenge with Christmas Run Puzzle! Slide tiles to complete joyful holiday scenes featuri
+- [Christmas Santa Puzzle](../games/puzzle/christmas-santa-puzzle.md) — Do you want to solve fun puzzles with the most beautiful Christmas pictures? Santa, christmas trees, christmas gifts, sn
+- [Christmas Santa Slide](../games/puzzle/christmas-santa-slide.md) — Play this slide puzzle games of the christmas santa. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 piec
+- [Christmas Slide Puzzle](../games/puzzle/christmas-slide-puzzle.md) — Christmas Slide Puzzle is a simple HTML5 classic puzzle game. Move pieces of christmas images between tiles to arrange t
+- [Christmas Snow Hidden Object](../games/puzzle/christmas-snow-hidden-object.md) — Christmas Snow Hidden Object. Beautiful Christmas themed snowy game with various hidden objects scattered across the scr
+- [Christmas Snowman Jigsaw Puzzle](../games/puzzle/christmas-snowman-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the christmas snowman. The gam
+- [Christmas Snowman Puzzle](../games/puzzle/christmas-snowman-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Christmas Snowman Puzzle. All images is with the snowman. Solve a
+- [Christmas Spot differences](../games/puzzle/christmas-spot-differences.md) — Welcome to Christmas Spot differences Puzzle Game! Celebrate the holiday season with this fun Christmas Spot the Differe
+- [Christmas Stockings Memory](../games/puzzle/christmas-stockings-memory.md) — Christmas Stockings Memory is a free online game from genre of memory and christmas games. Flip the tiles and try to mat
+- [Christmas Sweeper](../games/puzzle/christmas-sweeper.md) — Welcome to Christmas Sweeper! This is an amazing Match3 puzzle game with winter christmas items. Swipe to match 3 or mor
+- [Christmas Tiles](../games/puzzle/christmas-tiles.md) — Clear the board of the Christmas tiles by making matches of 3 or more like items that are adjacent to each other. Get Ma
+- [Christmas Tom Differences](../games/puzzle/christmas-tom-differences.md) — Christmas Tom Differences is an online game that you can play for free. Find all differences between two pictures with o
+- [Christmas Town Difference](../games/puzzle/christmas-town-difference.md) — Christmas Town Difference is interesting kids game and it's time for you to have fun!In this game you need to find the d
+- [Christmas Tree Bell Jigsaw](../games/puzzle/christmas-tree-bell-jigsaw.md) — Christmas tree bell jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the corr
+- [Christmas Tree Memory Game](../games/puzzle/christmas-tree-memory-game.md) — Christmas tree memory is a holiday game where you will test your memory. This is a game with Christmas trees, and when y
+- [Christmas Truck Jigsaw](../games/puzzle/christmas-truck-jigsaw.md) — This is jigsaw game with Christmas Trucks. Chose with how many pieces you want to play and try to put the pieces in righ
+- [Christmas Trucks Differences](../games/puzzle/christmas-trucks-differences.md) — In this difference Christmas game you can play with Christmas trucks. Find all seven differences in each images and win 
+- [Christmas Trucks Hidden Bells](../games/puzzle/christmas-trucks-hidden-bells.md) — Christmas Trucks Hidden Bells is a free online skill and hidden object game. Find out the hidden bells in the specified 
+- [Christmas Trucks Hidden Gifts](../games/puzzle/christmas-trucks-hidden-gifts.md) — Christmas Trucks Hidden Gifts is a game where you have to find the ten hidden gifts in the picture with Christmas trucks
+- [Christmas Trucks Memory](../games/puzzle/christmas-trucks-memory.md) — Christmas Trucks Memory is a game where you have to memorize the positions of different Christmas trucks and then hit th
+- [Christmas Vector Characters Puzzle](../games/puzzle/christmas-vector-characters-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Christmas Vector Characters Puzzle. All images is with the christ
+- [Christmas Vehicles Jigsaw](../games/puzzle/christmas-vehicles-jigsaw.md) — Christmas Vehicles Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the twelve 
+- [Christmas Winnie Pooh Jigsaw](../games/puzzle/christmas-winnie-pooh-jigsaw.md) — Christmas Winnie Pooh Jigsaw is a fantastic jigsaw puzzle game with the theme of the Christmas Winnie Pooh. Drag and dro
+- [Christmas Winter Girl Jigsaw](../games/puzzle/christmas-winter-girl-jigsaw.md) — Christmas winter girl jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the co
+- [Christmas Winter Story Jigsaw](../games/puzzle/christmas-winter-story-jigsaw.md) — Christmas Winter Story Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play
+- [Chroma Crush Match Colors Puzzle Game](../games/puzzle/chroma-crush-match-colors-puzzle-game.md) — Dive into the kaleidoscopic world of Chroma Crush where quick thinking and swift moves rule. Match vibrant colors, shatt
+- [ChromaPath](../games/puzzle/chromapath.md) — ChromaPath is a kids game which should be takes as a puzzle and challenge. You have to cover 8x8 square grid with a goal
+- [Chromatch](../games/puzzle/chromatch.md) — Chromatch &ndash; Test Your Reflexes, Match Your Colors! Get ready for Chromatch, the fast-paced color-matching challeng
+- [Chubby Finn](../games/puzzle/chubby-finn.md) — **ChubbyFinn** is a cute Sokoban-style puzzle game where you help an adorable chubby seal push balls into the correct ta
+- [Cinder Circuit Volcanic Wiring Game](../games/puzzle/cinder-circuit-volcanic-wiring-game.md) — Ignite your strategic skills as you unite molten circuits to revive ancient lava machines. Navigate a fiery landscape wh
+- [Cinderella Jigsaw Puzzle Collection](../games/puzzle/cinderella-jigsaw-puzzle-collection.md) — In today's game, you can put together several puzzles with the image of Cinderella and her friends. The highlight of the
+- [Cinderella Match 3 Puzzle](../games/puzzle/cinderella-match-3-puzzle.md) — Are you like Cinderella? and you want play The new Of Princess Games Cinderella Now You Can Play New Free online Princes
+- [Circle Ball Collector](../games/puzzle/circle-ball-collector.md) — In the game Circle Ball Collector, you will also become a collector and the object of your collection will be colorful b
+- [Circle Break - Color Rings Puzzle](../games/puzzle/circle-break-color-rings-puzzle.md) — Break the circle - With a very simple but equally challenging rule, the player's task is to arrange the circles of the s
+- [Circle Clock](../games/puzzle/circle-clock.md) — In the middle of the screen there is a colored circle with one pointer that the pointer should be in the right place, an
+- [Circle Collector](../games/puzzle/circle-collector.md) — Circle Collector is a cool game where you mission is to collect colored balls by pressing one of the 3 colored balls at 
+- [Circle Crush](../games/puzzle/circle-crush.md) — Drag color Circles and put them into the grid to remove the Circles by making horizontal, vertical, or diagonal line has
+- [Circle Dash Ball Game](../games/puzzle/circle-dash-ball-game.md) — Circle Dash Ball ek super fun aur addictive arcade game hai jisme aapko apni ball ko fast moving circle track par contro
+- [Circle Down Game](../games/puzzle/circle-down-game.md) — Shoot the green rings to fill them and activate the platform. The game is difficult. Simple and addictive gameplay.
+- [Circle Puzzle](../games/puzzle/circle-puzzle-2.md) — Enter a world of rotating puzzles in Circle Puzzle. Align spinning circles to complete intricate images, testing your sp
+- [Circle Rotate](../games/puzzle/circle-rotate.md) — Circle Rotate is a puzzle game where you need to rotate the ring which has a small opening on one side. White balls shou
+- [Circle Rotate Game](../games/puzzle/circle-rotate-game.md) — Rotate the circle to allow the white balls to reach the center. The game is difficult. Simple and addictive gameplay.
+- [Circle vs Square](../games/puzzle/circle-vs-square.md) — Circle vs Square game has a lot of success review and player this MONTH that significantly improves overall game perform
+- [circles](../games/puzzle/circles.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Circles](../games/puzzle/circles-2.md) — Dive into a thrilling puzzle challenge where speed and precision meet. Race against time to uncover hidden patterns with
+- [circles colors](../games/puzzle/circles-colors.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Circular Reflection Game](../games/puzzle/circular-reflection-game.md) — Control the rotating shield and bounce the black ball. The game is difficult. Simple and addictive gameplay.
+- [Circularmatrix](../games/puzzle/circularmatrix.md) — CircleMatrix is an easy-to-use game that is suitable for people of all ages, allowing you to be happier and more relaxed
+- [Circus Jigsaw Puzzle](../games/puzzle/circus-jigsaw-puzzle.md) — Let's play our newest free jigsaw game Circus Jigsaw Puzzle. In this game, you have 6 circus images with animals and clo
+- [Citrus Shuffle](../games/puzzle/citrus-shuffle.md) — Immerse yourself in Citrus Shuffle, where vibrant fruit-matching meets strategic puzzle-solving. Swap, shuffle, and matc
+- [City Blocks](../games/puzzle/city-blocks.md) — City Blocks is a match-3 puzzle game. Strategically place new buildings and upgrade them to build the largest possible c
+- [City Blocks](../games/puzzle/city-blocks-2.md) — Strategically construct the ultimate metropolis in City Blocks! Engage in the addictive challenge of placing and matchin
+- [City Driver - Drive Around The City](../games/puzzle/city-driver-drive-around-the-city.md) — Enjoy your time by driving the Bmw city car rider 2021 testing your racing skills on the city roads. this is not just th
+- [City Driving Car 4D](../games/puzzle/city-driving-car-4d.md) — Brand New Game from Producers of Bus Simulator and Truck Simulator 2017. City Driving which was downloaded by more than 
+- [City Duty Vehicles Jigsaw](../games/puzzle/city-duty-vehicles-jigsaw.md) — City Duty Vehicles Jigsaw Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 
+- [City of Europe Hangman](../games/puzzle/city-of-europe-hangman.md) — PLay City of Europa Hangman, the old school favorite! A word game where the goal is simply to find the missing word or w
+- [City Scooter Bike Jigsaw](../games/puzzle/city-scooter-bike-jigsaw.md) — In this City Scooter Bike Jigsaw game, you have 6 images in three modes to play. Choose one of the modes for the game th
+- [City Scooter Rides Jigsaw](../games/puzzle/city-scooter-rides-jigsaw.md) — City Scooter Rides Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 imag
+- [Clash of Blocks](../games/puzzle/clash-of-blocks.md) — In Clash of Blocks 2, your job is to strategically place your own block so that it rolls out faster than your opponents.
+- [Clash of Ice Cream](../games/puzzle/clash-of-ice-cream.md) — Match Ice Cream, complete levels and collect Point. Don't forget to get all achievements!
+- [Clash Of Law](../games/puzzle/clash-of-law.md) — Ready to solve endless puzzles which are challenging your short-term memory, if you do not know how to deal with it this
+- [Clash of Law](../games/puzzle/clash-of-law-2.md) — Dive into Clash of Law, where your legal knowledge is the key to unraveling intriguing puzzles. Test your wits with chal
+- [Classic 2048 - Cubes](../games/puzzle/classic-2048-cubes.md) — Classic 2048 - Cubes is a strategic puzzle challenge where you merge numbered cubes to form the coveted 2048 tile. Navig
+- [classic board](../games/puzzle/classic-board.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Classic Bubble Shooter](../games/puzzle/classic-bubble-shooter.md) — Clear as many bubbles as you can in this classic bubble shooter game and try to reach the highest score!
+- [Classic Car Parking](../games/puzzle/classic-car-parking.md) — brings you the hard Parking game. Contains 560 hard parking levels with 7 different themes. So that young drivers can tr
+- [Classic Car Parking Game](../games/puzzle/classic-car-parking-game.md) — More than just parking: open-world multiplayer mode, car tuning, free walking! Thousands of players are waiting for you.
+- [Classic Falling Ball Game](../games/puzzle/classic-falling-ball-game.md) — Your Job Is To Make A Way For The Balls To Put Them In One Truck, And Every Level You Finished It You Will Go To a Harde
+- [Classic Master Sudoku](../games/puzzle/classic-master-sudoku.md) — Rediscover the timeless challenge of Classic Master Sudoku, where your logical prowess is tested on a 9x9 grid. Enjoy a 
+- [Classic Match-3](../games/puzzle/classic-match-3.md) — Your Gems buddies are here and do not expect from them anything less than long hours of fun and entertainment.Classic Ma
+- [Classic Match3](../games/puzzle/classic-match3.md) — A colorful and addictive match3 puzzle game where you swap pieces to line up three or more identical gems. Trigger power
+- [Classic Mine Sweeper](../games/puzzle/classic-mine-sweeper.md) — Relive the nostalgia with Classic Mine Sweeper, a timeless logic puzzle where strategy meets thrill. Uncover safe zones,
+- [Classic Minesweeper](../games/puzzle/classic-minesweeper.md) — Classic chess matches will allow players to choose the difficulty of the rival. Besides the Quick Match mode, Chess Gran
+- [Classic Muscle Cars Jigsaw Puzzle](../games/puzzle/classic-muscle-cars-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the classic muscle cars. The g
+- [Classic Muscle Cars Jigsaw Puzzle 2](../games/puzzle/classic-muscle-cars-jigsaw-puzzle-2.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the classic muscle cars. The g
+- [Classic Nonogram](../games/puzzle/classic-nonogram.md) — If you enjoy playing Sudoku, then you will definitely love this Nonogram puzzle game too! Your goal is to determine whic
+- [Classic Nonogram](../games/puzzle/classic-nonogram-2.md) — Unleash your inner puzzle master with Classic Nonogram! Strategically fill grids using logic from numbered clues, and ta
+- [Classic Number Puzzle](../games/puzzle/classic-number-puzzle.md) — 🧩 Number Puzzle – Classic Number Slide Puzzle is a classic math-based puzzle game that challenges your brain and keeps 
+- [Classic Old And New Cars Hidden](../games/puzzle/classic-old-and-new-cars-hidden.md) — Classic Old And New Cars Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and 
+- [Classic Scooter Memory](../games/puzzle/classic-scooter-memory.md) — Classic Scooter Memory is a free online game from genre of memory and car games. Flip the tiles and try to match them up
+- [Classic Slide Puzzle](../games/puzzle/classic-slide-puzzle.md) — Another Classic sliding game with numbers. You task is to arrange the numbers in order of magnitude. Sliding the numbers
+- [Classic Sliding Numbers](../games/puzzle/classic-sliding-numbers.md) — This is Classic sliding game with numbers. You need to arrange the numbers in order of magnitude. So slide the numbers a
+- [Classic Sudoku](../games/puzzle/classic-sudoku.md) — Dive into Classic Sudoku, the numerical brain-teaser that hones your logical skills and boosts concentration. Solve chal
+- [Classic Sudoku Daily Puzzles](../games/puzzle/classic-sudoku-daily-puzzles.md) — Embark on a daily logic adventure with Classic Sudoku. Fill the grid to test your mind in a journey of numbers. Choose b
+- [Classic Sudoku Puzzle](../games/puzzle/classic-sudoku-puzzle.md) — Classic Sudoku Puzzle is an addictive number game to test your brain power. You need to fill all the spaces within the t
+- [Classic Tetris](../games/puzzle/classic-tetris.md) — Welcome to TETRIS&reg;, the official mobile app for the world&rsquo;s favorite puzzle game. Play through hundreds of uni
+- [Classic Tic Tac Toe](../games/puzzle/classic-tic-tac-toe.md) — You like games that you play on a paper ? Classic Tic Tac Toe is for you ! Now you can play Tic Tac Toe on your mobile d
+- [Classical Candies Match 3](../games/puzzle/classical-candies-match-3.md) — Swap blocks in order to make a group of 3 or more identical candies adjacent horizontally or vertically. Keep matching t
+- [Classy Boy Escape](../games/puzzle/classy-boy-escape.md) — Classy Boy Escape is a point and click escape game developed by 8BGames. Imagine that you went to Classy boy house to pl
+- [Claw Machine](../games/puzzle/claw-machine.md) — We all remember the toy machines that stood in every mall. For a few coins you could try your luck and pull out a small 
+- [Clay 2048](../games/puzzle/clay-2048.md) — Dive into Clay 2048, where charming clay visuals transform the classic numbers game. Strategically merge tiles to reach 
+- [Clean Before Your Wife Returns - Hidden Object](../games/puzzle/clean-before-your-wife-returns-hidden-object.md) — Race against the clock as a frantic husband in this comedic hidden object adventure. Scour cluttered rooms, unearth miss
+- [Cleaner](../games/puzzle/cleaner.md) — In this game with 50 levels you will have to tap a slot on the grid so that it and its 4 neighbors (vertically and horiz
+- [Clear Drop Puzzles](../games/puzzle/clear-drop-puzzles.md) — Challenge your logic and timing in Clear Drop Puzzles. Guide falling drops to the right containers with precision. Enjoy
+- [Clear the Road](../games/puzzle/clear-the-road.md) — Navigate bustling roads in a fast-paced test of reflexes and strategy. Dodge obstacles and clear paths in a vibrant worl
+- [Cleo and Cuquin Jigsaw Puzzle](../games/puzzle/cleo-and-cuquin-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Click Bubbles](../games/puzzle/click-bubbles.md) — Click Bubbles is a simple and fun click puzzle game. Click 2 or more bubbles to match them. The more bubbles you match i
+- [Clock Challenege](../games/puzzle/clock-challenege.md) — This game has a simple gameplay. The clock hand is rotating and all you have to do is to touch or click on the screen wh
+- [Clouds And Stars](../games/puzzle/clouds-and-stars.md) — Best time to collect all the stars from the sky! In this game you have nine levels and for each level you have a certain
+- [Clown Jigsaw](../games/puzzle/clown-jigsaw.md) — Fun and enjoyable jigsaw puzzle game for kids.
+- [Clown Jigsaw Puzzle](../games/puzzle/clown-jigsaw-puzzle.md) — Dive into a vibrant world of fun with Clown Jigsaw Puzzle! Assemble colorful pieces to enhance your concentration, memor
+- [Clownfish Online](../games/puzzle/clownfish-online.md) — Clownfish Online is a relaxing and addictive puzzle game. Here, your mission is simple – just pull the right pin to brin
+- [Club Sandwich-2](../games/puzzle/club-sandwich-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Clue Hunter](../games/puzzle/clue-hunter.md) — Clue Hunter is an interesting crime-solving puzzle game. If you also like detective games, and logic to solve puzzles, y
+- [CLUTTER MASTER](../games/puzzle/clutter-master.md) — Clutter Master is a casual cozy game where you organize a messy room by placing each item where it belongs. A secret awa
+- [Cocktail Brain](../games/puzzle/cocktail-brain.md) — In the game, you are waiting to prepare a cocktail that will have real benefits for brain activity. In order to fill a g
+- [Cocktail Party 3D](../games/puzzle/cocktail-party-3d.md) — Cocktail Party 3D is an excellent puzzle game where you progress by matching cocktails. Match cocktails, take pictures a
+- [Coco Dodge](../games/puzzle/coco-dodge.md) — Coco Dodge is a game of rhythm, hand-eye coordination and hair-pulling action! With the fate of two cute crabs at your f
+- [Coco Jigsaw](../games/puzzle/coco-jigsaw.md) — Have you seen the film called Coco? There are many images about the plots of Coco in Coco jigsaw. The jigsaw in this gam
+- [Coco Skibidi](../games/puzzle/coco-skibidi.md) — Coco Skibidi is a game of rhythm, hand-eye coordination and hair-pulling action! With the fate of two Skibidi Toilet at 
+- [Cocomelon Coloring Book](../games/puzzle/cocomelon-coloring-book.md) — Cocomelon Coloring Book is cool coloring game for kids and adults. Play Cocomelon Coloring Book online for free. This ga
+- [Cocomelon Jigsaw](../games/puzzle/cocomelon-jigsaw.md) — Cocomelon Family is a well know tv series for kids. This time you can play jigsaw game with popular cocomelon characters
+- [CoComelon Jigsaw Puzzle](../games/puzzle/cocomelon-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles.let's see how fast can you solve this
+- [Cocoon Crossing](../games/puzzle/cocoon-crossing.md) — Cocoon Crossing 3D is a cozy 3D routing puzzle. Every caterpillar wants to reach the cocoon of its own colour &mdash; dr
+- [Code Breaker Deluxe](../games/puzzle/code-breaker-deluxe.md) — Code Breaker Deluxe, developed by PLAYTOUCH, is a digital adaptation of the classic Mastermind code-breaking logic puzzl
+- [Coffe Merge House](../games/puzzle/coffe-merge-house.md) — Coffee Merge House is a cozy merge game where you combine ingredients, prepare increasingly valuable treats, and serve c
+- [Coffe Merge House](../games/puzzle/coffe-merge-house-2.md) — Coffee Merge House is a cozy merge game where you combine ingredients, prepare increasingly valuable treats, and serve c
+- [Coffee Color Blocks](../games/puzzle/coffee-color-blocks.md) — Coffee Color Blocks is a bright and relaxing puzzle game where you move colored shapes around the board and guide them t
+- [Coffee Color Blocks](../games/puzzle/coffee-color-blocks-2.md) — Immerse yourself in Coffee Color Blocks, a soothing puzzle adventure that challenges you to guide vibrant shapes to thei
+- [Coffee Craze   Sorting Game](../games/puzzle/coffee-craze-sorting-game.md) — You have a coffee mania? Jump into Coffee Craze, where you can show off your barista skills and enjoy a fun sorting game
+- [Coffee Shop Jigsaw](../games/puzzle/coffee-shop-jigsaw.md) — Coffee shop jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigs
+- [Coin Color Sort](../games/puzzle/coin-color-sort.md) — Get ready to relax and enjoy with this unique color-matching puzzle game! Perfect for chilling out, Color Coin Puzzle of
+- [Coin & Dash](../games/puzzle/coin-dash.md) — Dash into a whirlwind of action in Coin & Dash! Test your reflexes and precision in this ever-evolving coin-grabbing que
+- [Coin Drop](../games/puzzle/coin-drop.md) — Play at Coin Drop and have fun with this entertaining puzzle game! The goal of the game is to get the coin into the bask
+- [Coin Drop 3D](../games/puzzle/coin-drop-3d.md) — Get that golden coin into the bucket; sounds easy, until physics gets involved. Tap the wooden planks and crates to knoc
+- [Coin Merge Machine](../games/puzzle/coin-merge-machine.md) — Dive into the mesmerizing world of "Coin Merge Machine," where simple mechanics meet exhilarating physics. Strategize yo
+- [Coin Sort Puzzle](../games/puzzle/coin-sort-puzzle.md) — Play now for free&mdash;fun and addictive grid gameplay. Sort and merge coins to clear the board. Test your skills and e
+- [CoinZap](../games/puzzle/coinzap.md) — CoinZap is a crypto symbols matching game where they are pushed from ground and are supposed to make chains in sky empty
+- [Collect Balls In A Cup](../games/puzzle/collect-balls-in-a-cup.md) — An exciting puzzle about balls in a cup. Your task is to make all the balls colored and collect them all in a cup. To re
+- [Collect Candy](../games/puzzle/collect-candy.md) — Collect Candy is fun collecting game.In this game you have to collect as many candies as you can before the times up.
+- [Collect Correct Gifts](../games/puzzle/collect-correct-gifts.md) — Christmas is on the doorstep and that is why we need to prepare gifts for our loved ones. In this game you have to colle
+- [Collect Em All](../games/puzzle/collect-em-all.md) — Here is a ball match-3 puzzle game with 3D colorful balls. Your target is to complete collecting marked numbers of the c
+- [Collect Honey Puzzle](../games/puzzle/collect-honey-puzzle.md) — Collect Honey Puzzle is a popular and favorite merge game. You are now in charge of collecting honey, but you need to sl
+- [Collect Like Items](../games/puzzle/collect-like-items.md) — Dive into "Collect Like Items," a thrilling match-three puzzle adventure. Strategize across 30 levels, matching five ide
+- [Collect More Candy](../games/puzzle/collect-more-candy.md) — Collect More Candy, Now !
+- [Collect the Ball](../games/puzzle/collect-the-ball.md) — The task of the game Collect the Ball is to move the white ball into a container. In this case, the ball is somewhere at
+- [Collect the Gift](../games/puzzle/collect-the-gift.md) — Guide gifts to Santa's bag by solving festive puzzles in a magical workshop. Cut ropes, launch slingshots, and trigger s
+- [Collect the Gifts](../games/puzzle/collect-the-gifts.md) — Collect only Christmas presents, and avoid the bombs that come with the presents. Try to collect as many gifts as you ca
+- [Collect the number: 8000!](../games/puzzle/collect-the-number-8000.md) — Collect the number: 8000 (8K) connecting numbers and numbers together, each step can be the last! It is very easy to los
+- [Collect Three](../games/puzzle/collect-three.md) — Dive into a captivating logic puzzle where your goal is to match and merge three identical images. Strategize to maximiz
+- [CollectBalls](../games/puzzle/collectballs.md) — In the game, we need to click to make the colored ball drop continuously and enter the box smoothly to pass the pass. Th
+- [Collection Of Classic Puzzles - 2048 - 10x10](../games/puzzle/collection-of-classic-puzzles-2048-10x10.md) — Engage in a vibrant twist on the classic 2048 puzzle with a 10x10 grid. Sharpen your strategic skills as you merge numbe
+- [Collection Shuffle](../games/puzzle/collection-shuffle.md) — Collection Shuffle
+- [Collector](../games/puzzle/collector.md) — Collector is a puzzle game where your job is to collect all yellow balls for given time. It is important to collect ball
+- [Collector Game](../games/puzzle/collector-game.md) — Control the ball and collect coins in the allotted time. The game is difficult. Simple and addictive gameplay.
+- [CollisioX](../games/puzzle/collisiox.md) — CollisioX 3D is a colorful and addictive 3D puzzle game where you swipe to move all balls and merge matching colors. Pla
+- [Color Ball Escape](../games/puzzle/color-ball-escape.md) — Color Ball Escape is a colour-matching puzzle. Marbles pour from towers onto a crowded board, and you slide holes into p
+- [Color Balls Collect](../games/puzzle/color-balls-collect.md) — Get ready to this amazing Color Balls Fill the Basket with some focusing angles to fill the basket with number of 100 Ba
+- [Color Balls Of Goo](../games/puzzle/color-balls-of-goo.md) — Are You able to collect all the purple Goo? Squash the Goo's as you roll, climb, bounce, and zoom around devilishly desi
+- [Color Blades](../games/puzzle/color-blades.md) — Get yourself into an exciting marathon of Color Blades with this amazing graphics on your PC or Mobile Device. Featuring
+- [Color Blast Puzzle](../games/puzzle/color-blast-puzzle.md) — Get ready for a colorful and satisfying puzzle adventure with Color Blast Puzzle! Tap and clear groups of matching color
+- [Color Blitz](../games/puzzle/color-blitz.md) — Color Blitz transforms match-3 gaming with its unique diagonal linking mechanic, adding depth to each strategic move. Di
+- [Color Block Blast](../games/puzzle/color-block-blast.md) — Unleash your creativity in Color Block Blast, a captivating puzzle experience where you combine colors and shapes. With 
+- [Color Block Jam](../games/puzzle/color-block-jam.md) — Dive into Color Block Jam, where vibrant puzzles meet strategic mind games. Slide colorful blocks to their matching exit
+- [Color Block Jam](../games/puzzle/color-block-jam-2.md) — Dive into a vivid world of puzzles with Color Block Jam! Strategically slide colorful blocks to align them perfectly and
+- [Color Block Out!](../games/puzzle/color-block-out.md) — Slide, match, and clear colorful blocks in this addictive puzzle adventure! Move each block to its matching door, avoid 
+- [Color Block Puzzle](../games/puzzle/color-block-puzzle.md) — Challenge your mind with our puzzle game! In Color Block Puzzle, players face a series of exciting challenges, where the
+- [Color Block - Puzzle](../games/puzzle/color-block-puzzle-2.md) — Unleash your creativity in Color Block - Puzzle, an addictive game where you replicate intricate patterns using vibrant 
+- [Color Block Puzzle Game](../games/puzzle/color-block-puzzle-game.md) — Slide, strategize, and solve vibrant challenges in Color Block Puzzle. Maneuver blocks, clear pathways, and tackle mind-
+- [Color Blocks 1010](../games/puzzle/color-blocks-1010.md) — Strategically place vibrant blocks on the grid to clear lines and create space in Color Blocks 1010. This endlessly enga
+- [Color Blocks 2](../games/puzzle/color-blocks-2.md) — Color Blocks is an interesting puzzle color game. There are some filled blocks and empty blocks. Click the filled blocks
+- [Color Blocks](../games/puzzle/color-blocks-3.md) — Strategically drag and drop blocks to fill grids, clearing columns or rows without leaving gaps. A simple yet addictive 
+- [Color Blocks TLG](../games/puzzle/color-blocks-tlg.md) — Turning to the playing field of the online Color Blocks game, you will be faced with the task of filling out a full vert
+- [Color Bouncer Puzzle](../games/puzzle/color-bouncer-puzzle.md) — Test your strategic skills with Color Bouncer Puzzle, where every swipe matters. Navigate the vibrant levels by bouncing
+- [Color Boxes](../games/puzzle/color-boxes.md) — Your aim is to collect boxes that enter the screen. They are in two colors, black and white and you can change the color
+- [Color Boxes Of Goo](../games/puzzle/color-boxes-of-goo.md) — Are you able to collect all the purple Goo? Embark on an exciting adventure in this engaging physics-based puzzle game w
+- [Color Bubble Shooter](../games/puzzle/color-bubble-shooter.md) — Color Bubble Shooter game is a classic arcade puzzle game that masterfully combines simplicity with deep, engaging strat
+- [Color Bubbles Ultra](../games/puzzle/color-bubbles-ultra.md) — Pop all the colorful bubbles by shooting at them, and get to the boss faster than they get close to you. The faster and 
+- [Color Burst 3D](../games/puzzle/color-burst-3d.md) — Control the ball to pass through the part of the same color in the circle. It is a very casual and interesting game. Com
+- [Color Cell](../games/puzzle/color-cell.md) — Color Cell is a puzzle game with colored blocks. The goal of this game is to create 4 blocks with matching colors to cle
+- [Color Circle](../games/puzzle/color-circle.md) — Color Circle is a fun skill game that tests your reflexes and concentration. In the game, you control a multi-colored ro
+- [Color Circle 2](../games/puzzle/color-circle-2.md) — Tap on the screen to rotate the circle and to match circle color with ball color.
+- [Color Circle Puzzle](../games/puzzle/color-circle-puzzle.md) — This game is very similar to tic tac toe, but the difference is that at this game you can play with more circles in one 
+- [Color Clock](../games/puzzle/color-clock.md) — Color Clock is game where you need to tap on the screen when clock arrow color is on the same color on the clock.
+- [Color Connector](../games/puzzle/color-connector.md) — Dive into Color Connector, a vibrant puzzle adventure where strategy and logic meet colorful fun. Link matching blocks t
+- [Color Cross 2](../games/puzzle/color-cross-2.md) — Color Cross 2 is a puzzle-arcade game with constantly changing platforms! With every hop, the environment swaps. Can you
+- [Color Cube Puzzle](../games/puzzle/color-cube-puzzle.md) — Color Cube Puzzle is a relaxing logic puzzle where you need to plan every move and position shapes correctly on the boar
+- [Color Dots Challenge](../games/puzzle/color-dots-challenge.md) — Color Dots is a simple yet addictive puzzle game where you'll Place each dot into its matching slot aim for precision En
+- [Color Drop](../games/puzzle/color-drop.md) — Color Drop is a puzzle game, and the goal at this game is to control the colored ball to pass over circle or cross obsta
+- [Color Exchange](../games/puzzle/color-exchange.md) — Try to jump as high into the air as you swap colors on your way up. Do not hit the wrong colors or your ball will fly ap
+- [Color Fall Game](../games/puzzle/color-fall-game.md) — Fill trucks with the appropriate color by moving sliding pins that can go up, down, left or right. Move the colors aroun
+- [Color Falling Balls](../games/puzzle/color-falling-balls.md) — Both Balls need to be with same colors when they touch each other. If the Balls is with different color the game will ov
+- [Color Fill 3D](../games/puzzle/color-fill-3d-2.md) — Immerse yourself in Color Fill 3D, where strategic thinking and precision are key. Masterfully navigate vibrant blocks a
+- [Color Fill 3D Bottle](../games/puzzle/color-fill-3d-bottle.md) — Once you start, you will never stop playing. Just one objective: Fill the board. Very easy gameplay mechanics with hundr
+- [Color Fill Game](../games/puzzle/color-fill-game.md) — Color Fill is a free online mini-game for all kids that uses blocks as a filling background color. The gameplay is very 
+- [Color Flow](../games/puzzle/color-flow.md) — This game has a very simple yet challenging game play. You will start from the top right tile and have to match its colo
+- [Color Flows](../games/puzzle/color-flows.md) — Color Flows is puzzle game where you need to color all tiles with the same color in 22 moves or less. So make strategy a
+- [Color Genious](../games/puzzle/color-genious.md) — welcome to Color Genious Draw colorful lines and match them with the target. Click the help button to help you with colo
+- [Color Hoop: Sort Puzzle](../games/puzzle/color-hoop-sort-puzzle.md) — Welcome to Color Hoop: Sort Puzzle Game, the ultimate game of your sorting color and puzzle game solving skills! Immerse
+- [Color Hoop Stack](../games/puzzle/color-hoop-stack.md) — Color Hoop Stack is a free and leisure online puzzle game for boys played on PuzzleGame, The game has a large number of 
+- [Color Jam 3D](../games/puzzle/color-jam-3d.md) — Color Jam 3D is a fun and relaxing match-and-merge puzzle game! Combine crayons of the same colors to fill the picture a
+- [Color Jam 3D](../games/puzzle/color-jam-3d-2.md) — Dive into Color Jam 3D, where creativity meets puzzle-solving! Merge matching crayons to fill pictures with vivid hues, 
+- [Color Line 3D](../games/puzzle/color-line-3d.md) — Crazy Ball 3D is an excellent 3D ball game that will make you super happy and addicted to the game with simple and easy 
+- [Color Lines 98](../games/puzzle/color-lines-98.md) — Try to remove lines of marbles before the board is full! Every move 3 new marbles will appear and you can move 1 to a ne
+- [Color Lines Deluxe](../games/puzzle/color-lines-deluxe.md) — Color Lines Deluxe is a online game that you can play for free. Same color can change into another color, is that sounds
+- [Color Liquid Sorting](../games/puzzle/color-liquid-sorting.md) — A new sorting game awaits you in Color Liquid Sorting. We mixed a multi-colored liquid in flasks, but so. So that it doe
+- [Color Loom Puzzle](../games/puzzle/color-loom-puzzle.md) — Color Loom Puzzle is a vibrant and engaging puzzle game where colorful threads descend through multiple columns, waiting
+- [Color Madness   Spot the Differences](../games/puzzle/color-madness-spot-the-differences.md) — This game will take you on a color journey through pixel art, where you can test your powers of observation. Compare two
+- [Color Match 3D](../games/puzzle/color-match-3d.md) — How much do you know knowledge of color matching? Color Match provides you with a chance to learn how to make different 
+- [Color Match 3D Game](../games/puzzle/color-match-3d-game.md) — Color Match 3D is a very fun online puzzle game for boys for free. You can paint anytime and anywhere. According to the 
+- [Color Match Puzzle](../games/puzzle/color-match-puzzle.md) — A color-matching puzzle game where you pick tiles and match three of the same color to clear them from the board. The ga
+- [Color Maze Game](../games/puzzle/color-maze-game.md) — Navigate vibrant mazes by guiding a ball and coloring every path. With 100 unique puzzles, unlock new challenges and cus
+- [Color Maze Puzzle](../games/puzzle/color-maze-puzzle.md) — Color Maze Puzzle is an amazing puzzle for kids
+- [Color Maze Puzzle](../games/puzzle/color-maze-puzzle-3.md) — Navigate intricate mazes and paint vibrant paths in Color Maze Puzzle. With each move, strategically fill the labyrinth 
+- [Color Maze Star Search](../games/puzzle/color-maze-star-search.md) — Navigate vibrant mazes with a spiky ball that moves relentlessly until stopped. Strategically use obstacles to collect s
+- [Color Me](../games/puzzle/color-me.md) — Color Me is a fascinating puzzle game that challenges your problem-solving and visual perception skills. In each level, 
+- [Color Me](../games/puzzle/color-me-2.md) — Immerse yourself in the calming world of Color Me, a puzzle game where your creativity drives the challenge. Match patte
+- [Color Merger](../games/puzzle/color-merger.md) — Test your reflexes in Color Merger! Match cubes with walls by color before time runs out in this fast-paced arcade chall
+- [Color Mill](../games/puzzle/color-mill.md) — Color Mill is puzzle game where you need to catch flour bags of a different color to the color that will match with the 
+- [Color Mosaic](../games/puzzle/color-mosaic.md) — Enjoy a relaxing logic puzzle built around colorful shapes. Drag pieces onto empty cells and create groups of the same c
+- [Color Page ASMR](../games/puzzle/color-page-asmr.md) — Color Page ASMR is a very casual painting game, suitable for all ages to spend time. Pick up a brush, follow the tutoria
+- [Color Path Game](../games/puzzle/color-path-game.md) — Welcome to Color Path Game, a relaxing yet challenging puzzle adventure where colors, paths, and smart thinking come tog
+- [Color Pixel Flow](../games/puzzle/color-pixel-flow.md) — Send pigs onto the conveyor to rain balls onto matching pixel cubes. Each pig has a number above its head&mdash;this is 
+- [Color Pong](../games/puzzle/color-pong.md) — In this game, you should do your best to keep hitting the ball for as long as possible. But note that you must hit it wi
+- [Color Pong Game](../games/puzzle/color-pong-game.md) — Color Pong is puzzle game where you need to click on game to rotate the big balls to be same color with small ball who i
+- [Color Puzzle](../games/puzzle/color-puzzle.md) — Fill the corresponding colors into the corresponding boxes and form patterns.
+- [Color Ring Sort](../games/puzzle/color-ring-sort.md) — Color ring class is a very fun casual puzzle game, color ring class has a very simple game, the gameplay is very simple,
+- [Color Ring Sorting Match](../games/puzzle/color-ring-sorting-match.md) — Color Ring - Sorting Match is a vibrant and addictive sorting challenge that turns simple ring stacking into a clever st
+- [Color Rings](../games/puzzle/color-rings.md) — Match at least three rings in a row with the same color or stack three rings of the same color.
+- [Color Rings Online](../games/puzzle/color-rings-online.md) — Color Rings Online is a simple but addictive colorful puzzle game! Simple, fun and pleasurable color game for all adults
+- [Color Rope](../games/puzzle/color-rope.md) — Here new Rope Game with Color Puzzle , Roll to Connect Same Color Ropes avoid Obstacles Match them Ropes .
+- [Color Rotater - Puzzle](../games/puzzle/color-rotater-puzzle.md) — Color Rotater - Puzzle invites you to rotate vibrant blocks, aligning them for thrilling match-3 action. Simple tap cont
+- [Color Run](../games/puzzle/color-run.md) — Avoid obstacles and collect colored pens along the way. Be careful of obstacles. They will intercept your pencils and af
+- [Color Saw 3D](../games/puzzle/color-saw-3d.md) — Ever wanted to do carpentry but like to keep your fingers intact? With Color Saw, you can do both! Shape your rough bloc
+- [Color Screw 3D](../games/puzzle/color-screw-3d.md) — Color Screw 3D: Master the Twist! Welcome to the ultimate 3D puzzle challenge! Dive into a vibrant world of mechanical p
+- [Color Screw Rescue Puzzle](../games/puzzle/color-screw-rescue-puzzle.md) — Color Screw Rescue Puzzle challenges your brain with colorful screws, tricky layouts, and exciting rescue missions. Ever
+- [Color Slide](../games/puzzle/color-slide.md) — Color slide is a colorful game, every level and every retry gives you a different set of colors, Filled with challenging
+- [Color Snake Run](../games/puzzle/color-snake-run.md) — Dive into the vibrant world of Color Snake Run 3D Game, an exciting and addictive arcade experience where speed, focus, 
+- [Color Sort Impostor Edition](../games/puzzle/color-sort-impostor-edition.md) — Color Sort Impostor Edition is a fun and relaxing puzzle game that challenges your logic and focus. Sort the colorful ch
+- [Color Sort Mania](../games/puzzle/color-sort-mania.md) — Forget about the everyday life and indulge in a simple world where sorting is an art. Put the bubbles in the most strate
+- [Color Sort Puzzle](../games/puzzle/color-sort-puzzle.md) — Spend your time wisely, relaxing and training your mind all at once! Put the water in the most strategic flask and enjoy
+- [Color Sort Puzzle Milk Tea Sorting](../games/puzzle/color-sort-puzzle-milk-tea-sorting.md) — Color Sort Puzzle: Water Sorting is a fun and addictive liquid sorting puzzle game that challenges your logic and proble
+- [Color Sort Puzzles](../games/puzzle/color-sort-puzzles.md) — Dive into the captivating world of Color Sort Puzzles, where strategic thinking transforms vividly colored water into ha
+- [Color Sorting](../games/puzzle/color-sorting.md) — Color Sort is a puzzle made entirely of colour — not a water sort, and nothing is poured. Each board is one continuous g
+- [Color Sorting: Rooms](../games/puzzle/color-sorting-rooms.md) — Color Sorting: Rooms is a relaxing and engaging puzzle game where you sort colorful liquids into the correct flasks. Eac
+- [Color Spin 2](../games/puzzle/color-spin-2.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Color Square](../games/puzzle/color-square.md) — Color Square is touch game where you need to touch on the screen to change the color of square. The main square must to 
+- [Color Strings](../games/puzzle/color-strings.md) — Immerse yourself in Color Strings, where colorful threads weave through intricate puzzles. Strategically unravel and ali
+- [Color Sudoku](../games/puzzle/color-sudoku.md) — Dive into the colorful world of Color Sudoku, where Sudoku meets vibrant hues. Substitute numbers with colors and strate
+- [Color Up](../games/puzzle/color-up.md) — Control the ball during the gameplay. There will be horizontal bricks with different colors. The ball will be bouncing o
+- [Color Valley Deluxe](../games/puzzle/color-valley-deluxe.md) — How high can you go, and can you hit the right color when you get there? The object of Color Valley is to make a ball ju
+- [Color Water Sort 3D](../games/puzzle/color-water-sort-3d.md) — Color Water Sort 3D is a fun and challenging 3D casual puzzle game. The core concept revolves around sorting chaotic col
+- [Color Wood Animal Jam](../games/puzzle/color-wood-animal-jam.md) — Begin a charming logic puzzle match game in Color Wood Animal Jam. Drag the colorful wooden animal pieces into their cor
+- [Color Yarn Sort](../games/puzzle/color-yarn-sort.md) — Color Yarn Sort is a fun and relaxing puzzle game where you need to sort colorful spools of yarn into their matching buc
+- [ColorBlockJam](../games/puzzle/colorblockjam.md) — Move the colored blocks out of the exits of the same color. The game has multiple levels, and various items will randoml
+- [ColorBox Puzzle](../games/puzzle/colorbox-puzzle.md) — Dive into ColorBox Puzzle, where creativity meets spatial challenge. Strategically drag and drop blocks to complete intr
+- [colorcandy sort puzzle](../games/puzzle/colorcandy-sort-puzzle.md) — Welcome to our addictive and fun ball sort color puzzle game! If youre looking for a game that challenges your brain and
+- [ColorDock](../games/puzzle/colordock.md) — ColorDock is a fast and satisfying color-matching puzzle where quick thinking meets precise movement. Colored keys rain 
+- [Colored Circle](../games/puzzle/colored-circle.md) — A ball is bouncing inside the circle and you have to make sure it keeps doing so! Note that the ball will only bounce if
+- [Colored Circles](../games/puzzle/colored-circles.md) — Tap on the screen to rotate the circle and to put the colored ball on same color on circle.
+- [Colored Clock](../games/puzzle/colored-clock.md) — Tap on screen to get the correct color on the arrow with colors on clock. The arrow will move left or right and with dif
+- [Colored Jumper](../games/puzzle/colored-jumper.md) — Your reaction will stand up to the rigors of Colored Jumper. By clicking on the screen, you will provoke the ball to fal
+- [Colored Maze Puzzle](../games/puzzle/colored-maze-puzzle.md) — In the Color Maze Puzzle, players are challenged to color all the mazes using a limited number of moves. Each maze prese
+- [Colored Rings](../games/puzzle/colored-rings.md) — Play Colored Rings game online and for free. In it we invite you to solve a puzzle that will be related to rings. In fro
+- [Colored Squares](../games/puzzle/colored-squares.md) — Tap on the screen to avoid the ball touching the same coloring wall.
+- [Colored Wall Game](../games/puzzle/colored-wall-game.md) — Jump to go through the colored wall, watch the ball and its color. The game is difficult. Simple and addictive gameplay
+- [Colored Water & Pin](../games/puzzle/colored-water-pin.md) — Colored Water & Pin is a free online game from genre of puzzle and logic games. In this game you have a total of 30 leve
+- [Colorful Clock](../games/puzzle/colorful-clock.md) — The clock is moving very fast and in a very weird way! All you have to do is to match the color of the clock’s hand with
+- [Colorful Cubes](../games/puzzle/colorful-cubes.md) — This is a game where the player uses colorful cubes to paint the required number of small white platforms. During the ga
+- [Colorful Dinosaurs Match 3](../games/puzzle/colorful-dinosaurs-match-3.md) — Colorful Dinosaurs Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a s
+- [Colorful Dragons Match 3](../games/puzzle/colorful-dragons-match-3.md) — Colorful Dragons Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a ser
+- [Colorful Girl Jigsaw](../games/puzzle/colorful-girl-jigsaw.md) — Colorful girl jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct ji
+- [Colorful Greedy Snake](../games/puzzle/colorful-greedy-snake.md) — It is a super fun casual competitive game, not only competing hand speed, but also testing your strategy, full of demon 
+- [Colorful Skull Jigsaw](../games/puzzle/colorful-skull-jigsaw.md) — Colorful Skull Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images a
+- [Colorful Vehicles Memory](../games/puzzle/colorful-vehicles-memory.md) — Colorful Vehicles Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try to 
+- [Colorify   Color by Number](../games/puzzle/colorify-color-by-number.md) — Colorify is a relaxing Color by Number puzzle game where you paint beautiful pixel artworks using numbered colors. Compl
+- [Coloron](../games/puzzle/coloron.md) — An excellent game will test your reaction and decision-making speed. The bouncing ball changes color. Click on the bar t
+- [Colors&Forms](../games/puzzle/colors-forms.md) — Colors&Forms is a thrilling online game that tests your reflexes and strategy. Enjoy a variety of entertaining puzzles a
+- [Colors Grid](../games/puzzle/colors-grid.md) — Colors Grid you face visual puzzle challenges. Organize colored squares to match a specific pattern. With each level, co
+- [Colors Maze](../games/puzzle/colors-maze.md) — Illuminate every path in Colors Maze, a thrilling puzzle adventure that challenges your problem-solving skills across 20
+- [Colors Mumble](../games/puzzle/colors-mumble.md) — Unscramble as many five-letter words as you can without running out of time. With two game modalities, you will be enter
+- [Colors Pins](../games/puzzle/colors-pins.md) — Dive into a vibrant world of relaxation with Colors Pins. Sort and match colorful pins to their perfect boxes across ove
+- [Colors Pressing](../games/puzzle/colors-pressing.md) — Colors Pressing is an tap game. Destroy same colors as in press bars for correct conveyor process. Be careful and filter
+- [Colors Run Game](../games/puzzle/colors-run-game.md) — Change the color of the disk with the help of three colored buttons to carefully watch the balls coming. The game is dif
+- [Colors Separation](../games/puzzle/colors-separation-2.md) — Immerse yourself in a tranquil puzzle experience with Colors Separation. Enjoy the freedom of unlocked levels as you dra
+- [Colors Swap](../games/puzzle/colors-swap.md) — Your mission is to try to jump as high into the air as you swap colors on your way up. Must hit the write colors or your
+- [ColorTurntable](../games/puzzle/colorturntable.md) — This is an entertainment game with rich and fresh colors. The operation of the game is simple and full of fun. It's time
+- [Colour Box Fill](../games/puzzle/colour-box-fill.md) — Slide on the screen, the cube moves with your finger and it fill the place with his color, you have to avoid obstacles, 
+- [Colour Bubble Touch](../games/puzzle/colour-bubble-touch.md) — Dive into the vibrant world of Colour Bubble Touch, where every tap unleashes a burst of color and excitement. Hone your
+- [Colour Chain](../games/puzzle/colour-chain.md) — Do you love knots puzzle? Sort colorful chains onto poles to untie the knots! How far can you go?
+- [Colour chain 2](../games/puzzle/colour-chain-2.md) — Do you love knots puzzle? Sort colourful chains onto poles to untie the knots! How far can you go?
+- [Colour Circle Puzzle](../games/puzzle/colour-circle-puzzle.md) — Dive into a vibrant world where every move counts in Colour Circle Puzzle. Strategically drag and drop colorful rings to
+- [Colour Fill](../games/puzzle/colour-fill.md) — Your newest addiction comes in 3D! Very easy to play, too hard to master Do not touch other Colors, that is it!
+- [Colour Fill 3D](../games/puzzle/colour-fill-3d.md) — Calling all painters and art games lovers! I can Paint is the painting art game you’ve been waiting for. First, mix and 
+- [Colour Fill Game](../games/puzzle/colour-fill-game.md) — Slide on the screen, the cube moves with your finger and it fill the place with his color, you have to avoid obstacles, 
+- [Colourful Flower Garden Jigsaw](../games/puzzle/colourful-flower-garden-jigsaw.md) — Colourful flower Garden jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the 
+- [Colourful Piano Jigsaw](../games/puzzle/colourful-piano-jigsaw.md) — Colourful Piano jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct 
+- [Combo Crush](../games/puzzle/combo-crush.md) — Combo Crush is a fast-paced, addictive puzzle game where strategy meets satisfaction. Your goal is simple: find groups o
+- [Commander](../games/puzzle/commander.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Compass Direction Jigsaw](../games/puzzle/compass-direction-jigsaw.md) — Compass Direction jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correc
+- [Connect 3](../games/puzzle/connect-3.md) — Connect 3 captivates with its strategic puzzle challenges, requiring players to align matching elements amidst rising di
+- [Connect A Dot](../games/puzzle/connect-a-dot.md) — Connect A Dot is puzzle game where you need to connect the numbers in order from smallest to largest number to get the p
+- [Connect and Merge](../games/puzzle/connect-and-merge.md) — Make lines connecting as many points as possible. The longer the line, the more points you get. When you connect the sam
+- [Connect Animal](../games/puzzle/connect-animal.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Connect Associations](../games/puzzle/connect-associations.md) — A set of words hides several meaningful connections. Find four words that share a theme and merge them step by step into
+- [Connect Colors](../games/puzzle/connect-colors.md) — Play Connect Colors game online and for free. This is a game where you have to connect the dots without crossing the lin
+- [Connect Dots Game](../games/puzzle/connect-dots-game.md) — Connect Dots is a free and interesting online puzzle game for boys. This game is very addictive to play. You need to con
+- [Connect Dots Puzzle Game](../games/puzzle/connect-dots-puzzle-game.md) — Embark on a captivating journey of mind-bending puzzles with Connect Dots! Engage your strategic thinking and visual per
+- [Connect Dotts](../games/puzzle/connect-dotts.md) — Connect Dots is a classic and challenging puzzle game. Your goal is to connect all the dots using horizontal and vertica
+- [Connect Fruits](../games/puzzle/connect-fruits.md) — Juice Fresh - is a fruit connect game to where you have to connect fruits and make yourself a juice in limited moves. Ge
+- [Connect: Fruits and Vegetables](../games/puzzle/connect-fruits-and-vegetables.md) — Play and relax in your free time! You need to find and connect two identical tiles. It is a game with with the theme of 
+- [Connect Game](../games/puzzle/connect-game.md) — Connect is a highly addictive bubble game that challenges players to connect as many bubbles of the same color as possib
+- [Connect Glow Game Puzzle](../games/puzzle/connect-glow-game-puzzle.md) — Connect Glow is one of the simple and addictive line puzzle game. Play Calming & Relaxing games today and have fun conne
+- [Connect Glow Lamp](../games/puzzle/connect-glow-lamp.md) — You can grow your problem-solving skills, including logic, pattern recognition or sequence solving. Also you can enjoy t
+- [Connect Image Master](../games/puzzle/connect-image-master.md) — Immerse yourself in the intriguing world of Connect Image Master, where each puzzle challenges your logic and visual acu
+- [Connect Image Puzzle](../games/puzzle/connect-image-puzzle.md) — Connect Puzzle Image goes beyond just solving puzzles. It nurtures your creativity and attention to detail, while provid
+- [Connect it Now](../games/puzzle/connect-it-now.md) — Download FREE puzzle game and enjoy the tricks of light. Use lasers, mirrors, portals, glasses and other elements to con
+- [Connect Jellies Memory Game](../games/puzzle/connect-jellies-memory-game.md) — This game is a memory game. you have to connect the jellies with hearts chain without overlapping any heart chain. but y
+- [Connect Line](../games/puzzle/connect-line.md) — Connect Lines is a puzzle game in which the goal is to rotate line-segments so that together they form a continuous conn
+- [Connect Master](../games/puzzle/connect-master.md) — Connect Masteris an adventure-themed connect pair matching puzzle game with various game theme skins. Let you go on an a
+- [Connect Me Puzzle Game](../games/puzzle/connect-me-puzzle-game.md) — You should put the tiles in the correct position by dragging, dropping and rotating. Connect Me is a relaxing, mind-bend
+- [Connect: Monsters](../games/puzzle/connect-monsters.md) — Connect: Monsters is a fun online puzzle game that enhances your mental skills through monster matching. Compete with fr
+- [Connect Numbers](../games/puzzle/connect-numbers.md) — This game challenges players to quickly move and swap numbers to connect them in order, either from smallest to largest 
+- [Connect Pokémon Classic](../games/puzzle/connect-pok-mon-classic.md) — A fun and addictive matching game. You need to find all the pairs of Pokémon tiles (by tapping them) within a certain am
+- [Connect Puzzle](../games/puzzle/connect-puzzle.md) — Connect Puzzle is a fun and satisfying game which makes you happy and enjoyable Combine the Pieces To get Surprise!! Red
+- [Connect Puzzle](../games/puzzle/connect-puzzle-2.md) — Dive into Connect Puzzle, where each level is a mind-bending challenge to link matching elements without crossing paths.
+- [Connect Puzzle Image](../games/puzzle/connect-puzzle-image.md) — Were you one of those children who could spend hours with their puzzles, whiling away a rainy afternoon or cold winter’s
+- [Connect the Balls](../games/puzzle/connect-the-balls.md) — Connect the Balls is a challenging game where you must connect objects of the same color. Test your logic and problem-so
+- [Connect the Balls 2](../games/puzzle/connect-the-balls-2.md) — In the second part of the new online game Connect the Balls 2 you will continue to play through an interesting puzzle. I
+- [Connect the Blocks Mind Grid](../games/puzzle/connect-the-blocks-mind-grid.md) — Dive into a world of logic and strategy with Connect the Blocks Mind Grid. Tackle ever-changing tile arrangements, rotat
+- [Connect the Bubbles](../games/puzzle/connect-the-bubbles.md) — Your objective is to link bubbles of the same color. The longer chain you make, the higher your award is. Use powerful b
+- [Connect the Bubbles](../games/puzzle/connect-the-bubbles-2.md) — Connect the Bubbles is a captivating puzzle game where you strategically link colorful bubbles to clear the board and sc
+- [Connect The Dots for Kids](../games/puzzle/connect-the-dots-for-kids.md) — Connect The Dots game are designed especially for kids to lay the groundwork for number learning & tracing with the help
+- [Connect The Dots Game for Kids](../games/puzzle/connect-the-dots-game-for-kids.md) — Connect The Dots game are designed especially for kids to lay the groundwork for number learning & tracing with the help
+- [Connect The Halloween](../games/puzzle/connect-the-halloween.md) — Connect pairs of matching Halloween characters by creating a path between them. Click / Tap and drag to connect the Hall
+- [Connect the Images](../games/puzzle/connect-the-images.md) — In Connect Image, players are challenged to complete fragmented pictures by matching pieces to their corresponding shade
+- [Connect The LIGHT](../games/puzzle/connect-the-light.md) — Amazing PUZZLE game. Just connect all the paths in order to complete the meet the goal.
+- [Connect the Pipes: Connecting Tubes](../games/puzzle/connect-the-pipes-connecting-tubes.md) — Meet an exciting game "Connect the Pipes"! Connect all circles of the same color with a swipe and go to new levels! The 
+- [Connect the Pipes: Water Puzzle](../games/puzzle/connect-the-pipes-water-puzzle.md) — Dozens of unique levels await you in this exciting puzzle game, where you need to show your logic and ingenuity! There a
+- [Connect the Pipes Water Puzzle](../games/puzzle/connect-the-pipes-water-puzzle-2.md) — Navigate a vibrant maze of twisted pipes in this brain-teasing puzzle adventure. Strategically rotate and connect pipes 
+- [Connect The Satellite](../games/puzzle/connect-the-satellite.md) — Connect The Satellite is an engaging puzzle game set in the vastness of space. Players must strategically link satellite
+- [Connect the Water Pipes](../games/puzzle/connect-the-water-pipes.md) — Dive into Connect the Water Pipes, a vibrant puzzle game that challenges your logic and creativity. Navigate through int
+- [Connect Water puzzle](../games/puzzle/connect-water-puzzle.md) — Rotate the pipes to connect them and guide water to all the trees in this challenging puzzle game. Match the color of th
+- [Connect Words 2026](../games/puzzle/connect-words-2026.md) — 🧠 “Connect Words 2026” is not just a word game — it is a whole collection of engaging word mini-games in one app! Conne
+- [Connecting Flowers: Garden Merge](../games/puzzle/connecting-flowers-garden-merge.md) — Playing "Connecting Flowers: Garden Merge" is an enjoyable and calming experience where you compete with other players b
+- [Connecting Pipes 3D](../games/puzzle/connecting-pipes-3d.md) — The flowers need water! Let connect the pipes to have water!
+- [Connecting the dots](../games/puzzle/connecting-the-dots.md) — It's a very engaging, fun, educational and challenging casual game. Create images easily by connecting the dots and crea
+- [Connector](../games/puzzle/connector.md) — In Connector, twist and shift dynamic tiles to forge an unbroken path from battery to bulb. With each clever solution, w
+- [CONNECTOR GAME](../games/puzzle/connector-game.md) — Fix all unconnected wires from energy source into a light bulb to turn it on.
+- [Connector Puzzle](../games/puzzle/connector-puzzle.md) — Connector Puzzle invites you into a world where logic meets creativity. Strategically connect all the dots without any g
+- [Connectors](../games/puzzle/connectors.md) — Connector is a HTML5 puzzle game, the aim of the game is to fix all unconnected wires from energy source into a light bu
+- [Conquer the galaxy-3](../games/puzzle/conquer-the-galaxy-3.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Constella - single line puzzle](../games/puzzle/constella-single-line-puzzle.md) — Starlight - Single Line Drawing Puzzles Relax and unwind as you connect the stars to reveal beautiful constellations in 
+- [Constellation Energy Lines](../games/puzzle/constellation-energy-lines.md) — If you love space and stars and if you to love constellations and astrology, it’s reallytime to play to this cosmic game
+- [Construction Set](../games/puzzle/construction-set.md) — Lego games are popular all over the world. You can use all kinds of small parts to form incredible three-dimensional puz
+- [Construction Set - 3D Builder](../games/puzzle/construction-set-3d-builder-2.md) — Unleash your inner architect in Construction Set - 3D Builder. Design and assemble stunning 3D structures from simple pa
+- [Construction Trucks Hidden](../games/puzzle/construction-trucks-hidden.md) — Construction Trucks Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and try t
+- [Construction Trucks Hidden Diggers](../games/puzzle/construction-trucks-hidden-diggers.md) — Construction Trucks Hidden Diggers is a hidden object game. This game has six levels and in each of them there are small
+- [Construction Trucks Jigsaw](../games/puzzle/construction-trucks-jigsaw.md) — This is jigsaw game with construction trucks. Start to play choose how hard the level to be and get the image with const
+- [Construction Vehicles Jigsaw](../games/puzzle/construction-vehicles-jigsaw.md) — In this Construction Vehicles Jigsaw game you have 6 images of construction vehicle in three modes to play. Choose one o
+- [Construction Vehicles Toys Puzzle](../games/puzzle/construction-vehicles-toys-puzzle.md) — In this Construction Vehicles Toys Puzzle game you have 6 images of construction vehicle in three modes to play. Choose 
+- [Construction Worker Bubble Shooter](../games/puzzle/construction-worker-bubble-shooter.md) — Embark on a demolition frenzy in Construction Worker Bubble Shooter! Blast through vibrant obstacles with explosive prec
+- [Container Trucks Jigsaw](../games/puzzle/container-trucks-jigsaw.md) — Container Trucks Jigsaw is jigsaw puzzle game with container trucks. You can play in 12 levels in this game. Select imag
+- [Contrast](../games/puzzle/contrast.md) — Contrast is a clean and engaging puzzle game that challenges your observation skills across 20 thoughtfully designed lev
+- [Contrast   Kids](../games/puzzle/contrast-kids.md) — Contract - Kids: is a game which is an easier made version of our original game Contrast :) This is done to help childre
+- [Control](../games/puzzle/control.md) — Control is one kind of casual puzzle game, or brick game where you need to save the ball from falling down. You need to 
+- [Convertible Cars Jigsaw](../games/puzzle/convertible-cars-jigsaw.md) — Convertible Cars Jigsaw is a game where you need to put the pieces together in right place and to get the image with Con
+- [Cookie Blast](../games/puzzle/cookie-blast.md) — Cookie Blast, classic match 3 candy puzzle game, with HD graphic and amazing effects! cookie blast is an addictive,excit
+- [Cookie Crunch](../games/puzzle/cookie-crunch.md) — Are you looking for a fun match 3 game? You do not have to spend time because cookie Crunch legend is what you want! Coo
+- [Cookie Crush Pokemon](../games/puzzle/cookie-crush-pokemon.md) — Welcome to Cookie Crush Pokemon Swipe and match 3 or more similar cookies and feed your pokemon monster. Try to complete
+- [Cookie Crush Saga](../games/puzzle/cookie-crush-saga.md) — Here is the new innovative candy match-3 game! Swap candies to make sweet lines of 3 or more to create candy blasts! Mat
+- [Cookie  Mania](../games/puzzle/cookie-mania.md) — Discover this classic game which combines the best of Mahjong and Match 3 features and challenges. Set in a beautiful an
+- [Cookie Match](../games/puzzle/cookie-match.md) — Cookie Match is a sliding puzzle game where you must match each cookie to its corresponding cutter.
+- [Cookie Match](../games/puzzle/cookie-match-3.md) — Guide cookies to their cutters in this deliciously strategic puzzle game. Maneuver through obstacles like sharp knives, 
+- [Cookie Merge](../games/puzzle/cookie-merge.md) — Welcome to Cookie Merge, a new amazing match 3 game. All you have to do is to place three similar candies next to each o
+- [Cookie Party Pop](../games/puzzle/cookie-party-pop.md) — Cookie Party Pop - is a match-3 games in jellies setting.Match 3 or more of the same type and take your score higher. Fu
+- [Cookie Rush](../games/puzzle/cookie-rush.md) — Here is the new innovative Cookie Rush game! Swap candies to make sweet lines of 3 or more to create candy blasts! Match
+- [Cookie Unfold](../games/puzzle/cookie-unfold.md) — Unleash your inner puzzler in Cookie Unfold! Dive into delightful cookie puzzles by tapping and swiping to uncover hidde
+- [CookieNyan](../games/puzzle/cookienyan.md) — Indulge in CookieNyan's delightful puzzle extravaganza, where matching cookies unlocks a sweet symphony of shapes. Strat
+- [Cookies Match 3](../games/puzzle/cookies-match-3.md) — In this game you need to matching 3 or more cookies and to destroy them. With ten moves you need to destroy the given co
+- [Cooking Match](../games/puzzle/cooking-match.md) — Cooking Match 3 Puzzle Game is a fun and exciting game that allows you to play for hours.Cooking Match 3 Puzzle Game - P
+- [Cooking Match](../games/puzzle/cooking-match-2.md) — Dive into a vibrant culinary adventure with Cooking Match, where strategic moves and rapid thinking turn ingredients int
+- [Cool Cars Jigsaw Puzzle](../games/puzzle/cool-cars-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the cool cars. The game comes 
+- [Cool Cars Jigsaw Puzzle 2](../games/puzzle/cool-cars-jigsaw-puzzle-2.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the cool cars. The game comes 
+- [Cool Cars Memory](../games/puzzle/cool-cars-memory.md) — Cool Cars Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try to match th
+- [Cool Chill Guy Hidden Cheese](../games/puzzle/cool-chill-guy-hidden-cheese.md) — Chill Cool Hidden Cheese Guy is a delightful and relaxing hidden-object game that will test your powers of observation w
+- [Cool Digital Cars Slide](../games/puzzle/cool-digital-cars-slide.md) — Play this slide puzzle games of cool digital cars. It's include 3 images and 3 modes to play.
+- [Cool Math Games for Kids 6-11](../games/puzzle/cool-math-games-for-kids-6-11.md) — SKIDOS Cool Math Games for kids age 5,6,7,8,9,10,11 year old will function as educational apps for kids which help in le
+- [Cool Tetris](../games/puzzle/cool-tetris.md) — Put the shaped blocks in the appropriate places in this old but very popular tetris game. This game gives quick thinking
+- [Coolberries](../games/puzzle/coolberries.md) — The most delicious and cool berries. Try to collect them all. It will be delicious! Combine similar berries, fruits and 
+- [Corn Puzzle – Trending Hyper Casual Game](../games/puzzle/corn-puzzle-trending-hyper-casual-game.md) — Tap to Blast the corn Have Fun,
+- [Corner Bakery](../games/puzzle/corner-bakery.md) — Welcome to Corner Bakery, a cozy merge game about good food and the people next door. Combine matching pastries and drin
+- [Corona Airplanes Hidden](../games/puzzle/corona-airplanes-hidden.md) — Corona Airplanes Hidden is a free online skill and hidden object game. Find out the hidden stars in the specified images
+- [Corona Monsters Memory](../games/puzzle/corona-monsters-memory.md) — Corona Monsters Memory is a free online game from genre of memory and monsters games. Flip the tiles and try to match th
+- [Corona Teenager Jigsaw](../games/puzzle/corona-teenager-jigsaw.md) — Corona teenager jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct 
+- [Corona Virus Jigsaw](../games/puzzle/corona-virus-jigsaw.md) — Corona Virus Jigsaw game is free online game in jigsaw puzzle genre. You have 6 images in three modes to play. Choose on
+- [Corona Virus Memory](../games/puzzle/corona-virus-memory.md) — Corona Virus Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try to match
+- [Corona virus protection jigsaw](../games/puzzle/corona-virus-protection-jigsaw.md) — Corona virus protection Jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the 
+- [Corona Warriors Thank you Jigsaw](../games/puzzle/corona-warriors-thank-you-jigsaw.md) — Corona warriors thank you jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in th
+- [Coronavirus Crush](../games/puzzle/coronavirus-crush.md) — Coronavirus Crush is a puzzle match 3 game. Collect three or more of the same virus and destroy. The aim of the game is 
+- [Coronavirus Slide](../games/puzzle/coronavirus-slide.md) — Play this slide puzzle games of the coronavirus. It's include 3 images and 3 modes to play.
+- [Correct Math](../games/puzzle/correct-math.md) — Correct Math is a mathematical game where you can test your knowledge in addition and subtraction of numbers. You will b
+- [Correct or Wrong](../games/puzzle/correct-or-wrong.md) — Correct or Wrong is mathematical logic puzzle game where you need to click on correct or wrong answer. You need to react
+- [Corsair Hidden Things](../games/puzzle/corsair-hidden-things.md) — This is a classic point and click hidden object game. You need to find all of the items listed in the picture on the lef
+- [Cosmic Connector](../games/puzzle/cosmic-connector.md) — Embark on a stellar puzzle adventure! In Cosmic Connector, draw a continuous energy path to unite the stars. Plan your c
+- [Cosmic Hunt](../games/puzzle/cosmic-hunt.md) — Cosmic Hunt blasts off into a galaxy of hidden words! Explore 8 space-themed categories - From distant Planets and blazi
+- [Cosmic Tetriz Puzzles](../games/puzzle/cosmic-tetriz-puzzles.md) — Join a cosmic puzzle adventure where Tetriz meets pixel art. Place colorful Tetriz-style pieces on a grid to create shap
+- [Cosmo Merge](../games/puzzle/cosmo-merge.md) — Drop, merge, and build a universe! In Cosmo Merge you drop adorable celestial bodies into a glass jar. When two identica
+- [Cosmo Merge](../games/puzzle/cosmo-merge-2.md) — Cosmo Merge is a relaxing yet addictive space-themed merge puzzle game. Drop celestial bodies into the cosmos and merge 
+- [Cotton Candy Shop Cook](../games/puzzle/cotton-candy-shop-cook.md) — very kid loves sweet cotton candies. A big candy shop is newly opened in the city. Do you want to be the manager of the 
+- [Count And Match Christmas](../games/puzzle/count-and-match-christmas.md) — The rules are very simple and intuitive for everyone; So You just drag' n' drop the numbers in to the match boxes! There
+- [Count The Animals](../games/puzzle/count-the-animals.md) — In this game you need to count the animals that was on the picture. click on the animals shown in the picture, and try t
+- [Couple Dance Jigsaw](../games/puzzle/couple-dance-jigsaw.md) — Couple dance jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jig
+- [Couple in Love Jigsaw](../games/puzzle/couple-in-love-jigsaw.md) — Couple in Love Jigsaw, it is a wonderful puzzle game created with the beautiful moments of the couple in love, cute, sin
+- [Couple Wedding Race Game](../games/puzzle/couple-wedding-race-game.md) — Plan your perfect wedding from head to toe in this fun dress-up and makeover game! Help the bride and groom find their d
+- [Couples Slog](../games/puzzle/couples-slog.md) — Embark on a journey with Couples Slog, where strategic anime-themed puzzles await. Strengthen your partnership as you so
+- [Courage The Cowardly Dog](../games/puzzle/courage-the-cowardly-dog.md) — Courage The Cowardly Dog is a free online difference and kids game! In this game you will need to find 7 differences in 
+- [Cover Orange Online](../games/puzzle/cover-orange-online.md) — Revisit Cover Orange in this completely new and juicy sequel made by the original team. The acid rain cloud is after you
+- [Covid Crush](../games/puzzle/covid-crush.md) — Can your health system survive a pandemic? Flattening the curve is the key to helping health systems withstand the press
+- [Cow Rescue](../games/puzzle/cow-rescue.md) — A cute cow is trapped behind a pile of wooden boards, and only you can rescue her! Match screws of the same color to rem
+- [cowboy Crazy](../games/puzzle/cowboy-crazy.md) — cowboy Crazy – this cool game three in a row, in which you have to put the blocks of the same image in a series of three
+- [Cowboy Hidden Stars](../games/puzzle/cowboy-hidden-stars.md) — Cowboy Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specified images. Ea
+- [Cowboy Vs Martians](../games/puzzle/cowboy-vs-martians.md) — It's possible now to play Cowboy Vs Martians game in your web browser for free at superkidgames.com. In this game, Cowbo
+- [Cowboys](../games/puzzle/cowboys.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Cozy Bedroom Difference](../games/puzzle/cozy-bedroom-difference.md) — Cozy Bedroom Difference is interesting kids game and it's time for you to have fun!In this game you need to find the dif
+- [Cozy Jigsaw Puzzles](../games/puzzle/cozy-jigsaw-puzzles.md) — A beautiful jigsaw puzzle game with hundreds of stunning images to assemble. Choose from 7 difficulty levels — from rela
+- [Cozy Kitchen Merge](../games/puzzle/cozy-kitchen-merge.md) — Cozy Kitchen Merge is a cute cooking puzzle where you place dishes on the tray, watch the queue, and merge 3 or more of 
+- [Cozy Office Difference](../games/puzzle/cozy-office-difference.md) — Cozy Office Difference is interesting kids game and it's time for you to have fun!In this game you need to find the diff
+- [Cozy Sort: Theme Collect](../games/puzzle/cozy-sort-theme-collect.md) — Cozy Sort: Theme Collect is a relaxing triple-match sorting puzzle game where you can organize cute items. Step into a p
+- [CPI King Connect Puzzle Image](../games/puzzle/cpi-king-connect-puzzle-image.md) — Did you spend rainy afternoons or cold winter days assembling 500-piece jigsaw puzzles of the Eiffel Tower or London Bri
+- [Crack n Pop](../games/puzzle/crack-n-pop.md) — Crack n Pop is a fast-paced, fun-filled arcade game where your reflexes and aim are put to the test! Eggs are falling fr
+- [Craft Number](../games/puzzle/craft-number.md) — Craft Number is an engaging math puzzle game where you combine numbers to reach a target value. Drag, merge, and strateg
+- [Craft Theft War](../games/puzzle/craft-theft-war.md) — Immerse yourself in the best open-world action-adventure sandbox game, Craft Theft War, inspired by pixel voxel cube cra
+- [Crafty Candy](../games/puzzle/crafty-candy.md) — Crafty Candy is a funny and amazing match3 puzzle game. Swipe to match 3 delicious candies with the same color to clear 
+- [Crafty Candy Blast - Sweet Puzzle Game](../games/puzzle/crafty-candy-blast-sweet-puzzle-game.md) — Drag a row or column to matching any 3 or more Candy Blast Master with the same color, you can eliminate them. Enjoy the
+- [Crafty Town Merge City](../games/puzzle/crafty-town-merge-city.md) — The latest strategy is here! If you want to build a town or rule your own kingdom, do it now! Here, you can build a hous
+- [Crash Bandicoot And Frog Super Shooter Bubbles](../games/puzzle/crash-bandicoot-and-frog-super-shooter-bubbles.md) — "Crash Bandicoot And Frog Super Shooter Bubbles" Play the classic and most addictive bubble pop game for FREE, match 3 c
+- [Crash Car Jigsaw](../games/puzzle/crash-car-jigsaw.md) — In Car Crash Jigsaw you can play with images with crashed cars. Choose the image with crashed cars and when pieces is sh
+- [Crash Monster Teeth](../games/puzzle/crash-monster-teeth.md) — An evil monster wants to eat you. Knock out all his teeth with a hammer. You will have a limited time. But you can get e
+- [Crayon Jigsaw Jam](../games/puzzle/crayon-jigsaw-jam.md) — Crayon Jigsaw Jam delivers hours of engaging fun by blending traditional jigsaw mechanics with colorful digital art. Cha
+- [Crazy 3](../games/puzzle/crazy-3.md) — Crazy Three is a unique puzzle game that combines stickman fights, battles, and wars with physics-based mechanics, where
+- [Crazy Among Us Jigsaw](../games/puzzle/crazy-among-us-jigsaw.md) — The puzzle game of Among Us characters is with you. These characters are crazy! Combine the pieces as soon as possible t
+- [Crazy Balls](../games/puzzle/crazy-balls.md) — Play super addictive game "Crazy Balls". Just hold, drag and release the bouncing balls to shoot all shapes. Every shape
+- [Crazy Big American Cars Memory](../games/puzzle/crazy-big-american-cars-memory.md) — Crazy Big American Cars Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and t
+- [Crazy Bikers Jigsaw](../games/puzzle/crazy-bikers-jigsaw.md) — Crazy Bikers Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and
+- [Crazy Bubble Breaker](../games/puzzle/crazy-bubble-breaker.md) — Crazy Bubble Breaker is a fun and challenging 2D bubble shooter physics puzzle game. You have to destroy all bubbles wit
+- [Crazy Bus Station!](../games/puzzle/crazy-bus-station.md) — ✨This is an exciting puzzle game in which you have to drive buses in brightly colored parking lots, solving complex prob
+- [Crazy Car City - Gta](../games/puzzle/crazy-car-city-gta.md) — Drive real, fast crime cars and pick up gangsters and crime mob bosses across the city in the most realistic crime car d
+- [Crazy Caves 3](../games/puzzle/crazy-caves-3.md) — Dig into crazy depths with this new action-loaded mining game. Destroy all rocks to earn as many gold and gems possible 
+- [Crazy Chicken Jump](../games/puzzle/crazy-chicken-jump.md) — Welcome to Crazy Chicken Jump. Crazy Chicken Jump is a jumping puzzle game. In this game, you have move the chicken left
+- [Crazy Christmas Fun](../games/puzzle/crazy-christmas-fun.md) — Christmas adventure game, many balloons have invaded the North Pole, and Santa must run to catch the gifts. But Santa ch
+- [Crazy Clay](../games/puzzle/crazy-clay.md) — This is a fun link and link game. There are a lot of cute sticky monsters here. Connect the same sticky monsters. The mo
+- [Crazy Cookies Match & Mix](../games/puzzle/crazy-cookies-match-mix.md) — Dive into a delectable world of vibrant cookies in Crazy Cookies Match & Mix! Ingeniously swap, strategize, and conquer 
+- [Crazy Cookies Match n Mix](../games/puzzle/crazy-cookies-match-n-mix.md) — We love Cookies! And this game is full of them, how great! Play your way through each yummy level by matching 3 or more 
+- [Crazy Cow](../games/puzzle/crazy-cow.md) — Roll the Cow In the Hole! Press left or right on screen to get the cow into the hole! Control a Crazy Cow and try to col
+- [Crazy Cowboy Match 3](../games/puzzle/crazy-cowboy-match-3.md) — Crazy Cowboy Match 3 – this cool game three in a row, in which you have to put the blocks of the same image in a series 
+- [Crazy Dentist Hospital](../games/puzzle/crazy-dentist-hospital.md) — Do you have unaligned or unbalanced teeth? Do you need dentist surgery simulator to align your teeth in free dentist gam
+- [Crazy Difficult Game](../games/puzzle/crazy-difficult-game.md) — The worlds most difficult game will challenge your reflexes with more than 50 levels. In the hardest game, after level 1
+- [Crazy Driver Men](../games/puzzle/crazy-driver-men.md) — Crazy Driver Men
+- [Crazy Egg Catch](../games/puzzle/crazy-egg-catch.md) — Welcome to Crazy Egg Catch Endless. In this game, you have to transport the egg into the correct conveyor belt. If you w
+- [Crazy Emoji Blast](../games/puzzle/crazy-emoji-blast.md) — Match colorful emojis, chain explosive combos, and blast your way through 10 increasingly challenging levels! Swap adjac
+- [Crazy Friends Travel  The World](../games/puzzle/crazy-friends-travel-the-world.md) — Would you like to travel in wonderful cities with Crazy Animals in 12 most beautiful countries of the world? While disco
+- [Crazy Goods Sort 3D](../games/puzzle/crazy-goods-sort-3d.md) — Ready to start a 3D puzzle thats both magical and brain-teasing? Welcome to Crazy Goods Sort 3D, where chaos meets logic
+- [Crazy Halloween Memory](../games/puzzle/crazy-halloween-memory.md) — Crazy Halloween Memory is a free online game from genre of memory and monsters games. Flip the tiles and try to match th
+- [Crazy Jelly Match](../games/puzzle/crazy-jelly-match.md) — Crazy Jelly Match is a fun Match-3 game with amazing graphics. If you are a fun of Candy Crush, then this game is for yo
+- [Crazy Kitchen Difference](../games/puzzle/crazy-kitchen-difference.md) — Now it's time for wonderful game that's called Mission in Space difference, let's have fun! Behind these pictures are sm
+- [Crazy Match-3](../games/puzzle/crazy-match-3.md) — Match 3 games are puzzle games you need to match 3 or more object by exchanging two pieces or by clicking on a group of 
+- [Crazy Merge Room](../games/puzzle/crazy-merge-room.md) — Crazy Merge Room is a fast-paced puzzle-merging game where chaos and strategy collide! Inside a mysterious room filled w
+- [Crazy Merge Room](../games/puzzle/crazy-merge-room-2.md) — Dive into the chaos of Crazy Merge Room! Slide tiles to restore wacky rooms, turning disarray into harmony. Each level p
+- [Crazy Monkey](../games/puzzle/crazy-monkey.md) — The stick monkey is a popular HTML5 game. Hold your finger on screen to make the stick grow. Stretch the stick in order 
+- [Crazy Monster Blocks](../games/puzzle/crazy-monster-blocks.md) — Welcome to our newest merge numbers game called Crazy Monster Blocks. You have to merge two blocks with the same numbers
+- [Crazy Monster Trucks Memory](../games/puzzle/crazy-monster-trucks-memory.md) — Crazy Monster Trucks Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try 
+- [Crazy Monsters Memory](../games/puzzle/crazy-monsters-memory.md) — Crazy Monsters Memory is a free online game from genre of memory and monsters games. Flip the tiles and try to match the
+- [Crazy Motocross Jumps Jigsaw](../games/puzzle/crazy-motocross-jumps-jigsaw.md) — Crazy Motocross Jumps Jigsaw is a free online game from the genre of puzzle and jigsaw games. In this game, you have a t
+- [Crazy Office Slap Smash](../games/puzzle/crazy-office-slap-smash.md) — Crazy Office Slap Smash is a fun game of slap in the office. Slide to move to slap all the characters. Finally, tap to d
+- [Crazy Pizza](../games/puzzle/crazy-pizza.md) — Tackle the chaos of running your own Italian pizzeria in Crazy Pizza! Strategically match sizzling pizzas to keep up wit
+- [Crazy Professor Bubble](../games/puzzle/crazy-professor-bubble.md) — You are playing Crazy Professor Bubble game online. Professor is trying to creating a new magic elixir and tries to mix 
+- [Crazy Rocket](../games/puzzle/crazy-rocket.md) — This game has a lot of success review and player this MONTH that significantly improves overall game performance, especi
+- [Crazy Rocket Man](../games/puzzle/crazy-rocket-man.md) — Crazy Rocket Man is an exciting and entertaining online game made especially for kids who love action and creativity! Th
+- [Crazy Room 3D](../games/puzzle/crazy-room-3d.md) — Create your puzzle logic room with Crazy Room. Enjoy a new style of play with great puzzle logic. Puzzle your next room.
+- [CRAZY WATER PARK WAR](../games/puzzle/crazy-water-park-war.md) — Cheerful water fun games, come and fight on the water in the hot summer! Move your fingers and push your friends into th
+- [Cream Candy Raining](../games/puzzle/cream-candy-raining.md) — Cream Candy Raining - The Candy strikes back with gorgeous sweet graphics and several hundreds of brand new challenging 
+- [CreamLink Kids](../games/puzzle/creamlink-kids.md) — This is an ice-cream lovers paradise game. Match-3 for icecreams, yes! thats what you got to do. Per level given targets
+- [Create Balloons](../games/puzzle/create-balloons.md) — In the game Create Balloons, you will go behind a factory where balls are produced and for this a new means of productio
+- [Creature Quest](../games/puzzle/creature-quest.md) — Guide a charming creature to its meal in Creature Quest, a delightful puzzle where strategic rope cutting meets physics-
+- [Creepy Creatures Match 3](../games/puzzle/creepy-creatures-match-3.md) — Creepy Creatures Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a ser
+- [Creepy Doll Jigsaw](../games/puzzle/creepy-doll-jigsaw.md) — Creepy doll jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigs
+- [Creepy Zombie Jigsaw](../games/puzzle/creepy-zombie-jigsaw.md) — Creepy zombie jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct ji
+- [Crime Detective - Spot Differences](../games/puzzle/crime-detective-spot-differences.md) — Unleash your inner detective in Crime Detective - Spot Differences. Solve intricate cases by spotting subtle differences
+- [Criss Cross Colors](../games/puzzle/criss-cross-colors.md) — Criss Cross Colors is a fun, addictive color-matching puzzle game that puts a vibrant twist on classic crosswords. Inste
+- [CritterMatch](../games/puzzle/crittermatch.md) — CritterMatch is a game which is full in being buggy environment. It is a match-3 game so easy puzzle but bugs make it in
+- [Crocodile Jigsaw Perfect Slide Puzzle](../games/puzzle/crocodile-jigsaw-perfect-slide-puzzle.md) — Dive into Crocodile Jigsaw Perfect Slide Puzzle, where your challenge is to artfully rearrange scrambled tiles to recrea
+- [Crocodile Memory Match](../games/puzzle/crocodile-memory-match.md) — Dive into Crocodile Memory Match, a captivating puzzle adventure! Slide tiles by tapping or clicking to piece together c
+- [Crocodile Women Eye Jigsaw](../games/puzzle/crocodile-women-eye-jigsaw.md) — Crocodile women eye jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the corr
+- [CropLink](../games/puzzle/croplink.md) — CropLink game is a match-3 game in farm setting. Farm produces (vegetables) have to be matched and you get higher score.
+- [Cross Kicks](../games/puzzle/cross-kicks.md) — Cross Kicks (Crossword Kicks) is a fun interactive Crossword Puzzle game aimed to save players money on luxurious shoes,
+- [Cross Path Puzzle Game](../games/puzzle/cross-path-puzzle-game.md) — Cross Path is a puzzle addictive game that you should fill all empty places with color lines. In first steps your job is
+- [Crossmath Challenge](../games/puzzle/crossmath-challenge.md) — CrossMath is a fast-paced number puzzle where you drag tiles into a crossword-style grid to complete math equations acro
+- [CrossPath](../games/puzzle/crosspath.md) — CrossPath is an HTML5 Puzzle Game. In this puzzle game, you should drag the diamonds to draw a line in available spaces 
+- [CrossTile](../games/puzzle/crosstile.md) — CrossTile is a relaxing word puzzle where crossword solving meets jigsaw-style gameplay.
+- [Crossword](../games/puzzle/crossword-2.md) — Dive into the timeless challenge of Crossword, where your wit and knowledge are key. Fill the grid with words by solving
+- [Crossword For Kids](../games/puzzle/crossword-for-kids.md) — The solution of crossword puzzles develops thinking, broadens the mind, promotes concentration, in general, what can I s
+- [Crossword Kingdom](../games/puzzle/crossword-kingdom.md) — Crossword Kingdom is a challenging vocabulary game where you fill in words in the given crossword puzzle. You can form a
+- [Crossword Quest 3D](../games/puzzle/crossword-quest-3d.md) — Dive into an innovative 3D crossword adventure in Crossword Quest 3D! Challenge your mind with intersecting word clues o
+- [Crossy Rails](../games/puzzle/crossy-rails.md) — Build the perfect railway and guide the train safely to its destination! Move and arrange the rail blocks in the correct
+- [Crown Jigsaw Puzzles](../games/puzzle/crown-jigsaw-puzzles.md) — Immerse yourself in a calming puzzle experience with Crown Jigsaw Puzzles. Test your focus and patience as you piece tog
+- [Cruise Ships Memory](../games/puzzle/cruise-ships-memory.md) — Cruise Ships Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try to match
+- [Crumpled Pictures](../games/puzzle/crumpled-pictures.md) — Unravel crumpled pictures to reveal their hidden beauty! Straighten, collect, and sort images into your personal album w
+- [Crunch Lock](../games/puzzle/crunch-lock-2.md) — In Crunch Lock, master the art of unscrewing through a captivating puzzle journey. Engage in strategic thinking as you t
+- [Crush Core Puzzle Chronicles Puzzle Game](../games/puzzle/crush-core-puzzle-chronicles-puzzle-game.md) — Embark on a mesmerizing journey in Crush Core Puzzle Chronicles, where vibrant blocks hold the key to ancient artifacts.
+- [Crush the blocks](../games/puzzle/crush-the-blocks.md) — Crush the blocks is a puzzle game with slider movement as its core, integrating classic mechanisms and innovative gamepl
+- [Crush to Party: Halloween Edition](../games/puzzle/crush-to-party-halloween-edition.md) — Crush and match the monsters till you make enough points to decorate your Halloween Party dream. Here you will need to b
+- [Crushing Rocket](../games/puzzle/crushing-rocket.md) — In the game, achieve victory by enhancing your cannon and shattering every pixel in your path to advance to the next lev
+- [Crypta](../games/puzzle/crypta.md) — Crypta is a memory-based card game where each card has a crypto-symbol. You have to match same type of cards by clicking
+- [Crypto Coin Clash Mania](../games/puzzle/crypto-coin-clash-mania.md) — Crypto Coin Clash Mania is an exciting match-3 puzzle game set in the world of digital currencies! Swap and match shiny 
+- [Crystal Ball Jigsaw](../games/puzzle/crystal-ball-jigsaw.md) — Crystal Ball jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jig
+- [Crystal Cave Match 3](../games/puzzle/crystal-cave-match-3.md) — Crystal Cave Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series 
+- [Crystal Craash](../games/puzzle/crystal-craash.md) — Crystal Crush is an addictive gem merge puzzle! Tap groups of 3 or more matching gems to merge them into a new gem with 
+- [Crystal Crush](../games/puzzle/crystal-crush.md) — Match the crystal blocks and help bunny to win the game. Bunny has to win the game as directed by his friend. Players mu
+- [Crystal Crush Crazy Candy Bomb Sweet match3 game](../games/puzzle/crystal-crush-crazy-candy-bomb-sweet-match3-game.md) — it's not just harvesting and fighting pests! It’s also an amazing match 3 game that will challenge your skills in variou
+- [Crystal Diamond](../games/puzzle/crystal-diamond.md) — Crystal Diamond is a fun 2D puzzle game where players match and collect shiny diamonds in a colorful world. The goal is 
+- [Crystal Treasures: Match 3](../games/puzzle/crystal-treasures-match-3.md) — Crystal Treasures: Match 3 is a colorful jewel puzzle game where players swap gems, create matches, complete level goals
+- [Crystalia](../games/puzzle/crystalia.md) — A vibrant block puzzle game. Place pieces on the board so that 3 or more blocks of the same color line up next to each o
+- [Cuban Taxi Vehicles](../games/puzzle/cuban-taxi-vehicles.md) — Cuban Taxi Vehicles game is a free online game and you have 6 images in three modes to play. Choose one of the modes for
+- [Cuban Vintage Cars Jigsaw](../games/puzzle/cuban-vintage-cars-jigsaw.md) — Cuban Vintage Cars Jigsaw game is free online game and you have 6 images in three modes to play easy, medium and hard. C
+- [Cubatoria Merge 2048](../games/puzzle/cubatoria-merge-2048.md) — Immerse yourself in Cubatoria Merge 2048, blending classic 2048 mechanics with stunning 3D visuals. Solve puzzles in a d
+- [Cube Arena  2048  Merge Numbers](../games/puzzle/cube-arena-2048-merge-numbers.md) — Cubes 2048.io is an addictive online game that fuses Snake and 2048. Get a bigger number by collecting free cubes and ea
+- [Cube Blast](../games/puzzle/cube-blast.md) — Rescue the cute little animals in Blow Up Cubes! Pop the cubes to clear the way for the animals to the bottom of the pla
+- [Cube Blast](../games/puzzle/cube-blast-2.md) — Unleash chaos in Cube Blast! Strategically align blocks to annihilate rows, earning points in this addictive puzzle fren
+- [Cube Blast](../games/puzzle/cube-blast-3.md) — Immerse yourself in the vibrant world of Cube Blast, where tapping two or more matching cubes unlocks explosive fun. Sol
+- [Cube Blast: Match Block Puzzle Game](../games/puzzle/cube-blast-match-block-puzzle-game.md) — Play the most popular blast game, Full of challenges and fun! Come to an exciting adventure in the world of Cube Bomb! M
+- [Cube Block](../games/puzzle/cube-block.md) — Cube Block - Wake up your brain and step it up for this challenge. It starts out easy but gets more difficult as you gai
+- [Cube Crazy Boom](../games/puzzle/cube-crazy-boom.md) — Dive into the vibrant world of Cube Crazy Boom, where finding hidden particles within contrasting cubes is your challeng
+- [Cube Crushers](../games/puzzle/cube-crushers.md) — Welcome to Cube Crushers, a fun and satisfying sorting puzzle game filled with colorful cake slices, cute cube character
+- [Cube Drop Puzzle](../games/puzzle/cube-drop-puzzle.md) — Join the ultimate puzzle challenge in Cube Drop Puzzle
+- [Cube Drop Puzzle: Match Color](../games/puzzle/cube-drop-puzzle-match-color.md) — Cube Drop Puzzle: Match Color is a vibrant brain teaser that blends block placement, color matching, and a playful water
+- [Cube Flip](../games/puzzle/cube-flip.md) — Cube Flip is inspired by classic grid puzzle games. Challenging levels with a proper difficulty curve and colorful visua
+- [Cube King](../games/puzzle/cube-king.md) — Unleash your strategic prowess in Cube King! Connect and merge numbered cubes to build powerful combos. Earn coins to up
+- [Cube Mania](../games/puzzle/cube-mania.md) — Cube Mania is a challenging matching game.In the game, you need to blow your mind and collect 3 same blocks to eliminate
+- [Cube Match Logic](../games/puzzle/cube-match-logic.md) — Cube Match Logic brings a colorful matching adventure where cute characters, smart sorting, and brain challenges come to
+- [Cube Merge Game](../games/puzzle/cube-merge-game.md) — Cube Merge Game is a fun and addictive puzzle game where you create bigger numbers by merging cubes! Drop numbered block
+- [Cube Minion Rush](../games/puzzle/cube-minion-rush.md) — Color Human is a fun, fast-paced game where you break as many blocks as possible. Merge humans of different colors to gr
+- [Cube Play](../games/puzzle/cube-play.md) — Cube Play is a 3D color-matching puzzle game. Swipe to move cubes, merge matching colors to upgrade them, and break ice 
+- [Cube Plus](../games/puzzle/cube-plus.md) — Forget the existing 3 matches! Cube Plus features: &middot; Easy operation-Enjoy easily with play! &middot; Special Cube
+- [Cube Puzzle](../games/puzzle/cube-puzzle.md) — Race against time in this pulse-pounding puzzle challenge! Face an advancing wall with 9 mysterious cubes, each holding 
+- [Cube Shape Up](../games/puzzle/cube-shape-up.md) — The pictures of the animals have been destroyed and the squares have been rotated. Can you help the animals to return to
+- [Cube ShapeUp!](../games/puzzle/cube-shapeup.md) — Put the jumbled up pieces together as quickly as possible to complete levels. Swap the blocks to reveal the jumbled up p
+- [Cube Snake 2048](../games/puzzle/cube-snake-2048.md) — A great Cube Snake 2048 game begins with cube snakes and cubes in a huge arena. You will start with a low number of snak
+- [Cube Sort](../games/puzzle/cube-sort.md) — CubeSort is a colorful 3D tap-and-sort puzzle. Each level is a floating sculpture built from patterned tiles — cubes, sp
+- [Cube Stack 2048](../games/puzzle/cube-stack-2048.md) — Cube Stack 2048 is a highly addictive casual game inspired by the classic puzzle game 2048, but with exciting new gamepl
+- [Cube to Hole Puzzle](../games/puzzle/cube-to-hole-puzzle.md) — Welcome to Cube to Hole Puzzle! Get ready for an exciting and brain-teasing experience! In Cube to Hole Puzzle, your obj
+- [Cube Up](../games/puzzle/cube-up.md) — Cube Up is a controlled puzzle game. You need to control the cube and to pass through all obstacles and to pass only thr
+- [Cube Up Game](../games/puzzle/cube-up-game.md) — Control the flying cube, turn left and right to avoid obstacles-platforms. The game is difficult. Simple and addictive g
+- [CubeBlast](../games/puzzle/cubeblast.md) — Two or more adjacent blocks of the same color can be clicked to eliminate them. The more adjacent blocks there are, the 
+- [CubeCombo](../games/puzzle/cubecombo.md) — CubeCombo is a casual puzzle game. In this game, players need to use their wits by moving blocks with numbers, and merge
+- [CubeGate](../games/puzzle/cubegate.md) — Puzzle-platformer inspired by portal-style test chambers. Move through clean sci-fi rooms, pick up glowing cubes and pla
+- [Cubes Blast Saga](../games/puzzle/cubes-blast-saga.md) — Play the new and exciting puzzle game and blast the cubes to rescue the little creatures. Match 2 or more cubes of the s
+- [Cubes Crush](../games/puzzle/cubes-crush.md) — Welcome to Cubes Crush Match3 puzzle game. Tap or click on two or more identical cubes to pop them and keep crushing cub
+- [Cubes King](../games/puzzle/cubes-king.md) — How to Cubes King Game Tap to Fill Blocks and Cubes Fill Blocks and Cubes like King
+- [Cubic Link : Exclusive](../games/puzzle/cubic-link-exclusive.md) — Cubic Link is a drag&release game. This version of the game has unique shop system for players. Super fun educational ga
+- [Cubic Planet](../games/puzzle/cubic-planet.md) — An endless colourful puzzle. Match the colour and reach the highest score from the entire planet.
+- [Cubic Wall](../games/puzzle/cubic-wall.md) — Cubic Wall is a game where you need to control the wall who is with bricks with different colors. From the top of the ga
+- [Cubic Wall Game](../games/puzzle/cubic-wall-game.md) — Control the colored wall to collect the falling balls of the correct colors. The game is difficult. Simple and addictive
+- [Cubicoe](../games/puzzle/cubicoe.md) — Experience Tic Tac Toe like never before with Cubicoe's 3D cube challenge. Strategically rotate and flip the cube to out
+- [Cuddle Blocks](../games/puzzle/cuddle-blocks.md) — Immerse yourself in Cuddle Blocks, a delightful puzzle adventure where strategic slides lead to charming animal matches.
+- [Cuddly Three Teddy Jigsaw](../games/puzzle/cuddly-three-teddy-jigsaw.md) — Cuddly three teddy jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the corre
+- [Cuisine Jigsaw](../games/puzzle/cuisine-jigsaw.md) — Cuisine Jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsaw o
+- [Cup Chase](../games/puzzle/cup-chase.md) — Cup Chase delivers a thrilling test of quick reflexes and keen observation. Track a hidden object as cups shuffle swiftl
+- [Cup Rotate: Falling Balls](../games/puzzle/cup-rotate-falling-balls.md) — An exciting puzzle about balls in cups. Colored balls fall into glasses. Your goal is to drive all balls into cups of th
+- [Cup Slide](../games/puzzle/cup-slide.md) — Cute star world, develop a type of mini-games, interesting and cute style. Friends, come and play on the long table to u
+- [Cups and Balls](../games/puzzle/cups-and-balls.md) — A great puzzle needs only a few simple elements to toy with the rules of physics and create a truly challenging and abso
+- [Curfew At Home Jigsaw](../games/puzzle/curfew-at-home-jigsaw.md) — Curfew at home jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct j
+- [Curly Hair Female Jigsaw](../games/puzzle/curly-hair-female-jigsaw.md) — Curly hair female jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correc
+- [Currency Symbols](../games/puzzle/currency-symbols.md) — Currency Symbols is a fun memory game. Match all identical cards before time runs out. You have 4 levels in total, the f
+- [Cursed Jigsaw Puzzles](../games/puzzle/cursed-jigsaw-puzzles.md) — Venture into the chilling world of Cursed Jigsaw Puzzles, where each completed puzzle unveils eerie secrets. Challenge y
+- [Curses Slide Puzzle](../games/puzzle/curses-slide-puzzle.md) — Immerse yourself in Curses Slide Puzzle, where vibrant pixel art meets brain-teasing fun. Slide tiles through intuitive 
+- [Curvy Punch Hit 3D](../games/puzzle/curvy-punch-hit-3d.md) — Are you ready for the adventure full of punches and tricks? Rocket Punch! Yes, that’s the name of our game! You have the
+- [Cut And Drop Puzzle](../games/puzzle/cut-and-drop-puzzle.md) — Cut &amp; Drop Puzzle is an addictive physics-based puzzle game where precision and strategy are key! Use your cutting s
+- [Cut For Cat](../games/puzzle/cut-for-cat.md) — This is a game in which you need to make the cat eat candy, you will need to cut ropes to destroy uncut chains, there wi
+- [Cut for Cat](../games/puzzle/cut-for-cat-2.md) — Slice through ropes and master physics in Cut for Cat! Strategically navigate swinging platforms and portals to deliver 
+- [Cut For Cat Challenge](../games/puzzle/cut-for-cat-challenge.md) — The cat who loves lollipops has become popular in the gaming space, which means that the continuation of his adventures 
+- [Cut For Cat Game](../games/puzzle/cut-for-cat-game.md) — Cut For Cat 2 is a free cartoon online game played on PuzzleGame for boys. Try to cut ropes to make the cat eat candy! U
+- [Cut Grass Pro](../games/puzzle/cut-grass-pro.md) — Transform overgrown lawns into floral masterpieces in Cut Grass Pro. Strategically guide your mower through 40 immersive
+- [Cut It](../games/puzzle/cut-it.md) — Cut It is a fun and satisfying puzzle game where precision matters. Slice objects at the perfect angle to complete each 
+- [Cut It All](../games/puzzle/cut-it-all.md) — Your goal is to cut objects and load them. Remember, with each level, the speed and difficulty will increase. Cut the ob
+- [Cut it Fair](../games/puzzle/cut-it-fair.md) — Don't Spill It is a slicing game where you will have to slice the fruits with a knife according to the glasses. Cut prec
+- [Cut My Candy](../games/puzzle/cut-my-candy.md) — Cut My Candy is a dark fantasy physics puzzle game where your goal is to feed a hungry demon! Swipe to cut ropes and wat
+- [Cut That Rope](../games/puzzle/cut-that-rope.md) — Cut the rope! Then play bowling!
+- [Cut The Rop Time Travel](../games/puzzle/cut-the-rop-time-travel.md) — Join Om Nom as he travels back in time to feed his ancestors with candy. Cut the Rope: Time Travel is a completely new a
+- [Cut The Rope II](../games/puzzle/cut-the-rope-ii.md) — Wake up and smell the cake: today is Om Nom's Birthday! The world’s favorite sweet tooth is having a birthday party, and
+- [Cut The Rope Unblocked](../games/puzzle/cut-the-rope-unblocked.md) — Begin a brain-teasing adventure with Cut The Rope Unblocked. This addictive puzzle game is packed with clever logic puzz
+- [Cute](../games/puzzle/cute.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Cute Animal Memory](../games/puzzle/cute-animal-memory.md) — Cute Animal Memory is a free online game from genre of memory and animal games. Flip the tiles and try to match them up 
+- [Cute Animal Ride Match 3](../games/puzzle/cute-animal-ride-match-3.md) — Cute Animal Ride Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a ser
+- [Cute Animal Rotate Puzzle](../games/puzzle/cute-animal-rotate-puzzle.md) — Enter the whimsical world of our rotate puzzle game, where adorable animals await your help! Twist and turn tiles to com
+- [Cute Animals Jigsaw Adorable Puppies and Kittens](../games/puzzle/cute-animals-jigsaw-adorable-puppies-and-kittens.md) — Explore the world of adorable animals with this fun jigsaw puzzle for kids! Featuring cute puppies and kittens, this puz
+- [cute Animals Memory](../games/puzzle/cute-animals-memory.md) — Cute Animals Memory is a fun and relaxing matching puzzle game designed for kids and casual players of all ages. Flip th
+- [Cute Animals Sky Fall](../games/puzzle/cute-animals-sky-fall.md) — This is fun game with animals. You have obstacles on the sky like rocks and plains so tray to avoid them. You control an
+- [Cute Animals With Cars Difference](../games/puzzle/cute-animals-with-cars-difference.md) — Cute Animals With Cars Difference is a free online coloring and kids game! In this game you will find eight different pi
+- [Cute Babies Differences](../games/puzzle/cute-babies-differences.md) — This is a game of genre-finding objects. This game has 12 levels with images of babies. Each level has two images that l
+- [Cute Babies Puzzle](../games/puzzle/cute-babies-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cute Babies Puzzle. All images is with the cute babies. Solve all
+- [Cute Baby Animals Jigsaw](../games/puzzle/cute-baby-animals-jigsaw.md) — Cute Baby Animals Jigsaw game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play
+- [Cute Baby Bears](../games/puzzle/cute-baby-bears.md) — Cute Baby Bears game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choose 
+- [Cute Baby Koala Bear](../games/puzzle/cute-baby-koala-bear.md) — Cute Baby Koala Bear game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Ch
+- [Cute Baby Panda](../games/puzzle/cute-baby-panda.md) — In this Cute Baby Panda game, you have 6 images in three modes to play. Choose one of the modes for the game that you pr
+- [Cute Block](../games/puzzle/cute-block.md) — This is a very easy and fun puzzle game, players use gravity synthesis box, come to cute blocks one by one synthesis it!
+- [Cute Bubble Tea Jigsaw Puzzles](../games/puzzle/cute-bubble-tea-jigsaw-puzzles.md) — Immerse yourself in Cute Bubble Tea Jigsaw Puzzles, where you'll strategically piece together charming images. With intu
+- [Cute Budgie Puzzle](../games/puzzle/cute-budgie-puzzle.md) — Dive into the delightful world of Cute Budgie Puzzle, where vibrant feathers, charming chirps, and playful antics come t
+- [Cute Cars And Trucks Match 3](../games/puzzle/cute-cars-and-trucks-match-3.md) — Cute Cars And Trucks Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a
+- [Cute Cat Jigsaw](../games/puzzle/cute-cat-jigsaw.md) — Are you a cat lover with a passion for puzzles? If so, get ready for an adorable and engaging adventure with &ldquo;Cute
+- [Cute Cat Jigsaw Puzzle](../games/puzzle/cute-cat-jigsaw-puzzle.md) — Are you a cat lover with a passion for puzzles? If so, get ready for an adorable and engaging adventure with &ldquo;Cute
+- [Cute Cat Jigsaw Puzzle](../games/puzzle/cute-cat-jigsaw-puzzle-2.md) — Embark on a charming journey with Cute Cat Jigsaw Puzzle, where adorable felines and engaging puzzles unite. Unravel del
+- [Cute Cats 2048](../games/puzzle/cute-cats-2048.md) — Merge adorable feline-themed tiles to reach 2048 in this charming puzzle adventure. Cute Cats 2048 combines strategy and
+- [CUTE CATS JIGSAW PUZZLE](../games/puzzle/cute-cats-jigsaw-puzzle.md) — CUTE CATS JIGSAW PUZZLE is a traditional puzzle game that has 20 different puzzles with cute kittens, divided into 4 gro
+- [Cute Cats Puzzle game ftree](../games/puzzle/cute-cats-puzzle-game-ftree.md) — If you like fun animal games and jigsaw puzzles, you will absolutely love
+- [Cute Child-Dad Jigsaw](../games/puzzle/cute-child-dad-jigsaw.md) — Cute child-dad jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct j
+- [Cute Chopter](../games/puzzle/cute-chopter.md) — Cute Chopter game has a lot of success review and player this MONTH that significantly improves overall game performance
+- [Cute Christmas Animals Jigsaw](../games/puzzle/cute-christmas-animals-jigsaw.md) — Cute Christmas Animals Jigsaw is a fun and festive puzzle game designed for kids! It features three adorable animals dre
+- [Cute Christmas Bull Difference](../games/puzzle/cute-christmas-bull-difference.md) — Cute Christmas Bull Difference is interesting kids game with Christmas theme and it's time for you to have fun! In this 
+- [Cute Couples Puzzle](../games/puzzle/cute-couples-puzzle.md) — Cute Couples Puzzle game is free online game and you have 6 images in three modes to play. Choose one of the mode for th
+- [Cute Cow Jigsaw Puzzles](../games/puzzle/cute-cow-jigsaw-puzzles.md) — Piece together adorable cow-themed jigsaws in this delightful game. With intuitive controls and a relaxing atmosphere, e
+- [Cute Dinosaur Differences](../games/puzzle/cute-dinosaur-differences.md) — Cute Dinosaur Differences is fun online game for kids. Do your kids love dinosaurs? Then, they will love Dinosaur Games 
+- [Cute Dinosaur Jigsaw](../games/puzzle/cute-dinosaur-jigsaw.md) — Cute Dinosaur Jigsaw game is free online game and you have 6 images in three modes to play. Choose one of the mode for t
+- [Cute Dinosuars Jigsaw](../games/puzzle/cute-dinosuars-jigsaw.md) — Cute Dinosuars Jigsaw game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. C
+- [Cute Dodo Jigsaw](../games/puzzle/cute-dodo-jigsaw.md) — Cute Dodo Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and th
+- [Cute Dogs Jigsaw](../games/puzzle/cute-dogs-jigsaw.md) — Cute Dogs Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and th
+- [Cute Dogs Jigsaw Puzlle](../games/puzzle/cute-dogs-jigsaw-puzlle.md) — Are you a dogs lovers? Do you like to play jigsaw puzzle games? this is a new jigsaw puzzle game with amzing cute dogs p
+- [Cute Elements](../games/puzzle/cute-elements-2.md) — Step into the charming world of Cute Elements, where strategy and fun unite! Link similar elements to clear levels as pu
+- [Cute Farm Match Puzzle](../games/puzzle/cute-farm-match-puzzle.md) — Cute Farm Match Puzzle brings you into a charming farm world filled with adorable animals and exciting puzzle challenges
+- [Cute Fish Jigsaw](../games/puzzle/cute-fish-jigsaw.md) — Cute Fish Jigsaw is amazing online game that you can play for free on PC and Mobile. No download needed! This amazing co
+- [Cute Folding Paper](../games/puzzle/cute-folding-paper.md) — Cute Folding Paper is an origami online puzzle game. Combines the creative fun of paper crafts with challenging logic pu
+- [Cute Forest](../games/puzzle/cute-forest.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Cute Fun 2](../games/puzzle/cute-fun-2.md) — Unleash your creativity in Cute Fun 2, a heartwarming adventure filled with playful match-3 mechanics and charming graph
+- [Cute Gnomes Hidden Stars](../games/puzzle/cute-gnomes-hidden-stars.md) — Cute Gnomes Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specified image
+- [Cute Halloween Monsters Memory](../games/puzzle/cute-halloween-monsters-memory.md) — Cute Halloween Monsters Memory is a free online game from genre of memory. Flip the tiles and try to match them up in pa
+- [Cute Halloween Witches Jigsaw](../games/puzzle/cute-halloween-witches-jigsaw.md) — Cute Halloween Witches Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play
+- [Cute Jelly Rush](../games/puzzle/cute-jelly-rush.md) — Dive into Cute Jelly Rush, where vibrant colors and adorable jellies await! Match squishy jellies by shape and color acr
+- [Cute Kids Trucks Jigsaw](../games/puzzle/cute-kids-trucks-jigsaw.md) — Cute Kids Trucks is a jigsaw game. At this game you can play with twelve different images with kids cartoon trucks. Firs
+- [Cute Knitting: Yarn Sorting](../games/puzzle/cute-knitting-yarn-sorting.md) — Dive into a serene world of yarn, where sorting vibrant balls of wool and untangling knots creates a soothing, visual pu
+- [Cute Little Horse Jigsaw](../games/puzzle/cute-little-horse-jigsaw.md) — Cute Little Horse Jigsaw is a fun online puzzle game. Drag the pieces into right position using mouse. Solving puzzles i
+- [Cute Little Kids Jigsaw](../games/puzzle/cute-little-kids-jigsaw.md) — In this Cute Little Kids Jigsaw game you have 6 images in three modes to play. Choose one of the mode for the game that 
+- [Cute Little Monsters Jigsaw](../games/puzzle/cute-little-monsters-jigsaw.md) — Cute Little Monsters Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. 
+- [Cute Little Monsters Memory](../games/puzzle/cute-little-monsters-memory.md) — Cute Little Monsters Memory is a free online game from genre of memory and monsters truck games. Flip the tiles and try 
+- [Cute Little Ponies Puzzle](../games/puzzle/cute-little-ponies-puzzle.md) — Cute Little Ponies Puzzle is a free online game from the genre of puzzle and jigsaw games. In this game, you have a tota
+- [Cute Monster Bond](../games/puzzle/cute-monster-bond.md) — Dive into a vibrant world with Cute Monster Bond, a charming match-3 puzzle adventure. Connect adorable creatures to unl
+- [Cute Monster Creatures Puzzle](../games/puzzle/cute-monster-creatures-puzzle.md) — Cute Monster Creatures Puzzle game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to
+- [Cute Monsters](../games/puzzle/cute-monsters.md) — Match the monster tiles and release them Solve the monster tiles by matching them. If you like genres such as puzzle, ti
+- [Cute Monsters Jigsaw](../games/puzzle/cute-monsters-jigsaw.md) — Cute Monsters Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choose 
+- [Cute Monsters Memory](../games/puzzle/cute-monsters-memory.md) — Cute Monsters Memory is a free online game from genre of memory and monster games. Flip the tiles and try to match them 
+- [Cute Monsters Puzzle](../games/puzzle/cute-monsters-puzzle.md) — Monsters are scary but not in this game! The monsters in this game are very cute. Combine the pieces and see the monster
+- [Cute Owl Memory](../games/puzzle/cute-owl-memory.md) — This is memory game with cute owl in cards. Touch the cards and pair two cards with same image of owl. You are limited w
+- [Cute Owl Puzzle](../games/puzzle/cute-owl-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cute Owl Puzzle. All images is with the cute owl. Solve all puzzl
+- [Cute Owl Slide](../games/puzzle/cute-owl-slide.md) — Play this slide puzzle games of the cute owl. It's include 3 images and 3 modes to play.
+- [Cute Penguin Puzzle](../games/puzzle/cute-penguin-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cute Penguin Puzzle. All images is with the cute penguin. Solve a
+- [Cute Penguin Slide](../games/puzzle/cute-penguin-slide.md) — Play this slide puzzle games of the cute penguin. It's include 3 images and 3 modes to play.
+- [Cute Piranha Jigsaw Puzzles](../games/puzzle/cute-piranha-jigsaw-puzzles.md) — Cute Piranha Jigsaw Puzzles is fun online jigsaw game and you can play it for free. You can play this game direct in you
+- [Cute Pony Puzzle Quest](../games/puzzle/cute-pony-puzzle-quest.md) — Jump into a bright and magical world with Cute Pony Puzzle Quest, a charming jigsaw adventure filled with color, warmth,
+- [Cute Puppies Jigsaw](../games/puzzle/cute-puppies-jigsaw.md) — Cute Puppies Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the six images an
+- [Cute Puppies Puzzle](../games/puzzle/cute-puppies-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cute Puppies Puzzle. All images is with the cute puppies. Solve a
+- [Cute Puppies Puzzle](../games/puzzle/cute-puppies-puzzle-2.md) — Unleash your puzzle skills in Cute Puppies Puzzle, where you'll assemble heartwarming puppy images piece by piece. Chall
+- [Cute Puzzles](../games/puzzle/cute-puzzles.md) — Cute Puzzles is a classic jigsaw game. Arrange the jigsaw pieces of a picture to form the original picture. There are 2 
+- [Cute Rainbow Unicorn Puzzles](../games/puzzle/cute-rainbow-unicorn-puzzles.md) — It's time for puzzles! Just look at these cute and funny unicorns. They ride a motorcycle, fly into space and love donut
+- [Cute Snails Jigsaw](../games/puzzle/cute-snails-jigsaw.md) — Cute Snail Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the six images and 
+- [Cute Teddy Bears Puzzle](../games/puzzle/cute-teddy-bears-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Cute Teddy Bears Puzzle. All images is with the cute teddy bear. 
+- [Cute Teddy Bears Slide](../games/puzzle/cute-teddy-bears-slide.md) — Play this slide puzzle games of the cute teddy bears. It's include 3 images and 3 modes (3x3 pieces, 4x4 pieces, 5x5 pie
+- [Cute Tiki Match 3](../games/puzzle/cute-tiki-match-3.md) — Cute Tiki Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series of 
+- [Cute Turtle Jigsaw Puzzles](../games/puzzle/cute-turtle-jigsaw-puzzles.md) — Cute Turtle Jigsaw Puzzles is a simple and beautiful free jigsaw puzzle game for all ages. Cute Turtle Jigsaw Puzzles pr
+- [Cute Unicorn Jigsaw](../games/puzzle/cute-unicorn-jigsaw.md) — Cute Unicorn Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and
+- [Cute Unicorns And Dragons Puzzle](../games/puzzle/cute-unicorns-and-dragons-puzzle.md) — Missing the puzzles? Fabulous cute unicorns and dragons will not let you get bored! Discover the wonderful world of fant
+- [Cute Whale Jigsaw](../games/puzzle/cute-whale-jigsaw.md) — Cute Whale Jigsaw is jigsaw game with cute whales. Choose image click on mode that you want to play and when image piece
+- [Cuteland](../games/puzzle/cuteland.md) — Cuteland Memory Puzzle is a simple and casual memory puzzle game. Players click to open cards, remember their positions,
+- [CuteSlicesBall](../games/puzzle/cuteslicesball.md) — Arrange all the slices of different shapes reasonably into the surrounding circular containers. After all the slices are
+- [Cutting Grass](../games/puzzle/cutting-grass.md) — Cutting Grass is a free online leisure puzzle game for boys played on PuzzleGame. The game has smooth and addictive game
+- [Cutting Rice](../games/puzzle/cutting-rice.md) — Dive into Cutting Rice, a delightful puzzle game where you slice and shape rice to fit perfectly into bento boxes. Maste
+- [CuttingGrass](../games/puzzle/cuttinggrass.md) — Control the lawnmower to clear all the grass from the lawn. The game has multiple levels. Use your brain and clear all t
+- [Cyber Arrows: Brain Puzzle Game](../games/puzzle/cyber-arrows-brain-puzzle-game.md) — Cyber Arrows: Brain Puzzle Enter a futuristic world of glowing pathways and strategic challenges in Cyber Arrows: Brain 
+- [Cyberman V1](../games/puzzle/cyberman-v1.md) — Cyberman V game has a lot of success review and player this MONTH that significantly improves overall game performance, 
+- [Cyberpunk 2077 Jigsaw Puzzle](../games/puzzle/cyberpunk-2077-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the Cyberpunk 2077. The game c
+- [Cyberpunk Block Puzzle](../games/puzzle/cyberpunk-block-puzzle.md) — Cyberpunk Block Puzzle is a stylish logic game set on a neon circuit board. Slide glowing blocks across the grid to deli
+- [Dab Unicorn Puzzle](../games/puzzle/dab-unicorn-puzzle.md) — You will love these unicorns. The dab movement suits them most. Complete 12 different unicorns, have fun.
+- [Dacia Sandero Puzzle](../games/puzzle/dacia-sandero-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Dacia Sandero Puzzle. All images is with the car - dacia sandero.
+- [Daddy Rabbit : Zombie invasion in the farm](../games/puzzle/daddy-rabbit-zombie-invasion-in-the-farm.md) — Have fun playing this rabbit game where a cute rabbit dad must take care of his baby bunnies in the burrow under the mos
+- [Daffy Duck Jigsaw Puzzle](../games/puzzle/daffy-duck-jigsaw-puzzle.md) — Daffy Duck Jigsaw Puzzle is a free online game from genre of puzzle and jigsaw games. In this game you have a total of 1
+- [Daily Bento Organizer](../games/puzzle/daily-bento-organizer.md) — Do you want to be a bento box master? Using your creativity in the world of the Daily Bento Organizer. To create the mos
+- [Daily Puzzle](../games/puzzle/daily-puzzle.md) — Daily Puzzle is a great choice for those who like to spend their time doing puzzles. Log in every day so you don't miss 
+- [Daily Puzzle](../games/puzzle/daily-puzzle-2.md) — Experience a fresh daily challenge with Daily Puzzle, where puzzling fun never ends. Enjoy assembling unique and increas
+- [Daily Russian Jigsaw](../games/puzzle/daily-russian-jigsaw.md) — Daily Russian Jigsaw is an online game that you can play for free. Are you interested in Russian landscapes and building
+- [Daisy Dream Jigsaw](../games/puzzle/daisy-dream-jigsaw.md) — Daisy dream jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigs
+- [Daisy Heart Jigsaw](../games/puzzle/daisy-heart-jigsaw.md) — Daisy heart jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigs
+- [Dalgona Candy](../games/puzzle/dalgona-candy.md) — Welcome to Dalgona Candy - Dalgona Game. This is a game about the squid hiding in dalgona sweets honeycomb. Cut the squi
+- [Dalgona Candy Challenge Squid Game](../games/puzzle/dalgona-candy-challenge-squid-game.md) — Switch and match Dalgona Candy Squid Game in this tasty puzzle adventure to progress to the next level for that sweet wi
+- [Dalgona Candy Squid Game](../games/puzzle/dalgona-candy-squid-game.md) — Switch and match Dalgona Candy Squid Game in this tasty puzzle adventure to progress to the next level for that sweet wi
+- [Dalgona From Squid Game](../games/puzzle/dalgona-from-squid-game.md) — Switch and match Dalgona Candy Squid Game in this tasty puzzle adventure to progress to the next level for that sweet wi
+- [Dalgona Memory](../games/puzzle/dalgona-memory.md) — This is a Memory Gamewith Dalgona Candies Figures, like: Star, Smile, Hexagon, Circle are eight different shapes! You ca
+- [Dalgona Squid Game](../games/puzzle/dalgona-squid-game.md) — Attention everyone,Dalgona Squid Game is here. Try to break the dalgona candy correctly in game. Win the game in the bat
+- [Dalgona Squid Game 3D](../games/puzzle/dalgona-squid-game-3d.md) — Use the pin to trace the inner shape and extract it out of the candy body. Be careful time is running out and you’ll be 
+- [Dama Stars](../games/puzzle/dama-stars.md) — Italian checkers with a twist! Jump over your opponents pieces, promote to powerful kings, and dominate the board. Play 
+- [Dance Master Mat](../games/puzzle/dance-master-mat.md) — Dance Master Mat is a wonderful idol draft live dance free online game. Dance moves need to be trained before the live b
+- [Dancing in the Moonlight Jigsaw](../games/puzzle/dancing-in-the-moonlight-jigsaw.md) — Dancing in the Moonlight is a jigsaw game with beautiful pictures of dancing under the moon. Choose your favorite pictur
+- [Dandelion Jigsaw](../games/puzzle/dandelion-jigsaw.md) — Dandelion jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct jigsaw
+- [Dangerous Circle](../games/puzzle/dangerous-circle.md) — This is popular touch game where you need to have good reflex. You need to avoid obstacles on the circle and to collect 
+- [Dangerous Circle 2](../games/puzzle/dangerous-circle-2.md) — New version of Dangerous circle. Orbit around the circle and tray to dodge the spikes! These spikes appear both inside o
+- [Dangerous Circles](../games/puzzle/dangerous-circles.md) — Orbit around the circle and dodge the spikes! These spikes appear both inside or outside of the circle and you have to c
+- [Dangerous Dragons Jigsaw](../games/puzzle/dangerous-dragons-jigsaw.md) — Dangerous Dragons Jigsaw game is free online game and you have 6 images in three modes to play easy, medium and hard. Ch
+- [Dangerous Helicopter Jigsaw](../games/puzzle/dangerous-helicopter-jigsaw.md) — Dangerous Helicopter Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 im
+- [Dangerous Spikes](../games/puzzle/dangerous-spikes.md) — Tap on scree to change side of the circle and to avoid spikes. Spikes will hurt you, so you need to avoid them.
+- [Daniel Spellbound Jigsaw Puzzle](../games/puzzle/daniel-spellbound-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Dark forests Tile Block Puzzle](../games/puzzle/dark-forests-tile-block-puzzle.md) — Immerse yourself in the mysterious world of Dark Forests Tile Block Puzzle, where you rearrange scrambled tiles to revea
+- [Dark Knights Match 3](../games/puzzle/dark-knights-match-3.md) — Dark Knights Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series 
+- [Dark Strokes: Sins of the Fathers](../games/puzzle/dark-strokes-sins-of-the-fathers.md) — Unravel a gripping noir mystery in Dark Strokes: Sins of the Fathers. As Ethan, use your wits to solve intricate puzzles
+- [Dash](../games/puzzle/dash.md) — play best classic game for kid and family play now with your friends this game she have great graphics and nice sound an
+- [DasshuBox Puzzle](../games/puzzle/dasshubox-puzzle.md) — Guide a lovable rabbit through intricate levels to reach its prized carrot in DasshuBox Puzzle. With each move, engage i
+- [Date the Difference](../games/puzzle/date-the-difference.md) — Embark on captivating dates where keen observation unlocks romance! Engage with charming companions and sharpen your att
+- [Day at School Student Class PRO](../games/puzzle/day-at-school-student-class-pro.md) — It’s time to go to school with this My Crazy Class Teacher : School Day Activity, we learn and have fun at same time. Yo
+- [Day In Aquarium Hidden Stars](../games/puzzle/day-in-aquarium-hidden-stars.md) — Day In Aquarium Hidden Stars is a free online skill and hidden object game. Find out the hidden stars in the specified i
+- [DC League of Super Pets Jigsaw Puzzle](../games/puzzle/dc-league-of-super-pets-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Dc Superhero Girls Jigsaw Puzzle](../games/puzzle/dc-superhero-girls-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [DD Bubble Up](../games/puzzle/dd-bubble-up.md) — Dive into the lively world of DD Bubble Up, a captivating online puzzle game that challenges your strategy. Clear groups
+- [Dead End Depot](../games/puzzle/dead-end-depot.md) — Push, but never pull. Dead-End Depot is a warehouse logic puzzle where every parcel must be delivered to the gate with t
+- [DeadLake](../games/puzzle/deadlake.md) — DeadLak game has a lot of success review and player this MONTH that significantly improves overall game performance, esp
+- [Deadly Hunter](../games/puzzle/deadly-hunter.md) — Tiger trapped your friends, you need to rescue your friends and then around the obstacles to fight the tiger, can save y
+- [Deadman Ranch Jigsaw](../games/puzzle/deadman-ranch-jigsaw.md) — Deadman ranch jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct ji
+- [Deadpool Jigsaw Puzzle](../games/puzzle/deadpool-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles. We hope you are up for another game 
+- [Death Note Anime  Jigsaw Puzzle Collection](../games/puzzle/death-note-anime-jigsaw-puzzle-collection.md) — In the new game, created based on the Japanese anime series Death Note, we can again meet with the heroes who have set t
+- [Death Note Anime Match3 Puzzle](../games/puzzle/death-note-anime-match3-puzzle.md) — In the new game, created based on the Japanese anime series Death Note, we can again meet with the heroes who have set t
+- [Debris Puzzle](../games/puzzle/debris-puzzle.md) — Dive into Debris Puzzle, where assembling scattered fragments into a perfect circle tests your strategy and precision. W
+- [Deconstruct Cube: Create Hotel](../games/puzzle/deconstruct-cube-create-hotel.md) — A game inspired by the USSR! Start upgrading your hotel with the 2048 cube puzzle! Build the hotel of your dreams!
+- [Deer Hunting Jigsaw](../games/puzzle/deer-hunting-jigsaw.md) — Deer Hunting Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images and
+- [Defend Beach](../games/puzzle/defend-beach.md) — The enemy is coming from the sea. The player's goal is to guard the beach and prevent the enemy from passing through. Se
+- [Defender: Tanks Merge](../games/puzzle/defender-tanks-merge.md) — Defender: Tanks Merge is a thrilling online strategy game where you create a powerful army by merging unique tanks with 
+- [Defenders of the Realm](../games/puzzle/defenders-of-the-realm.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [defense](../games/puzzle/defense.md) — play best classic game for kid and family play now with your friends this game she have great graphics and nice sound an
+- [Defense Of Corona Virus Hidden](../games/puzzle/defense-of-corona-virus-hidden.md) — Defense Of Corona Virus Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and t
+- [Defense the Base](../games/puzzle/defense-the-base.md) — Base Defense is a tower defense game where you try to prevent enemies from destroying your base by deploying various typ
+- [Defuse the Bombs](../games/puzzle/defuse-the-bombs.md) — Conquer the high-stakes challenge of Defuse the Bombs! Navigate a strategic 7x7 puzzle grid, arranging colors to perfect
+- [Delete it: Erase One Part](../games/puzzle/delete-it-erase-one-part.md) — What is hiding in the picture? Find out in this addictive erase puzzle game! At first glance, scenes look normal, but lo
+- [Delete Puzzles   Erase 1 Part](../games/puzzle/delete-puzzles-erase-1-part.md) — This is a purely puzzle game and the game play also very simple. Just simply touch on the screen with your finger and dr
+- [Delete Story Dop Brain Puzzle](../games/puzzle/delete-story-dop-brain-puzzle.md) — Delete Story - Dop Brain Puzzle is a challenging and fun online puzzle game for free. This game is designed to test the 
+- [Delicious Dinner Jigsaw](../games/puzzle/delicious-dinner-jigsaw.md) — Delicious dinner jigsaw is an online puzzle jigsaw game. To solve this puzzle you have to place 64 pieces in the correct
+- [Delicious Food Collection](../games/puzzle/delicious-food-collection.md) — Collect the delicious food in this html5 game. Press any food to start. Now move the 'mouse or finger tip' on identical 
+- [Delicious Food Match 3 Deluxes](../games/puzzle/delicious-food-match-3-deluxes.md) — Match three or more identical delicious food and reach the target of each level. The hourglasses bombs and jolly food wi
+- [Demon Jigsaw Puzzle](../games/puzzle/demon-jigsaw-puzzle.md) — Unleash your puzzle-solving skills with Demon Jigsaw Puzzle! Arrange scattered pieces to reveal stunning images as you t
+- [Demon Slayer Jigsaw Puzzle](../games/puzzle/demon-slayer-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles.let's see how fast can you solve this
+- [Dentist Doctor Game For Kids](../games/puzzle/dentist-doctor-game-for-kids.md) — Have you ever wanted to be a dentist? Our game can fulfill your desire if you want to be a doctor. In the game, you will
+- [Dentist Game For Education](../games/puzzle/dentist-game-for-education.md) — Become a dentist and help our friends to have a healthy mouth. Brian, Katie, Frank and Peter have come to the dental cli
+- [Dentist Inc Teeth Doctor Games](../games/puzzle/dentist-inc-teeth-doctor-games.md) — Welcome to New Dentist Game : Dental Care Free Doctor Games : Going to the crazy dentist doctor is something that many c
+- [Dentist Surgery ER Emergency Doctor Hospital Games](../games/puzzle/dentist-surgery-er-emergency-doctor-hospital-games.md) — Welcome to Go Dentist Games Teeth Doctor Hospital Adventure, you have a chance to help your patients, to prove that you 
+- [Desert Rally Puzzle](../games/puzzle/desert-rally-puzzle.md) — Desert Rally Puzzle is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choose o
+- [Desert Rush](../games/puzzle/desert-rush.md) — Desert Rush is a typical arcade matching game. Your goal is to connect the dots. Three animals surviving their way out f
+- [Design Diary   Match 3 &amp; Home](../games/puzzle/design-diary-match-3-amp-home.md) — Friendship? Design? Puzzles? Find all you want in Design Diary! Design a home while solving match-3 puzzles with this ne
+- [Desinfecta!](../games/puzzle/desinfecta.md) — In Desinfecta!, strategically flip tiles to clear 50 levels of virus invasions. Every tile tapped changes adjacent space
+- [Destination Brain Test](../games/puzzle/destination-brain-test.md) — Destination Brain Test is a great puzzle game to text your brain. You only need to drag to launch the ball to destroy al
+- [Destroy Boxes](../games/puzzle/destroy-boxes.md) — very easy and simple game just tap to shoot and earn the points
+- [Destroy It](../games/puzzle/destroy-it.md) — Destroy the phone by clicking so much to move next levels
+- [Destructive Merger](../games/puzzle/destructive-merger.md) — Combine missiles to stack your ammo and unleash explosive chaos in vibrant 3D pixel art arenas. Merge identical missiles
+- [Detect the Difference](../games/puzzle/detect-the-difference.md) — Spot the subtle differences between two vibrant images in this engaging game for kids. Enhance your visual perception an
+- [Detective &amp; The Thief](../games/puzzle/detective-amp-the-thief.md) — Caught the thief and punish him, collect bank treasure Some bad thieves plan to rob a bank. So detectives are assigned a
+- [Detective And The Thief](../games/puzzle/detective-and-the-thief.md) — Join a gripping chase in Detective And The Thief, where strategy meets precision. Guide detectives along color-coded pat
+- [Detective Loupe Puzzle](../games/puzzle/detective-loupe-puzzle-2.md) — Step into the role of a detective in the captivating world of Detective Loupe Puzzle. Explore intricate crime scenes, un
+- [Devil Diablo Memory Match & Hidden Objects](../games/puzzle/devil-diablo-memory-match-hidden-objects.md) — Unleash your memory power with Devil Diablo! This enchanting game tests your focus as you match spooky cards before time
+- [Devil Jigsaw Puzzle](../games/puzzle/devil-jigsaw-puzzle.md) — Dive into a world of challenging jigsaw fun with Devil Jigsaw Puzzle. Piece together intricate images while honing your 
+- [Dexters Laboratory Match 3](../games/puzzle/dexters-laboratory-match-3.md) — Dexters Laboratory Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a s
+- [Diagonal Game](../games/puzzle/diagonal-game.md) — Diagonal is a controlled puzzle game, and the goal in this game is to control the bullet to avoid squares and other rock
+- [Diamant: Match 3 Sky Story](../games/puzzle/diamant-match-3-sky-story.md) — A fun adventure with match 3 elements. Create your own soaring city in the sky
+- [Diamond](../games/puzzle/diamond.md) — play best classic game for kid and family play now with your friends this game she have great graphics and nice sound an
+- [Diamond Hunter Game](../games/puzzle/diamond-hunter-game.md) — Diamond Hunter is a fun and exciting match 3 online game. It can be played on your mobile devices and on the web for fre
+- [Diamond Shot](../games/puzzle/diamond-shot.md) — You will operate with purple diamonds with five faces. The task is to shoot crystals, filling special niches on the play
+- [Diamond Sort: Picture Puzzle](../games/puzzle/diamond-sort-picture-puzzle.md) — Sort colorful gems in this relaxing puzzle. Match diamonds, clear the board, and reveal beautiful artwork. Easy to learn
+- [Diamonds Misiion](../games/puzzle/diamonds-misiion.md) — When diamonds star to fall down by clicking on left or right button on your mouse you need to change those jewelry who a
+- [Dice Helix Drop](../games/puzzle/dice-helix-drop.md) — Dice Helix Drop is a fun and addictive one-touch 3D arcade game where you guide a falling ball through spinning helix st
+- [Dice Merge](../games/puzzle/dice-merge.md) — Roll, merge, and race against time in this fast-paced dice puzzle game. Each roll resets a 10-second timer, and your sco
+- [Dice Merge](../games/puzzle/dice-merge-2.md) — Dice Merge is an addictive and challenging puzzle game. Your strategic thinking skills will be tested. The objective is 
+- [Dice Merge](../games/puzzle/dice-merge-3.md) — Dive into Dice Merge, a captivating puzzle game where strategy meets excitement. Merge identical dice to unlock powerful
+- [Dice Merge 3D](../games/puzzle/dice-merge-3d.md) — Dive into Dice Merge 3D, the addictive puzzle where merging dice becomes a thrilling brain exercise. Challenge your logi
+- [Dice Merge Challenges](../games/puzzle/dice-merge-challenges.md) — Do you crave explosive puzzle action? Dive into Dice Merge Challenges, a game that blends strategic merging with thrilli
+- [Dice Merger](../games/puzzle/dice-merger.md) — This is a dice merging game in which you need to think before merging. This game is very easy to figure out but hard to 
+- [Dice Puzzle](../games/puzzle/dice-puzzle.md) — Dice Puzzle is a puzzle game where your task is to strategically place numbered cubes on the board, aiming to merge thre
+- [Dice Puzzle Flowers!](../games/puzzle/dice-puzzle-flowers.md) — This game is more difficult than it may seem ! You have a playing field on which you need to throw colors and connect th
+- [Dice Puzzle: Fruits!](../games/puzzle/dice-puzzle-fruits.md) — This game is harder than it seems! You have a playing field where you need to throw fruits and connect the same ones! Un
+- [Dice Puzzle Fruits](../games/puzzle/dice-puzzle-fruits-2.md) — Dive into a vibrant world where matching juicy fruits becomes delightfully challenging! Strategically drop and combine f
+- [Dice puzzles!](../games/puzzle/dice-puzzles.md) — This game is more difficult than it may seem ! You have a playing field on which you need to throw puzzles and connect t
+- [Dice Puzzles!](../games/puzzle/dice-puzzles-2.md) — Dive into the captivating world of Dice Puzzles! Strategically merge numbered cubes to create larger, dazzling pieces an
+- [Dice Puzzles Flowers!](../games/puzzle/dice-puzzles-flowers.md) — Unleash your botanical strategy in Dice Puzzles Flowers! Connect and merge stunning floral cubes to create breathtaking 
+- [Dice puzzles: New year](../games/puzzle/dice-puzzles-new-year.md) — This New Years game is more difficult than it may seem ! You have a playing field on which you need to throw balls and c
+- [Dice Puzzles New Year](../games/puzzle/dice-puzzles-new-year-2.md) — Unleash your strategic prowess in Dice Puzzles New Year! Merge cubes on a dynamic grid to create massive numbers, as eac
+- [Dice With Buddies The Fun Social Dice Game](../games/puzzle/dice-with-buddies-the-fun-social-dice-game.md) — Quick Dice is fun board game to play. In front of your screen, a playing field will appear with various visible colored 
+- [DiceCraft](../games/puzzle/dicecraft.md) — Roll, match, and merge your way to the highest score in Dice Merge! Combine three or more dice with the same number in a
+- [Die or Dodge](../games/puzzle/die-or-dodge.md) — This is platform jumping game where player need to jump to collect diamonds and to avoid enemies. If you hit with insect
+- [Difference Detective- Find them!](../games/puzzle/difference-detective-find-them.md) — Sharpen your observation skills in Difference Detective as you hunt for disparities between nearly identical images. Wit
+- [Differences Detective](../games/puzzle/differences-detective.md) — Embark on a visual quest in Differences Detective, where each scene demands your vigilant eye. Spot subtle discrepancies
+- [Dig & Flow - Save Water](../games/puzzle/dig-flow-save-water.md) — Dig through the sand and guide flowing elements through level labyrinths to collect all the stars. Use element physics, 
+- [Dig The Water!](../games/puzzle/dig-the-water.md) — I need water to save all the flowers are in the fire! Dig the water to save it!!
+- [Dig This 3D](../games/puzzle/dig-this-3d.md) — "Dig It!" is a popular casual game in which you will have to show your ingenuity and resourcefulness to solve various lo
+- [Dig This Water](../games/puzzle/dig-this-water.md) — Dig This Water is game about digger water to put out the fire. This is top brain game this game helps to sharpen your br
+- [Dig Water](../games/puzzle/dig-water.md) — Help dig channels for water to put out the poor pineapples, a fun game that develops logic.
+- [Dig Water Puzzle](../games/puzzle/dig-water-puzzle.md) — Dig Water is very simple but at the same time very exciting. Just dig sand and flow water to rescue the burning palnts. 
+- [Digger Ball](../games/puzzle/digger-ball.md) — You must dig a tunnel for the ball to slide straight down to the target. On the way there may be obstacles in the form o
+- [Digger Ball 2](../games/puzzle/digger-ball-2.md) — In the second part of the game Digger Ball 2, you will continue to work on a special digger. Before you on the screen yo
+- [Digger Ball 3](../games/puzzle/digger-ball-3.md) — And in this part of the game Digger Ball 3 you will work with a digger. Before you on the screen you will see a doughnut
+- [Digging Moles](../games/puzzle/digging-moles.md) — Guide adorable moles to their colorful destinations by strategically digging tunnels in this charming physics puzzler. M
+- [Digit Hunter](../games/puzzle/digit-hunter.md) — Digit Hunter is a fast-paced reflex and logic game where quick thinking meets speed. Tap and hunt the correct digits bef
+- [Digital Circus Connect](../games/puzzle/digital-circus-connect.md) — Welcome to the Amazing Digital Circus Puzzle Connect Game! The game is pretty similar to Mahjong. Tap on Two identical T
+- [Digital Circus JigSaw](../games/puzzle/digital-circus-jigsaw.md) — Digital Circus Jigsaw is a brain puzzle assembly Game. Digital Circus Jigsaw comes with amazing puzzle image pack. Just 
+- [Digital Vehicles Jigsaw Puzzle](../games/puzzle/digital-vehicles-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the digital vehicles. The game
+- [Digital Vehicles Jigsaw Puzzle 2](../games/puzzle/digital-vehicles-jigsaw-puzzle-2.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the digital vehicles. The game
+- [DigitalHive](../games/puzzle/digitalhive.md) — Outsmart opponents on a dynamic hex grid by strategically placing and capturing numbered tiles. Enhance allies and form 
+- [Dimensional Rift 2048](../games/puzzle/dimensional-rift-2048.md) — Dive into Dimensional Rift 2048, where strategic sliding and merging of tiles shape entire realities. Navigate a captiva
+- [Dino Egg Shooter](../games/puzzle/dino-egg-shooter.md) — Dino Egg Shooter is a fun and addictive puzzle game set in a colorful prehistoric world. With 100 levels of increasing d
+- [Dino Eggs Bubble Shooter](../games/puzzle/dino-eggs-bubble-shooter.md) — Do you love bubble shooter games? Well! Dino Eggs Bubble Shooter comes with a new cool puzzle style. Aim and shoot 2 or 
+- [Dino Fusion Bubble Evolution](../games/puzzle/dino-fusion-bubble-evolution.md) — Dino Fusion Bubble Evolution is a captivating arcade game that challenges your matching and strategic skills. In this ga
+- [Dino Fusion Bubble Evolution](../games/puzzle/dino-fusion-bubble-evolution-2.md) — Immerse yourself in the vibrant prehistoric world of Dino Fusion Bubble Evolution, where strategic thinking meets fast-p
+- [Dino Jigsaw](../games/puzzle/dino-jigsaw.md) — Now it's time for wonderful game that's called Dino Jigsaw, let's solve puzzles! You can select one of the nine images a
+- [Dino Merger](../games/puzzle/dino-merger.md) — Dino-Merger is an addictive puzzle strategy game where players combine various dinosaur species to create powerful new h
+- [Dino Park Jigsaw](../games/puzzle/dino-park-jigsaw.md) — Dino Park Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choose one 
+- [Dino Party Jigsaw](../games/puzzle/dino-party-jigsaw.md) — Dinosaurs have organized a party, the birthday party of the youngest dinosaur will take place here today, would you like
+- [Dino Puzzle](../games/puzzle/dino-puzzle.md) — Combine the pieces and find the dinosaurs. Have fun!
+- [Dino Puzzles](../games/puzzle/dino-puzzles.md) — Dino Puzzles Jigsaw is a free online game from genre of puzzle and jigsaw really suitable games for kids! You can select
+- [Dino Puzzles](../games/puzzle/dino-puzzles-2.md) — Embark on a prehistoric adventure with Dino Puzzles! Unleash your inner paleontologist as you piece together vibrant din
+- [Dino Quest - Dig & Discover Dinosaur Fossil & Bone](../games/puzzle/dino-quest-dig-discover-dinosaur-fossil-bone.md) — Hop into a dinosaur game adventure around the world, and discover the mysteries of the dinosaurs in Dino Quest. Dinosaur
+- [Dino Sliding Puzzles](../games/puzzle/dino-sliding-puzzles.md) — Move image tiles to form the picture shown to the right side of the screen. Touch or click a piece to have it slide to t
+- [Dinosaur Age Jigsaw](../games/puzzle/dinosaur-age-jigsaw.md) — Dinosaur Age Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choose o
+- [Dinosaur Bone Game](../games/puzzle/dinosaur-bone-game.md) — Step into the world of ancient creatures with Dinosaur Bone Game, where you become an explorer searching for hidden foss
+- [DINOSAUR HUNTING DINO ATTACK Jigsaw](../games/puzzle/dinosaur-hunting-dino-attack-jigsaw.md) — Deadly dinosaur hunter shooter is like an unexplored expedition within the Jurassic island and world adventure & sniper 
+- [Dinosaur Jigsaw](../games/puzzle/dinosaur-jigsaw.md) — Dinosaur Jigsaw is a free online game from genre of puzzle and jigsaw really suitable games for kids! You can select one
+- [Dinosaur Merge Master Battle](../games/puzzle/dinosaur-merge-master-battle.md) — Merge your dinosaur army to go into battle and get the biggest dino on the block with the aim of merging all the dragons
+- [Dinosaur Merge Quest](../games/puzzle/dinosaur-merge-quest.md) — Can you think fast enough to merge dinosaurs and warriors to create the ultimate dino squad? Your mission is simple: com
+- [Dinosaur Pop It Jigsaw](../games/puzzle/dinosaur-pop-it-jigsaw.md) — Dinosaur Pop It Jigsaw is a free online game in the jigsaw puzzle genre. You have 6 images in three modes to play. Choos
+- [Dinosaur Spot The Difference](../games/puzzle/dinosaur-spot-the-difference.md) — Test your eyes in Dinosaur Spot the Difference! Look at two similar dinosaur pictures and find the hidden differences. E
+- [Dinosaurs Fight Jigsaw](../games/puzzle/dinosaurs-fight-jigsaw.md) — Dinosaurs Fight Jigsaw is a free online game from the genre of puzzle and jigsaw games. In this game, you have a total o
+- [Dinosaurs Jigsaw](../games/puzzle/dinosaurs-jigsaw.md) — In this Dinosaurs Jigsaw game, you have 6 images in three modes to play. Choose one of the modes for the game that you p
+- [Dinosaurs Jigsaw Puzzle Collection](../games/puzzle/dinosaurs-jigsaw-puzzle-collection.md) — Dinosaurs are ancient and powerful creatures. They lived on Earth long before the advent of mankind. These powerful tita
+- [Dinosaurs Life Jigsaw](../games/puzzle/dinosaurs-life-jigsaw.md) — Dinosaurs Life Jigsaw game is free online game and you have 6 images of dinosaurs in three modes to play. Choose one of 
+- [Dinosaurs Scary Teeth Puzzle](../games/puzzle/dinosaurs-scary-teeth-puzzle.md) — Dinosaurs Scary Teeth Puzzle is a free online game from the genre of puzzle and jigsaw games. In this game, you have a t
+- [DINOSAURS WORLD HIDDEN EGGS](../games/puzzle/dinosaurs-world-hidden-eggs.md) — The Dinosaurs are cute and awesome always Do you love Dinosaurs then here you can find the hidden alphabets inside of th
+- [Dirt Bike Stunts Puzzle](../games/puzzle/dirt-bike-stunts-puzzle.md) — Dirt Bike Stunts Puzzle is a free online game from the genre of puzzle and jigsaw games. In this game, you have a total 
+- [Dirt Motorbike Slide](../games/puzzle/dirt-motorbike-slide.md) — Play this slide puzzle games of the dirt motorbike. It's include 3 images and 3 modes to play.
+- [Dirtbike Racing Stunts](../games/puzzle/dirtbike-racing-stunts.md) — In this Dirtbike Racing Stunts game, you have 6 images in three modes to play. Choose one of the modes for the game that
+- [Dirty Off-Road Vehicles Jigsaw](../games/puzzle/dirty-off-road-vehicles-jigsaw.md) — Dirty Off-Road Vehicles Jigsaw game is a free online game in the jigsaw puzzle genre. You have 6 images in three modes t
+- [Disassemble the Cube Wooden in 3D!](../games/puzzle/disassemble-the-cube-wooden-in-3d.md) — Challenge your strategic prowess in this captivating 3D puzzle game. Rotate and slide wooden blocks to ingeniously clear
+- [Disassemble the Picture Puzzle!](../games/puzzle/disassemble-the-picture-puzzle.md) — Challenge your mind with Disassemble the Picture Puzzle! Strategically maneuver blocks in specific directions to unveil 
+- [Disk Area Game](../games/puzzle/disk-area-game.md) — Keep your finger on the screen to gain the necessary power and run the disk to a special area. The game is difficult. Si
+- [Disk Destroyer](../games/puzzle/disk-destroyer.md) — The Disk Destroyer game is simple in essence and not at all so simple in execution. The task is to use the yellow disc t
+- [Disney Aladdin Match3 Puzzle](../games/puzzle/disney-aladdin-match3-puzzle.md) — Collect puzzles based on the Disney feature film "Aladdin", wherever you are! Move the fragments around the screen in th
+- [Disney Christmas Jigsaw Puzzle](../games/puzzle/disney-christmas-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the disney christmas. The game
+- [Disney Christmas Jigsaw Puzzle 2](../games/puzzle/disney-christmas-jigsaw-puzzle-2.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the disney christmas. The game
+- [Disney Easter Jigsaw Puzzle](../games/puzzle/disney-easter-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the disney easter. The game co
+- [Disney Frozen](../games/puzzle/disney-frozen.md) — Get ready for an epic puzzle matching adventure in the Kingdom of Arendelle, inspired by Disney’s Frozen movie! Join Ann
+- [Disney Frozen 2 Jigsaw](../games/puzzle/disney-frozen-2-jigsaw.md) — The World of Disney’s Frozen comes to life in an exciting new match 3 puzzle adventure. Join Elsa, Anna, and Olaf as you
+- [Disney Halloween Jigsaw Puzzle](../games/puzzle/disney-halloween-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the disney halloween. The game
+- [Disney Match 3 Puzzle](../games/puzzle/disney-match-3-puzzle.md) — Jewels Legend 2020 (from LinkDesks Inc.) is an addictive and exciting adventure match 3 game filled with colorful jewels
+- [Disney Planes Jigsaw](../games/puzzle/disney-planes-jigsaw.md) — Disney Planes Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 12 images an
+- [Disney Princesses Jigsaw Puzzle](../games/puzzle/disney-princesses-jigsaw-puzzle.md) — Drag and drop the all picture pieces to their exact locations to complete the pictures of the disney princesses. The gam
+- [Disney Super Arcade](../games/puzzle/disney-super-arcade.md) — It's possible now to play Disney Super Arcade game in your web browser for free at Superkidgames.com and more fun games.
+- [DiviDrop](../games/puzzle/dividrop.md) — Dive into DiviDrop's strategic thrill! Toss numbers onto a dynamic 3x3 grid where divisibility dictates your survival. W
+- [Dize puzzles: 2048 Merge!](../games/puzzle/dize-puzzles-2048-merge.md) — This game is harder than it seems! You have a playing field where you need to throw fruits and connect the same ones! Un
+- [Dizzy Donut](../games/puzzle/dizzy-donut.md) — It’s Dizzy Donut the hottest game on the charts at the moment! Tap To Match The Crazy Donuts As Many As You Can! Memory 
+- [Dizzy Kawaii](../games/puzzle/dizzy-kawaii.md) — Dizzy Kawaii a fun and interesting matching game. Tap To Match The Crazy Kawaii As Many As You Can! This Game new mix of
+- [Dizzy Sushi](../games/puzzle/dizzy-sushi.md) — Dizzy Sushi a fun reflex game to match as many items as you can. this game is a mix of speed, memory, and skills! You wa
+- [Doctor Bubble](../games/puzzle/doctor-bubble.md) — Dive into a colorful bubble-blasting frenzy with Doctor Bubble! Match and pop clusters with precision to clear the board
+- [Doctor Hero](../games/puzzle/doctor-hero.md) — Doctor Hero is a surgery game where you start as a medical intern at a hospital, and rank up to become a doctor or surge
+- [Dodge Challenger](../games/puzzle/dodge-challenger.md) — Your goal in this game is to dodge the walls for as long as possible. Collect stars to unlock new balls and keep an eye 
+- [Dodge Challenger SRT8 Puzzle](../games/puzzle/dodge-challenger-srt8-puzzle.md) — Play with 6 images in this perfect jigsaw puzzle game: Dodge Challenger SRT8 Puzzle. All images is with the car - Dodge 
+- [Dodge Or Die](../games/puzzle/dodge-or-die.md) — You are an alien stuck in a room with other aliens who are trying to kill you! Some of them crawl on the ground toward y
+- [Dodge the bullet](../games/puzzle/dodge-the-bullet.md) — Dumagu Zombies Night game has a lot of success review and player this MONTH that significantly improves overall game per
+- [Dodging Ball](../games/puzzle/dodging-ball.md) — Dodging Ball is a complicated game with ball. You need to balance ball on the beam and to avoid flying boxes. It is not 
+- [Dodging Ball Game](../games/puzzle/dodging-ball-game.md) — Change the inclination of the platform to avoid the ball from colliding with falling cubes. The game is difficult. Simpl
+- [Dog and Cat Jigsaw Joyride](../games/puzzle/dog-and-cat-jigsaw-joyride.md) — Unleash your inner puzzle master with Dog and Cat Jigsaw Joyride! Delight in sliding jumbled pieces into place, revealin
+- [Dog Bee Rescue - Puzzle Game](../games/puzzle/dog-bee-rescue-puzzle-game.md) — Draw barriers to shield a lovable puppy from threatening bees in this delightful puzzle adventure. Use your finger to sk
+- [Dog Blocks](../games/puzzle/dog-blocks.md) — Immerse yourself in Dog Blocks, a puzzle game that challenges you to fill block spaces using dog-themed pieces. As level
+- [Dog Puzzle](../games/puzzle/dog-puzzle.md) — Revel in the delightful world of Dog Puzzle, where kids can sharpen their problem-solving skills by rearranging scramble
+- [Doge Blocks](../games/puzzle/doge-blocks.md) — Doge Blocks is an addictive online puzzle game. The game design is unique, with a cute dog image as the theme, which add
+- [Doge Match](../games/puzzle/doge-match.md) — Embark on a delightful puzzle quest in Doge Match, where vibrant canine companions await your strategic touch. Connect c
+- [Doggy Quest](../games/puzzle/doggy-quest.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Doggy Run](../games/puzzle/doggy-run.md) — Doggy game has a lot of success review and player this MONTH that significantly improves overall game performance, espec
+- [Dogs Connect Deluxe](../games/puzzle/dogs-connect-deluxe.md) — Dogs Connect Deluxe is a classic puzzle game, inspired by popular Chinese Block removal game, Mahjong. In this you need 
+- [Dogs Jigsaw](../games/puzzle/dogs-jigsaw.md) — Dogs Jigsaw game is free online game and you have 6 images in three modes to play. Choose one of the mode for the game t
+- [Dogs Spot The Differences](../games/puzzle/dogs-spot-the-differences.md) — Immerse yourself in the charming world of Dogs: Spot the Differences, a puzzle game featuring scenes filled with adorabl
+- [Dogs Spot The Differences 2](../games/puzzle/dogs-spot-the-differences-2.md) — Immerse yourself in the charming world of Dogs: Spot the Differences - 2, a puzzle game featuring scenes filled with ado
+- [Dogy Bubble Shooter](../games/puzzle/dogy-bubble-shooter.md) — Aim and match bubbles where you want to shoot the bubble. Match 3 or more bubbles to make them burst. It's a ancient puz
+- [Doll Doll](../games/puzzle/doll-doll.md) — Doll Doll is a fun fighting game combined with collection elements, where you roam the map to gather adorable Doll rabbi
+- [Doll Doll](../games/puzzle/doll-doll-2.md) — Embark on a whimsical journey in Doll Doll, a battle of cute and chaos. Gather and match colorful Doll rabbits for explo
+- [Dolls Couples Puzzle](../games/puzzle/dolls-couples-puzzle.md) — Dolls Couples Puzzle game is free online game in jigsaw puzzle genre. You have 6 images in three modes to play. Choose o
+- [Domestic Animals Jigsaw](../games/puzzle/domestic-animals-jigsaw.md) — In this Domestic Animals Jigsaw game, you have 6 images in three modes to play. Choose one of the modes for the game tha
+- [Domestic Birds Puzzle](../games/puzzle/domestic-birds-puzzle.md) — In this Domestic Birds Puzzle game you have 6 images with domestic birds,in three modes to play. Choose one of the mode 
+- [Domino Camp](../games/puzzle/domino-camp.md) — 🀄 Domino Camp is a fun and addictive puzzle game where strategy meets quick thinking! Match domino tiles, clear the boa
+- [Domino Fall 3D](../games/puzzle/domino-fall-3d.md) — Can you make all the domino fall?
+- [Domino Falls 3D](../games/puzzle/domino-falls-3d.md) — You will be saved from pressure by the magical domino effect. Aim at one domino and shot it to strike all down! Challeng
+- [Dominoe](../games/puzzle/dominoe.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [DOMINOES 3D](../games/puzzle/dominoes-3d.md) — Very fun and exciting Domino Shot 3D game with lot of cool levels to play with. Aim and strike the ball at one domino to
+- [Dominoes BIG-3](../games/puzzle/dominoes-big-3.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Dominoes Domino](../games/puzzle/dominoes-domino.md) — Breaking news:
+- [Don't Drop The Cup](../games/puzzle/don-t-drop-the-cup.md) — Don't Drop The Cup challenges you to eliminate blocks beneath a balancing cup without it toppling. Navigate through incr
+- [Don't Move](../games/puzzle/don-t-move.md) — Sharpen your memory and perception in this tense game of precision and focus. Identify the subtly shifting monster on a 
+- [Don t touch my fish](../games/puzzle/don-t-touch-my-fish.md) — are you ready to play best classic game for kid and family play now with your friends this game she have great graphics 
+- [Donald Duck  Jigsaw Puzzle Collection](../games/puzzle/donald-duck-jigsaw-puzzle-collection.md) — Donald Duck is a favorite of many children around the world. His voice is not to be confused with anything else. Of the 
+- [Dont Drop The Soap](../games/puzzle/dont-drop-the-soap.md) — Welcome to Don’t Drop the Soap! The object is simple. Keep the soap in the air for as long as you can, and pop as many b
+- [Dont Explode the Ball](../games/puzzle/dont-explode-the-ball.md) — In this game, you control a ball and have to do your best to avoid touching spikes and getting exploded! Top and bottom 
+- [Dont Get Spooked Jigsaw](../games/puzzle/dont-get-spooked-jigsaw.md) — Dont Get Spooked Jigsaw is a free online game from genre of jigsaw puzzle and cartoon games. You can select one of the 6
+- [Donut Art: Puzzle Diamond Game](../games/puzzle/donut-art-puzzle-diamond-game.md) — Welcome to sweet food puzzle sorting games adventure where colorful donut sort bring pictures to life! In diamond art pu
+- [Donut Balance](../games/puzzle/donut-balance.md) — Guide donuts through vibrant puzzles in Donut Balance, where fun meets mindful eating. Navigate colorful levels with eas
+- [Donut Crash Saga](../games/puzzle/donut-crash-saga.md) — This cool game three in a row, in which you have to put the donuts of the same color in a series of three pieces or more
+- [Donut Crash Saga](../games/puzzle/donut-crash-saga-2.md) — Indulge in a sweet adventure with Donut Crash Saga. Match colorful donuts in groups of three or more to rack up points, 
+- [Donut Sort Fun](../games/puzzle/donut-sort-fun.md) — Donut Sort Fun is a free and online game of donuts stacking and sorting for boys. Donuts with different colors are strun
+- [DonutCats](../games/puzzle/donutcats.md) — Place the springs and help the funny donutcats get into the cozy gift box. Use jetpacks, teleports and huge fans. Collec
+- [Donutosaur](../games/puzzle/donutosaur.md) — Feed hungry adorable monster named Donatosaur. He likes candies but the thing he likes the most is a sweet yumy Donut!
+- [Donuts Crush Saga](../games/puzzle/donuts-crush-saga.md) — Donuts Crush Saga is a classic match-3 puzzle game. Merge the donuts in order to get amazing in game boosters and win th
+- [Donuts Match](../games/puzzle/donuts-match.md) — Indulge in Donuts Match, a charming puzzle game that tantalizes your strategic skills. Connect clusters of colorful donu
+- [Donuts Pop](../games/puzzle/donuts-pop.md) — Welcome to Donut puzzle world! Tap or click to pop 2 or more identical donuts to finish your mission. Explore tons of am
+- [Donuts Popping Time](../games/puzzle/donuts-popping-time.md) — Do you love bubble shooter games? Welcome to Donuts Popping Time, a donuts bubble shooting game! Aim and release to shoo
+- [Doodle Boba Bubble Tea.](../games/puzzle/doodle-boba-bubble-tea.md) — Tangy and fruity or sweet and milky? The combinations are endless! Honeydew, matcha, raspberry, mocha – no matter the fl
+- [Doors Awakening](../games/puzzle/doors-awakening.md) — This is a challenging puzzle-solving online game. This game has wonderful 3D graphics enabling you to explore the handcr
+- [Doors Awakening](../games/puzzle/doors-awakening-2.md) — Unleash your inner detective in Doors Awakening, a mesmerizing 3D puzzle adventure. Navigate intricately designed levels
+- [DOP Fun: Delete One Part](../games/puzzle/dop-fun-delete-one-part.md) — Play the popular logic game DOP Fun: Delete One Part! This game invites you to use logic to tackle engaging and smart pu
+- [DOP Fun Delete One Part](../games/puzzle/dop-fun-delete-one-part-2.md) — Test your brain with DOP Fun: Delete One Part! This interactive puzzle game will challenge your thinking and keep you ho
+- [DOP in Love Story Find Part](../games/puzzle/dop-in-love-story-find-part.md) — Step into the shoes of a detective in this addictive puzzle adventure. Use a unique scanner tool to unveil hidden clues 
+- [DOP Puzzle: Displace One Part](../games/puzzle/dop-puzzle-displace-one-part.md) — DOP Puzzle: Displace One Part is a DOP game that will help you have fun testing your IQ. The game is a DOP puzzle game w
+- [DOP Puzzle. Displace One Part](../games/puzzle/dop-puzzle-displace-one-part-2.md) — Transform worlds with a strategic flick of your cursor in DOP Puzzle Displace One Part. Delve into whimsical scenarios, 
+- [Dop Puzzle Erase Master](../games/puzzle/dop-puzzle-erase-master.md) — It is an interesting online game that will take you to an unparalleled puzzle-solving experience. To solve the puzzles, 
+- [Dop Puzzle Erase Master](../games/puzzle/dop-puzzle-erase-master-2.md) — Uncover hidden secrets in each image by cleverly erasing parts of the scene in Dop Puzzle Erase Master. With intuitive m
+- [DOP Rainbow Friends](../games/puzzle/dop-rainbow-friends.md) — What do rainbow friends look like? Come into our game and find out! In the game dop rainbow friends you will meet all yo
+- [DOP2 Delete part in Love Story](../games/puzzle/dop2-delete-part-in-love-story.md) — Unveil love's path in DOP2 Delete Part in Love Story, a whimsical puzzle adventure. Sharpen your observation skills to d
+- [Dora and the Lost City of Gold Jigsaw Puzzle](../games/puzzle/dora-and-the-lost-city-of-gold-jigsaw-puzzle.md) — Zazgames is a place where you can infinitely play assembling online jigsaw puzzles.let's see how fast can you solve this
+- [Dora Candy Land](../games/puzzle/dora-candy-land.md) — Dora Candy Land Match3 puzzle game. Super match3 game with Dora and Candy. Swap two candies and get three or more in a r
+- [Dora Exploring Jigsaw](../games/puzzle/dora-exploring-jigsaw.md) — Dora Exploring Jigsaw is a free online game from genre of puzzle and jigsaw games. You can select one of the 6 images an
+- [Dora find differences](../games/puzzle/dora-find-differences.md) — Find all the seven differences in Dora find differences. Discover all differences and click on them to. When all images 
+- [Dora Find Hidden Map](../games/puzzle/dora-find-hidden-map.md) — find any map in hidden Dora the Explorer puzzle game!
+- [Dora - Find Seven Differences](../games/puzzle/dora-find-seven-differences.md) — Dora - Find Seven Differences is interesting kids game with cartoon theme and it's time for you to have fun! In this gam
+- [Dora Happy Easter Differences](../games/puzzle/dora-happy-easter-differences.md) — Do you like Dora the Explorer? Do you like to play puzzle games? If you only have confidence in yourself, then join Dora
+- [Dora Hidden Maps](../games/puzzle/dora-hidden-maps.md) — Dora Hidden Maps is a free online skill and hidden object game. Find out the hidden stars in the specified images. Each 
+- [Dora Match3](../games/puzzle/dora-match3.md) — Dora Match3 is a colorful puzzle adventure featuring your favorite explorer. Match gems, fruits, and other fun items to 
+- [Dora Memory Challenge](../games/puzzle/dora-memory-challenge.md) — Dora Memory Challenge is fun online game suitable for all ages, It's the classic game of Memory with your friends from D
+- [Dora Puzzle Challenge](../games/puzzle/dora-puzzle-challenge.md) — Dora Puzzle Challenge is a super fun jigsaw game for kids! Solve colorful puzzles, match the pieces, and enjoy a playful
+- [Dora Spot The Difference](../games/puzzle/dora-spot-the-difference.md) — Come on, let's find a differences between two images. Thus, our cute Dora will be very happy. Good luck and have fun!
+- [Dora the Explorer Clicker GAme](../games/puzzle/dora-the-explorer-clicker-game.md) — Click on the flying heroes from the Dora the Explorer cartoon as soon as possible. No hero should fall!
+- [Dora the Explorer: Find Hidden Map](../games/puzzle/dora-the-explorer-find-hidden-map.md) — Embark on a vibrant quest with Dora to uncover the missing map! Navigate colorful scenes, crack engaging puzzles, and di
+- [Dora The Explorer Jigsaw Puzzle](../games/puzzle/dora-the-explorer-jigsaw-puzzle.md) — Dora the Explorer Jigsaw Puzzle is fun online game for kids and you can play it for free. Play this game in your browser
+- [Dora the Explorer Jigsaw Puzzle Collection](../games/puzzle/dora-the-explorer-jigsaw-puzzle-collection.md) — In today's game, you will find 12 puzzles that you need to collect to experience the adventures of Dora the Explorer. As
+- [Dora the Explorer Match 3 Puzzle Game](../games/puzzle/dora-the-explorer-match-3-puzzle-game.md) — In today's game, you will find 12 puzzles that you need to collect to experience the adventures of Dora the Explorer. As
+- [Dora the Explorer Slide](../games/puzzle/dora-the-explorer-slide.md) — Find out what the charming Dasha is going to do on the weekend. She is going on an exciting hike again, and you can watc
+- [Dora the Explorer the Coloring Book](../games/puzzle/dora-the-explorer-the-coloring-book.md) — Dora the Explorer the Coloring Book is cool coloring game for kids and adults. Play Dora the Explorer the Coloring Book 
+- [Dora the Puzzle Challenge](../games/puzzle/dora-the-puzzle-challenge.md) — Dora the Puzzle Challenge is an amazing and free to play puzzle game suitable for all ages to play. Choose one of the cu
+- [Dora Winter Holiday Puzzles](../games/puzzle/dora-winter-holiday-puzzles.md) — Dora Winter Holiday Puzzles is super fun and free to play jigsaw game that you can play online in your browser or any mo
+- [Doroppuboru](../games/puzzle/doroppuboru.md) — Drop the ball into similar balls below to merge them and turn them into a new balls. Play on mobile and PC. Good luck!
+- [Dot and Box](../games/puzzle/dot-and-box.md) — Connect the dots to form lines and claim squares in a strategic battle of wits! With each move, shape the board and seiz
+- [Dot and Dot](../games/puzzle/dot-and-dot.md) — Dot and Dot is a vibrant puzzle game where players connect matching dots without crossing paths.Challenge yourself acros
+- [Dot and Dot](../games/puzzle/dot-and-dot-2.md) — Dot and Dot is a colorful puzzle game where players connect matching colored dots on a grid. The goal is to create paths
+- [Dot Crusher](../games/puzzle/dot-crusher.md) — Before you on the screen you will see a playing field on which there will be two planks. A ball will hang between them i
+- [Dot Dodge](../games/puzzle/dot-dodge.md) — Put your reflexes to the test in Dot Dodge, an exciting arcade game that challenges your timing, precision, and focus. C
+- [Dot Dot](../games/puzzle/dot-dot.md) — This is puzzle reflexive game with dots. There is two kinds of dots. Red one and yellow. The dots with same color need t
+- [Dot Dot Game](../games/puzzle/dot-dot-game.md) — Watch the multi-colored approaching balls and choose to skip them or not. The game is difficult. Simple and addictive ga
+- [Dot Frame](../games/puzzle/dot-frame.md) — Keep color dot in frame with same color and get maximum score. Tap on screen to rotate frame, avoid border with yellow c

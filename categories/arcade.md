@@ -6,4 +6,4 @@ Short arcade rounds on InkwenGame—agility challenges, classic score chases, an
 
 ## Games
 
-- [2048](../games/arcade/2048.md) — 2048 Puzzle is fun puzzle game.In this game you have to merge the number a make a bigger number .
+- [2048](../games/arcade/2048.md) — 
