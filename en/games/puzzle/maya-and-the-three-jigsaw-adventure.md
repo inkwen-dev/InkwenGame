@@ -19,6 +19,6 @@ Welcome to Maya and the Three Jigsaw Adventure! Our Maya and the Three Jigsaw Ad
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Click, Fun, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle, Simulation

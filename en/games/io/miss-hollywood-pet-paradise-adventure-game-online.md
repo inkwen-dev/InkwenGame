@@ -19,6 +19,6 @@ Miss Hollywood: Pet Paradise Adventure Game online free, Miss Hollywood and a gr
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Barbie, Best, Cartoon, Cartoon Network, Girls, Holiday, Kids, Online, Panda

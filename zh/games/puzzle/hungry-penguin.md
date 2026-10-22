@@ -1,0 +1,24 @@
+# 饥饿的企鹅
+
+<a href="https://inkwengame.com/zh/games/hungry-penguin" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/hungry-penguin/cover.jpg)
+
+尽可能多地吃鱼，但要小心炸弹。游戏目标是吃掉所有鱼，如果你掉落超过3条鱼，游戏就会结束。尽情享受乐趣吧。
+
+## 怎么玩
+
+使用鼠标操作游戏或点击屏幕
+
+## 介绍
+
+尽可能多地吃鱼，但要小心炸弹。游戏目标是吃掉所有鱼，如果你掉落超过3条鱼，游戏就会结束。尽情享受乐趣吧。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: portrait
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 动物, 休闲, 鱼, 有趣, HTML5, 儿童, 移动设备, 技巧

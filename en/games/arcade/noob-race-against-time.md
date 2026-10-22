@@ -19,6 +19,6 @@ In this adventure, you need to collect all the gold and obtain the key to the ch
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, mineblock, Minecraft, Pixel

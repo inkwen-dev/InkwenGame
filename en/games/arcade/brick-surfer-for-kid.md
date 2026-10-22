@@ -19,6 +19,6 @@ Brick Surfer is an arcade running game. How can we pass that dangerous road? The
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Collecting, Girl, Hypercasual, Kid, run

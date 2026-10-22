@@ -19,6 +19,6 @@ Spiderman Hero - Vice City Gangster Fight 2021 is an epic open world third perso
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, 8 Ball Pool, Animal, Baby Hazel, Batman, Ben 10, Boy, Boys, Bubble Shooter, city, Cute, Games, Girl, Kids, Ninja, Spiderman, Superhero

@@ -19,6 +19,6 @@ In the game, you need to take care of the kid who does not give anyone to get bo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Casual, Cute, Educational, Girl, Girls, H5, HTML5

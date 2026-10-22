@@ -19,6 +19,6 @@ Collect the maximum score by exploding the tiles.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Brain, Casual, Clicker, Color, Kids, Logic, Match 3, Match3, Matching, Monster, Puzzle, puzzleblock

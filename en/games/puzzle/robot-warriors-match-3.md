@@ -19,6 +19,6 @@ Robot Warriors Match 3 – this cool game three in a row, in which you have to p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Match3, Mobile, Puzzle, Skill

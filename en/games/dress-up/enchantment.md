@@ -19,6 +19,6 @@ Help Mira put her face in order. Eliminate dark circles under the eyes, even out
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon, Cute, Disney, Dress Up, Fashion, Girl, Hair, HTML5, Jewel, Makeover, Princess, Superhero

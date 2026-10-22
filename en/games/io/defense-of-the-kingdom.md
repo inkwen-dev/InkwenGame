@@ -19,6 +19,6 @@ The key to protecting the kingdom from aggressive monsters is strategy. Each mus
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2D, Action, Adventure, Android, Arcade, Army, Clans, Pixel, temple

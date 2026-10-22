@@ -21,4 +21,4 @@ Welcome to the delightfully relaxing fish games! Join this aquarium building gam
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, fishing
+- Tags: Fish, Fishing

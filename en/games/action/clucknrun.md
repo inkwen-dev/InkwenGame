@@ -19,6 +19,6 @@ Embark on a thrilling journey through the countryside in ClucknRun, where your m
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Chicken, endless, farm, Relaxation, running, Truck
+- Tags: 3D, Chicken, endless, Farm, Relaxation, running, Truck

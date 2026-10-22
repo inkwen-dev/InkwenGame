@@ -19,6 +19,6 @@ Push to Go &ndash; A Fun &amp; Addictive Puzzle Adventure! Get ready for an exci
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: free html5 games for your website, games for your website, html games for your website, Puzzle, WebGL

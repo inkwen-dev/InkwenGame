@@ -21,4 +21,4 @@ use WASD to control the character mouse to look around and button inside game to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, horror, Monster
+- Tags: Action, Horror, Monster

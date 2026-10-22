@@ -19,6 +19,6 @@ The Angels girls friends group are going to have a meetup. They are confused abo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Barbie, Cleaning, Cook, Cooking, Dora, Dress Up, Girls, Hair, Princess

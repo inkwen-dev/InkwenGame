@@ -21,4 +21,4 @@ Welcome to Clickdom — a charming clicker where every tap brings your kingdom o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, management, mouse
+- Tags: Clicker, idle, Management, Mouse

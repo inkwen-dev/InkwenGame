@@ -19,6 +19,6 @@ Santa Gift Breaker is a free online game that challenges players to break Santa'
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Crazy, Fun, HTML, HTML5, Love, Online, Puzzle

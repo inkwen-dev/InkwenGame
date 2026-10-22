@@ -21,4 +21,4 @@ Help alex to build their farm business story , collect any coin and reward from 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Match 3, Puzzle
+- Tags: Farm, Match 3, Puzzle

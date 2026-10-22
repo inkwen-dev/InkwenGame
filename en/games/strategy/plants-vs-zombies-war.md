@@ -19,6 +19,6 @@ Plants Vs Zombies War is based on the famous PC game called Plants VS Zombies. T
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Tower Defense

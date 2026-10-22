@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 颜色, 涂色, 休闲, 物理, 射击, Unity3D
+- 标签: 3D, 3D游戏, 颜色, 涂色, 超休闲, 物理, 射击, Unity3D

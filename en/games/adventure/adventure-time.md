@@ -19,6 +19,6 @@ Adventure Time follows the adventures of a boy named Finn the Human (voiced by J
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, Anime, Cartoon, Cartoon Network, Girl, Girls

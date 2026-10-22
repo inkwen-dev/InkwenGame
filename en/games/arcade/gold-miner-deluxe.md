@@ -19,6 +19,6 @@ You’re a gold miner and it’s your job to mine as much gold, diamond and come
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML5, Puzzle

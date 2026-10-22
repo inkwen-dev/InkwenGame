@@ -19,6 +19,6 @@ In the thrilling 2D Car Racing 2023 game, players are thrust into the fast-paced
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Car, HTML5, iPad, iPhone, Mentolatux, Mobile, Racing, Unity3D

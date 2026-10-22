@@ -17,4 +17,4 @@ Dive into the fast-paced card game action of 4 Colors Multiplayer! Strategically
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

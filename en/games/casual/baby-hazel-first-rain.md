@@ -19,6 +19,6 @@ Lets enjoy Baby Hazel's first rain with her friend and Bunny the hare. Oh no! Ca
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Hazel, Girls, Kids

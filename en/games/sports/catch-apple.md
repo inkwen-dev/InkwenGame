@@ -19,6 +19,6 @@ This is very funny and simple game! The apples are falling and you've got to cat
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ballon, Basketball, Bird, Bounce, Casual

@@ -19,6 +19,6 @@ Super Mario Adventure Kids Game platformer game The best action adventure game o
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Android, endless, Escape, HTML5, Mario, Minecraft, Mobile, Puzzle, Rescue, Stickman, Superhero

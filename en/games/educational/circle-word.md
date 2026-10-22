@@ -19,6 +19,6 @@ Circle Word is a HTML5 game is a word challenge game that you have to connect al
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Educational, Fun, Funny, Kids, Letters, Skill, Skills, Word

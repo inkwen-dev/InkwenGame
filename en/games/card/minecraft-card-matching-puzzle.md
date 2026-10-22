@@ -21,4 +21,4 @@ Minecraft Card Matching Puzzle is a fun and relaxing card matching game that tes
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, card, Classic, Fun, Funny, Matching, Minecraft, Pixel, Puzzle, puzzleblock
+- Tags: 1 Player, 2D, Card, Classic, Fun, Funny, Matching, Minecraft, Pixel, Puzzle, puzzleblock

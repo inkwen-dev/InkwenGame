@@ -21,4 +21,4 @@ Boats Race is an arcade racing game with boats. You will drive your boat in the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, boat, Kids, Obstacle, Race
+- Tags: Arcade, Boat, Kids, Obstacle, Race

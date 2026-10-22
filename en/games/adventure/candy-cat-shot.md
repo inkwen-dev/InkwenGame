@@ -19,6 +19,6 @@ Get ready to embark on a purr-fectly thrilling adventure with Candy Cat Shot: Fe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Fun, iPad, Mobile

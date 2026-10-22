@@ -19,6 +19,6 @@ Let's play our new jigsaw puzzle game called Heroes of the City Jigsaw. You can 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Cartoon, Casual, Fun, HTML5, Jigsaw, Kids, Skill, train
+- Tags: Car, Cartoon, Casual, Fun, HTML5, Jigsaw, Kids, Skill, Train

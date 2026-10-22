@@ -19,6 +19,6 @@ Enter the mesmerizing world of Link Flow, where logic meets creativity in a capt
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Color, Drawing, Logic, Matching, Puzzle

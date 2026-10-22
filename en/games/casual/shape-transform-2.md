@@ -19,6 +19,6 @@ Are you the best shape changer? This addictive game will speed up time in your d
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Ball, Best, Casual, Color, HTML, Hypercasual, Unity3D

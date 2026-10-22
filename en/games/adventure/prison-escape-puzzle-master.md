@@ -21,4 +21,4 @@ Think prison life is boring? Think again! Prison Master: Escape Journey 3D turns
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Adventure, Brain, Casual, Escape, Fun, Levels, Logic, prison
+- Tags: 2025 games, 3D Games, Adventure, Brain, Casual, Escape, Fun, Levels, Logic, Prison

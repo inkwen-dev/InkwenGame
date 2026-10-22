@@ -19,6 +19,6 @@ Now it's time for wonderful racing cars, let's have fun! Behind these pictures a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cartoon, Difference, HTML5, Kids, Mobile, Racing, Skill

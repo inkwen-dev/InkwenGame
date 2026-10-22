@@ -19,6 +19,6 @@ Get ready for a brawl! Choose your character then jump into the arena as you try
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arena, Battle, Battlegrounds, Gun, Multiplayer, Shoot, Shoot 'Em Up, Shooter, Shooting, weapons

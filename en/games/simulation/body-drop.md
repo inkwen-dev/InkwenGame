@@ -19,6 +19,6 @@ Body Drop is an exciting game with realistic physics and excellent three&mdash;d
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: destroy, destroying, destruction, Fun, Physics, Simulator, Stickman

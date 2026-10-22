@@ -19,6 +19,6 @@ The Magic Egg is a fun platform game in which you control the mighty chuck the c
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Chicken, Kill, Killing, Shoot, Shooting

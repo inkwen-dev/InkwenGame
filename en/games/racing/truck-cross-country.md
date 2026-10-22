@@ -19,6 +19,6 @@ Here is a Jeep truck driving racing simulation game with 3D models. We need you 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Driving, Mobile, Racing, Simulation, Timing, Truck

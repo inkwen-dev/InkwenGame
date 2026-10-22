@@ -17,4 +17,4 @@ Dive into Fishing Frenzy, where each thrilling cast tests your angling skills. N
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

@@ -19,6 +19,6 @@ Squid Game Shooter is a 3D survival game. Fight for survival against the enemies
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Gun, Hot, Shooter, Shooting

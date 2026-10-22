@@ -19,6 +19,6 @@ From the enemy's provocation with the heaviest fist, the most accurate direction
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Kid, Kids, Obstacle, Punch, Puzzle, Stickman

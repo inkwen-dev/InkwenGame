@@ -19,6 +19,6 @@ The main goal will be to dodge individual obstacles and to get as far as possibl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, H5, jump, Jumping, Race, Racing, run, running, subway, Subway Surfers

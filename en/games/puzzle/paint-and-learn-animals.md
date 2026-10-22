@@ -19,6 +19,6 @@ How many animals can you recognize? You must know many kinds of animals. Here we
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, Color, Coloring, Cute, Decorate, Decoration, Dress Up, Educational, Fun, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ Welcome to the off road bus game. This is a fun and exciting game where you driv
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Adventure, bus, offroad, Simulation, Simulator

@@ -19,6 +19,6 @@ Welcome to the incredible monster hero fighting city mission of 2021. The concep
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Fun, Girls, HTML5, Kids, Mobile, Super, Superhero

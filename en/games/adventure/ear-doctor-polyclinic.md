@@ -19,6 +19,6 @@ Examine your patients carefully, find the source of their pain, and start treati
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Escape, Funny, Multiplayer

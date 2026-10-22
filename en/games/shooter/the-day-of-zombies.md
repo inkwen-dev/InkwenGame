@@ -19,6 +19,6 @@ The Day of Zombies is a zombie survival shooter game where you play as an americ
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, survival, Unity3D, War, Zombie

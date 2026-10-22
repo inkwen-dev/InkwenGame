@@ -21,4 +21,4 @@ Dive into a adventure in Collect And Break which is running game! In this fun ar
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, mouse, running
+- Tags: 1 Player, Mouse, running

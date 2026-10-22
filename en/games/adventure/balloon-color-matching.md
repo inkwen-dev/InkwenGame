@@ -19,6 +19,6 @@ To pop balloons and surpass top scores, match their colors! Your ability to matc
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Color, Game, Games, Hypercasual, Online

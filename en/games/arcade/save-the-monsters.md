@@ -19,6 +19,6 @@ Save all of the hanging monsters before they run out of air. Use your bow and ar
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, Monster, Puzzle

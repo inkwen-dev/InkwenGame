@@ -19,6 +19,6 @@ Subway Boys Multiplayer is an endless runner game. As the hooligans run, they gr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, H5, HTML, HTML5, Mobile, Multiplayer, Racing, subway, Subway Surfers

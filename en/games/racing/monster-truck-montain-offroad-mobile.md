@@ -19,6 +19,6 @@ Are you completely obsessed with racing games involving monster trucks? You are 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Car, Driving, HTML, HTML5, Mobile, Racing, Simulator, Supercars

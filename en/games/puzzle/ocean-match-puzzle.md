@@ -19,6 +19,6 @@ Ocean Match Puzzle is a fun and addictive puzzle game where you dive into the de
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Casual, Fun

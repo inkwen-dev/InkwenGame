@@ -21,4 +21,4 @@ Fishing Life&mdash;a relaxing clicker game with 2D cartoon visuals. Choose your 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Casual, Clicker, fishing, onetouch, Simulation
+- Tags: 2D, Casual, Clicker, Fishing, onetouch, Simulation

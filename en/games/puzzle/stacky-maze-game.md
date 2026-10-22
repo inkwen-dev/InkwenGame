@@ -19,6 +19,6 @@ Stacky Maze Game is a fun and challenging puzzle game that will test your strate
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Game, Maze, Puzzle

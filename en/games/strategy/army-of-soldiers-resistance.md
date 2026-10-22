@@ -19,6 +19,6 @@ Defend your country against monsters and savages creatures in epic battles. A cr
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Battle, Defense, Monster, Shoot, Simulation, Strategy, Tower Defense

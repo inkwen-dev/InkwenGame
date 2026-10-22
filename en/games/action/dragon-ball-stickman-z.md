@@ -19,6 +19,6 @@ This fighting game will give you a chance to become one of Dragon Ball Z heroes 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Arcade, Battle, Battlegrounds, Brawl, Clash, Defense, Dragon Ball Z, Fighting, Game, Games, Monster, Stickman, Street Fighting

@@ -21,4 +21,4 @@ A game where you are a cowboy in the old west full of zombies. In this game you 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, apocalypse, construction, Enemies, horror, HTML5, Platform, Shoot, Shooter, survival, Violence, Zombie
+- Tags: 1 Player, 2D, Action, apocalypse, construction, Enemies, Horror, HTML5, Platform, Shoot, Shooter, survival, Violence, Zombie

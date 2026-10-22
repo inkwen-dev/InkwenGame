@@ -19,6 +19,6 @@ Dive into a dynamic world of color and speed! In this exciting arcade game, you 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, amazing, Arcade, Ball, Casual, free html5 games for your website, Game, HTML5, Kids, Levels, slide, Unity3D, WebGL

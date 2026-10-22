@@ -19,6 +19,6 @@ Grass Cut Master is a fun hypercasual simulation game. You have to cut the grass
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, farm, Fun, Funny, Girls, Hypercasual, Simulation, Simulator, Stickman
+- Tags: Boy, Farm, Fun, Funny, Girls, Hypercasual, Simulation, Simulator, Stickman

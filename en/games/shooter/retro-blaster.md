@@ -19,6 +19,6 @@ Blast and shoot to defend the precious power crates from the alien space pirates
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Arcade, Battle, Flight, Shoot 'Em Up, Space, Spaceship, War

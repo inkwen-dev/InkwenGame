@@ -21,4 +21,4 @@ Get ready for a thrilling horror adventure in Cameraman vs Skibidi Survival! In 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Funny, horror, Shoot, survival
+- Tags: Funny, Horror, Shoot, survival

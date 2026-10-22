@@ -19,6 +19,6 @@ From the series of Adventure Hero game here we release the next levels of the ga
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Boys, Collecting, Girls, HTML5, Kids, Platform, Puzzle

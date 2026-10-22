@@ -19,6 +19,6 @@ In the new game Squeezed Orange, we will be preparing cold juice. In front of yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Fruit, Fun, Funny, Hypercasual, Kids, Mobile, Skill

@@ -21,4 +21,4 @@ Match 3 Meets Real Time Strategy in this Sci Fi Action Puzzler
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Army, Battlegrounds, Match 3, Match3, Strategy
+- Tags: 1 Player, 2D, Army, Battlegrounds, Match-3, Match3, Strategy

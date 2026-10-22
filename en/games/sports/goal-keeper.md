@@ -19,6 +19,6 @@ Goalkeeper is in the goal that he should not allow the ball to enter the goal to
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Football, Fun, HTML5, Kids, Mobile, Skill, Soccer, Sport

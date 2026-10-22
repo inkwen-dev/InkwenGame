@@ -19,6 +19,6 @@ Defend your castle against the stickman enemies. Every round enemies get stronge
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Action, Army, CSGO, Defense, Gun, HTML5, Hypercasual, Shoot, Shooter, Shooting

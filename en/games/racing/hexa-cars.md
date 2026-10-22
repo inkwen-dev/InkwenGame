@@ -19,6 +19,6 @@ Hexa Cars game is a fun io survival game. The goal is to stay last on different 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, Arena, Block, Car, Cartoon Network, Driving, Fighting

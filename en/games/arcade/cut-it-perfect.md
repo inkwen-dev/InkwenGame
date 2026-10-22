@@ -19,6 +19,6 @@ Cut it Perfect is a division arcade game with 2D cartoon animal and fruit models
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Boy, Casual, cut, Game, Kid, Puzzle, Skill

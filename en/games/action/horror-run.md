@@ -21,4 +21,4 @@ You have to escape from a terrifying abandoned psychiatric hospital full of mons
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, horror, running
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Horror, running

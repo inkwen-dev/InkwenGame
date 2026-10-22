@@ -19,6 +19,6 @@ Play of impossible car games 2021 ramp drive in which you will check stunt car d
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, Cars, Mobile, Race, Racing, Simulation, Simulator, Supercars, Unity3D

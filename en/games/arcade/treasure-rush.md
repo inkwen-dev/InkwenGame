@@ -19,6 +19,6 @@ Move the Gems to the blank spaces in order to create a horizontal or vertical ro
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Board, Collecting, HTML5, Jewel, Matching, Mobile

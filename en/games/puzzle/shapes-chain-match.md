@@ -21,4 +21,4 @@ Connect similar Shapes using touchscreen or mouse. Make a group of 3 or more, ho
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Candy, Girls, HTML5, Match 3, Match3, Matching, Mobile
+- Tags: Candy, Girls, HTML5, Match-3, Match3, Matching, Mobile

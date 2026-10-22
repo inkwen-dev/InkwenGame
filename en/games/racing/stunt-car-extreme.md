@@ -19,6 +19,6 @@ Stunt Car Extreme is the ultimate stunt and trial car game with both entertainin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Car, Cars, Fun, Funny, Gun, Race, Racing, run, running, Simulation, Simulator, Supercars

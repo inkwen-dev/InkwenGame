@@ -19,6 +19,6 @@ The objective of the game is to climb as far as you can without colliding with a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Arcade, Best, cannon, games for your website, Superhero

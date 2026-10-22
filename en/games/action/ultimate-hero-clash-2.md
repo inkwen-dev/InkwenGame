@@ -19,6 +19,6 @@ Embark on an epic adventure with Ultimate Hero Clash 2 game! Experience the exci
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Best, Fighting, H5, Hot, New, Street Fighting

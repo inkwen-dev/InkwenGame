@@ -19,6 +19,6 @@ Kitty City Heroes is a very cute game. After a fierce storm, the city was destro
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Cat, city, Fire, Fun, Girls, HTML5, Kids, Mobile, Police, Rescue

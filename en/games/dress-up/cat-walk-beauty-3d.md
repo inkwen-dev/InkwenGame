@@ -19,6 +19,6 @@ Hey beautiful, it's showtime! All the baddies are choosing the most beautiful ou
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Adventure, Arcade, Best, Cartoon Network, Casual, Cat, Fashion, Fight, Fun, Games, Girl, Girls, Mobile, Online, run

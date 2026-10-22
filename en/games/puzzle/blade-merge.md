@@ -19,6 +19,6 @@ Blade Merge is a thrilling blend of merging strategy and intense blade battles. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Battle, Casual, Mobile, mouse
+- Tags: 2D, Battle, Casual, Mobile, Mouse

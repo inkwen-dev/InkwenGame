@@ -19,6 +19,6 @@ Welcome to Mine Clicker: Cookie! An addictive clicker where Minecraft meets cook
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Block, Casual, Click, Clicker, idle, Mine, Minecraft, Miner

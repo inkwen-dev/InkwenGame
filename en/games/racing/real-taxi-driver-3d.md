@@ -19,6 +19,6 @@ Tie up your belts and get ready for the ride, where you will live to the end of 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Bike, Car, Cool, Race, Racing, Simulation, Simulator, Unity3D

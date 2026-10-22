@@ -19,6 +19,6 @@ Rage Ride is an amazing 2D space exploring the game. Explore the space collects 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, Arcade, Fun, Hypercasual, Rocket, Space, Spaceship

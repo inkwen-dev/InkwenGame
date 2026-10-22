@@ -19,6 +19,6 @@ In this exhilarating endless level-based game, you move the character down by ta
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Clicker, HTML, HTML5, jump, Jumping, Mobile, Unity3D

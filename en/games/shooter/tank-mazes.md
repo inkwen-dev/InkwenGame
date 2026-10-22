@@ -19,6 +19,6 @@ Our intelligence learned about the enemys counter offensive. The general ordered
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Battle, Battlegrounds, Classic, Levels, Shoot, Shooting, Tank, Tanks, War

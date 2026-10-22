@@ -19,6 +19,6 @@ Gentleman's Quest is a 2D Platform game where you need to reach your office whil
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Collecting, Pixel, Platform, Retro

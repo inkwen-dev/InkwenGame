@@ -19,6 +19,6 @@ Those who enjoy spending time in the kitchen or who love cooking! This game is f
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Click, Clicker, Cook, Cooking, Food, Fruit, Fruits, Fun, HTML5, Hypercasual, Rhythm, Simulation, Slicing, Timing, WebGL

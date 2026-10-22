@@ -59,4 +59,4 @@ Build your graveyard, grow the idle tycoon and put your bony crew to work!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, cozy, idle, management, Simulation, tycoon
+- Tags: Arcade, cozy, idle, Management, Simulation, tycoon

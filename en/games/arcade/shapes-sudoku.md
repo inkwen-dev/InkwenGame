@@ -19,6 +19,6 @@ Sudoku is played on a grid of 9 x 9 spaces. Within the rows and columns are 9 â€
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Block, Board, Educational, HTML5, Mobile, Puzzle, School, sudoku
+- Tags: Arcade, Block, Board, Educational, HTML5, Mobile, Puzzle, School, Sudoku

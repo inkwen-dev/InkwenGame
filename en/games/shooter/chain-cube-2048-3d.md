@@ -19,6 +19,6 @@ Have you ever played 2048? This is the 3D cube version of 2048. All you have to 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Block, Casual, Game, Kid, Kids, Puzzle, Shoot

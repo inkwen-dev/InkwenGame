@@ -19,6 +19,6 @@ All the baddies are choosing the most beautiful outfits for the catwalk! Your go
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adult, Adventure, Arcade, Baseball, Boy, Boys, Car, Cars, Family, Fashion, Game, Games, Girl, Girls, Ladybug, Race, subway, Undead, Unity3D, War

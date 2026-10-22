@@ -19,6 +19,6 @@ Enter the most nervous stickman battles. In Stick Hero Fight, you as a mighty st
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Fight, Stickman, Superhero

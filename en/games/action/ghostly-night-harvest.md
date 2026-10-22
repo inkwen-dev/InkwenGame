@@ -21,4 +21,4 @@ Welcome to Ghostly Night Harvest, a charming and action-packed game that blends 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Business, farm, Ghost, Halloween, Stickman
+- Tags: 3D Games, Business, Farm, Ghost, Halloween, Stickman

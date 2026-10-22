@@ -19,6 +19,6 @@ Spider-Man has decided to destroy all Green Goblins. Aim and shoot.Bounce bullet
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Boys, Game, Games, HTML5, Shoot, Shooter, Shooting, Spiderman

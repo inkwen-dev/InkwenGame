@@ -19,6 +19,6 @@ Everyone knows that making a chocolate cake it is so difficult but in this game 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Baby Hazel, Cook, Cooking
+- Tags: Baby Hazel, Cook, Cooking, IO

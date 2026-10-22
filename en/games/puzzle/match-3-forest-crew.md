@@ -19,6 +19,6 @@ Match 3: Forest Crew is an exciting logic puzzle where you need to feed hungry a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Clicker, Match 3, Matching, Point And Click, Puzzle, sort, sorting

@@ -19,6 +19,6 @@ Will you be able to help the lost girl through the difficulties that come her wa
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Best Games, Brain, Click, Girl, Girls, Kids, Puzzle, WebGL

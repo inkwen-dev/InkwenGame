@@ -19,6 +19,6 @@ Unicorns are magical horses with a horn on their head. Have you ever dreamed to 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cleaning, Cute, Dress Up, Girl, Girls, Kids, Magic, Makeover, Simulation

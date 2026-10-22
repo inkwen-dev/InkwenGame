@@ -19,6 +19,6 @@ Headshot bullet is a tough and fun game to play. The Bullet is fired and you hav
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, endless, Fun, Gun, Hypercasual, Shooter, Shooting

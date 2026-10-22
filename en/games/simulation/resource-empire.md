@@ -19,6 +19,6 @@ Resource Empire is an addictive idle mining tycoon. Start with a single shaft an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2026 games, 2D, Best Games, Business, Clicker, idle, management, Mine, Miner, Simulator
+- Tags: 1 Player, 2025 games, 2026 games, 2D, Best Games, Business, Clicker, idle, Management, Mine, Miner, Simulator

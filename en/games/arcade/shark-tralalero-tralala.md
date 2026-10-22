@@ -19,6 +19,6 @@ Shark Tralalero Tralala is a casual arcade game about the meme Tralalelo Tralala
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Avoid, Casual, Cool, HTML5, html5 games, html5 games for your site, Maze, Mobile, Shark, water

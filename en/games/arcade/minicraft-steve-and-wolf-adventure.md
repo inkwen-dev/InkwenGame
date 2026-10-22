@@ -21,4 +21,4 @@ Minicraft: Steve And Wolf Adventure is a 2D platformer for 2 players in the mine
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Dungeon, jump, Jumping, Minecraft, Mobile, Pixel, wolf
+- Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Dungeon, jump, Jumping, Minecraft, Mobile, Pixel, Wolf

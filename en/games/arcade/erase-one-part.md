@@ -19,6 +19,6 @@ Erase One part is fun game in which you have to solve different puzzles by erasi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Educational, Fun, Girl, Kid, Puzzle

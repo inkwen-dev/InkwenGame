@@ -19,6 +19,6 @@ Best jigsaw game with Rapunzel! Enjoy lot of fun with this puzzle jigsaw game!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Disney, Educational, Girl, Girls, H5, HTML5, Jigsaw, Princess, Puzzle

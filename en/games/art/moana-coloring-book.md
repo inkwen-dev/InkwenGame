@@ -19,6 +19,6 @@ Moana coloring book for free. Moana coloring book are a fun way for kids of all 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Color, Coloring, Draw, Educational, Fun, Funny, Girls, Kids

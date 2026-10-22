@@ -67,4 +67,4 @@ Study every region, find the safest spaces, and place all the cats correctly in 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, cats, Logic, Puzzle, sudoku
+- Tags: Brain, cats, Logic, Puzzle, Sudoku

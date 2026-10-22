@@ -19,6 +19,6 @@ manage to dodge all the helicopters and get the highest score, competing with yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Anime, Baby, Bounce, crash, Friv

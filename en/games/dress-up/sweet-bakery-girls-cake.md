@@ -19,6 +19,6 @@ This sweet cake baking game will make you the best baker! Have fun cooking delic
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Cake, Cooking, Decorate, Dress Up, Fruit, Kid, Kids, Simulation

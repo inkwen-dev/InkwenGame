@@ -19,6 +19,6 @@ Harbor Breakout is a fast-paced top-down action escape game where every second c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Arcade, Casual, Fun, Funny, Hypercasual, ship

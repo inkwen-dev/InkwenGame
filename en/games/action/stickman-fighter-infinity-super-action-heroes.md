@@ -19,6 +19,6 @@ Stickman Fighter Infinity - Super Action Heroes is a free-to-play stickman fight
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Anime, Batman, Cartoon, Cartoon Network, Fight, Fighting, Mobile, PacMan, Spiderman, Stickman, Super, Superhero, War

@@ -19,6 +19,6 @@ Work as a master car mechanic and wash dirty planes in the childrens auto garage
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Family, free html5 games for your website, HTML, Kids

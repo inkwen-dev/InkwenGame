@@ -21,4 +21,4 @@ Young witch, on the eve of Halloween, holds special magical rites to protect the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Fun, Halloween, Holiday, HTML5, Kids, Matching, Memory, Mobile, Skill
+- Tags: Card, Fun, Halloween, Holiday, HTML5, Kids, Matching, Memory, Mobile, Skill

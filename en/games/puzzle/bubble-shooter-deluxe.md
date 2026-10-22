@@ -19,6 +19,6 @@ Classic bubble shooter game with an endless game-play. Don't let the bubble touc
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bubble, Bubble Shooter, Fun, HTML5, Match 3, Matching, Mobile, Puzzle

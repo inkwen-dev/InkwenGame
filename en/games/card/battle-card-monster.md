@@ -17,4 +17,4 @@ Unleash strategic genius in Battle Card Monster, where each duel tests your tact
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -19,6 +19,6 @@ Summer Brick Out game is classic arcade game with new power ups bonus. Your job 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Arcade, Baby, Baby Hazel, Ball, Boy, Bricks, Family, Girl, HTML, HTML5, Hypercasual, Logic, Puzzle, Shoot, Shooting, WebGL

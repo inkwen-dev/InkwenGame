@@ -19,6 +19,6 @@ New thrilling missions in the world of sweeping combination games! Simple and ea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Candy, Click, Clicker, Fruit, Fruits, Hot, HTML, HTML5, Puzzle

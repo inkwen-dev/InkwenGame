@@ -19,6 +19,6 @@ Move the ball forward through the streets of the city, but there are many differ
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Ball, Basketball, Casual, Clicker

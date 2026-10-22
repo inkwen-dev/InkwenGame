@@ -19,6 +19,6 @@ Basketball Stars is a cool 2 player basketball game by MadPuffers. Choose your t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Basketball

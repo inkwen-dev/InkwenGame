@@ -21,4 +21,4 @@ For example, players need to solve puzzles and traps, search various scene compo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, pve, Retro, rpg, story
+- Tags: Adventure, pve, Retro, RPG, story

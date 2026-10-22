@@ -19,6 +19,6 @@ Step into the world of Music Sword Beat, the ultimate 3D rhythm action game! Pla
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Arcade, Best Games, Casino, Casual, Music, Rhythm, Sword, Timing

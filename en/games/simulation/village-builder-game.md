@@ -21,4 +21,4 @@ Village Builder is a strategy game where your objective is to build a settlement
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Friv, management, Simulation, Strategy
+- Tags: 3D, Friv, Management, Simulation, Strategy

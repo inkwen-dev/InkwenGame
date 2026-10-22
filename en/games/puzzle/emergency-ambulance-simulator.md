@@ -19,6 +19,6 @@ Here is a typical ambulance driving rescue simulation game with 3D game art anim
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Driving, Mobile, Rescue, Simulation, Timing, Truck, WebGL

@@ -19,6 +19,6 @@ Enter "Cafe 3 in a Row", an engaging game where you have to put three products i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, burger, Cartoon, Classic, Clicker, Educational, Food, HTML5, Hypercasual, Logic, Logical, Mahjong, Match 3, Match3, Matching, Math, Memory, New, Puzzle, Relaxation, Restaurant, Retro, Timing, WebGL
+- Tags: 1 Player, Brain, Burger, Cartoon, Classic, Clicker, Educational, Food, HTML5, Hypercasual, Logic, Logical, Mahjong, Match 3, Match3, Matching, Math, Memory, New, Puzzle, Relaxation, Restaurant, Retro, Timing, WebGL

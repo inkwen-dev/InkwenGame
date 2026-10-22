@@ -31,4 +31,4 @@ Poolrooms in white tile, server halls in blue half-light, warehouses, hotel corr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, Crafting, horror, Minecraft, Simulation, survival
+- Tags: 3D, Adventure, Crafting, Horror, Minecraft, Simulation, survival

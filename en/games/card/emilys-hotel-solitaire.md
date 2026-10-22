@@ -21,4 +21,4 @@ What are you going to do when you go on a journey to a tropical island? Will you
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, amazing, Bejeweled, Board, card, farm, Solitaire, WebGL
+- Tags: 1 Player, 2D, amazing, Bejeweled, Board, Card, Farm, Solitaire, WebGL

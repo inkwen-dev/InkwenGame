@@ -19,6 +19,6 @@ This game is a very addictive and best match-three fruits casual game! Connect t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Candy, Casual, Fruits, HTML5, Match 3, Match3, Matching, Puzzle

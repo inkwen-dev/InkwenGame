@@ -19,6 +19,6 @@ Dive into the epicenter of meme madness! Your journey from a weakling to the mos
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 3D Games, Brainrot, Brainrot Italian, Brainrot sahuuur, Clicker, Italian Brainrot, Sahur, Tung, Tung Tung, Tung Tung Tung, Tung Tung Tung Sahur

@@ -19,6 +19,6 @@ Do you love driving floating bus on the water surface? If yes then this Water Su
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, bus, HTML, HTML5, Race, Racing, Unity3D

@@ -19,6 +19,6 @@ Survival Pumpkin is a fun and addictive Halloween-themed endless survival game w
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best Games, Casual, Clicker, Halloween, Hypercasual

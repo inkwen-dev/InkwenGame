@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, .io 游戏, 烹饪, 做饭, 女孩, 女孩们
+- 标签: .io 游戏, 烹饪, 烹饪游戏, 女孩, 女生, IO

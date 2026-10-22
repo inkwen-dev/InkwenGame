@@ -19,6 +19,6 @@ Build the restaurant of your dreams in Dream Tycoon! Take customer orders, grab 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Adventure, amazing, Best Games, burger, Casual, Cook, Cooking, Hypercasual, Restaurant
+- Tags: 1 Player, 2026 games, Adventure, amazing, Best Games, Burger, Casual, Cook, Cooking, Hypercasual, Restaurant

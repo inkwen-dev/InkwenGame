@@ -19,6 +19,6 @@ Pin master: Screw puzzle quest &amp; brain games challenges your problem-solving
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Cartoon, Casual, Educational, Hypercasual, Logic, Logical, Physics, Puzzle

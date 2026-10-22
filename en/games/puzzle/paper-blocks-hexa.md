@@ -19,6 +19,6 @@ Just drag and drop all the Hexa Blocks on the board. The rule is simple: everyth
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Click, Puzzle

@@ -19,6 +19,6 @@ Goose Game Multiplayer is a HTML5 Board Game. Enjoy this funny version of the cl
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Kid, Kids, Turn, Turn Based

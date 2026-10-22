@@ -19,6 +19,6 @@ Hitty Axe is a simple click & smash casual game. Tap the screen to throw your ax
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boy, Boys, Casual, Collecting, Collection, Fun, Funny, Hypercasual, Point And Click, Puzzle, Shooting

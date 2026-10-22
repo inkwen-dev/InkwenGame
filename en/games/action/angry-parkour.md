@@ -19,6 +19,6 @@ This is a great casual pass through mobile game. In this small game, players nee
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Boys, Casual, Click, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Mobile

@@ -21,4 +21,4 @@ Muscle Clicker shows you what it&rsquo;s like to make a skinny person muscular w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Cartoon, Casual, Click, Clicker, Game, HTML5, rpg, Simulation, Simulator, Sport, Sports, train
+- Tags: 1 Player, 2D, Cartoon, Casual, Click, Clicker, Game, HTML5, RPG, Simulation, Simulator, Sport, Sports, Train

@@ -21,4 +21,4 @@ Rise from the box underground to the championship and become a boxing star. Impr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Boxing, Fighting, management, Sports
+- Tags: Boxing, Fighting, Management, Sports

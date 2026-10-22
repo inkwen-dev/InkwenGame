@@ -19,6 +19,6 @@ SweetFlip is a game about your memory power. You have to use your memory to matc
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Casual, Memory, Puzzle
+- Tags: Card, Casual, Memory, Puzzle

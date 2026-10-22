@@ -19,6 +19,6 @@ In Two Bike Stunts, awesome motorcycles are on the stage! You can ride 8 differe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D, 3D Games, Action, Crazy, Motorcycle, Racing, Skill, Stunts

@@ -19,6 +19,6 @@ Ready for a purr-fect adventure? Help your cute cat escape from the guards in Ca
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cat, Escape, Mentolatux, unity, WebGL

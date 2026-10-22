@@ -19,6 +19,6 @@ Préparez-vous pour les vacances avec une mise à jour festive sur Google Play C
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, farm
+- Tags: 3D Games, Adventure, Farm

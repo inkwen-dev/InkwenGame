@@ -19,6 +19,6 @@ It is a challenging block collapse game. At each level, you will get a unique ch
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, HTML5, Matching, Mobile, Puzzle

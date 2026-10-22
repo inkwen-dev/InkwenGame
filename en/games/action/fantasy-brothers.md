@@ -19,6 +19,6 @@ Fantasy Brothers is a game where two young brothers are locked up in a beautiful
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Best Games, Fantasy, free games for your site, html5 games for your site, Kiz 10, Levels, Multiplayer, Platform

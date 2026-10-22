@@ -19,6 +19,6 @@ Play as an RPG hero in this fun adventure game from ASRonlineGames.com. Be caref
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: rpg
+- Tags: RPG

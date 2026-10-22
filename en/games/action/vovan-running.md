@@ -19,6 +19,6 @@ Vovan Running is a casual game that help you to fill your spare time. Run and ju
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Fun, HTML5, Kids, Mobile, Obstacle, run, running, Skill

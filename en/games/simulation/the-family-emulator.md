@@ -19,6 +19,6 @@ This is a full emulation of a computer from the 1980s - the BBC Microcomputer. O
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Obstacle, Platform, Puzzle, Simulation

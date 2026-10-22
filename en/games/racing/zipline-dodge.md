@@ -19,6 +19,6 @@ Zipline Dodge challenges players to navigate a perilous course while suspended o
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Racing, Skill, Stickman, Unity3D, WebGL

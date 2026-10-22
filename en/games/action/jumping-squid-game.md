@@ -19,6 +19,6 @@ Jump from platform to platform grab on to anything you can find to stay up! anot
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, endless, HTML, HTML5, Hypercasual, jump, Jumping, Platform, weapons

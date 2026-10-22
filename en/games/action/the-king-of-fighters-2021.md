@@ -19,6 +19,6 @@ Welcome to the king of fighters 2021 Game This is a fighting arcade game where y
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Fight, Fighting, Hot, King, Street Fighting, Superhero

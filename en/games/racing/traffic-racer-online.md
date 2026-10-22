@@ -19,6 +19,6 @@ Now we provided a car driving avoiding simulation game for you to relax. In ever
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Car, Mobile, Simulation

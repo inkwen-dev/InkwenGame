@@ -19,6 +19,6 @@ Just simple control by tapping. Are you smart to complete all challenges? Let's 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boys, Brain, Educational, Girls, HTML5, Kids, Logic, Logical, Mobile, Online

@@ -19,6 +19,6 @@ Looking for some fun and exciting arcade games to play? Look no further than Tap
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Game, Games, Hypercasual, jump

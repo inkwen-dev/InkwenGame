@@ -19,6 +19,6 @@ Beep, beep, beep! Welcome to the Truck Puzzle: Pack Master, a puzzle online game
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Car, Educational, Fun, HTML5, Kids, management, Online, Puzzle, Skill
+- Tags: 3D, Android, Boy, Car, Educational, Fun, HTML5, Kids, Management, Online, Puzzle, Skill

@@ -19,6 +19,6 @@ Trump Funny Face HTML5 is a funny face game made for kids and adults. Use your m
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Fun, Funny, Girls, Hypercasual, Kids, Mobile

@@ -21,4 +21,4 @@ Iron Defense is a one-screen defense shooter set in an industrial scrapyard. Hol
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Boys, mouse, Shooting, Tower Defense
+- Tags: Action, Arcade, Boys, Mouse, Shooting, Tower Defense

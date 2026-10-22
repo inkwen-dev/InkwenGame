@@ -19,6 +19,6 @@ No One Crash is a very classic game, we develop the original one way game for ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Casual, Classic, Clicker, Crazy, fly, Highscore, Race, Unity3D

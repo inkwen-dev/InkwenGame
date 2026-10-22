@@ -40,4 +40,4 @@ Free to play, no sign-up. Works on phone, tablet and computer.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, cozy, farm, Match 3, Matching, Puzzle
+- Tags: Arcade, cozy, Farm, Match 3, Matching, Puzzle

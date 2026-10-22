@@ -21,4 +21,4 @@ Drag and drop the all picture pieces to their exact locations to complete the pi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Mobile, movie
+- Tags: HTML5, Jigsaw, Mobile, Movie

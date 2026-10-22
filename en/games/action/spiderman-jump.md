@@ -19,6 +19,6 @@ Spiderman wants to jump through the web and pass through the ring of fire. Diffe
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Boy, Boys, Fun, Game, HTML5, jump, Jumping, Spiderman

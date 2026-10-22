@@ -19,6 +19,6 @@ The first step in our princess games is to go to the mall and see how many fashi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Game, Games, Girl, Girls, Princess

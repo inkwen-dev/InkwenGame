@@ -19,6 +19,6 @@ Stickman Escape Out is a tunnel-digging game centered on helping criminals escap
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Escape, free html5 games for your website, kiz10, prison, Stickman
+- Tags: 1 Player, Adventure, Escape, free html5 games for your website, kiz10, Prison, Stickman

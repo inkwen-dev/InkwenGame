@@ -19,6 +19,6 @@ Apocalypse Truck is a fun driving game where you get to control a truck in a wor
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Mobile, Truck, weapons, Zombie

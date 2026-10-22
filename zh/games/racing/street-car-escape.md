@@ -1,0 +1,24 @@
+# 街头汽车逃脱
+
+<a href="https://inkwengame.com/zh/games/street-car-escape" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/street-car-escape/cover.jpg)
+
+《街头汽车逃脱》是由Games2Live开发的一款点击式游戏。想象一下，你开着心爱的汽车来到一条街道，却意外丢失了车钥匙。在这里，你将面对有趣的谜题和隐藏物品，寻找线索并成功逃脱街头汽车。祝你好运……尽情享受吧！
+
+## 怎么玩
+
+鼠标操作
+
+## 介绍
+
+《街头汽车逃脱》是由Games2Live开发的一款点击式游戏。想象一下，你开着心爱的汽车来到一条街道，却意外丢失了车钥匙。在这里，你将面对有趣的谜题和隐藏物品，寻找线索并成功逃脱街头汽车。祝你好运……尽情享受吧！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/racing" target="_blank" rel="noopener noreferrer">赛车</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 逃脱, 点击解谜

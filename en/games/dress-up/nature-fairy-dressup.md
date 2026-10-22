@@ -19,6 +19,6 @@ Nature fairy Freya fascinates everyone with her wonderful beauty. It works to ke
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Dress Up, Fairy, Fashion, Fun, Game, Girl, Girls, HTML5

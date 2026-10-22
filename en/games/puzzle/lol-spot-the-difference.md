@@ -19,6 +19,6 @@ This is a classic free puzzle game also popularly known as “Spot the differenc
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Difference, Fun, Girls, HTML5, Kids, Mobile

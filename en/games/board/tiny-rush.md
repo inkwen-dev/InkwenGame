@@ -19,6 +19,6 @@ Match animals to collect them, and string several in a row to create big chain c
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Block, Board, Cute, Family, Girls, Kids, Puzzle

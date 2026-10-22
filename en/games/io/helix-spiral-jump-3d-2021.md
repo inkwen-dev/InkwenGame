@@ -21,4 +21,4 @@ Helix Spiral Jumping - Stack 3D Jump Ball, one of the popular jumping ball io ga
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 3D Games, Action, Adventure, Arcade, Bridge, burger, Game, Games, Girl, Girls, Hypercasual, Mobile, Road, Unity3D
+- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 3D Games, Action, Adventure, Arcade, Bridge, Burger, Game, Games, Girl, Girls, Hypercasual, Mobile, Road, Unity3D

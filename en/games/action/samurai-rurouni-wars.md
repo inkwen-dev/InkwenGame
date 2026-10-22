@@ -19,6 +19,6 @@ In 1701, Lord Asano Naganori of Ako Domain in Hyogo Prefecture fell victim to a 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fight, Fighting, Mentolatux, Samurai, Sword, unity, Unity3D, War, Warrior, WebGL

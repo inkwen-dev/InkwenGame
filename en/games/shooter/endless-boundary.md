@@ -19,6 +19,6 @@ Here is an online game about a fearless adventurer and treasure seeker, a brave 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Battle, Battlegrounds, Best, Fight, Fighting, H5, Hot, HTML, HTML5, Kill, Killing, Shooting, Strategy, War

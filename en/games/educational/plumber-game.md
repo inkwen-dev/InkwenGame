@@ -19,6 +19,6 @@ Dive into the ocean and become a plumber of the extreme in Sea Plumber. Put your
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Boys, Brain, Casual, Classic, Family, Fun, Funny, Game, Hypercasual, Kid, Kids, Puzzle, Quiz

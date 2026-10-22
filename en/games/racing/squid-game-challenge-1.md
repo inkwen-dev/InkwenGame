@@ -21,4 +21,4 @@ Squid Game is survival shooting games based on Red Light, Green Light. Begin you
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Batman, Boy, Boys, Car, Cars, Girl, Girls, Interactive, management, Race, Racing, Simulation, Simulator, Supercars, Unity3D, wolf
+- Tags: 3D, 3D Games, Adventure, Batman, Boy, Boys, Car, Cars, Girl, Girls, Interactive, Management, Race, Racing, Simulation, Simulator, Supercars, Unity3D, Wolf

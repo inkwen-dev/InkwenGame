@@ -39,4 +39,4 @@ Backrooms: Exit Protocol 0 — a terrifying horror survival game! Explore Level 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, horror, Monster, Puzzle, running, scary, survival
+- Tags: Adventure, Escape, Horror, Monster, Puzzle, running, scary, survival

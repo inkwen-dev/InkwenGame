@@ -19,6 +19,6 @@ Subway surfers in Hong Kong! The guys intend to fully break away in this Chinese
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, jump, Jumping, run, running, subway, Subway Surfers, Unity3D

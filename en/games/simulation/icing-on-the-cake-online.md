@@ -19,6 +19,6 @@ Icing On The Cake Online is a relaxing cook game. The cake has already made out,
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Cake, Cooking, Decorate, Food, H5, Hot, HTML, HTML5, Hypercasual, Kids, Simulator

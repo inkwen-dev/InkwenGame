@@ -19,6 +19,6 @@ SliceStorm &ndash; Fruit Slicing Action Game Slice, dice, and survive in this fa
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, 3D, 3D Games, Action, Android, Best Games, Fruit, Fruits, Slicing

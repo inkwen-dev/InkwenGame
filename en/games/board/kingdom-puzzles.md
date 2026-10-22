@@ -19,6 +19,6 @@ Kingdom Puzzle is a relaxing brain game where you see a grid with different colo
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, html5 games, King, Logical, Mobile, Puzzle, Skill

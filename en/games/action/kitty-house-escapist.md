@@ -19,6 +19,6 @@ In Kitty House Escapist, you play as a mischievous cat determined to break free.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Cat, Puzzle, running

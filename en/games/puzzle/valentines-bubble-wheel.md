@@ -19,6 +19,6 @@ This is a Valentine’s Day special Bubble Shooter game in which you will find a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bubble, Bubble Shooter, Fun, Girl, HTML5, Love, Matching, Mobile

@@ -19,6 +19,6 @@ Play music on three instruments, piano, drums, and guitar. Become a pro musician
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Educational, Family, Girls, HTML, HTML5, Kids, Music

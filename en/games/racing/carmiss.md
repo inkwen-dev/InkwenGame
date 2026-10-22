@@ -19,6 +19,6 @@ A great action game with you. You have to dodge the attacks with the car you hav
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Cars, Driving, Gun

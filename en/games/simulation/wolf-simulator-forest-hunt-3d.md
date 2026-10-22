@@ -21,4 +21,4 @@ Explore nature as a wild animal and raise a family in the wilderness in Wildcraf
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Action, Animal, Arcade, Forest, Game, hunting, Simulator, wolf
+- Tags: 2025 games, 3D Games, Action, Animal, Arcade, Forest, Game, Hunting, Simulator, Wolf

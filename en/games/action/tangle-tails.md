@@ -21,4 +21,4 @@ Tangle Tails is a top-down arcade roguelite about a creature made of bendy joint
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, mouse, Skill, Snake, survival
+- Tags: Action, Arcade, Mouse, Skill, Snake, survival

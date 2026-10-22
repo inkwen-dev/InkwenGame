@@ -21,4 +21,4 @@ Wedding Cake Master is an online HTML5 game, it's playable in browsers such as s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Cake, Color, Cook, Cooking, Elsa, Girls, rpg
+- Tags: Baby, Baby Hazel, Cake, Color, Cook, Cooking, Elsa, Girls, RPG

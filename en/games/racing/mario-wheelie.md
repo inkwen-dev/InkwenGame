@@ -19,6 +19,6 @@ Experience high octane motorcycle action as you master daring wheelies and nail 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Balance, Bike, Boy, Hypercasual, Mario, Motorcycle, Skill

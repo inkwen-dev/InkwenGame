@@ -19,6 +19,6 @@ Squidly Game Stop is an intense survival game to play from the famous squid game
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, HTML5, Shooter

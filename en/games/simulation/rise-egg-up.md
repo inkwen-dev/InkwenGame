@@ -19,6 +19,6 @@ Cleverly move your shield to protect the egg from many obstacles. Features: - re
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Arcade, Best, Casual, fly, HTML5, Hypercasual, Mobile, Physics, Simulation

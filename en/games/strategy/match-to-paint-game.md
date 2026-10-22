@@ -19,6 +19,6 @@ Match To Paint is an interesting game that mixed match elements and painting ele
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, Brain, H5, Kids, Puzzle, Skill, Strategy

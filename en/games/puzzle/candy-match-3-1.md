@@ -19,6 +19,6 @@ Candy Match 3 Kit game is a highly addictive puzzle game that offers hours of fu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Game, Games, Girl, Girls, Match 3, Match3, Matching, Online, Puzzle

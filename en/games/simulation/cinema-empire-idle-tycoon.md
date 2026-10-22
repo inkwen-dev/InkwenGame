@@ -21,4 +21,4 @@ Welcome to Cinema Empire Idle Tycoon! Do you dream of owning your own movie thea
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fun, idle, movie
+- Tags: Fun, idle, Movie

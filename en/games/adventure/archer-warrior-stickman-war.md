@@ -19,6 +19,6 @@ In this interesting 3D fighting game Archer Warrior, what players need to do is 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Boy, Boys, Fun, H5, Horse, HTML5, Kid, Kids, War

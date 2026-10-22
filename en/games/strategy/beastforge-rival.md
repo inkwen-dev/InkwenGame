@@ -35,4 +35,4 @@ Drag and Drop or Touch and Place
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Multiplayer, pvp, Strategy, Tower Defense, two-player
+- Tags: Action, Multiplayer, PvP, Strategy, Tower Defense, two-player

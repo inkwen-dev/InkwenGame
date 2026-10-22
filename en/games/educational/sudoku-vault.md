@@ -21,4 +21,4 @@ Sudoku Vault is a logic-based puzzle game featuring 4x4, 6x6, and 9x9 boards &md
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Educational, Logic, Puzzle, Skill, sudoku
+- Tags: Brain, Educational, Logic, Puzzle, Skill, Sudoku

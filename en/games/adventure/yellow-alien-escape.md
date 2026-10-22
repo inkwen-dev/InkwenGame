@@ -19,6 +19,6 @@ Play as the Alien called Jeff and make your way through the levels. Featuring 3 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Hypercasual, jump, Jumping

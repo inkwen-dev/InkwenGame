@@ -19,6 +19,6 @@ ChickZ Stack is a fun and addictive arcade game where flying chickens take to th
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bird, Chicken, fly, Stack

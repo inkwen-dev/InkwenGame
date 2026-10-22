@@ -19,6 +19,6 @@ Match three in the world of Minecraft Help steve to dig a mine
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Bejeweled, Bounce, Casual, Logic, Match 3, Match3, Matching, Minecraft, Pixel, Puzzle, Relaxation, Turn Based

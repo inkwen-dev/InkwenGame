@@ -19,6 +19,6 @@ Zombie Parade Defense 5 is here with desert defense! Desert storms and zombies t
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Battle, Castle, Shoot 'Em Up, Tower Defense, Undead, War, Zombie

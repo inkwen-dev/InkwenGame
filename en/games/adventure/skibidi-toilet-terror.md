@@ -19,6 +19,6 @@ Night Skibidi Toilet Simulator plays your role for a man named CameraHead Skibid
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Dungeon, Ghost, Halloween, HTML5, Skibidi, Skibidi Toilet, WebGL, Zombie

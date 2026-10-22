@@ -19,6 +19,6 @@ Get ready for some crazy, wobbly fun in Funny Gummy Characters! Grab your favori
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Celebrity, Fun, Funny, Hypercasual, Kids, Mobile

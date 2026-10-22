@@ -21,4 +21,4 @@ Are you street food lover? If yes, then join us our new game Mexican Master Chef
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, burger, Cooking, Food, Girls, HTML5, WebGL
+- Tags: 2D, Burger, Cooking, Food, Girls, HTML5, WebGL

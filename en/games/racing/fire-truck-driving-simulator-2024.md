@@ -19,6 +19,6 @@ In Fire Truck Driving Simulator 2024, players step into the role of a heroic fir
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fire, firefighters, Mentolatux, Simulator, Truck, trucks, vehicle

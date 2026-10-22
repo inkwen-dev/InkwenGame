@@ -19,6 +19,6 @@ A goth-girl arrives at the new Nevermore Academy. She did not suspect that she w
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Crazy, Cute, Design, Dress Up, Fashion, Girl, Hair, Halloween, Holiday, HTML5, Makeover

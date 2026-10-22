@@ -21,4 +21,4 @@ Help the little fish to survive in the ocean. She is surrounded with big fish wh
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Avoid, fishing, Puzzle
+- Tags: Avoid, Fishing, Puzzle

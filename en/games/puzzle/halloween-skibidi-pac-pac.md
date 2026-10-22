@@ -19,6 +19,6 @@ Get Ready for Halloween Skibidi Pac Pac! Dive into the Halloween-themed maze, wh
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Halloween, Hypercasual, Kids, PacMan, Skibidi, Skibidi Toilet, Skill

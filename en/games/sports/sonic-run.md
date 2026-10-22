@@ -19,6 +19,6 @@ Play as Sonic the Hedgehog as you run, dash, jump and spin your way across stunn
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Spiderman, Spongebob, Sport, Subway Surfers

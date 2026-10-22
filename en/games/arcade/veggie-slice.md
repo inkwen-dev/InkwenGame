@@ -19,6 +19,6 @@ Veggie Slice is an arcade slicing game where you slice vegetables with precision
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Casual, Classic, cut, free games for your site, Games, Highscore, HTML, Slicing, slide, touchscreen, Unity3D, WebGL

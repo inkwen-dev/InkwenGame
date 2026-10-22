@@ -19,6 +19,6 @@ Antistress Relaxing toys &amp; Stress Relief is a calm game with stress relief g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, Arcade, Brainrot, free html5 games for your website, Game, puzzleblock, Relaxation, unity games

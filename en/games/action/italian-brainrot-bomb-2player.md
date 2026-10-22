@@ -19,6 +19,6 @@ The dynamite bomb is left in the space hangar. Whoever has it when the time runs
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Brainrot Italian, Brainrot sahuuur, Italian Brainrot, Platform

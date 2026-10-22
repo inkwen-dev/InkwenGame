@@ -19,6 +19,6 @@ Kim Jong Un Backrooms is a suspense-filled horror adventure where you must escap
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Granny, horror, prison
+- Tags: 1 Player, Granny, Horror, Prison

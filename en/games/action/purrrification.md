@@ -21,4 +21,4 @@ An innocent-looking platformer. Jump, collect, progress. But something feels off
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, horror, jump, Pixel, Platform, Puzzle
+- Tags: 1 Player, 2D, Horror, jump, Pixel, Platform, Puzzle

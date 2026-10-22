@@ -19,6 +19,6 @@ You will have access to a wide variety of weapons in these amazing zombie outbre
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Shoot, Shooter, Shooting, Unity3D, WebGL

@@ -19,6 +19,6 @@ Break into the world of thrilling 2D top-down shooter Tanks of the Galaxy and ta
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Race, Racing, Tank, Tanks

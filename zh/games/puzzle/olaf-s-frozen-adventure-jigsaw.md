@@ -1,0 +1,24 @@
+# 奥拉夫的冰雪冒险拼图
+
+<a href="https://inkwengame.com/zh/games/olaf-s-frozen-adventure-jigsaw" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/olaf-s-frozen-adventure-jigsaw/cover.jpg)
+
+圣诞节即将到来，你期待吗？《奥拉夫的冰雪冒险拼图》是一款需要动脑完成拼图的游戏。拖动拼图块到正确位置，游戏中有多个关卡等待着你，准备好了吗？迎接挑战，尽情享受乐趣吧！
+
+## 怎么玩
+
+点击或轻触
+
+## 介绍
+
+圣诞节即将到来，你期待吗？《奥拉夫的冰雪冒险拼图》是一款需要动脑完成拼图的游戏。拖动拼图块到正确位置，游戏中有多个关卡等待着你，准备好了吗？迎接挑战，尽情享受乐趣吧！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: portrait
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 动漫, 卡通, 休闲, 迪士尼, 艾莎, 冰雪奇缘, 女孩, 女孩, H5, HTML5, 拼图, 益智

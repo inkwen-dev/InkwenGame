@@ -17,4 +17,4 @@ Uncover card mysteries in Spooky Tripeaks, a thrilling twist on solitaire. Match
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

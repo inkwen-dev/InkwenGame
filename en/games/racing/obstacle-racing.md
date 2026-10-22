@@ -19,6 +19,6 @@ Obstacle Racing is an exciting game that will put your skills to the test! Your 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Car, endless, Obstacle, WebGL

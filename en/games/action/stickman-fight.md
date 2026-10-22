@@ -19,6 +19,6 @@ Do you like fighter games? Do you enjoy stickman games? Are you ready for the st
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best, Fight, Fighting, Fun, HTML5, Mobile, Stickman, WebGL

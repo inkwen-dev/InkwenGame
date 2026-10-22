@@ -19,6 +19,6 @@ Fire Ring is a fast-paced, fiery challenge that will test your timing and reflex
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Best, Best Games, Click, Escape, Fire, firefighters, Point And Click, Puzzle, Shooting, Space

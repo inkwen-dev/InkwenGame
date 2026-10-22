@@ -19,6 +19,6 @@ Play this slide puzzle games of the motorcycle - Kawasaki Ninja 650. It's includ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Jigsaw, Mobile, Moto, Motorcycle

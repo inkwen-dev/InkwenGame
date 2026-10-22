@@ -21,4 +21,4 @@ You can play this Slither Space.io game with your friends to make it more intere
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Action, Arena, Rocket, Slither, Space, Spaceship, Strategy, worm, Worms
+- Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Action, Arena, Rocket, Slither, Space, Spaceship, Strategy, Worm, Worms

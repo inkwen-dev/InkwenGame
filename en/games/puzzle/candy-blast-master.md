@@ -19,6 +19,6 @@ Drag a row or column to matching any 3 or more Candy Blast Master with the same 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Candy, Fun, Kids, Match 3, Match3, Matching, Skill

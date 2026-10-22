@@ -19,6 +19,6 @@ Coronavirus covid-19 virus vaccine. you have to collect the same color items as 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Hypercasual, Physics

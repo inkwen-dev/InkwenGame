@@ -19,6 +19,6 @@ Fling Knight, an immersive and captivating gaming experience, was meticulously c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Castle, HTML5, jump, Jumping, Knight, Mobile

@@ -19,6 +19,6 @@ Master the snowy peaks in Mountain Run! Sprint down an endless mountain, dodging
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Best, Best Games, Highscore, Ice, Platform, run, running, Skateboard, Skating, Sport, Sports

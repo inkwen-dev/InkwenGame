@@ -19,6 +19,6 @@ Get ready for a crazy challenge! In this game you&rsquo;ll face a whole series o
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Anime, Arcade, Escape, Fun, Funny, grow, prison, roblox, Simulation, Simulator, Sport
+- Tags: Action, Adventure, Animal, Anime, Arcade, Escape, Fun, Funny, grow, Prison, roblox, Simulation, Simulator, Sport

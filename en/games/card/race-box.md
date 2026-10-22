@@ -21,4 +21,4 @@ race box game has a lot of success review and player this MONTH that significant
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adult, Adventure, Arcade, Car, card, Cars, Interactive, Interactive Fiction, Machine, Obstacle, run, running, Sport, Sports
+- Tags: Action, Adult, Adventure, Arcade, Car, Card, Cars, Interactive, Interactive Fiction, Machine, Obstacle, run, running, Sport, Sports

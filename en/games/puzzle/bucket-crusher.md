@@ -19,6 +19,6 @@ Bucket Crusher is an interesting arcade game which is suitable for all ages. You
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Kids, Mobile, Skill

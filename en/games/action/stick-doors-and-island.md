@@ -29,4 +29,4 @@ Will you make it out? Good luck – your escape begins now.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: battle-royale, Escape, horror
+- Tags: battle-royale, Escape, Horror

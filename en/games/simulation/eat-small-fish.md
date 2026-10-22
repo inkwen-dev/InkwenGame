@@ -21,4 +21,4 @@ Eat Small Fish is a game where you must eat small other fish to survive and beco
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, fishing
+- Tags: Fish, Fishing

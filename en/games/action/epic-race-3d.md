@@ -19,6 +19,6 @@ Participate in race win Against Opponents be like No 1 in all 3 Rounds to Win th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Fun, Hypercasual, Race, running

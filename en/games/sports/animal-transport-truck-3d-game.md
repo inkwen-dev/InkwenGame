@@ -21,4 +21,4 @@ Welcome to the wonderful Animal Transport Truck 3D Game, and get ready to drive 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Adventure, Air, Aircraft, Android, Animal, farm, Fight, Fighting, Traffic
+- Tags: 1 Player, 3D, Action, Adventure, Air, Aircraft, Android, Animal, Farm, Fight, Fighting, Traffic

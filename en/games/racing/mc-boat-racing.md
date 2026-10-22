@@ -21,4 +21,4 @@ Help our little friend in the river to get his boat to the destination without a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, boat, Racing
+- Tags: Adventure, Arcade, Boat, Racing

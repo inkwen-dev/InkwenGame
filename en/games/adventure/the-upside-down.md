@@ -33,4 +33,4 @@ December 1984: As the winter solstice nears, the veil over Black Hollow tears op
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, Monster, Retro, rpg, survival
+- Tags: Action, Adventure, Monster, Retro, RPG, survival

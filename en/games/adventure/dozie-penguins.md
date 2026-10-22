@@ -19,6 +19,6 @@ Penguin Dozie is a super nostalgic, very fun and challenging game Help the littl
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Cartoon, Game, Games, HTML5, Kid, Kids, Penguin

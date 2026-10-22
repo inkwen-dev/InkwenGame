@@ -19,6 +19,6 @@ Your objective is to build a bloks that reaches great heights while maintaining 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Bricks, endless, HTML5, Strategy

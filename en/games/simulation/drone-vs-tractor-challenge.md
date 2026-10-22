@@ -19,6 +19,6 @@ Pilot a nimble drone through an unusual countryside showdown against powerful tr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, farm, fly, Mobile, Simulation
+- Tags: 3D, Action, Adventure, Farm, fly, Mobile, Simulation

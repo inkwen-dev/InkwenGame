@@ -19,6 +19,6 @@ Welcome to Pixel Craft game! Pixel Craft Candy is a simple match 3 game, tap scr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Fun, HTML5, Kids, Mobile, Pixel, Puzzle, Skill

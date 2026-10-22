@@ -19,6 +19,6 @@ Twist Ball Rotator - tap on the left of the screen to jump left, and on the righ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Hypercasual, Kid, Kids

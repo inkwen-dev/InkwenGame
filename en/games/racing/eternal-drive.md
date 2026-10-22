@@ -19,6 +19,6 @@ ternal Drive is a 3D driving game where you can improve your driving skills on e
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, drift, Driving, fly, Motorcycle, Stunts, Tank

@@ -19,6 +19,6 @@ In a small town, two armed groups clashed in a merciless battle. Join one of the
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Battle, Battlegrounds, Fight, Fighting, Gun, H5, HTML, HTML5, Kill, Killing, Shoot, Shooting

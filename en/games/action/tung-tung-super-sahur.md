@@ -19,6 +19,6 @@ Tung Tung Super Sahur is a Platform &ndash; Adventure game where you will help t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Platform, Retro, Tung, Tung Tung Tung, Tung Tung Tung Sahur

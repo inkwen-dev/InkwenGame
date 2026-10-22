@@ -19,6 +19,6 @@ Ax Hit Champ is one of the most relaxing and fun free to play casual simulation 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Boy, Fun, Kids, Puzzle

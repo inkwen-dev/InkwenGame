@@ -21,4 +21,4 @@ Elite Forces is multiplayer online FPS game revolving around real life cities ar
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Gun, Killing, Logical, Multiplayer, pvp, Shooting, Unity3D, weapons
+- Tags: Action, Gun, Killing, Logical, Multiplayer, PvP, Shooting, Unity3D, weapons

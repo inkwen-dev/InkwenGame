@@ -19,6 +19,6 @@ Use the power of the Omnitrix and transform yourself into a HeatBlast in Ben 10 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Ben 10, Boy, Girl, H5, HTML, HTML5, Hypercasual, Mobile, Shooter

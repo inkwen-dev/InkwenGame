@@ -21,4 +21,4 @@ Get ready to drive car as real car driver within city car driving games and car 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Car, card, Cars, city, jump, Jumping, Love, Parking, Simulation, Supercars, Truck, Unity3D
+- Tags: 3D, 3D Games, Car, Card, Cars, city, jump, Jumping, Love, Parking, Simulation, Supercars, Truck, Unity3D

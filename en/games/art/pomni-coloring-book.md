@@ -19,6 +19,6 @@ Pomni Coloring Book is fun coloring book for everyone! If you like Digital Circu
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, digital circus, Drawing, free html5 games for your website, HTML, HTML5, Kids

@@ -19,6 +19,6 @@ Fight order of orcs! Are you looking for an PVE AFK RPG game with idle leveling,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Battle, Battlegrounds, Casual, Clicker, Halloween, HTML5, Hypercasual, MMO, pvp, rpg, Strategy, Unity3D, WebGL, Wizard, World
+- Tags: 3D, Battle, Battlegrounds, Casual, Clicker, Halloween, HTML5, Hypercasual, MMO, PvP, RPG, Strategy, Unity3D, WebGL, Wizard, World

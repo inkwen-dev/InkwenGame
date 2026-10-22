@@ -19,6 +19,6 @@ Jelly number 1024 - your main game task is to drag two identical numbers to make
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, jump, Jumping, Puzzle, Race

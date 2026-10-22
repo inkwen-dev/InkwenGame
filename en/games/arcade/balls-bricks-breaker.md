@@ -19,6 +19,6 @@ Balls Bricks Breaker is #1 highly anticipated arcade game filled with endless ch
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Boys, Casual, Classic, Retro, Skill

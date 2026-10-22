@@ -19,6 +19,6 @@ Play this slide puzzle games of the beautiful cars. It's include 3 images and 3 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, HTML5, Mobile

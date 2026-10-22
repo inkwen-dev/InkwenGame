@@ -19,6 +19,6 @@ This game will make you feel like cleaning is not a chore but a fun activity. Wi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cleaning, Cooking, Cute, Decorate, Dress Up, Educational, Fashion, Girl, Girls, Kids, Makeover, Simulation

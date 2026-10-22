@@ -19,6 +19,6 @@ Brave scouts are going to take part in a long and interesting forest camping! Wo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Best, Casual, Games, Girls, Hot, HTML5, Hypercasual, Mobile, New, Online, Simulation, Simulator

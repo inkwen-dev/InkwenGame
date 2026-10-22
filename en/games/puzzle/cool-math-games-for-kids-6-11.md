@@ -19,6 +19,6 @@ SKIDOS Cool Math Games for kids age 5,6,7,8,9,10,11 year old will function as ed
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Bubble Shooter, Casual, Hypercasual, Race, Shoot, Shooter, Shooting

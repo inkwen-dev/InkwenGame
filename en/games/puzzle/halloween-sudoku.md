@@ -21,4 +21,4 @@ Sudoku is a famous logic puzzle games. If you like sudoku games, this Halloween 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Halloween, HTML5, Mobile, sudoku
+- Tags: Halloween, HTML5, Mobile, Sudoku

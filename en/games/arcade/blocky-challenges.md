@@ -19,6 +19,6 @@ A friend is one who will not leave in trouble, will always tell the truth and wi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Best, Block, blocky, Fun, Mobile, Skills

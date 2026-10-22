@@ -19,6 +19,6 @@ Pop It Infinity is a fun relaxing game and a unique game to play on. This is a s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Ball, Best, Brain, Click, Clicker, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Kids, Mind, Puzzle, Simulation

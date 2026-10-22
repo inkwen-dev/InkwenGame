@@ -21,4 +21,4 @@ This is classic match 3 game with many new features. Keep matching until all the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, Clicker, farm, Girls, HTML5, Match 3, Matching, Mobile, Puzzle
+- Tags: Casual, Clicker, Farm, Girls, HTML5, Match 3, Matching, Mobile, Puzzle

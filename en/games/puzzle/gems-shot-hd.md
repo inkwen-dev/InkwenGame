@@ -19,6 +19,6 @@ Gems Shot – is a game in which you need to fill in the empty spaces with cryst
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Bubble Shooter, Shoot, Shooter, Shooting

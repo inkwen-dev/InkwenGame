@@ -19,6 +19,6 @@ The goal of the Game is to finish the ring without touching the rope. Hold the r
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player Games, 2D, 3D, Action, Adventure, Arcade, Best, Bounce, Casual, endless, Game, Highscore

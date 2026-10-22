@@ -19,6 +19,6 @@ Pirate Patrol is casual HTML5 endless game. Avoid cannonballs, collect coins, an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Mind

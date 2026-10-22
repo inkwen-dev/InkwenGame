@@ -19,6 +19,6 @@ FIGHTING KING OF RING Join the fighting club of warrior legends and battle maste
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fight, Fighting

@@ -19,6 +19,6 @@ Connect similar Super Heroes using touch pad or mouse. Make a group of 3 or more
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bejeweled, HTML5, Match 3, Matching, Mobile, Puzzle

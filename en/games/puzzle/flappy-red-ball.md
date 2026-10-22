@@ -19,6 +19,6 @@ In the game Flappy Red Ball, we will control a ball that can float above the sur
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Fun, HTML5, Kids, Mobile, Skill

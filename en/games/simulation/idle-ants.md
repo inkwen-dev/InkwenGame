@@ -19,6 +19,6 @@ To become the best ant king, ants are the true masters of the underground and or
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Animal, Clicker, Food, Fruit, H5, HTML, HTML5, Hypercasual, Kids, Mobile, Relaxation, Simulation, Simulator

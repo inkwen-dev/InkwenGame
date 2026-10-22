@@ -23,4 +23,4 @@ ArrowGami is a puzzle game where your goal is to clear the board by untangling c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Brain, Logic, mouse, Puzzle
+- Tags: Arcade, Brain, Logic, Mouse, Puzzle

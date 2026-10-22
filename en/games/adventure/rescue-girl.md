@@ -19,6 +19,6 @@ This is an interesting puzzle in the genre of Pin Pull! There are many modes, go
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Girls, HTML5, Magic, Princess, Puzzle

@@ -21,4 +21,4 @@ Welcome to the chilling world of Scary Baby Pink, where babysitting takes on a t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Baby Games, Ghost, horror, survival
+- Tags: Action, Baby Games, Ghost, Horror, survival

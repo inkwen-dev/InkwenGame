@@ -19,6 +19,6 @@ World of Alice - Draw Numbers is an educational game developed for children wher
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Draw, Drawing, Educational, free games for your site, free games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Kids, Number, School, World of Alice

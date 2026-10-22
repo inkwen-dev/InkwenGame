@@ -19,6 +19,6 @@ If you like the squid game then you need to play this cool 2d game archery, use 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, HTML, HTML5, Mobile, Unity3D

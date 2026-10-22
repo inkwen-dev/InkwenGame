@@ -19,6 +19,6 @@ This game challenges players to quickly move and swap numbers to connect them in
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Games, Highscore, HTML5, Kids, Math, Number, Puzzle

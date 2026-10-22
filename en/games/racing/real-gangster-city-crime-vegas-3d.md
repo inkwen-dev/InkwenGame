@@ -19,6 +19,6 @@ Welcome to Real Gangster City Crime Vegas 3D 2018, Explore the city of vegas of 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Cars, city, Driving, Race, Shoot, Shooting, WebGL

@@ -19,6 +19,6 @@ Save The Uncle is a free online adventure game played on PuzzleGame for boys. Yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Brain, Escape, Fun, Funny, HTML5, Kids, Multiplayer, Obstacle, Online, Puzzle, Rescue

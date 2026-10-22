@@ -19,6 +19,6 @@ No Driver Parking is fun online game suitable for all ages. The aim of the game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boys, Car, Cars, Driving, HTML5, Kids, Mobile, Parking, Race, Racing, Skill

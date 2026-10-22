@@ -19,6 +19,6 @@ Drawing Rainbow Rescue is an exciting adventure game where the player has to dra
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Arcade, Draw, Drawing, Escape, Fun, Ninjago, Puzzle

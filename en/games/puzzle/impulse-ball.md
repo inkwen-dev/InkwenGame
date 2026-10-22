@@ -19,6 +19,6 @@ This is a game in which you need to move the ball with impulses into the hole, p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Best, Fun, Funny, HTML5, Logic, Mobile, Physics, Skill, Skills

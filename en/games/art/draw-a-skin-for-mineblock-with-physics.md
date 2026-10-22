@@ -19,6 +19,6 @@ Immerse yourself in the amazing world of creating skins and destruction in the w
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Coloring, Craft, Decoration, Design, Drawing, free games for your website, Fun, Funny, Games, Minecraft, unblocked games, unity games, unity games for your site

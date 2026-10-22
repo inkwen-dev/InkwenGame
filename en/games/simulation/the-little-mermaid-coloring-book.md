@@ -21,4 +21,4 @@ The Little Mermaid Coloring Book is cool coloring game for kids and adults. Play
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, Boy, Boys, Cartoon, Color, Coloring, Draw, Drawing, Fish, fishing, Fun, Game, Games, Girl, Girls, Mermaid
+- Tags: 2 Player, Boy, Boys, Cartoon, Color, Coloring, Draw, Drawing, Fish, Fishing, Fun, Game, Games, Girl, Girls, Mermaid

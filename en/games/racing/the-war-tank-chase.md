@@ -19,6 +19,6 @@ The War Tank Chase is super fun and free to play online tank chase game. The aim
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Avoid, Battle, Boys, Collecting, Driving, Hypercasual, Maze, Shooting, Skill, Tank, weapons

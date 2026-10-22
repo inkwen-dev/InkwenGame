@@ -21,4 +21,4 @@ Roll the Cow In the Hole! Press left or right on screen to get the cow into the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Animal, Baby, Balance, Ball, Crazy, Family, farm, Girl, Girls, HTML, HTML5, Kid, Kids, Physics, Puzzle
+- Tags: 2D, Animal, Baby, Balance, Ball, Crazy, Family, Farm, Girl, Girls, HTML, HTML5, Kid, Kids, Physics, Puzzle

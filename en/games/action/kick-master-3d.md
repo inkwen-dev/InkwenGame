@@ -19,6 +19,6 @@ Kick Master 3D is fun addictive action hyper casual game. Click to Kick the oppo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Casual, Hypercasual

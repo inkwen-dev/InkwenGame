@@ -19,6 +19,6 @@ In this fun game, Ben 10 is the goalkeeper. He saves thrown balls with his hands
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Ben 10, Football, Fun, Game, HTML5, Shoot

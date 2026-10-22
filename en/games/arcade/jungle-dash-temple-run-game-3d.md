@@ -19,6 +19,6 @@ The angry and furious beast of the temple is hungry and waiting for its prey. Ou
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boys, Girls, Kids, run, temple

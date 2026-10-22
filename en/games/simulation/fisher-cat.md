@@ -19,6 +19,6 @@ You need to fish to feed your cat. Go into the sea and catch fish with a hooked 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cat, fishing
+- Tags: Cat, Fishing

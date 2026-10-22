@@ -19,6 +19,6 @@ Baseball Pro is a HTML5 Sport Game. Try to make as many home runs as possible!
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baseball, Sport, Sports

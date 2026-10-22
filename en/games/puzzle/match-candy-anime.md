@@ -19,6 +19,6 @@ Match three pieces or more to score points. The more pieces you match, the highe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Anime, Candy, Casual, Click, Clicker, Hypercasual, Mobile

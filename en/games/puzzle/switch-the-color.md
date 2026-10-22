@@ -19,6 +19,6 @@ Color switch is a game where you need to pass with the ball between different co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bounce, Color, Games, HTML5, Kids, Puzzle

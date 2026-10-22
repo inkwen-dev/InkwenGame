@@ -19,6 +19,6 @@ Twisty Arrow is a simple tapping strategy game fun for users of for all ages. Sh
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Arcade, Basketball, Board, Casual, Fairy, Fun, Funny, Hot, Hypercasual, Unity3D

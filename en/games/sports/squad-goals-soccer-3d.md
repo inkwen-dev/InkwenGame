@@ -19,6 +19,6 @@ Squad Goals is fun and simple 3D soccer game that can quickly turn into a crazy 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Alien, Android, Animal, Ball, Basketball, Football, Robot, Skill, Soccer, Sport, Sports, Tennis, Zombie

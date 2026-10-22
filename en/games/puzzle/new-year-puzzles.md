@@ -19,6 +19,6 @@ New Year Puzzles is a cozy jigsaw game with festive winter artwork. Choose a pic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Christmas, HTML5, Kids, Logic, Puzzle, Snow, Winter

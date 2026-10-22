@@ -19,6 +19,6 @@ Interesting running distance game.Walking at night when the forces of evil feel 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Mobile, Puzzle, running, Skill

@@ -21,4 +21,4 @@ The online game River Fishing is free. This game is intended to be entertaining 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Fish, fishing
+- Tags: 1 Player, 2D, Adventure, Arcade, Fish, Fishing

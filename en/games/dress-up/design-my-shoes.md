@@ -19,6 +19,6 @@ Are you ready for a stylish fashion adventure? If you've always dreamed of becom
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Decoration, Design, Dora, Dress Up, Elsa, Fantasy, Fashion, Fun, Girls

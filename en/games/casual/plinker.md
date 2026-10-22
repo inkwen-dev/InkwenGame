@@ -19,6 +19,6 @@ Plinker is a fast-paced and addictive game where players drop a ball and guide i
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Block, Highscore

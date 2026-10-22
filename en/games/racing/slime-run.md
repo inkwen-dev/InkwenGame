@@ -19,6 +19,6 @@ Sime Run is a fun action game where you control a Slime sliding quickly across t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Fun, Monster, run

@@ -19,6 +19,6 @@ The aim of the game is to get 3 in a row. 2 players take turns until someone get
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Family, Kid, Kids, Puzzle

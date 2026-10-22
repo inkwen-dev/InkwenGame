@@ -19,6 +19,6 @@ Monster Dinosaur Rampage : City Attack brings an adventurous journey in the preh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Best, Boy, Boys, Cool, dino, Dinosaur, HTML5, WebGL

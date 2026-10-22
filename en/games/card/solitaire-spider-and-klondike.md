@@ -21,4 +21,4 @@ Immerse yourself in the captivating world of solitaire and test your strategic p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Board, card, Puzzle
+- Tags: 1 Player, Board, Card, Puzzle

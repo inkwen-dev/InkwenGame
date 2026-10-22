@@ -19,6 +19,6 @@ Colorful rope for you, connect the same color hole with your rope. Easy to play,
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, Action, Arcade, Board, Casual, Color, Coloring, Hypercasual, Puzzle, Unity3D

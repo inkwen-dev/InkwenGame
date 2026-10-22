@@ -19,6 +19,6 @@ Wow what a day! The house has a large kitchen with access to all cooking utensil
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cleaning, Cooking, Decorate, Design, Girl, Girls, Kids, Shopping, Simulation

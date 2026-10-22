@@ -19,6 +19,6 @@ Dig into crazy depths with this new action-loaded mining game. Destroy all rocks
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Games, H5, Hot, HTML5, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Welcome to CyberTruck Police Chase: Modern Cop Games 2020 offered by FUN EXTREME
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Boy, Boys, Car, Cars, city, drift, drifting, Driving, Game, Games, gta, Police, Race, Racing, rpg, Stunts, Super, Supercars, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Boy, Boys, Car, Cars, city, drift, drifting, Driving, Game, Games, gta, Police, Race, Racing, RPG, Stunts, Super, Supercars, Unity3D

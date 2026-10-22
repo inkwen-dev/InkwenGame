@@ -19,6 +19,6 @@ Dolce is a real fashionista and she can't wait to share her beauty and fashion s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Girl, Girls, HTML5, Kids, Makeover, Mobile

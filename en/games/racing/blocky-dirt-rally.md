@@ -19,6 +19,6 @@ You must race in this unique retro-styled game to unlock new levels. You may do 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Driving, HTML5, Mobile, Moto, Motorcycle, Racing, Unity3D

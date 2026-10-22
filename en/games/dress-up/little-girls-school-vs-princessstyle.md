@@ -19,6 +19,6 @@ Come and join this wonderful dressup game at 7sgames.com. These little girls, So
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collection, Dress Up, Makeover

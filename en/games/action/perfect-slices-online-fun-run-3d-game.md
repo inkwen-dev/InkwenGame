@@ -19,6 +19,6 @@ Perfect Slices Online is not only a slicing but also a relaxation arcade game wi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, cut, Fun, H5, HTML5, Hypercasual, Kid, Kids, Race, run, running

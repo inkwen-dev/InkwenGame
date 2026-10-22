@@ -19,6 +19,6 @@ Proceed upwards using the green tubes and you must watch out for the red tubes. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fun, jump, Mario, Stickman

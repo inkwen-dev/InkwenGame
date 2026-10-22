@@ -19,6 +19,6 @@ The online game &quot;Minecraft Puzzles&quot; invites boys and girls to have an 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Jigsaw, Online, Puzzle

@@ -19,6 +19,6 @@ Survival games are becoming a reality in the modern world. In case of victory, t
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, 3D Games, Action, Adventure, Arcade, Best, H5, Hot, HTML, HTML5, Kill, Killing, run, running, Unity3D

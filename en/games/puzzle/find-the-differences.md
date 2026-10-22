@@ -19,6 +19,6 @@ Can you find the differences between the two pictures quickly? Let me give you a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Brain, Difference, Game, Games, H5, HTML, HTML5, Kid, Kids, Timing

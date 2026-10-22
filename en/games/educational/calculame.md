@@ -19,6 +19,6 @@ Have fun playing with the numbers. Solve mathematical calculations before your t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Casual, Clicker, Collecting, Educational, Family, Highscore, Hypercasual, Math

@@ -68,4 +68,4 @@ Clown Fiesta is a shooter: fight mobs, bosses, and other players, find weapons, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, pve, rpg, Shooting, survival
+- Tags: Action, Arcade, pve, RPG, Shooting, survival

@@ -21,4 +21,4 @@ ShapeNest is a game of matching-3 complex patterns given in simple colors. You h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Color, Match 3, Puzzle
+- Tags: Color, Match-3, Puzzle

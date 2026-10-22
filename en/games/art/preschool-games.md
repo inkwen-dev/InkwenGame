@@ -19,6 +19,6 @@ In Preschool Games you can find and play four different puzzle games for prescho
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Food, Kids, Number, Puzzle

@@ -19,6 +19,6 @@ Piano Simulator Online is a musical game, on the desktop you play using a letter
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, typing
+- Tags: 1 Player, Typing

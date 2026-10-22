@@ -19,6 +19,6 @@ Enjoy this wonderful golf game! Calculate the angle and power of your shots in o
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Game, Golf, Stickman

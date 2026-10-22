@@ -19,6 +19,6 @@ Use the keyboard to control the blocks All the controls are clearly explained in
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Block, Brain, Casual, Classic, Click, Logical, Matching, Mobile, Tetris

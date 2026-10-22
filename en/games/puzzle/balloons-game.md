@@ -19,6 +19,6 @@ Welcome to our newest free game Balloons. The goal of the game is to pop the bal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ballon, Bubble Shooter, Fun, Kids, Shooter, Shooting

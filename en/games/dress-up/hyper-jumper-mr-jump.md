@@ -19,6 +19,6 @@ Hyper Jumper Mr Jump is a free game suitable for all ages. In the arsenal of the
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Dress Up, Jumping, Shoot 'Em Up

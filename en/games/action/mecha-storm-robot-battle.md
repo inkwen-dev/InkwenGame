@@ -19,6 +19,6 @@ Get ready for the nervous action of Mecha Storm: Robot Battle. This game puts yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Battle, Robot, Warrior

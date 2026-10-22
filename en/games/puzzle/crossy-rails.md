@@ -28,4 +28,4 @@ With simple controls and increasingly challenging puzzles, Crossy Rails is a fun
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Puzzle, train
+- Tags: Brain, Logic, Puzzle, Train

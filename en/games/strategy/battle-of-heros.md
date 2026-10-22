@@ -19,6 +19,6 @@ Dive into a strategic world where your prowess as a commander determines the fat
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Battle, Casual, Strategy, Tower Defense, War

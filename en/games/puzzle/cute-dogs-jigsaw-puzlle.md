@@ -19,6 +19,6 @@ Are you a dogs lovers? Do you like to play jigsaw puzzle games? this is a new ji
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jigsaw, Kids, Puzzle

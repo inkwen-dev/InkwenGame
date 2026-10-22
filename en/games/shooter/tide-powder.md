@@ -61,4 +61,4 @@ Optional rewarded videos offer a second distinct upgrade from an earned selectio
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, boat, pirates, Shooting
+- Tags: 3D, Action, Boat, pirates, Shooting

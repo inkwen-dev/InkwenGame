@@ -19,6 +19,6 @@ Winter is in full swing. Lets look into the fabulous winter forest and see who l
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fairy, Fashion, Hair, Magic, Makeover, Snow, Winter

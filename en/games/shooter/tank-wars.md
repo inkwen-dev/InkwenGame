@@ -19,6 +19,6 @@ Tank Wars – are good old arcade tanks! In battle, gentlemen! Choose one of the
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, HTML5, Kids, Mobile, Shooting, Skill, Tank, War

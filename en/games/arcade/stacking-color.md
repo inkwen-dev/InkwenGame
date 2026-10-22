@@ -19,6 +19,6 @@ Stacking Color is a free game. Warm-up those legs and get ready to stack them co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Fun, Game, Games, HTML, HTML5, Kid, Kids, Stack

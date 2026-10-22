@@ -21,4 +21,4 @@ FNAF Strike Halloween is an intense first-person shooter set in a spooky Hallowe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, CSGO, First Person Shooter, Gun, Halloween, horror, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, CSGO, First Person Shooter, Gun, Halloween, Horror, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D

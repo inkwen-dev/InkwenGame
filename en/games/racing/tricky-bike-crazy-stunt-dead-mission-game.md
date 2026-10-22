@@ -19,6 +19,6 @@ Do you love to play bike racing games with your favorite bike racing game, motor
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Bike, Boys, HTML, HTML5, Moto, Motorcycle, Race, Racing, Simulation, Simulator, Stunts

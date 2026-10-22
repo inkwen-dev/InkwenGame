@@ -35,4 +35,4 @@ Tab 键 = 暂停
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 颜色, 多人游戏
+- 标签: 颜色, 多人

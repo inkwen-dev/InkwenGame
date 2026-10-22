@@ -21,4 +21,4 @@ The railway is disassembled into small fragments, and the train cannot pass. Pav
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Arcade, Casual, HTML5, Logical, train
+- Tags: 1 Player, 3D, 3D Games, Arcade, Casual, HTML5, Logical, Train

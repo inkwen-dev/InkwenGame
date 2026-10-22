@@ -19,6 +19,6 @@ select idendical cards to remove
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Classic, Cleaning, Collection, Family, Logic, Mahjong, Puzzle
+- Tags: Card, Classic, Cleaning, Collection, Family, Logic, Mahjong, Puzzle

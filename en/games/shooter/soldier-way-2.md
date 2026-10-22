@@ -19,6 +19,6 @@ Soldier way is a great platform game. Control soldier in the jungle collect diam
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Battlegrounds, Best, Bomb, Boxing, Boy, Boys, Cartoon, Castle, Clans, Clash, Cleaning, Clicker, Cool, Crazy, CSGO, Defense, Fight, Fire, Flight, Friv, kiz10, Shooter, Shooting, War

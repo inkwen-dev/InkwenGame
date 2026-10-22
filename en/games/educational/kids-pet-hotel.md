@@ -19,6 +19,6 @@ Welcome to Kids Pet Hotel &ndash; the addictive and delightful mobile game that 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cat, Cute, Educational, Family, Fun, Girls, Grooming, House, HTML5, Kids, Mobile, rpg
+- Tags: Animal, Baby, Cat, Cute, Educational, Family, Fun, Girls, Grooming, House, HTML5, Kids, Mobile, RPG

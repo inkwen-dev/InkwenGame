@@ -21,4 +21,4 @@ Mythic Auto Chess Realms is an auto chess strategy adventure game that combines 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Brain, Fantasy, Fight, Logic, Magic, Online, rpg, Strategy, Undead
+- Tags: Adventure, Battle, Brain, Fantasy, Fight, Logic, Magic, Online, RPG, Strategy, Undead

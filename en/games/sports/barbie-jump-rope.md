@@ -19,6 +19,6 @@ Barbie is jumping rope in the garden. In this game you have to jump without touc
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Barbie, Game, Games, Girl, Girls, HTML5, jump, Sports

@@ -19,6 +19,6 @@ Very fun and easy to play fun race underwater endless game. Avoid different type
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Anime, Arcade, Batman, Best, Bubble, Race, run, running, Spongebob, World

@@ -19,6 +19,6 @@ Swipe the selected letters horizontally or vertically to form a word If the sele
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Game, HTML5, Online, Word

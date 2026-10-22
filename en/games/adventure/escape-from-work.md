@@ -17,4 +17,4 @@ Escape From Work immerses you in a nightmarish office maze, where you must outsm
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

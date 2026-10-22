@@ -21,4 +21,4 @@ Fishing fast and collect the gifts and time to play long time and get high score
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, fishing, Kid, Kids
+- Tags: 1 Player, 2D, Fishing, Kid, Kids

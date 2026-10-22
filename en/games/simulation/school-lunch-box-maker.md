@@ -19,6 +19,6 @@ School Lunch Box Maker is a food making game. Don't like school recipes? It's ti
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Food, Girls, School

@@ -19,6 +19,6 @@ DNA Evolution 3D will take you on a journey into an imaginative world of evoluti
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Obstacle, running, Simulation

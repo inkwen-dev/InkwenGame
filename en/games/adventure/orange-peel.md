@@ -19,6 +19,6 @@ By a strange coincidence, the oranges ended up in outer space, where acid rain i
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Play, Puzzle

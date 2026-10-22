@@ -21,4 +21,4 @@ Build your dream clothing store in the Black Friday Store Manager game! Buy new 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Business, Casual, Girls, HTML5, management, Shopping, Simulation
+- Tags: 3D, Business, Casual, Girls, HTML5, Management, Shopping, Simulation

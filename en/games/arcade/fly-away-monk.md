@@ -19,6 +19,6 @@ Join BaBlah as he faces a winter cliff during a snowstorm! With an umbrella in h
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, fly, Hypercasual, Winter

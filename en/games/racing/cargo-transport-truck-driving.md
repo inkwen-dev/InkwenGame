@@ -21,4 +21,4 @@ Euro Truck Cargo Transport: Forklift Truck Game Enjoy Euro Truck Cargo Transport
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Boy, Boys, bus, Car, Cars, city, Driving, Game, Games, Kids, Parking, Plane, rpg, Simulation, Simulator, Truck, Unity3D
+- Tags: 3D, 3D Games, Adventure, Boy, Boys, bus, Car, Cars, city, Driving, Game, Games, Kids, Parking, Plane, RPG, Simulation, Simulator, Truck, Unity3D

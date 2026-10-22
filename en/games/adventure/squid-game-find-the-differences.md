@@ -19,6 +19,6 @@ Squid Game Find the Differences is a wonderful game where you have to find 7 dif
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Best, Best Games, Casual, Difference, Fun, Mobile, Skill

@@ -19,6 +19,6 @@ Cute rabbit - 2 black and white rabbits are lost in the land of Dop5 and are loo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, HTML, HTML5, jump, Jumping, Monster, Rabbit, run, running, Strategy

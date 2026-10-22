@@ -21,4 +21,4 @@ Its the year 2057. You are a group of geologists and other scientists from diffe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: horror, Interactive Fiction, Pixel, rpg, Top Down
+- Tags: Horror, Interactive Fiction, Pixel, RPG, Top Down

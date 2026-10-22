@@ -19,6 +19,6 @@ Pipe Ninja is a free casual game in which the player can obtain the highest scor
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Casual, Hypercasual, Pipe, WebGL

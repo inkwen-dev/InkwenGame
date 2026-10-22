@@ -41,4 +41,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 食物, 管理, Minecraft
+- 标签: 食物, 管理, 我的世界

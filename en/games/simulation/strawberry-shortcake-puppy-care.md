@@ -19,6 +19,6 @@ Have you ever wanted to take care of a puppy? Now you can, by helping Strawberry
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cleaning, Decorate, Decoration, Fun, Girl, HTML5, Kids, Mobile

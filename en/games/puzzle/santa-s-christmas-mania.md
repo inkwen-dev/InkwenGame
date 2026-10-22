@@ -17,4 +17,4 @@ Join Santa's elf team in a festive puzzle quest, swiftly matching gifts to meet 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

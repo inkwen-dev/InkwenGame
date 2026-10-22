@@ -19,6 +19,6 @@ Kiddie Farmer is an interactive game that takes players to a delightful world, w
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, endless, farm, Game, HTML5, Kids, management, Simulation
+- Tags: 2D, Casual, endless, Farm, Game, HTML5, Kids, Management, Simulation

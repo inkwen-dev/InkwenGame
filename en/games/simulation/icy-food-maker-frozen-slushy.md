@@ -21,4 +21,4 @@ IT’S SLUSHY TIME! Hello everyone! We are Pepi’s Slushy Express - the most po
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Adventure, burger, Cook, Cooking, Detective, HTML5
+- Tags: 2D, Adventure, Burger, Cook, Cooking, Detective, HTML5

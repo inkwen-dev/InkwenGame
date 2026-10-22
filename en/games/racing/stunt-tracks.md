@@ -19,6 +19,6 @@ Speed Mode and Challenge Mode. In Speed Mode, you will push your F1 car to the l
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Arcade, Best, Car, car tuning, drift, drifting, Driving, Fun, Funny, Kid, Race, Racing

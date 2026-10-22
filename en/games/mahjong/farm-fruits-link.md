@@ -21,4 +21,4 @@ Welcome to Farm fruits link puzzle game. be quick and tap on two identical pairs
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Clicker, farm, Fruit, Fruits, Mahjong, Memory, Puzzle
+- Tags: Clicker, Farm, Fruit, Fruits, Mahjong, Memory, Puzzle

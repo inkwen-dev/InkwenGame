@@ -19,6 +19,6 @@ Get ready for the most challenging soccer matches with Impostor Headball and Pla
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Ball, Ballon, Football, Soccer, Summer

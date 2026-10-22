@@ -19,6 +19,6 @@ Math Mania is a fast-paced educational game where quick thinking is the key! Sol
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Educational, Fun, Highscore, Kids, Math, Mind, Mobile, Number, Puzzle, Quiz, Relaxation, Skill

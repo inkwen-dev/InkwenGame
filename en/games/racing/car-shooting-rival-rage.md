@@ -19,6 +19,6 @@ Car Shooting - Rivals Rage bring you the best mix of sci fi shooting and driving
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 3D, Action, Arcade, Car, Driving, Shooting, Sport

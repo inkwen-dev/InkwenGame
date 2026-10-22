@@ -21,4 +21,4 @@ Rich makeover run 3d game runner fun race is new dress-up game 2021 for girl and
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Barbie, Bike, Crazy, Game, Games, Girl, Girls, Hypercasual, jump, Jumping, Pool, Punch, Puzzle, Race, Racing, run, running, Stunts, Tetris, Unity3D, Winter, wolf
+- Tags: 3D, 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Barbie, Bike, Crazy, Game, Games, Girl, Girls, Hypercasual, jump, Jumping, Pool, Punch, Puzzle, Race, Racing, run, running, Stunts, Tetris, Unity3D, Winter, Wolf

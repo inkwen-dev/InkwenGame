@@ -19,6 +19,6 @@ Hello and Welcome to the Bridge Race Builder game, This game theme is the more y
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bricks, Bridge, Casino, Castle, Casual, Christmas, Clash, Race, Racing

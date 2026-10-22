@@ -19,6 +19,6 @@ Welcome to City Runner.io Multiplayer game. Choose your character and tap play! 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, running, Subway Surfers, Unity3D

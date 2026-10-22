@@ -30,4 +30,4 @@ Get ready for some lighthearted fun! Explore whimsical black-and-white scenes fi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, dog, hidden-object, Mobile, mouse
+- Tags: animals, dog, hidden-object, Mobile, Mouse

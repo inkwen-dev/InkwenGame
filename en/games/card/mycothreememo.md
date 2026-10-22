@@ -21,4 +21,4 @@ Welcome to the quiet hunt, mushroom picker! Embark on an exciting journey throug
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Educational, Food, Forest, HTML5, Matching, Puzzle, Summer
+- Tags: Card, Educational, Food, Forest, HTML5, Matching, Puzzle, Summer

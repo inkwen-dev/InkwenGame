@@ -19,6 +19,6 @@ Real Pool 3D offers an immersive gaming experience with its diverse range of lev
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Ball, Kids, Mentolatux, Skill, Unity3D

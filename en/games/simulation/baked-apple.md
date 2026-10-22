@@ -19,6 +19,6 @@ Let's try something new and healthier than an apple pie. Don't worry, it's still
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cook, Cooking, Girl, Girls

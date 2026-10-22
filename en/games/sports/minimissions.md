@@ -19,6 +19,6 @@ MiniMissions is a collection of 80 difficult skill games. Each time you complete
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Arcade, Click, HTML5, Sports

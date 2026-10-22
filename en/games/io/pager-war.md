@@ -19,6 +19,6 @@ This is a casual strategy war game. Use energy to summon soldiers to resist enem
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Army, Stickman, War

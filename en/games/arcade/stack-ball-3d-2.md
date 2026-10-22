@@ -19,6 +19,6 @@ Stack Ball Fall features: – Crazy fast speed – Fun gameplay – Bright vibra
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Stack, Unity3D, WebGL

@@ -19,6 +19,6 @@ Click on a card to reveal an image. Memorize the location of the card so that yo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, card, HTML5, Memory, Puzzle, Space
+- Tags: 1 Player, Arcade, Card, HTML5, Memory, Puzzle, Space

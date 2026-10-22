@@ -19,6 +19,6 @@ Aim, toss, and merge your way to a giant watermelon! Watermelon Stack 3D is a ph
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Casual, Fruit, Matching, Physics, Puzzle, watermelon

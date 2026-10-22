@@ -19,6 +19,6 @@ Create a robot Dragonfly.Join the robot war! This is quite an interesting puzzle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boys, Dragon, Family, fly, Fun, Girls, HTML5, Kids, Puzzle, Robot

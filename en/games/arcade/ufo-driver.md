@@ -21,4 +21,4 @@ Incredible arcade game where you have to rob the farmer's fields on your UFO, fl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Alien, Arcade, Boys, Casual, farm, HTML5, Mobile
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Alien, Arcade, Boys, Casual, Farm, HTML5, Mobile

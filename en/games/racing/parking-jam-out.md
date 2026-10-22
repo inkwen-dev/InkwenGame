@@ -19,6 +19,6 @@ Parking Jam Out is an analog online game for free. You can operate a parking lot
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Brain, Car, Fun, HTML5, Kids, management, Online, Parking, Puzzle, Relaxation
+- Tags: 3D, Android, Boy, Brain, Car, Fun, HTML5, Kids, Management, Online, Parking, Puzzle, Relaxation

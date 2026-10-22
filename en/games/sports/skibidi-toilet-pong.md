@@ -19,6 +19,6 @@ Get ready to dive into the hilariously entertaining world of Skibidi Toilet Pong
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Arcade, HTML5, Kids, Skibidi, Skibidi Toilet, Skill, Sport

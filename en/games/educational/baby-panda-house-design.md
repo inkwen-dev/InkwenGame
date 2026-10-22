@@ -19,6 +19,6 @@ In this game, players can experience the joy of building different houses for fo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cute, Design, Educational, Food, Fun, Girls, House, HTML5, Kids, Mobile, Panda

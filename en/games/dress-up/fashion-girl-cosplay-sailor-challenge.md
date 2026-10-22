@@ -19,6 +19,6 @@ Oh, great! Our Sailor Girl cosplay party continues now! Zoe and Iris failed to a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Dress Up, Fashion, Girl, Girls, Hidden, Kids, Makeover, Puzzle, Simulation

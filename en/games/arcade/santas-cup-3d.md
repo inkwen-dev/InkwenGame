@@ -19,6 +19,6 @@ Santas Cup 3D is an exhilarating mobile game that combines the thrill of racing 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Christmas, Unity3D, WebGL

@@ -21,4 +21,4 @@ Train Simulator 3D is a fantastic simulator game in which you must try and becom
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Driving, HTML5, Simulation, Simulator, train, WebGL
+- Tags: Boy, Driving, HTML5, Simulation, Simulator, Train, WebGL

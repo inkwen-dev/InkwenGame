@@ -19,6 +19,6 @@ Get ready to smash some bricks with our Cartoon Brick Breaker game! This addicti
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Ball, Block, Bricks, Cartoon, Casual, Classic, endless, Fun, Highscore, Hypercasual, Mobile, Relaxation, Retro, Unity3D, WebGL

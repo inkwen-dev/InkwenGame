@@ -19,6 +19,6 @@ The Impostor can use sabotage to cause chaos, making for easier kills and better
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Game, Games, Highscore, HTML, HTML5

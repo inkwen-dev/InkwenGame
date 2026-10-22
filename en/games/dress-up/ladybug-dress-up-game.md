@@ -19,6 +19,6 @@ Then you can dress her up in a pretty new outfit. You can choose a red dress wit
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Disney, Dress Up, Elsa, Fashion, Girl, Girls, Hair, Halloween, HTML, Kids, Makeover, Online, Princess

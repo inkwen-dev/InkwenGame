@@ -19,6 +19,6 @@ Stella likes to ride her bike, pick flowers and play with her puppy. Would you l
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Bike, Dress Up, Fashion, Funny, Game, Games, Girl, Girls, HTML5

@@ -19,6 +19,6 @@ Ready to drive the luxurious 4x4 jeep parking 3D game; one of the most new and l
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, Cars, Parking, Race, Racing, Supercars

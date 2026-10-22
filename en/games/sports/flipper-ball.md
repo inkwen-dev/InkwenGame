@@ -19,6 +19,6 @@ Use your flippers to send the ball flying and rack up as many points as possible
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Basketball, Bounce, Skills

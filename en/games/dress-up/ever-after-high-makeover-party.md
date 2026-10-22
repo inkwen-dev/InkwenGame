@@ -19,6 +19,6 @@ Who else hasn't seen the hottest animation Ever After High? Not only that, it is
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Elsa, Frozen, Girl, Girls, Halloween, Holiday, Kids, Makeover, Princess, Simulation

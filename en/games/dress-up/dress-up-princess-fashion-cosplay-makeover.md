@@ -19,6 +19,6 @@ Princess Mia and Bella are planning to be the fashioned cosplayers tonight. They
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boys, Dora, Dress Up, Girls, Hair, Kids, Makeover, Princess, Super, Superhero

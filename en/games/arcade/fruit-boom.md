@@ -19,6 +19,6 @@ Become a Fruit Boom by slashing and breaking up all of the juicy fruit Avoid bom
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Bomb, cut, Fruit, Fruits, Game, HTML5, Skill, Slicing, Timing

@@ -19,6 +19,6 @@ Collect as many balls as you can with the pipe. Watch out for the bombs! or you 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Casual, Golf, Hypercasual, Pipe

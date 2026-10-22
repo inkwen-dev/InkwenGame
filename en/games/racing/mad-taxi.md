@@ -19,6 +19,6 @@ You are the most crazy driver of the world! Run through the craziest traffic, bu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Race, Racing, Taxi

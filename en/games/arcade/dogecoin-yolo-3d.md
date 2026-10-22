@@ -19,6 +19,6 @@ How do you like surfing on a coin? Dogecoin Yolo 3D is a skillful avoiding arcad
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Boy, Casual, Kid, Point And Click, Relaxation

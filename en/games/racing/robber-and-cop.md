@@ -19,6 +19,6 @@ Become a ruthless bandit in the exciting game Robber and cop! Rob, and steal - a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Android, Best Games, Car, city, Fight, Fun, Funny, Game, gta, HTML5

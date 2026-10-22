@@ -19,6 +19,6 @@ Help Sant to collect all candy! After press/touch left or right on screen to get
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Ball, Bounce, Christmas, Family, Game, Games, HTML, HTML5, jump, Kid, Kids, Mobile, Puzzle

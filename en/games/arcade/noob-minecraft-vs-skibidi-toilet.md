@@ -19,6 +19,6 @@ Now noob minecraft fight skibidi toilet in the market. Be careful
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brawl, Minecraft, Skibidi, Skibidi Toilet

@@ -19,6 +19,6 @@ BEN 10: MATCH UP! GAME · PLAY ONLINE FOR FREE Sharpen your memory with Ben 10: 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ben 10, Cartoon, Match 3, Match3, Matching, Puzzle

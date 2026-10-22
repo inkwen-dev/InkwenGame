@@ -19,6 +19,6 @@ Black Hole is ready for battle against big monsters. Gather your army with your 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Battle, Collecting, Skibidi, Skibidi Toilet, War

@@ -19,6 +19,6 @@ Car.io is a delightful arcade gaming experience, reminiscent of Papper.io 2. It 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, Android, Car, Click, HTML5, iPad, iPhone, Kids, Mentolatux, Mobile

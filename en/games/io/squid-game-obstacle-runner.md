@@ -19,6 +19,6 @@ Try to get to where you're going as quickly as possible to avoid being hit by ap
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D Games, Android, HTML5, Mobile, run, running, Skill, Unity3D, WebGL

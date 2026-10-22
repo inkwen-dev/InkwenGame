@@ -19,6 +19,6 @@ Like in a great tennis game, Help Grimace to stopping the tennis balls fired by 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Grimace, HTML, HTML5, Skibidi, Skibidi Toilet

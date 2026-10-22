@@ -19,6 +19,6 @@ Oh! The cute and lovely dragon met an accident and It's feeling very bad on her 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Barbie, Boys, Doctor, Dora, Dragon, Dragon Ball Z, Draw, Girl, Girls, Kids

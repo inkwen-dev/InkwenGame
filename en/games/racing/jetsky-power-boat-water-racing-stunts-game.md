@@ -21,4 +21,4 @@ To play the water racing games or jet ski games is always a great source of fun 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, boat, HTML, HTML5, Race, Racing, sky
+- Tags: 3D Games, Boat, HTML, HTML5, Race, Racing, sky

@@ -19,6 +19,6 @@ Crazy Monster Trucks Difference is an online game that you can play for free. Do
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Car, Difference, Game, HTML5, Hypercasual, Kids, Skill, Truck

@@ -19,6 +19,6 @@ Unscrew Them All is a challenging puzzle game where players must strategically u
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, html5 games, Mobile, Puzzle, Strategy

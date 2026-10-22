@@ -19,6 +19,6 @@ Every boy has a car dream in his heart. Kids Cars Games is a fun educational gam
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, Car, Cars, Fun, H5, HTML, HTML5, Kid, Kids

@@ -19,6 +19,6 @@ Squid Game 2 Snake is a popular snake slither game with all Squid Game squad as 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Snake

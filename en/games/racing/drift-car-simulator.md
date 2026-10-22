@@ -19,6 +19,6 @@ Ground breaking drift game seen for first time in browsers. Not every driver can
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Car, drift, drifting, Racing, Stunts, Traffic

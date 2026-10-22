@@ -19,6 +19,6 @@ Cup and Minecraft is super fun puzzle game that you can play online for free. Th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Fun, Funny, HTML5, Hypercasual, Minecraft, Mobile, Puzzle, Skill

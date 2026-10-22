@@ -19,6 +19,6 @@ An addictive game to train your eyes and brain. Match the pairs of the same tile
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Board, Brain, Fun, Halloween, Holiday, HTML, Mobile

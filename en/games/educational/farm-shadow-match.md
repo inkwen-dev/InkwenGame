@@ -19,6 +19,6 @@ This is an educational and fun game which enhances both finding and matching ski
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Hidden, HTML5, Mobile, Puzzle

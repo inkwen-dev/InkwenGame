@@ -19,6 +19,6 @@ super fun and addictive one-touch casual game. Move the balls from one cup to an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Casual, Kid, Kids, Puzzle

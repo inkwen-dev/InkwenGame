@@ -19,6 +19,6 @@ Dress her up as you always dream to do it. Perfect choice of mask and various ha
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Design, Dress Up, Fantasy, Fashion, Girl, Girls

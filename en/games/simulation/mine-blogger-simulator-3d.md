@@ -36,4 +36,4 @@ Can you become the best blogger in the game? Embark on an exciting adventure wit
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, management
+- Tags: 3D, Management

@@ -19,6 +19,6 @@ Sonic Basket Adventure is fun arcade game suitable for all ages. The rules of th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Arcade, Avoid, Boys, Celebrity, Fun, HTML5, Hypercasual, Kids, Logic, Mobile, Puzzle, Skill

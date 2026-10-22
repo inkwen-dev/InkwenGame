@@ -19,6 +19,6 @@ The mini hunting game is a multiplayer war adventure game, a brand new mini worl
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Fruits, Fun, Funny, Game, Games, Girl, Girls, Google, Gun, H5, HTML5, Hypercasual, Kid, Kids, Minecraft, Mobile, Monster, Multiplayer, Sport, War, weapons, wolf
+- Tags: 3D Games, Action, Boy, Boys, Casual, Fruits, Fun, Funny, Game, Games, Girl, Girls, Google, Gun, H5, HTML5, Hypercasual, Kid, Kids, Minecraft, Mobile, Monster, Multiplayer, Sport, War, weapons, Wolf

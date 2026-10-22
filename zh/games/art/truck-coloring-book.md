@@ -1,0 +1,24 @@
+# 卡车涂色书
+
+<a href="https://inkwengame.com/zh/games/truck-coloring-book" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/truck-coloring-book/cover.jpg)
+
+卡车涂色书是一款免费的在线涂色和卡车游戏！在这个游戏中，你将找到八张不同的图片，需要尽快涂色，以在游戏结束时获得高分。你有23种不同的颜色可供选择。你还可以保存涂色后的图像。尽情享受吧！
+
+## 怎么玩
+
+使用鼠标或轻触屏幕
+
+## 介绍
+
+卡车涂色书是一款免费的在线涂色和卡车游戏！在这个游戏中，你将找到八张不同的图片，需要尽快涂色，以在游戏结束时获得高分。你有23种不同的颜色可供选择。你还可以保存涂色后的图像。尽情享受吧！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/art" target="_blank" rel="noopener noreferrer">绘画</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 颜色, 涂色, 教育, 有趣, HTML5, Mobile, 技巧, 卡车

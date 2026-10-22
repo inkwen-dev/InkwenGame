@@ -19,6 +19,6 @@ A small puzzle leisure game, which controls the Apple Snake through up, down, le
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Boy, Boys, Casual, Collecting, Collection, Fruit, Fruits, Fun, Funny, Game, Games, Girl, Girls, Google, H5, Highscore, HTML5, Hypercasual, Kid, Kids, Obstacle, Play, Snake

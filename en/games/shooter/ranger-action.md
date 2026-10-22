@@ -19,6 +19,6 @@ As a brave ranger, kills zombies in the air and on land, with shotgun and specia
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Collecting, HTML5, Mobile, Obstacle, running, Shoot, Skill, weapons, Zombie

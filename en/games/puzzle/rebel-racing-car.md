@@ -19,6 +19,6 @@ There’s a thin line between fast and first… Join America’s most exclusive 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arena, Barbie, Boxing, Boy, Boys, Bubble, Bubble Shooter, bus, Car, Cars, drift, Family, Fashion, Girl, Girls, Memory, Motorcycle, Nail, Sim, Simulation, Simulator, Supercars, Truck, Vampire

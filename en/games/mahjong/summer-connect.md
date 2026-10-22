@@ -19,6 +19,6 @@ You can test your pattern detection skills in this relaxed mahjong &amp; connect
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Mahjong, Mobile, Summer

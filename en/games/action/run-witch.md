@@ -19,6 +19,6 @@ Run Witch Games Online 2D Side Jump is a fun and addictive online game where you
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, endless, Platform, run, running

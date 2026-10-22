@@ -19,6 +19,6 @@ Here is a monster-truck stunt arcade game with 3D models. You need to control th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, HTML5, Mobile, Obstacle, Simulation, Stunts, Truck

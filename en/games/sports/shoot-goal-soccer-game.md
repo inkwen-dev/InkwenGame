@@ -21,4 +21,4 @@ The world’s most popular football game is now available for android. Football 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 3D, 3D Games, 8 Ball Pool, Action, Adventure, Android, Anime, Arcade, Balance, Ball, Ballon, Board, Boxing, Candy, Cartoon, Casual, Collecting, Defense, Detective, Educational, endless, Fight, Football, Game, Games, Hypercasual, management, Obstacle, Puzzle, Soccer, Sport, Sports, Tower Defense, World
+- Tags: 1 Player, 2 Player, 3D, 3D Games, 8 Ball Pool, Action, Adventure, Android, Anime, Arcade, Balance, Ball, Ballon, Board, Boxing, Candy, Cartoon, Casual, Collecting, Defense, Detective, Educational, endless, Fight, Football, Game, Games, Hypercasual, Management, Obstacle, Puzzle, Soccer, Sport, Sports, Tower Defense, World

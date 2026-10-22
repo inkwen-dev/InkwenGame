@@ -19,6 +19,6 @@ In Janissary Tower game, characters try their best to win on their own towers. T
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Battle, Castle, Creation, Pixel, Tower Defense, War

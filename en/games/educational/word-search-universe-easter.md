@@ -19,6 +19,6 @@ Word Search Universe: Easter is a fun and relaxing word puzzle game with a cheer
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Easter, Educational, Mobile, School, Word

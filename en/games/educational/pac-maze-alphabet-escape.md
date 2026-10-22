@@ -19,6 +19,6 @@ Pac Maze: Alphabet Escape is an escape game. In this game youll play as an alpha
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boy, Brain, Escape, HTML5, Kids, Maze, Quiz, Skill, Strategy

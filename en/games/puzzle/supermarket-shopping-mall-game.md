@@ -19,6 +19,6 @@ If you love supermarket shopping game, Shopping Games, and Grocery Store Games t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Adventure, Anime, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Bubble Shooter, Collecting, Collection, Color, Coloring, Cook, Cooking, CSGO, Girl, Girls, Hypercasual, Ladybug, Physics, Rhythm, Road, Shoot, Shopping

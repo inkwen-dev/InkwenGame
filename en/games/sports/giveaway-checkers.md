@@ -19,6 +19,6 @@ Giveaway Checkers or AntiCheckers or Reversed Checkers. Play with computer, onli
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Board, Logic, Logical, Multiplayer, Puzzle, pvp, Sport, Turn Based, two player games
+- Tags: 2 Player, 2 Player Games, Board, Logic, Logical, Multiplayer, Puzzle, PvP, Sport, Turn Based, two player games

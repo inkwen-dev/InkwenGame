@@ -17,4 +17,4 @@ Survive a thrilling night at Chica's pizzeria, where quick thinking is key. Moni
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

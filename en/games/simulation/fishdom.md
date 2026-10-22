@@ -21,4 +21,4 @@ Dive into the fantastic world of Fishdom! Youre in for an ocean of exciting leve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Cute, Fish, fishing, Fun, html5 games for your site, kiz10, Puzzle, Rescue
+- Tags: Cute, Fish, Fishing, Fun, html5 games for your site, kiz10, Puzzle, Rescue

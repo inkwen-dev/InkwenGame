@@ -19,6 +19,6 @@ Drawing For Kids is an amazing animal coloring game, you need to draw an animal 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Draw, Drawing, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -19,6 +19,6 @@ Two cars is a free game. It is a simple and light game that can be played on any
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, Cars, Race, Racing

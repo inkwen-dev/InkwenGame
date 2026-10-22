@@ -19,6 +19,6 @@ Gear up for an electrifying adventure in Rocket Missile Attack, the ultimate mis
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Bullet, Gun, Launch, Rocket, Tank, Tanks, War, Warrior

@@ -21,4 +21,4 @@ Iron Legion Dive into epic tank battles of the modern era! Iron Legion is an exc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Battle, Driving, military, Multiplayer, Online, pvp, Shooter, Tank, Tanks, War
+- Tags: 3D, Action, Battle, Driving, military, Multiplayer, Online, PvP, Shooter, Tank, Tanks, War

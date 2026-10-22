@@ -19,6 +19,6 @@ Crash War is a 3D game where you can fight race cars. There is a tank gun on the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Avoid, Boy, Car, Collecting, drift, Driving, Gun, Obstacle, Tank, weapons

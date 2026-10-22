@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 双人玩家, 2 人游戏, 动作, 战斗, 拳击, 打斗, 格斗, Stickman
+- 标签: 双人, 双人游戏, 动作, 战斗, 拳击, 战斗, 格鬥, Stickman

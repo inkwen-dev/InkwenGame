@@ -19,6 +19,6 @@ Cleaning House is a very fun and cute cleaning game. In this game you will find 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cleaning, Cute, Decoration, Fun, Girls, HTML5, Kids, Mobile

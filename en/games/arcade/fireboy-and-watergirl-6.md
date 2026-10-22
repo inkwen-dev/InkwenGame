@@ -19,6 +19,6 @@ Are you crazy fans of teamwork, fire and water style? Are you play for fun brain
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Fire, Girls, HTML5, Hypercasual

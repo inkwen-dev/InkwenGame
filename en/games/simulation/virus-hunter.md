@@ -19,6 +19,6 @@ Dangerous virus strains are spreading everywhere. Go hunting them to protect peo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Best, Casual, Game, HTML5, Hypercasual, Mobile, Shoot, Shoot 'Em Up, Shooter, Shooting, Simulation, Space

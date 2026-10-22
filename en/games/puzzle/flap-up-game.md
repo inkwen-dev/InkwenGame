@@ -19,6 +19,6 @@ Welcome to Flap Up Game, a fun and highly addictive tap to fly arcade game where
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Casual, Fun, Hypercasual, Skill

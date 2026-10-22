@@ -19,6 +19,6 @@ It's a new crazy game again from Teen Super Titans Go Adventure. Help your favor
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boys, Superhero

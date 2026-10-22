@@ -19,6 +19,6 @@ Do you like soccer? Do you LOVE soccer games? Start the Season 21 Playing Soccer
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Football

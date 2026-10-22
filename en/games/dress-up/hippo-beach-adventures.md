@@ -19,6 +19,6 @@ Hippo Beach Adventures is a cute game. Hippo family came to the seaside for an a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Cute, Dress Up, Family, Food, Fun, Girls, HTML5, Kids, Mobile, Sports

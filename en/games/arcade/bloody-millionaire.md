@@ -19,6 +19,6 @@ To keep in touch with the blessing of the romance of the blessing of the breeze 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Blood, HTML5, Mobile, Skill

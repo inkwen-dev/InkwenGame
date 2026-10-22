@@ -19,6 +19,6 @@ Welcome to Cute Anime Girls Clicker the ultimate clicker game that invites you t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adult, Anime, Boy, Boys, Clicker, Girl, Girls, Hot, Mobile, unity, Unity3D, WebGL

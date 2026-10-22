@@ -19,6 +19,6 @@ Get ready to ride down the slopes and shred the fresh powder in #1 3D winter spo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Skateboard, Ski, Skills

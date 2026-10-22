@@ -78,4 +78,4 @@ A: Yes, they are obtained as quests and tasks are completed.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, Ghost, horror, Logic, scary, story
+- Tags: 3D, Adventure, Ghost, Horror, Logic, scary, story

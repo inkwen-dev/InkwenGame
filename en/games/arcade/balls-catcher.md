@@ -19,6 +19,6 @@ Welcome to the most amazing Physics puzzle game " Balls Catcher " Try to bring d
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Best, Brain, Clicker, Hot, Physics, Puzzle

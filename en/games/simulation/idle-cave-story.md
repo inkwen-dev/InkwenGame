@@ -19,6 +19,6 @@ Idle Cave Story is an idle simulation and strategy game set in a primitive cavem
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, building, Casual, idle, management, Simulation, Strategy
+- Tags: Adventure, Battle, building, Casual, idle, Management, Simulation, Strategy

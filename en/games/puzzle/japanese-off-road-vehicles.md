@@ -19,6 +19,6 @@ In this Japanese Off Road Vehicles game you have 6 images of off road vehicles i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle, Truck

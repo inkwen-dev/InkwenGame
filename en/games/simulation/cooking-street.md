@@ -21,4 +21,4 @@ Cooking Street is a free cooking simulator game for boys played on PuzzleGame. Y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Brain, Cooking, Fun, HTML5, Kids, management, Online, Puzzle, Simulation
+- Tags: 3D, Android, Boy, Brain, Cooking, Fun, HTML5, Kids, Management, Online, Puzzle, Simulation

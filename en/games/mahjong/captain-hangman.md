@@ -21,4 +21,4 @@ Welcome on the ship of the Captain Hangman, the great pirate. Accept his challen
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, card, Family, Game, Guessing, Mahjong, Pirate, Solitaire, Word
+- Tags: Board, Card, Family, Game, Guessing, Mahjong, Pirate, Solitaire, Word

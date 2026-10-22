@@ -19,6 +19,6 @@ Connect the virus to kill them in this html5 game. Press any virus to start. Now
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Collection, HTML5, Kill, Killing, Mobile

@@ -19,6 +19,6 @@ Impulse Ball 2 is a game in which you need to move the color balls with impulses
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Best, Casual, Fun, Funny, Golf, Hypercasual, Kids, Logic, Mobile, Skill, Sport

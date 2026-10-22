@@ -19,6 +19,6 @@ In this High Speed Drifting game, you have 6 images in three modes to play. Choo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, drifting, HTML5, Jigsaw, Kids, Mobile, Puzzle

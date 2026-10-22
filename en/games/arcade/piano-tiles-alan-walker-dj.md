@@ -19,6 +19,6 @@ Try to match the music beat by taping on black tiles, and enjoy your favorite Al
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Games, Hot, HTML5, Magic, Mobile, Music, Point And Click, Timing

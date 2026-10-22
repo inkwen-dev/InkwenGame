@@ -19,6 +19,6 @@ Draw a blade for spinning top and fight the opponent! How creative can you be? V
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arcade, Best, Boys, Casual, Funny, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online

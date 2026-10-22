@@ -19,6 +19,6 @@ Come and join the shoe designer game at 7sgames.com. Let's design the Ava's foot
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decoration, Design, Girls

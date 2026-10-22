@@ -19,6 +19,6 @@ Ariel is a girl who likes makeup very much. She is very interested in makeup art
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Girl, Girls

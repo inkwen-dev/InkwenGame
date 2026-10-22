@@ -19,6 +19,6 @@ Dodge is here for those who want to try an different ball game. Focus all your a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Ball, Highscore, HTML5, Kids, Mobile, Shopping, Skill

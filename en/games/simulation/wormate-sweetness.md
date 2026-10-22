@@ -21,4 +21,4 @@ Wormate Sweetness is the original snake game with new Skins. choose your new wor
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Arcade, Hypercasual, Multiplayer, Simulation, Slither, Snake, Strategy, worm, Worms
+- Tags: .io, .io Games, Action, Arcade, Hypercasual, Multiplayer, Simulation, Slither, Snake, Strategy, Worm, Worms

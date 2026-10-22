@@ -19,5 +19,5 @@ An amazingly addictive and fun game. Pins and Needles is a great pastime, be it 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize

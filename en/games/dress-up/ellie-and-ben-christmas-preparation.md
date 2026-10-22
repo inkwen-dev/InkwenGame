@@ -19,6 +19,6 @@ Welcome to the Ellie And Ben Christmas Preparation. Ellie and Ben are the new co
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Decoration, Dress Up, Fashion, Fun, Girl, Kids, Makeover

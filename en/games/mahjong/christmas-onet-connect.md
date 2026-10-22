@@ -19,6 +19,6 @@ Christmas Onet Connect is a fun and relaxing cute mahjong connect game. Your tas
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML5, html5 games, Mahjong, Mobile

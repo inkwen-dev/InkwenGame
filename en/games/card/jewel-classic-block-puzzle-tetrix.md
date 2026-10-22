@@ -21,4 +21,4 @@ This is Block Puzzle Tetrix Jewel Classic an addictive and easy-to-learn game wh
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 3D, 3D Games, Arcade, Baby, Balance, Ballon, Brain, bus, Candy, Car, card, Cars, Clans, Craft, Crazy, Drawing, Easter, HTML5, Kid, Kids, Kill, Lego, Logical, Mine, Platform, Poker, Retro, Skills, Slacking, Spongebob, Sword, Tennis, train, Witch, wolf, World, worm, Worms, Zombie
+- Tags: 2 Player, 3D, 3D Games, Arcade, Baby, Balance, Ballon, Brain, bus, Candy, Car, Card, Cars, Clans, Craft, Crazy, Drawing, Easter, HTML5, Kid, Kids, Kill, Lego, Logical, Mine, Platform, Poker, Retro, Skills, Slacking, Spongebob, Sword, Tennis, Train, Witch, Wolf, World, Worm, Worms, Zombie

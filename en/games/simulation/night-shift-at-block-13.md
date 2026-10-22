@@ -21,4 +21,4 @@ You are the night guard of Block 13 &mdash; a crumbling Soviet-era apartment blo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Adventure, horror, Logic, Puzzle, Simulation, Simulator
+- Tags: 1 Player, 3D, Action, Adventure, Horror, Logic, Puzzle, Simulation, Simulator

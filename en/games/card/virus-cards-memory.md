@@ -19,6 +19,6 @@ Click the cards to flip a virus. Memorize their position and match them up in pa
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, HTML5, Memory, Mobile
+- Tags: Card, HTML5, Memory, Mobile

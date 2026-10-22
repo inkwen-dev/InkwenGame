@@ -56,4 +56,4 @@ Download The Road Home: Granny Escape — and see if you have what it takes to s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, horror, Maze, scary, story
+- Tags: Adventure, Escape, Horror, Maze, scary, story

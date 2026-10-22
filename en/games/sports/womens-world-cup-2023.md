@@ -19,6 +19,6 @@ Womens world cup is here and you find yourself in the elimination rounds. Win tr
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Soccer, Sport, Sports

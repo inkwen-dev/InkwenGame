@@ -19,6 +19,6 @@ Car games you play before isn't a spoiler for Driving School The Driving school 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Action, Adult, Adventure, Arcade, Baby Hazel, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hot, Hypercasual, Race, Racing, Super, Supercars

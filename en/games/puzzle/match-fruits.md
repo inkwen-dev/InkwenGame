@@ -19,6 +19,6 @@ Match Fruits is a fun match 3 game with 72 stages (and counting). Swap and match
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Arcade, Bejeweled, Best, Board, Boy, Boys, Casual, Fruit, Fruits, Fun, Funny, Game, Games, Girl, Girls, H5, Highscore, HTML, HTML5, Hypercasual, Kid, Kids, King, Match 3, Match3, Matching, Mobile, New, Online, Play, Puzzle, Skill, Skills, Slicing

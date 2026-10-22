@@ -19,6 +19,6 @@ Play Elliott From Earth - Space Academy: Space Cook Game online in your web brow
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ben 10, Best, Boy, Brain, Cartoon, Cartoon Network, Girl, Highscore, HTML5, Kid, Puzzle, Rocket, Skills, Space, Spaceship, Superhero

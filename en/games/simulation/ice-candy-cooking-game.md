@@ -19,6 +19,6 @@ This is a simple casual game for everyone. Both boys and girls will enjoy greatl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cook, Cooking, Cute, Decorate, Design, Girl, Girls, Kids, Simulation

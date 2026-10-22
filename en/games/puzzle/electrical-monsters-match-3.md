@@ -19,6 +19,6 @@ Electrical Monsters Match 3 is a interesting addictive match 3 game with a monst
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Kids, Match 3, Match3, Puzzle, Skill

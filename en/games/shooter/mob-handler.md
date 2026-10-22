@@ -19,6 +19,6 @@ Enter the wonderful arcade game in the Mob Handler. As a mob handler, face many 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Enemies, Shoot, Skills

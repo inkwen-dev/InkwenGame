@@ -19,6 +19,6 @@ Combat Reloaded 2 is a first-person shooter multiplayer game and the sequel to t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boy, Boys, Fun, Gun, H5, HTML5, Kid, Kids, Shoot, Shooter, Shooting

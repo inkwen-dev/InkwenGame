@@ -19,6 +19,6 @@ Desktop A D move W or J Jump F Use Key if you have one Mouse Buttons click Mobli
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Collecting, Dungeon, Retro

@@ -19,6 +19,6 @@ Battle the oncoming Alien Invasion of Earth in this epic racer to rescue your be
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Alien, Battle, Car, Cars, WebGL

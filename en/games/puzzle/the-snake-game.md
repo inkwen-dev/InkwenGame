@@ -21,4 +21,4 @@ Classic and nostalgic snake game but how about you help? Help this little snake 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, amazing, Best, Best Games, Escape, Jigsaw, Magic, Mobile, Monster, rpg, Snake
+- Tags: 1 Player, 2D, Action, Adventure, amazing, Best, Best Games, Escape, Jigsaw, Magic, Mobile, Monster, RPG, Snake

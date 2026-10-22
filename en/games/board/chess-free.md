@@ -21,4 +21,4 @@ Chess with a computer: - Powerful engine - 18 difficulty levels from Beginner to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Best Games, Board, Brain, Logic, Logical, pvp, Turn Based, two player games
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Best Games, Board, Brain, Logic, Logical, PvP, Turn Based, two player games

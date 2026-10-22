@@ -19,6 +19,6 @@ Here is a cube jumping arcade game for you to play. With 3D cubes and platforms,
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Block, Collecting, Mobile, Platform, Simulation, Stickman, Unity3D

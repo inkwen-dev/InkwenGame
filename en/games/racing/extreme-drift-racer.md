@@ -19,6 +19,6 @@ Extreme Drift Racer is a racing game that gives you the chance to master the art
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, car tuning, drift, drifting, Fun, Race, Racing

@@ -19,6 +19,6 @@ Trump Wheelie Challenge is a super fun 2D game where you drive a jeep on one whe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Boys, Car, Celebrity, Driving, Fun, Hypercasual, Skill, wheel

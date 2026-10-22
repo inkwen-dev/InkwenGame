@@ -19,6 +19,6 @@ Memory game with fun 3d effects. Find pairs of tiles with the same pictures. Mat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Brain, Bricks, Casual, Cool, Logic, Memory, Puzzle

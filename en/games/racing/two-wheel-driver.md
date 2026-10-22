@@ -19,6 +19,6 @@ he best hot the wheels scale up & down game to race and jump like a happy car dr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Action, Adventure, Anime, Arcade, Casual, Clash, Crazy, Fun, Games, Hypercasual, Racing

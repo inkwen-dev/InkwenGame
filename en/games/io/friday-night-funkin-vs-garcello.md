@@ -19,6 +19,6 @@ A mod of Friday Night Funkin where you face off against Garcello in the back all
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Arcade, Best, Funny, Girls, Hot, Music

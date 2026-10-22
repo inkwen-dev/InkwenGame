@@ -19,6 +19,6 @@ Collect the cheerful fruits! Merge them to help them evolve into something even 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Fruit, Fruits, Physics

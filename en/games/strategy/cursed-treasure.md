@@ -19,6 +19,6 @@ This is a HTML5 version of the classic tower defense game, now with mobile devic
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Fantasy, HTML5, Jewel, Strategy, Tower Defense

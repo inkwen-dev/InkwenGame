@@ -19,6 +19,6 @@ The game has only one move ball and a variety of obstacle at random. Use mouse o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Block, Mobile, Obstacle, run

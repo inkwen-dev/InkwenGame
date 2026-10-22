@@ -19,6 +19,6 @@ Throw Bomb is a basic entertainment of 80's PC. If you had Dos PC in the past, y
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2D, Arcade, Classic, Gun, Physics

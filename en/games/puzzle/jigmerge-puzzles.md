@@ -27,4 +27,4 @@ Jigmerge Puzzles is perfect for players who enjoy relaxing experiences, visual c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Mobile, mouse, Puzzle
+- Tags: Brain, Mobile, Mouse, Puzzle

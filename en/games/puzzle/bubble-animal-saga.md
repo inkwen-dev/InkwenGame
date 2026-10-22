@@ -19,6 +19,6 @@ Bubble shooters no longer offer banal multi-colored bubbles as game elements. Wh
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Best, Bubble, Bubble Shooter, Fun, Funny, Kids, Logic, Logical, Mobile, Skill

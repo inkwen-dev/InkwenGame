@@ -19,6 +19,6 @@ Be Ready and join the extreme car driving with this vertical mega ramp car stunt
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Batman, Bubble, Car, Cars, drift, Mario, Supercars

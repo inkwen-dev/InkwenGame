@@ -19,6 +19,6 @@ Build a tower out of the blocks you are dealt, then defend it. Between waves you
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Block, management, rpg, Simulation, Strategy, Tower Defense, War
+- Tags: Block, Management, RPG, Simulation, Strategy, Tower Defense, War

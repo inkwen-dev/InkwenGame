@@ -19,6 +19,6 @@ Welcome to a world of juicy fruits! In this game, tiles with fruit images fall f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Best Games, Casual, endless, Fruit, Fruits, Logical, Match 3, Match3, Puzzle, Timing

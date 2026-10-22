@@ -19,6 +19,6 @@ Rabbit Portal is a fast-paced space-timing puzzle game where precision is everyt
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Rabbit, Space, Spaceship

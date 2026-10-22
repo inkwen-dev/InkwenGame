@@ -19,6 +19,6 @@ In the wild west, there are two kinds of slot machine players. Those who lose al
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, HTML5, Machine, Red, Slot Machine

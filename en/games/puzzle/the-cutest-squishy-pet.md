@@ -19,6 +19,6 @@ The cutest squishy pet is clean pets so sometimes they want to take a shower or 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cute, Fun, Girls, Grooming, HTML5, Kids, Mobile, Puzzle

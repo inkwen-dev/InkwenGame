@@ -19,6 +19,6 @@ Be quick and sneaky and grab tons of loots! Watch out for the patrols and become
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Casual, Hypercasual, Strategy

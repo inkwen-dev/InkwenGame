@@ -24,4 +24,4 @@ Click to catch the fish. Catch fish and sell to improve your gear. Buy fishing r
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, fishing
+- Tags: Clicker, Fishing

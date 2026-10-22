@@ -1,0 +1,24 @@
+# 蝙蝠侠记忆拼图游戏
+
+<a href="https://inkwengame.com/zh/games/batman-memory-puzzle-game" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/batman-memory-puzzle-game/cover.jpg)
+
+如果你喜欢解谜类游戏以及蝙蝠侠，那么你就不能错过这款游戏——蝙蝠侠记忆拼图游戏。我们这款非常吸引人的记忆训练游戏，采用现代科幻设计风格。从最简单的2对卡片级别开始挑战你的大脑，直到超级困难的关卡。你能否通关这款游戏？？？
+
+## 怎么玩
+
+点击以匹配
+
+## 介绍
+
+如果你喜欢解谜类游戏以及蝙蝠侠，那么你就不能错过这款游戏——蝙蝠侠记忆拼图游戏。我们这款非常吸引人的记忆训练游戏，采用现代科幻设计风格。从最简单的2对卡片级别开始挑战你的大脑，直到超级困难的关卡。你能否通关这款游戏？？？
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 蝙蝠侠, 记忆, 益智

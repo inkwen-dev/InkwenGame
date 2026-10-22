@@ -21,4 +21,4 @@ Box It Up is a fast-paced puzzle game that tests your skills in managing a bustl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Color, Logic, Mobile, mouse, Relaxation, sorting
+- Tags: Color, Logic, Mobile, Mouse, Relaxation, sorting

@@ -19,6 +19,6 @@ Muddy Trucks Jigsaw is a game where you can play with some of twelve images with
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Jigsaw, Kids, Logical, Mobile, Puzzle, Truck

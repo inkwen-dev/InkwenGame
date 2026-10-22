@@ -19,6 +19,6 @@ Step into the exciting world of virtual pet adventures with the Family Pet Dog S
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Best Games, Casual, Family, Simulation

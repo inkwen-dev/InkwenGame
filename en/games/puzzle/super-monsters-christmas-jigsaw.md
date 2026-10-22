@@ -19,6 +19,6 @@ It's Christmas Eve in Pitchfork Pines, and the Super Monsters are joining forces
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Christmas, Fun, Girl, HTML5, Jigsaw, Kid, Matching, Monster, movie, Puzzle
+- Tags: Cartoon, Christmas, Fun, Girl, HTML5, Jigsaw, Kid, Matching, Monster, Movie, Puzzle

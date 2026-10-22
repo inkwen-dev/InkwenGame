@@ -21,4 +21,4 @@ It has not been a long time since the explosion (The Chernobyl disaster, 26 Apri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arena, Gun, horror, Monster, Shooter, Shooting, Undead, unity, Unity3D, Vampire, weapons, Zombie
+- Tags: 3D, 3D Games, Arena, Gun, Horror, Monster, Shooter, Shooting, Undead, unity, Unity3D, Vampire, weapons, Zombie

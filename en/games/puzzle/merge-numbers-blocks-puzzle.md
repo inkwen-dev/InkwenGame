@@ -17,4 +17,4 @@ Merge Numbers - Blocks Puzzle is a captivating game where you merge matching blo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

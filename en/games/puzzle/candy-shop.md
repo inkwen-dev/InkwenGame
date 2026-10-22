@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Android, Balance, Ball, Ballon, Barbie, Bubble, Bubble Shooter, burger, Candy, Fun, Funny, Girl, Girls, Hello Kitty, Island, Kid, Kids, Kiss, Mobile, Shoot, Shooter, Shooting, Shopping
+- Tags: Aircraft, Android, Balance, Ball, Ballon, Barbie, Bubble, Bubble Shooter, Burger, Candy, Fun, Funny, Girl, Girls, Hello Kitty, Island, Kid, Kids, Kiss, Mobile, Shoot, Shooter, Shooting, Shopping

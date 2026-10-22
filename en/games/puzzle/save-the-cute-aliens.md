@@ -21,4 +21,4 @@ In Save the cute Aliens, immerse yourself in an intergalactic adventure where yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Alien, Cartoon, Match 3, Puzzle
+- Tags: 2D, Alien, Cartoon, Match-3, Puzzle

@@ -19,6 +19,6 @@ Art has not only the power to inspire, but it can also be incredibly relaxing. B
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Fun, HTML5, Kids, Mobile, Puzzle

@@ -19,6 +19,6 @@ How many levels can you beat? Crush bricks in crazy bursts of speed and adrenali
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Block, Bricks, jump

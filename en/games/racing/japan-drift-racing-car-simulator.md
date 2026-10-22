@@ -19,6 +19,6 @@ Japan Drift Racing Car Simulator is an open world game set in a huge city. Explo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, car tuning, drift, drifting, Racing, Unity3D

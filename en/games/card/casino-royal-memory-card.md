@@ -21,4 +21,4 @@ The classic card game Cassino also known as Casino. The rules are simple, but th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casino
+- Tags: Card, Casino

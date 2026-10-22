@@ -19,6 +19,6 @@ Color Crowd is New Run Game , Swipe to Avoid Obstacles , Switch the Crowd Colors
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Games, Hypercasual, Online, Shooter

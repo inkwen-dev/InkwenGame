@@ -21,4 +21,4 @@ Mice Rush is a fast-paced 3D endless runner where you control a little mouse rac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Avoid, Casual, Collecting, endless, jump, Jumping, mouse, Obstacle, run, running
+- Tags: Avoid, Casual, Collecting, endless, jump, Jumping, Mouse, Obstacle, run, running

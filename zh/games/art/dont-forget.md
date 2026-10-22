@@ -1,0 +1,24 @@
+# 不要忘记
+
+<a href="https://inkwengame.com/zh/games/dont-forget" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/dont-forget/cover.jpg)
+
+不要忘记是一款逻辑思维游戏，玩家需要有良好的记忆力来记住所显示的顺序并重复它。
+
+## 怎么玩
+
+点击球体以改变颜色，并重复上方看到的相同序列
+
+## 介绍
+
+不要忘记是一款逻辑思维游戏，玩家需要有良好的记忆力来记住所显示的顺序并重复它。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/art" target="_blank" rel="noopener noreferrer">绘画</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 颜色, 涂色, 有趣, 游戏, 游戏, HTML, HTML5, 儿童, 孩子们, 思维

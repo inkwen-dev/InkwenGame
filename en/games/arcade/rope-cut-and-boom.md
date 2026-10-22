@@ -19,6 +19,6 @@ Do you have enough confidence of your physics knowledge? Rope Cut And Boom is a 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Ball, Boy, Casual, cut, Game, Kid, Puzzle

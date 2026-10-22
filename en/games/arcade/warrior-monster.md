@@ -19,6 +19,6 @@ An addictive typical arcade/hypercasual game, simple to play, nice design, fun a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Candy, Casual, Fruit, HTML5, Hypercasual, Jelly, Mobile, Ninja

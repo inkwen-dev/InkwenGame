@@ -19,6 +19,6 @@ Hunter and Survivor is an intense hide-and-seek game where you play as either th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, Hidden, hunting, running
+- Tags: Avoid, Hidden, Hunting, running

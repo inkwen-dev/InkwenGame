@@ -19,6 +19,6 @@ Balls Go High, a popular ball game, is suitable for all ages. Your job in this g
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Kids, Mobile, Platform, Skill

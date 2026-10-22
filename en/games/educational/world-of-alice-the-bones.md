@@ -19,6 +19,6 @@ World of Alice - The Bones World of Alice - The Bones is a game developed for ch
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Best Games, Cartoon, Cute, Educational, free games for your site, free games for your website, Fun, Funny, html5 games for your site, Kids, Puzzle, touch, World

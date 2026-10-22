@@ -19,6 +19,6 @@ Urban Farm Simulator is a fun and relaxing farming game where you can build and 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, amazing, Best Games, Driving, farm, tractor
+- Tags: 2026 games, Adventure, amazing, Best Games, Driving, Farm, tractor

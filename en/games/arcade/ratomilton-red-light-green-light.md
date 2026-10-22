@@ -19,6 +19,6 @@ Step into the world of Ratomilton Red Light Green Light, a thrilling game of act
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: hunting, Hypercasual, Pirate, squidgame
+- Tags: Hunting, Hypercasual, Pirate, squidgame

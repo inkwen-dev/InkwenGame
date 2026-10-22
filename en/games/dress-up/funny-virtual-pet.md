@@ -19,6 +19,6 @@ Have you ever thought about taking care of a marmot in your daily life? Meet the
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Boys, cut, Decorate, Design, Dress Up, Educational, Fashion, Girl, Girls, Grooming, Makeover, Simulation

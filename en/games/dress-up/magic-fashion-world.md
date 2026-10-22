@@ -19,6 +19,6 @@ Different combinations are waiting for you in the magical world of fashion! Ther
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fun, Funny, Game, Girl, Girls, HTML, HTML5, Makeover

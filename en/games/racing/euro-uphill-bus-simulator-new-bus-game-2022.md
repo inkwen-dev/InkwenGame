@@ -19,6 +19,6 @@ Euro Uphill Bus Simulator : New Bus Game 2022 – Don’t Forget to Play the New
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Driving, HTML, HTML5, Parking, Simulation, Simulator

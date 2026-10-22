@@ -21,4 +21,4 @@ The movie Raya And The Last Dragon is coming. Now, I pick some images for player
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Animal, Cartoon, Dragon, Fun, Girl, HTML5, Jigsaw, Kid, Matching, Mobile, movie
+- Tags: Android, Animal, Cartoon, Dragon, Fun, Girl, HTML5, Jigsaw, Kid, Matching, Mobile, Movie

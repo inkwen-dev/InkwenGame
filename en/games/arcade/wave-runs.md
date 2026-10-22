@@ -19,6 +19,6 @@ Wave Run is an arcade puzzle game where the goal is to pass longer distance as y
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Kids, Obstacle, Puzzle

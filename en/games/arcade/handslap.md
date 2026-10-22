@@ -19,6 +19,6 @@ Handslap is a game for 2 players. You can choose whatever arm you want and compe
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Arcade, Game, Games, HTML, HTML5, pvp, Skill, Skills, unity, WebGL
+- Tags: 2 Player, 2 Player Games, 2D, Action, Arcade, Game, Games, HTML, HTML5, PvP, Skill, Skills, unity, WebGL

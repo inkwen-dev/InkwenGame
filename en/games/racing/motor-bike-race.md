@@ -19,6 +19,6 @@ Are you looking for Driving Games? Racing Games? Fun Games? You got it right! Bi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bike, Car, Motorcycle, Race, Racing, World

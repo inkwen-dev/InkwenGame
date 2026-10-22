@@ -19,6 +19,6 @@ Step into the role of a powerful cop car chase police simulator officer and expe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2026 games, 3D Games, Best Games, Car, city, Driving, Game, Hypercasual, Police, Simulation, Traffic

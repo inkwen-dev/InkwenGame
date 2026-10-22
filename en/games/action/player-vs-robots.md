@@ -19,6 +19,6 @@ Player vs Robots is a first person shooter. Save the world from robots. The game
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Fun, Funny, Robot, Unity3D, weapons, WebGL

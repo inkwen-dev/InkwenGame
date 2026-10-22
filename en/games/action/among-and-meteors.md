@@ -19,6 +19,6 @@ An addicting game of speed and reaction in which you have to play as an among an
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Arcade, Avoid, Boys, Casual, Click, Clicker, endless, Escape, Fun, Funny, Game, Games, Highscore, HTML5, Hypercasual, Obstacle, Platform, run, running, Skill, Space, Timing

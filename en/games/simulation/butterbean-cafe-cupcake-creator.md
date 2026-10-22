@@ -19,6 +19,6 @@ Butterbean's Café: Cupcake Creator is a cooking game based on the Butterbean's 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Barbie, Cake, Candy, Cartoon, Cook, Cooking, Cute, Fairy, Food, Frozen, Fruit, Fruits, Girls, HTML5

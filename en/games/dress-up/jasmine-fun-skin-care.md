@@ -19,6 +19,6 @@ Jasmine is getting ready for costume and face paint contest. But unfortunately h
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cartoon, Disney, Dress Up, Elsa, Fashion, Girl, Girls, Hair, Makeover, Princess

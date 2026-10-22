@@ -19,6 +19,6 @@ Is baseball your passion? Do you never miss a match? Do you want to play this ga
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Baseball, Game, Kid, Sport

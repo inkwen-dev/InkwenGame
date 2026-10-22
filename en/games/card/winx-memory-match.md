@@ -19,6 +19,6 @@ Matching pictures of beautiful fairies bloom, flora, stella and tecna and their 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Fairy, Game, Games, Girl, Girls, HTML5, Magic, Matching, Puzzle
+- Tags: Card, Fairy, Game, Games, Girl, Girls, HTML5, Magic, Matching, Puzzle

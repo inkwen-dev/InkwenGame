@@ -19,6 +19,6 @@ Elsa's nail salon is becoming more and more popular. She has recently designed m
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Creation, Decoration, Design, Elsa, Frozen, Girl, Girls, Nail, Nails, Princess

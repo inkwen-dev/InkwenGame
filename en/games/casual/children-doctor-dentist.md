@@ -19,6 +19,6 @@ Become a dentist and help your friends to have a healthy mouth. Brian, Katie, Fr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Casual, Doctor, Girl, Girls, H5, HTML5, Surgery

@@ -19,6 +19,6 @@ In Catch The Snowflake, be prepared to test your attention! Snowflakes and Chris
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Christmas, Collecting, Funny, Girls, Holiday, Mahjong, Matching, Puzzle, Winter

@@ -19,6 +19,6 @@ Just jumping is enough in the game Touch the screen or click with the mouse to j
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Cartoon, Cartoon Network, Game, Games

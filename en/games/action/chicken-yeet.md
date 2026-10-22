@@ -19,6 +19,6 @@ Chicken Yeet is a fast, funny arcade launcher about one brave chicken, one very 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Casual, Chicken, Collecting, Highscore, Hypercasual, Launch, Mobile, Obstacle, Physics, Skill, Space

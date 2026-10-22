@@ -21,4 +21,4 @@ Parachute is a little game about flying your parachute, where your objective is 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Arcade, Best, boat, Casual, Classic, Click, Crazy
+- Tags: 1 Player, 2D, Action, Adventure, Arcade, Best, Boat, Casual, Classic, Click, Crazy

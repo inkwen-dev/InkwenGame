@@ -19,6 +19,6 @@ Kitty Bedtime Activities is a caring game. Wondering what kittens do before bed?
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Cute, Dress Up, Fun, Girls, Grooming, HTML5, Kids, Mobile

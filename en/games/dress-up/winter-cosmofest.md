@@ -19,6 +19,6 @@ Immerse yourself in a magical winter adventure in the Honkai universe. Show your
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Christmas, Cute, Dress Up, Fantasy, Fashion, Hair, Makeover, Princess, Space, train, Winter
+- Tags: Anime, Christmas, Cute, Dress Up, Fantasy, Fashion, Hair, Makeover, Princess, Space, Train, Winter

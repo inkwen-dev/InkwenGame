@@ -19,6 +19,6 @@ Arrow fest Aim carefully and throw your arrow through the world then control it 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adult, Adventure, Arcade, Car, Girl, Girls, jump, Race, Racing, run, running, Stunts, Unity3D

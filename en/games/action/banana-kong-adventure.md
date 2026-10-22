@@ -19,6 +19,6 @@ Banana Kong Adventure is a 2D game that lets you go on an adventure with the mon
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Avoid, Casual, Collecting, jump, Platform, run

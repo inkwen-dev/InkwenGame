@@ -19,6 +19,6 @@ Parking is an online game that you can play for free. In this fun parking game, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Boys, Car, Cars, Driving, HTML5, Kids, Parking, Puzzle, Racing, Skill

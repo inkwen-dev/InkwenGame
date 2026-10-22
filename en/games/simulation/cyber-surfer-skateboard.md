@@ -19,6 +19,6 @@ Do you like cyberpunk? Do you like skateboarding? Then this game is for you! Wel
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arcade, Casual, Girl, Kid, running, Simulation, Skateboard

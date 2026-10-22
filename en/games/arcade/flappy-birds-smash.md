@@ -19,6 +19,6 @@ It&rsquo;s a fun arcade game, and it is not as easy as it looks. It has a simple
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, angrybirds, Arcade, Best Games, Bird, Casual, flappybird, Game, Relaxation

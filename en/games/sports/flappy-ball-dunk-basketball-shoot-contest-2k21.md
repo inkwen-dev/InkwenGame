@@ -19,6 +19,6 @@ Flappy Dunk Shoot is amazing game with classic and customise Balls. Tap the scre
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Ball, Ballon, Basketball, Casual, fly, Game, Highscore, HTML, HTML5, Hypercasual, jump, Jumping, Online, Puzzle, Soccer, Sport, WebGL

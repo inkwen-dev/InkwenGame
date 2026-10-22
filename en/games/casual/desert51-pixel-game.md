@@ -19,6 +19,6 @@ Battle royale Desert 51 pixel 3D gun team, is a game that will keep you tense. T
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Minecraft, Multiplayer, Pixel

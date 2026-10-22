@@ -19,6 +19,6 @@ Easter Memory is a HTML5 memory game. Match all identical cards before time runs
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Easter, Rabbit

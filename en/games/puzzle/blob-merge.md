@@ -19,6 +19,6 @@ Control a cute slime and become the biggest on the map! Search for slimes of the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2026 games, Collecting, Color, eating, free games for your site, Game, Hypercasual, Jelly, Matching, Physics, Relaxation, Top Down

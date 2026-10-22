@@ -21,4 +21,4 @@ Dungeon Chess is a strategic puzzle game with roguelike elements, offering compa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Board, Brain, card, Fantasy, Logic, Logical, Puzzle, rpg, Strategy
+- Tags: 2D, Board, Brain, Card, Fantasy, Logic, Logical, Puzzle, RPG, Strategy

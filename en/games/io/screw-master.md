@@ -19,6 +19,6 @@ Welcome to Screw Master: Nuts and Bolts , a mystifying and challenging puzzle-so
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Puzzle, puzzleblock

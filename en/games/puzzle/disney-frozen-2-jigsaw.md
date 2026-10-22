@@ -19,6 +19,6 @@ The World of Disney’s Frozen comes to life in an exciting new match 3 puzzle a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Casual, Disney, Frozen, Girl, Girls, Hot, Jigsaw, Princess, Puzzle

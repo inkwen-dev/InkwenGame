@@ -21,4 +21,4 @@ Use your reaction to go down as far as possible in the Snake Down game. Each cli
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Fruit, Game, HTML5, Jumping, Mobile, New, Snake, worm
+- Tags: 2D, Arcade, Fruit, Game, HTML5, Jumping, Mobile, New, Snake, Worm

@@ -19,6 +19,6 @@ Pet run adventure is a great animal racing game with crazy pet run simulator for
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Family, Fantasy, HTML, HTML5, Hypercasual, Physics, run, Strategy

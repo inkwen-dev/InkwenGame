@@ -19,6 +19,6 @@ Engage in physical activity today, and you can achieve a fit and robust physique
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Click, HTML5, html5 games, iPad, iPhone, Mentolatux, Mobile, onetouch, Sports, touch, touchscreen

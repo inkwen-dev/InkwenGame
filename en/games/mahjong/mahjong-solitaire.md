@@ -21,4 +21,4 @@ Mahjong Solitaire is one of the most popular board game int the world. Challenge
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Mahjong, Solitaire, Strategy
+- Tags: Card, Mahjong, Solitaire, Strategy

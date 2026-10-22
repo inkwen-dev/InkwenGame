@@ -19,6 +19,6 @@ Too Cute Puppies is memory matching game with little cute puppies. You need to f
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, card, Cute, Funny, HTML5, Kids, Matching, Memory, Puzzle
+- Tags: Animal, Card, Cute, Funny, HTML5, Kids, Matching, Memory, Puzzle

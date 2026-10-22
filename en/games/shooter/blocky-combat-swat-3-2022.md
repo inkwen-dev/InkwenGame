@@ -19,6 +19,6 @@ The most impactful video games give you access to a variety of tools. You and yo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Block, Crazy, Multiplayer, Pixel, Shooter, Unity3D, War, WebGL

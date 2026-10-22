@@ -19,6 +19,6 @@ You are THE RUNNER, the ultimate runner of the galaxy ! Run and jump into amazin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Classic, Click, Clicker, Fun, Funny, jump, Jumping, Kid, Kids, Mobile, Ninja, Ninjago, run, running

@@ -19,6 +19,6 @@ Patience, card solitaire or just solitaire, is a genre of card games that can be
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, card, Hypercasual, Solitaire
+- Tags: Arcade, Card, Hypercasual, Solitaire

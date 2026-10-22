@@ -19,6 +19,6 @@ Daycare takes a lot of work! Let’s hope these adorable babies like you! You’
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arcade, Baby, Baby Hazel, Casual, Hypercasual, Super, Unity3D

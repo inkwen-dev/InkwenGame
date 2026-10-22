@@ -19,6 +19,6 @@ Red and White Poly is an FPS Shooter Game-themed at a time when Indonesia is sti
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shooter, Shooting, Unity3D, WebGL

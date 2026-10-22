@@ -19,6 +19,6 @@ Explore a colorful underwater world full of fishing excitement. In Fish Land - F
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fish, Relaxation, Simulation

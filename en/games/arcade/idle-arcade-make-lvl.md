@@ -19,6 +19,6 @@ IDLE ARCADE - MAKE LVL a game in which you create levels and earn on it. Just do
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Block, Creation, endless, Fun, Game, Sandbox

@@ -21,4 +21,4 @@ Are you ready for an epic battle? Mageclash.io is a multiplayer fantasy game whe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, Fantasy, Fighting, Knight, Magic, Multiplayer, rpg
+- Tags: .io, .io Games, Fantasy, Fighting, Knight, Magic, Multiplayer, RPG

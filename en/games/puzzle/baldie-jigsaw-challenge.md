@@ -19,6 +19,6 @@ Baldie Jigsaw Challenge is a super fun and free to play online puzzle game for k
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Fun, Girls, HTML5, Jigsaw, Kids, Logic, Puzzle, School, Skill

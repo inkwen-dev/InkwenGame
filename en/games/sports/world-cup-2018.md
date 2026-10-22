@@ -19,6 +19,6 @@ Here is a small game that will allow anyone who wants to take part in an excitin
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Ballon, Football, HTML, HTML5, Shoot, Skill, Skills, Soccer, Sport, Sports

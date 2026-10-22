@@ -19,6 +19,6 @@ This is a casual puzzle game, you need to launch the ball to the designated posi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Kid, Kids, Launch, Physics, Puzzle, Skill

@@ -19,6 +19,6 @@ An exciting game of speed and reaction in which you have to overcome various obs
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Click, Clicker, Fun, Funny, HTML, HTML5, Platform, Point And Click, run, running

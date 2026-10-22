@@ -21,4 +21,4 @@ Only 1 color per line : can you fill in the grid ? The concept is super simple, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Color, Logic, Number, Puzzle, sudoku
+- Tags: Brain, Color, Logic, Number, Puzzle, Sudoku

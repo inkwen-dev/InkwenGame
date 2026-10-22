@@ -19,6 +19,6 @@ Pigs vs Blocks is an arcade game where you have to break the blocks with the hel
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Fun, Kids, Mobile, Puzzle

@@ -19,6 +19,6 @@ Start your drone and become a pizza delivery boy. Dare to deliver tasks that are
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Driving, Kids, Mobile, Simulator

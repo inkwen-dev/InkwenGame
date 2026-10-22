@@ -19,6 +19,6 @@ Racing in Car is the best mobile racing game you have been looking for. You driv
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Action, Arcade, Car, Cars, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing

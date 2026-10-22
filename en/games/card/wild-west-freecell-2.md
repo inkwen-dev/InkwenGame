@@ -17,4 +17,4 @@ Dive into the Wild West with Freecell's riveting twist. Strategically stack card
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

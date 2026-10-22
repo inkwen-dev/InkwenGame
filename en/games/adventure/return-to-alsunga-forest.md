@@ -19,6 +19,6 @@ Return To Alsunga Forest is point and click adventure game from Escape Fan. Some
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Point And Click, Puzzle

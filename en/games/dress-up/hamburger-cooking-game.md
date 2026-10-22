@@ -19,6 +19,6 @@ Welcome to the delightful and addictive Hamburger Cooking Game! Unleash your inn
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: burger, Cleaning, Cooking, Cute, Dress Up, Fashion, Food, Fun, HTML5, Kids, Mobile, Restaurant, rpg
+- Tags: Burger, Cleaning, Cooking, Cute, Dress Up, Fashion, Food, Fun, HTML5, Kids, Mobile, Restaurant, RPG

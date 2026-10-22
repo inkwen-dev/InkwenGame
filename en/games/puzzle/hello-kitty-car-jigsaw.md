@@ -19,6 +19,6 @@ Hello Kitty Car Jigsaw is a free online game from genre of puzzle and jigsaw gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Car, Cartoon, Casual, Cat, Fun, Hello Kitty, HTML5, Jigsaw, Kids, Mobile, Skill

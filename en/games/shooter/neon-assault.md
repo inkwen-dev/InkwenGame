@@ -19,6 +19,6 @@ Neon Assault is a fast-paced arcade shooter where you pilot a neon spaceship aga
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Shooter, Space, survival

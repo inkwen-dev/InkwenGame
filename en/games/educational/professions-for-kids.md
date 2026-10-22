@@ -21,4 +21,4 @@ Looking for an engaging and educational game for your kids? Look no further than
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Cute, Educational, Fun, Girls, HTML5, Kids, Mobile, rpg
+- Tags: Animal, Cute, Educational, Fun, Girls, HTML5, Kids, Mobile, RPG

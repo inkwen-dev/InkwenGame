@@ -19,6 +19,6 @@ Monster Truck Games Kids: Ignite your child&rsquo;s passion for high-octane fun 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Adventure, Monster, Race, Zombie

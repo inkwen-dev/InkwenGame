@@ -19,6 +19,6 @@ Off-Road Hill Climbing Race isn&rsquo;t your typical car-driving game&mdash;it&r
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boys, Car, Girls, Helicopter, Kids, Racing, running, Skill

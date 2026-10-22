@@ -21,4 +21,4 @@ Park Out is a de-congesting, car un-jamming game where the goal is to get all of
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: mouse, Parking, Puzzle, Skill
+- Tags: Mouse, Parking, Puzzle, Skill

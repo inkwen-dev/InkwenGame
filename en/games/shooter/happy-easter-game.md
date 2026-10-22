@@ -19,6 +19,6 @@ In this game, you need to throw Easter eggs in the balloon basket. Try to put mo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Easter, Kids, Puzzle, Rabbit, Shooter

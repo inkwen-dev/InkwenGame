@@ -29,4 +29,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 换装, Easter, 女孩们, 改造
+- 标签: 装扮, 复活节, 女孩, 改造

@@ -19,6 +19,6 @@ Keyboard WASD Arrows Touch Mouse Swipe Up Down Left Right to move the squares Ga
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, HTML5, Puzzle, Relaxation

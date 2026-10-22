@@ -19,6 +19,6 @@ Draw Climber 2 is an interesting race game. You have to draw a leg that makes su
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Draw, Drawing, H5, HTML5, Hypercasual, Kid, Kids

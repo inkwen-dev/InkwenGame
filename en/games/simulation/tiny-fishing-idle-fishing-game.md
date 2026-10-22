@@ -21,4 +21,4 @@ Tiny Fishing is a fishing game where you have to upgrade your gear to get bigger
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Boys, Casual, Fish, fishing, Fun, H5, HTML5, Kid, Kids
+- Tags: Boy, Boys, Casual, Fish, Fishing, Fun, H5, HTML5, Kid, Kids

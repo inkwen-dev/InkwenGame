@@ -19,6 +19,6 @@ Memory Match is a simple classic board game which can help and challenging your 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Click, Clicker, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Matching, Memory, Mind, Puzzle
+- Tags: Card, Click, Clicker, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Matching, Memory, Mind, Puzzle

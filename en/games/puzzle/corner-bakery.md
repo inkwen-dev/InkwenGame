@@ -21,4 +21,4 @@ Welcome to Corner Bakery, a cozy merge game about good food and the people next 
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: cozy, Food, management, merge, story
+- Tags: cozy, Food, Management, merge, story

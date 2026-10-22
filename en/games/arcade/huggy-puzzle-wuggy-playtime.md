@@ -19,6 +19,6 @@ Huggy Puzzle Wuggy Playtime is a delightful jigsaw puzzle game that submerges yo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Anime, Arcade, huggy

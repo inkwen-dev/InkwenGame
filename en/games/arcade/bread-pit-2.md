@@ -19,6 +19,6 @@ In this funny little game you will have to help a piece of bread become a fragra
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Arcade, Candy, Cute, Food, Funny, Girl, Kids, Physics, Puzzle

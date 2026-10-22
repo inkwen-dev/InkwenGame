@@ -19,6 +19,6 @@ Welcome to the game called Stumble Guys Sliding Puzzle! In this game you have 12
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Fun, Funny, HTML5, Hypercasual, Jigsaw, Mobile, Skill, Skills

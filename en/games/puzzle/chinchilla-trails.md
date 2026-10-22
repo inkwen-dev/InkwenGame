@@ -21,4 +21,4 @@ Chinchilla Trails is a cozy route-building puzzle about helping a lost chinchill
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Brain, Casual, Collecting, Cute, Hypercasual, Levels, Logic, Mobile, mouse, Puzzle, Relaxation, touchscreen
+- Tags: 1 Player, Animal, Brain, Casual, Collecting, Cute, Hypercasual, Levels, Logic, Mobile, Mouse, Puzzle, Relaxation, touchscreen

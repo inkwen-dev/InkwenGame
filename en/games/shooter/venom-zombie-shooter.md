@@ -19,6 +19,6 @@ Venom Zombie Shooter is a 3D game full of horror action, all you have to do is t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Unity3D, WebGL, Zombie

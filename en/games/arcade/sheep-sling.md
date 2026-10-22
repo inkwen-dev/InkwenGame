@@ -19,6 +19,6 @@ Sling, bounce and swing your Sheep to the top. Get rid of the dangerous obstacle
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Best, Casual, HTML, HTML5, Mobile

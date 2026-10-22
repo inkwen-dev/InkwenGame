@@ -19,6 +19,6 @@ Princess Coloring By Number is a color filler game. Princess Coloring Book is an
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Drawing, Girls, Kids, Princess

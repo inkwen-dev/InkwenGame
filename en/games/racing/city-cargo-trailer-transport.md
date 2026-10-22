@@ -19,6 +19,6 @@ Get behind the wheels of a big trailer to deliver cargo to dangerous mountains a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Car, Driving, HTML5, Simulation, WebGL

@@ -19,6 +19,6 @@ Drive through busy streets, find the perfect parking spot, and slide into positi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, city, Driving, Parking, Skill

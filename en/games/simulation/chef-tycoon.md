@@ -35,4 +35,4 @@ Start with a small setup, serve efficiently, earn profits, and grow your culinar
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Cooking, Food, idle, management, Restaurant, tycoon
+- Tags: Cooking, Food, idle, Management, Restaurant, tycoon

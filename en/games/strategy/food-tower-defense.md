@@ -21,4 +21,4 @@ Drag and drop tower in places and click on the tower to upgrade to prevent all t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Food, Mobile, mouse, Tower Defense
+- Tags: Food, Mobile, Mouse, Tower Defense

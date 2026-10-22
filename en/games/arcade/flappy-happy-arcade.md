@@ -19,6 +19,6 @@ Join the arcade party in the office. At the party with arcade games organized by
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arcade, Bird, Cartoon, Casual, Cool, Fantasy, Fun, Funny, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, WebGL

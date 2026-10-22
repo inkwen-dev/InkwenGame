@@ -19,6 +19,6 @@ My Doll Avatar Creator allows you to choose from different skin tones, eye color
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Creation, Cute, Decorate, Design, Dress Up, Fashion, Girl, Girls, Kids, Makeover, Simulation

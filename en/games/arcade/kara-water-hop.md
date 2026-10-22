@@ -19,6 +19,6 @@ You are a little (but fat!) cute flightless chicken that wants to cross the lake
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, HTML5, Jumping, Kids, Mobile, Puzzle, Skill

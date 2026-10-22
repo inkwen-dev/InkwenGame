@@ -19,6 +19,6 @@ Nitro Rally is a fun classic 2d arcade racing game similar with the classic raci
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Bike, Car, city, drift, drifting, Driving, Fun, Parking, Racing, Simulation, Simulator, Stunts

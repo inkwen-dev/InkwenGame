@@ -19,6 +19,6 @@ Welcome to the new world of formula one car racing games in our Speed formula ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Car, Cars, Casual, Funny, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Motorcycle, Online, Race, Racing

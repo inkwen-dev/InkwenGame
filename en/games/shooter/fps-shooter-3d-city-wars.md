@@ -19,6 +19,6 @@ FPS Shooter 3D City Wars is the most exciting and challenging first-person shoot
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Battle, Boys, HTML5, Shoot, Shoot 'Em Up, Shooter, WebGL

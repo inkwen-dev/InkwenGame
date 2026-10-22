@@ -19,6 +19,6 @@ Here is a bicycle-racing simulation arcade game on 3D country roads. You are abl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Bike, Mobile, Racing, Simulator, WebGL

@@ -19,6 +19,6 @@ On the tableau can you build down on alternating color. You can use the Freecell
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, card, Cute, Logic, Puzzle
+- Tags: Board, Card, Cute, Logic, Puzzle

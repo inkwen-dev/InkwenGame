@@ -19,6 +19,6 @@ Spider-Man and Agent Venom are training to fight. Who do you think will win? let
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Cartoon, Fight, Fighting, Fun, Game, HTML5, Spiderman, Street Fighting

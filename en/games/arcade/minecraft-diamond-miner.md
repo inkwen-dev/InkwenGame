@@ -19,6 +19,6 @@ Dig through pixelated layers to uncover rare diamonds using an intuitive mining 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Mine, Minecraft, Miner, Puzzle

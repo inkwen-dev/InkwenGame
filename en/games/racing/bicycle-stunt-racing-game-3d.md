@@ -21,4 +21,4 @@ Welcome to the bicycle stunt racing game. Get ready to hit the tracks, pedal har
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Adventure, bicycle, Fun, Racing
+- Tags: 2026 games, Action, Adventure, Bicycle, Fun, Racing

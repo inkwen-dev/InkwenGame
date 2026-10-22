@@ -19,6 +19,6 @@ Don't let the grumpy inspector and his dog grab you in Subway Surfers Havana! Tr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, H5, HTML, HTML5, Hypercasual, jump, Jumping, run, running, subway, Subway Surfers, Unity3D

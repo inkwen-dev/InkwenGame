@@ -19,6 +19,6 @@ Warehouse Tetris 3D is a relaxing 3D packing puzzle where you load boxes, crates
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, cargo, Logic, Physics, Relaxation, Tetris

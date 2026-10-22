@@ -19,6 +19,6 @@ Dive into horror itself and fear for your life in The Haunted Mansion. Incarnate
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boxing, Boy, Boys, Classic, Fun, Funny, Ghost, House, Kid, Kids, Puzzle

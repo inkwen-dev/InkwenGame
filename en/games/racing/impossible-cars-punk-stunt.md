@@ -19,6 +19,6 @@ Impossible Cars Punk Stunt is an amazing 3D car driving game developed by Playne
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, drift, Driving, Funny, Racing, Stunts, Supercars

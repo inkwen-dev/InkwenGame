@@ -19,6 +19,6 @@ Establishing a new criterion in graphics for best car games, the CSR2 delivers h
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Best, Car, Cars, Crazy, drift, drifting, Driving, Game, Games, Racing, Road, Sim, Simulation, Simulator, Unity3D, WebGL

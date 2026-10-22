@@ -19,6 +19,6 @@ Bts Rabbit Coloring Book is an online game that you can play for free. Bts Rabbi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Cartoon, Color, Coloring, Fun, Girls, HTML5, Kids, Rabbit, School

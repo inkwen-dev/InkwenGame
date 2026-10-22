@@ -19,6 +19,6 @@ Flapy Bird 3D is a remake of the classic game from an independent developer. It 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Adventure, Animal, Avoid, Best, Bird, Bounce, Casual, Clicker, endless, Fun, Funny, jump, Jumping, New, Play

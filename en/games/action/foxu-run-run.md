@@ -21,4 +21,4 @@ A Fox Running in the farm and escape from the animals for get the straw berries!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, endless, farm, Hypercasual, running
+- Tags: Animal, endless, Farm, Hypercasual, running

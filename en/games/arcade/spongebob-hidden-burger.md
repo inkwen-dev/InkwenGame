@@ -21,4 +21,4 @@ In SpongeBob Hidden Burger, players are challenged to seek out hidden burgers sc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, burger, free html5 games for your website, Hidden, HTML5, Hypercasual, Kids, Skill, Spongebob
+- Tags: Arcade, Burger, free html5 games for your website, Hidden, HTML5, Hypercasual, Kids, Skill, Spongebob

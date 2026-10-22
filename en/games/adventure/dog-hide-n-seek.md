@@ -19,6 +19,6 @@ Embark on an adventurous hide-and-seek game in Dog Hide N Seek! Join a group of 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2048, 2D, 3D Games, Action, Adventure, Android, Animal, Avoid, Baby Games, Best Games, Cartoon

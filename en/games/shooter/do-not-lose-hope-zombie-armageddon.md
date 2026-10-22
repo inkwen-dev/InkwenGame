@@ -19,6 +19,6 @@ This Web Browser Game is insane Horror third person shooter with special skill s
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Shooting, Undead, Unity3D, weapons, Zombie

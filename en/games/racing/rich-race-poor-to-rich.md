@@ -19,6 +19,6 @@ Race or run rich it's new life simulation game, the run rich game teaching you h
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, 8 Ball Pool, Adventure, Bounce, Boy, Boys, Girl, Girls, Pool, Race, Racing, Unity3D

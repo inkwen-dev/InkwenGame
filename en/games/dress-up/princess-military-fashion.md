@@ -19,6 +19,6 @@ Fashion for everything tactical confidently conquers the world. And not only boy
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Dress Up, Fashion, Funny, Girl, Girls, Hair, HTML5, Makeover, Princess, War, weapons

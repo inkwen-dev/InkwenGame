@@ -19,6 +19,6 @@ Super Shop Idle is a delightful idle game where you can experience the excitemen
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Girls, Kids, Relaxation, Shopping, Simulation, Strategy

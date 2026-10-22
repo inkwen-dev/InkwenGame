@@ -43,4 +43,4 @@ Play a quick match against the computer, pass the device for a local duel, or ch
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, rpg
+- Tags: cards, RPG

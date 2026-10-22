@@ -69,4 +69,4 @@ PC 操作：
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 冒险, 街机, Clicker, 闲置的, 巨头
+- 标签: 3D, 冒险, 街机, 点击器, 闲暇, 巨头

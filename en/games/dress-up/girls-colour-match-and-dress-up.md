@@ -19,6 +19,6 @@ Let's join this game and enjoy matching the colors and dresses. If you choose th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fantasy, Fashion, Funny

@@ -19,6 +19,6 @@ Drag and drop the all picture pieces to their exact locations to complete the pi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML5, Jigsaw, Mobile, Spongebob

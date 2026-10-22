@@ -39,4 +39,4 @@ Welcome to 🌱 Plants Vs Steal Brainrots🌱 — an exciting base-defense game 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: farm, Mobile
+- Tags: Farm, Mobile

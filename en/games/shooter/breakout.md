@@ -19,6 +19,6 @@ Welcome to the most addictive and fun brick breaker game you’ve ever seen or p
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Bricks, Casual, HTML5, Shoot, Shoot 'Em Up, Shooting

@@ -19,6 +19,6 @@ Mario is trying out different costumes for his new adventure. Which costume do y
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boy, Cartoon, Dress Up, Fashion, Fun, Game, Girl, HTML5

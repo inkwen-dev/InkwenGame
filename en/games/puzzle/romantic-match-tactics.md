@@ -19,6 +19,6 @@ Romantic Match Tactics invites you into a charming world where love meets strate
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Girl, Match 3, Matching, Puzzle, valentine, valentine day, valentines
+- Tags: 1 Player, Arcade, Girl, Match-3, Matching, Puzzle, valentine, valentine day, valentines

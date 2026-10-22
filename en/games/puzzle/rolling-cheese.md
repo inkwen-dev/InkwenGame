@@ -21,4 +21,4 @@ This little mouse is starving! Get the cheese to him in order to solve the level
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Cute, Fun, Game, HTML, HTML5, mouse, Physics, Puzzle
+- Tags: 1 Player, Animal, Cute, Fun, Game, HTML, HTML5, Mouse, Physics, Puzzle

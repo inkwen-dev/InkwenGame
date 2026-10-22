@@ -17,4 +17,4 @@ Navigate through a cursed mansion in Bombardino Crocodilo: Terror Jumpscare, whe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

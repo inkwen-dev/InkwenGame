@@ -17,4 +17,4 @@ Dive into FallHalloween and conquer a spooky realm teeming with candy and challe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

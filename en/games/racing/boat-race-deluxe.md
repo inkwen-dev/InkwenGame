@@ -19,6 +19,6 @@ Click or touch the screen to stop the arrow. Set the power by releasing the mous
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, boat, HTML5, Mobile, Puzzle, Racing, Sports
+- Tags: Arcade, Boat, HTML5, Mobile, Puzzle, Racing, Sports

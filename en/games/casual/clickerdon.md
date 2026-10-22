@@ -19,6 +19,6 @@ The aim of the game is simple - press the button. The more times you click on th
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Best, Click, Clicker, iPhone, unity, Unity3D

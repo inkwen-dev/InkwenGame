@@ -19,6 +19,6 @@ Knife Target Practice challenges players to hone their blade-throwing skills in 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Unity3D, WebGL

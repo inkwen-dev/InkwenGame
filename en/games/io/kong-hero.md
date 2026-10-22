@@ -19,6 +19,6 @@ Run, jump, attack, explore. Cross the various dangers and reach the destination.
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Adventure, Arcade, Battle, Battlegrounds, Boy, Game, Girls, jump, Platform, pvp, run, Samurai, WebGL
+- Tags: .io, .io Games, 1 Player, 2D, Adventure, Arcade, Battle, Battlegrounds, Boy, Game, Girls, jump, Platform, PvP, run, Samurai, WebGL

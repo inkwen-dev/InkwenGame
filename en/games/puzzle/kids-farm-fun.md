@@ -21,4 +21,4 @@ Let your kids enter the farm with all of its cute inhabitants! What awaits them 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Animal, Cat, farm, HTML5, Jigsaw, Puzzle
+- Tags: Action, Animal, Cat, Farm, HTML5, Jigsaw, Puzzle

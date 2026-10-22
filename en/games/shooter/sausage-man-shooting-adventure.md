@@ -19,6 +19,6 @@ Sausage Man Shooting Adventure is a fast-paced side-scrolling shooting game wher
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Crazy, Enemies, Shoot, survival

@@ -19,6 +19,6 @@ A hungry customer is an impatient customer. Which needs to be served as soon as 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: burger, Casual, Food, Fun, Funny, Girls, HTML5, Hypercasual, Kids, Mobile, Restaurant, Skill, Strategy
+- Tags: Burger, Casual, Food, Fun, Funny, Girls, HTML5, Hypercasual, Kids, Mobile, Restaurant, Skill, Strategy

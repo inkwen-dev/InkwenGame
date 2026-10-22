@@ -21,4 +21,4 @@ Fishing hunt has already started,Amazing realistic 3D effect!Join them and exper
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: fishing, Monster, Shark
+- Tags: Fishing, Monster, Shark

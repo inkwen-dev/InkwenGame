@@ -19,6 +19,6 @@ Introducing Saw Destroyer - an adrenaline-pumping Unity script-powered game! In 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, HTML5, Mobile, Unity3D, WebGL

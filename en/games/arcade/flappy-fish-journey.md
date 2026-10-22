@@ -19,6 +19,6 @@ Flappy Fish Journey is a fun and challenging game where you control a small fish
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fish, Fun, Funny, Game, Games, Highscore, Hypercasual, jump, Jumping, NapTech Games, Obstacle, Online

@@ -19,6 +19,6 @@ Master Thief is an exciting and addicting arcade game, you will act as a thief a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Collecting, Hypercasual, Kid, Skill

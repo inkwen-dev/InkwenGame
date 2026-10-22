@@ -19,6 +19,6 @@ Collect coins to unlock new characters. Beat the records of other players by com
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Boy, Boys, Casual, Girl, Girls, Mobile

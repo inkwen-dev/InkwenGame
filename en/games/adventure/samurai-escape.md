@@ -19,6 +19,6 @@ You are in a samurai village and the gate to the exit is locked. Explore the mys
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Escape, Point And Click, Samurai

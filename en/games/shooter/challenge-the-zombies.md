@@ -19,6 +19,6 @@ Challenge The Zombies ek action packed aur thrilling zombie shooting game hai ji
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, amazing, Funny, Shooting, Zombie

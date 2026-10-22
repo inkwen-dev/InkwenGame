@@ -19,6 +19,6 @@ Do you like school? Don't worry, you have the final say in this school! Come get
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Color, Coloring, Cute, Decorate, Decoration, Draw, Drawing, Dress Up, Educational, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile

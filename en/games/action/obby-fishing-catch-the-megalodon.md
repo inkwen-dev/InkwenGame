@@ -44,4 +44,4 @@ Collect a unique catalog of fish from each world, complete daily quests, and ear
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, fishing, obby
+- Tags: Adventure, Fishing, obby

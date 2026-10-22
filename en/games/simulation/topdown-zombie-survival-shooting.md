@@ -19,6 +19,6 @@ This game is indeed a top-down shooter, or a top-down shooter that is part of th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shooter, Shooting, Simulator, Unity3D, War, WebGL, Zombie

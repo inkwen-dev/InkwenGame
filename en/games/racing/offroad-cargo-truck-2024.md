@@ -19,6 +19,6 @@ The 2024 Offroad Cargo Truck roars through lush forest trails, showcasing its ru
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Forest, Mentolatux, offroad, Simulator, Truck, Unity3D, WebGL

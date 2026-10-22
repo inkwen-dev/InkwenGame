@@ -19,6 +19,6 @@ This is a casual kitchen and restaurant game. Because Penny is not satisfied wit
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Business, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Restaurant, rpg
+- Tags: Business, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Restaurant, RPG

@@ -19,6 +19,6 @@ Grave Drive is a driving platform HTML5game. Grave Drive is a fun new side drivi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Race, Racing, Zombie

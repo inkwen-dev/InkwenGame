@@ -19,6 +19,6 @@ Hit and Dodge the opponents to reach touchdown! Super cool game on NFL, the most
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Crazy, Football, Game, Online, Soccer, Sport, Sports

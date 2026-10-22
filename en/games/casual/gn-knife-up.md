@@ -19,6 +19,6 @@ This is a knife-throwing game, when you hit an apple you get points. Go as far a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Click, Math, Point And Click

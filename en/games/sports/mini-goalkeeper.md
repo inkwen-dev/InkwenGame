@@ -19,6 +19,6 @@ Be a Super Soccer Goalie! Be a Super Soccer goalkeeper! Mini Goalkeeper is a soc
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Boy, Boys, Casual, Football, Girl, Girls, HTML, HTML5, Hypercasual, Soccer, Sport, Sports

@@ -21,4 +21,4 @@ People who get hungry on the beach come to your restaurant! You must complete cu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best, burger, Cake, Cooking, Food, Holiday, HTML5, Island, Restaurant, Summer, WebGL
+- Tags: Best, Burger, Cake, Cooking, Food, Holiday, HTML5, Island, Restaurant, Summer, WebGL

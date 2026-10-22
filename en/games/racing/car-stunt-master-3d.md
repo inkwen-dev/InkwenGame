@@ -19,6 +19,6 @@ Take control of a powerful sports car and conquer spectacular sky-high stunt tra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, Driving, jump, Racing, Stunts

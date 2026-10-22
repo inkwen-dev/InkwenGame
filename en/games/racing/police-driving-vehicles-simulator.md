@@ -19,6 +19,6 @@ Police Driving Vehicles Simulator puts you in the driver&rsquo;s seat of powerfu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, carparking, Driving, Mentolatux, Parking, Police, Truck, unity, WebGL

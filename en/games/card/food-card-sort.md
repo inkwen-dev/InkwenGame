@@ -19,6 +19,6 @@ Food Card Sort is a unique and challenging 3D puzzle game that tests players log
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Brain, card, Kids, Strategy
+- Tags: Boy, Brain, Card, Kids, Strategy

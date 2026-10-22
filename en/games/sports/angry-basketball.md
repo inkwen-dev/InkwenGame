@@ -19,6 +19,6 @@ Angry Basketball is an exciting sports game to play for all ages. Play this tech
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Basketball, Billiard, Bird, Boy, Casual, endless, Family, Game, Games, Girl, Girls, HTML, HTML5, Kid, Kids, Spiderman, Sport, Sports

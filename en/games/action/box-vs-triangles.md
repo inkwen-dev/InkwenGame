@@ -19,6 +19,6 @@ Tap right or Tap left to hit the triangles. Try to break as many triangles as po
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Battle, Boxing, Casual

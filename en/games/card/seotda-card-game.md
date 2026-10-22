@@ -21,4 +21,4 @@ Mouse click or tap to play
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, card, Multiplayer, Online, Poker
+- Tags: Board, Card, Multiplayer, Online, Poker

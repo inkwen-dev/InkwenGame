@@ -19,6 +19,6 @@ Stunt Car Challenge 3 is a cool stunt car game where you are racing across a tra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Car, Cars, H5, Hot, HTML, HTML5, Race, Racing

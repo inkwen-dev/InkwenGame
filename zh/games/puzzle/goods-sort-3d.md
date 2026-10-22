@@ -35,4 +35,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 匹配3, 受欢迎的, 拼图, unity
+- 标签: 3D, 三消, 受欢迎的, 益智, unity

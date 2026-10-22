@@ -19,6 +19,6 @@ Merge your dinosaur army to go into battle and get the biggest dino on the block
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Casual, Dinosaur, Fight, Fighting, Hypercasual

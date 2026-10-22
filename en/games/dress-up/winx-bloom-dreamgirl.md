@@ -19,6 +19,6 @@ The stunningly beautiful Bloom tries on her gorgeous dresses. She needs to try d
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Fun, Game, Games, Girl, Girls, HTML5

@@ -19,6 +19,6 @@ In this one-of-a-kind action role-playing game, you'll go on adventures filled w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Android, Arcade, Block, endless, HTML5, Mobile, Pixel, Platform, Unity3D

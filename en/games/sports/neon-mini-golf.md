@@ -19,6 +19,6 @@ Neon Mini Golf is a stylish HTML5 arcade mini-golf game featuring glowing neon g
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Clicker, Golf, HTML5, mapi games, Mobile, Physics, Retro, Skill, Space, Sport

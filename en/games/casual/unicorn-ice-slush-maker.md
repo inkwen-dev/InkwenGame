@@ -19,6 +19,6 @@ Hello everyone! We are Pepi’s Slushy Express - the most popular slushy brand i
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ice, Unity3D

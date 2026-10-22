@@ -19,6 +19,6 @@ Blue wants to sneak out to play! Can you help him? Evaded the surveillance! Snea
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Boy, Game, Kid, Puzzle, running

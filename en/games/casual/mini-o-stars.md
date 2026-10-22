@@ -19,6 +19,6 @@ Luck Starwalker needs your help! Gather enough coins to free his friends. Be qui
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, HTML5, Space

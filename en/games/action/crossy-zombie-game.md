@@ -19,6 +19,6 @@ Welcome to Crossy Zombie Game, a fast-paced and thrilling survival adventure whe
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Casual, Puzzle, running, Zombie

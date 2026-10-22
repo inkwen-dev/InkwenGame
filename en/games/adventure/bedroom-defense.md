@@ -21,4 +21,4 @@ Bedroom Defense is a thrilling horror survival strategy game where you must prot
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, horror, idle, Monster
+- Tags: Casual, Horror, idle, Monster

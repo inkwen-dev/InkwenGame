@@ -19,6 +19,6 @@ Tilt your phone to control the cube and help it dodge deadly obstacles in this t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player Games, 3D, Adult, Android, Arcade, Basketball, Battle, Bejeweled, Bird, burger, Candy, Cars, Cartoon Network, Click, Coloring, Draw, Educational, Escape, Fish, Ice, Planet
+- Tags: .io, .io Games, 1 Player, 2 Player Games, 3D, Adult, Android, Arcade, Basketball, Battle, Bejeweled, Bird, Burger, Candy, Cars, Cartoon Network, Click, Coloring, Draw, Educational, Escape, Fish, Ice, Planet

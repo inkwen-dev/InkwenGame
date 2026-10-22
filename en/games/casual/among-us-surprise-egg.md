@@ -19,6 +19,6 @@ It is a fun game for kids. You'll love this game with Among Us characters. Break
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boys, Clicker, Funny, Girls, Hot, HTML, Hypercasual, Kids, New

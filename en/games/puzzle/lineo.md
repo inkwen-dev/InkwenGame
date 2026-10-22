@@ -19,6 +19,6 @@ Lineo is a match-3 game about lines of various types like straight lines, spiral
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Match 3, Puzzle

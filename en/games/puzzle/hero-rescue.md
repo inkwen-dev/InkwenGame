@@ -19,6 +19,6 @@ Save the man and pull him out with the girl and collect the loot by using your a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, Girls, HTML5, Logic, Puzzle

@@ -19,6 +19,6 @@ You can plow, sow and harvest using lots of different machines ! Sell your harve
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, farm, Hypercasual, Simulation, Simulator, Strategy
+- Tags: Adventure, Arcade, Casual, Farm, Hypercasual, Simulation, Simulator, Strategy

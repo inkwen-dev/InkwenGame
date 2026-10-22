@@ -19,6 +19,6 @@ Tattoo Games is the No.1 tattoo maker and coloring game on Android. Be the bes
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Boys, Cartoon, Coloring, Design, Girls, Kids, Simulation, Simulator

@@ -19,6 +19,6 @@ Fall Days hey, if you want to share this excitement, play fast! Be the winner of
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Hypercasual, Multiplayer

@@ -21,4 +21,4 @@ Another of Impostor Among Us .. this Among Us Fans puzzle games .. very exciting
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Candy, card, Hypercasual, Puzzle, Quiz, Word
+- Tags: Candy, Card, Hypercasual, Puzzle, Quiz, Word

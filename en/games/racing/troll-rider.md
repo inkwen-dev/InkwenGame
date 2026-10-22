@@ -32,4 +32,4 @@ How far can you ride before the mountain finally gets you?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: bicycle, Bike, running
+- Tags: Bicycle, Bike, running

@@ -19,6 +19,6 @@ Puppy Coloring Book For Kids is a painting, drawing and coloring tool for kids! 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Baby, Color, Coloring, Draw, Drawing, Educational, Family, HTML, HTML5, Kid, Kids, Mobile

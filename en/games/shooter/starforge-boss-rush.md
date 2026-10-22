@@ -19,6 +19,6 @@ STARFORGE BOSS RUSH is an epic sci-fi boss rush shooter where you control a fast
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Ai Games, amazing, Arcade, Shooting, Spaceship

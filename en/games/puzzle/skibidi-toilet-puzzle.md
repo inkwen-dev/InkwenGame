@@ -19,6 +19,6 @@ Skibidi Toilet Puzzle is a funny jigsaw puzzle game. You can select one of the n
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Fun, Funny, Jigsaw, Kids, Skibidi Toilet, Skill

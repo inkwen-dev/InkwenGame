@@ -21,4 +21,4 @@ Gamezad fisher man mobile games often revolve around fishing activities, offerin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: amazing, fishing, Fun
+- Tags: amazing, Fishing, Fun

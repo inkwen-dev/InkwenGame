@@ -21,4 +21,4 @@ Have you ever imagined the thrill of owning your very own hotel? Embark on an ex
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Casual, HTML5, Hypercasual, iPad, iPhone, management, Mentolatux, Mobile, Simulation, Simulator
+- Tags: 1 Player, Android, Casual, HTML5, Hypercasual, iPad, iPhone, Management, Mentolatux, Mobile, Simulation, Simulator

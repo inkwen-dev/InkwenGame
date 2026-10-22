@@ -19,6 +19,6 @@ Prison Escaper is a 60 levels of fun physics puzzle game! all boxes except the g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Block, Boys, Clicker, Family, HTML, HTML5, Mobile, Physics, Puzzle

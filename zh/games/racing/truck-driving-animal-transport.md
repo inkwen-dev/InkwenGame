@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D 游戏, 动作, 动物, 驾驶, 模拟器, 卡车, Unity3D, WebGL
+- 标签: 单人玩家, 3D游戏, 动作, 动物, 驾驶, 模拟器, 卡车, Unity3D, WebGL

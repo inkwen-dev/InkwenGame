@@ -19,6 +19,6 @@ Solitaire Card Sort Puzzle is a clever color matching and sorting game designed 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Brain, card, Casual, Puzzle
+- Tags: Best, Brain, Card, Casual, Puzzle

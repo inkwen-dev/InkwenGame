@@ -19,6 +19,6 @@ This is your chance to fulfill your dream beach rally car game and car stunt dri
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Car, Cars, HTML, HTML5, Race, Racing, surfers

@@ -19,6 +19,6 @@ Avoid the balls while trying to connect all the sides to fill it in black or pin
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, mouse
+- Tags: Casual, Mouse

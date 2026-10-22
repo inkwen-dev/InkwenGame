@@ -21,4 +21,4 @@ Amazing Brick game has a lot of success review and player this MONTH that signif
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Bounce, Boxing, Bubble Shooter, card, Interactive, Interactive Fiction, Machine, Obstacle, Race, Sandbox, Shoot, Shoot 'Em Up, Shooter
+- Tags: Action, Bounce, Boxing, Bubble Shooter, Card, Interactive, Interactive Fiction, Machine, Obstacle, Race, Sandbox, Shoot, Shoot 'Em Up, Shooter

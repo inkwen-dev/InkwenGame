@@ -19,6 +19,6 @@ In Block Digger, Break through rocks, gather precious gems, and upgrade your min
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Casual, Click, Clicker, Fun, Mine, Miner

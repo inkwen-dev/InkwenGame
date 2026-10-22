@@ -19,6 +19,6 @@ Beat Fruits Farm stages or run your fruit farm in this exciting new game. Fruits
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, farm, Fruit, Fruits, HTML5, Mobile
+- Tags: 1 Player, 2D, Android, Arcade, Farm, Fruit, Fruits, HTML5, Mobile

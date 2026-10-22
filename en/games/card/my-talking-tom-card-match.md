@@ -21,4 +21,4 @@ This simple but elegant memory card matching game was designed for anyone that w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, Games, Memory, New
+- Tags: Brain, Card, Games, Memory, New

@@ -19,6 +19,6 @@ Come with us to have an adventure in the dreamy forest! Here you can match makeu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Dress Up, Fashion, Girl, HTML5, Kids, Makeover, Princess

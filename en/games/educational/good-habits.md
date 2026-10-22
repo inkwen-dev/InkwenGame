@@ -19,6 +19,6 @@ Empower kids to learn good daily habits through engaging tasks! Shop, learn, and
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Baby Hazel, Best Games, Cleaning, Educational, Kid, Kids, NapTech Games, Online

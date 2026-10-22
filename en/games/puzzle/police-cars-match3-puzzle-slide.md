@@ -19,6 +19,6 @@ The police guard the peace of the citizens and keep order. To perform their func
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, Cars, Game, Jigsaw, Online, Police, Puzzle, Slither

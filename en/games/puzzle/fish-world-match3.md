@@ -21,4 +21,4 @@ Do you like the Fish Scapes Games - Fish Games & Free Match 3 Game is an addicti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Fish, fishing, Match 3, Match3, Matching, Puzzle, Quiz, World
+- Tags: Arcade, Fish, Fishing, Match 3, Match3, Matching, Puzzle, Quiz, World

@@ -19,6 +19,6 @@ Get ready to start your new racing journey with your friends. Run for your life,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boy, Boys, Car, Cars, Driving, Fun, H5, HTML5, Kid, Kids

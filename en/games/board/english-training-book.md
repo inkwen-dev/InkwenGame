@@ -19,6 +19,6 @@ Choose an English letter or English Sentence, fill in this color, and update you
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Baby Games, Board, Drawing

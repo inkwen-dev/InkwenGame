@@ -19,6 +19,6 @@ Crypta is a memory-based card game where each card has a crypto-symbol. You have
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Clicker, Memory, Puzzle

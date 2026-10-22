@@ -17,4 +17,4 @@ Brace yourself for a spine-chilling journey through a deserted laboratory crawli
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

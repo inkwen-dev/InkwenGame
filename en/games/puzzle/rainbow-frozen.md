@@ -19,6 +19,6 @@ Would you like to prepare Frozen, the favorite drink of hot summer days?Choose b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Food, Fun, Funny, Girl, Girls, Ice, Kids, Puzzle, Summer

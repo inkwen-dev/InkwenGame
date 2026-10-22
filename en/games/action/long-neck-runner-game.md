@@ -19,6 +19,6 @@ Whether youre big or small, at home or on the road, Long Neck Run is the perfect
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 3D Games, Easter, Fun, Girls, Logic, Race, run, running, Super, unity games

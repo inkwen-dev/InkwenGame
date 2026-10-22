@@ -19,6 +19,6 @@ Funny Cars Memory is puzzle memory game with funny cars. The images will be disp
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Cars, Memory, Puzzle
+- Tags: Card, Cars, Memory, Puzzle

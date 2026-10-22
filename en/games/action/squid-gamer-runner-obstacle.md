@@ -19,6 +19,6 @@ The time has come to have a real parkour experience. Climb, slide, and flip your
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Android, Clicker, HTML5, Mobile, Obstacle, run, running, Skill, Unity3D, WebGL

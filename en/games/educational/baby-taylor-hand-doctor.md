@@ -19,6 +19,6 @@ There is a beach near Baby Taylor's home. Everyone likes to go to the beach to s
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cute, Design, Doctor, Educational, Girl, Girls, Kids, Surgery

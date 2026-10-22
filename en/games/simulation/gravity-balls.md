@@ -19,6 +19,6 @@ Tap the screen to switch the gravity and control your balls to avoid the obstacl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Fun, HTML, Mobile, Physics, run, running, Simulation

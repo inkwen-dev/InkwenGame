@@ -17,4 +17,4 @@ Dive into the captivating world of Memorybot, where beautifully animated cards t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

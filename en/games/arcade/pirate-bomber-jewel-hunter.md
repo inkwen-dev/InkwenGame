@@ -19,6 +19,6 @@ Grab the jewels and divert the bombs, grab the power ups to help the pirate not 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bomb, Casual, Jewel, Pirate, Pixel, Retro

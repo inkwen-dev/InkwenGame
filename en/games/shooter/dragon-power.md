@@ -21,4 +21,4 @@ Enter a dark fantasy arena and survive relentless dragon hordes in Dragon Power.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arena, Dragon, Fantasy, Magic, rpg, Shooter, survival, Wizard
+- Tags: Arena, Dragon, Fantasy, Magic, RPG, Shooter, survival, Wizard

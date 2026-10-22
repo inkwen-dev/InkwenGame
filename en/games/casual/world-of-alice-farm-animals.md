@@ -19,6 +19,6 @@ World of Alice - Farm Animals With the help of Alice, learn in a fun way which a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cartoon, Cat, Chicken, Click, farm, Game, Horse, HTML5, Kids, Letters, Mobile, School, Word
+- Tags: Animal, Cartoon, Cat, Chicken, Click, Farm, Game, Horse, HTML5, Kids, Letters, Mobile, School, Word

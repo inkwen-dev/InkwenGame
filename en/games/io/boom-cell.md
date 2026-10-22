@@ -19,6 +19,6 @@ Boom Cell is a strategic game where you grow from a single cell into a powerful 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Arena, Collecting, survival, Top Down

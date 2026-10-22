@@ -19,6 +19,6 @@ Lead your team of tiny monsters in the battle arena. Beat them all ! Train your 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Dragon, Family, Fight, Pokemon, Strategy, War, Wizard

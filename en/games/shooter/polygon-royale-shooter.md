@@ -19,6 +19,6 @@ This game Polygon Royale Shooter is a third person shooting and survival game, i
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Blood, Gun, Multiplayer, Shoot, Shooting, Unity3D, WebGL

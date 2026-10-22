@@ -19,6 +19,6 @@ Get ready to piece together the excitement of the worlds biggest football tourna
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Hypercasual, Jigsaw, Kids, Puzzle, puzzleblock, Skill, Soccer

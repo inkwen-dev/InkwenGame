@@ -19,6 +19,6 @@ Colors Grid you face visual puzzle challenges. Organize colored squares to match
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Color, Fun, Kids, Logic, Mobile, Skill

@@ -19,6 +19,6 @@ Enter the railway! Run as far as you possibly can, evade obstacles of the railwa
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, HTML, HTML5, run, running, Side Scrolling

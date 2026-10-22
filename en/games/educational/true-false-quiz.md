@@ -19,6 +19,6 @@ Click on the screen to select True or False buttons Scroll menu to select levels
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Brain, Educational, HTML5, Hypercasual, Interactive, Kids, Mobile, Quiz, WebGL

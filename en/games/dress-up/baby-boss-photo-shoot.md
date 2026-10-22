@@ -19,6 +19,6 @@ The Baby boss is thrilled about his photoshoot for upcoming candidacy. He wants 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boys, Casual, Cute, Detective, Dress Up, Games, Girls, HTML5, Kids

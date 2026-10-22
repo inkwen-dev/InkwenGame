@@ -19,6 +19,6 @@ Word Connect game that combines the best of word searches, crossword puzzles and
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Best, Boys, Brain, Educational, Games, Girls, Hot, Kids, New, Online, Puzzle, Soccer, Sword

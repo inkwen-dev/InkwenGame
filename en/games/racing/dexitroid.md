@@ -19,6 +19,6 @@ Dexitroid a fun fast-paced game to play on. Boost your reflex and move the bar a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boys, Casual, Hypercasual, Racing, Space, Spaceship

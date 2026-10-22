@@ -19,6 +19,6 @@ Click the spinner to set your casting distance. Then click and drag to slide the
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: fishing, Science
+- Tags: Fishing, Science

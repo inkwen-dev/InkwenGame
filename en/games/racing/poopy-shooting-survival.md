@@ -19,6 +19,6 @@ Do you bring a bang out of playing games that are poopy? Here, you will get the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Driving, Racing, Shooting, Skill, weapons

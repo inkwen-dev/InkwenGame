@@ -19,6 +19,6 @@ completely new experience of playing football, then do not miss the opportunity 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Car, Cars, Football, Highscore, Racing, Rocket, Sport, Sports, Supercars

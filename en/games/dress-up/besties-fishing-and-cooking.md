@@ -21,4 +21,4 @@ Let\&#39;s help these girls, Ava and Clara to relax their weekend in their yacht
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Dress Up, Fish, fishing, Food, Girl
+- Tags: Dress Up, Fish, Fishing, Food, Girl

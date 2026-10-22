@@ -19,6 +19,6 @@ Shortcut Run is a parkour game as well as a new arcade game. In the game, you ne
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Collecting, Girl, Hot, HTML, Kid, Mobile, New, run

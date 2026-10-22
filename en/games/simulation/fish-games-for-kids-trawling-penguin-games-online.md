@@ -19,6 +19,6 @@ Dive into the deep sea fishing games to catch a fish with your friend, cute peng
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boys, Fish, fishing, Games, Girls, Kids, Online, Penguin, Strategy
+- Tags: Animal, Boys, Fish, Fishing, Games, Girls, Kids, Online, Penguin, Strategy

@@ -19,6 +19,6 @@ Aim, match and smash all the pets in this relaxing cute adventure game. Help the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bubble, Bubble Shooter, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Puzzle

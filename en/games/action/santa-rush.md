@@ -19,6 +19,6 @@ Christmas is here and Santa is in rush! Help him to get as far as possible. Don'
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, endless, HTML5, jump, Platform, running, Stickman

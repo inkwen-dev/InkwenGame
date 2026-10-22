@@ -21,4 +21,4 @@ In Emergency Operator, you take charge of urgent 911 calls. Understand the calle
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: html5 games, management, Mobile, Simulator
+- Tags: html5 games, Management, Mobile, Simulator

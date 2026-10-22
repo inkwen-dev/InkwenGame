@@ -19,6 +19,6 @@ New Year Santa Adventure is a funny christmas game.Help Santa Claus adventure th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Christmas, Fun, HTML5, Kids, Mobile, Puzzle

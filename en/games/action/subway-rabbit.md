@@ -19,6 +19,6 @@ Subway Rabbit Run, jump, duck and swerve your bunny through the forest at full h
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, jump, Jumping, Rabbit, run, running, subway, Subway Surfers

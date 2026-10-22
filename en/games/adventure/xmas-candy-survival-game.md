@@ -19,6 +19,6 @@ Do you want to try a puzzle-free game about Christmas? Xmas Candy Survival is pe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Boy, Brain, Christmas, Fun, Holiday, HTML5, Kid, Puzzle

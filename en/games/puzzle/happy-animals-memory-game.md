@@ -19,6 +19,6 @@ This is game with happy animals, and your job is to match two same animals. It i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, HTML5, Memory, Puzzle

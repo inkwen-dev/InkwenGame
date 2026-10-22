@@ -19,6 +19,6 @@ This relaxing toy game includes dozens of satisfying objects to touch, tap, and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2D, Adventure, Arcade, Best Games, Brainrot, Color

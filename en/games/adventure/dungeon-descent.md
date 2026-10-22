@@ -21,4 +21,4 @@ Loot. Survive. Descend deeper. A fast voxel dungeon crawler with deadly rooms, p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, pve, rpg, survival
+- Tags: Adventure, pve, RPG, survival

@@ -19,6 +19,6 @@ Talking Santa Claus is a delightful and free online game designed especially for
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Christmas, Drawing, Hypercasual, Kids, Physics, Santa, Santa Claus, Winter

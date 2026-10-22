@@ -19,6 +19,6 @@ Grocery Shopping has never been so fun! Be the best Grocery Cashier Manager. Pla
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D, 3D Games, Adventure, Baby, Ballon, Casual, Fun, Hypercasual, Play, Princess, Skill, Unity3D

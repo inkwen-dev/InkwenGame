@@ -19,6 +19,6 @@ How long can you handle the ball on the zig zag road star track? Can you handle 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Classic, Fun, Game, Online, Puzzle, Quiz

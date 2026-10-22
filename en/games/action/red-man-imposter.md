@@ -19,6 +19,6 @@ This is a challenging puzzle platformer in which you have to complete a level. T
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Brain, Cool, HTML5, Logic, Pixel, Platform

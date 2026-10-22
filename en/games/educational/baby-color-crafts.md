@@ -19,6 +19,6 @@ Let's decorate the crystal ball! Start the machine and fill the crystal ball wit
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon, Color, Cute, Decorate, Decoration, Educational, Family, Girls, HTML5, Kids, Mobile, Puzzle

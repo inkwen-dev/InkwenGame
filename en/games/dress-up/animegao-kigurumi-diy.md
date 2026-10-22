@@ -19,6 +19,6 @@ Welcome to the exciting world of animegao with our new dress-up game for girls! 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Games, Craft, Cute, Design, Dress Up, Fantasy, Fashion, Girl, HTML5, rpg
+- Tags: Baby, Baby Games, Craft, Cute, Design, Dress Up, Fantasy, Fashion, Girl, HTML5, RPG

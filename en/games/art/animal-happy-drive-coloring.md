@@ -19,6 +19,6 @@ Animal Happy Drive Coloring is a free online game from genre of memory and monst
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Coloring, Fun, HTML5, Kids, Mobile

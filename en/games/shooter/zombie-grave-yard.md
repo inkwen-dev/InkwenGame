@@ -19,6 +19,6 @@ Zombie Graveyard is a fast-paced arcade shooter set in a haunted cemetery. Fight
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: First Person Shooter, Gun, Shooting, Zombie

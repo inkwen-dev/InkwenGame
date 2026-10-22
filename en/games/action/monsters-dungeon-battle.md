@@ -19,6 +19,6 @@ Fight against those monsters residing in the abandoned dungeon. Upgrade your sta
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Arena, Battlegrounds, Enemies, Fantasy, Fighting, Magic, Mobile, rpg
+- Tags: 2D, Arena, Battlegrounds, Enemies, Fantasy, Fighting, Magic, Mobile, RPG

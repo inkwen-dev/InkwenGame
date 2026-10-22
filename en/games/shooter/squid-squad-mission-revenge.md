@@ -19,6 +19,6 @@ One of the survivors of these squid games returns to take revenge on these crazy
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, Fun, H5, HTML5, Hypercasual, Kid, Kids, Shoot, Shooting

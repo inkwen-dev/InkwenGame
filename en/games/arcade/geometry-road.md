@@ -19,6 +19,6 @@ Are you ready for a challenging game of geometric objects? There are challenging
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Fun, Funny, Game, HTML, HTML5, Skill

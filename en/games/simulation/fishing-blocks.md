@@ -19,6 +19,6 @@ Fishing Blocks is an addictive block removal puzzle game where you will have a r
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Collecting, Fish, HTML5, Matching, Mobile, Puzzle

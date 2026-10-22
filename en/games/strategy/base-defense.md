@@ -19,6 +19,6 @@ You will bring many exciting experiences. Shoot those evil and defend your base.
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Shooting, Tower Defense

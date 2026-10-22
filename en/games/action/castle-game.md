@@ -19,6 +19,6 @@ Can you protect our lovely character from danger? Avoid the reels and protect ou
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Castle, Fun, Funny, Game, HTML, HTML5, Mobile, New, run, running

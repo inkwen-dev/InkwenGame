@@ -19,6 +19,6 @@ Emily, the fairy of goodness and beauty, strives for people to live in peace. Sh
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Dress Up, Fashion, Fun, Game, Girl, Girls, Horse

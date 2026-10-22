@@ -19,6 +19,6 @@ Advance Car Parking Game and Car Driving Simulator is the latest car drive parki
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Boy, Boys, Collection, Crazy, Creation, Decoration, drift, drifting, Driving, Educational, Fashion, Girl, Girls, Online, Sim, Simulation, Simulator, Unity3D

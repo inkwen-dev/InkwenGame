@@ -19,6 +19,6 @@ Ninja Hero Runner is really interesting game to play. In the game you are ninja 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Mobile, Ninja, Puzzle, Skill

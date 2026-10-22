@@ -21,4 +21,4 @@ Go to Fishing and catch more fish as you can for given time. At your time will b
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, fishing, Puzzle
+- Tags: Fish, Fishing, Puzzle

@@ -19,6 +19,6 @@ This is an assembly train game for all ages. Do you like small train toys? Have 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby Games, train
+- Tags: Baby Games, Train

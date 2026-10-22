@@ -21,4 +21,4 @@ Labo Brick Train is a game for kids that can stimulate their imagination and cre
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Cars, Casual, Educational, H5, HTML5, run, running, Traffic, train, Truck
+- Tags: Boy, Boys, Car, Cars, Casual, Educational, H5, HTML5, run, running, Traffic, Train, Truck

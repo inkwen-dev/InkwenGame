@@ -19,6 +19,6 @@ Experience this adventure game in you run from Corona, on a dangerous virus with
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Game, Games, HTML, HTML5, Kid, Kids

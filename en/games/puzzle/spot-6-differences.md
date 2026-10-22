@@ -19,6 +19,6 @@ Put your observation skills to the test in Find 6 Differences, a fun and relaxin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Hidden, Puzzle

@@ -19,6 +19,6 @@ Time travel? A new world? This just happened to Aria, and she was taken to the M
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Arcade, Cartoon, Cartoon Network, Casual, Frozen, Fun, Games, Hypercasual, Kids, Online, Princess, Puzzle

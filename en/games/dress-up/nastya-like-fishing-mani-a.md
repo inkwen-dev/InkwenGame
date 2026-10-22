@@ -21,4 +21,4 @@ With Nastya and her penguin you can find secret treasures buried under the sea! 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Boys, Fashion, Fish, fishing, Girls
+- Tags: Adventure, Boys, Fashion, Fish, Fishing, Girls

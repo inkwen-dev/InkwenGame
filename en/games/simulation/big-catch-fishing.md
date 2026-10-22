@@ -19,6 +19,6 @@ In Big Catch Fishing, you play as a cute cat on a fishing adventure! Tap the scr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Cat, catch, Fish, fishing, Shoot, Shooting
+- Tags: 1 Player, Cat, catch, Fish, Fishing, Shoot, Shooting

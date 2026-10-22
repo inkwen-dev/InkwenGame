@@ -19,6 +19,6 @@ Zombie Shooter – a super cool game in which you must kill all the zombies, dir
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boys, Bubble Shooter, Girls, run, running, Shoot, Shooting, Zombie

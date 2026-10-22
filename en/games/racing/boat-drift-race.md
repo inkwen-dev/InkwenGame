@@ -19,6 +19,6 @@ Boat Drift Race is a addictive game where you drift the boat at each turn. Earn 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, boat, Car, drift, drifting, Race, Racing
+- Tags: 2D, Adventure, Arcade, Boat, Car, drift, drifting, Race, Racing

@@ -19,6 +19,6 @@ It's time to raise the stakes... and a tower, we suppose! Time your taps to rais
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Simulation, Simulator

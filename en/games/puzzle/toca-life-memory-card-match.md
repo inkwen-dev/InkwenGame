@@ -21,4 +21,4 @@ Challenge your memory and have fun with the colorful world of Toca Life! Toca Li
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, card, Educational, Girls, Match3, Matching, Memory, Puzzle, School
+- Tags: Boys, Card, Educational, Girls, Match3, Matching, Memory, Puzzle, School

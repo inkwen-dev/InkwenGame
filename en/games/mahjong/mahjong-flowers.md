@@ -19,6 +19,6 @@ Relax and improve your memory and ability at the same time with the worldwide fa
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, HTML, HTML5, Mahjong, Puzzle, Relaxation, Solitaire

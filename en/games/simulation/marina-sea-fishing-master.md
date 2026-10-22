@@ -21,4 +21,4 @@ Sport fishing as a way of life Fishing Clash is a free fishing game available fo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, Fish, fishing, Island
+- Tags: Boys, Fish, Fishing, Island

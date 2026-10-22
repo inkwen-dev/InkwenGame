@@ -19,6 +19,6 @@ Ben 10 Hidden Stars Challenge is super fun free hidden stars game that you can p
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ben 10, Boys, Fun, Hidden, HTML5, Hypercasual, Kids, Mobile, Skill

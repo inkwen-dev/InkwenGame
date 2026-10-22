@@ -19,6 +19,6 @@ A super fun kids food game with tons of carnival fair foods! Cook yummy carnival
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cook, Cooking, Cute, Decorate, Girl, Girls, Kids

@@ -21,4 +21,4 @@ WASD - 移动 空格键 - 跳跃 Esc - 显示鼠标
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 多人游戏, 奔跑, 奔跑
+- 标签: 多人游戏, 跑, 跑酷

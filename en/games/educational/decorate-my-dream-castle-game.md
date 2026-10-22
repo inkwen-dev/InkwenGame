@@ -19,6 +19,6 @@ The little princess will hold a grand ball in the castle. She is planning to red
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cute, Decorate, Educational, Girls, Kids, prison
+- Tags: Boys, Cute, Decorate, Educational, Girls, Kids, Prison

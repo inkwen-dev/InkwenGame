@@ -19,6 +19,6 @@ Walkr encourages you to walk more while exploring the boundless universe! This g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 3D Games, Action, Aircraft, amazing, angryplants, Best Games, Design, free html5 games for your website, HTML, html games for your website, html5 games, html5 games for your site

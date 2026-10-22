@@ -21,4 +21,4 @@ Get ready for your own hidden object mobile journey in Hidden City®! Step insid
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Android, Arcade, Arena, Arkanoid, Barbie, Brawl, Bubble, Bubble Shooter, Candy, Chicken, Ever After High, Fashion, fishing, Fun, Hidden, Highscore, Machine, Matching, Memory, Slot Machine, Spaceship
+- Tags: 8 Ball Pool, Android, Arcade, Arena, Arkanoid, Barbie, Brawl, Bubble, Bubble Shooter, Candy, Chicken, Ever After High, Fashion, Fishing, Fun, Hidden, Highscore, Machine, Matching, Memory, Slot Machine, Spaceship

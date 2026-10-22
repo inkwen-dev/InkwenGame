@@ -21,4 +21,4 @@ Prepare your burgers according to the wishes of your customers. Try to deliver o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Cook, Cooking, Unity3D
+- Tags: Burger, Cook, Cooking, Unity3D

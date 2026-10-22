@@ -19,6 +19,6 @@ Police Here is a fun action game where you play as a police officer chasing and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Casual, Fun, Police, Puzzle

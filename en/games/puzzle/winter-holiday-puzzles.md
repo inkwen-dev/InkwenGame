@@ -19,6 +19,6 @@ A gorgeous selection of snow scenes, landscapes, snowmen and all things winter i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Boys, Fun, Girls, HTML5, Hypercasual, Jigsaw, Kids, Online, Puzzle, School

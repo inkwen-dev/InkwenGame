@@ -19,6 +19,6 @@ Rescue the Fish is a calming pull-pin puzzle adventure where your objective is c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boys, Escape, Fish, Kids, Mentolatux, Rescue, Skills, Unity3D, WebGL

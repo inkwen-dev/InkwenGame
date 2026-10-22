@@ -19,6 +19,6 @@ City Takeover is coming! Create a connection between your buildings and others b
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Casual, city, Defense, Kid, Point And Click, Puzzle, Relaxation

@@ -19,6 +19,6 @@ You are an entity of color, jump from platform to platform while a pool of color
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bounce, Color, Hypercasual, jump, Jumping, Mobile

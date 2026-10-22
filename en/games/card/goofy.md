@@ -19,6 +19,6 @@ Goofy is a funny-animal cartoon character created in 1932 at Walt Disney Product
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, card, Memory, Puzzle
+- Tags: Brain, Card, Memory, Puzzle

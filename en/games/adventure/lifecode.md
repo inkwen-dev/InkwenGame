@@ -93,4 +93,4 @@ Players cannot sleep during the day, which encourages exploration and prevents s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, horror, survival
+- Tags: Adventure, Horror, survival

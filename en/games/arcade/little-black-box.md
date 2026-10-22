@@ -19,6 +19,6 @@ Assist the Little Black Box in navigating through the hurdles it encounters in t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, free html5 games for your website, HTML, Hypercasual, jump, Jumping

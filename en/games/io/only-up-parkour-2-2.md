@@ -19,6 +19,6 @@ Only Up Parkour 2! is an exciting arcade game in which you have to overcome obst
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, Adventure, Balance, Cartoon, Collecting, endless, Fun, Funny, Highscore, HTML5, Jumping, WebGL

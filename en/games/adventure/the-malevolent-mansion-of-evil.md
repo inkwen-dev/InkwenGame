@@ -17,4 +17,4 @@ Unveil the chilling secrets of a gothic manor in this first-person action horror
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

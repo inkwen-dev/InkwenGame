@@ -19,6 +19,6 @@ Destroy the Robot Godzillas &ndash; 3D Space Shooter Game is an action-packed 3D
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 3D, 3D Games, Action, Fun, Funny, Shoot, Shooter, Shooting, Space, Spaceship, Super

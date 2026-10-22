@@ -35,4 +35,4 @@ Skuf dad won't let you go for a walk, can you escape room? Make first stealth ro
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, hidden-object, horror, Point And Click
+- Tags: Adventure, Escape, hidden-object, Horror, Point And Click

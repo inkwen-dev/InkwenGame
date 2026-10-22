@@ -17,4 +17,4 @@ Dive into a mesmerizing 3D cube universe where vibrant prisms challenge your log
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

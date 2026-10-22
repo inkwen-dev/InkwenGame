@@ -19,6 +19,6 @@ Push Balls is actually a ball puzzle game with 3D blocks and platforms. There ar
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Brain, Cool, HTML5, Logic, Logical, WebGL

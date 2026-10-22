@@ -19,6 +19,6 @@ Using mouse in desktop or touch in mobile device to chose the right answer
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Casual, Educational, Family, Game, HTML, HTML5, Hypercasual, Kids, Math, Mobile, Puzzle, WebGL

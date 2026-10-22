@@ -19,6 +19,6 @@ Put your observation skills to the test in Brainrot &ndash; A Difference Challen
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brainrot Italian, Difference, html games for your website, Kids, Mobile, Puzzle

@@ -21,4 +21,4 @@ Move with WASD or the joystick and look around with the mouse or by swiping. Che
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Escape, horror, scary, Simulation, story
+- Tags: Escape, Horror, scary, Simulation, story

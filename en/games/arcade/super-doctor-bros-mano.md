@@ -19,6 +19,6 @@ Super Doctor Bros Mano is a 2D adventure game where the player controls Bros, wh
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Mario

@@ -19,6 +19,6 @@ Intersection Chaos is a game where there is a car coming from each intersection.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Car, Cars, Casual, endless, HTML, HTML5, Hypercasual, Mobile

@@ -19,6 +19,6 @@ Kart Jigsaw is a fun online puzzle game. Drag the pieces into right position usi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Fun, Jigsaw, Kart, Mobile, Skill

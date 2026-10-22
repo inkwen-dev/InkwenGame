@@ -19,6 +19,6 @@ This is a math puzzle game with 2 modes. Easy mode starts with addition and subt
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, HTML5, Math, Mobile, Number, Puzzle, School

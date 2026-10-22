@@ -19,6 +19,6 @@ Super Mario Coin Adventure is a new kind of Mario game that you can play with on
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Cartoon, Click, Collecting, HTML5, Hypercasual, jump, Jumping, Kids, Mario, Mobile, Platform, run, running, Superhero

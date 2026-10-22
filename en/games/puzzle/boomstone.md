@@ -19,6 +19,6 @@ Match gems. Blast them. Watch the score explode. Boomstone is an addictive gem-m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bomb, Brain, Logical, Matching, Puzzle

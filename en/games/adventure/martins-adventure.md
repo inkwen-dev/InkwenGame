@@ -19,6 +19,6 @@ In the village where Martin lives,the village chief&rsquo;s magic crystal can ma
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, jump, Mario

@@ -21,4 +21,4 @@ Smart Looter is a hypercasual robbery game. Your goal is to rob the houses of di
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Boy, Cartoon, Casual, Escape, Fun, Hypercasual, Kid, Mobile, Police, prison, WebGL
+- Tags: 1 Player, Action, Boy, Cartoon, Casual, Escape, Fun, Hypercasual, Kid, Mobile, Police, Prison, WebGL

@@ -19,6 +19,6 @@ Are you ready to play in the Quick Quiz game? The goal is really simple: try to 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Girls, HTML5, Letters, Mobile, Puzzle, Quiz, Word

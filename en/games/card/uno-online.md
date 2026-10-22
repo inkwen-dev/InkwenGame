@@ -21,4 +21,4 @@ UNO Online is a strategy card game. In the game, the first player to clear his h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, card
+- Tags: Arcade, Card

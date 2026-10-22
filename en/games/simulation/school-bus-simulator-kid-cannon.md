@@ -19,6 +19,6 @@ Launching children from a cannon at the speed of a bullet into oncoming traffic 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Simulation, Simulator

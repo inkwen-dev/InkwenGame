@@ -19,6 +19,6 @@ Pixel Pipes is a logic game in which you have to make the pipes connect taking w
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Logic, Pipe

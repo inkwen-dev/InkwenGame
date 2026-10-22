@@ -19,6 +19,6 @@ Car Parking 3D: Online Drift is completely renewed. New car tuning options, new 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, 8 Ball Pool, Action, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Ever After High, Game, Games, Girl, Mario, Sim, Simulation, Simulator, Supercars, Truck

@@ -21,4 +21,4 @@ A new movie "Minions: The Rise of Gru" is coming. Now, I choose 12 interesting i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Cartoon, Fun, Girl, HTML5, Jigsaw, Kids, Matching, Minion, Mobile, movie
+- Tags: Android, Cartoon, Fun, Girl, HTML5, Jigsaw, Kids, Matching, Minion, Mobile, Movie

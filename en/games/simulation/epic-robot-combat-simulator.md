@@ -19,6 +19,6 @@ Hop onto your Combat Suit, prepare your weaponry, and hunt down all your enemies
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Avoid, Flight, Robot, Skill, Space

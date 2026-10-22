@@ -19,6 +19,6 @@ In this game you need to eliminate all the blocks shown in the board. To do this
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Christmas, HTML5, Match 3, Matching, Mobile, Puzzle

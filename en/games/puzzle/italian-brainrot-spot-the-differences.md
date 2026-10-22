@@ -19,6 +19,6 @@ In this game you have to locate the differences between the two pictures in the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Brainrot Italian, Difference, Fun, Funny, Italian Brainrot, Kids, Skill, Tung Tung Tung Sahur

@@ -19,6 +19,6 @@ An amazing new endless runner adventure starts now. The robber has stolen your c
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Doctor, Mario, run, running, Shoot, Shooter, Shooting, Super, World

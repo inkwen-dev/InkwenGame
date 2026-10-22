@@ -19,6 +19,6 @@ Sprunki Shooter 2025 is a free to play online game that delivers exciting shooti
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Gun, HTML5, Kids, Mobile, Shooter, Shooting, Sprunki

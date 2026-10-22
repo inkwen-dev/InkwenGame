@@ -21,4 +21,4 @@ You need to go through all 80 levels to free all 80 pandas. Use jokers and bonus
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, card, Girl, Logic, Puzzle
+- Tags: Animal, Card, Girl, Logic, Puzzle

@@ -70,4 +70,4 @@ Tab 键 = 切换光标
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, 动物, 贪吃蛇
+- 标签: Adventure, 动物, 贪吃蛇

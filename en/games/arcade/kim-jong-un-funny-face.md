@@ -19,6 +19,6 @@ Kim Jong Un Funny Face - A Fun game for everybody. Just for fun this games makes
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Fun, Funny, Girls, Hypercasual, Kids

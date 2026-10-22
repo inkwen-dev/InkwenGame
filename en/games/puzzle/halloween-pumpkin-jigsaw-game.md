@@ -21,4 +21,4 @@ Welcome to halloween pumpkin Jigsaw Joyride! Our halloween pumpkin Jigsaw Joyrid
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Halloween, Puzzle
+- Tags: Card, Halloween, Puzzle

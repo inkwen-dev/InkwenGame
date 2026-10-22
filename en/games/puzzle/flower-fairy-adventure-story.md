@@ -19,6 +19,6 @@ Welcome to Flower Fairy Adventure Story, a casual puzzle game that you can play 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girls, Jigsaw, Relaxation

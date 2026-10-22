@@ -21,4 +21,4 @@ Squid Game 3D it's new run game, it's challenging game make you have fun. in thi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Adventure, movie, Unity3D
+- Tags: 3D, Adventure, Movie, Unity3D

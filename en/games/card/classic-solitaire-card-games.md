@@ -21,4 +21,4 @@ Solitaire, is the most popular single player card game in the world. If you like
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, Solitaire
+- Tags: Card, Casual, Solitaire

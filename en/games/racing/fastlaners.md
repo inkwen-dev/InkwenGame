@@ -19,6 +19,6 @@ Select your fastest vehicle and most powerful weapon to clear all the barriers o
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, kiz10, Racing

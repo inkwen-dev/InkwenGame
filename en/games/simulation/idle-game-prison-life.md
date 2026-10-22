@@ -19,6 +19,6 @@ Ever dreamed of running your prison? Now&rsquo;s your chance! In this casual idl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: idle, prison, Simulation
+- Tags: idle, Prison, Simulation

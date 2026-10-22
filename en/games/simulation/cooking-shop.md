@@ -21,4 +21,4 @@ Welcome to the Cooking Shop : Chef Restaurant Cooking Games 2022f, it is a free 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, burger, Casual, Cook, Cooking, Fun, Funny, Game, Games, Hot, Hypercasual, Super, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Burger, Casual, Cook, Cooking, Fun, Funny, Game, Games, Hot, Hypercasual, Super, Unity3D

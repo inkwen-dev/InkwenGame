@@ -19,6 +19,6 @@ Bird Hunter is a 2D game where you hunt flying birds with a bow and arrow. The a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Animal, Battle, Best

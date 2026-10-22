@@ -19,6 +19,6 @@ Pop all the colorful bubbles by shooting at them, and get to the boss faster tha
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Color, Fun, Mobile, Puzzle

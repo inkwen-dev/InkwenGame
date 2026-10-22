@@ -19,6 +19,6 @@ Welcome to the sweetest hair salon for girls! Meet the Candylocks dolls with the
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fun, Girl, Girls, H5, Hair, HTML5, Makeover

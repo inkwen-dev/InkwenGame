@@ -21,4 +21,4 @@ WASD 驾驶汽车
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D 游戏, 汽车, 汽车, 超级跑车, Unity3D, WebGL
+- 标签: 单人, 3D游戏, 汽车, 汽车, 超跑, Unity3D, WebGL

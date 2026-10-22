@@ -19,6 +19,6 @@ Jumping into space rocket travels in space instant html Android and PC game with
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, city, jump, Mobile, Rocket, run, running, Shooter, Space, Sport, Sports

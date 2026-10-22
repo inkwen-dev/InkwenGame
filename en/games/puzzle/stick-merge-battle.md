@@ -19,6 +19,6 @@ Stick Merge is a simple action and merging game. You aim to combine various weap
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Stickman, Strategy, War

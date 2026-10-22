@@ -19,6 +19,6 @@ The world tour of our beloved Subway Surfers continues! And next in line is the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Hot, HTML, HTML5, Jigsaw, Mind, Puzzle, subway, Subway Surfers

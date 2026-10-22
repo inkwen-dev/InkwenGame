@@ -19,6 +19,6 @@ Pokemon Jigsaw Puzzle is a premium quality puzzle game, with amazing pokemon puz
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, H5, Hot, HTML, HTML5, Jigsaw, Pokemon, Puzzle

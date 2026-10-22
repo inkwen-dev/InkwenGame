@@ -19,6 +19,6 @@ The castle looks very skilled! Each piece is so perfect to support the entire st
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Boy, Game, Kid, Kids, Puzzle, Skill, Tetris

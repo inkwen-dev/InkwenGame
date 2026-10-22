@@ -19,6 +19,6 @@ Are You the next great stunt Skibidi Toilet pilot? You will need to have strong 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Flight, fly, HTML, Mobile, Skibidi, Skibidi Toilet

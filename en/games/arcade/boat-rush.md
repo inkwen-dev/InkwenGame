@@ -21,4 +21,4 @@ Boat rush is a boat running game in which you have to go as far as possible by b
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Boys, Collecting, Fun, Funny, HTML5, Skills
+- Tags: Boat, Boys, Collecting, Fun, Funny, HTML5, Skills

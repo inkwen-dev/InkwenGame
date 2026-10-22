@@ -21,4 +21,4 @@ Come to enter the exciting world of card battles, where strategy is combined wit
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, card, HTML5, Race
+- Tags: Battle, Card, HTML5, Race

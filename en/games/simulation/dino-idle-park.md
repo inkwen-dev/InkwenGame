@@ -21,4 +21,4 @@ Dino Idle Park is a relaxing leisure real estate tycoon where you create and dev
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Dinosaur, idle, Island, management, Simulation
+- Tags: 3D, Dinosaur, idle, Island, Management, Simulation

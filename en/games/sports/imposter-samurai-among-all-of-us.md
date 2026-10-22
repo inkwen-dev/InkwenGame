@@ -19,6 +19,6 @@ Imposter Samurai : You have your swords run around kill all the enemies, spread 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 2D, 3D Games, Animal, Anime, Boxing, Cartoon, Cartoon Network, Crazy, Kid, Killing, Knight, Skill, Spongebob, Sport, Sports

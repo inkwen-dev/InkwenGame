@@ -19,6 +19,6 @@ Have you ever been to a thrift shop? Well now is your chance to go shopping at t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, Girls, rpg
+- Tags: 2D, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, Girls, RPG

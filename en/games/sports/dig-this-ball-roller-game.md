@@ -19,6 +19,6 @@ Just dig with your fingers — and guide the ball to the cup. It's easy, yet cha
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Adult, Adventure, Arcade, Arena, Ball, Ballon, Baseball, Basketball, Block, Boys, Coloring, Dragon Ball Z, drift, drifting, Driving, Football, Hypercasual, Memory, Pinball, Pokemon, Side Scrolling, Simulation, Simulator, sky, Spiderman, Superhero

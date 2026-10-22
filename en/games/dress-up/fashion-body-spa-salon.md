@@ -19,6 +19,6 @@ Body Spa Salon is a very popular place for girls, and many girls like to relieve
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Girl, Girls, Hair, Kids, Makeover, Nail, Simulation

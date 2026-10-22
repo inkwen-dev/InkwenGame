@@ -19,6 +19,6 @@ How high can you get? Build your ancient or modern towers in a fantastic futuris
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Ever After High, Fun, Funny, HTML, HTML5, Tower Defense

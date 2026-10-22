@@ -19,6 +19,6 @@ Drive fast fury motorbikes in amazing extreme bike riding game 3D. Boost the spe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bike, Sports, Stunts

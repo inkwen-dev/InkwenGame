@@ -19,6 +19,6 @@ Merge Room is an addictive mobile game where players are tasked with filling a r
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Girls, House, Kids, Puzzle

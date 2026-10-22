@@ -19,6 +19,6 @@ Eat the little dots, avoid bigger dots and stars ! You must create the biggest c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Brain, Casual, Logic, Puzzle

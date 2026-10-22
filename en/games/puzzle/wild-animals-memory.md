@@ -19,6 +19,6 @@ Wild Animals Memory is a free online game from genre of memory and animals games
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fun, HTML5, Kids, Memory, Skill

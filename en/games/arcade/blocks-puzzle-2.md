@@ -19,6 +19,6 @@ Blocks puzzle is an addictive classic game The goal is to drop blocks in order t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Bricks, Casual, HTML5, Puzzle

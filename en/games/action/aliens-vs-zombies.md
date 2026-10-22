@@ -19,6 +19,6 @@ Kill or be killed It s one or the other It s the breathtaking confrontation for 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Alien, Boys, Fighting, Girls, HTML5, Logic, Robot, Strategy, War, WebGL, Zombie

@@ -19,6 +19,6 @@ Let your imagination loose with the wide variety of items at your disposal: rang
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: angrybirds, Arcade, atv, Battlegrounds, Casual, huggy, Hypercasual, Sandbox, Spiderman

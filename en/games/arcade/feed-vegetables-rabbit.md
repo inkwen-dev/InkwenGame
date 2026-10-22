@@ -19,6 +19,6 @@ Feed vegetable is base on Platform. Rabbit through the eat vegetables have been 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Animal, Arcade, Best, Game, Games, Puzzle

@@ -19,6 +19,6 @@ Ultra Kick is the ultimate penalty shootout experience! Step up to the spot, rea
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Arcade, Casual, Fun, Funny, Hypercasual, Shoot, Shooter, Shooting, Soccer, Sport, Sports

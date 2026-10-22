@@ -19,6 +19,6 @@ It&rsquo;s Giddy Pomni the hottest game on the charts at the moment! Tap To Matc
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, digital circus, Family, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Memory, Mobile, Pomni

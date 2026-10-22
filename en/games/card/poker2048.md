@@ -19,6 +19,6 @@ Poker2048 blends the strategic depth of poker with the addictive gameplay of sli
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, card, Casino, Mobile, Poker, swipe
+- Tags: 2048, Card, Casino, Mobile, Poker, swipe

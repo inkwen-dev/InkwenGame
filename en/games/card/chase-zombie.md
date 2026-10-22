@@ -21,4 +21,4 @@ In Zombie Chase, players navigate a chaotic world filled with the undead, using 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Android, Arcade, Best Games, card, Casual, Hypercasual, Platform, Zombie
+- Tags: Adventure, Android, Arcade, Best Games, Card, Casual, Hypercasual, Platform, Zombie

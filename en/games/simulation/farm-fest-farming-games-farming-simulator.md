@@ -21,4 +21,4 @@ Do you want to own a farmland? Do you want to cultivate and sell the crops like 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, farm, Simulation
+- Tags: 3D, 3D Games, Farm, Simulation

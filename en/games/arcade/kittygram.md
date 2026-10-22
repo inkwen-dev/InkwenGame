@@ -19,6 +19,6 @@ Kitty cat need help to finish each level. Find correct possition to each block t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Fun, Girls, Logic, Matching, Puzzle, Skills

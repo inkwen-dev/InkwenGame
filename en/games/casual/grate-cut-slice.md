@@ -19,6 +19,6 @@ Here Tap to Grate the Fruits, Vegetables, all Items, Most Satisfying game. Singl
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Casual, Food, Funny, Girl, Girls, HTML5, Kids, WebGL

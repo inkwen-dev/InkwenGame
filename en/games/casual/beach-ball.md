@@ -19,6 +19,6 @@ Beach Ball is a 3D physics and balancing game where you drag a big beach ball ar
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Jumping, Skills

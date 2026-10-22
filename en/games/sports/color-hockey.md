@@ -19,6 +19,6 @@ We present you our new colorful arcade sports game in which you have the control
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cool, Fun, hockey, HTML5, WebGL

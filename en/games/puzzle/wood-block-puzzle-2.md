@@ -19,6 +19,6 @@ Wood Block Puzzle 2 is a captivating puzzle game that tasks players with arrangi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Hypercasual, Mentolatux, Puzzle, puzzleblock, Skill

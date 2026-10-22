@@ -38,4 +38,4 @@ Every gun sold brings you closer to that dream rocket. Every raid is a test, eve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boys, Gun, management, Shooting
+- Tags: Action, Boys, Gun, Management, Shooting

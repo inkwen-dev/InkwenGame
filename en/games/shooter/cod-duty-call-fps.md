@@ -19,6 +19,6 @@ Step into the war-torn battlefield in COD Duty Call FPS, a fast-paced first-pers
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, apocalypse, Army, assassin, Best Games, First Person Shooter, Shoot, Shoot 'Em Up, Shooter, Shooting

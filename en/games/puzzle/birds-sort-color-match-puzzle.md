@@ -19,6 +19,6 @@ Welcome to the gentle world of Bird Sort Color, where the gentle embrace of natu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Bird, Brain, Casual, Color, Cute, Game, html5 games for your site, Logic, Matching, Puzzle, sort

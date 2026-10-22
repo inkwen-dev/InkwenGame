@@ -19,6 +19,6 @@ Step into the enchanting mushroom forest, a forest where the boundary between re
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Hidden, Memory, Point And Click, Puzzle

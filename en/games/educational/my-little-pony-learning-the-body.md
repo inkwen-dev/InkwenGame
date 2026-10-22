@@ -19,6 +19,6 @@ Certainly! Heres a description in English for the game My Little Pony Learning T
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Pony, Quiz

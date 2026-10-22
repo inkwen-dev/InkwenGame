@@ -46,4 +46,4 @@ Buy a boat and sail to new islands, each offering unique fishing spots, diverse 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: boat, fishing
+- Tags: Boat, Fishing

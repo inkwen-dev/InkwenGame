@@ -19,6 +19,6 @@ Stack Ball Run is a fast-paced arcade runner game. Drag left and right to collec
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Casual, endless, running, Stack

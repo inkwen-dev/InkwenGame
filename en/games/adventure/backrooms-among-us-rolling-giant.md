@@ -19,6 +19,6 @@ Now you must escape from Impostor Among Us and Rolling giant. But beware granny 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Boy, horror
+- Tags: 1 Player, Action, Boy, Horror

@@ -19,6 +19,6 @@ Stunt Car Parkour challenge is the ultimate stunt and trial car skill racing gam
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2026 games, 3D Games, Arcade, Best Games, Car, Driving, Racing, Skill, Stunts

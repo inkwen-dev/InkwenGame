@@ -19,6 +19,6 @@ Pipeline 3D Online is an easy matching puzzle game. There is a flower that is wi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Brain, H5, HTML, HTML5, Kids, Logical, Matching, Mobile, Online, Pipe

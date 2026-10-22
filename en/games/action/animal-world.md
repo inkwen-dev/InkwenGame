@@ -19,6 +19,6 @@ An open-world sandbox where you can catch and tame Brainrots, Palmons, and cute 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, build, builder, building, hunter, hunting, Monster, survival, Sword, World
+- Tags: Battle, build, builder, building, hunter, Hunting, Monster, survival, Sword, World

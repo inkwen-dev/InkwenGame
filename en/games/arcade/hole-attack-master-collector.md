@@ -19,6 +19,6 @@ This Christmas, the black hole is on a mission &ndash; to devour all the festive
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, unity, unity games for your site, Unity3D

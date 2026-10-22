@@ -19,6 +19,6 @@ Pixel Blast is an exciting physics-based arcade puzzle game where your goal is t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arkanoid, Ball, Christmas, Shoot

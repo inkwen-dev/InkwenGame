@@ -19,6 +19,6 @@ Descend into the subway and head towards a new adventure in the endless runner S
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, H5, Hot, HTML, HTML5, jump, Jumping, Racing, run, running, subway, Subway Surfers

@@ -21,4 +21,4 @@ Prisoners are sentenced to prison for things they've never done. They try to mak
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Boy, Boys, Casual, Escape, HTML5, Hypercasual, prison, WebGL
+- Tags: 3D, Boy, Boys, Casual, Escape, HTML5, Hypercasual, Prison, WebGL

@@ -19,6 +19,6 @@ Before you on the screen you will see a playing field on which there will be two
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Fun, Funny, HTML5, Hypercasual, Mobile, Skill

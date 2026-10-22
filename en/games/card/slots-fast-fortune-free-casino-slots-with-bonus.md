@@ -21,4 +21,4 @@ Welcome to SLOTS GRAPE, the most prestigious casino community! For all the casin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, card, Casino, Games, Girls, Machine, Slot Machine
+- Tags: Boys, Card, Casino, Games, Girls, Machine, Slot Machine

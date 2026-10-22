@@ -19,6 +19,6 @@ If your kids love all things monster trucks, Then they will love this game! Mons
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D Games, Adventure, Baby, Ball, Ballon, Boy, Boys, Bubble, Bubble Shooter, Candy, drift, drifting, Driving, Fashion, Game, Games, Highscore, Simpson, Simulation, Simulator, Street Fighting, Taxi, Truck

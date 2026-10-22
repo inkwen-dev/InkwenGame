@@ -19,6 +19,6 @@ Welcome to Tricky Pucture Puzzle - Tricky Test - top fun thinking and brain-up g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Fun, Kid, Math, Puzzle

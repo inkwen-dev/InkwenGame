@@ -19,6 +19,6 @@ Take the crown to go to the next level in the Raise Your Buddy arcade game! But 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cat, Pixel, Sandbox

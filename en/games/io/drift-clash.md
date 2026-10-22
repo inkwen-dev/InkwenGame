@@ -19,6 +19,6 @@ Drift Clash is the first drift racing game with real-time battles and realistic 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Hypercasual, Super, Supercars, Unity3D

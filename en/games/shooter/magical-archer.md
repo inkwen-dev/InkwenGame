@@ -19,6 +19,6 @@ n the game &ldquo;Magical Archer,&rdquo; you will enter an enchanting fantasy wo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, arrows, Bow, First Person Shooter, free html5 games for your website, HTML, HTML5, iPhone

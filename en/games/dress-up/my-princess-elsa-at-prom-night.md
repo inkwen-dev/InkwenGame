@@ -19,6 +19,6 @@ Princess Elsa is getting ready for the prom night. Do you want to help him? Use 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Cute, Dating, Design, Dress Up, Elsa, Fashion, Girl, Girls, Hair, HTML5, Jewel, Love, Makeover, Princess

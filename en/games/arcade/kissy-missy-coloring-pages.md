@@ -19,6 +19,6 @@ Welcome to the world of Kissy Missy Coloring Pages. Our game is perfect for fans
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Color, Coloring, Drawing, Easter, Girls, Kids, Puzzle

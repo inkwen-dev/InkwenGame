@@ -19,6 +19,6 @@ Get all set to combat as well as conserve your nation in tank games 3D. Pick sto
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Shooting, Simulator, Tank, Tanks, Unity3D, WebGL

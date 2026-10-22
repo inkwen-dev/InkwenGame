@@ -19,6 +19,6 @@ Hello little artists! We all love to draw, mostly to paint. In this game, we wil
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Alien, Color, Coloring

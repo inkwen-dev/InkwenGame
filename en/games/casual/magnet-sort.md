@@ -19,6 +19,6 @@ Magnet Sort is a fast-paced industrial arcade game where you control a powerful 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Best Games, Casual, Collecting, Hypercasual, mouse, Skill, sort, sorting
+- Tags: 1 Player, 2026 games, Best Games, Casual, Collecting, Hypercasual, Mouse, Skill, sort, sorting

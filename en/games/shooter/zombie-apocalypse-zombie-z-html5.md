@@ -19,6 +19,6 @@ Zombie Apocalypse Zombie Z is a thrilling survival game that plunges you into th
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Android, Crazy, HTML, HTML5, Mobile, Shoot, Shooting, Unity3D, WebGL, Zombie

@@ -19,6 +19,6 @@ Dive into an exciting underwater adventure with Fish Hunting Game! Explore the d
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Fish, Fun, hunting
+- Tags: 2026 games, amazing, Fish, Fun, Hunting

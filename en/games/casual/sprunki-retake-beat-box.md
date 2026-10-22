@@ -19,6 +19,6 @@ Get ready to test your rhythm and reflexes in Sprunki Retake Beat Box, an electr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, kiz10, Levels, Music

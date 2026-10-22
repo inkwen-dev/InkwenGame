@@ -19,6 +19,6 @@ Tonight&rsquo;s a big night&mdash;Cappuccina and Tung Tung Sahur are heading out
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dating, Dress Up, Fashion, Girls

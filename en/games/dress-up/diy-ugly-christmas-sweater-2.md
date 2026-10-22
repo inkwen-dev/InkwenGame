@@ -19,6 +19,6 @@ Get ready to deck the halls with festive creativity in DIY Ugly Christmas Sweate
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Christmas, Creation, Design, Dress Up, Fashion, Girl, Winter

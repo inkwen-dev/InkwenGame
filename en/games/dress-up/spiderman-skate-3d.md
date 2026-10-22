@@ -19,6 +19,6 @@ SpiderMan - Vice City Gangster Fight 2021 is an epic open world third person sup
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Adventure, Batman, Ben 10, Best, Family, Fashion, Games, Girl, Mario, Puzzle, Slither, Spiderman, Superhero

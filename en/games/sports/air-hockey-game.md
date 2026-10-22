@@ -19,6 +19,6 @@ Glow Hockey delivers a new style of hockey game. Easy to play, hard to master. C
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, hockey, Mobile, Sports

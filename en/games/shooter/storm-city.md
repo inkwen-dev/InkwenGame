@@ -19,6 +19,6 @@ Storm City is a cyberpunk themed shooting game. Shoot your enemies and collect t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Unity3D, weapons, WebGL

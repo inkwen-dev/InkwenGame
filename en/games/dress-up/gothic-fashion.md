@@ -19,6 +19,6 @@ Debby is a very sweet girl who likes to dress in gothic style. Which dresses do 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Fashion, Fun, Game, Games, Girl, Girls, HTML5

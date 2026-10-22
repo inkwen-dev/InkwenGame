@@ -19,6 +19,6 @@ It is a raw puzzle game with 4 different "Among Us" characters. Match 3 identica
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Funny, Kids, Puzzle, Skill

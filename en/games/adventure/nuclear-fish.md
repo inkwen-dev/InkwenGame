@@ -19,6 +19,6 @@ Nuclear Fish is a fun clicker game about radioactive mechanized fish. The goal o
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Bird, Casual, Click, Clicker, Fish, Hypercasual, Mario

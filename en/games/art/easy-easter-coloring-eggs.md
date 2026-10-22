@@ -19,6 +19,6 @@ Relax and get creative with Easy Easter Coloring Eggs! A fun and calming colorin
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Drawing, Easter, eggs, Hypercasual, Kids, painting, School

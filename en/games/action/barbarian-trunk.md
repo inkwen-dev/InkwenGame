@@ -19,6 +19,6 @@ Barbarian Trunk is an oldschool arcade style casual game. Become a Barbarian, cu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Android, Boy, Boys, Fight, Fighting, Hot, Kid, Kids, New

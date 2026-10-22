@@ -17,4 +17,4 @@ Embark on an epic journey in Battle of Heroes RPG, where each chapter unveils th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

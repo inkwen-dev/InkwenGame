@@ -19,6 +19,6 @@ Draw Pen Rush is a fun and exciting parkour game. Players control a robot to com
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: boat, Draw, Drawing, HTML5, Hypercasual, Obstacle, Platform, running, Skills, Sword, weapons
+- Tags: Boat, Draw, Drawing, HTML5, Hypercasual, Obstacle, Platform, running, Skills, Sword, weapons

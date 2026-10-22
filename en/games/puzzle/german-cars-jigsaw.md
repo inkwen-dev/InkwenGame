@@ -19,6 +19,6 @@ Now is the time to solve a few puzzles in the game called German Cars Jigsaw. Yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, Cars, Fun, HTML5, Jigsaw, Kids, Mobile, Skill

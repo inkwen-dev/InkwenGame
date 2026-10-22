@@ -19,6 +19,6 @@ Room Escape 3D is an interesting puzzle online game for free. You need to use cu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Android, Avoid, Boy, Brain, Escape, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Room

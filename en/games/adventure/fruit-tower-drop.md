@@ -19,6 +19,6 @@ Fruit Tower Drop is a fast-paced arcade game where you guide a bouncing ball dow
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Best, Crazy, Fruit, Helix, Hypercasual, Puzzle

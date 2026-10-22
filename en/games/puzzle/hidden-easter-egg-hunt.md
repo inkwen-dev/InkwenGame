@@ -19,6 +19,6 @@ Get ready for an egg-citing adventure in &ldquo;Hidden Easter Egg Hunt&rdquo; &n
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Easter, Family, Hidden

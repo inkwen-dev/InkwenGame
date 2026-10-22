@@ -19,6 +19,6 @@ A game for all those who are tired of being tortured by their dentist. The time 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Doctor, Educational, Family, Simulation

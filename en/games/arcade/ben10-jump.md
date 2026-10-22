@@ -19,6 +19,6 @@ This alien game featuring cool graphic and platformer gameplay, once upon a time
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Air, Aircraft, Alien, Arcade, Baby, Ben 10, Boy, Cartoon, Cartoon Network

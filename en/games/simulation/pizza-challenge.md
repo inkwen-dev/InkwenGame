@@ -19,6 +19,6 @@ Are the people who love pizza and don't want to share it, here? Try to grab the 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Boy, Cook, Fun, Funny, Girl

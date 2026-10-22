@@ -19,6 +19,6 @@ Everyone in the beach laughs at you when you say that you can surf as high as th
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Game, Games, jump, Jumping, Sport, Sports, Subway Surfers, surfers

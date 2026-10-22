@@ -19,6 +19,6 @@ Welcome to Number Merge 2048. This is an amazing puzzle game. Connect the number
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Match 3, Mobile, Number, Puzzle

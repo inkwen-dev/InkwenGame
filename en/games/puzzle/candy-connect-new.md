@@ -19,6 +19,6 @@ A fun and addictive matching game. You need to find all the pairs of sweety and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Candy, Casual, Fun, Match 3, Mobile, Puzzle, Relaxation

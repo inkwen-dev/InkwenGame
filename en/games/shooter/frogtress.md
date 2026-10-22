@@ -21,4 +21,4 @@ A  frog, a pond, and endless bugs. Your frog licks bugs on its own while you pic
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Monster, mouse, Skill, survival
+- Tags: Action, Arcade, Monster, Mouse, Skill, survival

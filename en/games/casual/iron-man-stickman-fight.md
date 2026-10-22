@@ -19,6 +19,6 @@ Among all the stickman games, Stickman Fight - Battle Royale is one of the funni
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Stickman, Superhero

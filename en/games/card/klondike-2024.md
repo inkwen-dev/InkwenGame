@@ -17,4 +17,4 @@ Dive into Klondike 2024 and rediscover classic solitaire with a modern flair. St
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

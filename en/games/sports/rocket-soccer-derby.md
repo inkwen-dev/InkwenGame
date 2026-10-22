@@ -19,6 +19,6 @@ It's possible now to play the Rocket Soccer Derby game in your web browser for f
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adult, Adventure, Arcade, Boys, Car, Driving, Family, Fun, Girls, Highscore, HTML5, Hypercasual, jump, Kid, Mobile, Race, Rocket, Soccer, Sport, Supercars

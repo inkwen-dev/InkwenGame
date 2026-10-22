@@ -19,6 +19,6 @@ Hurry up, Pengu, and collect all the fish! The penguins are very hungry and its 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Cute, Penguin, Platform, Snow

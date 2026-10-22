@@ -19,6 +19,6 @@ Real Monster Truck Racing, get off the asphalt and onto the dirt Great physics, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Lego, Monster, Online, Racing, Space, Truck

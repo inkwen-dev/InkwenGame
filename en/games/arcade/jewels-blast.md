@@ -19,6 +19,6 @@ Welcome to the popular match 3 puzzle game. Jewel Blast is the center of the puz
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Bejeweled, Classic, Fun, Jewel

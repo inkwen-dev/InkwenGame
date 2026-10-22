@@ -33,4 +33,4 @@ Watch out for global news 📰 that may impact your income, and plan your moves 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Board, Clicker, idle, management, Multiplayer, tycoon
+- Tags: Board, Clicker, idle, Management, Multiplayer, tycoon

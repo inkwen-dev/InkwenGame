@@ -19,6 +19,6 @@ Pac-Man (stylized in all capitals as PAC-MAN) is an arcade game designed by Toru
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Memory, Puzzle

@@ -19,6 +19,6 @@ Robot Fight is fun shooting game suitable for kids and adults. The aim of the ga
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, HTML5, Kill, Killing, Robot, Shoot, Shoot 'Em Up, Shooting, Skill

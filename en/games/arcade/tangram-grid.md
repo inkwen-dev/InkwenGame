@@ -19,6 +19,6 @@ Tangram Grid is a puzzle game to fill all the grids using seven pieces. Make sur
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, Kid, Puzzle

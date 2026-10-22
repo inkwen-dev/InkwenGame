@@ -19,6 +19,6 @@ What is Billiard Hustlers about? Billiard Hustlers is a fast-paced pool game tha
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Billiard

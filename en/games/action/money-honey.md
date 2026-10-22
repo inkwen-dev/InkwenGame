@@ -19,6 +19,6 @@ As a pure collecting dress-up running arcade game, Money Honey allows you to hel
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Collecting, Girl, Mobile, Platform, running, Unity3D

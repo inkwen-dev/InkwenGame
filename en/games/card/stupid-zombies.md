@@ -21,4 +21,4 @@ Those stupid zombies are back, and you are humanity's last hope to keep them bra
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, Memory, Puzzle
+- Tags: Brain, Card, Memory, Puzzle

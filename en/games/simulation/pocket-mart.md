@@ -29,4 +29,4 @@ A full day-and-night cycle, impatient customers who comment on empty shelves and
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, Arcade, Car, Driving, management, Simulation, tycoon
+- Tags: 3D, Adventure, Arcade, Car, Driving, Management, Simulation, tycoon

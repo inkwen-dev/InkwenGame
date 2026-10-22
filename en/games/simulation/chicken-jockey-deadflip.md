@@ -19,6 +19,6 @@ Chicken Jockey Deadflip is a chaotic, high-flying, circus-themed platformer wher
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fish, fishing, Flight, free html5 games for your website, Minecraft
+- Tags: Fish, Fishing, Flight, free html5 games for your website, Minecraft

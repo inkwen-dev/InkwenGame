@@ -19,6 +19,6 @@ Kids, get ready to enjoy this grand journey as you trek high and low on a grand 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Cartoon, Design, dino, Dinosaur, Games, Kids, Online, Sports

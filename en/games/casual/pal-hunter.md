@@ -19,6 +19,6 @@ In the pal world, there are creatures known as pals, and its your mission to cat
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cute, hunter, hunting, Monster, Pokemon
+- Tags: Cute, hunter, Hunting, Monster, Pokemon

@@ -21,4 +21,4 @@ Shadow Ninja-Ghost Warrio is a perfect game that combines ancient ninjas and mod
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, rpg, Superhero
+- Tags: Action, Adventure, Arcade, RPG, Superhero

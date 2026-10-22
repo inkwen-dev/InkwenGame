@@ -19,6 +19,6 @@ Enter the arena in spil clash 3D Ultimate Arena an action-packed 3D spinning top
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2026 games, 3D Games, Android, angry, Best

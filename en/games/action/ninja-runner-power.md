@@ -19,6 +19,6 @@ Run away to save your life, Ninja Runner : There are a lot of fun with more bonu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Killing, Monster, Ninja, running

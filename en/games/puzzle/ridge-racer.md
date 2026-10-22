@@ -21,4 +21,4 @@ Ridge Racer is a very competitive game. You need to drive your car, beat other c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Car, Cars, Match 3, Race, Racing, Sport, Sports
+- Tags: Car, Cars, Match-3, Race, Racing, Sport, Sports

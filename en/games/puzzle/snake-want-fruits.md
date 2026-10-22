@@ -19,6 +19,6 @@ This snake want to eat fruits. You need to control the snake to catch the fruit.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruits, Puzzle, Snake

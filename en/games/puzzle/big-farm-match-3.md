@@ -21,4 +21,4 @@ Use left, right and down keys to move the blocks. Use up key to rotate the block
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Collecting, farm, HTML5, Match 3, Matching, Mobile, Puzzle
+- Tags: Collecting, Farm, HTML5, Match 3, Matching, Mobile, Puzzle

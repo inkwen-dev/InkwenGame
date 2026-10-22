@@ -19,6 +19,6 @@ FIND THE WORD in a straight line of blocks (horizontally, vertically or diagonal
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Educational, HTML5, Kids, Mobile, Puzzle, School, Word

@@ -19,6 +19,6 @@ Trivia Crack 94% is a thrilling trivia game! Test your knowledge and prove you a
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Logic, Mobile, Puzzle, Quiz

@@ -19,6 +19,6 @@ tes-vous pr t participer Dans le monde des lettres vous pouvez d couvrir l histo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Arcade, run, running

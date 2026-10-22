@@ -19,6 +19,6 @@ Meet the fluffiest puzzle challenge! Slide entire rows and columns to match thre
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Funny, HTML5, Logic, Logical, Match 3, Match3, Puzzle, puzzleblock
+- Tags: 1 Player, Funny, HTML5, Logic, Logical, Match-3, Match3, Puzzle, puzzleblock

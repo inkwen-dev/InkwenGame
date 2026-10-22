@@ -19,6 +19,6 @@ Use your cue to shoot balls into holes gain score and stars so you can progress 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, 3D Games, 8 Ball Pool, HTML5, Pool

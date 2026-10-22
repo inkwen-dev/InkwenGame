@@ -19,6 +19,6 @@ Quiz Italian Brainrot: Hidden Letter is a hilarious and easy-to-play word game w
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, digital circus, Quiz

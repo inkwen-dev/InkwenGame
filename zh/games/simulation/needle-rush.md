@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Clicker, 闲置的, 管理, 模拟游戏
+- 标签: 点击器, 闲暇, 管理, 模拟

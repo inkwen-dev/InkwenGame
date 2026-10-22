@@ -19,6 +19,6 @@ An evil entity has studied and developed a virus that transforms humans into vic
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, HTML5, Mobile, Ski, Zombie

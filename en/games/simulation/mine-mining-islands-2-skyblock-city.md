@@ -35,4 +35,4 @@ Are you ready to become the best mayor and hero of this world?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: construction, Crafting, management, Minecraft, survival, tycoon
+- Tags: construction, Crafting, Management, Minecraft, survival, tycoon

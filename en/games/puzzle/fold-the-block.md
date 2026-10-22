@@ -19,6 +19,6 @@ Arrange your blocks skillfully to occupy every space and conquer each challenge.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Kids, Mentolatux, Puzzle, puzzleblock, Unity3D, WebGL

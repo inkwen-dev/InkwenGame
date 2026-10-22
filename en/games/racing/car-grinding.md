@@ -19,6 +19,6 @@ This is a stress-free game,using the mouse to crush the abandoned car into a mai
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, Click, Crazy, cut, Google, H5

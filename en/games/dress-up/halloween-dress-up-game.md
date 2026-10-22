@@ -19,6 +19,6 @@ You are in front of the mirror. Moonlight around your friend asking you what you
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girl, Girls, Halloween, Holiday, Stickman

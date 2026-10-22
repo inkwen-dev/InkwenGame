@@ -19,6 +19,6 @@ Save the hostage! Use the Helicopter's maximum Firepower to Destroy the enemies 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Cartoon Network, Casual, Escape, Games, Girl, Girls, Helicopter, Hot, Hypercasual, Sport, Sports

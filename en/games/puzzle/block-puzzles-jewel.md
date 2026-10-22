@@ -19,6 +19,6 @@ Welcome to Block Puzzle, a simple but addictive puzzle game! Block Puzzle is a f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Puzzle

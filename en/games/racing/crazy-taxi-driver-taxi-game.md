@@ -19,6 +19,6 @@ If you are a taxi simulator driver and love modern taxi games with race cars, th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Car, Cars, Crazy, drift, drifting, Driving, Game, Games, Race, Racing, Simulation, Simulator, Stunts, Taxi

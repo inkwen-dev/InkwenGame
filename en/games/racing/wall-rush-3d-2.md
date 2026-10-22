@@ -19,6 +19,6 @@ Run as fast as wind and race against all best runner in the world. Leap from bui
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Boy, Boys, Casual, jump, Jumping, Race, Racing, run, running

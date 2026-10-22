@@ -19,6 +19,6 @@ Kitten Hide And Seek is a puzzle online game of hide-and-seek for boys for free.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Animal, Boy, Brain, Cartoon, Escape, Fun, HTML5, Kids, Obstacle, Online, Puzzle, running

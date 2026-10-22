@@ -19,6 +19,6 @@ OH NOOO! Bigfoot wanted! Help embarrassed Yeti to find a way to his new home, av
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Collecting, endless, Frozen, Fun, Highscore, HTML5, run, running, WebGL, Winter

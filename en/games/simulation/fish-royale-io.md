@@ -19,6 +19,6 @@ Fish Royale io throws you into a chaotic reef where bite beats might. Start as a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Fish, fishing, Mentolatux, onlinegames io, unity, WebGL
+- Tags: .io Games, Arcade, Fish, Fishing, Mentolatux, onlinegames io, unity, WebGL

@@ -19,6 +19,6 @@ Is the best sand drawing game free which allows you to draw using your fingers a
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Casual, Clans, Fun, Funny, Hypercasual, Sandbox, Super, Unity3D

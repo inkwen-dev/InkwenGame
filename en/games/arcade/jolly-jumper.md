@@ -19,6 +19,6 @@ Jolly Jumper is a HTML5 arcade game free to play. Collect fruits and increase yo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Classic, Click, Collecting, Fruit, Fruits, Games, HTML5, jump, Jumping

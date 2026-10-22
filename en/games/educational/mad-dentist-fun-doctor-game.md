@@ -19,6 +19,6 @@ Candies, candies, kids love candies. However, children never think of the pain o
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

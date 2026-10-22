@@ -19,6 +19,6 @@ Avoid all of the arrows that are raining from the sky. Jump over to the next pla
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, HTML5, Kids, Mobile, Skill

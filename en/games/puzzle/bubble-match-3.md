@@ -19,6 +19,6 @@ Bubble Match 3 is puzzle Match 3 game with colorful and beautiful graphics, coll
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Bejeweled, Bubble, Casual, Fun, HTML5, Hypercasual, Match 3

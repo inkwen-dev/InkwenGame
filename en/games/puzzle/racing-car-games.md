@@ -19,6 +19,6 @@ You can ride on any of the designed cars. Riding on the track is completely simi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Game, Games, Supercars

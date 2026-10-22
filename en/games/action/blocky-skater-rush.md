@@ -19,6 +19,6 @@ Blocky Skater Rush is an interesting arcade game, which can challenge your skate
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Kid, Mobile, Platform, Puzzle, Skateboard, Skill, Unity3D

@@ -21,4 +21,4 @@ Worm Puzzle: Snake Apple combines classic snake gameplay with creative puzzle ch
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, eating, Matching, worm
+- Tags: Brain, eating, Matching, Worm

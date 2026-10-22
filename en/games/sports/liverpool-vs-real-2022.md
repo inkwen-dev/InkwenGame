@@ -19,6 +19,6 @@ This is your chance to win the championship. Choose Liverpool F.C. or Real madri
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Soccer, Sport, Sports

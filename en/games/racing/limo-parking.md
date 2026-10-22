@@ -19,6 +19,6 @@ You are the king of the road! For the most lucrative parking, exercise patience,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, drift, drifting, Driving, Girls, Parking

@@ -21,4 +21,4 @@ Collect and stack as many food as possible and close to your partner to win the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Arena, Battle, burger, Collecting, Collection, Food, HTML5, Hypercasual, Mobile, Online, run, Skill
+- Tags: 3D, 3D Games, Arcade, Arena, Battle, Burger, Collecting, Collection, Food, HTML5, Hypercasual, Mobile, Online, run, Skill

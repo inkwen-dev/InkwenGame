@@ -19,6 +19,6 @@ Kill and hide bodies in this fun online murder game. Try to kill as many people 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Halloween, Kill, Killing

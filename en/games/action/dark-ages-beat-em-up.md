@@ -19,6 +19,6 @@ Doom: The Dark Ages reimagined as an illustrated arcade beat em up. Master the f
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Brawl, Fight, Fighting

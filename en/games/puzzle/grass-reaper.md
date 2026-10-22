@@ -19,6 +19,6 @@ Grass Reaper is a casual mini game that only requires you to control the reaper 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, cut, HTML5, Kids, Mobile, Skill

@@ -19,6 +19,6 @@ We invite you to visit the dreams in the game Valto Jumper, they are often fanta
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Collecting, Fun, HTML5, jump, Jumping, Mobile, Skill

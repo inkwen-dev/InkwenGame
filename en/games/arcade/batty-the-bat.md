@@ -19,6 +19,6 @@ Test your bat flying skill, collect all pumpkins and celebrate Halloween with Ba
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Animal, Casual, Click, Flight, Girl, Halloween, HTML5, Physics

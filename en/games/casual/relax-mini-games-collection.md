@@ -19,6 +19,6 @@ This is a collection of creative and fun mini-games. The game contains a variety
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Cleaning, Collection, Color

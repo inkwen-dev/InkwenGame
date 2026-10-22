@@ -19,6 +19,6 @@ Master the art of precision driving in Police Car Parking 2026! Navigate challen
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: carparking, Driving, Police, Skill, Unity3D, WebGL

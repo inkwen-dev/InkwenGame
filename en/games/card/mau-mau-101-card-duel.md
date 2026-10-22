@@ -17,4 +17,4 @@ Dive into Mau-Mau - 101 Card Duel, where both wit and strategy shine. Discard yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

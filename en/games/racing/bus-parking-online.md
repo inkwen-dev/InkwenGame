@@ -19,6 +19,6 @@ Are you good at vehicle parking games? Now we need some professional drivers lik
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, bus, Car, Driving, HTML5, Mobile, Parking, Simulation

@@ -19,6 +19,6 @@ In the Ultimate Robo Duel 3D game, you can fight in the arena with advanced robo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Battle, Fight, Fighting, Monster, Robot, War

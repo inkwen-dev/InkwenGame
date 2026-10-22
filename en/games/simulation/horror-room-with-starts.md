@@ -17,4 +17,4 @@ Create the ultimate haunted experience in "Horror Room With Starts." Customize e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

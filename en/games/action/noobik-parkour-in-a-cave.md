@@ -21,4 +21,4 @@ The game has 10 hardcore levels! To complete the level, you need to get to the f
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Android, Arcade, rpg
+- Tags: 1 Player, 3D, Android, Arcade, RPG

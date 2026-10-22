@@ -19,6 +19,6 @@ Welcome to Fruit Picking Fun, a delightful and engaging game for all ages! Dive 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Baby Hazel, Best, Best Games, Educational, Hypercasual, Kids, NapTech Games, Online, Puzzle

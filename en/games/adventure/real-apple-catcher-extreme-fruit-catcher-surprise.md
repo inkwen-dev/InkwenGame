@@ -19,6 +19,6 @@ The Real Battle between YOU and APPLES. Prove yourself the real apple catcher. I
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arena, Classic, Fruit

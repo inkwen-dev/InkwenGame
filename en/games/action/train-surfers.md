@@ -21,4 +21,4 @@ Play Train Surfers - Run, jump, turn and slide through the endless. Save yoursel
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Arcade, Fun, running, Strategy, subway, Subway Surfers, train
+- Tags: 3D, Action, Arcade, Fun, running, Strategy, subway, Subway Surfers, Train

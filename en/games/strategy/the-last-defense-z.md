@@ -19,6 +19,6 @@ Shoot the zombies and destroy them! Stop the increasingly difficult zombie raids
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Hypercasual, Minecraft, Shoot 'Em Up, Shooter, Shooting, Tower Defense, Zombie

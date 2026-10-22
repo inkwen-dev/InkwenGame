@@ -21,4 +21,4 @@ Discover the fantastic farm of Masha and the bear through these 30 educational g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Anime, Cartoon, Cartoon Network, Draw, Educational, farm, Girls, Horse, Kid, Kids, Magic, Online, Princess, School, Simulator
+- Tags: Animal, Anime, Cartoon, Cartoon Network, Draw, Educational, Farm, Girls, Horse, Kid, Kids, Magic, Online, Princess, School, Simulator

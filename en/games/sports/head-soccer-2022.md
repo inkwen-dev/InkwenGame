@@ -19,6 +19,6 @@ Get ready for a brand new head soccer adventure! The game offers 1 and 2 player 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Android, Ball, Football, Mobile, Skill, Soccer, Sport

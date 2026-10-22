@@ -21,4 +21,4 @@ play the mobile game Sea Match 3 on your smartphone, pad or tablet directly with
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Arcade, Block, Bubble, Collecting, Cool, Friv, Games, HTML5, Match 3, Puzzle
+- Tags: 1 Player, Arcade, Block, Bubble, Collecting, Cool, Friv, Games, HTML5, Match-3, Puzzle

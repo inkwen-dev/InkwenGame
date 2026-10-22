@@ -19,6 +19,6 @@ Solve a variety of 3&times;3 and 3&times;4 slide puzzles featuring cute animal d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Fun, Funny, Kids, Skill, sliding

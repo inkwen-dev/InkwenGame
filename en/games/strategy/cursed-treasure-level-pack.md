@@ -19,6 +19,6 @@ Level pack for the popular tower defense game Cursed Treasure. It includes the s
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Defense, Fantasy, HTML5, Jewel, Strategy, Tower Defense

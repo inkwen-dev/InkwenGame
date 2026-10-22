@@ -19,6 +19,6 @@ Welcome to Portal Through It, a puzzle game that will put your problem-solving s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Boys, Clicker, mouse, Puzzle, Skill
+- Tags: 2D, Boys, Clicker, Mouse, Puzzle, Skill

@@ -19,6 +19,6 @@ Running games for kids and adults! This is a cartoon runner game! Play frozen ad
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Disney, Elsa, endless, Frozen, Fun, Games, Kids, run, running, Snow, Subway Surfers, surfers

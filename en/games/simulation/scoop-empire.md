@@ -31,4 +31,4 @@ Run your own ice cream shop and grow it into an empire! Serve customers, collect
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, ice-cream, management, Simulation, tycoon
+- Tags: 3D, Arcade, ice-cream, Management, Simulation, tycoon

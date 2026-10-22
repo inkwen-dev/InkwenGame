@@ -21,4 +21,4 @@ Night Lake is a calm night fishing game with a touch of mystery. You are a lone 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, fishing, Monster, Relaxation
+- Tags: Boat, Fishing, Monster, Relaxation

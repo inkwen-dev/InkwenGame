@@ -19,6 +19,6 @@ How exciting! A new baby in the family needs your love and care. Welcome your ne
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cooking, Cute, Decorate, Design, Doctor, Dress Up, Educational, Girl, Girls, Kids, Simulation

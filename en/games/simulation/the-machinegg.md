@@ -29,4 +29,4 @@ And please… treat the chickens well.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, farm, idle, management
+- Tags: animals, Farm, idle, Management

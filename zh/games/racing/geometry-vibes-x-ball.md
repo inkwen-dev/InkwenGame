@@ -45,4 +45,4 @@ Geometry Vibes X-Ball 可以在移动设备上玩吗？
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 移动设备
+- 标签: 手机

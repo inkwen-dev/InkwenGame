@@ -19,6 +19,6 @@ Infiltration of the police base is an online video game that takes players on a 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Arcade, Gun, Killing, Police, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL

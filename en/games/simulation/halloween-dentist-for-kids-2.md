@@ -19,6 +19,6 @@ Even monsters need a trip to the dentist! Welcome to a Halloween clinic packed w
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, mapi games, Monster, Simulation, Zombie

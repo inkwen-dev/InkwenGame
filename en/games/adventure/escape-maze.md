@@ -19,6 +19,6 @@ Escape Maze is a sleek and immersive 2D maze puzzle game that challenges your lo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Casual, Maze, Puzzle, Skill

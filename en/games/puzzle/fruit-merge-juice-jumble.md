@@ -19,6 +19,6 @@ Instructions: Drop fruits into the box and merge two of the same fruit to create
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2048, 2D, free html5 games for your website, Fruit, Fruits

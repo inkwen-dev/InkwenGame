@@ -19,6 +19,6 @@ Ninja Ghost immerses you in the world of a ninja on a mission to confront notori
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, iPad, iPhone, Level, Mentolatux, Mobile, Ninja, Unity3D, WebGL

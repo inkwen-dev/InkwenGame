@@ -19,6 +19,6 @@ The new offline games for boys. If youre looking for a top truck simulator army 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Action, Adventure, Car, Simulation, Simulator, Truck, trucks

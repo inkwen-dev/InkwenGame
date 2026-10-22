@@ -19,6 +19,6 @@ Enjoy endless combinations of nail shapes, colors and patterns! Unlock various a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Arcade, Casual, Girl, HTML5, Nail, Nails

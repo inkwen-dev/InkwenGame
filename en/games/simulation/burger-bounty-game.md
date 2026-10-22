@@ -21,4 +21,4 @@ You want to know what it&rsquo;s like to run your own burger joint? Well, now yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Cooking, Decoration, Food, Funny, HTML5, management, Mobile, Simulation
+- Tags: Android, Cooking, Decoration, Food, Funny, HTML5, Management, Mobile, Simulation

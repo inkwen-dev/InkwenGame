@@ -19,6 +19,6 @@ Do you want to get in on the coolest hairstyles out there? Weve got a braided ha
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Dress Up, Fashion, Girls, Hair, Makeover

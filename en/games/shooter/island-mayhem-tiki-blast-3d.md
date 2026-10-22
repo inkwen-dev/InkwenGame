@@ -19,6 +19,6 @@ Island Mayhem is a colorful 3D cannon shooting and physics puzzle game. Join Bon
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, cannon, Casual, Island, Physics, Pirate, Shooting, smash

@@ -19,6 +19,6 @@ While you're competing in The Zombie Hunger Game, you can have a good time. Ther
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Crazy, HTML, HTML5, Mobile, Shooting, Unity3D, WebGL, Zombie

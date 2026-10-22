@@ -51,4 +51,4 @@ Shimpanzinni Bananinni、Boneca Ambalabu、Tralalero Tralala 等等，更多角�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 大脑, 颜色, 绘画, 孩子们, 移动设备, 拼图
+- 标签: 大脑, 颜色, 繪畫, 儿童, 移动, 益智类

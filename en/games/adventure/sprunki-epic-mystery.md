@@ -19,6 +19,6 @@ Sprunki Epic Mystery is a real horror game in sprunki world. Collect all item be
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Sprunki

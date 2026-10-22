@@ -21,4 +21,4 @@ Do you have what it takes to be the Champion? Choose your weapon and take to the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Action, Adult, Baby, Ball, Bejeweled, Blood, Business, Cake, Casino, Click, Collection, Cute, Friv, Sofia, sudoku, temple, Turn Based, Zombie
+- Tags: 3D Games, 8 Ball Pool, Action, Adult, Baby, Ball, Bejeweled, Blood, Business, Cake, Casino, Click, Collection, Cute, Friv, Sofia, Sudoku, temple, Turn Based, Zombie

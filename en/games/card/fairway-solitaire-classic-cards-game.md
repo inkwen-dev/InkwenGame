@@ -21,4 +21,4 @@ A simple, yet funny solitaire card game. Try to win as many rounds of golf solit
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, Classic, Golf, Poker, Puzzle, Solitaire
+- Tags: Card, Casual, Classic, Golf, Poker, Puzzle, Solitaire

@@ -19,6 +19,6 @@ Bounce, rebound, hop and spring! The Alien Bounce game is a very fun game. Offer
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Aircraft, Alien, Casual, Crafting, endless, Fire, Platform, run, running

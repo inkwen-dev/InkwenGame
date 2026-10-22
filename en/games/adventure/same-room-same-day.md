@@ -32,4 +32,4 @@ Experience the thrilling psychological horror of "Same Room Same Day." As Rosali
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Ghost, horror, pve, scary, survival
+- Tags: Ghost, Horror, pve, scary, survival

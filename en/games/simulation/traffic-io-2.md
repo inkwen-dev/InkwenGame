@@ -17,4 +17,4 @@ Maintain composure amidst urban chaos in Traffic.io, as you deftly manage the sw
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

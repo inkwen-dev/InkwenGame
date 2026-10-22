@@ -32,4 +32,4 @@ Gameplay Highlights:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, animals, Crafting, rpg, survival
+- Tags: Adventure, animals, Crafting, RPG, survival

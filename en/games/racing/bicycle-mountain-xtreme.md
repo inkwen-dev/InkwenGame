@@ -24,4 +24,4 @@ The game feels smooth and fun because it uses realistic physics, has procedurall
 - Plays on: mobile
 - Game language: en
 - Developer: Playgama
-- Tags: bicycle, Racing
+- Tags: Bicycle, Racing

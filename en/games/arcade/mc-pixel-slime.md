@@ -19,6 +19,6 @@ Minecraft Pixel Slime is a unique auto-platformer that challenges you to get the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Arcade, Craft, Mine, Minecraft

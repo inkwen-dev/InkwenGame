@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 街机, Clicker, 合并, 物理, 拼图, watermelon
+- 标签: 街机, 点击器, 合并, 物理, 益智, 西瓜

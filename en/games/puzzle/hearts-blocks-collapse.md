@@ -19,6 +19,6 @@ Click on blocks to remove them in this fun heart filled game. Remove hearts of t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Block, Girls, HTML5, Matching, Mobile

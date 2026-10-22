@@ -19,6 +19,6 @@ This is a unique relaxing idle miner game. It is based on the stickman universe.
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: farm, Miner, Stickman, Strategy
+- Tags: Farm, Miner, Stickman, Strategy

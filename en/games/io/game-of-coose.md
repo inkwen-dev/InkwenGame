@@ -19,6 +19,6 @@ Lovely ducklings decided to swim in the lake. However, they have a long way to g
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Brain, Click, Clicker, HTML, HTML5, Puzzle

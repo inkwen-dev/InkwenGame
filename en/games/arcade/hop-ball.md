@@ -19,6 +19,6 @@ Come on! Test your reflexes and hop skills! Hop Ball is a ball game that lets ba
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Avoid, Highscore, jump, Jumping

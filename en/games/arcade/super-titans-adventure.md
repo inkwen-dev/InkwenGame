@@ -21,4 +21,4 @@ Welcome to Teen Ben Titan Jungle Go Adventure Game, the world’s most creative 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Cartoon, Cartoon Network, Games, movie
+- Tags: Adventure, Arcade, Cartoon, Cartoon Network, Games, Movie

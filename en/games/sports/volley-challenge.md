@@ -19,6 +19,6 @@ Volley Challenge Compete with your friends Start right now! Features: Over 100 l
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player, 3D Games, Ball, Hypercasual, Sport, Sports

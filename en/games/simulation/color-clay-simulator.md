@@ -19,6 +19,6 @@ Super hypercasual game is coming. Choose what you like and learn how to make a r
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Cook, Girl, HTML5, Hypercasual, Kids, Mobile, Online, Relaxation

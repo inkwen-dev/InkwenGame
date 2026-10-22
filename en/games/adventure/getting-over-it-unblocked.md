@@ -19,6 +19,6 @@ Start the most wonderful climbing adventure ever at Getting Over It Unblocked. T
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, jump, Skill

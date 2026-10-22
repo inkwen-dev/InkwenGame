@@ -19,6 +19,6 @@ Let's make a delicious yummy cookie for these wonderful sisters Ava and Mia. The
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cook, Dress Up, Fashion

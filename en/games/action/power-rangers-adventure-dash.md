@@ -19,6 +19,6 @@ power rangers adventure dash - Run and jump is the best action rangers game fore
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Escape, Fight, Fighting, Fire, jump, Jumping, Obstacle, run, running

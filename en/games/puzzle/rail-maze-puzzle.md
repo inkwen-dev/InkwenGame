@@ -19,6 +19,6 @@ Rail Maze Puzzle is a classic maze puzzle game for kids and adults with various 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Logical, Mind, Skills

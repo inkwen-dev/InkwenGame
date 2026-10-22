@@ -19,6 +19,6 @@ Ready to have fun? Brand new high heels girl runner game with easy gameplay wher
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D, Action, Adventure, Baby Hazel, Classic, Fun, Funny, jump, Jumping, Race, run, Unity3D

@@ -19,6 +19,6 @@ Think fast, blast smart &mdash; can you beat your best score? Blast blocks, fit 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, blockchain, blocky, Board, Brain, Bricks, Casual, Classic, Cool, Cute, destroy, endless, Puzzle, puzzleblock

@@ -17,4 +17,4 @@ Embark on a vibrant underwater journey with Fishdom Mania, where strategic puzzl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

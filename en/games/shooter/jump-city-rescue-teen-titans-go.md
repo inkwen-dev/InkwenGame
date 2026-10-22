@@ -19,6 +19,6 @@ It's possible now to play Jump City Rescue - Teen Titans Go a Cartoon Network ga
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Anime, Army, Battle, Ben 10, Best, Bomb, Boys, Brain, Cartoon, Cartoon Network, Defense, Family, Girls, HTML5, Jumping, Kids, Mobile, Monster, Rescue, running, Shooting, Superhero

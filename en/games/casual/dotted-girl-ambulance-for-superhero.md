@@ -19,6 +19,6 @@ Oh no! Superheroine Dotted-girl is in trouble. Urgently call an ambulance and ta
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Girl, Ladybug, Miraculous Ladybug

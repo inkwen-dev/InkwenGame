@@ -19,6 +19,6 @@ Pull The Rocket is an arcade game. You need to drop all the balls into the bucke
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Bomb, Casual, Game, Kid, Kids, Puzzle

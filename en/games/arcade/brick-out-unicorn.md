@@ -19,6 +19,6 @@ Break all bricks in brick breaker Unicorn. The aim of the game is to destroy all
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Bricks, Hypercasual

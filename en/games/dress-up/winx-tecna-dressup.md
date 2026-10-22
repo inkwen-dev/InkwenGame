@@ -19,6 +19,6 @@ Winx Tecna will meet with their friends at the cinema. She must be very elegant 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Fashion, Game, Games, Girl, Girls, HTML5

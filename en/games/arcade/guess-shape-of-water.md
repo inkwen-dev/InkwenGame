@@ -19,6 +19,6 @@ How smart do you think you are? This is not your normal water puzzle game. This 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Educational, Guessing, HTML5, Puzzle

@@ -19,6 +19,6 @@ a calm and creative interactive game for kids that combines outline drawing and 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Casual, Coloring, Cute, Drawing, Educational, HTML5, Kids, Mobile, Relaxation

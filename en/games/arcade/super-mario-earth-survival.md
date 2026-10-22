@@ -19,6 +19,6 @@ Use arrow keys or tap on the buttons to run. Do not let enemies to hit the EARTH
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Cartoon, Collecting, HTML5, Kids, Mario, Mobile, Skill, Superhero

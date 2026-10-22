@@ -19,6 +19,6 @@ Soccer Skills Runner is a fun and fast running game with a soccer theme! As you 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Football, HTML5, Jumping, running, Skills, Soccer, subway, Subway Surfers

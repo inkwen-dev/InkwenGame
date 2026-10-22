@@ -19,6 +19,6 @@ Welcome to Snowman&rsquo;s Naughty Trap! Santa Claus is in trouble, and only you
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure

@@ -19,6 +19,6 @@ The character of the game in love with a princess who was kidnapped by villains.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Bridge, HTML, HTML5, Hypercasual, Love, Online, Princess, Puzzle

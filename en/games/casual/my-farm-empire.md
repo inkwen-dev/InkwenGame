@@ -21,4 +21,4 @@ My Farm Empire is a fun and relaxing game that lets you create your own farm par
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, Casual, Collecting, farm, Food, Fruit, Girls, Kids, Stickman
+- Tags: Boys, Casual, Collecting, Farm, Food, Fruit, Girls, Kids, Stickman

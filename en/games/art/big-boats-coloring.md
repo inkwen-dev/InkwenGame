@@ -21,4 +21,4 @@ Big Boats Coloring is a free online game from genre of memory and monsters truck
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Coloring, Fun, HTML5, Kids, Mobile
+- Tags: Boat, Coloring, Fun, HTML5, Kids, Mobile

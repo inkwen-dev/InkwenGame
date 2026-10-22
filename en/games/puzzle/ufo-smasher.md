@@ -19,6 +19,6 @@ UFO Smasher Ninja escape Hero Rescue Ball Blaster Dont Crash Zombies Night game 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Bubble Shooter, Fantasy, Interactive, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting, Truck

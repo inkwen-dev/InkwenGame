@@ -19,6 +19,6 @@ This is a very interesting game,the player controls the mouse to make themselves
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Arena, Ball, Boy, Boys, Clicker

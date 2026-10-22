@@ -19,6 +19,6 @@ Crazy Bubble Breaker is a fun and challenging 2D bubble shooter physics puzzle g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Ball, Boys, Crazy, Girls, Kids, Timing

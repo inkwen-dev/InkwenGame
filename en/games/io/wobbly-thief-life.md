@@ -19,6 +19,6 @@ Welcome all to the real Wobbly Thief Life Game, it will be amazing to play with 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, Arcade, Hypercasual

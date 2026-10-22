@@ -19,6 +19,6 @@ Are you into Mickey Mouse ? Mickey Mouse Coloring Book: A Stunning Coloring Book
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, New, Online, Puzzle

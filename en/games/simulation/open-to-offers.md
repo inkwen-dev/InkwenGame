@@ -35,4 +35,4 @@ Put your finds up for sale and haggle with buyers in chats. Everyone has their o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Clicker, management, Simulation, Skill, tycoon
+- Tags: Arcade, Clicker, Management, Simulation, Skill, tycoon

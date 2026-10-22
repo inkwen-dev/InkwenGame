@@ -19,6 +19,6 @@ ABC Halloween is a delightful educational game for kids ages 2-6, combining alph
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Educational, HTML, html5 games, NapTech Games

@@ -21,4 +21,4 @@ Hello Dear players in this game you will challenge your friends in multiplayer t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Battle, Fighting, firefighters, Gun, html5 games, Matching, Multiplayer, Online, pvp, rpg, Shooter, two player games
+- Tags: 3D Games, Action, Battle, Fighting, firefighters, Gun, html5 games, Matching, Multiplayer, Online, PvP, RPG, Shooter, two player games

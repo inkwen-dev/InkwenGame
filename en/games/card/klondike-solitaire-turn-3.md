@@ -19,6 +19,6 @@ A classic solitaire game where you draw cards 3 by 3. You must rebuild the 4 sui
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Solitaire
+- Tags: Card, Solitaire

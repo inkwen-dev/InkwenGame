@@ -19,6 +19,6 @@ Even as a child, one of the exciting activities was to launch airplanes, which w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Click, Clicker, Hot, HTML, HTML5, Hypercasual, Plane, Race, run, running

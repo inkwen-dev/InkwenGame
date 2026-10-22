@@ -19,6 +19,6 @@ Are you a devoted member of the Mafia, tasked with undertaking audacious heists,
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, HTML5, iPad, iPhone, Mentolatux, Mobile, Police, Skill, sneak, steal, Thief, unity games, WebGL

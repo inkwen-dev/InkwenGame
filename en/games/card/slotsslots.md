@@ -21,4 +21,4 @@ This slot machine is the ultimate lucky charm in online casino!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casino, Castle, Girl, Machine, Slot Machine
+- Tags: Card, Casino, Castle, Girl, Machine, Slot Machine

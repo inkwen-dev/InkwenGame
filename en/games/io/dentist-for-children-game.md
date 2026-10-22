@@ -19,6 +19,6 @@ Another game about dentist has come to our list of kids' games: Dentist for chil
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, 3D, Action, Arcade, Castle, Casual, Doctor, Fun, Funny, Hidden, Hypercasual, Unity3D

@@ -19,6 +19,6 @@ Control a train which is running on tracks just above the ground in this challen
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, Simulator, train, Unity3D, WebGL
+- Tags: Driving, Simulator, Train, Unity3D, WebGL

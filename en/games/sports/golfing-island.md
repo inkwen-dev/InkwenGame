@@ -19,6 +19,6 @@ Prepare to enjoy a fun and different golf game. Overcome 20 hard levels full of 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Golf, Obstacle, Platform, Shooting, Sports

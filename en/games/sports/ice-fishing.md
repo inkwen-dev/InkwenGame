@@ -21,4 +21,4 @@ What will be your biggest catch? Find the Perfect Location. Choose the Right Bai
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Fish, fishing, Ice, Winter
+- Tags: 1 Player, 3D, Fish, Fishing, Ice, Winter

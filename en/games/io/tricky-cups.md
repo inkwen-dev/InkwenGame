@@ -19,6 +19,6 @@ Do you have what it takes to become the MASTER OF CUPS? The idea is simple: move
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, 3D, Adventure, Arcade, Ball, Puzzle

@@ -19,6 +19,6 @@ Fit is a tetris like arcade game where you need to match the falling shape with 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Relaxation, Unity3D, WebGL

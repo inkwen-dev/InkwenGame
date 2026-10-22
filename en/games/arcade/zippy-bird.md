@@ -19,6 +19,6 @@ Help Zippy Bird fly through gaps in pipes! Tap to flap and avoid obstacles in th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Air, amazing, Android, Arcade, Best, Best Games, Bird, Click, Clicker, Cool, Crazy, Highscore, sky

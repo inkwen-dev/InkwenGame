@@ -19,6 +19,6 @@ Minnie Mouse is Mickey Mouse's girlfriend cartoon character. Minnie enjoys dinne
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Decorate, Dress Up, Fashion, Fun, Game, Games, HTML5

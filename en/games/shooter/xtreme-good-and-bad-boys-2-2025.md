@@ -19,6 +19,6 @@ A gripping thriller about two estranged brothers, one a cop and the other a crim
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: First Person Shooter, Mentolatux, Multiplayer, Shooting, Unity3D, WebGL

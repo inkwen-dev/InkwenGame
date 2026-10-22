@@ -19,6 +19,6 @@ Tap on green, spike over the block, win the cup! Netherton Volleyball is a quick
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Ball, HTML5, management, Mobile, NoViolence, Pixel, Retro, Skill, Sport, Sports, Timing
+- Tags: 1 Player, Ball, HTML5, Management, Mobile, NoViolence, Pixel, Retro, Skill, Sport, Sports, Timing

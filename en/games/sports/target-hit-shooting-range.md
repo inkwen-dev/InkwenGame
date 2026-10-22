@@ -19,6 +19,6 @@ Welcome to Target Hit Shooting Range, a thrilling 3D world that blends firearms,
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best Games, free html5 games for your website, Gun, Shoot, Shooting, Skill, Sports, unity games, WebGL

@@ -19,6 +19,6 @@ Welcome to My Baby Unicorn - Pony Care, a casual baby pet care game for girl pla
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Funny, Simulation

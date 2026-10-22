@@ -19,6 +19,6 @@ The Troll Stick brothers need to collect all the money and become very rich. Hel
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Best, Mobile, Stickman

@@ -19,6 +19,6 @@ Dive into the juicy world of fruity fun! In this exciting game, youll be shootin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best Games, Bubble, Bubble Shooter, Casual, Classic, free html5 games for your website, Fruit, Fruits, Highscore, Hypercasual, Mobile, Relaxation, Shooting

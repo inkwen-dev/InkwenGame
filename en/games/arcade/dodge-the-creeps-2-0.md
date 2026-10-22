@@ -19,6 +19,6 @@ This is a simple 2D arcade game. In this game your character must move and avoid
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Cool, Escape, Fun, Levels, survival, Unity3D, WebGL

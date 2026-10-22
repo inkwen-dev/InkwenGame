@@ -19,6 +19,6 @@ Smart Looter is a new addictive 3D game, featuring colorfull environments and ho
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Batman, Battle, Ben 10, Boys, Brain, Family, Girl, Kids, Puzzle, Racing, Supercars, Superhero

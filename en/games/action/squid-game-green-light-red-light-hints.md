@@ -19,6 +19,6 @@ Invite to Squid Game. Invite to a fair game of Red lights, eco-friendly lights. 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Best, Crazy, Game, HTML, HTML5, Mobile, run, running, Skills, Unity3D

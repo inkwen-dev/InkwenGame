@@ -19,6 +19,6 @@ Have fun Jeep Drive Prisoner Transport Sim mobile ready in any android or iPhone
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Driving, HTML5, Mobile, Race, Simulator, Supercars, Truck

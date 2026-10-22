@@ -19,6 +19,6 @@ Touch or click to collect elemental blocks of the same type that are horizontall
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Collecting, HTML5, Matching, Mobile, Puzzle

@@ -19,6 +19,6 @@ There is no girl who doesnt like fashion! Even a little girl like Taylor loves s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cute, Decorate, Design, Dress Up, Fashion, Girl, Girls, Kids, Makeover, Simulation

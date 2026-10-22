@@ -17,4 +17,4 @@ Survive the terror of Granny Halloween House, a haunted escape challenge filled 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -21,4 +21,4 @@ Help the pirate find pairs. Tap on any card to open it. Find the appropriate car
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, card, HTML5
+- Tags: 1 Player, Card, HTML5

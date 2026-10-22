@@ -19,6 +19,6 @@ Start fleeing, join the crowds, and build the most zombie-infested metropolis yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Android, Clicker, HTML5, Mobile, Unity3D, Zombie

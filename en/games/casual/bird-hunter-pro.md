@@ -17,4 +17,4 @@ Dive into the thrilling pursuit of Bird Hunter Pro, where your aim and precision
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: hunting
+- Tags: Hunting

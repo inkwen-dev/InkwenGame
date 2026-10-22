@@ -19,6 +19,6 @@ Help Super Jesse Pink recover his power crystal by facing various monsters, ambu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Monster, Pixel, Platform, Retro

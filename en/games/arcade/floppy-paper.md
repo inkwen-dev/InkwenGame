@@ -19,6 +19,6 @@ The Floppy Paper Game is one of the most creative and fun games that you can pla
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Bird, Casual, Classic, fly, H5, HTML, HTML5, Plane

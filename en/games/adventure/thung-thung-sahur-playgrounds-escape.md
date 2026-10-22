@@ -19,6 +19,6 @@ Thung Thung Sahur Playgrounds Escape is a survival horror. You must find a way t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: horror, Tung Tung Tung, Tung Tung Tung Sahur
+- Tags: Horror, Tung Tung Tung, Tung Tung Tung Sahur

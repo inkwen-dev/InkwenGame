@@ -21,4 +21,4 @@ Boat Drive is a realistic 3D boat driving simulator. You can choose from three d
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Driving
+- Tags: Boat, Driving

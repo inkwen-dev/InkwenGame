@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 脑残, 脑残意大利版, 脑残萨胡尔, 抓到, 意大利脑残, Minecraft, roblox, 奔跑, 奔跑, 偷取
+- 标签: 脑残, 意大利脑残, 脑残萨胡尔, 捕捉, 意大利脑残, 我的世界, roblox, 跑, 跑步, 窃取

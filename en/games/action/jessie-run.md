@@ -19,6 +19,6 @@ All you need to do is control Jessie by using the arrow keys on your keyboard. Y
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arcade, Girl, Girls, HTML, HTML5, Hypercasual, jump, Jumping, run, running, subway, Subway Surfers, Unity3D

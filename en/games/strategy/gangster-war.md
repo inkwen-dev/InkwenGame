@@ -19,6 +19,6 @@ Get ready for fun and action-packed gang warfare. Fight against gang members try
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Best, Casual, Defense, Hot, Hypercasual, Shoot, Shooter, Strategy, Tower Defense, War, WebGL

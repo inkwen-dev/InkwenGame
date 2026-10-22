@@ -31,4 +31,4 @@ Watch each movement direction, plan the order, and guide cows, sheep, chickens, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, farm
+- Tags: 3D, Farm

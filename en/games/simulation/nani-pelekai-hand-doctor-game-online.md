@@ -19,6 +19,6 @@ Nani Peleka Get pain on hand and need doctor because hurt hand so in this Nani P
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Anime, Cartoon, Cartoon Network, Disney, Doctor, Fun, Girls, Kids, Simulation, Surgery

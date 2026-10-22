@@ -19,6 +19,6 @@ Can we assume that you know the story of a gentle Beauty and her beloved Monster
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cartoon, Cartoon Network, HTML5, Jigsaw, Kids, Puzzle

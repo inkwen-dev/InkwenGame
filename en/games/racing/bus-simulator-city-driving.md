@@ -19,6 +19,6 @@ Bus Simulator: City Driving is a realistic bus simulator game where you will dri
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, city, Driving, Racing, Simulator, Unity3D, WebGL

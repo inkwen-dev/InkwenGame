@@ -19,6 +19,6 @@ The pillar is full of glass tiles . Tap the player to ascend and break the glass
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, fly, jump, Jumping, Obstacle, Unity3D

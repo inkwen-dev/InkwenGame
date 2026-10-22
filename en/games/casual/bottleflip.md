@@ -19,6 +19,6 @@ Test your timing and reflexes in this fun fruit-flipping challenge! Be careful n
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Funny, Mobile, onetouch, Physics

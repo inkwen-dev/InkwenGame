@@ -19,6 +19,6 @@ best pool gaming with 3D graphics &amp; real-time 3D Zoom! So interesting, you c
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Sport, Sports, Unity3D

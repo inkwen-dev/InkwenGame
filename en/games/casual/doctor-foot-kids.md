@@ -19,6 +19,6 @@ Ouch! My feet hurt! Can you help me, doctor? I know you have the best tools to m
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Baby, Baby Games, Baby Hazel, Doctor, Kid, Kids

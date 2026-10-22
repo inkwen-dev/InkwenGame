@@ -19,6 +19,6 @@ Enter the terrifying maze and try to escape before Granny finds you! Scary Grann
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, amazing, Casual, Escape, Ghost, Granny, horror, hospital, Unity3D
+- Tags: 1 Player, 2026 games, amazing, Casual, Escape, Ghost, Granny, Horror, hospital, Unity3D

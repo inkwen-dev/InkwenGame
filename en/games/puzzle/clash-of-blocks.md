@@ -19,6 +19,6 @@ In Clash of Blocks 2, your job is to strategically place your own block so that 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Boys, Clash, Fun, Funny, Girls, HTML5, Kids, Mobile

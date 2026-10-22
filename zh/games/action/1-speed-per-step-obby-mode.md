@@ -91,4 +91,4 @@ WASD – 移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 街机, 障碍, 奔跑
+- 标签: 街机, 障碍, 跑步

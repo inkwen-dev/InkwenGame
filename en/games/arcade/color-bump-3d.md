@@ -19,6 +19,6 @@ Your newest addiction comes in 3D! Very easy to play, too hard to master Do not 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Android, Arcade, Cool, Game, Games, HTML, HTML5, Kid, Kids, Obstacle, Play, Puzzle, Relaxation

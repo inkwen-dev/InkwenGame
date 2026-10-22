@@ -19,6 +19,6 @@ Every girl loves summer, and girls can wear their most beautiful costumes. The s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Decorate, Design, Dress Up, Elsa, Frozen, Girl, Girls, Kids, Makeover, Princess, Simulation

@@ -19,6 +19,6 @@ Path Control is a popular and free online game for boys, in which you need to ro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Ball, Boy, Brain, Fun, HTML5, Kids, Obstacle, Online, Physics, Platform, Puzzle

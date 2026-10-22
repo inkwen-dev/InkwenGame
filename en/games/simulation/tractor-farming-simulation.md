@@ -21,4 +21,4 @@ The farming season is finally here. Get ready to experience the joy of farming a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, farm, Mobile, Simulation
+- Tags: 3D, 3D Games, Arcade, Farm, Mobile, Simulation

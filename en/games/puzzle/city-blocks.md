@@ -19,6 +19,6 @@ City Blocks is a match-3 puzzle game. Strategically place new buildings and upgr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Block, Casual, Highscore, Logic, Logical, Match 3, Match3, Puzzle, Strategy, Unity3D, WebGL

@@ -19,6 +19,6 @@ It's possible now to play Muppet Babies: Animal's Silly Seasons a Disney game in
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Baby Hazel, Boys, Brain, Cartoon, Cool, Disney, Dress Up, Family, Fun, Girls, HTML, Kid, Mobile, Ninjago, Snow, Summer, Winter

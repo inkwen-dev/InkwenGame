@@ -19,6 +19,6 @@ Princess Unicorn Food is a very enjoyable cooking game with unicorn element in i
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Candy, Cooking, Cute, Food, Fun, Girl, Kid

@@ -19,6 +19,6 @@ Are you Ready to play againt time and connect monter tiles in this amazing puzzl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Clicker, Hot, Mahjong, Match3, Matching, Monster, Puzzle

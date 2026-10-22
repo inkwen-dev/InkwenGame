@@ -19,6 +19,6 @@ Triset.io is a fast paced multiplayer puzzle game where your objective is to cap
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Best, Bomb, Casual, Clicker, Fun, HTML5, Hypercasual, Multiplayer, Puzzle, Tetris

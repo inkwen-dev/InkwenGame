@@ -19,6 +19,6 @@ Pick up all of the customers and drop them off quickly without causing any accid
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Car, Casual, Driving, Hypercasual, Racing, Taxi

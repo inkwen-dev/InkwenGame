@@ -19,6 +19,6 @@ Try this nice game of cards, you must find all pairs equally among all the cards
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Baby, Brain, card, Educational, Family, HTML, HTML5, Kid, Kids, Match 3, Matching, Memory, Mobile, Puzzle
+- Tags: 2D, Animal, Baby, Brain, Card, Educational, Family, HTML, HTML5, Kid, Kids, Match 3, Matching, Memory, Mobile, Puzzle

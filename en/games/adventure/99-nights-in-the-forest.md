@@ -34,4 +34,4 @@ Will you survive and make it through all 99 nights?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Crafting, horror, survival
+- Tags: Adventure, Crafting, Horror, survival

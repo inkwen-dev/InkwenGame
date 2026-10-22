@@ -19,6 +19,6 @@ Sudoku Puzzle Game Sudoku is a classic logic-based puzzle game designed to chall
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2026 games, 2D, Punch, Puzzle, puzzleblock

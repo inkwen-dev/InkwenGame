@@ -19,6 +19,6 @@ Toca Coloring Book is a fun and creative coloring game where you can bring cute 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cartoon, Coloring, Educational, Fun, Girls, Hypercasual, Kids, paint, Relaxation, School

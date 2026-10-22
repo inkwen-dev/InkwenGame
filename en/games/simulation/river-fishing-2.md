@@ -17,4 +17,4 @@ Embark on a tranquil fishing journey, selecting the perfect bait and mastering b
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

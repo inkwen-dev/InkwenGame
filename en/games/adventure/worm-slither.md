@@ -19,6 +19,6 @@ Worm Slither is fun addictive adventure game.Eat the bugs to make your worm bigg
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Casual, Slither, Snake, worm, Worms
+- Tags: Adventure, Casual, Slither, Snake, Worm, Worms

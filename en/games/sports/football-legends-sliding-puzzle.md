@@ -19,6 +19,6 @@ In this game, you will find a set of sixteen puzzle pieces. Judging by the name,
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Best, Best Games, Football, Fun, Funny, Kids, Mobile, sliding, Soccer

@@ -19,6 +19,6 @@ Crazy Math Quik Games - Tricky Riddles is an addictive free puzzle &amp; math ga
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best Games, Brain, Educational, Logic, Logical, Math, Number, Puzzle, Quiz

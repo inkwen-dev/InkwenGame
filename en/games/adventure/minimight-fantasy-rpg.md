@@ -21,4 +21,4 @@ MiniMight: Fantasy RPG is a casual fantasy role-playing game where you lead a sm
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, rpg
+- Tags: Adventure, RPG

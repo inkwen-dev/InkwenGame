@@ -19,6 +19,6 @@ This is a skill based puzzle game. You will see a board filled with different ca
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Board, Halloween, Hidden, HTML5, Kids, Mobile, Puzzle

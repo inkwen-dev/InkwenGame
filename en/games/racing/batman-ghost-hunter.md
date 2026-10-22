@@ -19,6 +19,6 @@ Ghosts have taken over Gotham City. Batman has to defeat the ghosts. Make the ci
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Batman, Car, Cartoon, Fun, Game, Games, HTML5, Shoot, Shooting

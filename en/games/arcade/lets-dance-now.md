@@ -19,6 +19,6 @@ Welcome to the Let's Dance game, in which you have to do different dance moves t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Baby Hazel, Dancing, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Kids, Physics

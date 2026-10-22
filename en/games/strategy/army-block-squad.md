@@ -19,6 +19,6 @@ A new kiz10 Game, Take control of your batallion to survive from epic war. Build
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, kiz10, Strategy

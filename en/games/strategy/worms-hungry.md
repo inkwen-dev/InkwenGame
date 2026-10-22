@@ -19,6 +19,6 @@ worms Hungry is a puzzle game with 80 different levels. Your goal is to collect 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Puzzle, Strategy, Worms

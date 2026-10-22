@@ -27,4 +27,4 @@ Are you ready to become a teacher?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Girls, idle, Kids, management
+- Tags: Girls, idle, Kids, Management

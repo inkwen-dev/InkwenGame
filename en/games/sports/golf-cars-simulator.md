@@ -19,6 +19,6 @@ Golf Cars Simulator is an online car stunts simulator. You can customize differe
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, drifting, Driving, Simulator, Stunts

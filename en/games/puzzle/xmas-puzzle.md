@@ -19,6 +19,6 @@ How would you like to play a fun puzzle game that will give you the spirit of Ch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Fun, Jigsaw, Kids, Puzzle

@@ -21,4 +21,4 @@ Crazy Sea Battle is an exciting ocean-based battle royale where you compete agai
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Casual, survival, water
+- Tags: Boat, Casual, survival, water

@@ -19,6 +19,6 @@ A dollhouse and fashion for girls! Building, creation and craft! It is the best 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Cleaning, Cool, Creation, Fun, management
+- Tags: Baby, Cleaning, Cool, Creation, Fun, Management

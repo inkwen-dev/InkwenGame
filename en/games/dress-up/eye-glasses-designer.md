@@ -19,6 +19,6 @@ The cute princess MIa, Bella, Ada and Claire are planning to design their eyegla
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Design, Disney, Doctor, Dora, Dress Up, Family, Girls, Kids

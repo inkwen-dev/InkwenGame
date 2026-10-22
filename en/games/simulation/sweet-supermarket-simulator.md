@@ -28,4 +28,4 @@ Movement: W,A,S,D keys or mouse/touch
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Simulation, tycoon
+- Tags: Management, Simulation, tycoon

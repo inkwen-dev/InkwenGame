@@ -19,6 +19,6 @@ Slap Kings is a cool 3D game, upgrade skills, and become stronger. In the game, 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boys, Funny, H5, HTML5, Hypercasual, Kids, Mobile, Online, Skill, Skills

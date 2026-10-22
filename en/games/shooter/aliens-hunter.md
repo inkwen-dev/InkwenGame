@@ -21,4 +21,4 @@ You are an alien hunter and your mission is to use your abilities to find the al
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Gun, hunting, pve, Shooting, Sniper
+- Tags: Adventure, Gun, Hunting, pve, Shooting, Sniper

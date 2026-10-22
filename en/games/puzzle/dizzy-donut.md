@@ -19,6 +19,6 @@ It’s Dizzy Donut the hottest game on the charts at the moment! Tap To Match Th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Brain, Cake, Cute, Family, Girl, Girls, HTML, HTML5, Matching, Memory, Puzzle

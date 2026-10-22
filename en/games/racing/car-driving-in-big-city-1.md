@@ -19,6 +19,6 @@ Looking for an extremely amazing car parking game? FROLICS presents a physics-ba
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, Cars, drift, drifting, Driving, Love, Parking, Simulation, Simulator, Supercars, Truck

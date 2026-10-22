@@ -19,6 +19,6 @@ Arrow Fest is actually not a bow launching simulation game but a skillful avoidi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, 3D Games, Action, Adventure, Arcade, Batman, Ben 10, Best, Casual, Games, Girl, Girls, Hypercasual, Kid, Kids, Logic, Logical, management, PacMan, Spiderman, Stickman, Unity3D
+- Tags: .io, 3D, 3D Games, Action, Adventure, Arcade, Batman, Ben 10, Best, Casual, Games, Girl, Girls, Hypercasual, Kid, Kids, Logic, Logical, Management, PacMan, Spiderman, Stickman, Unity3D

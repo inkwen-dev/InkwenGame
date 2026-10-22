@@ -19,6 +19,6 @@ Fishy Feast is a fast-paced underwater survival game where you control a cartoon
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, 2026 games, Ai Games, amazing, Avoid, Best, Best Games, Creation, Fish, fishing, Multiplayer, water
+- Tags: 2025 games, 2026 games, Ai Games, amazing, Avoid, Best, Best Games, Creation, Fish, Fishing, Multiplayer, water

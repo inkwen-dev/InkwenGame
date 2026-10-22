@@ -19,6 +19,6 @@ Flappy Hungry Bird is a nice game tap to fly up and eat as many fruits as possib
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Bird, fly, Fun, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Mind

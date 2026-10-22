@@ -1,0 +1,24 @@
+# 数学
+
+<a href="https://inkwengame.com/zh/games/math" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/math/cover.jpg)
+
+与朋友一起现在就玩最好的经典游戏，这款适合孩子和家庭的游戏拥有出色的图形和悦耳的音效，而且非常容易上手。你准备好了吗？
+
+## 怎么玩
+
+与朋友一起现在就玩最好的经典游戏，这款适合孩子和家庭的游戏拥有出色的图形和悦耳的音效，而且非常容易上手。你准备好了吗？
+
+## 介绍
+
+与朋友一起现在就玩最好的经典游戏，这款适合孩子和家庭的游戏拥有出色的图形和悦耳的音效，而且非常容易上手。你准备好了吗？
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: .io, 2D, 动作, 冒险, 飛機, Android, 动物, 动漫, 军队, 婴儿, 芭比, 战斗, Ben 10, 最佳, 自行车, 弹跳, 男孩, 男孩们, 大脑, 泡泡, 蛋糕, 糖果, 汽车, 跑车, 卡通, 休闲, 猫, 经典, 颜色, 防御, 迪士尼, 龙, 龙珠Z, 换装, 家庭, 战斗, 火焰, 冰雪奇缘, 水果, 趣味, 游戏, 女孩, 女孩们, 跳跃, 跳跃, 儿童, 儿童, 击杀, 国王, 馬里奧, 数学, 小黄人, 移动设备, 忍者, 像素, 谜题, 射击, 射击游戏, 射击类, 地鐵, 僵尸

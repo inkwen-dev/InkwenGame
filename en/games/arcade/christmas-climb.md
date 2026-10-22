@@ -19,6 +19,6 @@ Christmas Climb is a fun Santa Game, where Santa needs to collect a gift before 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Fun, Santa, Santa Claus

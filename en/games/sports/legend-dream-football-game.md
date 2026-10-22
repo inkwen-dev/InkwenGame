@@ -19,6 +19,6 @@ Get ready to dive into the electrifying world of football. Step into the thrilli
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Action, Ball, Food, Sports

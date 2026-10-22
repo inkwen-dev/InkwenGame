@@ -19,6 +19,6 @@ Connect the Balls is a challenging game where you must connect objects of the sa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Best, Color, Fun, Kids, Logic, Mobile, Skill

@@ -19,6 +19,6 @@ School Bus 3D Parking is super fun online game that you can play for free on PC 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Boys, bus, Collecting, Fun, Hypercasual, Obstacle, Parking, School, Skill

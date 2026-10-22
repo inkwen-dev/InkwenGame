@@ -19,6 +19,6 @@ Paint Pop 3D is an one-tap hyper casual shooting game that will keep you hooked 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 3D, Ball, Bubble Shooter, Levels, paint, paintball, Shoot 'Em Up, Shooting

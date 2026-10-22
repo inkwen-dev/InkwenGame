@@ -19,6 +19,6 @@ Zombie / Apocalypse / Web3 Game / BSC In the year 2166, Earth was on the brink o
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, rpg
+- Tags: 1 Player, RPG

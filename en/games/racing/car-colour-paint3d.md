@@ -19,6 +19,6 @@ play favourite Car Colour Paint 3D free Game 2021 and Relax your mind. Tap to pa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, Action

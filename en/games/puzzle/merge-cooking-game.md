@@ -21,4 +21,4 @@ In this cook and merge simulator game, you will start with simple ingredients an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Food, Logic, management, Restaurant, rpg, Simulation
+- Tags: Food, Logic, Management, Restaurant, RPG, Simulation

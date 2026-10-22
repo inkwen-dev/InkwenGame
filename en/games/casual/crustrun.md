@@ -19,6 +19,6 @@ CrustRun is a game where the bread has to jump over dogs to save itself from fal
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Casual, Food, jungle

@@ -33,4 +33,4 @@ Finish the cinema and open the Drive-In, a whole new venue. Cars roll in, park i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, cozy, management, Simulation, tycoon
+- Tags: 3D, cozy, Management, Simulation, tycoon

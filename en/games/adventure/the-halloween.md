@@ -17,4 +17,4 @@ Dive into relentless terror with The Halloween, where every shadow hides a terri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

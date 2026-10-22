@@ -19,6 +19,6 @@ Play the real Mahjong puzzle game. Match up traditional Mahjong tiles until all 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mahjong

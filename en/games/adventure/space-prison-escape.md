@@ -19,6 +19,6 @@ Would you like to participate the adventure of friends who are kidnapped by a ro
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Brain, Collecting, prison, Puzzle, Space, Spaceship
+- Tags: 2 Player, 2 Player Games, 2D, Action, Brain, Collecting, Prison, Puzzle, Space, Spaceship

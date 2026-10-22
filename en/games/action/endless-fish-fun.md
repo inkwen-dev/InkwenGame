@@ -19,6 +19,6 @@ This is a relaxing endless runner game with fish and ocean sound. Just keep tapp
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, endless, running

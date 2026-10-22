@@ -19,6 +19,6 @@ This simulation game is easy and very fun! choose among three vending machines: 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cook, Cooking, Family, Girl, Girls, HTML, HTML5, Kids, Math, Simulation, Simulator

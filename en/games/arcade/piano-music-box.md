@@ -19,6 +19,6 @@ Join us in the enchanting world of Piano Music Box, an exceptionally enjoyable g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Casual, Fun, Girls, Hypercasual, Kids, Music, School

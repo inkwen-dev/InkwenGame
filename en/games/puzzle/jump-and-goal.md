@@ -19,6 +19,6 @@ Jump and Goal is a puzzle game. The ball is released from the organ and you are 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, jump, Jumping, Obstacle, Skill

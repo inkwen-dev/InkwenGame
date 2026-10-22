@@ -21,4 +21,4 @@ Rob Runner is made with html5 technology, and it's available on PC and Mobile we
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2 Player, Anime, Arcade, Board, Bomb, Defense, Design, Dungeon, Fantasy, farm, Fight, Fighting, Fire, Fun, Game, Games, Gun, H5, Halloween, Helicopter, HTML5, Kill, Killing, King, Kiz 10, Magic, Minecraft, MMO, Ninja, Ninjago, Pixel, Planet, Platform
+- Tags: .io, 1 Player, 2 Player, Anime, Arcade, Board, Bomb, Defense, Design, Dungeon, Fantasy, Farm, Fight, Fighting, Fire, Fun, Game, Games, Gun, H5, Halloween, Helicopter, HTML5, Kill, Killing, King, Kiz 10, Magic, Minecraft, MMO, Ninja, Ninjago, Pixel, Planet, Platform

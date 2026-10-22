@@ -21,4 +21,4 @@ The goal is to gain all the cards of your opponent
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, Multiplayer, Solitaire
+- Tags: Card, Casual, Multiplayer, Solitaire

@@ -19,6 +19,6 @@ MATCH THE BLOCKS! Guess The Animal is an attractive Arcade game with simple game
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Matching, Mobile, mouse
+- Tags: Action, Matching, Mobile, Mouse

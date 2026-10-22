@@ -19,6 +19,6 @@ The Drunken game series continues with a fun wrestle game. The goal is not to le
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Fight, Fighting, Fun, Funny

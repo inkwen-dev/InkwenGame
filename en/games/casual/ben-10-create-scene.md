@@ -19,6 +19,6 @@ All children love to watch Ben 10 cartoons. Now we can create your own cartoon s
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Cartoon, Decorate, Decoration, Design, Game, Games, HTML5

@@ -19,6 +19,6 @@ Go Santa Girl, run! The daughter of Santa Claus has a task, and it is to collect
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Arena, Bejeweled, Best Games, blocky

@@ -21,4 +21,4 @@ The bubble shooter game that is very easy to play. Once you start playing you wo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Bejeweled, boat, Bubble, Bubble Shooter, Casual, Color, Match 3, Match3, Puzzle
+- Tags: Bejeweled, Boat, Bubble, Bubble Shooter, Casual, Color, Match 3, Match3, Puzzle

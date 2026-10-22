@@ -19,6 +19,6 @@ Explore the universe in Spaceman Adventure, a free online game! Play as a spacem
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Avoid, Game, Games, HTML5, Hypercasual, Online

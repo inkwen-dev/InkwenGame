@@ -19,6 +19,6 @@ Want to test your accuracy and reaction speed? Then try to go through all the le
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, HTML5, Kids, Logic, Mobile, Point And Click, Skill

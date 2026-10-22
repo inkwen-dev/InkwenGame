@@ -27,4 +27,4 @@ If you move the cookies off the edge of the board or into knives, they’ll be d
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, mouse, Puzzle
+- Tags: Mobile, Mouse, Puzzle

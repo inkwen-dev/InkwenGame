@@ -19,6 +19,6 @@ Water Race 3D is a cool 3D high score game. Do you want to try to skate on the w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Avoid, H5, Hot, HTML, HTML5, Kid, Kids, Mobile, Obstacle, Skill, Skills

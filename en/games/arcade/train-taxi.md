@@ -21,4 +21,4 @@ Collect all the people to complete a level. The more passengers you have, the lo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Hypercasual, Taxi, Traffic, train
+- Tags: Fun, HTML5, Hypercasual, Taxi, Traffic, Train

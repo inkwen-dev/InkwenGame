@@ -19,6 +19,6 @@ Kids Education is game that aims to educate kids in a funny way without them get
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Educational, HTML5, iPad, Kids, Mobile

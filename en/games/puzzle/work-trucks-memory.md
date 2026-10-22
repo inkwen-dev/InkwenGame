@@ -19,6 +19,6 @@ This is memory game with working trucks. Tap on the cards and they will flip. Ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Memory, Puzzle, Truck

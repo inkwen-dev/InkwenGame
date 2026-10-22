@@ -19,6 +19,6 @@ Pop the letter bubbles and form the correct words before time runs out. Each cor
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Click, Educational, Word

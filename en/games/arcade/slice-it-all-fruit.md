@@ -19,6 +19,6 @@ Tap to flip the knife and slice amazing obstacles in juiciest way! Cut or slice 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arcade, Casino, Casual, cut, Fruit, Fruits, Fun, Funny, Hot, Hypercasual, Unity3D

@@ -21,4 +21,4 @@ Welcome to Farm Town, a place where the spirit of family adventure and farming a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best, Boy, Business, Casual, farm, Girl, iPad, iPhone, Kids, management, Mobile, mouse, Online, Simulation
+- Tags: Best, Boy, Business, Casual, Farm, Girl, iPad, iPhone, Kids, Management, Mobile, Mouse, Online, Simulation

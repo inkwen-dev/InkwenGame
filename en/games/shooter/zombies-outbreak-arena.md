@@ -19,6 +19,6 @@ In this game, anyone can test themselves in the battle against hordes of zombies
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Battle, Battlegrounds, Defense, Fight, Fighting, HTML, HTML5, Hypercasual, Kill, Killing, Strategy, War, Zombie

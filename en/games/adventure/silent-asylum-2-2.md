@@ -17,4 +17,4 @@ Silent Asylum 2 traps you in a chaotic abyss, where fearsome creatures lurk at e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

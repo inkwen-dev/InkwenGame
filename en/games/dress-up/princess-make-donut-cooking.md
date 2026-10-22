@@ -19,6 +19,6 @@ Princess Mia is going to spend her weekend at her home. So, she decided to make 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cook, Cooking, Doctor, Dora, Dress Up, Girls, Hair, Kids, Princess

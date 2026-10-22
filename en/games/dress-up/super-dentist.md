@@ -19,6 +19,6 @@ Be the best dentist at this Super clinic! All our patient is the Superhero, who 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Dragon, Dragon Ball Z, Draw, Dress Up, Family, Fruit, Girl, Girls

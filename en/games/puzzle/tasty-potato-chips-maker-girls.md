@@ -19,6 +19,6 @@ Tasty Potato Chips maker – Cooking game for girls is a new and stunning Potato
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Arcade, Boy, Boys, Bubble, Bubble Shooter, Candy, Food, Game, Games, Girl, Hypercasual, Road, Shopping

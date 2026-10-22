@@ -19,6 +19,6 @@ Welcome to #1 4x4 Off Road Games. Are you looking for a 4x4 suv driving simulato
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Best, Boy, Boys, Car, Cars, city, Crazy, drift, drifting, Driving, Girl, Girls, Race, Racing, Road, Simulation, Simulator, Super, Supercars, Unity3D

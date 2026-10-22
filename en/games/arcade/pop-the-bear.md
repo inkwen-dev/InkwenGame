@@ -19,6 +19,6 @@ Do you love physics puzzle brain games? Well, this game is for you! Use your bra
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Casual, Clicker, Physics, Strategy

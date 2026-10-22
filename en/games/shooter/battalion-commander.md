@@ -19,6 +19,6 @@ Get armed to the teeth and fight your way through the enemy territory. You’ll 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Army, Bomb, HTML5, run, Shoot 'Em Up, Shooting, War

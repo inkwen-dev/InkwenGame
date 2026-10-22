@@ -19,6 +19,6 @@ Jigsolitaire Deluxe is a refined card-based puzzle where every level turns into 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, card, Relaxation, Solitaire
+- Tags: 1 Player, Card, Relaxation, Solitaire

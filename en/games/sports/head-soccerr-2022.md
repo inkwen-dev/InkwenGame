@@ -19,6 +19,6 @@ Head Soccer 2022 is a fast-paced sports football game where you can challenge al
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, Ball, Ballon, Food, Football, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Kid, Kids, Multiplayer, Soccer

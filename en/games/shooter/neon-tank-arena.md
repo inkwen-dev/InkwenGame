@@ -19,6 +19,6 @@ A great struggle awaits you on a platform with two futuristic tanks which are re
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Battle, Shooting, Tank, Tanks

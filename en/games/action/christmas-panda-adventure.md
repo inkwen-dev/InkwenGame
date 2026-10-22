@@ -19,6 +19,6 @@ The main hero of our game is a fun and cheerful panda Teddy. He lives near the f
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fun, Hypercasual, Kids, Mobile, Panda, run, running, Skill

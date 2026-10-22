@@ -19,6 +19,6 @@ A new Adventure begins in Kiz10 Special ces called Stickman Team Force are recru
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: kiz10, Stickman

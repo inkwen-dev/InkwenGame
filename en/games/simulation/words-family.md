@@ -19,6 +19,6 @@ Words Family is a fun and entertaining word puzzle game that can increase your i
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Family, HTML, HTML5, Hypercasual, Mind, Puzzle, Simulation, Strategy, Word

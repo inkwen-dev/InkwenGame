@@ -19,6 +19,6 @@ You have to bring the water to the burning plants with a pickaxe. Challenging le
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Brain, Casual, Fire, Hypercasual, Logic, Physics, Puzzle, water

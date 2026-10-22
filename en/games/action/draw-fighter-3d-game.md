@@ -19,6 +19,6 @@ Draw Fighter 3d is an interesting drawing game. You can draw a powerful fighter 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fight, Fighting, Fun, H5, HTML5, Kid, Kids

@@ -19,6 +19,6 @@ The two greatest enemies meet on a long road. Although one is strong, the others
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Brainrot Italian, Italian Brainrot, running, Tung Tung Tung Sahur

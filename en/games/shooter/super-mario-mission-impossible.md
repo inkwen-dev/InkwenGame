@@ -19,6 +19,6 @@ Welcome to Super Mario Mission Impossible, in this mission Mario will be given a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mario, Shoot, Shooter, Shooting, Super

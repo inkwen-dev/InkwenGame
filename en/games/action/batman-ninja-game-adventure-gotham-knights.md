@@ -19,6 +19,6 @@ Batman will be forced into precarious new roles. The Riddler has returned to ter
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Batman, Battle, Knight, Ninja, Ninjago, run, running, Samurai, Stickman

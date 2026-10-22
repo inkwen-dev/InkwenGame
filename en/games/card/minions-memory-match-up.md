@@ -19,6 +19,6 @@ It's possible now to play Minions Memory Match Up game in your web browser for f
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Anime, Arcade, Board, Boys, Brain, card, Cartoon, Cartoon Network, Family, Fun, Funny, Girl, Highscore, HTML5, Hypercasual, Kids, Minion, Puzzle, Super, Superhero
+- Tags: Adventure, Anime, Arcade, Board, Boys, Brain, Card, Cartoon, Cartoon Network, Family, Fun, Funny, Girl, Highscore, HTML5, Hypercasual, Kids, Minion, Puzzle, Super, Superhero

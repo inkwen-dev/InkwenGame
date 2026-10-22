@@ -19,6 +19,6 @@ In the Age of Quest, relentless hordes of monsters and skeletons besiege your ca
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fire, Mentolatux, Monster, Sword, unity games, Unity3D, WebGL

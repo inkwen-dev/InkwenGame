@@ -19,6 +19,6 @@ The game Pandorium Blocks is a variation of the good old Tetris with its own rul
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Block, Game, Games, Logic, Logical, Tetris

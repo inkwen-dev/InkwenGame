@@ -19,6 +19,6 @@ Sort the colorful yarn balls into matching tubes in this cozy knitting puzzle! M
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Ball, Casual, Color, Coloring, Fun, Funny, Hypercasual, Puzzle, Relaxation, sort, sorting

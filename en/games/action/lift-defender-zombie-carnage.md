@@ -32,4 +32,4 @@ Step into the exciting realm of Lift Defender Zombie Carnage, where your role as
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: horror, Zombie
+- Tags: Horror, Zombie

@@ -19,6 +19,6 @@ Titoo is a good boy, That’s why he likes good things! But, what is that good t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, bus, Car, run, running

@@ -19,6 +19,6 @@ Tob vs Kov is a 2D Sci-fi themed platformer where you play as Tob, the robot, wh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Ball, Collecting, Collection, Cute, jump, Jumping, Pixel, Platform, Retro, Robot, Science

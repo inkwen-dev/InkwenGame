@@ -19,6 +19,6 @@ Our character, who is trained to move the soccer ball in the magic school, is wo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Ball, Football, Funny, Hot, Hypercasual, Kids, Magic, Mobile, Puzzle, Skill, Soccer

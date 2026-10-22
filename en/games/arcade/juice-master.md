@@ -19,6 +19,6 @@ We could make juice everyday by cutting fruits!Let's make mixed juice togetherï¼
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML5, Hypercasual

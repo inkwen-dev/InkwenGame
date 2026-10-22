@@ -21,4 +21,4 @@ Working in fast food requires increased responsibility, coordination and high pr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Click, Clicker, Cook, Cooking, Food, Girl, Girls
+- Tags: Burger, Click, Clicker, Cook, Cooking, Food, Girl, Girls

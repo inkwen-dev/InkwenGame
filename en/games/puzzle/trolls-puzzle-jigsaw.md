@@ -19,6 +19,6 @@ Trolls Puzzle is an online game that you can play in modern browsers for free. T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Arcade, Boy, Brain, Cartoon, Cartoon Network, Disney, HTML5, Jigsaw, Kids, Matching, Puzzle

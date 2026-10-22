@@ -19,6 +19,6 @@ Jigsaw Rotate, puzzle game, 3 levels of difficulty, 3×3, 4×4, 5×5,6×6, playe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Games, Highscore, HTML5, Kids, Mind, Puzzle

@@ -21,4 +21,4 @@ Play NO LIMITS SLOT MACHINES FREE WITH BONUS CASINOS! Try OVER 45+ FREE Slot Mac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, card, Casino, Game, Girls, Machine, Slot Machine
+- Tags: .io Games, Card, Casino, Game, Girls, Machine, Slot Machine

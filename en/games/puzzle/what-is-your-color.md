@@ -19,6 +19,6 @@ Brain game to test how fast can you guess the right answer of the colors
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Clicker, Difference, endless, Family, Fun, Guessing, Hypercasual

@@ -17,4 +17,4 @@ Lead your own police station to thrive in My Mini Police! Strategically build an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

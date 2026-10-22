@@ -19,6 +19,6 @@ Kids supermarket is funny games for kids with educational elements. Mommy makes 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Baby, Baby Hazel, Ball, Baseball, Basketball, burger, Cake, Candy, Fun, hockey, Sword, Unity3D
+- Tags: 2 Player Games, 3D Games, Baby, Baby Hazel, Ball, Baseball, Basketball, Burger, Cake, Candy, Fun, hockey, Sword, Unity3D

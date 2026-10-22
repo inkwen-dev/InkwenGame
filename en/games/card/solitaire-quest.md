@@ -19,6 +19,6 @@ Solitaire Quest is a classic and relaxing card game that challenges you to organ
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, card, Fun, Hypercasual, Kids, Logic, Puzzle, Skill
+- Tags: Brain, Card, Fun, Hypercasual, Kids, Logic, Puzzle, Skill

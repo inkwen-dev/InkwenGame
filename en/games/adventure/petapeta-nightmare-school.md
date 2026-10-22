@@ -17,4 +17,4 @@ Survive the eerie halls of PetaPeta Nightmare School, where a porcelain-faced en
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

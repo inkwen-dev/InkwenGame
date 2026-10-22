@@ -19,6 +19,6 @@ Play this high giant heels Rush 3d adventure most popular games 2022 with shortc
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Casual, Hypercasual

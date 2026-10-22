@@ -17,4 +17,4 @@ Lost in a nightmarish forest, you are Sam, a sniper caught between monstrous cre
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ Jump In your supercharged Boat and take a wild ride through twisting canals and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, boat
+- Tags: Action, Adventure, Arcade, Boat

@@ -19,6 +19,6 @@ Find an animal name using the given letters and then tap that animal on the scre
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Board, Educational, Hidden, HTML5, Kids, Mobile, Word

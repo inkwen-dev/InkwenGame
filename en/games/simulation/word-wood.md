@@ -19,6 +19,6 @@ Swipe the letters horizontally, vertically, diagonally, forwards or backwards to
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Puzzle, Simulator, Word

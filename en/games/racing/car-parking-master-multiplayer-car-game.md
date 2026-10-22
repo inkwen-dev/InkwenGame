@@ -19,6 +19,6 @@ Do you like playing car parking games? Or do you want to play with your friends 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Best, Casual, Funny, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Simulation, Simulator

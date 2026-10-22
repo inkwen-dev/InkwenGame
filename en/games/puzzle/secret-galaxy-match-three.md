@@ -17,4 +17,4 @@ Join pilot Inessa and her robot companion on a cosmic adventure! Match elements 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

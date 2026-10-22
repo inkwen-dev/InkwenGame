@@ -21,4 +21,4 @@ Be a modern farmer and develop your own bussiness, you have some hard work on th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Simulation, Simulator, Unity3D, WebGL
+- Tags: Farm, Simulation, Simulator, Unity3D, WebGL

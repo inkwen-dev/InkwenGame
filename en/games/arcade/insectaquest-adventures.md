@@ -19,6 +19,6 @@ InsectaQuest-Adventure: Explore a world of hidden wonders, embark on thrilling i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Hidden, HTML5, Kids, Mobile, Puzzle, Skill

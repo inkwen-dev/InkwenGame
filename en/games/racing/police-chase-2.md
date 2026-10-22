@@ -19,6 +19,6 @@ Ready to join the nervous police car chase ever? Police Chase is an exciting rac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, city, Driving, Police

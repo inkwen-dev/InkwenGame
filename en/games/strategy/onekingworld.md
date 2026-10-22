@@ -19,6 +19,6 @@ Improve Your Country, Battle, Earn, Be Attentive And Win. OneKingWorld Game Is 2
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Strategy, War, World

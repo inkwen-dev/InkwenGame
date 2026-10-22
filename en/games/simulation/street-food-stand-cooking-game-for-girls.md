@@ -19,6 +19,6 @@ A street fair is a perfect place to experience street food. Think you have what 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, burger, Cook, Cooking, cut, Educational, Girls, Slicing
+- Tags: 2D, Burger, Cook, Cooking, cut, Educational, Girls, Slicing

@@ -19,6 +19,6 @@ Castle Cards - Memory Puzzle Game is an exciting and brain-training card-matchin
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, card, Castle, Casual, free games for your site, free games for your website, html5 games, Matching, Memory, Mind, Puzzle, Relaxation, Skill
+- Tags: Arcade, Brain, Card, Castle, Casual, free games for your site, free games for your website, html5 games, Matching, Memory, Mind, Puzzle, Relaxation, Skill

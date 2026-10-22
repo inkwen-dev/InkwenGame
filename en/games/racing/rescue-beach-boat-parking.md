@@ -21,4 +21,4 @@ While everyone else heads back to shore, you cast off—a twelve-foot wind gust.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Android, boat, HTML5, Mobile, Simulator
+- Tags: 3D Games, Action, Android, Boat, HTML5, Mobile, Simulator

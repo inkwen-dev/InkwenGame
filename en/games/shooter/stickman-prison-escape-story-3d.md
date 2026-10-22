@@ -21,4 +21,4 @@ You are stuck in prison for a crime you did not commit. Framed and imprisoned, b
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boys, Escape, Fun, Girl, Girls, HTML5, prison, Shoot, Shoot 'Em Up, Shooter, Shooting, Stickman, WebGL
+- Tags: 3D, 3D Games, Boys, Escape, Fun, Girl, Girls, HTML5, Prison, Shoot, Shoot 'Em Up, Shooter, Shooting, Stickman, WebGL

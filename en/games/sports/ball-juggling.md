@@ -19,6 +19,6 @@ Ball Juggling is a super fun game with the reflex booster. Here in this game, yo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Ball, Ballon, Boy, Boys, Casual, Click, Clicker, endless, Family, Football, Kid, Kids, Pixel, Soccer, Sport, Sports

@@ -19,6 +19,6 @@ Ninja flying Boy Adventure is a very fun and action side scrolling game! Help th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Air, Arcade, Boys, Collection, fly, Ninja, Skills

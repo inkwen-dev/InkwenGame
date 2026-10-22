@@ -19,6 +19,6 @@ Learn Maths MCQs is a captivating educational game designed to help you master e
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Educational, Hypercasual, Math

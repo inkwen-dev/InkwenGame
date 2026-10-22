@@ -19,6 +19,6 @@ As a funny color-matching puzzle game, Paint Roll 3D requires you to use the bru
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Brain, Casual, Coloring, Mobile, Puzzle, WebGL

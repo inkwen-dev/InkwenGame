@@ -19,6 +19,6 @@ This is a balance driving game. Keep your balance when you are driving the motor
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Bike, Boys, Driving, H5, HTML, HTML5, Kids, Moto, Motorcycle, Obstacle, Skills, Sports, Stunts, Timing

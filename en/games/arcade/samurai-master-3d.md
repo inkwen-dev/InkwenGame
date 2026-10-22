@@ -19,6 +19,6 @@ Welcome to Cut ’em All: Blade Master, a fun arcade game where all you have to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Arcade, Best, Casual, Classic, Funny, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online

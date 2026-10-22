@@ -17,4 +17,4 @@ Dive into Sea Sparkle Saga, an enchanting match-3 puzzle game set in a radiant o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

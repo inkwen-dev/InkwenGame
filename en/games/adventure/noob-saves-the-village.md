@@ -23,4 +23,4 @@ The village has been attacked by merciless monsters! Become a real hero and defe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Mobile, popular, pve, rpg, survival
+- Tags: Adventure, Mobile, popular, pve, RPG, survival

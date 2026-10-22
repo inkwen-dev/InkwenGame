@@ -19,6 +19,6 @@ Relax and take a Relaxing Games tour! Relaxing Games brings you a series of casu
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Cleaning, Hypercasual, Puzzle, Relaxation, Simulation

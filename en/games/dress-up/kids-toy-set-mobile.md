@@ -19,6 +19,6 @@ Welcome to Kid Toy Set Mobile, a collection of casual mini-games especially for 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Matching, Relaxation, Simulator

@@ -19,6 +19,6 @@ As you enter the 2021 New Year, you must protect your gifts. The enemy character
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Arcade, Best, Cartoon, Casual, Christmas, Cool, Defense, Fun, Funny, Hypercasual, Shooter, Snow, Winter

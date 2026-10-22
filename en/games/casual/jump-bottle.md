@@ -19,6 +19,6 @@ Climb as high as you can, but be careful You can fall. Play this fantastic gamer
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boy, HTML5, jump, Jumping, Play

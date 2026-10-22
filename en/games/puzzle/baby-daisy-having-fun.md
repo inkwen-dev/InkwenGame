@@ -19,6 +19,6 @@ In this Baby Daisy Having Fun game you have 6 images with famous character baby 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Baby, Brain, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle

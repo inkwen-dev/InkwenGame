@@ -19,6 +19,6 @@ Piano Kids – Music & Songs is a great fun music box created especially for kid
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boy, Boys, Girl, Girls, H5, Kid, Kids, Music

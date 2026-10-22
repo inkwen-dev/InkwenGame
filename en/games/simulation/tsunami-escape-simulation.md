@@ -19,6 +19,6 @@ Find your way to escape from the Tsunami. Each level is a challenge. Are you rea
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 3D Games, Casual, Hypercasual

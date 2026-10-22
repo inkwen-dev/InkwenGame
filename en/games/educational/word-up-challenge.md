@@ -19,6 +19,6 @@ Word Up Challenge is a fun and addictive word puzzle game that tests your vocabu
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Brain, Casual, Educational, Fun, Game, Kids, Letters, Logic, Puzzle, Word

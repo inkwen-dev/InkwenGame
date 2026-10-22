@@ -21,4 +21,4 @@ When an emergency occurs, your job as a beach lifeguard rescuer is to save the r
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, boat, Parking, Unity3D, WebGL
+- Tags: 1 Player, 3D Games, Boat, Parking, Unity3D, WebGL

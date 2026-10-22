@@ -19,6 +19,6 @@ US army transporter game is realistic offroad truck driving simulator games of 2
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Driving, HTML, HTML5, Racing, Simulation, Simulator, Truck

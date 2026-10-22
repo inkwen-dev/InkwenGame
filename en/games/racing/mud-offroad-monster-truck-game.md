@@ -19,6 +19,6 @@ Get ready for an extreme Mud Offroad Monster Truck Game adventure! Take control 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Best Games, Drawing, monstertruck, offroad, Truck

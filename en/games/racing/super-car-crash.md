@@ -19,6 +19,6 @@ Super Car Crash is fun addictive hyper casual adventure racing game.Drive HARD b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, Cars, Casual, Hypercasual, Obstacle, Racing

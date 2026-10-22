@@ -19,6 +19,6 @@ In this game, you are given some figures of some super cars and the picture is c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Fun, HTML5, Jigsaw, Kids, Mobile, Skill, Supercars

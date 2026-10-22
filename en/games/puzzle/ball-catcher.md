@@ -19,6 +19,6 @@ Ball Catcher is a puzzle game for kids. At this game you need to have good refle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Clicker, Color, Hypercasual, Kids, Puzzle

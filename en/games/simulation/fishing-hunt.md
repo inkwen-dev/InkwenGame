@@ -19,6 +19,6 @@ Children's fishing, it is - fishing for kids, with the task to be performed. The
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2D, Action, Adventure, Arcade, Casual, Fish, fishing, Fun, Funny, Hypercasual, sky
+- Tags: .io Games, 2D, Action, Adventure, Arcade, Casual, Fish, Fishing, Fun, Funny, Hypercasual, sky

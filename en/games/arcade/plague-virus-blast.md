@@ -19,6 +19,6 @@ Patient Zero has just been infected with your infection. As a result, you must b
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Skill, Unity3D, WebGL

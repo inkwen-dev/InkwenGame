@@ -19,6 +19,6 @@ Bubble Spin is a fun tap 2 game that challenges you to match, break and blast fo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, HTML5, Hypercasual, Match 3, Match3, Puzzle

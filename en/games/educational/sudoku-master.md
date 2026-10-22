@@ -21,4 +21,4 @@ Sharpen your mind and dive into the ultimate number challenge with Sudoku Master
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Logic, Math, Quiz, sudoku
+- Tags: Logic, Math, Quiz, Sudoku

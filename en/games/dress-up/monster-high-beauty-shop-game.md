@@ -19,6 +19,6 @@ Monster High girls want to open a beauty shop, they will design your hair, make 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Decorate, Dress Up, Girls, Hair, Kids

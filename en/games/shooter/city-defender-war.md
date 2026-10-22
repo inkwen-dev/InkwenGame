@@ -19,6 +19,6 @@ The objective of this game is to destroy all the bombs that are falling. Earn po
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Defense, Mobile, Shoot, Shooter, Shooting, War

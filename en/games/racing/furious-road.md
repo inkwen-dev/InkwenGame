@@ -19,6 +19,6 @@ Furious Road is a great and interesting game application in different beautiful 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Boy, Boys, Car, Cars, Casual, Fight, Fighting, Gun, Police, Race, Racing, War

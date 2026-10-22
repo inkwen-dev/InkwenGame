@@ -22,4 +22,4 @@ Create blocks using the resources you collect, expand your ship, and strategical
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management
+- Tags: Management

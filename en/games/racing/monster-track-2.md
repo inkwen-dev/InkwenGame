@@ -19,6 +19,6 @@ Monster Track 2 - Racing in the style of Hill Climb Racing, 60 more levels, 5 mo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Kids, running, Sport, Sports

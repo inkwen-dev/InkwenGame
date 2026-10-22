@@ -19,6 +19,6 @@ The pizzeria is open! Free pizza games for kids are here! Enjoy Baby Taylor Pizz
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Cooking, Cute, Decorate, Educational, Food, Girl, Girls, Kids, Simulation

@@ -21,4 +21,4 @@ This is a leisure puzzle game. It controls the rubber man to launch different co
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, Boy, Boys, Brain, Casual, Click, Color, Coloring, Fun, Game, Games, Girl, Girls, Google, H5, Hypercasual, Kid, Kids, management, Mobile, Relaxation, Road, run, Sport
+- Tags: 3D, 3D Games, Avoid, Boy, Boys, Brain, Casual, Click, Color, Coloring, Fun, Game, Games, Girl, Girls, Google, H5, Hypercasual, Kid, Kids, Management, Mobile, Relaxation, Road, run, Sport

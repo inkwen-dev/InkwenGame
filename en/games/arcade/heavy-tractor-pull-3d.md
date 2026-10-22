@@ -19,6 +19,6 @@ Tractor Game Farming Tractor is a high power vehicle that's why Heavy Duty Tract
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 3D, Adult, Adventure, Arcade, Best, Casual, Hypercasual, Online, Skills, Truck

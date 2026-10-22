@@ -21,4 +21,4 @@ Have you ever thought of own a chain supermarket? Now you have a wonderful chanc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: management, Shopping
+- Tags: Management, Shopping

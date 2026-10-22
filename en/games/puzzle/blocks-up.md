@@ -19,6 +19,6 @@ Blocks Up is a fun online puzzle game. Match 3 blocks of the same color. Don’t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Fun, Kids, Match 3, Mobile, Skill

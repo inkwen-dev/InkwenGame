@@ -19,6 +19,6 @@ Snowball Battle Arena 3D is an action-packed first-person shooter set in a froze
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, First Person Shooter, Shooter, survival

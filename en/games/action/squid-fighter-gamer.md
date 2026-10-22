@@ -19,6 +19,6 @@ Are you prepared to engage in some street fighting? Well... You and a friend can
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Fight, Fighting, Street Fighting, Unity3D, WebGL

@@ -21,4 +21,4 @@ Welcome to Car Move Game, a fun and addictive car puzzle adventure where you mus
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, amazing, Cars, Fun, movie
+- Tags: 2026 games, amazing, Cars, Fun, Movie

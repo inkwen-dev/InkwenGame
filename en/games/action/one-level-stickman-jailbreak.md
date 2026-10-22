@@ -21,4 +21,4 @@ Tommy got into trouble! Our hero is behind bars. But he&rsquo;s not going to sta
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Escape, HTML, html5 games for your site, Jumping, kiz10, Levels, Maze, Platform, prison, running
+- Tags: 1 Player, Adventure, Escape, HTML, html5 games for your site, Jumping, kiz10, Levels, Maze, Platform, Prison, running

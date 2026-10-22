@@ -19,6 +19,6 @@ Help Grimace to escape from forest prison!!! Grimace Drop is a 60 levels of fun 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Grimace, Grimace Shake, HTML, HTML5, Kids, Physics, Puzzle

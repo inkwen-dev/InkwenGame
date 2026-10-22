@@ -19,6 +19,6 @@ In this great arcade sports game may be simple to play but it’s a challenge to
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Sport, Sports, Tennis

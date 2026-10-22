@@ -19,6 +19,6 @@ This is a leisure puzzle game. The decompression effect mentioned by this game i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Boy, Boys, Casual, Funny, Game, Games, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Maze, Play, run

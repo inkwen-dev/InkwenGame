@@ -19,6 +19,6 @@ Ear doctor is a doctor simulate game! Here we have many awesome medical tools an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Boys, Doctor, Girls, Kids, Simulation, Surgery

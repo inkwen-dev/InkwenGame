@@ -19,6 +19,6 @@ Slicing Goal is a captivating mobile game that combines precision with strategy.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, cut, free games for your website, Unity3D, WebGL

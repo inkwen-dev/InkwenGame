@@ -19,6 +19,6 @@ Zombie Survivor immerses you in the heart-pounding world of a post-apocalyptic z
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Pixel, Shooter, Shooting, survival, Zombie

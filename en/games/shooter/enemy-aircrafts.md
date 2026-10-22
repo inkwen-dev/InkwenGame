@@ -19,6 +19,6 @@ Enemy Aircrafts is a free online game from genre of action and aircraft games. I
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, Bomb, Defense, HTML5, Mobile, Plane, Shooter, Tank, Tanks, Timing

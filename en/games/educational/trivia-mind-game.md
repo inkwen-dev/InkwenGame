@@ -19,6 +19,6 @@ Get ready for fast thinking and quick decisions in Trivia Mind Game! Face challe
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Mind, Puzzle, Quiz

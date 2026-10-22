@@ -21,4 +21,4 @@ Last Train Escape is a fast-paced action survival game where every second matter
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, Casual, endless, Escape, Fun, Funny, Hypercasual, Platform, train
+- Tags: 1 Player, 2D, Action, Arcade, Casual, endless, Escape, Fun, Funny, Hypercasual, Platform, Train

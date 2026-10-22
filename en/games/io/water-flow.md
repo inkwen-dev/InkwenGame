@@ -19,6 +19,6 @@ Extremely easy to play yet not that easy to give up.Adjust pins by pulling or dr
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Game, Games, Mobile

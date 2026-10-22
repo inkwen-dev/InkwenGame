@@ -19,6 +19,6 @@ Enter the spine-chilling world of Granny House Escape, a 3D horror game where yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Escape, Granny, horror, House
+- Tags: 3D Games, Escape, Granny, Horror, House

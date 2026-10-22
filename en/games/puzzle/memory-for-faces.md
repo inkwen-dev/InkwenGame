@@ -19,6 +19,6 @@ Let's boost your memory power! Flip tiles to find two identical tiles to remove 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Girls, HTML5, Memory, Point And Click

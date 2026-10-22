@@ -19,6 +19,6 @@ Challenge your brain with ArrowXis: Brain Escape Puzzle! Solve colorful arrow pu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: arrow, arrows, Brain, Brainrot, Brainrot Italian, Italian Brainrot, Puzzle

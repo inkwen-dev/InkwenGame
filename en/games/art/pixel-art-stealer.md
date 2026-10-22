@@ -19,6 +19,6 @@ Pixel Art Stealer is a wonderful pixel art game combining numbers, pixels, and p
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Cartoon, Escape, Game, Pixel, Relaxation, sneak, steal, Stickman, Strategy

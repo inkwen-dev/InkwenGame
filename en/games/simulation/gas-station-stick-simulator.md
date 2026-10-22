@@ -30,4 +30,4 @@ Game Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Mobile, Simulation, tycoon
+- Tags: Management, Mobile, Simulation, tycoon

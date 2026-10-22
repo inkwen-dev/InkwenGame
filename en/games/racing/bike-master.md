@@ -19,6 +19,6 @@ Bike Master is a physics-based puzzle game where you build the missing parts of 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Balance, Bike, Boys, build, Draw, Kids, Physics, Puzzle, Racing, Stickman, wheel, wheels

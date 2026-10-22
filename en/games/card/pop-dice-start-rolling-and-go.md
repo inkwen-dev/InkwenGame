@@ -21,4 +21,4 @@ Quick Dice is fun board game to play. In front of your screen, a playing field w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casino, Lego, Poker, Room, Slot Machine
+- Tags: Card, Casino, Lego, Poker, Room, Slot Machine

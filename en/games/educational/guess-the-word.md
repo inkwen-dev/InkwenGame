@@ -19,6 +19,6 @@ Guess the Word is a fun game where you have six chances to guess a randomly sele
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Fun, Funny, Hypercasual, Kids, Logic, Mobile, Quiz, Skill, Word

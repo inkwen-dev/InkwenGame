@@ -19,6 +19,6 @@ Fruit Monster game for kids. With the Fruit Monster game, learn the name of vari
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Food, Fruits, HTML5, Kids, Letters, School

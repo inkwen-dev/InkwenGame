@@ -19,6 +19,6 @@ Bighead Ninja! - runner, arcade genre. The goal of the game is to go as far as p
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Boy, Boys, Fight, Fighting

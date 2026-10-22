@@ -19,6 +19,6 @@ Mouse Touch drag and drop puzzle pieces into place Click a picture to select an 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Christmas, HTML5, Kids, Logic, Puzzle, Snow, Winter

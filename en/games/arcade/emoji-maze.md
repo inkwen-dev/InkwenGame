@@ -19,6 +19,6 @@ Emoji Maze is a fun game themed around the well-known emojis, you can choose whi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, Puzzle

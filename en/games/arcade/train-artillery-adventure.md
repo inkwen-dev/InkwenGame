@@ -21,4 +21,4 @@ Welcome to Train Artillery Adventure, an exciting game combining shooting, mergi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Defense, train, Zombie
+- Tags: Defense, Train, Zombie

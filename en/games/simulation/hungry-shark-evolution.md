@@ -21,4 +21,4 @@ Take control of a very Hungry Shark and go on a frantic ocean rampage, surviving
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, boat, Bomb, Boy, Fish, fishing, Game, Girl, HTML, HTML5, Shark, WebGL
+- Tags: Action, Adventure, Boat, Bomb, Boy, Fish, Fishing, Game, Girl, HTML, HTML5, Shark, WebGL

@@ -19,6 +19,6 @@ Welcome to the ambulance rescue simulator game! Are you ready to become a real-l
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Adventure, ambulance, Car, Cars, city, Driving

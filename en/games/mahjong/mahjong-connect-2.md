@@ -17,4 +17,4 @@ Mahjong Connect revitalizes the classic tile game with a fresh digital twist tha
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

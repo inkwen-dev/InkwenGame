@@ -19,6 +19,6 @@ Funny cutie will drag you for a long time. Feed the glutton Funny Funny!
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Casual, Click, Clicker, Cute, Food, Fun, Funny, Hot, HTML, HTML5, Hypercasual, Pixel, Simulation, Super

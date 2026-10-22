@@ -19,6 +19,6 @@ Mountain Bike Xtreme is a thrilling 2D physics-based mountain biking game where 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, bicycle, HTML5
+- Tags: Adventure, Bicycle, HTML5

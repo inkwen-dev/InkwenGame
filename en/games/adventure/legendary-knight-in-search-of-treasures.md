@@ -19,6 +19,6 @@ A legendary knight seeks a lost ancient treasure, split into 4 map pieces hidden
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Alien, Casual, Dungeon, Enemies, HTML5, iPad, iPhone, Knight, Monster, Online, Puzzle

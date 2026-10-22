@@ -19,6 +19,6 @@ Fruit Slasher Slicing Master is one of the best 3D slicing games for you with si
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Casual, Fruit, Fruits, Kids, Ninja

@@ -19,6 +19,6 @@ Do you have what it takes to solve all the merging levels? Connect all your brai
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Best, Coloring, Logic, Puzzle, Skills, Unity3D, WebGL

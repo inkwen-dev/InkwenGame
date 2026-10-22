@@ -19,6 +19,6 @@ Relax Bubble Shooter is a fantastic game suitable for the whole family and child
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble, Bubble Shooter, Match 3, Match3
+- Tags: Bubble, Bubble Shooter, Match-3, Match3

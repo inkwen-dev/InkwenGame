@@ -19,6 +19,6 @@ Three different Spider-People are now teaming up for a mission where they are go
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, H5, Racing, Spiderman

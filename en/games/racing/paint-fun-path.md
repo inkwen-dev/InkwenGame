@@ -19,6 +19,6 @@ Paint fun path 3d is the free addicting race path game 3d on Android. Start play
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, Action, Arcade, Battlegrounds, Casual, Fun, Funny, Hot, Hypercasual, Race, Racing, running

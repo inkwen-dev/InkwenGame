@@ -19,6 +19,6 @@ Is It Golf is a funny golf arcade game with 3D models. According to the rules of
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Ball, Boy, Car, Casual, Gold, Kid, Puzzle, Shoot

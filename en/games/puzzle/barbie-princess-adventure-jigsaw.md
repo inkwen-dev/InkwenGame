@@ -21,4 +21,4 @@ Barbie Princess Adventure Jigsaw is an interesting jigsaw cartoon game, which is
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Barbie, Cartoon, Fun, Girl, HTML, HTML5, Jigsaw, Kid, Matching, movie, Princess
+- Tags: Adventure, Barbie, Cartoon, Fun, Girl, HTML, HTML5, Jigsaw, Kid, Matching, Movie, Princess

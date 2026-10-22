@@ -31,4 +31,4 @@ Perfect for casual players who love renovation and puzzle games!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, hidden-object, Logic, mouse, popular
+- Tags: Adventure, hidden-object, Logic, Mouse, popular

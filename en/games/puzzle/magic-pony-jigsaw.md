@@ -21,4 +21,4 @@ Magic Pony Jigsaw is a kind of interesting cartoon puzzle game jigsaw, which is 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Animal, Cartoon, Fun, Girl, HTML5, Jigsaw, Kid, Magic, Mobile, movie, Pony
+- Tags: Android, Animal, Cartoon, Fun, Girl, HTML5, Jigsaw, Kid, Magic, Mobile, Movie, Pony

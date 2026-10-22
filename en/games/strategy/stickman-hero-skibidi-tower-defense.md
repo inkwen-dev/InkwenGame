@@ -19,6 +19,6 @@ Fight off waves of Skibidi invaders in the Stickman Hero Skibidi Tower Defense. 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Defense, Fight, Fun

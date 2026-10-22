@@ -19,6 +19,6 @@ Vlinder Doll is a fashion dress up games for kids.This style game is different f
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Celebrity, Decorate, Decoration, Design, Dress Up, Fashion, Girl, Girls, Makeover, Princess

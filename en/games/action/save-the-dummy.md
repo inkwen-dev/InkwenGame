@@ -19,6 +19,6 @@ Lets put your creativity and drawing skills to the test to save the little dummy
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Drawing, Escape, Platform

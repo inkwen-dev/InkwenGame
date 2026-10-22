@@ -17,4 +17,4 @@ Dive into a nightmarish labyrinth in Tung Sahur Horror Escape. Outsmart the eeri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

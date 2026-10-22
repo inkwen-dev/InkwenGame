@@ -21,4 +21,4 @@ Enjoy a stylish version of the Klondike card game. A modern reiteration of this 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, card, Game, Games, HTML, HTML5, Online, Solitaire
+- Tags: 1 Player, Card, Game, Games, HTML, HTML5, Online, Solitaire

@@ -19,6 +19,6 @@ The most talked-about new car recently, Cyber ​​Truck Drive Simulator gives 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Car, Cars, Casual, Christmas, Fantasy, Funny, Game, Hypercasual, Race, Racing, Supercars

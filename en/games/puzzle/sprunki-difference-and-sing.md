@@ -19,6 +19,6 @@ Sprunki: Difference and Sing is a fun and free online game designed especially f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Difference, Fun, Hypercasual, Kids, Sprunki

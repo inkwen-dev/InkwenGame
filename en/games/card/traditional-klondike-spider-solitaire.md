@@ -17,4 +17,4 @@ Traditional Klondike Spider Solitaire merges the strategic layering of Klondike 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -19,6 +19,6 @@ Python Snake Simulator takes you to play a life of a python snake that needs to 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Battle, Collecting, Skibidi, Skibidi Toilet, Skill, Snake, Zuma

@@ -21,4 +21,4 @@ Welcome to Dalgona Master, a thrilling game for those who loves dalgona, honeyco
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, mouse, Puzzle, Skill
+- Tags: Arcade, Mouse, Puzzle, Skill

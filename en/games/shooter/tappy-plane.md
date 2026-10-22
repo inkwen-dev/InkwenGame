@@ -19,6 +19,6 @@ It's a Flappy Bird-style game, where the player has to click/tap on the screen t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, endless, jump, Jumping, Plane, Shoot, Shooter, Unity3D, WebGL

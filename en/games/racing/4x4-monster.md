@@ -19,6 +19,6 @@ Go off road with a 4x4 monster truck. Control the heavy vehicle over mountains a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Car, Driving, HTML5, Mobile, Obstacle, Truck

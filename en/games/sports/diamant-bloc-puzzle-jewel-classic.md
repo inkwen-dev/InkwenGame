@@ -21,4 +21,4 @@ Puzzle Bloc Diamant Jewel Classic is a classic relaxing strategy game. You can c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, Balance, Baseball, Bejeweled, Block, Blood, Bomb, Casual, Cat, Celebrity, Classic, Craft, Difference, Dinosaur, Jelly, Jewel, Plant, Punch, Puzzle, Robot, rpg, Skating, subway, Subway Surfers, Super, Supercars, Superhero, Traffic, Unity3D, Violence, Wizard, Word, worm, Zombie
+- Tags: 2 Player, Balance, Baseball, Bejeweled, Block, Blood, Bomb, Casual, Cat, Celebrity, Classic, Craft, Difference, Dinosaur, Jelly, Jewel, Plant, Punch, Puzzle, Robot, RPG, Skating, subway, Subway Surfers, Super, Supercars, Superhero, Traffic, Unity3D, Violence, Wizard, Word, Worm, Zombie

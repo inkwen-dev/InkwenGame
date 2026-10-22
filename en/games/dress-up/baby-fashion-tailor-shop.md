@@ -19,6 +19,6 @@ It's Fashion Tailor Shop! Now, you play as a little fashion tailor. Have differe
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Decorate, Decoration, Design, Dress Up, Fashion, Fun, Girl, HTML5, Kids, Mobile, Shopping

@@ -19,6 +19,6 @@ You need to find two identical shoes among the cluttered sneakers, boots, footwe
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, 8 Ball Pool, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Collecting, Collection, Craft, Crafting, Creation, cut, Cute, Decorate, Design, drift, Fashion, Games, Girl, Girls, Hypercasual, Moto, Motorcycle, Shooting

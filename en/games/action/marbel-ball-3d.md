@@ -19,6 +19,6 @@ Marbel Ball 3D is an excellent 3D ball game that will make you super happy and a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Ball, Color

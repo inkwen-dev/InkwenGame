@@ -19,6 +19,6 @@ Dora Find 5 Differences is super fun and free to play kids game where you need t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Cartoon, Christmas, Difference, Dora, Fun, Girls, HTML5, Hypercasual, Mobile, Snow, Winter

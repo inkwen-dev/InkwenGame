@@ -21,4 +21,4 @@ This is a thrilling adventure survival game where each night brings new dangers.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Anime, Arcade, Casual, egg, eggames, eggs, horror, Kids, Minecraft, OnlyUp, roblox, Sport, Timing
+- Tags: Animal, Anime, Arcade, Casual, egg, eggames, eggs, Horror, Kids, Minecraft, OnlyUp, roblox, Sport, Timing

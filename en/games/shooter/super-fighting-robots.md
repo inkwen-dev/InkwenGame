@@ -19,6 +19,6 @@ The most epic war game is now available. Play now to : "Super Fighting Robots De
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Boy, Boys, Classic, Fun, Funny, Gun, Kid, Kids, Kill, Killing, Mobile, Robot, Skill, Skills, War

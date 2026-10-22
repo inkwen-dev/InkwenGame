@@ -19,6 +19,6 @@ After selling your house and relocating to a different city, you find yourself i
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, horror, Mentolatux, Unity3D, WebGL
+- Tags: Android, Horror, Mentolatux, Unity3D, WebGL

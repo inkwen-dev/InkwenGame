@@ -19,6 +19,6 @@ This is a classic mahjong with turn based, 2 player mode and Egyptian theme. Whe
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Battle, Board, HTML5, Mahjong, Matching, Mobile, Puzzle, Skill

@@ -21,4 +21,4 @@ Sochi Toilets: official game is a parodic management game in wich you must deal 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Fun, management
+- Tags: Arcade, Fun, Management

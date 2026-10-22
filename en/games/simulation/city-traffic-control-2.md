@@ -17,4 +17,4 @@ Become a master traffic orchestrator in City Traffic Control! Navigate a bustlin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

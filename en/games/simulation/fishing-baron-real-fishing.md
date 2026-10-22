@@ -19,6 +19,6 @@ Fishing Baron Real Fishing is a casual fishing simulator that offers a realistic
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: fishing, Relaxation
+- Tags: Fishing, Relaxation

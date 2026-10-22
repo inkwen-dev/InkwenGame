@@ -19,6 +19,6 @@ Death Sentence is an intense tactical action game where you assist assassins in 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Gun, Shoot, Stickman

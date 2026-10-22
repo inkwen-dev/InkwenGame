@@ -19,6 +19,6 @@ Hidden star Emoji is hidden object game with interesting levels. Find all the hi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Girls, Kids, Kiss, Kissing, Love, Princess

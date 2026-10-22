@@ -19,6 +19,6 @@ Welcome to the world of Ben 10! As evils are invading the city, it is time for t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ben 10, Superhero

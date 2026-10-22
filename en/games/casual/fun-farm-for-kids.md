@@ -21,4 +21,4 @@ Fun Farm For Kids is an exciting and educational game designed especially for to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Family, farm, Kid, mapi games
+- Tags: Family, Farm, Kid, mapi games

@@ -19,6 +19,6 @@ Start building and show the world your best game and constructions. Crafting and
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, Cars, Craft, Crafting, Crazy, Driving, Gun, Mine, Minecraft, Miner, Multiplayer, Shooting, Simulator, WebGL

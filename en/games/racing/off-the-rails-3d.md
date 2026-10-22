@@ -19,6 +19,6 @@ Off The Rails 3D is a relaxing driving game! Cute cartoon picture, origami-style
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Driving, Fun, Game, H5, HTML5, Kids, Physics, Skills, Stunts, train
+- Tags: 3D, Driving, Fun, Game, H5, HTML5, Kids, Physics, Skills, Stunts, Train

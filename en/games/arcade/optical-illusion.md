@@ -19,6 +19,6 @@ Looking for a way to give your brain a jumpstart? Try tackling the 8 perplexing 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Fun, Funny, HTML5, Kids

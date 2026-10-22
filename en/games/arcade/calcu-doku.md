@@ -21,4 +21,4 @@ CalcuDoku is a HTML5 game where you have to fill in the grid so that every row a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Math, sudoku
+- Tags: Arcade, Math, Sudoku

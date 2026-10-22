@@ -21,4 +21,4 @@ Slime Farm! is a relaxing yet addictive game where you drive a suction truck to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Casual, Collecting, farm
+- Tags: 1 Player, 3D, Casual, Collecting, Farm

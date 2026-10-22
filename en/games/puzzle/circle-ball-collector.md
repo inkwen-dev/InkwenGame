@@ -19,6 +19,6 @@ In the game Circle Ball Collector, you will also become a collector and the obje
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Best, Color, Fun, Kids, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ Skincare Crush, hey girls let's show everyone that we can play games while skinc
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Girls, Matching, Mobile

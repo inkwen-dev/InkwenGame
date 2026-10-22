@@ -21,4 +21,4 @@ A relaxing 3D fishing game with atmospheric locations, changing weather and time
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, fishing
+- Tags: 3D, Fishing

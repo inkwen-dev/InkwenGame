@@ -19,6 +19,6 @@ Poppy vs Garten of Banban, a horror game filled with terrifying monsters and a m
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Escape, Funny, Unity3D, WebGL

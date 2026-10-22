@@ -19,6 +19,6 @@ Best ASMR casual puzzle game to get you relaxed after a hard day or just a quick
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Fun, Hypercasual, Unity3D

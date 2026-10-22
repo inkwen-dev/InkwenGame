@@ -19,6 +19,6 @@ Boys and girls, welcome to Libii Dentist, the funnest teeth and dentist game eve
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D

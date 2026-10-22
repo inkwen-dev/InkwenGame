@@ -19,6 +19,6 @@ Icon image Color Rings Block Puzzle About this game Color Rings Block Puzzle is 
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, amazing, Best Games, Block, Board, Color, Coloring, Fun

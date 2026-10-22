@@ -19,6 +19,6 @@ Jetpack Jump kid , the most famous endless runner is back! fly through the lab, 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Jumping, Kid, Kids, Superhero

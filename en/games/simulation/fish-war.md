@@ -21,4 +21,4 @@ Play the most fun game in the ocean... You are a fish and you must kill the othe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Fish, fishing, War
+- Tags: Animal, Fish, Fishing, War

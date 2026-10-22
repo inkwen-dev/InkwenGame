@@ -19,6 +19,6 @@ The beautiful girls Emma and Mia are watching sky and they are very much love th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dating, Dora, Dress Up, Girls, Kids, Kiss, Kissing, Love, Princess

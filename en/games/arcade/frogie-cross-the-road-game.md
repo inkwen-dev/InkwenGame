@@ -19,6 +19,6 @@ Desktop Use Arrow Keys to move the Frog Mobile Use touch buttons on screen
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Android, Animal, Best, Kids

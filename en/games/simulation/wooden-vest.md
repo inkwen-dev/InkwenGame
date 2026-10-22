@@ -21,4 +21,4 @@ Wooden Vest is a colorful blocky lumber tycoon. Spin the Axe Roulette for rare a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, idle, management, obby, Simulation, tycoon
+- Tags: 3D, Arcade, idle, Management, obby, Simulation, tycoon

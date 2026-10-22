@@ -19,6 +19,6 @@ Subway princess runner, Bus run, forest rush with addictive endless running game
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Game, run, running, subway, Subway Surfers, train
+- Tags: Adventure, Game, run, running, subway, Subway Surfers, Train

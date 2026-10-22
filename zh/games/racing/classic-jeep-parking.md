@@ -19,6 +19,6 @@ WASD - 驾驶 空格键 - 刹车
 - 分类: <a href="https://inkwengame.com/zh/racing" target="_blank" rel="noopener noreferrer">赛车</a>
 - 画面方向: landscape
 - 可玩设备: desktop, mobile
-- 游戏语言: en
+- 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 汽车, 汽车, HTML5, 停车, 竞速, 模拟游戏, WebGL
+- 标签: 3D, 汽车, 汽车们, HTML5, 停车, 竞速, 模拟, WebGL

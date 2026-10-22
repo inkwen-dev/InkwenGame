@@ -19,6 +19,6 @@ Shopping Mall Girl - Supermarket Shopping Games 3D Be the shopping mall girl lov
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, Action, Mario, Simulation, Simulator, WebGL

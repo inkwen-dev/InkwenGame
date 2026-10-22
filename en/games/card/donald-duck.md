@@ -19,6 +19,6 @@ Donald Duck is a cartoon character created in 1934 at Walt Disney Productions. D
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Brain, card, Memory, Puzzle
+- Tags: 3D, Brain, Card, Memory, Puzzle

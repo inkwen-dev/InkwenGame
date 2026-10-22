@@ -21,4 +21,4 @@ Shipnt.io is a mobile-friendly co-op physics based game where you and other peop
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Best, boat, Bounce, Casual, Cool, Crazy, Cute, drift, drifting, Driving, Family, Fun, Funny, Game, Highscore, HTML, HTML5, Hypercasual, Kids, Machine, Maze, Mobile, Multiplayer, New, Online, Play, Race, Racing, Sandbox, Simulation, Simulator, Unity3D, WebGL
+- Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Best, Boat, Bounce, Casual, Cool, Crazy, Cute, drift, drifting, Driving, Family, Fun, Funny, Game, Highscore, HTML, HTML5, Hypercasual, Kids, Machine, Maze, Mobile, Multiplayer, New, Online, Play, Race, Racing, Sandbox, Simulation, Simulator, Unity3D, WebGL

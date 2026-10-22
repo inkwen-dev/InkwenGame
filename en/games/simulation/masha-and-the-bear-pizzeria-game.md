@@ -19,6 +19,6 @@ Bear and Masha are cooking good pizza and opening a pizzeria! Make pizza with Ma
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Cook, Cooking, Cute, Educational, Fun, Girl, HTML5, Kids, Mobile, Puzzle

@@ -19,6 +19,6 @@ Hunting Season - Hunt or be hunted as simple as that. You have hunter instincts,
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Animal, Brain, Gun, Killing, Rabbit, Skills, Sniper, weapons, WebGL, wolf
+- Tags: 3D, Animal, Brain, Gun, Killing, Rabbit, Skills, Sniper, weapons, WebGL, Wolf

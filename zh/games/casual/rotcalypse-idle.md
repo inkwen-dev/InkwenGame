@@ -33,4 +33,4 @@ Rotcalypse 是一款讽刺性的放置类大亨游戏，你将通过数字衰败
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 闲置的
+- 标签: 闲置

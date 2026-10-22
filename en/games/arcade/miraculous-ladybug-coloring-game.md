@@ -19,6 +19,6 @@ The popular character Lady Bug offers the player an exciting free time, starting
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Color, Coloring, Ladybug, Miraculous Ladybug, Puzzle

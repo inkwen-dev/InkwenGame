@@ -19,6 +19,6 @@ BlueCatch is a game where the player cat has to go fishing and is supposed to ca
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Clicker, fishing
+- Tags: Animal, Casual, Clicker, Fishing

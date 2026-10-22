@@ -19,6 +19,6 @@ Santa was delivering gifts to children and did not notice that his bag was leaki
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Boy, Boys, Christmas, Collecting, Girl, Girls, H5, Hot, HTML, HTML5, run, running, subway, Subway Surfers

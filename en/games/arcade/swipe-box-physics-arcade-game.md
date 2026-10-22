@@ -19,6 +19,6 @@ Swipe Box is a fast-paced, physics-based arcade game where players must swipe to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best Games, New, Physics, swipe

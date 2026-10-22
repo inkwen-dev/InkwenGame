@@ -19,6 +19,6 @@ Mini Boxing is a fantastic super-deformed boxing game where you control the boxe
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boxing, Fight, Fighting, HTML, HTML5, mapi games, Sport

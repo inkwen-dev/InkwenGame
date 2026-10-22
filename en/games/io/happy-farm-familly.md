@@ -21,4 +21,4 @@ Happy Farm is a fun and challenging management game on farming fruit crops and v
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm
+- Tags: Farm

@@ -21,4 +21,4 @@ Unfamiliar Object is a first-person office-horror inspection game about finding 
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, hidden-object, horror, scary
+- Tags: 3D, Adventure, hidden-object, Horror, scary

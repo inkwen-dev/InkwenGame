@@ -19,6 +19,6 @@ Ludo board game is fun and hilarious game to play with friends and family. It is
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player, 2 Player Games, Game, Games, Multiplayer

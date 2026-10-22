@@ -19,6 +19,6 @@ Collect Heroes with outrageous and incredible super powers and build your ultima
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, farm, Hot, HTML5, Hypercasual, Plant, Simulation, Strategy, Zombie
+- Tags: Best, Farm, Hot, HTML5, Hypercasual, Plant, Simulation, Strategy, Zombie

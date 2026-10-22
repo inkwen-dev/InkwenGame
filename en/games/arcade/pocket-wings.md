@@ -19,6 +19,6 @@ Welcome, cadet! You are here to learn how to fly a stunt plane. Pass through all
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Arcade, fly, Plane, War

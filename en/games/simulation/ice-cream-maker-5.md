@@ -19,6 +19,6 @@ Do you love making Ice creams but have never had the chance to make one? The ice
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boys, burger, Cake, Candy, Cook, Cooking, Cool, Craft, Food, Frozen, Fruit, Fruits, Girl, Girls, Ice, Jelly, Kids
+- Tags: 3D, 3D Games, Boys, Burger, Cake, Candy, Cook, Cooking, Cool, Craft, Food, Frozen, Fruit, Fruits, Girl, Girls, Ice, Jelly, Kids

@@ -19,6 +19,6 @@ Cars Vs Hulk 2022 3D is a new fast beam drive and unique ramp in real car racing
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adult, Adventure, Car, Drawing, drifting

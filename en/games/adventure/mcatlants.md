@@ -19,6 +19,6 @@ In this new adventure, you must reach the portal. To reach the portal, you shoul
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Animal, Best, Best Games, Block, Boy, Game, Miner, Minion

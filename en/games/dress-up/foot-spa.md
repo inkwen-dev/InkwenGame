@@ -19,6 +19,6 @@ Foot Spa is specially made for pampering baby girl’s love for dressing like he
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, Arcade, Dress Up, Girl

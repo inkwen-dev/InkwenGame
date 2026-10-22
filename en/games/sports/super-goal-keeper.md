@@ -19,6 +19,6 @@ Step onto the football field and become the ultimate goalkeeper in Super Goal Ke
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Casual, Football, Fun, Hypercasual, Sports

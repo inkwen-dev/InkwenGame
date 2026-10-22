@@ -21,4 +21,4 @@ Link the amazing color dots by ritmic sounds. Super fun educational game. It inc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Click, Color, Coloring, Educational, Fun, Funny, Games, HTML5, Kid, Kids, Logic, Logical, Match 3, Match3, Matching, New, Play, Puzzle, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Click, Color, Coloring, Educational, Fun, Funny, Games, HTML5, Kid, Kids, Logic, Logical, Match-3, Match3, Matching, New, Play, Puzzle, Unity3D, WebGL

@@ -19,6 +19,6 @@ Enter the ultimate showdown in Ultimate Robot Fighting. Youll be controlling you
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fighting, Robot, survival

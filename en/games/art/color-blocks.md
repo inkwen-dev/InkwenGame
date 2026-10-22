@@ -19,6 +19,6 @@ Jeu de blocs classique avec un mode de jeu de puzzle et d'arcade! Tout est gratu
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Color, Coloring, Puzzle

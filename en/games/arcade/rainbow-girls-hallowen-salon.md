@@ -19,6 +19,6 @@ The Rainbow Girls are going to the Halloween Salon as they are invited to an All
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fun, Funny, Game, Games, Girl, Girls, Halloween, HTML, HTML5, Kid, Kids

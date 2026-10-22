@@ -19,6 +19,6 @@ Lego Racers Jigsaw is a jigsaw game with Lego Racers. In this jigsaw game you wi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Games, HTML5, Jigsaw, Kids, Lego, Puzzle

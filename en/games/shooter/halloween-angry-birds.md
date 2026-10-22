@@ -19,6 +19,6 @@ Angry birds do not forget about their opponents even on holidays. They declared 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bird, Halloween, Hypercasual, Puzzle, Shoot, Shoot 'Em Up, Shooting

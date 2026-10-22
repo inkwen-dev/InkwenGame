@@ -19,6 +19,6 @@ In Tourist Drive city Bus Parking Simulator Game You must be having curiosity to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, HTML, HTML5, Parking, Simulation, Simulator

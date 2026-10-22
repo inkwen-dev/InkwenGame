@@ -21,4 +21,4 @@ Tram Jigsaw game is free online game in jigsaw puzzle genre. You have 6 images i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, train
+- Tags: HTML5, Jigsaw, Kids, Mobile, Puzzle, Train

@@ -19,6 +19,6 @@ Know more than others and are ready to test it? Then you should definitely play 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D, Arcade, Brain, Cartoon, Family, Fun, Hot, Hypercasual, King, Maze, Memory, Mine, Minecraft, Multiplayer, Puzzle, Quiz, Timing, Unity3D, Word, Zombie

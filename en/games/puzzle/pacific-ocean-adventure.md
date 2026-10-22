@@ -19,6 +19,6 @@ How about fishing in the depths of the Pacific ocean? You must fight against sha
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Bubble, Fish, fishing, Pixel, survival
+- Tags: 1 Player, 2D, Action, Adventure, Bubble, Fish, Fishing, Pixel, survival

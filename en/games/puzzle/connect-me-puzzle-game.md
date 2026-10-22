@@ -19,6 +19,6 @@ You should put the tiles in the correct position by dragging, dropping and rotat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Hypercasual, Logic, Logical, Mind, Puzzle, Relaxation

@@ -19,6 +19,6 @@ Stack burger and serve it to the customer! Make a perfect stack to gain more mon
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: burger, Business, Cook, Cooking
+- Tags: Burger, Business, Cook, Cooking

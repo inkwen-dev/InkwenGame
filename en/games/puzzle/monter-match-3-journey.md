@@ -19,6 +19,6 @@ Monter Match 3 Journey is a puzzle match 3 game. It will test your logical think
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Crazy, Cute, Fun, Hypercasual, Puzzle, Relaxation

@@ -19,6 +19,6 @@ Rainbow Princess Cake Maker Salon lets you make beautiful princess cakes! Mix th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cooking, Cute, Decorate, Dress Up, Fashion, Food, Girl, Girls, Kids, Simulation

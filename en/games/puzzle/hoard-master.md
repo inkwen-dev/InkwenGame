@@ -19,6 +19,6 @@ Hoard Master is a game to test your speed and responsiveness. Your goal is to co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Kids, Mobile, Skill

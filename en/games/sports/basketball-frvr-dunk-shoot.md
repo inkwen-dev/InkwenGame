@@ -19,6 +19,6 @@ Smash the rim and shoot hoops from the free throwing line. How many points in a 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, Sport, Sports

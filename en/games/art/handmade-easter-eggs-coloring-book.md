@@ -19,6 +19,6 @@ So Easter has come! Easter egg is a symbol of the spring holiday along with East
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Easter, Holiday

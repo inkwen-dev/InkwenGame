@@ -19,6 +19,6 @@ Master of Fishing - a new project for fans to sit with a fishing rod, and just r
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Fish, fishing
+- Tags: .io Games, 1 Player, Fish, Fishing, IO

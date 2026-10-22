@@ -19,6 +19,6 @@ Here is a car stunt racing arcade game waiting for you to challenge. Your goal i
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arcade, Avoid, Car, Mobile, Obstacle, Racing, WebGL

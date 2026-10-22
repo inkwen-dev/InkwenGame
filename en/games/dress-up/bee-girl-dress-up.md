@@ -19,6 +19,6 @@ Cute bee Bella loves flowers. It collects honey from all flowers. It makes very 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Decorate, Dress Up, Fashion, Fun, Girl, Girls, HTML5

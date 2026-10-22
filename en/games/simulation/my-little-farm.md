@@ -32,4 +32,4 @@
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cozy, farm, idle, Simulation
+- Tags: cozy, Farm, idle, Simulation

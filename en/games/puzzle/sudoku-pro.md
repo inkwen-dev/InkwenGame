@@ -21,4 +21,4 @@ Sudoku fait partie des jeux de puzzle les plus populaires de l’histoire. Le bu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Puzzle, sudoku, typing
+- Tags: Puzzle, Sudoku, Typing

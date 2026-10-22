@@ -19,6 +19,6 @@ Tile golf is a new golf game developed in javascript and HTML5 . The objective o
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Golf, HTML5, Kids

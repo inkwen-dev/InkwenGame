@@ -19,6 +19,6 @@ New innovative candy game comes! Objectives differ in over 100 levels. Make matc
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Baby, Funny, Puzzle

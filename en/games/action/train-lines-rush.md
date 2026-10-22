@@ -19,6 +19,6 @@ Here is a relaxation train collecting arcade game with a 3D vertical-version gam
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Avoid, Collecting, HTML5, Mobile, running, train
+- Tags: 3D, Arcade, Avoid, Collecting, HTML5, Mobile, running, Train

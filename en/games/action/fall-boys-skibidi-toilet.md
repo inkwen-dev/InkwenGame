@@ -19,6 +19,6 @@ Prepare for a whirlwind of whimsical chaos in Fall Boys Skibidi Toilet! This vib
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Fall Boys, Fall Guys, HTML5, Mobile, run, running, Skibidi, Skibidi Toilet

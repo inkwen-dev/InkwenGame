@@ -19,6 +19,6 @@ Race as SpongeBob SquarePants the Hedgehog as you run, dash, jump and spin your 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Best, Games, Hot, New, Racing, run, running, Spongebob, Subway Surfers

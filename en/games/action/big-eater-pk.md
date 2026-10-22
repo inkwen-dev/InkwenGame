@@ -19,6 +19,6 @@ This is a game about eating competition. The game is decompressing and the rules
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Crazy, Funny, H5, pvp, Restaurant, run, running
+- Tags: 3D Games, Action, Crazy, Funny, H5, PvP, Restaurant, run, running

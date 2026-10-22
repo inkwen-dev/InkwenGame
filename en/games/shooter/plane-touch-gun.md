@@ -19,6 +19,6 @@ In this game you need to protect the base from enemy planes. Shoot them and dest
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML, Plane, Shooter

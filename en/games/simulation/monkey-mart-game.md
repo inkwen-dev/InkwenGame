@@ -21,4 +21,4 @@ Monkey Mart is an idle/management game made by TinyDobbins. You control a cute m
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Cute, management, Monkey, Shopping
+- Tags: Animal, Arcade, Cute, Management, Monkey, Shopping

@@ -17,4 +17,4 @@ Dive into Tripeaks Solitaire 100 Levels, a mesmerizing card adventure with 100 p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

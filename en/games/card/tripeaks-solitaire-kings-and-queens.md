@@ -21,4 +21,4 @@ Become a member of our Kings and Queens Club and enjoy its unlimited possibiliti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Board, Brain, card, Casino, HTML, HTML5, Hypercasual, Mind, Solitaire, Summer
+- Tags: 3D, Arcade, Board, Brain, Card, Casino, HTML, HTML5, Hypercasual, Mind, Solitaire, Summer

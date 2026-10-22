@@ -19,6 +19,6 @@ Bike Rush is a cool 3D bike racing game, you will drive your favorite car and jo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Balance, Bike, Boy, Boys, H5, Highscore, HTML, HTML5, Kids, Mobile, Obstacle, Race, Racing, Skill, Skills, Stunts

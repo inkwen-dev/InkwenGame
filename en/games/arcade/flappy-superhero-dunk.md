@@ -19,6 +19,6 @@ Click or Tap to bounce up. Do perfect dunks to earn bonus points. Get high score
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Casual, Clicker, Fun, HTML, HTML5, Mobile

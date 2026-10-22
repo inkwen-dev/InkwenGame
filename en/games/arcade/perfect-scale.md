@@ -19,6 +19,6 @@ Prefect Scale Game is a fun, challenging, and rewarding game. Fruit weight style
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Casual, Classic, Crazy, Highscore

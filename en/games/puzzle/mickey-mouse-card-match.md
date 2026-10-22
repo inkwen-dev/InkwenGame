@@ -19,6 +19,6 @@ Mickey Mouse is a funny animal cartoon character and the official mascot of The 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Match 3, Puzzle
+- Tags: Cartoon, Match-3, Puzzle

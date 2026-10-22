@@ -19,6 +19,6 @@ Challenge a buddy to a race and see who will emerge as the ultimate racer. X-Rac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Driving, Flight, Racing, Unity3D

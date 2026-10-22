@@ -38,4 +38,4 @@ A tap-timing fishing game: time your reel and land the catch before it escapes.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: fishing, Skill
+- Tags: Fishing, Skill

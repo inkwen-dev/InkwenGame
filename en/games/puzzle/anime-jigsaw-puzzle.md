@@ -19,6 +19,6 @@ Anime Jigsaw Puzzle is a premium quality puzzle game, with amazing puzzle image 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Brain, Dragon, Dragon Ball Z, Jigsaw, Puzzle

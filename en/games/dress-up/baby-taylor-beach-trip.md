@@ -19,6 +19,6 @@ Everyone loves to enjoy summer vacation and the beach. Spend your summer at the 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cook, Cooking, Decorate, Design, Doctor, Dress Up, Fashion, Girl, Girls, Makeover, Simulation, Surgery

@@ -19,6 +19,6 @@ Freddy Run 1 is a hyper casual spooky running game where you need to help a youn
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ghost, Jumping, Monster, Platform, run, running, Skill, Superhero

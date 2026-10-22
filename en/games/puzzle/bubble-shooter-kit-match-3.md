@@ -19,6 +19,6 @@ Play the most popular bubble shooter game for FREE in Bubble Shooter Kit! Bubble
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Android, Animal, Anime, Ball, Ballon, Brain, Bubble, Bubble Shooter, Cartoon, Puzzle, Shooter, Shooting, Zuma

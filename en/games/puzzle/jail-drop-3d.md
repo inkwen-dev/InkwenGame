@@ -19,6 +19,6 @@ Jail Drop is a physics puzzle where youve got to get the little prisoner down to
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Casual, free html5 games for your website, Kids, mapi games, Physics

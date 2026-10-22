@@ -19,6 +19,6 @@ A new kind of word search games with emoji instead of words. It's really fun. If
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Brain, Casual, Educational, Word

@@ -19,6 +19,6 @@ In a large and deep lake lives a huge number of fish. They all lived in peace un
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Animal, Fish, Fun, HTML5, Kids, Skill

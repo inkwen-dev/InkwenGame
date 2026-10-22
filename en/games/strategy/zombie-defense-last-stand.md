@@ -19,6 +19,6 @@ Hold the line. Build deadly defenses. Survive the zombie rush. In this fast-pace
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Battle, Defense, Fight, Gun, Strategy, Tower Defense, Zombie

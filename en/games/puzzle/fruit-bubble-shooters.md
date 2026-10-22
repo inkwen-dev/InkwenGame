@@ -19,6 +19,6 @@ This is a brand new and super addictive fruit bubble shoot game, once the start,
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, Bubble, Bubble Shooter, Casual, Match 3, Match3, Matching, Puzzle

@@ -19,6 +19,6 @@ What’s the best way to build your child’s logic skills and help them recogni
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Baby, Baby Hazel, Cartoon, Casual, Cleaning, Fun, Funny, Girl, Hot, Hypercasual, Puzzle, Unity3D

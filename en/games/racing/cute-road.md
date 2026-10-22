@@ -19,6 +19,6 @@ Cute Road, are you ready to go on a challenging road? Do you know, your vehicle 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, jump, Jumping, Kids, Race, Racing

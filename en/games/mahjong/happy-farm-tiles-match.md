@@ -21,4 +21,4 @@ Test your skills by matching and linking the same kind images and work your way 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, Casual, farm, Fruit, Mahjong, Puzzle
+- Tags: Board, Casual, Farm, Fruit, Mahjong, Puzzle

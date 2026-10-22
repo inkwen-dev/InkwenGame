@@ -19,6 +19,6 @@ Meet the &laquo;Kung-Fu Little Animals&raquo; - an exciting childrens clicker ga
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Clicker, Funny, Kids

@@ -19,6 +19,6 @@ Rescue Puzzle 3D is a lightweight 3D fun puzzle game. You need to click on the c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Logic, Obstacle, Physics, trap

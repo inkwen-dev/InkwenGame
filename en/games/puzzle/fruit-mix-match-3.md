@@ -19,6 +19,6 @@ Nice summer game. It is not at all necessary to draw lines here - just click on 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Fruits, Fun, Funny, Match 3, Match3, Matching

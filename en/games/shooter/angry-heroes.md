@@ -19,6 +19,6 @@ Are those here who miss crazy angry birds? The adventure with Angry Heroes is ba
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Animal, Bird, Classic, Clicker, Funny, Mobile, Shooter

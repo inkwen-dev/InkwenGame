@@ -19,6 +19,6 @@ Begin an exciting adventure in the world of Minecraft Blockman Go. The spaceship
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Minecraft, Spaceship, survival

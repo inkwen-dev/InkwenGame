@@ -19,6 +19,6 @@ Jewel Miner is a simple and fun clicker game. Select 2 or more jewels with the s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Match 3, Puzzle

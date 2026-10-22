@@ -19,6 +19,6 @@ Bug Blaster is a game where you work as an insect exterminator. You need to dest
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Kids, Puzzle, Shoot, Shooter

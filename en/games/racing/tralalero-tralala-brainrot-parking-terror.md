@@ -17,4 +17,4 @@ Dive into a whimsical nightmare where logic unravels in a dimly-lit labyrinth. E
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ How does the girl win her love in the swimming pool? Get Lucky is actually not a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Collecting, Dress Up, Mobile, Platform, Simulation, WebGL

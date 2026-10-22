@@ -17,4 +17,4 @@ Navigate a bleak wasteland where every choice counts. In Wasteland Wanderer, man
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

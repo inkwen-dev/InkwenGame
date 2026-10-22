@@ -21,4 +21,4 @@ memorize the variety of birds that are shown to you in each of the images. The b
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Bird, card, Memory
+- Tags: Animal, Arcade, Bird, Card, Memory

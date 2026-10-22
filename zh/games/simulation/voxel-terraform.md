@@ -59,4 +59,4 @@ ESC / TAB — 菜单
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 制作, Minecraft, 模拟游戏, 生存
+- 标签: 手工, 我的世界, 模拟, 生存

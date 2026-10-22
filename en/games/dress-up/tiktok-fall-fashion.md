@@ -19,6 +19,6 @@ In this online game for girls called TikTok Fall Fashion, you help three beautif
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Elsa, Fashion, Frozen, Games, HTML5, Makeover, Princess

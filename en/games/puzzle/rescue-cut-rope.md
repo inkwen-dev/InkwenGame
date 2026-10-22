@@ -19,6 +19,6 @@ Follow the adventure of the Rescue Cut Rope game. Get it now for free and start 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Casual, cut, Hypercasual, Puzzle, Rescue, Skill

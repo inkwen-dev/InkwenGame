@@ -21,4 +21,4 @@ Causal top down farming game, with unique scene based play. Grow crops, sell the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Fantasy, farm, Fruits, Retro
+- Tags: 2D, Fantasy, Farm, Fruits, Retro

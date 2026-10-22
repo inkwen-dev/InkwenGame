@@ -21,4 +21,4 @@ This is a thrilling real-time survival strategy game where you control a growing
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, horror, Knight, Shooter, Shooting, Zombie
+- Tags: Action, Horror, Knight, Shooter, Shooting, Zombie

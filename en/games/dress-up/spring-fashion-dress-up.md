@@ -19,6 +19,6 @@ Winter is ending and preparations for spring begin. Fashion designers prepared s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Game, Games, Girl, Girls, HTML5

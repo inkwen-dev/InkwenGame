@@ -19,6 +19,6 @@ A special type of chess, using Chinese chess to play. It is a very interesting c
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Casual, Classic, Hypercasual, Strategy, Turn

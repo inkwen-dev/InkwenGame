@@ -19,6 +19,6 @@ In Shaun the SHeep Flock Together you must herd the sheep to safety by matching 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, Shark, Shoot, Shooting

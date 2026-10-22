@@ -19,6 +19,6 @@ Hop on your BMX and swipe, jump, duck, dodge and dash your way to victory! Non-s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Bike, H5, Hot, HTML, HTML5, Hypercasual, jump, Jumping, Race, Racing, running, subway, Subway Surfers

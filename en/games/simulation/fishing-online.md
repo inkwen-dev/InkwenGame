@@ -17,4 +17,4 @@ Dive into "Fishing Online" and experience the thrill of mastering the art of ang
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

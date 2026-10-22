@@ -19,6 +19,6 @@ Kitty Chase is a html5 arcade game, tab to jump and avoid the dog, Collect candy
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Animal, Avoid, Cat, Hello Kitty, HTML5, Obstacle, run

@@ -21,4 +21,4 @@ World Flags Quiz is a fast-paced, fun, and educational mobile game that challeng
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Educational, Kids, mouse, Quiz, trivia
+- Tags: Educational, Kids, Mouse, Quiz, trivia

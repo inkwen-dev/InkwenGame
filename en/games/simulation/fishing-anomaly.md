@@ -17,4 +17,4 @@ Dive into a post-apocalyptic adventure where fishing meets survival. Unravel mys
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

@@ -19,6 +19,6 @@ Help the dove trash some eggs! Trash It Dove – is an arcade-style casual game.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Arcade, Bird, Casual, Chicken, Click, Fun, Funny, Obstacle, Worms

@@ -19,6 +19,6 @@ Skibidi Triple Jump Game, a single-touch jumping reaction game, has everything y
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML, HTML5, Hypercasual, jump, Jumping, Mobile, Skibidi, Skibidi Toilet

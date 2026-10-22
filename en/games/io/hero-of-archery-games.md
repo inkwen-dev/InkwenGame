@@ -19,6 +19,6 @@ Enter a world where existence itself is eliminate you! You are the Lone Archer, 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Action, Adventure, Arcade, Arena, Bounce, Boys, Casual, Craft, Escape, Hypercasual, Online

@@ -1,0 +1,24 @@
+# 周五夜晚节奏滑块
+
+<a href="https://inkwengame.com/zh/games/friday-night-funkin-slide" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/friday-night-funkin-slide/cover.jpg)
+
+这是一款有趣的独立游戏，玩家需要具备节奏感，根据音乐完成动作并完成任务。剧情基于两位角色的故事，他们的名字分别是男孩和女孩。他们梦想着在一起，但有一个巨大的障碍，那就是心爱英雄的严厉父亲，他不惜一切代价阻止这段感情。你能收集所有英雄的照片吗？
+
+## 怎么玩
+
+使用鼠标或轻触屏幕
+
+## 介绍
+
+这是一款有趣的独立游戏，玩家需要具备节奏感，根据音乐完成动作并完成任务。剧情基于两位角色的故事，他们的名字分别是男孩和女孩。他们梦想着在一起，但有一个巨大的障碍，那就是心爱英雄的严厉父亲，他不惜一切代价阻止这段感情。你能收集所有英雄的照片吗？
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: HTML5, 移动

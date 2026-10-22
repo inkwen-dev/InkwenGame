@@ -21,4 +21,4 @@ W 方向键向上 rarr 前进 S 方向键向下 rarr 后退 A 方向键向左 ra
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 城市, 驾驶, 停车, 模拟游戏, 拖拉机
+- 标签: 城市, 驾驶, 停车, 模拟, 拖拉机

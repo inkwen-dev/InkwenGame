@@ -19,6 +19,6 @@ AIM BALL is a 3D basketball shooter played with one finger. Swipe up to shoot: t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Basketball, Sports

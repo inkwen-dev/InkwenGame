@@ -19,6 +19,6 @@ Crazy Chase, a funny driving game where you have a mini super speedy car and you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, Police, Race, Unity3D, WebGL

@@ -19,6 +19,6 @@ Hook Master: Mafia City is a casual puzzle game that combines puzzle solving, es
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Fight

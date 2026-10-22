@@ -19,6 +19,6 @@ Mine Blocks is a 2D Minecraft caves game where you have to dash the blocks and c
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best Games, Block, dash, html games for your website, Kiz 10, Levels, Minecraft, Miner

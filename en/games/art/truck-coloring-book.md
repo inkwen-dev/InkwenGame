@@ -19,6 +19,6 @@ Truck Coloring Book is a free online coloring and truck game! In this game you w
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Educational, Fun, HTML5, Mobile, Skill, Truck

@@ -19,6 +19,6 @@ Take your dino buddy T-Rex for a run along the North American plains in this sup
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Click, Clicker

@@ -19,6 +19,6 @@ Connect is a highly addictive bubble game that challenges players to connect as 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Adventure, Aircraft, Animal, Ball, Ballon, Basketball, Bubble, Cartoon, Casual, Classic, Click, Clicker, Collection, Color, Coloring, Family, Highscore, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Puzzle, Unity3D, WebGL

@@ -19,6 +19,6 @@ Dance to the beat of the roaring Bollywood tunes using the bouncy ball. Help him
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adult, Adventure, Baby, Click, Clicker, HTML, HTML5, Kid, Kids, Music, Point And Click, Unity3D

@@ -17,4 +17,4 @@ Rescue delightful pandas across 80 captivating levels in Pandjohng Solitaire. En
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

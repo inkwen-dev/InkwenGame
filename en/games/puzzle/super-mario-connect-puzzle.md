@@ -19,6 +19,6 @@ Super Mario Connect Puzzle is a game in which blocks with various patterns are c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mario, Match 3, Match3, Matching, Puzzle, Super

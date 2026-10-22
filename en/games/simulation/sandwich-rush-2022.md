@@ -19,6 +19,6 @@ The sandwich runner maker is at your service; gather your preferred ingredients 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Arcade, Cooking, HTML5, Mobile, Unity3D, WebGL

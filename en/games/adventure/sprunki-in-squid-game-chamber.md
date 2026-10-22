@@ -21,4 +21,4 @@ In the heart of the notorious Squid Game Chamber, there is only one thing on Spr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, horror, School, Sprunki, unity games
+- Tags: 1 Player, 3D Games, Horror, School, Sprunki, unity games

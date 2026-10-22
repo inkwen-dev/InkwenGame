@@ -42,4 +42,4 @@ Optimized performance: smooth controls and responsive gunplay in the browser
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Army, Boys, First Person Shooter, Gun, Multiplayer, pve, pvp, Shooting, Sniper
+- Tags: 3D, Action, Army, Boys, First Person Shooter, Gun, Multiplayer, pve, PvP, Shooting, Sniper

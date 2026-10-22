@@ -21,4 +21,4 @@ Have you ever wanted to drive the fastest speedboat? Feel the stunt and thrill o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Enemies, Enemy, running
+- Tags: Boat, Enemies, Enemy, running

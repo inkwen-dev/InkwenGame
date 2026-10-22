@@ -25,4 +25,4 @@ Shred The Meme! Slice memes, get fun power ups, and beat your high score and sha
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Funny, mouse, Skill
+- Tags: Action, Arcade, Funny, Mouse, Skill

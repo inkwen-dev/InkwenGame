@@ -19,6 +19,6 @@ ABC words is a game developed for children with the aim of teaching words throug
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon, Click, Clicker, Educational, Family, Game, Games, HTML, HTML5, Kid, Kids, Letters, Logic, Mobile, Online, Puzzle, Quiz, School

@@ -19,6 +19,6 @@ Shuffle Sage &ndash; A Solitaire Challenge of Wisdom and Strategy Step into the 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Casual, Solitaire
+- Tags: Card, Casual, Solitaire

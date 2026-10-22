@@ -19,6 +19,6 @@ Bounce from wall to wall and avoid the spikes! You can jump as many times as you
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Ball, Bounce, Casual, Games

@@ -19,6 +19,6 @@ Get ready to play Extreme City Car Stunts - 3D car GT Racing in Impossible Track
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, Game, Games, Race, Racing, Simulation, Simulator, Sport, Sports, Stunts, Supercars, Unity3D

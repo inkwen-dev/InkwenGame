@@ -19,6 +19,6 @@ Ready for a delicious and cute animal puzzle challenge? In Goose Match 3D, you&r
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Food, Match 3

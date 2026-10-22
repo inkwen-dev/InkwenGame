@@ -19,6 +19,6 @@ Line your business with gold, antique guns, jewelry, art - whatever you can get 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Game, Games, Shopping

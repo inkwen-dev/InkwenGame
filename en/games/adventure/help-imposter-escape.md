@@ -19,6 +19,6 @@ Help Imposter Escape is an adventure escape casual game. The operation is simple
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boy, Boys, Escape, Fun, H5, HTML5, Kid, Kids

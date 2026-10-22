@@ -19,6 +19,6 @@ Lucky Looter is a new addictive 3D game, featuring colorfull environments and ho
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Brain, Hypercasual

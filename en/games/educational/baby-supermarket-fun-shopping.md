@@ -19,6 +19,6 @@ Welcome to the biggest supermarket in the Town! Baby and Mommy Panda have to do 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Educational, Fun, Girl, Girls, H5, HTML5, Shopping

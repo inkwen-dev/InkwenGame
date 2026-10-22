@@ -53,4 +53,4 @@ A: The music is a nice addition for the atmosphere but is not essential for comp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, boat
+- Tags: 3D, Boat

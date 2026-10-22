@@ -81,4 +81,4 @@ A: The game features achievements that can be obtained during gameplay. For exam
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Crafting, management, Minecraft
+- Tags: Adventure, Crafting, Management, Minecraft

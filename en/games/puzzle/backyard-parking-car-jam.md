@@ -21,4 +21,4 @@ Play one of the most realistic parking games on the market. Drive various cars e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Ball, Baseball, Boy, Boys, Bubble, Bubble Shooter, Candy, card, Cars, drift, drifting, Driving, Fruits, Fun, Funny, Game, Games, gta, Parking, Simulation, Simulator, sky, Supercars, Truck
+- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Ball, Baseball, Boy, Boys, Bubble, Bubble Shooter, Candy, Card, Cars, drift, drifting, Driving, Fruits, Fun, Funny, Game, Games, gta, Parking, Simulation, Simulator, sky, Supercars, Truck

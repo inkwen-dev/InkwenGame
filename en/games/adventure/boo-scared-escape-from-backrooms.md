@@ -17,4 +17,4 @@ Trapped by a deranged cat in an enigmatic labyrinth, solve clever riddles to esc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

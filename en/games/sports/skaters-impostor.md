@@ -19,6 +19,6 @@ Skaters Impostor, are you ready to play a new game Among us? Get ready to ride a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Mobile, Skateboard, Sport, subway

@@ -19,6 +19,6 @@ Puppy Dog is an arcade game that will have your pup begging for more as he colle
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Collecting, Collection, Game, Games, HTML5

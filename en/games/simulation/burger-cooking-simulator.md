@@ -19,6 +19,6 @@ top burger master is an addictive cooking and café the board game that mixes yo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, burger, Cook, Cooking, Girl, Girls, HTML5, Mobile, Simulation
+- Tags: Baby, Baby Hazel, Burger, Cook, Cooking, Girl, Girls, HTML5, Mobile, Simulation

@@ -19,6 +19,6 @@ Fast Jump 3D is a fun action game. Our goal in this game will be to jump from bl
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Game, Games, HTML5, jump

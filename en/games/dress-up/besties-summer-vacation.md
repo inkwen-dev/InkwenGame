@@ -19,6 +19,6 @@ In this new Besties Summer Vacation game, Princess is planning for a cute summer
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, bus, Cleaning, Cute, Decoration, Disney, Dress Up, Girl, Holiday, HTML5, Princess, Summer

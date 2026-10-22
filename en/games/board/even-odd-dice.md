@@ -36,4 +36,4 @@ Play Even Odd Dice – a thrilling online game for 1-4 players! Easy rules, fun 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Board, Brain, Mobile, mouse, two-player
+- Tags: Board, Brain, Mobile, Mouse, two-player

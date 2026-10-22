@@ -43,4 +43,4 @@ Super satisfying, easy to pick up and impossible to put down. How big can your f
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, cozy, farm, management, Simulation, tycoon
+- Tags: 3D, cozy, Farm, Management, Simulation, tycoon

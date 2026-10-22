@@ -19,6 +19,6 @@ Space Jam Jigsaw is an interesting jigsaw movie game, which is developed for kid
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Fun, Girl, HTML, HTML5, Jigsaw, Kid, Mobile, movie, Puzzle, Space
+- Tags: Cartoon, Fun, Girl, HTML, HTML5, Jigsaw, Kid, Mobile, Movie, Puzzle, Space

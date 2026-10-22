@@ -19,6 +19,6 @@ Get familiar with a new Car Parking Fun Driving School: Car Games 2020 in era of
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, Adult, Adventure, Arcade, bus, Car, Cars, Game, Games, Ladybug, Love, Miraculous Ladybug, Race, Racing, Road, Supercars, Truck

@@ -19,6 +19,6 @@ Minecraft Adventure is fun running and jumping game suitable for all ages. Run a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Collecting, Game, HTML5, jump, Jumping, Minecraft, Mobile, Platform, run, running, Skill

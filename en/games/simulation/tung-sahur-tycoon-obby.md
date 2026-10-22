@@ -19,6 +19,6 @@ Run, jump, and build your empire in Tung Sahur Obby, a colorful 3D parkour game 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, Brain, Brainrot, Brainrot Italian, Brainrot sahuuur, Fun, jump, roblox, Sahur, Tung, Tung Tung, Tung Tung Tung, Tung Tung Tung Sahur

@@ -21,4 +21,4 @@ Find your way to escape from the Tsunami. Each level is a challenge. Are you rea
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Adult, Adventure, Air, Alien, Android, Animal, Anime, Arcade, Arena, Army, Avoid, Baby, Baby Hazel, Balance, Barbie, Battle, Best, boat, Boy, Boys, Escape, Family, Girl, Girls, Kid, Kids, Shark, Zuma
+- Tags: 3D, Action, Adult, Adventure, Air, Alien, Android, Animal, Anime, Arcade, Arena, Army, Avoid, Baby, Baby Hazel, Balance, Barbie, Battle, Best, Boat, Boy, Boys, Escape, Family, Girl, Girls, Kid, Kids, Shark, Zuma

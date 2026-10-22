@@ -19,6 +19,6 @@ Marble Rolling Stunt is classic Slope game in a new coat. The game is colorful a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Skill, Unity3D, WebGL

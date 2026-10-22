@@ -19,6 +19,6 @@ Scary Math is an educational game. Here players need to choose right or wrong fr
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Game, Games, Girl, Girls, Math

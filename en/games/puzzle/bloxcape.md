@@ -19,6 +19,6 @@ Bloxcape is a puzzle game with minimalistic graphics and sound effects. Take out
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Casual, Fun, HTML5, Hypercasual, Logic, Logical, Mobile, Skill

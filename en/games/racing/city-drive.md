@@ -19,6 +19,6 @@ Features • 3 game modes • Multiple customizable cars
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cars, city, Simulator, Unity3D, WebGL

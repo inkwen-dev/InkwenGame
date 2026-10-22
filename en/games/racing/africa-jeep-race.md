@@ -19,6 +19,6 @@ Are you ready to race on the dusty roads of Africa? There are 12 different racin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Action, Adventure, Arcade, Boy, Car, Funny, Racing, Skill

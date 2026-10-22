@@ -19,6 +19,6 @@ Hurry up doctor, we have an emergency in Central Hospital! A pregnant woman is o
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Baby, Baby Hazel, Boy, Boys, Doctor, Games, Girl, Girls, House, Kid, Kids, Online

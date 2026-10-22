@@ -19,6 +19,6 @@ Spot the Odd One is a fun game where user taps the picture that doesn&rsquo;t ma
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Educational, html5 games, Kids, Logical, Mobile

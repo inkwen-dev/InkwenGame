@@ -19,6 +19,6 @@ Improve your racing and drifting skills and earn virtual money to tune and custo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Best, Car, Cars, city, Race, Racing

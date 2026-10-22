@@ -19,6 +19,6 @@ Welcome to an exciting journey into the world of Korean doramas heroes! Here you
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Dress Up, Hair, Makeover

@@ -19,6 +19,6 @@ The moment has arrived to persevere in a hostile and mysterious environment. In 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, horror, kiz10, Monster, running
+- Tags: Escape, Horror, kiz10, Monster, running

@@ -19,6 +19,6 @@ Poppy Jokenpo is a rock-paper-scissors style game where the objective: Then, pla
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Mind, Puzzle

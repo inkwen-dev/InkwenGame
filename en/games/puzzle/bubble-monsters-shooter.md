@@ -19,6 +19,6 @@ Bubble Monsters Shooter Aim and release to shoot and pop 2 more more identical b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bubble, Bubble Shooter, Casual, Monster, Puzzle, Shoot, Shoot 'Em Up, Shooter, Shooting

@@ -19,6 +19,6 @@ Mike & Munk is a game where you control 2 characters: the boy and the squirrel. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Animal, Brain, Kid, Kids, Maze, New, Pixel, Puzzle

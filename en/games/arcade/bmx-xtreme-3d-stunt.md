@@ -19,6 +19,6 @@ BMX stunt with 100 levels is good for any type of use from your website, second 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Bike, Fun, Stunts, Unity3D, WebGL

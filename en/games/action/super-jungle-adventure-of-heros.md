@@ -19,6 +19,6 @@ new super jungle adventure platformer gam is a super classic adventure and legen
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fun, Funny, Jumping, running, Unity3D

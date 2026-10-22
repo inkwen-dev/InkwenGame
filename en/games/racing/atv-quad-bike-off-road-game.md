@@ -19,6 +19,6 @@ You need to gave your full skill of driving to achieved their desired result qua
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bike, Defense, Design, Race, Stunts

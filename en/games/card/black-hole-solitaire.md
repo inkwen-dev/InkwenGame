@@ -21,4 +21,4 @@ Black Hole is an addictive solitaire card game with similar rules as Tri Peaks o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, card, Solitaire, Space
+- Tags: 1 Player, Card, Solitaire, Space

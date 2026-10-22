@@ -19,6 +19,6 @@ Get ready for quick and exciting football action in Soccer Mini 3D! Control your
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Food, Football, Hypercasual, Soccer, Sport

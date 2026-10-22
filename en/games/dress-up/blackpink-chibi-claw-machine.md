@@ -19,6 +19,6 @@ Try your luck in the new game BlackPink Chibi Claw Machine. Use the right, left 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Anime, Arcade, Celebrity, Collecting, Cool, cut, endless, Fashion, Fun, HTML5

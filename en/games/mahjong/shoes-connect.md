@@ -19,6 +19,6 @@ Who likes onet puzzle games? Welcome to Shoes Connect Puzzle. Tap or Click to co
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Clicker, Mahjong, Puzzle

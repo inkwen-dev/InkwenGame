@@ -25,4 +25,4 @@ Join “Heroes of the Arena” and start your journey through the exciting world
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Multiplayer, pve, pvp
+- Tags: Action, Multiplayer, pve, PvP

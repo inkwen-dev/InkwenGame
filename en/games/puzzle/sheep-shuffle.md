@@ -21,4 +21,4 @@ Collect sheep in this Zuma-style game. Play as a herding dog and group sheep of 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Bubble Shooter, farm, Zuma
+- Tags: Animal, Bubble Shooter, Farm, Zuma

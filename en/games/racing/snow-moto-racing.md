@@ -19,6 +19,6 @@ Do you like snow and extreme speed racing? Ride your snow moto and enter the new
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, drift, Driving, HTML5, Mobile, Moto, Motorcycle, Obstacle, Online, Skill, Skills, Winter

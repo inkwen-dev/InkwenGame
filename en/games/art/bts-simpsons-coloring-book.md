@@ -19,6 +19,6 @@ BTS Simpsons Coloring Book is a fun and free online coloring game for kids! Sele
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Kids, School, Simpson

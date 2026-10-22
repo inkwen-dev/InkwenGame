@@ -19,6 +19,6 @@ Embark on a thrilling winter adventure with winter sledge adventure, the ultimat
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Race, Racing

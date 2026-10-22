@@ -17,4 +17,4 @@ Join Bip Bip on a peaceful yet ambitious adventure in Julalan. Navigate enchanti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

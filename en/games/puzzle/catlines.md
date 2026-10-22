@@ -19,6 +19,6 @@ Simple match 5 game for kids designed to enhance logical thinking skills. Match 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Hypercasual, Kids, Match 3

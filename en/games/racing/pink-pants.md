@@ -19,6 +19,6 @@ The game is easy to play for all family and kids it's simple, fun and incredibly
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Flight, fly, Race, Racing, Super, Superhero

@@ -19,6 +19,6 @@ Embark on an exciting adventure in Island Idle! Collect wood, stone, and food to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Forest, idle, Island, Mentolatux, Skill, survival, unblocked games, WebGL

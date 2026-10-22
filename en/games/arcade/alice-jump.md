@@ -19,6 +19,6 @@ Welcome to the world of Magical Island where Alice has to find fairy to save her
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Collecting, Fantasy, jump, Jumping, Magic

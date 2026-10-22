@@ -21,4 +21,4 @@ Crazy Driver Men
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, 2D, Action, Adventure, Aircraft, Android, Animal, Anime, Army, Baby, Barbie, Battle, Ben 10, Best, Bike, Bounce, Boy, Boys, Brain, Bubble, Cake, Candy, Car, card, Cars, Cartoon, Casual, Cat, Classic, Color
+- Tags: .io, 2D, Action, Adventure, Aircraft, Android, Animal, Anime, Army, Baby, Barbie, Battle, Ben 10, Best, Bike, Bounce, Boy, Boys, Brain, Bubble, Cake, Candy, Car, Card, Cars, Cartoon, Casual, Cat, Classic, Color

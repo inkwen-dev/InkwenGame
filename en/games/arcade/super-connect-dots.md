@@ -19,6 +19,6 @@ Super Connect Dots 56 is one of the simple and addictive line puzzle game. each 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Fun, Game, Games, HTML5, Matching, Puzzle

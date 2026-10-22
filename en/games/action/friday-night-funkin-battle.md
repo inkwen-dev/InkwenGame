@@ -19,6 +19,6 @@ Friday Night Funkin Battle is a free online skill and hidden object game. Find o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Funny, Girl, Girls, Hypercasual, Music, Puzzle

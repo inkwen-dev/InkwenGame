@@ -19,6 +19,6 @@ We have for you another new game in which you will have as main character Sofia 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon, Cartoon Network, Doctor, Kids, Simulation, Surgery

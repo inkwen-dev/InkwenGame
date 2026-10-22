@@ -19,6 +19,6 @@ This is a small leisure decompression game. The game is very simple without usin
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Fun, Funny, Game, Games, Girl, Girls, H5, Highscore, HTML5, Hypercasual, Kid, Kids, Mobile, run, Sport

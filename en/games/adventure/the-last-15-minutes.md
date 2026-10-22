@@ -19,6 +19,6 @@ The Last 15 Minutes &ndash; Horror Puzzle Game Trapped in a dark basement with f
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, fps, horror, Puzzle
+- Tags: Escape, fps, Horror, Puzzle

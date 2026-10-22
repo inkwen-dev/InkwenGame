@@ -19,6 +19,6 @@ This is memory game with cute owl in cards. Touch the cards and pair two cards w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Kids, Memory, Puzzle

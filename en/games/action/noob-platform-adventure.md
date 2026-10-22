@@ -19,6 +19,6 @@ Noob Platform Adventure is super fun survival game that you can play online for 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Collecting, HTML5, Hypercasual, jump, Kids, Minecraft, Platform, Puzzle, Skill

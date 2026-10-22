@@ -21,4 +21,4 @@ Best New Slots for 2021 is Age of Slots™, the Best New Hit Vegas Slot Games Fr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, card, Casino, Castle, Girl, Slot Machine
+- Tags: Arcade, Card, Casino, Castle, Girl, Slot Machine

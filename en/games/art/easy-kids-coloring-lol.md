@@ -19,6 +19,6 @@ Easy Kids Coloring LOL is fun coloring game and you can play it fot FREE! Printa
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Celebrity, Color, Coloring, Fun, Girls, HTML5, Kids, Mobile, School

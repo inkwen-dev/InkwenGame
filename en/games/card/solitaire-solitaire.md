@@ -21,4 +21,4 @@ Rediscover a great classic game on your phone or pc: The Solitaire. Challenge yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Brain, card, King, Puzzle, Solitaire
+- Tags: Arcade, Brain, Card, King, Puzzle, Solitaire

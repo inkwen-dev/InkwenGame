@@ -19,6 +19,6 @@ The game "Brawl Stars" became a real hit and in a matter of weeks topped the top
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, HTML5, Kids, Mobile

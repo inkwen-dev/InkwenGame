@@ -17,4 +17,4 @@ Embark on a text-based adventure in Tale of the Fiery Dragon, where your choices
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

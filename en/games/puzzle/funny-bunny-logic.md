@@ -19,6 +19,6 @@ Logic puzzle game. Unusual and difficult brain test challenge with over 45 level
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Family, HTML5, Logic, Logical, Memory, Puzzle, Rabbit

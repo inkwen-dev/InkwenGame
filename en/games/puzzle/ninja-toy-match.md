@@ -19,6 +19,6 @@ Ninja Toy Match is a match-3 game in toy-furniture setting. You have to make cha
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Kids, Match 3, Puzzle

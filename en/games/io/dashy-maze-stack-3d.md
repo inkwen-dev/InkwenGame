@@ -19,6 +19,6 @@ Stacky Maze Dash is a stacky dash cube collectin game. In stacky dash game, you 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D Games, Block, Unity3D

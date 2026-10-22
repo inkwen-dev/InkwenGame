@@ -19,6 +19,6 @@ Supermarket Cash Register Superstore Simulator & Grocery Shopping Games for Kids
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, 3D, 3D Games, Adventure, Arcade, Barbie, Boy, Boys, Fashion, Game, Girl, Girls, Ladybug, Nail, Nails, Shopping

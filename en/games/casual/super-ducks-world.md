@@ -19,6 +19,6 @@ Super Duck&rsquo;s World is a fun and exciting 2D adventure game with 45 challen
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Bounce, Cartoon, Crazy, Jumping

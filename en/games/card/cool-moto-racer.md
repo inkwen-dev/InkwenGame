@@ -21,4 +21,4 @@ Enjoy 3D bike racing game and be an xtreme bike rider. Perform insane stunt acti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, 3D, 3D Games, Action, Adult, Adventure, Aircraft, Arcade, Arena, Arkanoid, Army, Avoid, Baby, Baby Hazel, Batman, Battle, Battlegrounds, Bejeweled, Ben 10, Bike, Boy, Boys, Brain, Brawl, Candy, Car, card, Cars, Cartoon, Cartoon Network, Casino, Clash, Classic, Cleaning, Click, Clicker, Collecting, Craft, Crafting, Crazy, CSGO, Decorate, Decoration, Dora, Dragon, Dragon Ball Z, Fighting, Friv, Game, Games, Gun, Killing, Play, Race, Racing, Samurai, Shoot, Strategy, Traffic, train, Zombie
+- Tags: 2D, 3D, 3D Games, Action, Adult, Adventure, Aircraft, Arcade, Arena, Arkanoid, Army, Avoid, Baby, Baby Hazel, Batman, Battle, Battlegrounds, Bejeweled, Ben 10, Bike, Boy, Boys, Brain, Brawl, Candy, Car, Card, Cars, Cartoon, Cartoon Network, Casino, Clash, Classic, Cleaning, Click, Clicker, Collecting, Craft, Crafting, Crazy, CSGO, Decorate, Decoration, Dora, Dragon, Dragon Ball Z, Fighting, Friv, Game, Games, Gun, Killing, Play, Race, Racing, Samurai, Shoot, Strategy, Traffic, Train, Zombie

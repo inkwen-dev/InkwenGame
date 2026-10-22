@@ -19,6 +19,6 @@ Classic Klondike solitaire game with two levels of difficulty and 3D background.
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, card, Casual, Mobile
+- Tags: 3D, 3D Games, Card, Casual, Mobile

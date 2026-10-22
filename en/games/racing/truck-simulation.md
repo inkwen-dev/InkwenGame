@@ -19,6 +19,6 @@ Truck Simulation gives you the chance to step into the life of a real trucker! S
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Driving, Racing, Simulation, Truck, trucks

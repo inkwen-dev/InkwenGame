@@ -19,6 +19,6 @@ Discover Music with the Sprunki Crew. Sprunki Piano Explorer is a joyful and fre
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Educational, Girl, Hypercasual, Kids, Makeover, Music, School, Simulation, Sprunki

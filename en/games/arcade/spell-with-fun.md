@@ -19,6 +19,6 @@ Spell with fun is a very fun and educational game that also have 30 levels 30 di
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Educational, Hypercasual, Puzzle, School

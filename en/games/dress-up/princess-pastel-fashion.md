@@ -19,6 +19,6 @@ Hey Girls! Pastels are totally in this season! That’s why these stylish prince
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Best, Casual, Color, Cute, Design, Dress Up, Fashion, Game, Girls, HTML5, Kids, Princess

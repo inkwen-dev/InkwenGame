@@ -19,6 +19,6 @@ Halloween coloring books game has a lot of success review and player this MONTH 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Color, Coloring, Educational, Halloween, Kid, Kids, Turn Based

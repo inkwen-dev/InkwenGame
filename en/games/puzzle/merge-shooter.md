@@ -19,6 +19,6 @@ In Merge Shooter, defend the galaxy by merging turrets to fight off alien invade
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Casual, Strategy, Tower Defense

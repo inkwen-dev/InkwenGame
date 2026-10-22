@@ -21,4 +21,4 @@ Survive, craft, and explore a vast untamed world in Everwild Survival, where eve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, Best, Best Games, building, Cooking, Crafting, farm, fishing, Food, Forest, hunting, survival
+- Tags: 2026 games, Best, Best Games, building, Cooking, Crafting, Farm, Fishing, Food, Forest, Hunting, survival

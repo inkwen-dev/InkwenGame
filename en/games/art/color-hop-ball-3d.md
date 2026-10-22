@@ -19,6 +19,6 @@ Hop Ball 3D: Dancing Ball on the Music Tiles Hop ball on the music tiles 3D
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Color, Coloring, jump, Jumping, Shopping

@@ -21,4 +21,4 @@ Experience the thrill of speed in 3D Racing Typing Game! Boost your car by typin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Best, Best Games, Car, car tuning, Cars, Cartoon, drift, Driving, Supercars, typing, vehicle
+- Tags: 1 Player, 3D, 3D Games, Best, Best Games, Car, car tuning, Cars, Cartoon, drift, Driving, Supercars, Typing, vehicle

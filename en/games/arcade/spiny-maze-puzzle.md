@@ -19,6 +19,6 @@ Welcome to the Spiny maze puzzle. In this game, you have to put the tiny ball in
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Girl, Kids, Puzzle, Skill

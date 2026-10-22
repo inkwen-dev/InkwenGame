@@ -21,4 +21,4 @@ This game is made for Christmas. There are 60 challenges to complete. You have t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Bike, Boy, card, Cartoon, Christmas, Click, Escape, Family, fishing, fly, Fun, Machine, Mobile, Snake, Snow
+- Tags: 1 Player, 2D, Action, Bike, Boy, Card, Cartoon, Christmas, Click, Escape, Family, Fishing, fly, Fun, Machine, Mobile, Snake, Snow

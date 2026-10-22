@@ -17,4 +17,4 @@ Experience the timeless charm of Solitaire with this 13-in-1 collection. Immerse
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -19,6 +19,6 @@ Reboun.io is a speedy ball dodging game. Hone your skill and grab your reaction 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Arcade, Avoid, Ball, Bounce, Casual, Fun, Game, HTML5, Online, Skill, Skills

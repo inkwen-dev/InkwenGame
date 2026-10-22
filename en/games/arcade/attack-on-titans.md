@@ -19,6 +19,6 @@ Let's Attack the titans and enjoy the giant run rush game with blob 3d runner ch
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Hot, HTML5, Hypercasual, War

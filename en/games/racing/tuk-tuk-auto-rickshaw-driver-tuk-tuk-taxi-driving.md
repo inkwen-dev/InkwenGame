@@ -19,6 +19,6 @@ Be a Tuk Tuk Auto Rickshaw driver with small three wheeler Asian taxi for public
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Bike, bus, city, Crazy, drift, drifting, Driving, Fun, Game, Games, gta, Moto, Obstacle, Parking, rpg, Simulation, Simulator, Taxi, Traffic, Unity3D
+- Tags: 3D, 3D Games, Adventure, Bike, bus, city, Crazy, drift, drifting, Driving, Fun, Game, Games, gta, Moto, Obstacle, Parking, RPG, Simulation, Simulator, Taxi, Traffic, Unity3D

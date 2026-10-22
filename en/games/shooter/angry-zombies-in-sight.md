@@ -19,6 +19,6 @@ A single-player physics arcade game where you launch skulls from a slingshot and
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, angry, angrybirds, Best Games, Boys, Brain, Casual, Levels, Logic, Shoot, Shooting, Zombie

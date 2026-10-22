@@ -21,4 +21,4 @@ Your Fish buddies are here and do not expect from them anything less than long h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Fish, fishing
+- Tags: Adventure, Arcade, Fish, Fishing

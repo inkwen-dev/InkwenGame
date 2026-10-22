@@ -19,6 +19,6 @@ Welcome to Connect Balls 3D &ndash; The Ultimate Color Puzzle Game! Get ready fo
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, free html5 games for your website, HTML, HTML5, html5 games, html5 games for your site, Hypercasual, Online, onlinegames io, Puzzle

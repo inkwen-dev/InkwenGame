@@ -31,4 +31,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 绘画, 格斗, Stickman
+- 标签: 动作, 画画, 格鬥, Stickman

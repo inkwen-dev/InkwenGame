@@ -19,6 +19,6 @@ Ambulance Trucks Memory is memory game with Ambulance Trucks. Pair two same card
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Memory, Puzzle, Truck

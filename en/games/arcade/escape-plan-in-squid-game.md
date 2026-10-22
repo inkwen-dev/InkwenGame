@@ -19,6 +19,6 @@ Choose the best jailbreak story from the best criminal escape master games of 20
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Arcade, Best, Clicker, Crazy, Games, HTML, HTML5, Mobile, Point And Click, Unity3D, WebGL

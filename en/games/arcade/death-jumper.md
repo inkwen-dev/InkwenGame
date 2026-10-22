@@ -19,6 +19,6 @@ h53ocyog7fvmw64k4zgxw74p9avr2gl5 "Death Jumper" is an online adventure horror ga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Jumping

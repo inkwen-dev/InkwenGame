@@ -19,6 +19,6 @@ Let's make our princess comfortable when she gets the eye and ear checkup. She n
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Educational, Princess, Surgery

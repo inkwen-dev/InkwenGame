@@ -21,4 +21,4 @@ In Traffic.io, you have to prevent crashes. You can stop and start cars by tappi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, bus, Car, Cars, Driving, Girls, Mobile, run, running, Traffic, train
+- Tags: Boys, bus, Car, Cars, Driving, Girls, Mobile, run, running, Traffic, Train

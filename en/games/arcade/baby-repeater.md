@@ -19,6 +19,6 @@ Baby Repeater is an addictive adaptation of the classic old memory game; adults 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Click, Clicker, Kids, Memory

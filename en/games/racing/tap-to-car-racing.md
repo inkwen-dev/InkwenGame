@@ -19,6 +19,6 @@ Looking for a fun and challenging car racing game? Look no further than Tap To C
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, Game, Games, HTML5, Race, Racing

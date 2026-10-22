@@ -21,4 +21,4 @@ Designed especially for toddlers aged 1.5 to 5 years old, this engaging and educ
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Clicker, Family, farm, HTML, HTML5, Kid, Kids, Mobile, School
+- Tags: Animal, Clicker, Family, Farm, HTML, HTML5, Kid, Kids, Mobile, School

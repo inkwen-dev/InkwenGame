@@ -19,6 +19,6 @@ Flap through obstacles without hitting them and go as far as you can! You are a 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Bird, Casual, endless, fly, Fun, Hypercasual

@@ -19,6 +19,6 @@ This is Block Tetriz game with Christmas theme. Use left, right and down keys to
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Board, Christmas, Fun, HTML, HTML5, Mobile, Puzzle, Tetris

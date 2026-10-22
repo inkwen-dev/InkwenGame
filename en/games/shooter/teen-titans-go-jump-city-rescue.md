@@ -19,6 +19,6 @@ Jump City has been taken over, but the Teen Titans are here to save the day. Pla
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Ben 10, Best, Bomb, Brain, Cartoon, Cartoon Network, Kids, running, Shooting, Superhero

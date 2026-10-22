@@ -21,4 +21,4 @@ Enter F.E.A.R.: Silent Facility as response officer Ada and cut off a transmissi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Gun, horror, Shooting
+- Tags: 1 Player, 2D, Action, Adventure, Gun, Horror, Shooting

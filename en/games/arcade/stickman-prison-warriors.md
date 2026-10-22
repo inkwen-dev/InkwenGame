@@ -21,4 +21,4 @@ An exiting game about a stickman escape from prison. A stickman is framed and im
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, prison, Puzzle, Stickman
+- Tags: 1 Player, 2D, Adventure, Arcade, Prison, Puzzle, Stickman

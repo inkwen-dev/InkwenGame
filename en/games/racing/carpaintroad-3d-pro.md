@@ -19,6 +19,6 @@ Swipe up, down and all around to send you vibrant Car Paint 3D rolling through t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Car, Driving, Racing, Road

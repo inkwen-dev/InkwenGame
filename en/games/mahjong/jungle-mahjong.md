@@ -19,6 +19,6 @@ Jungle Mahjong is tiles based pair matching game. Collect the pairs of identical
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Mahjong, Matching, Mobile, Puzzle

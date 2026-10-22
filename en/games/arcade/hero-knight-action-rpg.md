@@ -19,6 +19,6 @@ Beat monsters along the way with your sword and spells! Level up as you gain exp
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Clicker, Knight, Pixel, rpg
+- Tags: 2D, Action, Arcade, Clicker, Knight, Pixel, RPG

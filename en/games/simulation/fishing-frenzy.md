@@ -21,4 +21,4 @@ In this exciting fishing game, your main goal is to catch as many fish as possib
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: fishing, Funny, Mobile, Skill
+- Tags: Fishing, Funny, Mobile, Skill

@@ -19,6 +19,6 @@ The besties Mia, Bella, Ana are placing their outing day, Let's them wear the am
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Baby Hazel, Barbie, Dora, Dress Up

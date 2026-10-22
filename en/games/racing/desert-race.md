@@ -19,6 +19,6 @@ DESERT RACE is a rally racing game collecting coins and stars in a game to get s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Car, Cars, Escape, HTML5, Race, Racing, Side Scrolling

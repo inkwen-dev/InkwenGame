@@ -19,6 +19,6 @@ Mad drivers are meeting in the vertigo city with cool super sport racing cars. T
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 3D, Car, fly, Race, Racing, Simulation, Simulator, Sport

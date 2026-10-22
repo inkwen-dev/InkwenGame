@@ -19,6 +19,6 @@ It's a 3D game that combines a slingshot and a car. You need to bounce your car 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Car, Game, Kid, Kids, Obstacle, Puzzle, Skill, Stunts

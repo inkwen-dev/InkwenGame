@@ -19,6 +19,6 @@ Princess Nail Salon is an excellent nail design fashion game. Help players creat
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Decorate, Decoration, Design, Elsa, Frozen, Fun, Girls, HTML5, Kids, Makeover, Mobile, Nail, Princess

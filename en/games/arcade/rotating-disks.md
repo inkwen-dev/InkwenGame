@@ -19,6 +19,6 @@ Rotating Disks is a puzzle controlled game where the goal of the game is to cont
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Ball, Collecting, Color, Kids, Puzzle

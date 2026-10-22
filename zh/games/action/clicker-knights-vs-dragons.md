@@ -31,4 +31,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, Clicker, 龙, 怪物, 老鼠, PVE
+- 标签: 动作, 点击器, 龙, 怪兽, 鼠标, PVE

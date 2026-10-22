@@ -19,6 +19,6 @@ Welcome to Top Notch Trivia, where the quest for knowledge knows no bounds! Get 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Family, HTML5, html5 games, Letters, mapi games, Mobile, Puzzle, Quiz

@@ -19,6 +19,6 @@ Luke and Lora have been neglected their eyes by watching tablet all day, watch T
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Fun, Kids, Simulation, Surgery

@@ -19,6 +19,6 @@ Math Playground is an online educational game that helps kids learn math. It's a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Boy, Boys, Game, Games, Girl, Girls, HTML5, Online

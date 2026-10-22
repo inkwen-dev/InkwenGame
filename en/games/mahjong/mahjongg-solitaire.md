@@ -19,6 +19,6 @@ Relax and unwind with Mahjongg Solitaire! Match pairs of mahjongg tiles to clear
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Fun, Mahjong, Matching, Puzzle, Relaxation

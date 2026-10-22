@@ -19,6 +19,6 @@ Mega Ramp Bike Stunt Games 3D, you are invited to a brand-new level of excitemen
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Bike, BMX Games

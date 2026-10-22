@@ -19,6 +19,6 @@ Save The Ball Online is a popular game recently. The game play is simple. Just r
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Brain, Collecting, Kids, Mobile, Skill

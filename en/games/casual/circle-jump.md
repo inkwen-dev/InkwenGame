@@ -19,6 +19,6 @@ Jump and avoid the spikes for no death and obtain the best score
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Fun, Funny, Game, Highscore, HTML5, Hypercasual, jump, Jumping, Skill

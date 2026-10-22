@@ -19,6 +19,6 @@ Description: Kids Geometry is an educational game designed to help children lear
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Best Games, Clicker, Educational, Geometry, Kid, Kids

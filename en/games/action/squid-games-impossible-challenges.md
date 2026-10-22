@@ -19,6 +19,6 @@ All players are poor and want money for their future and present life. Don't get
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Fire, Girl, Girls, jump, Jumping, Police, Race, run, running, Stealth, Unity3D

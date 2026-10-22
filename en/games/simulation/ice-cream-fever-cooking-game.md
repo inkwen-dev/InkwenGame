@@ -19,6 +19,6 @@ Hey Chef, You are the master chef? We have been looking for a long time! Create 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Casual, Cooking, management
+- Tags: Android, Casual, Cooking, Management

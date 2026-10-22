@@ -19,6 +19,6 @@ Challenge your mind with the Ultimate Digital Rubiks Cube Simulator! From beginn
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Memory, Puzzle

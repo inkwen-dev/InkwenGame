@@ -19,6 +19,6 @@ In Impostor Weapon Assassin, players take on the roles of stealthy operatives ta
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, iPad, iPhone, Mobile, Unity3D, WebGL

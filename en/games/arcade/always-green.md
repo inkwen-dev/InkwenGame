@@ -19,6 +19,6 @@ Always Green, is the simplest, most exciting and most challenging game. You just
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Arcade, Click, Clicker, Point And Click, Puzzle

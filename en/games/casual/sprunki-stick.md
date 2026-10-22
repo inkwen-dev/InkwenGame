@@ -19,6 +19,6 @@ Hey help the Sprunki to stretch the stick the more you can to reach and walk on 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: mapi games, Sprunki

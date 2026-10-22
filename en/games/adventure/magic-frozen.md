@@ -21,4 +21,4 @@ It is a frozen super powers genre casual game. The player plays a soldier with f
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Adventure, boat, Fight, Frozen, H5, Point And Click
+- Tags: 1 Player, 3D Games, Adventure, Boat, Fight, Frozen, H5, Point And Click

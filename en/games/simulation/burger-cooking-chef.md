@@ -19,6 +19,6 @@ Live your dream of becoming a restaurant chef and a master of cooking in street 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Best, Brain, burger, Clicker, Cooking, Girl, Girls, Hot
+- Tags: Arcade, Best, Brain, Burger, Clicker, Cooking, Girl, Girls, Hot

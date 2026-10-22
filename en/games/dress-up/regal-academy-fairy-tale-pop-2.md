@@ -19,6 +19,6 @@ Attend new courses and make more friends, because now you have more students in 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Fairy, Fashion, Girls, Kids, Magic, Miraculous Ladybug, Online, Princess

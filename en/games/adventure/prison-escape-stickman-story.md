@@ -21,4 +21,4 @@ A fan of Ars&egrave;ne Lupin, a fictional gentleman thief and master of disguise
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, prison, Puzzle
+- Tags: Escape, Prison, Puzzle

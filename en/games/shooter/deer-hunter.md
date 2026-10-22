@@ -19,6 +19,6 @@ It’s hunting time! Deer Hunter will let you hunt deer in the wild jungle envir
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Shoot, Shooter, Shooting

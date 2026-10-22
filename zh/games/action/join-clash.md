@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 冒险, 躲避, 男孩, 收集, 障碍, 平台, 救援, 奔跑, Stickman
+- 标签: 单人游戏, 3D, 冒险, 躲避, 男孩, 收集, 障碍, 平台, 救援, 跑步, Stickman

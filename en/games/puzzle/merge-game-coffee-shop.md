@@ -19,6 +19,6 @@ Merge Coffee, barista evolution, gives you the power to merge ingredients into b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Brain, Chicken, Clicker, Dress Up, farm, HTML5, Puzzle, Restaurant, Retro, Shopping
+- Tags: Action, Brain, Chicken, Clicker, Dress Up, Farm, HTML5, Puzzle, Restaurant, Retro, Shopping

@@ -19,6 +19,6 @@ WASD Keys or Arrow Keys to Move the Ball Press P key to Pause the Game in any Le
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Ball, Classic, Escape, Game, Games, Obstacle, Puzzle, Side Scrolling, Unity3D

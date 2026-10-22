@@ -19,6 +19,6 @@ Let's help our princess Emma to make the homemade veg burger for her dinner, cho
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boy, Boys, Color, Coloring, Cook, Cooking, Dress Up, Girl, Girls, Kids

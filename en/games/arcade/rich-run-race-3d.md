@@ -19,6 +19,6 @@ Race or run rich it's new life simulation game, the run rich game teaching you h
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Adventure, Arcade, Batman, Best, Boy, Boys, Casual, Fun, Girl, Girls, Hypercasual, Kids, PacMan, Spiderman, Stickman, Unity3D

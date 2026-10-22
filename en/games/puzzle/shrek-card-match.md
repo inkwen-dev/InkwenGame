@@ -19,6 +19,6 @@ Shrek is a 2001 American computer-animated fantasy film loosely based on William
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cartoon, Cartoon Network, Educational, Match3, Memory, Puzzle

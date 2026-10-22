@@ -19,6 +19,6 @@ Two games in one. Pick between the hidden objects and jigsaw puzzle mode, and en
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hidden, Jigsaw

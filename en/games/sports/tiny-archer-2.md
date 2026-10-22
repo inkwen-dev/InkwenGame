@@ -19,6 +19,6 @@ Nock, Draw, Loose! There is unlimited number of targets in front of you, and it 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bow, endless, Shoot

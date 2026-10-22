@@ -19,6 +19,6 @@ Draw master is puzzle game in which you have to draw path for weapon and kill th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, HTML, HTML5, Kids, Logic, Logical, Mobile, Puzzle

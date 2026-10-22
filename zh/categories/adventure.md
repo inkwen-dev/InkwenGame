@@ -6,214 +6,1756 @@
 
 ## 游戏
 
+- [+1 速度键盘逃脱](../games/adventure/1-speed-keyboard-escape.md) — **+1 速度键盘逃脱** 是一款快节奏的街机游戏，每一次按键都会让你更快！按下按键，提升速度，克服挑战关卡，并尽可能长时间地生存下去。你越快，障碍物就越难。你能达到终极速度并抵达最终关卡吗？
+- [10扇门逃脱](../games/adventure/10-door-escape.md) — 《10扇门逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你被困在一间有10扇门的房子里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这些门。祝你好运……尽情享受吧！
+- [10扇门逃脱](../games/adventure/10-doors-escape.md) — 10扇门逃脱是一款由8B Games开发的点击式游戏。我们知道您是门逃脱游戏的忠实粉丝，因此我们为您呈现了10扇门逃脱。祝您好运，玩得开心！
+- [100扇门逃脱谜题](../games/adventure/100-doors-escape-mysteries.md) — 前往解锁100扇神秘之门。尝试解决复杂的谜题。你需要运用智慧和洞察力，从一个房间逃脱到另一个房间。用你的逻辑找出逃脱的关键。快来试试吧。
+- [100 间房间逃脱](../games/adventure/100-rooms-escape.md) — 这是一款烧脑且充满挑战的在线密室逃脱游戏。有趣的玩法让你不会感到无聊。你需要打开 100 道门才能逃离房间。与物品互动并解开谜题，完成密室逃脱中的任务。每一关都会解锁，为你带来刺激的冒险体验。每个房间都需要收集线索，你还可以探索不同地点，获
+- [15扇门逃脱](../games/adventure/15-doors-escape.md) — 《15扇门逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。我们知道你非常喜爱门逃脱类游戏，因此我们为你带来了《15扇门逃脱》。祝你好运，玩得开心！
+- [15 Doors Escape 2](../games/adventure/15-doors-escape-2.md) — 15 Doors Escape 2 是由 8B Games/Games2Mad 开发的一款点击式游戏。我们知道你非常喜爱门逃脱类游戏，因此我们为你带来 15 Doors Escape 2。祝你好运，玩得开心！
+- [2 Dots Crazy Challenge](../games/adventure/2-dots-crazy-challenge.md) — 2 Dots Crazy Challenge 是一款简单但极具挑战性的游戏，你需要从两侧垂直连接相同颜色的点以获得分数。如果你将颜色点与错误的颜色连接，就会失败并重新开始游戏。
+- [2022 即将逃离](../games/adventure/2022-coming-escape.md) — 《2022 即将逃离》是由 8B Games/Games2mad 开发的一款点击解谜游戏。想象一下，你正准备外出购买新年物品，却意外被困在了屋内。这里有许多有趣的谜题和隐藏的物品等待你去发现，从而成功逃离房屋。祝你好运……尽情享受吧！
+- [2022 新年特辑-2](../games/adventure/2022-new-year-episode-2.md) — 2022 新年特辑-2 是由 8B Games/Games2live 开发的一款点击解谜游戏。想象一下，乔和杰克需要一辆自行车去参加派对。这里有一些有趣的谜题和隐藏物品，将帮助乔和杰克骑上自行车。祝你好运！玩得开心！
+- [456 水下游戏：生存挑战](../games/adventure/456-squid-game-survival-challenge.md) — 所有玩家，大家好，456！你们现在进入大游戏了。这个游戏叫做红灯绿灯！有很多简单的规则。- 绿灯时你可以跑 - 红灯时你必须停下 - 不要杀人 你可以赢得460亿韩元。你准备好拿大奖了吗？游戏开始！
+- [456 生存游戏](../games/adventure/456-survival-game.md) — 你被邀请参加游戏。第一个游戏，红灯绿灯刚刚开始。大根糖和蜂蜜棒即将登场。玻璃桥也即将来到你面前。你想要456亿还是像现在这样活下去？鱿鱼第一轮 红灯绿灯游戏 让我们来玩一个令人恐惧且最棒的鱿鱼生存部分，打破鱿鱼耐热地板游戏。在这个鱿鱼游戏中
+- [绿头怪物的五夜](../games/adventure/5-night-at-green-head-monster.md) — 《绿头怪物的五夜2》是一款令人毛骨悚然的3D恐怖游戏，玩家必须在由神秘而阴森的绿头怪物经营的小型昏暗酒店中度过五个可怕的夜晚。起初看似普通的过夜体验，很快便演变成一场紧张刺激的生存之战，各种诡异事件接连发生。
+- [7 门逃脱](../games/adventure/7-door-escape.md) — 《7 门逃脱》是由 8B Games/Games2Mad 开发的一款点击式游戏。想象一下，你曾进入一栋有 7 道门的房子。现在你被困在了屋内。接下来是有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [8B Among Us 逃脱](../games/adventure/8b-among-us-escape.md) — 《8B Among Us 逃脱》是由 8BGames 开发的一款点击式逃脱游戏。想象一下，你前往拜访一位 Among Us 角色的家，但到达后发现自己被困在了屋内。寻找一些隐藏物品，解开有趣的线索，成功逃离 Among Us。祝你好运……尽
+- [8b 蓝色房子逃脱](../games/adventure/8b-blue-house-escape.md) — 蓝色房子逃脱是一款由8BGames开发的点击式逃脱游戏。想象一下，你晚上睡着了。当你醒来时，发现自己身处一座全新的蓝色房子中。寻找一些隐藏物品，解开一些有趣的线索，从蓝色房子中逃脱出去。祝你好运……尽情享受吧！
+- [8B 可爱男孩逃脱](../games/adventure/8b-lovable-boy-escape.md) — 《可爱男孩逃脱》是由 8BGames 开发的一款点击式逃脱游戏。想象一下，你是一位可爱的男孩，他邀请你去他的房子。当你到达那里时，他被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离这个可爱的男孩。祝你好运……玩得开心！
+- [8b 小猪逃脫](../games/adventure/8b-piglet-escape.md) — 《小猪逃脫》是由 8BGames 開發的一款點擊式解謎遊戲。想像一下，你的朋友送你一隻可愛的小豬作為禮物。你正準備把這隻小豬帶到你的農場。不幸的是，小豬被困在了一間房間裡。找出一些隱藏物品，解開有趣的謎題，成功逃出小豬的困境。祝你好運……玩
+- [9 门逃脱](../games/adventure/9-doors-escape.md) — 《9 门逃脱》是由 8B Games/Games2Mad 开发的一款点击式游戏。想象一下，你进入了一栋有 9 扇门的房子。你被困在了屋内。现在，这里有有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
 - [《森林里的九十九夜》](../games/adventure/99-nights-in-the-forest.md) — 你发现自己身处一片黑暗神秘的森林，唯一的目标就是活过99个夜晚。夜幕降临，一头巨大的鹿从阴影中现身，伺机猎杀你。你唯一的生存希望就是守护篝火，因为只有篝火才能吓退这头怪物。白天，你必须收集资源——木材、食物和各种实用物品——为夜晚做好准备。
+- [森林中的99个夜晚](../games/adventure/99-nights-in-the-forest-2.md) — 这是一款关于真实生存的游戏，每晚都会变得更加危险。你将不得不收集资源、建造庇护所、生起篝火，并抵御野生动物和敌人的攻击。白天你可以探索森林，寻找食物和材料；而到了夜晚，则需为真正的考验做好准备——敌人会变得更强大，唯有你的技能才能助你存活。
 - [森林九十九夜：恐怖多人游戏](../games/adventure/99-nights-in-the-forest-horror-multiplayer.md) — 一款令人毛骨悚然的多人恐怖游戏，玩家必须在黑暗森林中并肩作战，努力求生。每晚，一只神秘的鹿形怪物都会出没狩猎，它的脚步声和咆哮声在黑暗中回荡。你们只有99天的时间，必须拯救迷失的男孩们并逃离森林。
 - [与菜鸟和高手一起在森林里度过 99 个夜晚！](../games/adventure/99-nights-in-the-forest-with-noob-and-pro.md) — 欢迎来到《99个夜晚的森林生存挑战》（99 Nights in Forest），与新手和高手一起冒险！这是一款刺激的2D挖矿冒险游戏，每个夜晚都是真正的生存挑战。
+- [六扇门的房屋](../games/adventure/a-house-of-6-doors.md) — 六扇门的房屋是一款由8B Games/Games2Mad开发的点击解谜游戏。想象一下，你被困在了一栋房子里，这里有有趣的谜题和隐藏的物品，帮助你逃离六扇门的房屋。祝你好运……尽情享受吧！
 - [漫漫回家路](../games/adventure/a-long-way-home.md) — 《漫漫回家路》是一款令人毛骨悚然的生存恐怖游戏，玩家将扮演一位迷失的流浪者，拼命寻找回家的路。你被困在一个诡异莫测、瞬息万变的世界中，必须穿过阴暗的走廊和诡异的场所，同时还要躲避来自异世界的生物的无情追击。随着现实逐渐崩塌，你将遭遇挥之不去
 - [一位母亲的悲伤](../games/adventure/a-mother-s-grief.md) — 1892年冬。在一间偏僻的小屋里，一位名叫埃拉拉的母亲因女儿莉莉死于高烧而悲痛欲绝。她被悲伤吞噬，在小屋墙壁内秘密地举行了一个禁忌仪式，试图让女儿复活。女孩回来了——但她的双眼漆黑，声音如同静电般低语，而且说着莫名其妙的话。复活的那个东西戴
 - [废弃的豪宅](../games/adventure/abandoned-mansion.md) — 《废弃豪宅》是一款第一人称恐怖游戏，故事发生在一座废弃的豪宅中。一通求救信号指引你前去调查。然而，当你抵达时，却发现一切都为时已晚。
+- [宅邸逃脱](../games/adventure/abode-escape.md) — 《宅邸逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾造访过一座宅邸；在那里，你被困在了宅邸之中。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离这座宅邸。祝你好运……尽情享受吧！
+- [深渊地牢故事](../games/adventure/abysma-dungeon-story.md) — 在这款2D平台游戏中，深入一个神秘黑暗深渊的深处。扮演一名被危险陷阱包围的巫师，谨慎移动和照明是生存的关键。穿越黑暗，利用光线揭示隐藏的危险并照亮前行的道路。小心潜伏在黑暗中的敌人，它们会在你最意想不到的时候发动攻击。你能否揭开阴影中隐藏的
 - [深渊吞噬者](../games/adventure/abyss-muncher.md) — 潜入这款像素风水下Roguelite游戏，每一餐都能助你进化。猎杀小型生物，躲避巨型掠食者，并通过变异、主动技能和遗物打造更强大的生命形态。探索变幻莫测的海底洞穴，对抗危险的敌人，并将获得的精华和水晶用于持久升级和新生物的获取。每一次潜水都
+- [冒险雪球游戏](../games/adventure/adventruse-hail-game.md) — 准备好迎接一场有趣又具挑战性的色彩匹配冒险吧！在《冒险雪球》中，五彩缤纷的雪球从上方落下，你的任务是在每个雪球下方放置正确的颜色转换器。完美匹配颜色，将雪球转化为美丽的雪花，让游戏持续进行。保持专注，快速反应，一旦出现错误的颜色匹配，游戏就
+- [冒险资本家洞穴](../games/adventure/adventure-capitalist-hole.md) — 令人兴奋的在线游戏《冒险资本家洞穴》已席卷游戏社区。这款休闲游戏让玩家沉浸于一场危险的财富与资本积累之旅。亮点在于，Kiz10.com 完全免费游玩，并为桌面和移动设备爱好者提供数小时的娱乐体验。网站开发者 <a href='https:/
+- [Darius的冒险](../games/adventure/adventure-of-darius.md) — 从邪恶的怪物世界中救出Darius。游戏故事始于Darius与女巫的碰撞，随后女巫将他拖入并扔进了一个怪物世界。玩家需要拯救并帮助防御这个怪物世界。运用你的射击技巧，消灭每个怪物以进入下一关。小心！怪物会投掷致命法术，你必须避开它们。如果你
+- [Lyra的冒险](../games/adventure/adventure-of-lyra.md) — 找到蝴蝶，拯救Lyra脱离邪恶巫师的控制。故事始于与龙的碰撞，这次碰撞导致所有蝴蝶都飞走了。邪恶巫师将Lyra囚禁，并给她一个条件：收集那些蝴蝶才能获得自由。现在玩家需要帮助她收集这些蝴蝶。引导路线，找到蝴蝶并解救Lyra。小心！到处都是神
+- [冒险松鼠](../games/adventure/adventure-squirrel.md) — 在游戏中，你将扮演一只松鼠，前往陌生的国度，与怪物战斗，克服障碍，并收集所有水果以完成关卡。每一关你将有三条生命，尝试运用你的敏捷和快速的手速来完成游戏。游戏共设计了20个关卡，专为移动设备和PC优化。
+- [探险时光](../games/adventure/adventure-time.md) — 《探险时光》讲述了人类男孩芬恩（由杰里米·沙达配音）和他的最好的朋友兼收养兄弟狗 Jake（约翰·迪马吉奥配音）的冒险故事，Jake 拥有随心所欲改变形状和大小的魔法能力。该剧的创作者彭德顿·沃德将芬恩描述为一个“充满激情的小孩，有着坚定的
+- [探险时光差异](../games/adventure/adventure-time-differences.md) — 现在是时候玩一款名为《探险时光差异》的精彩游戏了，让我们一起享受乐趣吧！这些图片背后隐藏着细微的差别。你能找出来吗？它们是供你玩耍的有趣设计。这是一款既有趣又富有教育意义的游戏，能够帮助你提升观察力和专注力。共有10个关卡，每个关卡有7处差
+- [探险时光隐藏](../games/adventure/adventure-time-hidden.md) — 探险时光隐藏是一款免费的在线游戏，属于记忆和怪物卡车游戏类型。翻转方块，尝试将它们配对成对。配齐所有方块即可获胜。尽量用最少的步数完成游戏！共有4个关卡。使用鼠标点击或在屏幕上轻触方块。集中注意力，开始游戏吧。尽情享受！
+- [冒险世界 超级圣塔克鲁兹](../games/adventure/adventure-world-super-santa-cruz.md) — 让我们踏上冒险之旅，帮助一位小猩猩对抗外星怪物，甚至包括最终Boss。简单易懂的游戏玩法，精美的图形，有趣的怪物和音效，经典控制器操作，非常有趣且引人入胜。你可以帮助他滑行、跳跃、射击、攻击。这是让你快速进入一个完整运行的原始平台游戏的最佳
+- [冒险者跑](../games/adventure/adventurer-run.md) — 拖动你的角色移动。你的武器会自动射击。避开怪物的攻击或撞到树木等物体。随着时间推移，当你跑得越远，就会获得武器升级或解锁新武器。收集金币并解锁新角色。消灭敌对怪物，取得最高分数。
+- [冒险男孩逃脱](../games/adventure/adventurous-boy-escape.md) — 《冒险男孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你是一名游客。有一天，一个充满冒险精神的男孩预订了你进行观光游览。当你去他家时，你发现他被困在了屋内。寻找一些隐藏物品，解开一些有趣的线索，逃离这个冒险男孩的屋子。祝你好
+- [飞机战争](../games/adventure/aircraft-war.md) — 飞机战争
+- [阿拉丁王子](../games/adventure/aladin-prince.md) — 帮助阿拉丁王子跑得比所有人都快！尽可能地跑远。收集金币，在商店里购买物品。成为东方最棒的跑步者！拥有出色图形的无尽游戏，让你乐在其中。
+- [Alex 词语冒险](../games/adventure/alex-adventure-of-word.md) — 解开单词谜题，提升你的词汇量。根据给出的字母提示，拼出正确的单词。动脑筋，放置正确的字母。如果你喜欢单词谜题游戏、益智游戏，或者只是想度过一段愉快时光，那么这款游戏非常适合你。游戏特色：高品质图形，只会带来积极反馈；游戏体积小巧（但未牺牲画
+- [Alfi](../games/adventure/alfi.md) — 帮助阿尔菲，你必须克服障碍，收集星星并遇见花朵。这款游戏考验智力与技巧。玩得开心。
 - [爱丽丝疯狂冒险](../games/adventure/alice-crazy-adventure.md) — 欢迎来到爱丽丝的疯狂冒险。爱丽丝是一个小冒险女孩。她想要回到她的家。但在回家的路上，她将面临许多冒险，比如障碍物和疯狂的僵尸。加入并帮助她回到家。尽情享受乐趣！
+- [爱丽丝故事逃脱](../games/adventure/alice-tale-escape.md) — 《爱丽丝故事逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你来到了爱丽丝的家，她被困在屋子里，你必须找到一些隐藏物品，解开一些有趣的谜题，从而逃离爱丽丝的屋子。祝你好运……尽情享受吧！
+- [外星冒险](../games/adventure/alien-adventure.md) — 少数外星飞船在毫无预警的情况下潜入了地球轨道。全球卫星通信的中断使世界陷入危险。幸存者必须使用游击战术进行抵抗……掌控你的汽车，穿越城市，前往外星基地！击败入侵者和可怕的Boss，获取强大的武器、车辆和增益道具！
+- [外星人奔跑](../games/adventure/alien-run.md) — 本月，《外星人奔跑》游戏获得了大量好评和玩家青睐，显著提升了整体游戏性能，尤其是在移动设备上的表现。只需轻触屏幕按钮即可开始游戏（如使用移动设备），进行箭矢射击、疯狂火箭鸟射击、躲避赛博人、子弹猫咪追逐、冠状病毒忍者跳跃等精彩玩法。
+- [外星人之路](../games/adventure/alien-way.md) — 《外星人之路》是一款平台类HTML5游戏。通过五个不同的关卡，与你最喜欢的外星人一起冒险。跳跃踩踏敌人以消灭他们，并收集星星。获取更多分数，通过五个关卡。尽情享受！
+- [外星人逃脱](../games/adventure/alienescape.md) — 一款解谜游戏，你需要帮助外星人逃离宇宙飞船。为此，你需要将能量电池移动到接收器中，以打开关卡的门。
+- [独处 II](../games/adventure/alone-ii.md) — 欢迎来到《独处 2》，这是一款引人入胜的叙事驱动型恐怖游戏，将考验你的智慧与勇气。在这场紧张刺激的体验中，你的主要目标是解开复杂的谜题，并尽快逃离该区域。沉浸于令人毛骨悚然的氛围之中，穿越一系列挑战，发现线索并收集关键物品。你的最终目标是打
+- [字母幸存者](../games/adventure/alphabet-survivor.md) — 加入蓝色怪物——字母冒名顶替者幸存者！在这款多人游戏中，玩家需要在避免伪装成蓝怪的冒名顶替者的同时，努力成为最后的幸存者。你能识别出冒名顶替者并成功存活下来吗？立即下载，测试你的技能吧！游戏特色：- 与全球玩家进行多人游戏 - 多种游戏模式
+- [惊人的数字马戏团恐怖逃脱](../games/adventure/amazing-digital-circus-horror-escape.md) — 体验《惊人的数字马戏团恐怖逃脱》的紧张氛围。探索一个诡异的地图，收集物品，同时为每扇门后可能带来的恐怖惊喜做好准备。房屋中处处潜伏着危险，失败不是选项。你能否克服恐惧，在这场心跳加速的冒险中取得成功？网站开发者 <a href='https
+- [惊人的黄金矿工](../games/adventure/amazing-gold-miner.md) — 与惊人的黄金矿工一起开启激动人心的采矿冒险！深入挖掘地球，穿越危险的障碍，收集珍贵的黄金和宝石。运用你的技巧和策略，在时间限制内尽可能多地获取宝藏。游戏玩法极具吸引力，画面精美绝伦，这是一款真正的瑰宝！
+- [惊人的超级英雄：纽约黑帮](../games/adventure/amazing-superhero-new-york-gangster.md) — 城市中的超级英雄是一款以GTA风格为主的在线游戏，但主角是蜘蛛侠。你将拥有一个完整的大都市，可以随心所欲地行动。你可以偷车、与居民和警察战斗，也可以使用枪械和英雄能力完成任务，或者找到一辆坦克把一切夷为平地。总之，如何娱乐自己由你决定，就像
+- [救护车逃脱](../games/adventure/ambulance-escape.md) — 《救护车逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你刚刚从医院出来；在那里，你必须立即离开。这里有许多有趣的谜题和隐藏物品需要寻找，才能成功逃离医院。祝你好运……玩得开心！
+- [救护车救援游戏](../games/adventure/ambulance-rescue-game.md) — 救护车救援游戏让你扮演一名紧急救援驾驶员，每一秒都至关重要。响应紧急呼叫，疾驰于城市街道和复杂道路上，营救受伤的病人，并安全地将他们送往医院。避开交通，穿越艰难路线，在时间限制内完成拯救生命的任务。赢得奖励，解锁新的救护车，随着技能提升，迎
+- [美国男孩逃脱](../games/adventure/american-boy-escape.md) — 《美国男孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去一个美国男孩的家里和他一起玩耍。由于这个男孩非常爱玩，结果被困在了一个房间里。寻找一些隐藏物品，解开有趣的谜题，成功逃脱美国男孩的房间。祝你好运……尽情享受吧！
+- [Amgel射箭家居逃脱](../games/adventure/amgel-archery-home-escape.md) — AmgelEscape - Amgel射箭家居逃脱是Amgel Escape开发的另一款点击逃脱游戏。在这款游戏中，你被困在一间射箭主题的家中，必须通过寻找物品和解决谜题来尝试逃离这间房子。展示你最出色的逃脱技巧，成功逃离这间房子。你能够顺
+- [Amgel 黑色星期五逃脱](../games/adventure/amgel-black-friday-escape.md) — AmgelEscape - Amgel 黑色星期五逃脱是Amgel Escape开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否成功逃脱？祝
+- [Amgel 兔子房逃脱 2](../games/adventure/amgel-bunny-room-escape-2.md) — AmgelEscape - Amgel 兔子房逃脱 2 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个兔子房间中，必须通过寻找物品和解决谜题来尝试逃离这个兔子房间。展现你最出色的逃脱技巧，成功逃离儿童
+- [Amgel 中国新年逃脱 2](../games/adventure/amgel-chinese-new-year-escape-2.md) — AmgelEscape - Amgel 中国新年逃脱 2 是由 AmgelEscape 开发的另一款点击逃脱游戏。在这款游戏中，你被困在一个儿童房里，必须通过寻找物品和解决谜题来尝试逃离儿童房。展现你最出色的逃脱技巧，成功逃离儿童房。你能否
+- [Amgel 圣诞节房间逃脱 5](../games/adventure/amgel-christmas-room-escape-5.md) — AmgelEscape - Amgel 圣诞节房间逃脱 5 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否
+- [Amgel 圣诞节房间逃脱 6](../games/adventure/amgel-christmas-room-escape-6.md) — AmgelEscape - Amgel 圣诞节房间逃脱 5 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否
+- [Amgel 圣诞节房间逃脱 7](../games/adventure/amgel-christmas-room-escape-7.md) — AmgelEscape - Amgel 圣诞节房间逃脱 7 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展现你最出色的逃脱技巧，成功逃离这个房间。你能否
+- [Amgel 圣诞节房间逃脱 8](../games/adventure/amgel-christmas-room-escape-8.md) — AmgelEscape - Amgel 圣诞节房间逃脱 8 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否
+- [Amgel复活节房间逃脱2](../games/adventure/amgel-easter-room-escape-2.md) — AmgelEscape - Amgel复活节房间逃脱是Amgel Escape开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个复活节主题的房间里，必须通过寻找物品和解决谜题来逃离这个复活节房间。展示你最出色的逃脱技巧，成功逃离儿童房。
+- [Amgel 复活节房间逃脱 3](../games/adventure/amgel-easter-room-escape-3.md) — AmgelEscape - Amgel 复活节房间逃脱 3 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个复活节主题的房间里，必须通过寻找物品和解决谜题来尝试逃离这个复活节房间。展示你最出色的逃脱技巧
+- [Amgel 简易密室逃脱 40](../games/adventure/amgel-easy-room-escape-40.md) — AmgelEscape - Amgel 简易密室逃脱 39 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 简易密室逃脱 42](../games/adventure/amgel-easy-room-escape-42.md) — AmgelEscape - Amgel 简易密室逃脱 42 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 简易密室逃脱 43](../games/adventure/amgel-easy-room-escape-43.md) — AmgelEscape - Amgel 简易密室逃脱 43 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间。你能否
+- [Amgel 简易房间逃脱 44](../games/adventure/amgel-easy-room-escape-44.md) — AmgelEscape - Amgel 简易房间逃脱 44 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧！你能
+- [Amgel 简易密室逃脱 45](../games/adventure/amgel-easy-room-escape-45.md) — AmgelEscape - Amgel 简易密室逃脱 45 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在本游戏中，你被困在一间房间内，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能否
+- [Amgel Easy Room Escape 46](../games/adventure/amgel-easy-room-escape-46.md) — AmgelEscape - 《Amgel Easy Room Escape 46》是Amgel Escape开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功
+- [Amgel Easy Room Escape 49](../games/adventure/amgel-easy-room-escape-49.md) — AmgelEscape - Amgel Easy Room Escape 49 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，
+- [Amgel 简易密室逃脱 50](../games/adventure/amgel-easy-room-escape-50.md) — AmgelEscape - Amgel 简易密室逃脱 50 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 简易密室逃脱 51](../games/adventure/amgel-easy-room-escape-51.md) — AmgelEscape - Amgel 简易密室逃脱 51 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 简易房间逃脱 52](../games/adventure/amgel-easy-room-escape-52.md) — AmgelEscape - Amgel 简易房间逃脱 52 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧！你能
+- [Amgel Easy Room Escape 54](../games/adventure/amgel-easy-room-escape-54.md) — AmgelEscape - Amgel Easy Room Escape 54 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，
+- [Amgel 简易密室逃脱 58](../games/adventure/amgel-easy-room-escape-58.md) — AmgelEscape - Amgel 简易密室逃脱 58 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 简易密室逃脱 59](../games/adventure/amgel-easy-room-escape-59.md) — AmgelEscape - Amgel 简易密室逃脱 59 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 简易密室逃脱 65](../games/adventure/amgel-easy-room-escape-65.md) — AmgelEscape - Amgel 简易密室逃脱 65 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你的最佳逃脱技巧，成功逃离房间吧。你能否
+- [Amgel Easy Room Escape 68](../games/adventure/amgel-easy-room-escape-68.md) — AmgelEscape - Amgel Easy Room Escape 68 是由 Amgel Escape 开发的另一款点击逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成
+- [Amgel Easy Room Escape 70](../games/adventure/amgel-easy-room-escape-70.md) — AmgelEscape - Amgel Easy Room Escape 70 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，
+- [Amgel Easy Room Escape 71](../games/adventure/amgel-easy-room-escape-71.md) — AmgelEscape - Amgel Easy Room Escape 71 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，
+- [Amgel 简易密室逃脱 74](../games/adventure/amgel-easy-room-escape-74.md) — AmgelEscape - Amgel 简易密室逃脱 74 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 简易密室逃脱 76](../games/adventure/amgel-easy-room-escape-76.md) — AmgelEscape - Amgel 简易密室逃脱 76 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel Easy Room Escape 77](../games/adventure/amgel-easy-room-escape-77.md) — AmgelEscape - Amgel Easy Room Escape 77 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，
+- [Amgel 简易密室逃脱 83](../games/adventure/amgel-easy-room-escape-83.md) — AmgelEscape - Amgel 简易密室逃脱 83 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 简易密室逃脱 86](../games/adventure/amgel-easy-room-escape-86.md) — AmgelEscape - 《Amgel 简易密室逃脱 86》是 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间吧！你能
+- [Amgel 感恩节逃脱](../games/adventure/amgel-giving-tuesday-escape.md) — AmgelEscape - Amgel 感恩节逃脱是 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否成功逃脱？祝
+- [Amgel 复活节星期五逃脱](../games/adventure/amgel-good-friday-escape.md) — AmgelEscape - Amgel 复活节星期五逃脱是Amgel Escape开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能够成功逃脱
+- [Amgel 万圣节房间逃脱 17](../games/adventure/amgel-halloween-room-escape-17.md) — AmgelEscape - Amgel 万圣节房间逃脱 17 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏。祝你
 - [Amgel 万圣节房间逃脱 18](../games/adventure/amgel-halloween-room-escape-18.md) — AmgelEscape - Amgel 万圣节房间逃脱 18 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏。祝你
+- [Amgel 惊魂万圣节密室逃脱 21](../games/adventure/amgel-halloween-room-escape-21.md) — AmgelEscape - 《Amgel 惊魂万圣节密室逃脱 21》是 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏。
+- [Amgel 万圣节房间逃脱 23](../games/adventure/amgel-halloween-room-escape-23.md) — AmgelEscape - Amgel 万圣节房间逃脱 23 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏。祝你
+- [Amgel 惡魔萬聖節密室逃脫 25](../games/adventure/amgel-halloween-room-escape-25.md) — AmgelEscape - 《Amgel 惡魔萬聖節密室逃脫 25》是 Amgel Escape 開發的另一款點擊式逃脫遊戲。在這個遊戲中，你被困在一個房間裡，必須透過尋找物品和解謎來逃出房間。感謝遊玩 Amgel Escape 遊戲。祝你
+- [Amgel 惊悚房间逃脱 28](../games/adventure/amgel-halloween-room-escape-28.md) — AmgelEscape - Amgel 惊悚房间逃脱 28 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏。祝你好
+- [Amgel 万圣节房间逃脱 29](../games/adventure/amgel-halloween-room-escape-29.md) — AmgelEscape - Amgel 万圣节房间逃脱 29 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在本游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏。祝你好
+- [Amgel 万圣节房间逃脱 30](../games/adventure/amgel-halloween-room-escape-30.md) — AmgelEscape - Amgel 万圣节房间逃脱 30 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏。祝你
+- [Amgel 惊魂之夜密室逃脱 31](../games/adventure/amgel-halloween-room-escape-31.md) — AmgelEscape - 《Amgel 惊魂之夜密室逃脱 31》是 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏！祝
+- [Amgel 万圣节房间逃脱 32](../games/adventure/amgel-halloween-room-escape-32.md) — AmgelEscape - Amgel 万圣节房间逃脱 32 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。感谢游玩 Amgel Escape 游戏。祝你
+- [Amgel 儿童房间逃脱 1](../games/adventure/amgel-kids-room-escape-1.md) — AmgelEscape - Amgel 儿童房间逃脱 1 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间。你能够顺
+- [Amgel 儿童房间逃脱 51](../games/adventure/amgel-kids-room-escape-51.md) — AmgelEscape - Amgel 儿童房间逃脱 51 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 儿童房间逃脱 52](../games/adventure/amgel-kids-room-escape-52.md) — AmgelEscape - Amgel 儿童房间逃脱 52 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间。你能够
+- [Amgel儿童房间逃脱55](../games/adventure/amgel-kids-room-escape-55.md) — AmgelEscape - Amgel儿童房间逃脱55是由Amgel Escape开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间。你能够顺利逃脱吗
 - [Amgel儿童房间逃脱57](../games/adventure/amgel-kids-room-escape-57.md) — AmgelEscape - Amgel儿童房间逃脱57是由Amgel Escape开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能够顺利逃脱
+- [Amgel 儿童房间逃脱 58](../games/adventure/amgel-kids-room-escape-58.md) — AmgelEscape - Amgel 儿童房间逃脱 58 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间。你能否
+- [Amgel 儿童房间逃脱 59](../games/adventure/amgel-kids-room-escape-59.md) — AmgelEscape - Amgel 儿童房间逃脱 59 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间。你能够
+- [Amgel儿童房间逃脱60](../games/adventure/amgel-kids-room-escape-60.md) — AmgelEscape - Amgel儿童房间逃脱60是Amgel Escape开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能否顺利逃脱？
+- [Amgel儿童房间逃脱61](../games/adventure/amgel-kids-room-escape-61.md) — AmgelEscape - Amgel儿童房间逃脱61 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能够顺
 - [Amgel 小孩房间逃脱 62](../games/adventure/amgel-kids-room-escape-62.md) — AmgelEscape - Amgel 小孩房间逃脱 62 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间。你能够
+- [Amgel 儿童房间逃脱 63](../games/adventure/amgel-kids-room-escape-63.md) — AmgelEscape - Amgel 儿童房间逃脱 63 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 儿童房间逃脱 64](../games/adventure/amgel-kids-room-escape-64.md) — AmgelEscape - Amgel 儿童房间逃脱 64 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧！你能
+- [Amgel 儿童房间逃脱 65](../games/adventure/amgel-kids-room-escape-65.md) — AmgelEscape - Amgel 儿童房间逃脱 65 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间。你能够
+- [Amgel 儿童房间逃脱 68](../games/adventure/amgel-kids-room-escape-68.md) — AmgelEscape - 《Amgel 儿童房间逃脱 68》是 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间。你能否
+- [Amgel儿童房间逃脱69](../games/adventure/amgel-kids-room-escape-69.md) — AmgelEscape - Amgel儿童房间逃脱69是Amgel Escape开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能够顺利逃脱吗
+- [Amgel 儿童房间逃脱 71](../games/adventure/amgel-kids-room-escape-71.md) — AmgelEscape - Amgel 儿童房间逃脱 71 是由 Amgel Escape 开发的又一款点击逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间吧。你能够
+- [Amgel 儿童房间逃脱 72](../games/adventure/amgel-kids-room-escape-72.md) — AmgelEscape - Amgel 儿童房间逃脱 72 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间。你能够
+- [Amgel 儿童房间逃脱 74](../games/adventure/amgel-kids-room-escape-74.md) — AmgelEscape - Amgel 儿童房间逃脱 74 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
 - [Amgel 儿童房间逃脱 75](../games/adventure/amgel-kids-room-escape-75.md) — AmgelEscape - Amgel 儿童房间逃脱 75 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 儿童房间逃脱 76](../games/adventure/amgel-kids-room-escape-76.md) — AmgelEscape - Amgel 儿童房间逃脱 76 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel 儿童房间逃脱 77](../games/adventure/amgel-kids-room-escape-77.md) — AmgelEscape - 《Amgel 儿童房间逃脱 77》是 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间吧！你能
+- [Amgel儿童房间逃脱79](../games/adventure/amgel-kids-room-escape-79.md) — AmgelEscape - Amgel儿童房间逃脱79是Amgel Escape开发的另一款点击逃脱游戏。在这个游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能够顺利逃脱吗？
+- [Amgel 儿童房间逃脱 80](../games/adventure/amgel-kids-room-escape-80.md) — AmgelEscape - 《Amgel 儿童房间逃脱 80》是 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间。你能否
+- [Amgel 儿童房间逃脱 81](../games/adventure/amgel-kids-room-escape-81.md) — AmgelEscape - Amgel 儿童房间逃脱 81 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel儿童房间逃脱87](../games/adventure/amgel-kids-room-escape-87.md) — AmgelEscape - Amgel儿童房间逃脱87是Amgel Escape开发的又一款点击式逃脱游戏。在这个游戏中，你被困在房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能够顺利逃脱吗？祝
+- [Amgel 儿童房间逃脱 88](../games/adventure/amgel-kids-room-escape-88.md) — AmgelEscape - Amgel 儿童房间逃脱 88 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能
+- [Amgel儿童房间逃脱89](../games/adventure/amgel-kids-room-escape-89.md) — AmgelEscape - Amgel儿童房间逃脱89是Amgel Escape开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间吧。你能够顺利逃脱吗
+- [Amgel儿童房间逃脱91](../games/adventure/amgel-kids-room-escape-91.md) — AmgelEscape - Amgel儿童房间逃脱91是Amgel Escape开发的另一款点击逃脱游戏。在这个游戏中，你被困在房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间。你能够顺利逃脱吗？祝你好
+- [Amgel 儿童房间逃脱 92](../games/adventure/amgel-kids-room-escape-92.md) — AmgelEscape - Amgel 儿童房间逃脱 92 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展示你最出色的逃脱技巧，成功逃离房间。你能够
+- [Amgel 温和挑战逃脱](../games/adventure/amgel-mild-challenge-escape.md) — AmgelEscape - Amgel 温和挑战逃脱是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这个游戏中，你被困在一间房间里，必须通过寻找物品和解决谜题来尝试逃离房间。展现你最出色的逃脱技巧，成功逃离房间。你能否顺利逃脱
+- [Amgel 新年房间逃脱 5](../games/adventure/amgel-new-year-room-escape-5.md) — AmgelEscape - Amgel 新年房间逃脱 5 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个新年主题的房间里，需要通过寻找物品和解决谜题来逃离房间。展现你最出色的逃脱技巧，成功逃离这个房间
+- [Amgel 感恩节房间逃脱 6](../games/adventure/amgel-thanksgiving-room-escape-6.md) — AmgelEscape - Amgel 感恩节房间逃脱 6 是由 Amgel Escape 开发的又一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否
+- [Amgel 感恩节房间逃脱 7](../games/adventure/amgel-thanksgiving-room-escape-7.md) — AmgelEscape - Amgel 感恩节房间逃脱 7 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否
+- [Amgel 感恩节房间逃脱 8](../games/adventure/amgel-thanksgiving-room-escape-8.md) — AmgelEscape - Amgel 感恩节房间逃脱 8 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否
+- [Amgel 感恩节密室逃脱 9](../games/adventure/amgel-thanksgiving-room-escape-9.md) — AmgelEscape - Amgel 感恩节密室逃脱 9 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个房间里，需要通过寻找物品和解决谜题来逃离房间。展示你最出色的逃脱技巧，成功逃离这个房间。你能否
+- [Amgel 情人节密室逃脱](../games/adventure/amgel-valentine-room-escape.md) — AmgelEscape - Amgel 情人节密室逃脱是 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个儿童房间内，必须通过寻找物品和解决谜题来尝试逃离这个儿童房间。展示你最出色的逃脱技巧，成功逃离儿童房间
+- [Amgel 情人节逃脱 4](../games/adventure/amgel-valentines-day-escape-4.md) — AmgelEscape - Amgel 情人节逃脱 4 是由 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个儿童房里，必须通过寻找物品和解决谜题来尝试逃离儿童房。展示你最出色的逃脱技巧，成功逃离儿童房。你能
+- [AMONG 冒险 - Among Us](../games/adventure/among-adventure-among-us.md) — 尽情享受这款新游戏，一场令人惊叹且极其有趣的冒险！加入游戏中这些可爱的潜入角色，帮助他们逃离充满障碍物的危险地牢。
+- [冒名顶替者之间](../games/adventure/among-impostor.md) — 在这个游戏中，你可以在线或通过本地WiFi与4至15名玩家一起游玩，尝试为你的飞船准备出发，但要小心，其中一人是企图杀害所有人的冒名顶替者！船员可以通过完成所有任务，或发现并投票将冒名顶替者赶下船来获胜。冒名顶替者可以使用破坏手段制造混乱，
+- [星际逃脱](../games/adventure/among-space-escape.md) — 英雄能跑多远？在这款动作游戏中，你必须帮助英雄逃离邪恶的红色敌人。从一颗小行星跳到另一颗小行星，但要小心那些炽热的小行星。避开燃烧的彗星。动作迅速，否则邪恶的红色敌人会追上你。
+- [鱿鱼游戏在线版](../games/adventure/among-squid-challenge-online.md) — 所有玩家，准备就绪。他们正藏在迷宫中。要赢得游戏，你必须击败所有其他玩家。你有一把刀，必须击败所有人。一个接一个地抓住玩家，并确保他们被淘汰。别担心，他们找不到你。如果他们试图找到你，就躲进通风口。击败所有玩家。小心行事，无论怎样都不要暴露
+- [Among Us 地牢](../games/adventure/among-us-dungeon.md) — Among 地牢是一款有趣的解谜游戏。你需要引导机器人快速清除迷宫中的陷阱，帮助我们逃离迷宫，避开爆炸物和其他障碍物，小心闪避和奔跑，并留意突然出现的尖刺，当你发现前方没有路时，可以选择跳到另一个平台。你准备好了吗？在 Among 地牢中尽
+- [Among Us 拼图](../games/adventure/among-us-puzzles.md) — 欢迎来到骗子与船员的世界！在这个游戏中，你有12个来自《Among Us》的拼图。通过移动拼图块来完成它们。拖动拼图块到另一个位置以进行更换。完成一个关卡后，进入下一关。每个关卡都有时间限制，需要在规定时间内完成。
+- [Among 与 Banban 的花园](../games/adventure/among-vs-garten-of-banban.md) — 《Among Us 对战 Banban 的花园》扮演着一个始终会吓到每位玩家的反派角色。掌控 Among 的角色，在超过 100 个关卡中解开谜题。躲避 Garten 的怪物，收集物品打开门，并找到钥匙完成所有房间挑战。网站开发者 <a h
+- [Amongus 逃脱](../games/adventure/amongus-escape.md) — 一名内鬼被发现藏身于 Amongus 中，你成功地利用最后一艘剩余的太空穿梭机逃离了空间站。通过持续修复引擎、电力、重力和氧气系统，尽可能长时间地维持太空穿梭机的运行。
+- [愤怒的小鸟大爆炸](../games/adventure/angry-bird-blast.md) — 弹弓射击游戏- 瓶子射击免费游戏2020：最近更新的弹弓之星，是最佳射击游戏之一- 免费离线趣味游戏 准备好体验免费的弹弓瓶子射击游戏。是时候玩2020年最新宝石类游戏，成为真正的街机射击高手。畅玩动作冒险类离线游戏，证明你是史上最强的瓶子
+- [愤怒的小鸟好友](../games/adventure/angry-birds-friends.md) — 畅玩来自愤怒的小鸟系列的经典街机游戏，尝试在我们史诗级的《愤怒的小鸟好友》星杯冒险中取得胜利！在PvP模式下与其他玩家展开原创弹弓挑战！成为这个由可爱卡通小鸟和其他动物组成的魔法世界中的最佳射手，周围环绕着街机幻想环境：瞄准目标并享受这款充
 - [动物诊所（异常）](../games/adventure/animal-clinic-anomaly.md) — 🏥 欢迎来到异常动物诊所——一家每班都充满变数的兽医诊所。
 - [动物医院](../games/adventure/animal-hospital.md) — 接待窗口外排起了长队——但午夜过后，来到镇上的可不只有生病的动物。
+- [动物救援](../games/adventure/animals-rescue.md) — 《动物救援》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一个村庄，发现许多动物被猎人困住了。这里有着有趣的谜题和隐藏的物品等待你去寻找并解救动物。祝你好运……尽情享受吧！
 - [动物大战僵尸](../games/adventure/animals-vs-zombies.md) — 你心爱的动物们被邪恶的外星人绑架了！快去营救它们，给这些外星恶霸一个教训！驯服并结识各种各样的生物，让它们进化以击败更强大的敌人，并解锁稀有资源，帮助你的伙伴变得更加强大。从常见的猫狗到独特的野生动物，每一种动物都会为你的冒险之旅带来独特的
+- [异常内容记录](../games/adventure/anomaly-content-record.md) — 欢迎来到《异常内容记录》，这是一款令人毛骨悚然的恐怖冒险游戏，你的唯一目标就是逃脱并生存下来。你是一名被派往探索一座突然陷入寂静的受限研究设施的现场调查员。
+- [蚂蚁逃脱](../games/adventure/ant-escape.md) — 《蚂蚁逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的蚂蚁。这里有有趣的谜题和隐藏物品等待你去发现，帮助蚂蚁获救。祝你好运……尽情享受吧！
+- [蚁丘乐园逃脱](../games/adventure/anthill-land-escape.md) — 《蚁丘乐园逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你为了研究目的前往一个村庄，却意外被困在了充满蚂蚁的村庄里。现在，这里有着有趣的谜题和隐藏物品，帮助你成功逃脱。祝你好运……尽情享受吧！！！
+- [反病毒 / 战争病毒](../games/adventure/antivirus-war-virus.md) — 介绍令人肾上腺素飙升的反病毒游戏！武装自己，使用史诗级工具，潜入虚拟世界，击败邪恶的病毒。踏上保护你数字领域的任务，展现你的战术技巧和闪电般的反应速度。释放你内心的英雄，确保你的设备在这款激动人心的游戏体验中免受病毒侵扰。
+- [水族馆房屋逃脱](../games/adventure/aquarium-house-escape.md) — 《水族馆房屋逃脱》是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你进入了一栋房子，却意外被困在其中。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [考古学家之家逃脱](../games/adventure/archaeologist-house-escape.md) — 《考古学家之家逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你进入了一栋房子，却意外被困在了里面。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你成功逃脱这栋房子。祝你好运……尽情享受吧！
+- [猎人超级英雄](../games/adventure/archer-super-hero.md) — 一款动作游戏，玩家扮演的弓箭手必须穿越怪物山谷，途中会遇到各种挑战。在每一关收集所有的星星。猎人英雄是一款非常有趣且富有挑战性的2D横版过关游戏，风格与《超级马里奥》、《咚奇刚》和《索尼克》等爆款游戏类似。游戏包含30个关卡，考验你的技巧。
 - [Archer：命运的试炼](../games/adventure/archer-trial-by-fate.md) — 《弓箭手：命运试炼》是一款动感十足的俯视角动作游戏。你将操控一名弓箭手，闯过数十个充满怪物和首领的房间，挑战命运本身。
+- [弓箭战士 - 战棍战争](../games/adventure/archer-warrior-stickman-war.md) — 在这款有趣的3D格斗游戏《弓箭战士》中，玩家需要骑马作战，提升自己的技能，与敌人战斗，并释放强大的能量，击败每一个坏人并解救人质。尽情享受《弓箭战士》的乐趣吧！
 - [阿库兹寻宝者](../games/adventure/arcuz-treasure-hunters.md) — 《Arcuz Treasure Hunters》是一款以寻宝为主题的奇幻JRPG游戏，玩家将探索地下洞穴，破解迷宫般的机械装置，挑战强大的敌人，收集稀有宝藏，并通过招募各种伙伴组建一支拥有不同能力的强大队伍。
+- [热情女孩逃脱](../games/adventure/ardent-girl-escape.md) — 《热情女孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你作为一名保姆前往热情女孩的家中。当你到达那里时，她被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，成功逃离热情女孩的家。祝你好运……尽情享受吧！
+- [Arietta的疯狂团队露营](../games/adventure/arietta-s-crazy-team-camping.md) — Arietta和她的朋友及家人今年夏天要一起去露营度假了！帮助这些疯狂的露营者准备所有露营用品。露营者们需要先打包他们的露营装备！帮忙购买帐篷等露营用品，并为这场疯狂假期准备好一切！这些孩子们喜欢真正的生存挑战，寻找木材和石头制作锤子，为帐
+- [军队浴缸](../games/adventure/army-sink.md) — 参与竞赛？聚集最多人群，并在多人游戏中击败你的对手。成为领导者，不要让自己跌倒！
+- [阿诺鹰救援](../games/adventure/arno-eagle-rescue.md) — 阿诺鹰救援是一款由8B Games/Games2Live开发的点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的鹰。这里有有趣的谜题和需要寻找的隐藏物品，帮助你解救这只鹰。祝你好运……尽情享受吧！
+- [Arouse庄园逃脱](../games/adventure/arouse-estate-escape.md) — Arouse庄园逃脱是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你去庄园玩乐，却意外被困在了庄园里。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [箭头逃脱谜题游戏](../games/adventure/arrow-escape-puzzle-game.md) — 箭头逃脱是一款巧妙的箭头谜题游戏，考验你每一步的逻辑与策略。仔细规划每一次滑动，解锁复杂的路径，观察每个箭头找到完美的出路。初期关卡平静而简单——但随着进度推进，每个箭头的逃脱都变得更加挑战性，将你的逻辑能力推向新的极限。
+- [箭头逃脱](../games/adventure/arrows-escape-2.md) — 进入《箭头谜题逃脱》，这是一款极简风格的解谜游戏，旨在挑战你的逻辑思维、规划能力与空间意识。目标很简单——但掌握它却不容易：引导每个箭头从网格中安全离开，且不能发生任何碰撞。
+- [箭头谜题逃脱](../games/adventure/arrows-puzzle-escape.md) — 欢迎来到《箭头——谜题逃脱》，这是一款极简风格的益智游戏，挑战你的逻辑思维、规划能力和空间想象力。你的目标很简单：在不发生碰撞的情况下，将每个箭头移出。特色：- 富有挑战性的逻辑谜题，考验你的规划能力 - 数以千计精心设计的关卡，难度逐步提
+- [Arrowtix  锻炼你的大脑](../games/adventure/arrowtix-train-your-brain.md) — Arrowtix 是一款令人满足的脑力谜题游戏，你的目标是通过滑动纠缠的箭头将棋盘清空。但有一个关键限制：每个箭头只能朝其指向的方向移动，且其逃脱路径必须完全畅通！游戏包含 60 个难度各异的关卡，分为普通、中等和困难三个等级，将考验你的空
+- [ArrowXis 脑力逃脱谜题](../games/adventure/arrowxis-brain-escape-puzzle.md) — 用 ArrowXis：脑力逃脱谜题挑战你的大脑！解出色彩缤纷的箭头谜题，规划你的行动，运用聪明策略清除每一关。选择三种独特的挑战模式：颜色挑战、并列挑战和失误挑战。享受数百个精心设计的关卡，体验放松的游戏节奏、令人满足的连锁反应、流畅的操作
+- [ASRs RPG 冒险](../games/adventure/asrs-rpg-adventure.md) — 在 ASRonlineGames.com 提供的这款趣味冒险游戏中扮演一个角色扮演游戏英雄。要小心，因为王国中的一些植物行为异常。找到巫师获取如何将它们恢复到正常状态的指示。作为支线任务，寻找失踪的公主。前往商店购买武器或盾牌。你还需要获取
+- [星界逃脱](../games/adventure/astral-escape.md) — 宇航员战胜了敌人，抵达了母舰的门，但门被锁住了。锁包含多个谜题，需要解开才能打开。
 - [星际跳跃](../games/adventure/astro-hop.md) — 星际跳跃是一款刺激的太空主题跳跃游戏，玩家控制一名勇敢的宇航员在浩瀚的太空中跃过平台。你的目标是避开障碍物，并通过抵达最高平台来收集分数。游戏拥有令人惊叹的太空背景和色彩缤纷的平台，玩家必须仔细把握跳跃时机，避免被快速移动的危险击中。这是一
+- [占星师之屋逃脱](../games/adventure/astrologer-house-escape.md) — 占星师之屋逃脱是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品需要寻找，以逃离这栋房子。祝你好运……尽情享受吧！
+- [占星师逃脱 2](../games/adventure/astrologist-escape-2.md) — 占星师逃脱 2 是由 8BGames 开发的一款点击式逃脱游戏。想象一下，你预约去占星师的家中见面。当你到达那里时，发现他被困在房间里。寻找一些隐藏物品，解开一些有趣的谜题，逃离占星师的房间。祝你好运……玩得开心！
+- [运动员女孩逃脱](../games/adventure/athlete-girl-escape.md) — 《运动员女孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去运动员女孩家接她去操场。当你到达那里时，她被困在了这栋房子里。寻找一些隐藏物品，解开有趣的线索，逃离运动员女孩的房子。祝你好运……尽情享受吧！
+- [攻击外星月球](../games/adventure/attack-alien-moon.md) — AttackAlienMoon 在这款精彩游戏中，一名勇敢的男孩被选中前往太空，在月球背面与外星人战斗。
 - [攻击洞穴游戏](../games/adventure/attack-hole-game.md) — 准备好迎接《攻击洞穴游戏》中激动人心且令人上瘾的冒险吧！控制一个强大的黑洞，吞噬路径上的所有事物以变得更大更强。快速在竞技场中移动，收集武器、物品和资源，然后为与强大敌人和首领的史诗级战斗做好准备。
+- [复仇者联盟灭霸手套逃脱](../games/adventure/avengers-thanos-gauntlet-escape.md) — 《复仇者联盟灭霸手套逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去观看复仇者联盟团队，结果发现灭霸手套被困在那栋房子里，你必须找到一些隐藏物品，解开一些有趣的谜题，找到灭霸手套并拯救世界。祝你好运……尽情享受吧！
+- [Axie Infinity Gamejam](../games/adventure/axie-infinity-gamejam.md) — 拯救阿希，英雄。
+- [阿兹特克立方体宝藏](../games/adventure/aztec-cubes-treasure.md) — 阿兹特克立方体宝藏是一款免费的街机游戏。你是否怀念经典的俄罗斯方块？你来对地方了。下落方块并完成水平行。
+- [Azure House Escape](../games/adventure/azure-house-escape.md) — Azure House Escape 是由 8B Games/Games2mad 开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在其中。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受
+- [狒狒救援](../games/adventure/baboon-rescue.md) — 《狒狒救援》是由8BGames/Games2Mad开发的一款点击式救援游戏。想象一下，你来到了一个地方，发现一只狒狒被困在笼子里。寻找一些隐藏物品，解开一些有趣的谜题，以解救这只狒狒。祝你好运……尽情享受吧！
+- [小女孩房屋逃脱](../games/adventure/baby-girl-house-escape.md) — 《小女孩房屋逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你进入了一栋房子，结果被困在了里面。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你成功逃离这栋房子。祝你好运……尽情享受吧！
+- [小猩猩逃脱](../games/adventure/baby-gorilla-escape.md) — 《小猩猩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你家里养了一只宠物小猩猩。这只小猩猩非常调皮，总是把家里弄得乱七八糟。不幸的是，小猩猩被困在了一个房间里。找出一些隐藏物品，解开有趣的谜题，帮助小猩猩逃脱。祝你好运……玩得
+- [婴儿之地逃脱](../games/adventure/baby-land-escape.md) — 《婴儿之地逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [婴儿救援计划](../games/adventure/baby-rescue-plan.md) — 这是一款逃生系列游戏，主要讲述帮助宝宝和爷爷从房间逃脱的故事，非常有趣。游戏中有许多线索，色彩搭配和绘画风格都非常可爱，欢迎各位玩家下载体验。
+- [小鲨鱼游戏在线版](../games/adventure/baby-shark-game-online.md) — 小鲨鱼钓鱼游戏：采用孩子们最喜欢的、来自Pinkfong《小鲨鱼》世界中可爱角色的艺术风格——妈妈鲨鱼、爸爸鲨鱼、奶奶鲨鱼和小鲨鱼！让我们去狩猎吧：拿起你的钓竿，在这个充满乐趣且互动性强的经典钓鱼游戏中，随着游戏板旋转，尽可能多地钓到鱼！钓
+- [后空翻者](../games/adventure/back-flipper.md) — 在屋顶、公园、飞驰的汽车上、移动的电梯上，甚至在飞机和卫星上完成后空翻，成为最棒的后空翻者！后空翻者是迄今为止最具动态性、最简单且最休闲的翻转体验！
+- [后空翻狂人](../games/adventure/backflip-maniac.md) — 后空翻狂人是一款很棒的在线游戏，您需要控制角色跳跃。初期关卡会比较容易，因为您从较低的高度跳跃。然而，随着游戏进展，建筑物会变得更高，您将更难准确地落在目标位置。此外，准确落在红色方块上也非常重要，否则您将无法进入下一关。
+- [背包英雄](../games/adventure/backpack-hero.md) — 突袭地牢！背包英雄是一款物品管理类肉鸽游戏！收集稀有道具，整理你的背包，并击败你的敌人！
+- [后室之中：谁是内鬼滚动巨兽](../games/adventure/backrooms-among-us-rolling-giant.md) — 现在你必须逃离内鬼 Among Us 和滚动巨兽。但要小心，老奶奶有时会意外出现吓唬你！在时间耗尽前收集所有手机，并打电话叫朋友来帮助你！
 - [后台：退出协议 0](../games/adventure/backrooms-exit-protocol-0.md) — 《后室：逃生协议 0》——一款恐怖的生存游戏！探索第 0 层，找到钥匙卡，解开谜题，躲避怪物，逃离后室！
+- [后院逃脱 2](../games/adventure/backyard-escape-2.md) — 《后院逃脱 2》是由 8bGames/Games2Mad 开发的一款点击式逃脱游戏。你被困在后院，丢失了钥匙。试着找到离开后院的方法。祝你好运，玩得开心！
 - [荒地英雄](../games/adventure/badlands-hero.md) — 在游戏《荒野英雄》中踏上史诗般的旅程，危险潜伏在每个角落，冒险也无处不在。
+- [秃鹰逃脱](../games/adventure/bald-eagle-escape.md) — 秃鹰救援是一款由8B Games/Games2Live开发的点击解谜游戏。想象一下，你曾前往一个村庄，在那里发现了一只被困的鹰。这里有有趣的谜题和隐藏物品等待你去寻找，以解救这只鹰。祝你好运……尽情享受吧！
+- [Baldi 的乐趣](../games/adventure/baldi-fun.md) — Baldi 的乐趣新学校重制版是原版 Baldi's Fun New School 模组的重制版本。如果你还没有玩过这个模组，我建议你先玩一下。Baldi's Fun New School 重制版共有 12 种模式，分别是：探索模式、故事模
+- [球冒险 2](../games/adventure/ball-adventure-2.md) — 疯狂的球 2 是一款平台游戏，玩家需要尽可能多地收集星星。特色：• 20 个关卡 • 天气系统 • 优秀的图形
+- [球彩涂鸦](../games/adventure/ball-paint.md) — 滑动屏幕以调整瞄准角度；将彩色球发射到角色身上进行绘画；尝试用一种颜色画完整个角色！球彩涂鸦是一款色彩绘画类游戏。使用一些小色块来射击人物，然后进行绘画，在这个方面绘制一些场景。这是一款非常休闲的游戏，能为玩家带来许多快乐，并提供一种非常轻
+- [BallFall](../games/adventure/ballfall.md) — 控制小球从顶部掉落到底部。游戏包含多个关卡，每个关卡会随机生成多个平台。你需要控制小球穿过平板的缝隙，以避免撞到陷阱。快来试试吧。
+- [气球颜色匹配](../games/adventure/balloon-color-matching.md) — 通过匹配气球的颜色来爆炸它们并超越最高分！这款有趣且令人上瘾的游戏——气球颜色匹配，将考验你的颜色匹配能力。匹配相同颜色的气球并将其炸掉，以在游戏内获得尽可能高的分数。只需点击气球即可改变其颜色，然后与同色气球匹配即可开始游戏。匹配并炸掉越
+- [气球弹跳：弹出并爆炸](../games/adventure/balloon-pop-pop-amp-blast.md) — 气球弹跳：弹出并爆炸 准备好迎接一场色彩斑斓且令人上瘾的气球弹出挑战吧！快速点击、轻触并弹出气球，测试你的速度、准确性和反应能力。尽可能多地弹出气球，追逐高分，并享受简单而令人满足的游戏体验，容易上手但乐趣无穷。保持专注，手指敏捷，因为每个
+- [温暖村庄逃脱](../games/adventure/balmy-village-escape.md) — 《温暖村庄逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你为了研究目的前往一个村庄，却意外被困在了村中。现在，这里有有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [香蕉农场逃脱](../games/adventure/banana-farm-escape.md) — 香蕉农场逃脱是由Games2Live开发的一款点击解谜游戏。想象一下，你曾去过一个农场；在那里，你被困在了农场里。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离香蕉农场。祝你好运……尽情享受吧！
+- [芭比梦幻屋冒险](../games/adventure/barbie-dreamhouse-adventures.md) — 创造属于你自己的芭比梦幻屋体验！加入我们，参与各种有趣的活动：烘焙、烹饪、跳舞、造型改造、家居设计、时尚穿搭、美甲沙龙、发型沙龙、迷你游戏或盛大的泳池派对！在马里布探索我的粉色敞篷车，或为我和朋友们搭配时尚前卫的造型，拍出完美照片！跟随我们
+- [地下室](../games/adventure/basement.md) — 橡胶怪物勇敢地挑战地下室。快来挑战最高分吧。
+- [蝙蝠侠逃脱](../games/adventure/batman-escape.md) — 《蝙蝠侠逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你正准备带一个男孩去学校参加化妆舞会比赛。当他穿上蝙蝠侠服装时，却卡在了房间里。寻找一些隐藏物品，解开有趣的谜题，逃离蝙蝠侠的房间。祝你好运……尽情享受吧！
+- [对抗僵尸](../games/adventure/battling-zombies.md) — 一款植物合成游戏，合成的植物会自动攻击怪物。各种植物陆续出现，还有各种Boss等待你来挑战！
+- [海滩逃脱](../games/adventure/beach-escape.md) — 《海滩逃脱》是由Games2Live开发的一款点击式游戏。想象一下，你曾去过一个海滩；在那里，你被困在了海滩里。这里有许多有趣的谜题和隐藏的物品需要寻找，以逃离海滩。祝你好运……尽情享受吧！
+- [海滩美人鱼逃脱](../games/adventure/beach-mermaid-escape.md) — 《海滩美人鱼逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一位被困的海滩美人鱼。寻找一些隐藏物品，解开有趣的谜题，逃离海滩美人鱼所在的地方。祝你好运……尽情享受吧！
+- [海滩度假村逃脱](../games/adventure/beach-resort-escape.md) — 《海滩度假村逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你曾前往一家度假村享受乐趣。如今你被困在了度假村内，现在这里有有趣的谜题和隐藏物品，帮助你逃离度假村。祝你好运……尽情享受吧！！！
+- [比格犬逃脱](../games/adventure/beagle-dog-escape.md) — 《比格犬逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困的狗。寻找一些隐藏物品，解开一些有趣的线索，逃离这只狗。祝你好运……尽情享受吧！
+- [熊块拼图](../games/adventure/bear-block-puzzle.md) — 有趣的熊块拼图是一款经典且引人入胜的方块拼图游戏，挑战你的逻辑思维并锻炼大脑。专为各年龄段玩家设计，这款游戏完美融合了放松与脑力训练，是拼图爱好者们的绝佳选择。通过简单的拖放操作，你的目标是将方块放置在网格上，并清除行或列以获得分数。无论你
+- [小熊宝宝逃脱](../games/adventure/bear-cub-escape.md) — 《小熊宝宝逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到一个地方，在那里发现了一只小熊宝宝被困在了里面。寻找一些隐藏物品，解开一些有趣的谜题，从而逃离小熊宝宝所在的场所。祝你好运……尽情享受吧！
+- [熊的逃脱](../games/adventure/bear-escape.md) — 《熊的逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只熊被困在其中。寻找一些隐藏物品，解开一些有趣的谜题，逃离老熊所在的场所。祝你好运……玩得开心！
+- [熊村逃脱](../games/adventure/bear-village-escape.md) — 《熊村逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离村庄。祝你好运……尽情享受吧！
+- [野兽男孩少年泰坦冒险世界 2D](../games/adventure/beast-boy-teen-titans-adventure-world-2d.md) — 野兽男孩和暗影泰坦去英雄 - 少年泰坦超级英雄丛林冒险跑3D，准备好玩野兽男孩和暗影泰坦去的冒险世界超级丛林跑3D。 主题是帮助世界。如果你喜欢野兽男孩和暗影泰坦去的冒险世界超级丛林跑3D，你也会喜欢这个游戏。要玩这个冒险，只需选择你的世界
+- [野兽别墅逃脱](../games/adventure/beast-villa-escape.md) — 《野兽别墅逃脱》是8B Games/Games2Mad开发的另一款点击式逃脱游戏。想象一下，你被困在了这座野兽别墅里，你可以找到有用的物品和有趣的线索符号来解开谜题，最终逃离别墅。祝你好运，玩得开心！
+- [打斗游戏](../games/adventure/beat-em-up.md) — 打斗游戏 打斗游戏——这是一款包含拳击和空手道的完整游戏。整个游戏采用剧情模式，你需要运用你的拳击和功夫技能，对抗城市中的帮派分子。这款功夫游戏属于高级格斗游戏类型。打斗游戏正等待着你。精彩 这是一款精彩的经典硬核动作格斗游戏。✔ 真实的街
+- [卧室逃脱](../games/adventure/bedroom-escape.md) — 你今天有一个非常重要的会议，但天哪！你把卧室的钥匙弄丢了！现在你该怎么办才能参加会议呢？这款短小的游戏灵感来源于MildEscape和Neutralxe等创作者的热门逃脱游戏。
+- [Ben 10 外星力量 2](../games/adventure/ben-10-alien-force-2.md) — 英雄時間到！Ben Tennyson 最著名的反派們再度回歸，並威脅要統治世界！你和 Ben 必須攜手合作，將他們擊潰。在 360 度的增強現實戰鬥中，變身為 Ben 的全部 10 種外星形態。探索 Ben 新的全息增強外星人所擁有的力量，
+- [Ben 10 Among Us](../games/adventure/ben-10-among-us.md) — Ben 10 Among Us 离线多人游戏，你是一名内鬼，必须在不被发现的情况下杀死所有船员。使用通风系统、破坏系统，或在游戏中自定义设置以增加挑战性。
+- [Ben 10 深海冒险](../games/adventure/ben-10-under-the-sea-advanture.md) — Ben 10 深海冒险
+- [Bendy and the Ink 3D 游戏](../games/adventure/bendy-and-the-ink-3d-game.md) — 在《Bendy and the Ink 3D 游戏》中，你将扮演主角。你需要通过一系列关卡，面对越来越强大的敌人。随着你逐渐接近最终挑战——与最终Boss对决，紧张感不断升级。凭借你的技巧和策略克服每一个障碍，这是一次令人振奋的体验。每一场
+- [善良男孩逃脱](../games/adventure/benign-boy-escape.md) — 《善良男孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去一个男孩家当保姆。当你和他玩耍时，他感到开心并开始奔跑，结果被困在了一个房间里。寻找一些隐藏物品，解开有趣的谜题，逃离这个善良男孩的房间。祝你好运……尽情享受吧！
+- [伯纳蒂森林冒险](../games/adventure/bernati-forest-adventure.md) — 伯纳蒂森林冒险是一款逼真的点击式森林冒险/逃脱/找物游戏，目标是收集45颗宝石。
 - [大爆炸！建筑物被砸碎！](../games/adventure/big-boom-building-smash.md) — 准备好投身混乱与破坏的世界了吗？如果你喜欢《Captain TNT》和《Noob Demolisher》这类游戏，那么我们的游戏即将成为你的新宠！炸毁建筑物，粉碎障碍，在每个关卡中制造彻底的混乱！你将面对数百个疯狂的任务，每一步都可能引发史
+- [大鱼吃小鱼2](../games/adventure/big-fish-eat-small-fish-2.md) — 大鱼吃小鱼2 - 在美丽的海洋中，有许多鱼类。鱼儿们的生命都十分脆弱，大鱼吃小鱼，小鱼吃虾！现在，当你穿越到海底深处时，你变成了一条小鱼，并怀揣着成长的梦想。快来和你的小鱼一起成长，开启冒险吧！
+- [大门逃脱](../games/adventure/big-gate-escape.md) — 《大门逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄的大门前，结果被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离大门。祝你好运……尽情享受吧！
+- [自行车抢劫](../games/adventure/bike-robbery.md) — 《自行车抢劫》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到一个村庄，发现一辆自行车被锁在笼子里。你想要偷走这辆自行车并成功逃脱。这里有许多有趣的谜题和隐藏物品，帮助你偷走自行车并逃离村庄。祝你好运……尽情享
 - [鸟浪](../games/adventure/bird-surfing.md) — 《鸟浪》是一款3D在线游戏，你将驾驶一只鸟在美丽的风景上空飞行。你的唯一目标是穿过环形障碍，尽可能地飞得更远。起初这看起来可能非常简单，但随着每一关的推进，难度会越来越大，因为你的反应时间必须越来越慢。同时避开树木和其他障碍物，这些都可能让
+- [位跳](../games/adventure/bit-jump.md) — 位跳 - 这是一款HTML5游戏！这个脆弱的电脑需要尽可能多地收集星星。帮助电脑尽可能多地收集星星，并让它远离危险。
+- [黑色鸟逃脱](../games/adventure/black-bird-escape.md) — 《黑色鸟逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的鸟。这里有有趣的谜题和隐藏物品等待你去发现并拯救这只鸟。祝你好运！尽情享受吧！
+- [黑色星期五逃脱](../games/adventure/black-friday-escape.md) — 《黑色星期五逃脱》是8BGames/Games 2Mad开发的另一款点击式逃脱游戏。想象一下，你去了一栋房子，结果被一个陌生人困在了黑色星期五当天。通过寻找有用的物品、提示并解开谜题，尝试从这栋房子里逃脱。祝你好运，玩得开心！
+- [黑门逃脱](../games/adventure/black-gate-escape.md) — 《黑门逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个村庄，却在那里被困住了。这里有着有趣的谜题和隐藏的物品，帮助你逃离黑门。祝你好运……尽情享受吧！
+- [黑门逃脱 1](../games/adventure/black-gate-escape-1.md) — 《黑门逃脱 1》是由 8B Games/Games2live 开发的一款点击式游戏。想象一下，你来到了一个地方，却发现自己被困在了那里。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离黑门。祝你好运……尽情享受吧！
+- [黑洞填充3D](../games/adventure/black-hole-fill-3d.md) — 控制一个强大的黑洞，在《黑洞收集大师3D》中收集物品以完成每一关！四处移动，抓住路径上的所有物品，并在时间耗尽前填满目标区域。享受有趣的关卡、流畅的操作、色彩缤纷的图形以及轻松上手又令人欲罢不能的游戏体验，适合所有年龄层！
 - [黑河之谜：隐藏物品](../games/adventure/blackriver-mystery-hidden-objects.md) — 《黑河之谜：隐藏物品》是一款全新游戏，你将扮演一位神秘侦探，肩负起重建废墟小镇并解开谜团的重任。游戏中包含众多精彩任务、独特的收藏品以及热门小游戏（例如三消、幸运轮盘等等）。
+- [欢快女孩逃脱](../games/adventure/blithe-girl-escape.md) — 欢快女孩逃脱是一款由8BGames开发的点击式逃脱游戏。想象一下，一个欢快的女孩被困在这所房子里。你的任务是将她救出来。寻找一些隐藏物品，解开一些有趣的谜题，逃离这个欢快女孩的困境。祝你好运……尽情享受吧！
+- [方块工艺](../games/adventure/block-craft.md) — 方块工艺是您可以在网页浏览器中直接游玩的终极电脑建造游戏！如果您喜欢建造和工艺类游戏，那么您一定会爱上方块工艺！- 使用方块工艺创建并建造巨大的方块景观- 无限的制作方块，永不枯竭！- 无尽的创造模式。不用担心生存问题！方块工艺无疑是网页浏
+- [挖矿工](../games/adventure/block-digger.md) — 在《挖矿工》中，突破岩石，收集珍贵宝石，并升级你的矿井以提升财富。解锁新关卡，追逐奖励，打造前所未有的采矿帝国。操作简单，令人欲罢不能——现在就开始挖掘宝藏吧！
+- [方块堆叠3D](../games/adventure/block-stack-3d.md) — 一款极具挑战性的休闲益智游戏，看似简单的玩法实际上想要获得高分并不容易，考验玩家的反应能力和手速，操作技巧简单易用，趣味十足且富有创意的游戏关卡，是打发时间的最佳游戏。
+- [方块世界](../games/adventure/block-world.md) — 方块世界是排名第一的沙盒方块世界建造模拟器。只要你能想象到的，就能建造出来！
+- [BlockCraft Together](../games/adventure/blockcraft-together.md) — 这款游戏既可以两人一起玩，也可以独自游玩。你可以获取资源、击败怪物、穿越不同维度、随心所欲地建造、制作盔甲、武器和工具、狩猎、烹饪，还有更多内容。征服广阔的游戏世界，挑战传奇守卫者！
 - [BlockCrafter](../games/adventure/blockcrafter.md) — 一个由超现实主义图形和先进物理引擎驱动的无限沙盒世界。探索逼真的生态区域，采集资源，无限制地建造，并在严酷且动态变化的环境中生存。主要特性：次世代视觉效果：高清纹理、动态天气和实时光照。生存与制作：资源管理、高级制作和建筑。完全自由：一个可
+- [方块之间道路](../games/adventure/blocky-among-road.md) — 你准备好接听这个紧急呼叫了吗？能否成为这款《我的世界方块砖块》城市中的英雄？设定在一个充满积木的卡通世界中，你需要通过制作来开辟道路。这是一款2020年令人惊叹的街机游戏！在无尽跑酷游戏中，被抢劫后奔跑以收集你的金币，打造终极黄金无尽跑酷！
+- [方块冲刺](../games/adventure/blocky-dash.md) — 准备好迎接冒险之旅吧！跳跃玩家，探索绿色山丘、雪白山脉和沙漠沙丘，这款独特的物理竞速游戏将带你环游世界！龙卷风摧毁了你的农场，并将其散落在全球各地。
+- [方块蛇](../games/adventure/blocky-snake.md) — 方块蛇是一款令人兴奋的无尽游戏，您需要左右移动蛇。努力避开挡在您前方的障碍物，击碎方块以获得分数，收集身体以增加蛇的长度，并收集金币以解锁新的身体类型和新的环境类型。
+- [方块宇宙](../games/adventure/blocky-universe.md) — 在《方块宇宙》中，你将踏上一段充满怪物的冒险之旅！凭借你可靠的弓箭和斧头，你需要击败成群的僵尸、骷髅和其他敌人。要做到这一点，你必须变得更强！砍伐木材能让你成为一名更优秀、更快的弓箭手，而花费金币则能让你更快地砍伐木材。通过不断升级这两项技
+- [绽放天空冒险](../games/adventure/bloom-sky-adventure.md) — 天空仙女绽放在云朵间飞行，执行一项充满挑战的任务。天空中有闪电云和邪恶女巫。她必须通过跳跃越过这些障碍来完成任务。收集爱心，创造高分
+- [绽放之屋逃脱](../games/adventure/blooming-house-escape.md) — 《绽放之屋逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾前往一栋房子；在那里，你被困在了屋内。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受吧！
+- [Blox Escape](../games/adventure/blox-escape.md) — 这是一款逻辑谜题游戏，你需要从框架中逃脱。它是一种滑动类游戏。你需要移动方块，为带有星星的方块开辟一条路径。你有无限的时间来完成这个目标。只需滑动箱子，找到最佳的逃脱方式，让带星星的方块成功离开。游戏共有25个关卡，每个关卡都各不相同，其中
+- [蓝色砖块房间逃脱](../games/adventure/blue-brick-room-escape.md) — 《蓝色砖块房间逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你被困在一个房间里。这里有许多有趣的谜题和隐藏的物品等待你去发现并逃离这个房间。祝你好运……尽情享受吧！
+- [蓝鹦鹉逃脱](../games/adventure/blue-cockatoo-escape.md) — 《蓝鹦鹉逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，那里有一只蓝鹦鹉被困住了。这里有有趣的谜题和隐藏的物品等待你去发现，帮助鹦鹉获救。祝你好运！尽情享受吧！
+- [蓝色大象救援](../games/adventure/blue-elephant-rescue.md) — 《蓝色大象救援》是由8B Games/Games2Live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一头被困的大象。这里有着有趣的谜题和隐藏的物品等待你去寻找，以解救这头大象。祝你好运……尽情享受吧！
+- [蓝色森林逃脱](../games/adventure/blue-forest-escape.md) — 《蓝色森林逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你为了研究目的进入了一片森林，却意外被困在了里面。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [蓝色房屋逃脱2](../games/adventure/blue-house-escape-2.md) — 《蓝色房屋逃脱2》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾进入一栋房子，却意外被困在其中。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你成功逃离这栋房子。祝你好运……尽情享受吧！
+- [蓝色房屋逃脱3](../games/adventure/blue-house-escape-3.md) — 《蓝色房屋逃脱3》是由8B Games开发的一款点击解谜游戏。想象一下，你进入了一栋蓝屋。你被困在了屋内。这里有有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [蓝色房屋逃脱4](../games/adventure/blue-house-escape-4.md) — 《蓝色房屋逃脱4》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离这栋房子。祝你好运……尽情享受吧！
+- [蓝色房间逃脱](../games/adventure/blue-room-escape.md) — 《蓝色房间逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你进入了一个蓝色房间，被困在了房子里。这里有有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
 - [蓝调屋逃脱](../games/adventure/bluetique-house-escape.md) — 蓝调屋逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你曾去过一栋房子。现在你被困在了房子里。这里有着有趣的谜题和隐藏的物品，帮助你逃脱。祝你好运……尽情享受吧!!!
+- [船夫救援2](../games/adventure/boat-man-rescue-2.md) — 《船夫逃脱2》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾到过海边；那里一位老人被困了。这里有有趣的谜题和隐藏物品需要寻找，以解救这位老人。祝你好运……尽情享受吧！
+- [身体竞技赛 - 身体竞速](../games/adventure/body-fit-race-body-race.md) — 身体竞技赛：避开那些美味但不健康的冷饮和汉堡，吃黄瓜、番茄，通过障碍。用你新获得的健康状态赢得胜利。
+- [宝莱坞节奏](../games/adventure/bolly-beat.md) — 随着充满活力的宝莱坞音乐节奏，用弹跳球跳舞。帮助他在你选择的音乐旋律中跳跃过游戏场上的方块。游戏胜利不仅取决于你的反应速度，还取决于你的听觉能力。
+- [炸弹猎人](../games/adventure/bomb-hunters.md) — 炸弹猎人是一款令人上瘾的技巧游戏，你必须在规定时间内拆除所有炸弹，才能前往下一个地点。跳过水面，在繁忙的道路上奔跑，以到达炸弹所在地。注意躲避敌人，例如狙击手，他们会在你前往炸弹的路上试图击倒你。一旦所有炸弹都被拆除，迅速跑回总部，获取额外
+- [Bonny Boy Escape](../games/adventure/bonny-boy-escape.md) — Bonny Boy Escape 是由 8BGames 开发的一款点击式逃脱游戏。想象一下，你是一位名叫 Bonny Boy 的人邀请你去他家。当你到达那里时，他被困在了这所房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离 Bonny B
+- [老板福克斯逃脱](../games/adventure/boss-foxy-escape.md) — 《老板福克斯逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，老板曾去过一栋房子，在那里她被困住了。这里有有趣的谜题和隐藏的物品需要寻找，帮助老板逃离这栋房子。祝你好运……尽情享受吧！
+- [瓶子推推](../games/adventure/bottle-push.md) — 瓶子推推是一款非常有趣的物理益智游戏。你需要点击瓶子，让果汁收集星星。运用你的物理知识和智慧，通过更多关卡。
+- [弹跳冲刺冒险](../games/adventure/bouncy-rush-adventure.md) — 用可爱的机器人跳跃穿越障碍和危险！Jumbot 已经被淘汰，被扔进了大工厂变成废料，但你不会让这种情况发生！使用 Jumbot 的支架进行跳跃，逃离大工厂！
 - [弹跳冲刺游戏](../games/adventure/bouncy-rush-game.md) — 在这个弹跳游戏中，你需要跳跃并避开路上的障碍物。在跳跃时，你可以切换到高难度或低难度模式。每个难度级别都是一次独特的冒险和挑战，你将在游戏中体验到这些内容。
+- [箱子跳跃](../games/adventure/box-jump.md) — 跳跃箱子是一款冒险游戏。跳跃箱子等待你来挑战，帮助箱子通过障碍，跃过悬崖并避开障碍物。立即开始游戏，感受穿越每个障碍的刺激体验。
+- [大脑100](../games/adventure/brain-100.md) — 大脑100 匹配是一款经典的记忆游戏，基于传统的桌面游戏，你需要翻转背面朝上的卡片并配对相同的卡片。
+- [分支游戏](../games/adventure/branches-game.md) — 分支游戏是一款有趣且令人上瘾的休闲游戏，考验你的时机、专注力和反应能力。在这款游戏中，你的目标是向前移动，同时避开路径上的危险树枝。一次错误的操作就会结束游戏，因此你必须保持警觉并快速反应。游戏玩法简单易懂，适合所有年龄段的玩家。流畅的操作
+- [勇敢的梅丽达逃脱](../games/adventure/brave-merida-escape.md) — 《勇敢的梅丽达逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去邻居家看望弓箭手梅丽达，结果发现她被困在了那栋房子里，你需要寻找一些隐藏物品，解开有趣的谜题，找到勇敢的梅丽达。祝你好运……玩得开心！
+- [brawl star](../games/adventure/brawl-star.md) — brawl stars 是一款 3v3 俯视射击游戏，来自世界各地的玩家可以在此进行终极对决！随着游戏进程的推进，您将解锁新角色、提升您的战斗者属性，甚至解锁新的游戏模式！
+- [逃离太空站](../games/adventure/break-free-space-station.md) — 你醒来发现自己被困在了一个太空站里！肯定有人在捉弄你，你根本不是宇航员。四处看看，想办法逃出去吧！
+- [逃离博物馆](../games/adventure/break-free-the-museum.md) — 你醒来时发现自己躺在博物馆里！你的朋友们一定在跟你开玩笑。四处看看，找找能帮你逃离博物馆的东西！
+- [逃出](../games/adventure/break-out.md) — 想象一下，你被温斯顿绑架并锁在了房子里。现在你需要从这里逃脱。找到线索并解开它
 - [布雷因罗特沼泽](../games/adventure/breinrot-bog.md) — 欢迎来到一个神秘物质——脑根——吞噬心智的世界。这种物质出现在地图上最危险、最难到达的地方。你的主要目标是收集脑根，以此生存并强化你的角色。
+- [砖块撞击](../games/adventure/brick-hit.md) — 砖块撞击游戏通常涉及发射一个弹射物，如球体，以击碎墙壁或层层砖块。目标是通过击中并摧毁砖块来清空屏幕，这通常需要策略性的瞄准和时机把握。
+- [砖房逃脱](../games/adventure/brick-house-escape.md) — 《砖房逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你进入了一栋砖房，却意外被困在了里面。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [砖房逃脱 2](../games/adventure/brick-house-escape-2.md) — 《砖房逃脱 2》是由 8B Games 开发的一款点击式解谜游戏。想象一下，你走进了一座砖房，却意外被困在了里面。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [积木逃脱：突破冒险](../games/adventure/brickscape-breakout-adventure.md) — 准备好迎接一场令人兴奋的旅程，探索《积木逃脱：突破冒险》中充满活力的玻璃砖构成的迷人世界。这是一款终极的砖块消除游戏，巧妙融合了简单与炫目的刺激感。挑战自我，掌控一系列视觉效果惊艳的球体，每种球体都会根据你的表现不断进化，确保带来沉浸式且个
+- [桥梁3D](../games/adventure/bridges-3d.md) — 欢迎来到《桥梁3D》游戏，这是一款有趣且令人上瘾的解谜冒险游戏，将考验你的创造力和解决问题的能力！建造坚固的桥梁，连接路径，并帮助角色安全穿越充满挑战的障碍物，进入一个色彩缤纷的3D世界。每一关都带来新的挑战，需要你动脑思考、仔细规划并完美
+- [布里尔宅邸逃脱](../games/adventure/brill-house-escape.md) — 《布里尔宅邸逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾造访一座房子，却意外被困在其中。这里有着有趣的谜题和隐藏物品等待你去发现，从而成功逃离这座房子。祝你好运……尽情享受吧！
+- [育雏房逃脱](../games/adventure/brooder-house-escape.md) — 《育雏房逃脱》是8B Games/Games2Mad开发的另一款点击式逃脱游戏。想象一下，你被困在了这个育雏房里，房子里满是小鸡和母鸡，你可以找到有用的物品和有趣的线索符号来解开谜题，最终从这间房子里逃出去。祝你好运，玩得开心！
 - [扫帚工艺神秘闪避](../games/adventure/broomcraft-mystic-evasion.md) — 《Broomcraft Mystic Evasion》是一款动作游戏，你将骑着扫帚翱翔天际，与成群的敌人展开激战！击败敌人即可获得经验值，提升等级，变得更加强大。探索新的魔法，并进化已解锁的魔法，更快地击败敌人。面对各种不同的敌人类型和强大
+- [棕色洞穴逃脱](../games/adventure/brown-cave-escape.md) — 《棕色洞穴逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你进入了一个洞穴，结果被困在了里面。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃脱洞穴。祝你好运……尽情享受吧！
+- [布鲁图斯演员逃脱](../games/adventure/brutus-actor-escape.md) — 《布鲁图斯演员逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去一栋房子接布鲁图斯演员来参加戏剧演出。当你到达那里时，他被困在这栋房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离布鲁图斯演员所在的房间。祝你好运……玩得开心！
+- [虫子粉碎机](../games/adventure/bug-blaster.md) — 体验这场致命的虫子入侵吧！用你的鼠标尽情砸烂它们，这是一款超级上瘾的游戏！昆虫粉碎机纯粹就是一款乐趣十足的游戏。没有复杂的规则需要理解，只有一个目标：尽可能多地砸烂昆虫。相信我们，你的手指会永远记住这一刻。
+- [Buho Owl Escape](../games/adventure/buho-owl-escape.md) — Buho Owl Escape 是由 8B Games/Games2live 开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的 Buho 猫头鹰。这里有有趣的谜题和隐藏的物品等待你去发现，帮助猫头鹰获救。祝你好运
+- [造桥！](../games/adventure/build-a-bridge.md) — 在这款挑战性极高的解谜游戏中，测试你的工程能力和即兴创作技巧。你将负责为汽车、卡车、巴士……甚至有时还有巨型卡车建造桥梁。集中你的智慧，开始建造吧！
+- [为我的世界制作模组](../games/adventure/building-mods-for-minecraft.md) — 为我的世界制作模组是热爱建造与战斗的玩家的终极游戏。如果你是我的世界粉丝，正在寻找新的冒险，这款游戏将我的世界的建造机制提升到了新高度，结合了建造与动作元素。你将可以使用各种建造工具和枪械。
+- [浮力女孩逃脱](../games/adventure/buoyant-girl-escape.md) — 《浮力女孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去一个女孩的家里和她一起玩耍。当你到达那里时，她突然开始奔跑；紧接着，她被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离浮力女孩。祝你好运……玩得开心！
+- [墓地逃脱](../games/adventure/burial-yard-escape.md) — 《墓地逃脱》是一款由8B Games/Games2mad开发的点击解谜游戏。想象一下，你曾前往一座墓地，结果被困在了墓地之中。在这里，你将面对有趣的谜题和隐藏物品，寻找线索以逃离墓地。祝你好运……尽情享受吧！
+- [巴士冲刺2](../games/adventure/bus-rush-2.md) — 《巴士冲刺2》是Android平台上最完整的多人跑酷游戏之一。在里约热内卢及其他场景中奔跑。拖动以跳跃或滑行，向左或向右移动，避开卡车、公交车和地铁列车等障碍物！在多人模式中与其他全球玩家展开竞速比赛。在不同场景中奔跑并尽可能收集所有硬币…
+- [蝴蝶屋逃脱 2](../games/adventure/butterfly-house-escape-2.md) — 《蝴蝶屋逃脱 2》是由 8B Games/Games2mad 开发的一款点击式游戏。想象一下，你曾去过一栋房子；在那里，你被困在了屋内。这里有许多有趣的谜题和隐藏物品等待你去发现并逃离这栋房子。祝你好运……尽情享受吧！
+- [购买冰淇淋逃脱](../games/adventure/buy-an-ice-cream-escape.md) — 《购买冰淇淋逃脱》是由Games2Live开发的一款点击解谜游戏。想象一下，你正走在街上，看到一个饥饿的女孩，于是你决定给她买一支冰淇淋。这里有许多有趣的谜题和隐藏物品等待你去发现，以完成购买冰淇淋的任务。祝你好运……尽情享受吧！
+- [仙人掌岛](../games/adventure/cactus-island.md) — 你身处一座岛屿，却不知道自己是如何来到这里的。有人能帮他离开这里吗？探索这座岛屿，揭开真相！
+- [蛋糕切片匹配](../games/adventure/cake-slice-match.md) — 在《蛋糕切片匹配》中，匹配、合并并完成美味的蛋糕！将色彩缤纷的蛋糕切片放置在相同颜色的相邻位置，使它们合并到同一盘子上。当更多相同的切片连接在一起时，完整的蛋糕就会被创造出来，并转化为甜蜜的奖励。每完成一个蛋糕都会获得金钱，可用于推进游戏进
+- [宁静森林逃离](../games/adventure/calm-forest-escape.md) — 宁静森林逃离是一款由8B Games/Games2Mad开发的点击解谜游戏。想象一下，你曾前往森林进行一些研究，但夜深时被困在了森林里。有一只鸭子正在寻找帮助，以找到它的鸭宝宝。于是你决定帮助这只鸭子，并找到通往主大门的钥匙，从而逃离森林。
+- [宁静之地房屋逃脱](../games/adventure/calm-land-house-escape.md) — 宁静之地房屋逃脱是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个宁静之地的房屋，却意外被困其中。这里有着有趣的谜题和隐藏的物品，帮助你逃离宁静之地的房屋。祝你好运……尽情享受吧！
+- [摄像师住宅逃脱](../games/adventure/cameraman-house-escape.md) — 《摄像师住宅逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受吧！
+- [露营女孩逃脱](../games/adventure/camp-girl-escape.md) — 《露营女孩逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到了一个露营地，在那里发现了一位需要带着鱼逃离露营地的女孩。游戏中有有趣的谜题和隐藏物品等待你去寻找，帮助她成功逃脱。祝你好运……尽情享受吧！
+- [露营冒险游戏](../games/adventure/camping-adventure-games.md) — 你的孩子是否喜欢教育类游戏，并希望参加夏令营？如果孩子想搭帐篷，那你已经找到了合适的教育游戏！让我们一起去享受夏令营吧！帮助女孩完成精彩的露营活动！这个游戏非常有趣！让我们成为最棒的童子军吧！这些孩子需要你的帮助！从众多关卡中选择，让乐趣开
+- [露营冒险家庭版](../games/adventure/camping-adventures-family.md) — 让我们在这个暑假假期规划家庭公路旅行冒险。这款游戏将带您重温童年时光，享受露营旅行冒险，并与家人和朋友一起出游。露营旅行包含众多有趣的户外活动，您可以自由自在地玩耍，例如露营、篝火、洗车和修车、搭帐篷、烹饪、钓鱼、购物，或与动物、玩具玩捉迷
+- [糖果猫射击](../games/adventure/candy-cat-shot.md) — 准备好开启一场令人兴奋的冒险之旅吧！《糖果猫射击：猫咪狂热》这款手机游戏让你化身神射手，帮助可爱的猫咪瞄准并射击各种奇特的目标。
+- [糖果爆破：糖分逃脱](../games/adventure/candy-crunch-sugar-escape.md) — 糖果爆破是一款快节奏的益智游戏，速度与策略至关重要。匹配五彩缤纷的糖果，在计时器耗尽前清空整个棋盘。每一关都考验你快速思考、创造强力连击并触发令人满足的连锁反应的能力。游戏玩法简单易学，但随着进度推进会变得越来越紧张刺激，让每一轮都充满乐趣
+- [Canny Land Escape](../games/adventure/canny-land-escape.md) — Canny Land Escape 是由 8B Games/Games2Mad 开发的一款点击式逃脱游戏。想象一下，你为了研究目的前往一个宁静的国度，却意外被困在了那里。现在，这里有着有趣的谜题和隐藏的物品，等待你去发现以成功逃脱。祝你好运
+- [占领星球](../games/adventure/capture-the-planet-idle.md) — 《占领星球》是一款策略游戏，您将扮演一名指挥官，带领您的军队征服不同的城堡。游戏的目标是通过占领城堡和击败敌方部队来控制并扩展您的领土。地图上散布着一些奖励区域，可用于进一步壮大您的军队。您必须仔细平衡军队的实力与资源，同时还要考虑敌方的兵
+- [水豚螺丝狂想曲](../games/adventure/capybara-screw-jam.md) — 欢迎来到《水豚螺丝狂想曲》！这是一款可爱又烧脑的解谜游戏。你将与一只讨人喜爱的水豚一起踏上解决问题和策略思考的旅程。游戏玩法简单，挑战逐渐升级，是任何喜欢休闲解谜和脑力训练玩家的完美选择。你的目标是帮助水豚解决各种谜题挑战。每一关都会出现不
+- [房车逃脱](../games/adventure/caravan-escape.md) — 房车逃脱是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你和你的房车一起去了森林；突然有人偷走了你的房车车轮。这里有有趣的谜题和隐藏物品，帮助你逃离房车。祝你好运……尽情享受吧！
+- [卡罗姆宅邸逃脱](../games/adventure/carom-house-escape.md) — 《卡罗姆宅邸逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾造访一座房子，却意外被困在其中。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离这座房子。祝你好运……尽情享受吧！
+- [木匠逃脱](../games/adventure/carpenter-escape.md) — 《木匠逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往一位木匠的家中取一些面具。当你到达那里时，他却被困在了这栋房子里。寻找一些隐藏物品，解开有趣的线索，逃离木匠的家。祝你好运……尽情享受吧！
+- [马车房逃脱](../games/adventure/carriage-house-escape.md) — 《马车房逃脱》是8B Games/Games2Mad开发的另一款点击式逃脱游戏。想象一下，你被困在这所房子里，你可以找到有用的物品和有趣的线索符号来解开谜题，最终从这所房子里逃脱。祝你好运，玩得开心！
+- [胡萝卜农场逃脱](../games/adventure/carrot-farm-escape.md) — 《胡萝卜农场逃脱》是由Games2Live开发的一款点击解谜游戏。想象一下，你来到了一个胡萝卜农场，却意外被困在了农场里。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你逃离农场。祝你好运……尽情享受吧！
+- [卡通猫 惊悚](../games/adventure/cartoon-cat-scary.md) — 在这个独特的益智游戏中发现两种刺激的游戏模式！通过在主益智模式中用银色球体填满动物形状来测试你的逻辑能力（如图片所示）。然后，从菜单按钮访问特殊功能。点击声音以听到令人毛骨悚然的猫咪低沉的叫声。按下联系以直接拨打神秘猫的电话。网页开发 <a
+- [城堡逃脱 2](../games/adventure/castle-escape-2.md) — 《城堡逃脱 2》是由 8B Games/Games2mad 开发的一款点击式游戏。想象一下，你曾造访一座城堡，却在其中被困。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离城堡。祝你好运……尽情享受吧！
+- [城堡逃脱3](../games/adventure/castle-escape-3.md) — 《城堡逃脱3》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾造访一座城堡，却意外被困在其中。这里有着有趣的谜题和隐藏的物品等待你去发现，帮助你逃离城堡。祝你好运……尽情享受吧！
 - [猫咪逃脱：捉迷藏](../games/adventure/cat-escape-hide-and-seek.md) — 《猫咪逃脱：捉迷藏》是一款精彩刺激的休闲街机游戏，你需要帮助猫咪逃脱，躲避大丹犬的追捕，最终吃到美味的蛋糕！
+- [猫咪逃脱：玩饥饿的猫](../games/adventure/cat-escape-play-hungry-cat.md) — 猫咪逃脱是一款简单游戏，你扮演一只猫，需要吃东西。简单规则：突破愤怒的狗
+- [猫咪乐园逃脱](../games/adventure/cat-land-escape.md) — 《猫咪乐园逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，帮助你逃离这个村庄。祝你好运……尽情享受吧！
+- [猫滚动](../games/adventure/cat-rolling.md) — 猫滚动是一款益智游戏，你需要操控一只滚动的猫。控制猫咪跳跃越过障碍物，并跳起来捕捉星星。点击镜像物体以创建猫的路径。当你收集到钥匙后，就可以打开通往下一关的门了。
+- [抓住淘气的猫](../games/adventure/catch-the-naughty-cat.md) — 《抓住淘气的猫》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个村庄，那里有一只淘气的猫不断打扰村民。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助抓住这只猫。祝你好运……尽情享受吧！
+- [毛毛虫逃脱](../games/adventure/caterpillar-escape.md) — 《毛毛虫逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困住的毛毛虫。寻找一些隐藏物品，解开一些有趣的谜题，从而逃离毛毛虫所在的环境。祝你好运……尽情享受吧！
+- [猫咪小憩 派对时光：谜题](../games/adventure/catnap-poppy-playtime-puzzle.md) — 在这个谜题中，你的任务是绘制几何形状。它们必须下落或滚动并击倒猫睡。有特殊工具、钩子、横梁、火箭、石头和球。运用逻辑和物理知识来应对所有任务并通关所有关卡。祝你好运，保持好心情。
+- [凯特拉逃脱](../games/adventure/catra-escape.md) — 《凯特拉逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去凯特拉的家里玩耍。当你在那里时，她被困在了自己的房间里。寻找一些隐藏物品，解开一些有趣的谜题，逃离凯特拉的房间。祝你好运……玩得开心！
+- [洞穴森林逃脱](../games/adventure/cave-forest-escape.md) — 《洞穴森林逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你为了研究目的进入了一片森林，却意外被困在了里面。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [洞穴森林逃脱 2](../games/adventure/cave-forest-escape-2.md) — 《洞穴森林逃脱 2》是由 8B Games/Games2Mad 开发的一款点击解谜游戏。想象一下，你为了研究目的前往一片森林，却意外被困在了里面。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！！！
+- [洞穴宝藏逃脱](../games/adventure/cave-treasure-escape.md) — 《洞穴宝藏逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个藏有金币的地方。你想要拿到金币并成功逃脱。这里有许多有趣的谜题和隐藏物品等待你去发现，最终成功逃脱。祝你好运……尽情享受吧!!!
+- [洞穴战争](../games/adventure/cave-wars.md) — 猎杀僵尸以获得分数！
+- [洞穴女子逃脱](../games/adventure/cave-woman-escape.md) — 《洞穴女子逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到一个地方，发现一名洞穴女子被困其中。寻找一些隐藏物品，解开有趣的谜题，成功逃离洞穴女子所在的环境。祝你好运……尽情享受吧！
+- [穴居人逃脱](../games/adventure/caveman-escape.md) — 《穴居人逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一名穴居人被困。寻找一些隐藏物品，解开有趣的谜题，逃离穴居人所在的地方。祝你好运……尽情享受吧！
+- [穴居人逃脱 4](../games/adventure/caveman-escape-4.md) — 《穴居人逃脱 4》是由 8BGames/Games2Mad 开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一个被困的穴居人。寻找一些隐藏物品，解开有趣的线索，逃离穴居人所在的地方。祝你好运……尽情享受吧！
+- [穴居人森林逃脱](../games/adventure/caveman-forest-escape.md) — 《穴居人森林逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你进入了一片森林，却意外被困在其中。这里有着有趣的谜题和隐藏的物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [穴居人宝藏逃脱](../games/adventure/caveman-treasure-escape.md) — 《穴居人宝藏逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到了一个藏有金币的地方。你想要拿到金币并成功逃脱。这里有许多有趣的谜题和隐藏物品等待你去发现并最终逃脱。祝你好运……尽情享受吧！
+- [穴居人村庄逃脱](../games/adventure/caveman-village-escape.md) — 《穴居人村庄逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个穴居人村庄，却意外被困其中。这里有有趣的谜题和隐藏物品等待你去发现，从而成功逃离村庄。祝你好运……尽情享受吧！
 - [齿轮洞穴](../games/adventure/cavern-of-gears.md) — 《齿轮洞穴》是一款设定在蒸汽朋克地下世界的2D动作冒险游戏。玩家将使用不断扩充的武器库，在齿轮驱动的洞穴中战斗，揭开消失在地下的工人们的命运，并与取而代之的强大力量展开对抗。
+- [细胞防御](../games/adventure/cellf-defense.md) — 细胞防御是一款快节奏的动作策略游戏，你将指挥细胞内部的微型防御单位。当一波波入侵的病毒和细菌来袭时，你需要部署特化的免疫单位，升级防御系统，并适应不断演变的威胁。掌握进攻与资源管理之间的平衡，以确保细胞存活。游戏拥有鲜艳的视觉效果、富有挑战
+- [墓地逃脱](../games/adventure/cemetery-escape.md) — 《墓地逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你被困在了这个黑暗夜晚的墓地里。现在这里有有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [墓园逃脱2](../games/adventure/cemetery-escape-2.md) — 《墓园逃脱2》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你被困在了这个黑暗夜晚的墓园里。现在这里有有趣的谜题和隐藏物品，帮助你逃脱。祝你好运……尽情享受吧!!!
+- [墓地万圣节](../games/adventure/cemetery-halloween.md) — 《墓地万圣节》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个阴森恐怖、充满惊悚氛围的地方，让你感觉周围有鬼魂出没。这里有一些有趣的谜题和隐藏物品，让你沉浸在万圣节的气氛中。祝你好运……尽情享受吧!!!
+- [锯齿人动漫](../games/adventure/chainsaw-man-anime.md) — 锯齿人游戏是一款全新的令人惊叹的锯齿人动漫游戏，以及一款免费的在线动漫游戏。在这场史诗级的动漫动作游戏中，你可以通过充满趣味的关卡，与僵尸、恶魔、首领和魔鬼战斗。使用你的锯齿人技能，像恶魔猎人和恶魔杀手一样斩杀并劈砍敌人。体验最佳的动漫游戏
 - [冠军女孩逃脱](../games/adventure/champion-girl-escape.md) — 《冠军女孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往一位冠军女孩的家，想要看看她的奖杯。当你到达那里时，她却将你困在了这栋房子里。寻找一些隐藏物品，解开有趣的线索，逃离这位冠军女孩。祝你好运……尽情享受吧！
 - [爱情故事中的改变角色](../games/adventure/change-part-in-love-story.md) — 保险箱的密码是什么？她究竟藏着什么秘密？
+- [战车逃脱](../games/adventure/chariot-escape.md) — 《战车逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你曾到过一个村庄；在那里，你丢失了你的战车马匹。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃脱战车。祝你好运……尽情享受吧！
 - [迷幻花园逃脱](../games/adventure/charmed-garden-escape.md) — 《迷幻花园逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你被困在了一个花园里，这里有着有趣的谜题和隐藏的物品，你需要找到它们并逃离花园。祝你好运……尽情享受吧！
 - [周三查看手机！](../games/adventure/check-wednesday-phone.md) — 查看星期三的手机！这款诡异又可爱的游戏灵感源自 Netflix 剧集。阅读信息，解开谜题，探索 Nevermore 的秘密，畅玩哥特式小游戏。
+- [厨师逃脱](../games/adventure/chef-escape.md) — 《厨师逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去了一位厨师的家中，想学习一些烹饪技巧。但当你到达那里时，却被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，成功逃脱厨师的家。祝你好运……玩得开心！
+- [厨师之家逃脱](../games/adventure/chef-house-escape.md) — 《厨师之家逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你前往一家厨师之家，希望能学到一些烹饪技巧。当你到达时，主人并不在场；不幸的是，你被困在这栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离厨师之家。祝你好运……尽情享受吧
+- [雪佛兰卡车逃脱](../games/adventure/chevy-truck-escape.md) — 《雪佛兰卡车逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾带着你的雪佛兰卡车去公园；在那里，你丢失了卡车钥匙。现在，通过有趣的谜题和隐藏物品，尝试逃离你的雪佛兰卡车吧。祝你好运……尽情享受！
+- [时尚宅邸逃脱](../games/adventure/chic-house-escape.md) — 《时尚宅邸逃脱》是8B Games/Games2Mad开发的另一款点击式逃脱游戏。想象一下，你被困在这所房子里，可以找到有用的物品和有趣的线索符号，解开谜题，最终逃离这所房子。祝你好运，玩得开心！
+- [小鸡追逐](../games/adventure/chick-chase.md) — 欢迎来到《小鸡追逐》，这是一款令人愉悦且极具上瘾性的平台游戏，你将操控一只勇敢的小鸡，在各个充满挑战的关卡中收集散落各处的鸡蛋。踏上一段激动人心的旅程，途中充满有趣的障碍和精美设计的环境。特色：挑战性关卡：探索众多关卡，每个关卡都独具设计，
+- [鸡骑手隐藏熔岩鸡2](../games/adventure/chicken-jockey-hidden-lava-chicken-2.md) — 在谷仓之下……燃烧着烈焰！在这部爆炸性续作中，调皮的鸡骑手带着全新的炽热设定回归——现在他骑着神秘莫测的隐藏熔岩鸡，这种生物由岩浆与谜团孕育而成。它拥有熔岩般的羽毛和一路燃烧的轨迹，这个地下威胁在混乱中咯咯前行，让每一场竞速都变成激烈的对决
+- [鸡骑手 通通萨胡尔之战](../games/adventure/chicken-jockey-tung-tung-sahur-fight.md) — 鸡骑手：通通萨胡尔之战是一款荒诞的打斗游戏，将你抛入混乱的横向滚动街头战斗之中——主角正是传奇人物鸡骑手，一个骑着无畏公鸡的婴儿僵尸。这款游戏受到经典街机格斗游戏《最终战士》和《怒之街》的启发，通过让你的亡灵禽类驱动英雄对抗一群被网络病毒侵
+- [鸡之恋 1](../games/adventure/chicken-love-1.md) — 《鸡之恋 1》讲述了一只勇敢小鸡的故事。邪恶的巨魔绑架了他心爱的伴侣，他必须在最新的街机游戏中找到她。免费在PacoGames游玩。
+- [奇波利诺冒险](../games/adventure/chippolino-adventure.md) — 奇波利诺冒险是史上最受欢迎的冒险游戏之一。要取得胜利，奇波利诺必须穿越可怕的丛林，攀登高耸的山脉，探索丛林，并跳跃和奔跑越过各种困难障碍。
 - [圣诞冒险](../games/adventure/christmas-adventure.md) — 圣诞冒险是一款简单的2D游戏。希望您喜欢。
+- [圣诞女孩逃脱](../games/adventure/christmas-girl-escape.md) — 《圣诞女孩逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你在平安夜来到了一个地方，在那里发现了一个被困的女孩。寻找一些隐藏物品，解开有趣的谜题，逃离这个女孩所在的地方。祝你好运……尽情享受吧！
+- [圣诞派对逃脱](../games/adventure/christmas-party-escape.md) — 《圣诞派对逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你参加了一场圣诞派对，却意外被困在了派对房子里。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离派对房子。祝你好运……尽情享受吧！
+- [查基女友逃脱](../games/adventure/chucky-girlfriend-escape.md) — 《查基女友逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去安迪家看望小安迪，结果被查基的女友绑架到了她的房子里，你需要寻找一些隐藏物品，解开有趣的谜题，找出残忍的查基女友的踪迹。祝你好运……尽情享受吧！
+- [英雄之环](../games/adventure/circle-of-heros.md) — 踏上激动人心的旅程，体验《英雄之环》这款快节奏的街机游戏，考验你的反应速度与策略。在本游戏中，你将操控一个旋转的英雄角色圆环，每位英雄都拥有独特的技能。目标简单却充满挑战：将下落的英雄与圆环上对应的英雄匹配，以获得分数并逐步通关各个关卡。
+- [马戏团大师逃脱](../games/adventure/circus-master-escape.md) — 《马戏团大师逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往马戏团大师的住所，打算邀请他加入马戏团。但当你到达那里时，他却被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离马戏团大师的房间。祝你好运……尽情享受吧！
+- [城市公交车乘客拾取游戏](../games/adventure/city-bus-passenger-picking-game.md) — 欢迎来到这款闲置公交交通帝国模拟经营游戏，建立并管理您的大型人类运输业务。从一座空置的建筑开始，通过投资各种房间和购买公交车来发展业务。超市、餐厅、候车室、厕所——这些只是您未来业务的一些部门。您是否将成为这款闲置模拟游戏中的最富有的亿万富
+- [城市建造游戏3D](../games/adventure/city-construction-games-3d.md) — 建设模拟器：城市建造游戏不仅让你驾驶铲雪机清除积雪，还有另一种模式需要你参与，即在城市建造游戏中根据设计图建造房屋。在挖掘机模拟器中，你需要使用自卸卡车和雪地教练，而挖掘机司机的主要任务是从市场为城市岛运输材料，并将其运送到建筑工地，用于城
+- [氏族土地逃脱](../games/adventure/clan-land-escape.md) — 《氏族土地逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [Claritas 地城爬行者 RPG 演示版](../games/adventure/claritas-dungeon-crawler-rpg-demo.md) — Claritas 是一款 2D 回合制地城爬行角色扮演游戏，专注于策略性玩法。游戏没有剧情或故事，挑战玩家探索队伍构建、技能融合以及战术战斗。从多样化的英雄阵容中进行选择，每位英雄拥有四种独特技能，并创造出强大的协同效应，以征服每一次遭遇战
+- [部落冲突：皇室战争 3D](../games/adventure/clash-royale-3d.md) — 史诗级生存跑酷！这是一场让你从头到尾都紧绷神经的竞速冒险！奔跑、碰撞、胜利！召集你的队伍，与人群一同奔跑，对抗敌对怪物！集结最庞大的人群！独自起跑，在途中不断聚集人群，形成庞大的队伍。带领你的团队穿越各种移动、旋转和扩张的障碍物。在奔跑中计
+- [生存对决](../games/adventure/clash-to-survival.md) — 《生存对决》将你推向一场令人惊叹的战斗，面对不断涌现的敌人。手持强大的武器和独特的特殊能力，你必须在多样的环境中穿行，挑战史诗级Boss，并制定策略以求生存。升级你的武器，掌握你的技能，证明你的实力，在这场关乎人类未来的激烈对抗中脱颖而出。
+- [黏土之地逃脱](../games/adventure/clay-land-escape.md) — 《黏土之地逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离这个村庄。祝你好运……尽情享受吧！
+- [悬崖地逃脱](../games/adventure/cliff-land-escape.md) — 悬崖地逃脱是一款由8B Games/Games2Mad开发的点击式解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，帮助你逃离村庄。祝你好运……尽情享受吧！
+- [攀爬者](../games/adventure/climb-man.md) — 英雄正挂在一块石头上，你需要在恰当的时机按下按键，让他抓住另一块石头。途中，你可以收集钻石来定制你的角色。
 - [向上爬！](../games/adventure/climb-up.md) — 在这场充满挑战的冒险中，你将踏上攀登一座险峻巍峨山峰的征程。一路披荆斩棘，克服湿滑路面和变幻莫测的障碍，最终抵达顶峰，那里有永恒的荣耀和丰厚的奖励在等待着你。你能否克服重重难关，最终登顶？还是说，攀登之路终将令你望而却步？在这场艰苦卓绝的攀
+- [钟表室逃脱](../games/adventure/clock-room-escape.md) — 钟表室逃脱是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你被困在一个房间里。这里有着有趣的谜题和隐藏的物品等待你去发现并逃离房间。祝你好运……尽情享受吧！
+- [Cloudline Connect](../games/adventure/cloudline-connect.md) — Cloudline Connect 是一款在天空中漂浮的柱子之间展开的放松 yet 具有挑战性的解谜游戏。通过绘制路径连接相同颜色的点，但需谨慎规划，因为路径不能重叠。随着关卡推进，更多的颜色和更紧凑的空间将考验你的逻辑与策略。提前思考，合
 - [小丑逃脱](../games/adventure/clown-escape.md) — 《小丑逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你正准备带一个男孩去学校参加化妆比赛。当他穿上小丑服装时，却卡在了房间里。寻找一些隐藏物品，解开有趣的谜题，逃离小丑的房间。祝你好运……尽情享受吧！
+- [Cluckles](../games/adventure/cluckles.md) — 游戏提示 如果你在一个关卡中找不到所有的小鸡，很可能它们藏在了秘密区域。友好的蝴蝶表示附近有秘密区域。如果你看到一只蝴蝶，请在附近的墙壁和地板上寻找秘密区域。记住，向下滑动屏幕可以穿过平台。秘密区域可能就在Cluckles的下方。
+- [教练逃脱](../games/adventure/coach-escape.md) — 《教练逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往一位教练的住所，准备带他去体育场。然而今天不幸的是，他被困在了自家屋内。寻找一些隐藏物品，解开有趣的谜题，成功逃离教练的屋子。祝你好运……尽情享受吧！
+- [教练逃脱2](../games/adventure/coach-escape-2.md) — 《教练逃脱2》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去教练的家中接他去体育场。但不幸的是，今天他被困在了自己家里。寻找一些隐藏物品，解开有趣的谜题，逃离教练的屋子。祝你好运……玩得开心！
+- [齿轮逃脱](../games/adventure/cog-escape.md) — 在工厂爆炸前逃离这个阴森庞大的工厂。你原本是去工厂进行检查的，但你的某些敌人在工厂里安装了炸弹，会炸毁整个工厂，包括你。你的工厂有大量安保系统。你需要突破自己的安保系统并成功逃脱。挑战你的朋友，看谁能更快完成逃脱。
+- [硬币与小偷](../games/adventure/coin-and-thief.md) — 这个城堡里的小偷正饿着肚子，帮助英雄奔跑并收集所有硬币。只需点击空格键或屏幕，让小偷跳过所有障碍物。《硬币与小偷》是本季最佳冒险游戏，拥有出色的跑酷体验、精美画面和音乐。
+- [殖民地逃脱2](../games/adventure/colony-escape-2.md) — 《殖民地逃脱2》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾前往一个殖民地；在那里，你被困在了殖民地内部。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离殖民地。祝你好运……尽情享受吧！
+- [殖民地大门逃脱](../games/adventure/colony-gate-escape.md) — 《多门之屋逃脱》是一款由8B Games/Games2live开发的点击式逃脱游戏。想象一下，你进入了一座房子，却发现自己被困其中。这里有着有趣的谜题和隐藏的物品等待你发现，以成功逃离这座房子。祝你好运……尽情享受吧！
+- [色彩寻踪冒险 2022](../games/adventure/color-and-seek-adventures-2022.md) — 《色彩寻踪冒险 2022》是一款专为年幼儿童设计的在线游戏。与主要角色一起，你需要通过绘画找回丢失的颜色。你必须在各个地点飞行，只收集你角色汽车所涂颜色的色彩。
+- [色彩斑斓的森林逃脱](../games/adventure/colorful-forest-escape.md) — 《色彩斑斓的森林逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾进入一片森林，却意外被困在其中。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [色彩斑斓的森林逃脱 2](../games/adventure/colorful-forest-escape-2.md) — 《色彩斑斓的森林逃脱 2》是由 8B Games/Games2mad 开发的一款点击解谜游戏。想象一下，你曾进入一片森林，却意外被困在其中。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃离森林。祝你好运……尽情享受吧！
+- [多彩之地逃脱](../games/adventure/colorful-land-escape.md) — 《多彩之地逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离村庄。祝你好运……尽情享受吧！
+- [多彩的吃豆人逃脱](../games/adventure/colorful-pac-escape.md) — 《多彩的吃豆人逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你曾到过一个村庄，在那里你看到一只吃豆人被困住了。这里有一些有趣的谜题和隐藏物品等待你去解救吃豆人。祝你好运……尽情享受吧！
+- [色彩缤纷的花园逃脱](../games/adventure/colourful-garden-escape.md) — 《色彩缤纷的花园逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个色彩缤纷的花园，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离花园。祝你好运……尽情享受吧！
+- [昏迷](../games/adventure/coma.md) — 《昏迷》是一款冒险游戏，你将扮演皮特，在希爾本展开寻找失踪妹妹的冒险旅程。
+- [战斗企鹅2](../games/adventure/combat-penguin-2.md) — 战斗企鹅游戏，你需要射击雪人来收集奖杯，随着你获胜，游戏难度会逐渐增加。战斗企鹅
+- [漫画乐园逃脱](../games/adventure/comic-land-escape.md) — 《漫画乐园逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾到过一个村庄，结果被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离村庄。祝你好运……尽情享受吧！
+- [Command Strike FPS 2](../games/adventure/command-strike-fps-2.md) — 欢迎来到一款全新的射击游戏！参与真正的特种兵任务吧！这里将体验到射击游戏中经典且深受喜爱的特色功能。关于 Command Strike FPS：- 多样化的战斗地图 - 离线游戏模式：死亡竞赛、夺旗模式、任务模式 - 武器装备：强力枪械与手
 - [隐匿于黑暗之中](../games/adventure/concealed-in-the-darkness.md) — 丽萨和莎伦是两位在年幼时就非常古怪的姐妹。具体来说，她们曾被一个可怕的恶魔从家中驱赶出去。这个恶魔藏身于她们家的黑暗中，一直吓唬着她们，因此她们决定离开这个地方。随着人们逐渐长大，通常会倾向于直面自己的恐惧，所以那个夜晚，两位姐妹带着最终与
+- [征服银河](../games/adventure/conquer-the-galaxy.md) — 太空中什么事都不顺利！外星生物的数量正在急剧增长，现在它们开始为每一寸领土而战。它们的计划是偷走你的领土。绝不能让它们得逞！增加你的人口，尝试入侵敌方星球。提升你的实力，尝试征服它们的领地！
+- [建筑屋逃脱](../games/adventure/construction-house-escape.md) — 建筑屋逃脱是一款由8BGames开发的点击式逃脱游戏。想象一下，你前往一栋建筑工地来翻新房屋。当你在工作时，房子的门突然被锁上了。寻找一些隐藏物品，解开一些有趣的谜题，从建筑工地逃脱出去。祝你好运……尽情享受吧！
+- [珊瑚冒险](../games/adventure/coral-adventure.md) — 欢迎来到珊瑚冒险——潜入一场充满水花的挑战！&zwj; 与一只可爱的巴比鱼一起开启一段激动人心的水下旅程，途中充满障碍、气泡和珊瑚礁。在《珊瑚冒险》中，你的任务是游过狭窄的缝隙，避开前方危险的栏杆，并看看你能在这一场惊险的水下冲刺中走多远！
+- [宇宙蜜蜂](../games/adventure/cosmic-bee.md) — 在《宇宙蜜蜂》儿童游戏中，你需要进入外太空，成为一名真正的宇航员。游戏的核心是需要在小块的太空区域中穿梭，这些区域位于陨石碎片和其他太空垃圾之间。尝试快速从一个地方飞到另一个地方，同时避开危险物体。这款游戏既适合最小的玩家，也适合想要轻松自
+- [温馨别墅逃脱](../games/adventure/cosy-villa-escape.md) — 温馨别墅逃脱是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你前往了一座别墅，却意外被困在其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离别墅。祝你好运……尽情享受吧！
+- [小屋逃脱](../games/adventure/cottage-escape.md) — 《小屋逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾前往一座小屋；在那里，你被困在了小屋里。这里有许多有趣的谜题和隐藏物品等待你去发现并逃离小屋。祝你好运……尽情享受吧！
+- [小屋庄园逃脱](../games/adventure/cottage-estate-escape.md) — 《小屋庄园逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你本应在一个庄园里度过愉快的时光。然而，你却被困在了庄园内。保安没有注意到你在公园里玩耍，锁上了大门便离开了。现在，这里有着有趣的谜题和隐藏的物品，帮助
+- [快递男孩逃脱](../games/adventure/courier-boy-escape.md) — 《快递男孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往快递男孩的家取包裹，但当他到达那里时，却被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离快递男孩的房子。祝你好运……尽情享受吧！
+- [牛逃脱](../games/adventure/cow-escape.md) — 《牛逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一头牛被困在了里面。寻找一些隐藏物品，解开一些有趣的线索，逃离这头牛。祝你好运……玩得开心！
+- [奶牛狂欢农场谜题](../games/adventure/cow-jam-farm-puzzle.md) — 在《奶牛狂欢农场谜题》中，宁静的农场变成了只有依靠你的逻辑能力才能解决的复杂交通堵塞。奶牛们被困在拥挤的小路上，而你的任务是帮助每一只奶牛安全逃脱。
+- [CraftMine - 终极淘汰](../games/adventure/craftmine-ultimate-knockout.md) — 以我的世界为主题的在线移动端多人竞速赢取游戏。超越大量对手，成为第一阶段的胜利者。然后依靠你的记忆力，击败第二阶段。在第三阶段中生存到最后，赢得游戏。
+- [起重机乐园逃脱](../games/adventure/crane-land-escape.md) — 起重机乐园逃脱是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [坠落着陆3D - 飞机游戏](../games/adventure/crash-landing-3d-airplane-game.md) — 《坠落着陆3D》是一款非常上瘾的模拟飞行游戏。在游戏中，玩家将操控飞机在太空中飞行，体验飞行员的生活。玩家需要完成游戏任务，穿越圆圈，并挑战各种高难度特技，尽情享受《坠落着陆3D》的乐趣！
+- [疯狂炸弹](../games/adventure/crazy-bomber.md) — 疯狂轰炸让你发射各种炮弹完成清除任务。你将解锁游戏中的所有超级电池，并在未来摧毁所有敌人。强大的超级炮弹将由你使用。你可以快速摧毁对手并顺利通关。还有许多有趣的游戏等待你来体验
+- [疯狂枪手](../games/adventure/crazy-gunner.md) — 疯狂枪手是一款非常复古的动作冒险休闲射击游戏。玩家可以在这个游戏中体验到各种射击游戏的乐趣。垂直休闲射击模式结合多种关卡，使游戏的可玩性更加丰富多样。快来体验这款游戏的乐趣吧。
+- [疯狂十字路口](../games/adventure/crazy-intersection.md) — 1. 玩家将体验游戏中愉快的游戏方式并挑战大量关卡；2. 随着游戏的通关，关卡难度会持续提升，感受这款新颖而精彩的游戏；3. 玩家将看到各种各样的汽车，并享受这款小巧而有趣的模拟游戏。
+- [疯狂机械师](../games/adventure/crazy-mechanic.md) — 欢迎来到疯狂机械师游戏！在这个游戏中，你是一位非常、非常疯狂的机械师，必须尽可能多地收集修理包！你应该努力获得最高分，并在这场随着时间推移越来越难的游戏里取得最大成功！如果你喜欢这个游戏，请不要忘记给它评分！
 - [诡异的游戏时间](../games/adventure/creepy-playtime.md) — 进入令人不安的《恐怖游戏时间》世界，阴影中潜伏着威胁。在这款悬疑游戏中，你需要收集汽水罐，同时还要避免被发现。一个阴森的声音在你每一步都发出嘲讽。你能逃脱怪物的魔爪，还是会被它们困住？在电脑和手机上免费在线畅玩这款惊悚冒险游戏。
+- [犯罪现场逃脱](../games/adventure/crime-scene-escape.md) — 《犯罪现场逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾前往一个犯罪现场，却在那里被困住了。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离犯罪现场。祝你好运……尽情享受吧！
+- [鳄鱼之地逃脱](../games/adventure/crocodile-land-escape.md) — 《鳄鱼之地逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你被困在了鳄鱼之地。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离这片土地。祝你好运……尽情享受吧！
 - [残酷寓言](../games/adventure/cruel-fable.md) — 《残酷寓言》是一款黑暗童话风格的动作类Roguelike游戏，玩家需要抵御一波又一波扭曲生物的攻击，收集金币，打造强力武器组合，并通过升级和道具塑造角色。
+- [哭泣的艾玛逃脱](../games/adventure/crying-emma-escape.md) — 《哭泣的艾玛逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去和艾玛宝宝玩耍，她被困在了自己家的一个房间里。寻找一些隐藏物品，解开有趣的谜题，帮助哭泣的艾玛宝宝逃脱。祝你好运……尽情享受吧！
+- [立方体方块游戏](../games/adventure/cube-blocks-game.md) — 准备好迎接一款有趣且令人上瘾的拼图体验吧！在《立方体方块游戏》中，你的目标是完美地放置和排列方块，完成行数，获得分数，并打破你的最高分纪录！
+- [立方岛](../games/adventure/cube-island.md) — 通过连接并完成水 puzzle 来灌溉整个岛屿，创造一个丰饶的立方岛。
+- [方块速冲](../games/adventure/cube-speed-dash.md) — 在《方块速冲》中跳跃、冲刺并生存下来，这是一款高速街机挑战游戏，每一秒都至关重要！掌握闪电般的反应速度，引导灵活的方块穿越充满尖刺、陷阱和致命深渊的险恶障碍赛道。一个错误的动作——游戏就结束了！极速玩法——通过短小但紧张刺激的关卡，适合快速
+- [Cuphead Rush](../games/adventure/cuphead-rush.md) — 与杯头角色一起奔跑，逃离危险的环境，避开尖刺，收集星星、道具和加速器以提升你的奔跑表现。跑过并跳过所有障碍物。奔跑、滑行、跳跃、翻滚并闪避迎面而来的火箭和障碍物。使用星星解锁新角色，并在这个无尽游戏中创造最佳成绩。
+- [可爱动物拼图游戏](../games/adventure/cute-animal-puzzle-game.md) — 欢迎来到《可爱动物拼图游戏》，这是一款充满可爱动物、缤纷挑战和烧脑乐趣的愉快而放松的拼图冒险！通过匹配、解谜和完成激动人心的拼图，探索一个充满可爱宠物和野生动物的迷人世界。本游戏专为各年龄段玩家设计，结合了趣味十足的游戏玩法、精美的视觉效果
+- [可爱的蝴蝶屋逃脱](../games/adventure/cute-butterfly-house-escape.md) — 可爱的蝴蝶屋逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你被困在了一栋房子里。这里有有趣的谜题和隐藏物品需要寻找，以逃离这栋房子。祝你好运……尽情享受吧！
+- [可爱猫咪逃脱](../games/adventure/cute-cat-escape.md) — 《可爱猫咪逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你在一个傍晚前往一片奇幻森林放松自己。当你正在放松时，发现了一只被锁住的猫。寻找一些隐藏物品，解开有趣的谜题，逃离猫咪所在的地点。祝你好运……尽情享受
+- [可爱的女孩房子逃脱](../games/adventure/cute-girl-house-escape.md) — 《可爱的女孩房子逃脱》是一款由8B Games/Games2Mad开发的点击式逃脱游戏。想象一下，你进入了一间可爱女孩的房子，结果被困在了里面。寻找一些隐藏物品，解开有趣的谜题，成功逃离这间可爱的女孩房子。祝你好运……尽情享受吧！
+- [可爱的办公室逃脱](../games/adventure/cute-office-escape.md) — 《可爱的办公室逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你去了一个办公室，结果被困在了里面。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离办公室。祝你好运……尽情享受吧！
+- [可爱的鹦鹉逃脱](../games/adventure/cute-parrot-escape.md) — 《可爱的鹦鹉逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只鹦鹉被困在了里面。寻找一些隐藏物品，解开一些有趣的线索，逃离鹦鹉所在的场所。祝你好运……尽情享受吧！
+- [可爱的小狗逃脱](../games/adventure/cute-puppy-escape.md) — 《可爱的小狗逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只小狗被困在了里面。寻找一些隐藏物品，解开一些有趣的线索，从而逃离小狗所在的环境。祝你好运……尽情享受吧！
+- [可爱的小狗逃脱2](../games/adventure/cute-puppy-escape-2.md) — 《可爱的小狗逃脱2》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只小狗被困在了里面。寻找一些隐藏物品，解开一些有趣的线索，帮助小狗逃脱。祝你好运……尽情享受吧！
+- [可爱的红鸟逃脱](../games/adventure/cute-red-bird-escape.md) — "可爱的红鸟逃脱是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个地方，在那里一只红鸟被困住了。这里有有趣的谜题和隐藏的物品需要寻找，以解救这只小鸟。祝你好运……尽情享受吧！"
+- [赛博机器](../games/adventure/cyber-machine.md) — 疯狂的机器正在摧毁人类。现在，我们迫切需要超级士兵的帮助来拯救世界。是时候加入战争，拿起你的枪完成危险任务，与机器人作战！现在就准备好，开始射击，克服障碍并取得胜利。帮助士兵吧。来吧，你一定行。1 - 击杀所有敌人 2 - 获得更多技能 3
+- [D 传说](../games/adventure/d-saga.md) — D-传说是一款真正令人上瘾的无限跑酷无广告游戏，适合儿童和成人。游戏中，一只搞笑的饥饿龙在你的手指触控下飞向食物，测试你的反应能力，在美丽的森林场景中进行竞速游戏。通过向上或向下滑动来避开障碍物，收集金币。只要你在游戏中停留的时间越长，游戏
+- [舞者逃脱](../games/adventure/dancer-escape.md) — 舞者逃脱是一款由8BGames开发的点击式逃脱游戏。想象一下，你前往舞者家中将他带到工作室。当你到达那里时，他被困在这所房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离舞者所在的房间。祝你好运……尽情享受！
 - [黑男孩](../games/adventure/dark-boy.md) — 帮助黑暗男孩闯过设计精美的灰阶关卡，运用你的时间操控能力一路斩杀黑暗怪物。你准备好探索一个充满黑暗的世界，用勇气照亮前路了吗？
+- [黑暗城堡逃脱](../games/adventure/dark-castle-escape.md) — 你是一名勇敢的士兵，接受训练以逃离这座黑暗城堡。要做到这一点，你需要跳过障碍并收集星星。尽可能多地收集星星，以获得最佳成绩，并努力击败你的朋友。尽情享受游戏乐趣，祝你好运！
+- [黑暗墓园逃脱](../games/adventure/dark-cemetery-escape.md) — 《黑暗墓园逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你被困在了一个漆黑的夜晚的墓园里。现在，这里有有趣的谜题和隐藏的物品，帮助你逃脱。祝你好运……尽情享受吧!!!
+- [黑暗森林逃脱](../games/adventure/dark-forest-escape.md) — 《黑暗森林逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你曾前往一片森林进行研究；夜深时，你被困在了森林里。于是你决定寻找主门的钥匙，以逃离这片森林。游戏中包含有趣的谜题和隐藏物品，助你成功逃脱森林。祝你
+- [黑暗之地逃脱](../games/adventure/dark-land-escape.md) — 《黑暗之地逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [黑暗之夜逃脱](../games/adventure/dark-night-escape.md) — 《黑暗之夜逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你在深夜来到一个村庄，却意外被困在了村里。这里有着有趣的谜题和隐藏的物品等待你去发现，帮助你从深夜的村庄中逃脱。祝你好运……尽情享受吧！
+- [暗影忍者冒险](../games/adventure/dark-ninja-adventure.md) — 这可不是普通的忍者，事实上，这是一个技巧娴熟的星星收集者，而这位忍者的主要目标是在场景中隐形的情况下收集所有散落的星星。你的任务是扮演这位忍者，开始冒险，一旦你收集到所有星星，就会打开一个传送门，只需进入出现的传送门即可完成关卡。
+- [暗骨森林逃脱](../games/adventure/dark-skull-forest-escape.md) — 暗骨森林逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你为了研究前往了一片森林；夜深人静时，你被困在了森林里。于是你决定寻找主门钥匙，以逃离这片森林。这里有许多有趣的谜题和隐藏物品，助你逃离骷髅森林。祝你好运…
+- [暗战](../games/adventure/dark-war.md) — 欢迎来到充满肾上腺素、魔法与对抗邪恶的世界！这是一款俯视角的激动人心的角色扮演游戏，背景设定在现代现实。在游戏中，你将扮演一位古老教团的勇敢驱魔师，一生致力于对抗邪恶势力。游戏特色：多样化的武器：你的战斗技能不仅包括剑术，还有枪械使用。同时
+- [死亡区域冒险](../games/adventure/dead-zone-adventure.md) — 《死亡区域冒险》是一款黑暗恐怖的疯人院主题游戏，你的任务是在每一关中寻找指定数量的水晶以成功通关，并尽量避免与致命僵尸遭遇以求生存。
+- [致命猎手奔跑](../games/adventure/deadly-hunters-run.md) — 逃离饥饿的狮子，和小猎手一起！一款令人上瘾的无尽跑酷游戏，随时随地离线畅玩！在无穷无尽的美丽场景中疾驰，躲避障碍物，用绳索跃过深渊，并采摘美味的草莓！探索壮丽的风景，追踪难以捉摸的动物，并在这款动作丰富的游戏中磨练你的射击技巧。无论你是经验
+- [鹿的逃脱](../games/adventure/deer-escape.md) — 《鹿的逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你收到了一只鹿作为圣诞礼物。当你正在给鹿喂食时，这只鹿突然跑开并被困在了一个房间里。寻找一些隐藏物品，解开有趣的谜题，从而逃离这个房间。祝你好运……玩得开心！
+- [豪华住宅逃脱](../games/adventure/deluxe-house-escape.md) — 豪华住宅逃脱是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你进入了一栋豪华住宅，却意外被困在了里面。现在，这里有有趣的谜题和隐藏的物品等待你去发现，以成功逃脱。祝你好运……尽情享受吧！！！
+- [牙医游戏 - 急诊外科医生牙科医院](../games/adventure/dentist-games-er-surgery-doctor-dental-hospital.md) — 男孩女孩们，欢迎来到Libii牙医，这是有史以来最有趣的牙齿和牙医游戏！！！在这里，你不仅可以化身专业牙医，诊断并治疗不同的病人，还能操作和装饰属于自己的牙科诊所，打造梦想中的牙科空间！在游戏中，病人不是只会面无表情张开嘴巴的模特，他们生动
+- [沙漠骆驼逃脱](../games/adventure/desert-camel-escape.md) — 《沙漠骆驼逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你为了研究目的前往沙漠，发现了一只骆驼被困在其中。现在，这里有有趣的谜题和隐藏物品，帮助你逃离沙漠中的骆驼。祝你好运……尽情享受吧!!!
+- [沙漠鹿救援](../games/adventure/desert-deer-rescue.md) — 《沙漠鹿救援》是由8B Games/Games2Live开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的鹿。这里有有趣的谜题和隐藏物品等待你去寻找，以解救这只鹿。祝你好运……尽情享受吧！
+- [沙漠逃脱2](../games/adventure/desert-escape-2.md) — 《沙漠逃脱2》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你为了研究目的前往沙漠，却意外被困在了这片土地上。现在，这里有有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [沙漠海岸逃脱](../games/adventure/desert-shore-escape.md) — 《沙漠海岸逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你曾前往海岸进行研究工作，却意外被困在了那里。现在，这里充满了有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！！！
+- [设计师之家逃脱](../games/adventure/designer-house-escape.md) — 《设计师之家逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾进入一栋房子，却意外被困在其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受吧！
 - [侦探麦克斯之谜：温特斯先生的失踪](../games/adventure/detective-max-mystery-the-disappearance-of-mr-winters.md) — 游戏简介：
+- [钻石猎人](../games/adventure/diamond-hunter.md) — 经典钻石收集游戏 Crush Match 3 消除游戏的另一种玩法。你的任务是赢得钻石狂飙爆炸，通过关卡，并尝试在每个关卡中获得所有星星。
+- [钻石窃贼3D](../games/adventure/diamond-thief-3d.md) — 你准备好抢劫了吗？进入豪宅，偷走钻石并完成关卡。小心行事
+- [钻石挖掘者](../games/adventure/diamonds-digger.md) — 潜入《钻石挖掘大冒险》，深入地下挖掘闪耀的钻石，同时避开危险的岩石和障碍物。在地下世界中穿梭，收集宝石和钻石，并赚取金币以解锁新的挖掘车辆。尽情享受《钻石挖掘者》游戏吧！
+- [日记马逃脱](../games/adventure/diary-horse-escape.md) — 《日记马逃脱》是由Games2Live开发的一款点击式游戏。想象一下，你曾到过一个农场；在那里，你和你的马被困住了。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离日记世界。祝你好运……尽情享受吧！
+- [挖掘到最奇怪的世界](../games/adventure/dig-to-the-weirdest-world.md) — 《挖掘到最奇怪的世界》是一款色彩缤纷的3D采矿冒险游戏。操控你的钻头深入地下，收集有价值的发现，并出售货物以升级动力、能量和存储空间。解锁八种钻探设备，使用冲击波、涡轮和扫描仪能力，不断深入地下。探索29个地下世界，从水晶洞穴、巨型蘑菇到熔
+- [挖掘游戏 - 寻找恐龙骨骼](../games/adventure/digging-games-find-dinosaurs-bones.md) — 挖掘游戏 - 寻找恐龙骨骼，将它们组装成互动的3D骨架，并让您的恐龙骨骼复活！您的积极反馈将带来更多恐龙和更多内容！我们将与您一起展开一段愉快而神秘的冒险。您将见证数百万年前生活的恐龙，深入了解它们。虽然它们如今已不复存在，但它们曾经真实存
+- [暴风雨中的餐厅](../games/adventure/diner-in-the-storm.md) — 《暴风雨中的餐厅》是一款紧张刺激的逃脱游戏，你躲进一家餐厅躲避突如其来的风暴。目前你暂时安全，但很快你就意识到，薄薄的餐厅墙壁之外潜藏着危险。离开轻而易举，但要说服其他人跟你一起离开可能就没那么容易了。
+- [恐龙挖掘游戏：挖掘恐龙骨骼](../games/adventure/dino-digging-games-dig-for-dinosaur-bones.md) — 封面艺术 恐龙挖掘游戏：挖掘恐龙骨骼 幽默兔子游戏 休闲 全年龄 全年龄 41 包含广告 找寻恐龙骨骼是所有未来古生物学家和考古学家的趣味挑战！挖掘恐龙骨骼，清理它们，并将它们拼成这种宏伟史前动物的骨架。每次解决一个恐龙谜题，你都会将该恐龙
+- [恐龙跳跃](../games/adventure/dino-jumps.md) — 帮助你可爱的小恐龙尽可能走得更远。在这个无限跳跃跑酷游戏中，你可以不断刷新最高分。持续更新的分数和最高分显示，以及通过收集金币提升恐龙速度的功能，让游戏乐趣倍增。恐龙可以通过触摸控制轻松操作：使用屏幕左半部分或左四分之一区域来移动恐龙，使用
+- [恐龙肉猎杀重制版](../games/adventure/dino-meat-hunt-remastered.md) — 恐龙肉猎杀冒险继续，本章内容全面更新。你将能够使用小恐龙在水域区域搭建桥梁，也能使用大恐龙吹灭火源。你的目标是收集地图上的所有肉块，并将恐龙送入笼子中。
+- [恐龙奔跑游戏](../games/adventure/dino-run-game.md) — 欢迎来到终极恐龙奔跑游戏，这是一款令人兴奋且上瘾的恐龙奔跑游戏，带你体验充满速度、挑战和无穷乐趣的史前冒险。控制一只强大的恐龙，在危险的环境中奔跑，避开障碍物，收集奖励，并在这个动作丰富的无尽奔跑游戏中尽可能长时间地生存下去。在这款激动人心
+- [脏男孩逃脱](../games/adventure/dirty-boy-escape.md) — 《脏男孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，一个脏兮兮的男孩把一些泥土弄到了墙上。他害怕妈妈会因此责骂，于是把自己锁在了房间里。找出一些隐藏物品，解开有趣的谜题，逃离这个脏男孩的房间。祝你好运……玩得开心！
+- [迪士尼冰雪奇缘奥拉夫](../games/adventure/disney-frozen-olaf.md) — 《冰雪奇缘》是一部于2013年上映的美国3D计算机动画音乐奇幻电影，由华特迪士尼动画工作室制作，华特迪士尼影片公司发行。这是第53部迪士尼动画长片，灵感源自汉斯·克里斯蒂安·安徒生的童话故事《雪女王》。影片讲述了勇敢的公主与一位坚韧的冰人、
 - [深潜](../games/adventure/dive-deep.md) — 《深潜寻宝》是一款水下寻宝冒险游戏！探索充满隐藏宝藏的沉没世界，躲避巡逻的鲨鱼和带刺的河豚，并使用你可靠的气球枪将沉重的宝藏提升到水面。将气球射到宝箱上使其漂浮，切换到钩枪直接抓取宝藏并将其拉回——按住即可将其拉向自己，或点击锁定拖绳并将其
+- [医生逃脱3](../games/adventure/doctor-escape-3.md) — 《医生逃脱3》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往医生的家中，准备带他去牙科治疗。但不幸的是，今天他被困在了自己家里。寻找一些隐藏物品，解开一些有趣的线索，逃离医生的家。祝你好运……尽情享受吧！
+- [琳达医生逃脱](../games/adventure/doctor-linda-escape.md) — 《琳达医生逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去琳达医生家做客，结果她被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的谜题，逃离琳达医生的房子。祝你好运……尽情享受吧！
+- [野兔逃脱](../games/adventure/doe-escape.md) — 《野兔逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的雌性兔子。这里有有趣的谜题和隐藏的物品等待你去发现，帮助兔子逃离。祝你好运……尽情享受吧！
+- [狗狗逃脱](../games/adventure/dog-escape.md) — 《狗狗逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到一个地方，发现一只狗被困住了。寻找一些隐藏物品，解开有趣的线索，逃离狗狗所在的地方。祝你好运……尽情享受吧！
+- [狗狗捉迷藏](../games/adventure/dog-hide-n-seek.md) — 在《狗狗捉迷藏》中开启一场充满冒险的捉迷藏游戏！加入一群活泼的孩子和他们毛茸茸的朋友，他们在精美插画的森林中躲藏与寻找。快速的反应和巧妙的藏身之处是避免被狗发现的关键。你能否智胜狗狗，成为终极捉迷藏冠军？
+- [娃娃屋逃脱](../games/adventure/doll-house-escape.md) — 《娃娃屋逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃脱这栋房子。祝你好运……尽情享受吧！
+- [美元冲刺](../games/adventure/dollar-dash.md) — 在《美元冲刺》游戏中通过点击屏幕来致富！获取可让你每次点击赚更多钱的插件，以及每秒帮你赚更多钱的附加组件。别忘了在点击屏幕时收集累积在钱袋里的金钱。退出游戏时保存进度，下次登录时可继续之前的游戏进度。
+- [海豚救援](../games/adventure/dolphin-rescue.md) — 《海豚救援》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到一片海滩，发现一只鹦鹉被困住了。这里有许多有趣的谜题和隐藏物品等待你去寻找，以解救海豚。祝你好运……尽情享受吧！
+- [多米诺大冒险](../games/adventure/domino-adventure.md) — 发现三种匹配时长以适应你的风格。在每一轮中展示你的技巧和逻辑，并使用策略性操作击败对手。非常适合寻求无尽乐趣与挑战的解谜爱好者。
 - [千万别开那扇门……真的！](../games/adventure/don-t-open-that-door-seriosly.md) — 你是一只毛绒泰迪熊——柔软可爱……却对即将发生的一切毫无准备。你拖着小行李箱，来到一家位于荒郊野外的神秘酒店，很快便意识到——这里有些不对劲。
+- [驴救援](../games/adventure/donkey-rescue.md) — 《驴救援》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现一头驴被困住了。这里有有趣的谜题和隐藏的物品需要寻找，以解救这头驴。祝你好运……尽情享受吧！
+- [不要动](../games/adventure/dontmove.md) — 不要动。游戏中有一个NPC会转身。当他转过身看到你移动时，他旁边的机枪手就会把你射杀。这非常刺激。试试看吧。
 - [涂鸦万圣节 Momo 猫：海洋魔法](../games/adventure/doodle-halloween-momo-cat-sea-magic.md) — 我是英文玩家：
+- [鸽子逃脱](../games/adventure/dove-escape.md) — "《鸽子逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到一个村庄，在那里发现了一只被困的鸽子。这里有有趣的谜题和隐藏物品等待你去发现，帮助鸽子获救。祝你好运……尽情享受吧！"
+- [多齐企鹅](../games/adventure/dozie-penguins.md) — 企鹅多齐是一款充满怀旧感、非常有趣且富有挑战性的游戏。帮助这只小企鹅在30个关卡中返回家园，小心沿途的陷阱和挑战。
+- [枪医博士](../games/adventure/dr-gun-boots.md) — 有一天，这位进行有趣实验的医生因一次错误的实验而制造出了一个怪物。为了逃离这个怪物，他必须不断通过不同结局的同一章节关卡来摆脱怪物。通关全部10个关卡，彻底摆脱怪物！
+- [心理医生 - 医院逃脱](../games/adventure/dr-psycho-hospital-escape.md) — 心理医生是一款生存恐怖游戏。逃离精神病医院，不要被心理医生和他的实验变异人抓住！找到必要的物品以打开门.
+- [龙珠寻宝](../games/adventure/dragon-ball-treasure-hunter.md) — 在场景中寻找所有的龙珠。把它们全部找到！除了史诗般的战斗，你还可以体验《龙珠Z》世界中的生活，与之战斗
+- [龙珠Z 2021](../games/adventure/dragon-ball-z-2021.md) — Stickman Warriors - 超级龙影格斗，Google Play上最佳格斗动作角色扮演游戏。这款格斗游戏将让你有机会成为DBZ英雄之一，与敌人战斗并保护地球上的所有人。进入竞技场，为生存而战。如果你热爱玩游戏，这款游戏将以迅捷的
+- [龙珠Z英雄](../games/adventure/dragon-ball-z-hero.md) — 战士 - 超级龙影格斗，谷歌Play上最佳格斗动作角色扮演游戏。这款格斗游戏将让你有机会成为悟空系列英雄之一，与敌人战斗并保护地球上的所有人。进入竞技场，为生存而战。如果你热爱玩游戏，这款游戏将以迅捷的操作和惊人的功能让你惊叹不已。
+- [龙城](../games/adventure/dragon-city.md) — 快来发现最好的龙游戏！收集大量可爱的喷火龙，训练它们，扩展你的收藏，并证明自己，赢得世界最佳龙大师的称号！在漂浮的岛屿上建造龙之城，用农场、栖息地、建筑……以及龙来填满它！好好照顾你的幼龙，在农场喂养它们，让它们成长为强大的生物，升级你的农
+- [龙石岛探险任务](../games/adventure/dragonstone-quest-adventure.md) — 勇敢的公主出发寻找龙石；她将踏上一段漫长而充满危险的旅程。帮助公主找到龙石的所有碎片，重新拼合它，并为五国带来和平。神奇的龙将协助公主完成寻宝之旅。
+- [绘制并保存小人](../games/adventure/draw-and-save-the-stickman-2.md) — 绘制并保存小人是一款有趣且令人上瘾的解谜游戏，你的创造力是获胜的关键！绘制线条、形状和障碍物，保护小人免受危险陷阱、掉落的岩石、尖锐的刺、敌人和意外障碍的伤害。每一关都带来独特的挑战，考验你的逻辑思维、想象力和解决问题的能力。在绘制之前请仔
+- [投刀2](../games/adventure/draw-knife-2.md) — 让我们尝试绘制完美的轨迹并发射。掌握技巧，找到最佳的刀具路径来解决游戏中的谜题。别忘了避开碰撞，确保你的刀能到达目标
+- [驾驶与停车益智游戏](../games/adventure/drive-and-park-puzzle-game.md) — 在繁忙的城市街道中穿梭，掌握完美的转弯技巧，体验这款快节奏的街机驾驶游戏。操控你的车辆，避开交通，收集奖励，并在道路越来越具挑战性的情况下测试你的反应能力。简单的操作、流畅的游戏体验以及无穷的乐趣，使这款游戏非常适合快速游玩
 - [驾驶员教育](../games/adventure/driverz-ed.md) — 欢迎来到 Driverz Ed，你的教练是 Ed！探索 Ed 的美丽岛屿，完成各种挑战，或者只是四处兜风，寻找岛上隐藏的秘密！
+- [掉落堆叠球游戏](../games/adventure/drop-stack-ball-game.md) — 欢迎来到终极堆叠球冒险游戏。这是一款令人兴奋、令人上瘾且充满动作的超休闲游戏，将让你连续数小时沉迷其中！如果你喜欢以惊人的速度和精准度撞击、弹跳并突破五彩缤纷的平台，那么这款堆叠球3D游戏正是为你量身打造。准备好迎接最激动人心的球体下落挑战
+- [鸭子家族救援系列 第一集](../games/adventure/duck-family-rescue-series-episode-1.md) — 《鸭子家族救援系列 第一集》是一款由8B Games/Games2mad开发的点击式游戏。嗨……我是Webby；一些陌生人绑架了我的家人。我需要你的帮助来救出我的家人。帮我找到我的家人吧……
+- [鸭子家族救援系列 第3集](../games/adventure/duck-family-rescue-series-episode-3.md) — 《鸭子家族救援系列 第3集》是由8B Games/Games2mad开发的一款点击解谜游戏。嗨……我是韦比；在你的帮助下，我已经找到了我家族中的两位成员。现在我正在寻找我的宝宝们。我需要你的帮助来找到他们。请帮帮我……祝你好运……玩得开心！
+- [鸭子家族救援系列 第4集](../games/adventure/duck-family-rescue-series-episode-4.md) — 《鸭子家族救援系列 第4集》是一款由8B Games/Games2mad开发的点击类游戏。嗨……我是Webby；在你的帮助下，我已经找到了我三位家人。现在我正在寻找我的宝宝们。我需要你的帮助来找到他们。请帮帮我……祝你好运……玩得开心！！！
+- [小鸭子逃脱](../games/adventure/duckling-escape.md) — 《小鸭子逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只小鸭子被困在了里面。寻找一些隐藏物品，解开一些有趣的线索，逃离小鸭子所在的场所。祝你好运……尽情享受吧！
+- [小鸭子救援系列1](../games/adventure/duckling-rescue-series1.md) — 嗨……我是Webby，我有5只可爱的小宝宝。一些陌生人绑架了我的小宝宝。我需要你的帮助来救回我的小宝宝。帮我找到我的小宝宝吧……
+- [小鸭子救援系列2](../games/adventure/duckling-rescue-series2.md) — 嗨……我是你的网页小助手，我已经在你的帮助下找到了我的一个宝宝。现在我正在寻找我的其他宝宝。我需要你的帮助来找到它们。请帮帮我……
+- [鸭WAK](../games/adventure/duckwak.md) — 你准备好迎接两只鸭子兄弟的冒险了吗？这些冒险非常具有挑战性，极其吓人。鸭子兄弟需要生存下来。帮助他们，让他们到达终点线。和你的朋友一起帮助鸭子兄弟。获得星星，获得超级能力。
+- [鸭子冒险](../games/adventure/ducky-adventure.md) — 两只彼此相爱的鸭子正启程前往丛林，收集金币。你需要与朋友合作，收集所有金币，并将这些金币运送到宝箱中。金币周围有一些敌人和陷阱。你应该避开敌人的攻击，并在朋友的帮助下克服陷阱。在游戏中，鸭子会自动移动，你只需引导它们走向正确的方向。
 - [地牢探索](../games/adventure/dungeon-descent.md) — 搜刮战利品。生存下去。深入探索。这是一款快节奏的体素地牢探索游戏，拥有致命的房间、强大的装备和潜伏在下方的首领。
+- [地牢探险](../games/adventure/dungeonsquest.md) — 地牢探险是一款快节奏的3D动作类肉鸽游戏。在越来越危险的怪物浪潮中生存下来，收集经验值宝石，升级并选择强大的强化。结合魔法能力与武器，每局游戏都能打造独特的角色配置。对抗不同类型的敌人、精英怪物、迷你首领以及强大的最终Boss。持续前进，变
 - [敦骏](../games/adventure/dunjun.md) — 《敦君》是一款快节奏的地牢探索游戏，玩家需要在60个精心打造的房间中，沿着墙壁滑行前进。与时间赛跑，躲避陷阱和敌人，找回散落在诅咒地牢中的12件力量圣物。
+- [深灰屋逃脫](../games/adventure/dusky-grey-house-escape.md) — 塵灰屋逃脫是一款由8B Games/Games2Mad開發的點擊式遊戲。想像一下，你走進了一間灰色房子，結果被困在了裡面。這裡有有趣的謎題和隱藏的物品，幫助你成功逃脫。祝你好運……玩得開心！！！
+- [尘屋逃脱](../games/adventure/dusty-house-escape.md) — 《尘屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困其中。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受吧！
+- [耳科诊所](../games/adventure/ear-doctor-polyclinic.md) — 仔细检查您的患者，找出他们疼痛的根源，并开始治疗和治愈。为了完成这项任务和使命，您的诊所配备了各种高科技设备以及医学领域的最新设备和发现。《耳科医生》是一款非常有趣的医生模拟游戏，您可以扮演医生，照顾您的患者，使用适当的设备仔细观察他们的耳
+- [复活节篮子逃脱](../games/adventure/easter-basket-escape.md) — 《复活节篮子逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。你正准备与朋友和家人庆祝复活节，但不幸的是，你在这个地方弄丢了你的复活节篮子。寻找一些隐藏物品并解开一些有趣的线索，以带着你的复活节篮子成功逃脱。祝你好运……
+- [复活节彩蛋逃脱](../games/adventure/easter-egg-escape.md) — 《复活节彩蛋逃脱》是由8BGames开发的一款点击式逃脱游戏。你身处一家度假村中，正准备与朋友和家人庆祝复活节，但现在你的复活节彩蛋不见了。寻找一些隐藏物品并解开一些有趣的线索，找到复活节彩蛋以庆祝复活节。祝你好运……玩得开心！！
+- [复活节彩蛋寻宝](../games/adventure/easter-egg-hunt.md) — 现在你可以在 Superkidgames.com 的网页浏览器中免费玩卡通频道复活节彩蛋寻宝游戏，还有更多好玩的游戏。我们网站上没有其他像你现在即将玩的这款卡通频道复活节彩蛋寻宝游戏一样的卡通频道游戏，这款游戏是我们在网站上最特别的游戏之一
+- [狂喜男孩逃脱](../games/adventure/ecstatic-boy-escape.md) — 《狂喜男孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你作为一名保姆前往一个狂喜男孩的家中。当你到达那里时，他被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离狂喜男孩的家。祝你好运……玩得开心！
+- [Eggys Big Adventure](../games/adventure/eggys-big-adventure.md) — 一款可爱有趣的物理平台游戏。在滑溜的云朵平台上跳跃前行，一路进入黑暗之地！在这个疯狂的世界中，Eggy 必须穿越影子怪物！
+- [埃及洞穴逃脱](../games/adventure/egypt-cave-escape.md) — 《埃及洞穴逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾前往一个洞穴，却在其中被困。这里有有趣的谜题和隐藏的物品等待你发现，帮助你逃离洞穴。祝你好运……尽情享受吧！
+- [埃及殖民地逃脱](../games/adventure/egypt-colony-escape.md) — 《埃及殖民地逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾前往一个殖民地；在那里，你被困在了殖民地内部。这里有着有趣的谜题和隐藏物品等待你去发现，从而成功逃脱殖民地。祝你好运……尽情享受吧！
+- [埃及要塞逃脱](../games/adventure/egypt-fort-escape.md) — 《埃及要塞逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。嗨！我是考古学家多拉。我的包在这里的某个地方弄丢了。请帮我找找看！！祝你好运……玩得开心！
+- [Electrio HD](../games/adventure/electrio-hd.md) — 将所有电子相互连接。但请记住，你只能连接相反的电荷，且线路不能重叠
+- [大象救援](../games/adventure/elephant-rescue.md) — 《大象救援》是由8BGames/Games2Mad开发的一款点击式救援游戏。想象一下，你来到了一个地方，在那里发现了一头大象被困在笼子里。寻找一些隐藏物品，解开有趣的线索，拯救大象。祝你好运……玩得开心！
+- [艾尔莎魔法动物园](../games/adventure/elsa-magic-zoo.md) — 不如来艾尔莎的魔法动物园吧。看看这里有多少奇妙的童话动物：狮鹫、独角兽，甚至还有龙！帮助公主照顾这些神奇的生物。尽情享受游戏《艾尔莎魔法动物园》的乐趣吧。
+- [EmberCraft](../games/adventure/embercraft.md) — EmberCraft 是一款色彩缤纷的 3D 沙盒冒险游戏，背景设定在方块世界中。探索多样的地形，建造属于自己的作品，并按照自己的节奏塑造旅程。该游戏专为桌面、平板和移动浏览器设计。在手机上，请将设备旋转至横屏以获得最佳视角。
+- [艾米丽女孩逃脱](../games/adventure/emily-girl-escape.md) — 《艾米丽女孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你来到了艾米丽女孩的家。当你到达那里时，她被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离艾米丽的房间。祝你好运……尽情享受吧！
+- [奇幻冒险](../games/adventure/encanto-adventure.md) — 《奇幻冒险忍者游戏》这款完美而精彩的免费游戏终于上线了，快来体验与米拉贝尔的免费忍者游戏，凭借你的技巧不断前进并击败敌人。你需要拯救众多米拉贝尔的朋友，欢迎来到马德里加尔之家，你能突破更高的分数，展示你的实力，看看在这款免费的米拉贝尔·马德
+- [无尽挂机RPG](../games/adventure/endless-idle-rpg.md) — 无尽，一款自动进行的增量类RPG游戏，你的英雄会自动对抗一波又一波的敌人，收集战利品和金币，装备道具，解锁升级——而冒险实际上永无止境。当前版本：0.9.0
+- [无尽太空飞行员 2D](../games/adventure/endless-space-pilot-2d.md) — 太空飞行员：无尽冒险 让你的火箭开启一场无尽的宇宙之旅，在终极太空街机挑战中测试你的反应能力！躲避岩石，收集硬币，并尽可能长时间地生存下去。你准备好穿越星辰了吗？
+- [博学少女逃脱](../games/adventure/erudition-girl-escape.md) — 《博学少女逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去一位博学少女的家中与她玩耍。当你到达那里时，她被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的谜题，成功逃离博学少女的房间。祝你好运……尽情享受吧！
+- [逃离3D](../games/adventure/escape-3d.md) — 制定一个从监狱逃脱的计划，小心看守。画出逃生路线，帮助囚犯们逃脱。那么，教授，你的计划是什么？
+- [逃离40层](../games/adventure/escape-40x.md) — 一只小鸟被困在一座40层高的大楼里。通过完成不同谜题帮助小鸟逃离每一层。有些关卡需要点击物品，有些需要拖拽或进行数学计算才能解开。
+- [逃离古埃及](../games/adventure/escape-ancient-egypt.md) — 逃离古埃及是一款冒险类3D解谜游戏，背景设定在神秘的古埃及遗迹中，跟随克利奥帕特拉和法老们的足迹。你能逃脱法老的诅咒吗？解开谜题，解锁下一个房间，开动脑筋，你需要它来打开所有通向逃生之路的大门。古埃及的主要特色：解谜逃脱 * 美丽且引人注目
+- [逃脱 - 逃脱](../games/adventure/escape-escape.md) — 游戏规则非常简单！按下左或右按钮，找到逃脱点。但正如你所见，逃脱点并不容易发现。这款游戏易于上手，非常有趣！
+- [逃离监狱](../games/adventure/escape-from-prison.md) — 《逃离监狱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你的朋友们被关在了监狱里。现在你来到这里营救他们。这里有有趣的谜题和隐藏的物品需要寻找，以便与你的朋友们一起逃脱。祝你好运……尽情享受吧！
 - [逃离学校3D](../games/adventure/escape-from-school-3d.md) — 🏃‍♂️ 欢迎来到《逃离学校3D》——一款充满混乱、动作和乐趣的终极方块风格校园逃脱游戏！你被困在一所疯狂的高中里，必须一路过关斩将，击败邪恶的老师、恶霸、校长和教务长，才能逃出生天。
+- [逃离灵魂猎手 - 万圣节逃脱游戏](../games/adventure/escape-from-soul-hunter-halloween-escape-game.md) — 逃离灵魂猎手 - 万圣节逃脱游戏 据报告，一名女学生在夜间被灵魂猎手袭击并绑架。灵魂猎手在白天时力量较弱。你的任务是寻找这名女孩，通过解谜和发现隐藏物品，在太阳落山前救出她。如何玩这款万圣节恐怖逃脱游戏：1. 尝试理解游戏的目标；2. 尝试
 - [逃离鱿鱼岛](../games/adventure/escape-from-squid-island.md) — 投身于这款惊险刺激的3D射击游戏《逃离鱿鱼岛》吧！你必须逃离一座危机四伏、敌人遍布的岛屿。在你的设备上体验激烈的战斗、丰富多样的场景和引人入胜的剧情。准备好迎接一场惊心动魄的战斗吧，为了自由而战！
 - [逃离地穴](../games/adventure/escape-from-the-crypt.md) — 在亡灵法师抓住你之前，逐个房间地逃出地穴！他们行动比你快，但他们不会避开障碍物：想办法把他们引入死胡同！
 - [逃离传送门](../games/adventure/escape-from-the-portal.md) — 探索阴森恐怖的地下墓穴，避开陷阱，与怪物战斗，揭开尘封的秘密，并利用魔法神器打开传送门，逃离冥界。这是一个充满秘密和危险的黑暗异世界。
+- [逃离 Mineblock 中的监狱！破坏！](../games/adventure/escape-from-the-prison-in-mineblock-destruction.md) — 现在就用各种方式逃离 Mineblock 中的史诗级监狱吧！游戏包含多种可以帮助你逃脱的物品，以及许多各具特色的监狱，每个监狱都有独特的技能或耐久度。现在就尝试逃离所有监狱吧！通过摧毁监狱方块来赚钱，并解锁新方块，同时升级你的物品伤害！
 - [逃离玩具工厂](../games/adventure/escape-from-the-toys-factory.md) — 完成所有波比弹力玩具，逃离玩具工厂！尽可能快地完成吧！如果你了解波比这个可怕的角色，那么现在就是你开始这款游戏的最佳时机！尽情享受吧！
+- [逃离动物园](../games/adventure/escape-from-zoo.md) — 《逃离动物园》是一款由8B Games/Games2mad开发的点击式逃脱游戏。想象一下，你带着你的野生动物宠物去了一趟动物园，结果被困在了动物园里。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离动物园。祝你好运……尽情享受吧！
+- [逃离动物园2](../games/adventure/escape-from-zoo-2.md) — 《逃离动物园2》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你带着你的野生宠物动物去了一趟动物园，结果被困在了动物园里。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃离动物园。祝你好运……尽情享受吧！
+- [逃脱游戏 - 老鼠逃离猫](../games/adventure/escape-game-rat-escapes-cat.md) — 逃脱游戏 - 小老鼠逃离猫 - 哦！我们都知道汤姆猫追杰瑞老鼠的故事。不过汤姆永远抓不到杰瑞。但如今杰瑞的处境变得越来越艰难了。汤姆猫厌倦了设陷阱捉杰瑞老鼠，现在他设置了谜题来捕捉这只杰瑞老鼠。我们都知道杰瑞老鼠有多聪明，但他能解开这些谜题
+- [逃离火星](../games/adventure/escape-mars.md) — 你正在探索火星时，你的飞船出现了故障。现在，你必须找到一个新的电源电池才能逃脱。四处看看，找出能帮助你修理飞船并逃离火星的物品！网站开发者 <a href='https://www.playit-online.com/'>https://w
+- [逃离迷宫](../games/adventure/escape-maze.md) — 逃离迷宫是一款简洁而沉浸式的2D迷宫解谜游戏，挑战你的逻辑、专注力和方向感。引导一个发光的白色方块穿越精心设计的俯视迷宫，穿越狭窄路径、误导性路线和巧妙的死胡同，以找到隐藏的出口。流畅的触控和鼠标操作使游戏在移动设备和桌面端均表现优异，为所
+- [逃离神秘城堡](../games/adventure/escape-mystic-castle.md) — 一位村民被带到了一座城堡并被困在那里，现在如果你能的话，试着逃出去吧！这是一段简短的冒险，但我认为你会喜欢它……
+- [逃生计划：埃及城堡](../games/adventure/escape-plan-egyptian-castle.md) — 一位探险家来到神秘的城堡寻找宝藏，却意外遭遇事故，被困在了这座城堡中。在游戏中，玩家需要竭尽全力制定周密的计划，躲避怪物的追捕，移动并连接房屋，找到正确的出口，带走宝藏并逃离神秘的城堡。游戏新颖刺激，画面精美可爱。
+- [逃离快门屋](../games/adventure/escape-shutter-house.md) — 逃离快门屋是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你曾去过一栋房子。你被困在了房子里。现在这里有有趣的谜题和隐藏的物品，帮助你逃脱。祝你好运……尽情享受吧!!!
+- [逃离斯基比迪马桶停尸房](../games/adventure/escape-skibidi-toilets-morgue.md) — 逃离斯基比迪马桶停尸房是我们最喜爱的点击解谜系列的第一部。解开所有线索，从恐怖的停尸房中逃脱
 - [逃离陌生女孩的房子](../games/adventure/escape-strange-girl-s-house.md) — 《逃离怪异女孩的房子》是一款黑暗风格的点击式冒险游戏，可在网页和安卓平台畅玩。
 - [逃离怪异女孩的房子2](../games/adventure/escape-strange-girl-s-house-2.md) — 你扮演一名私家侦探，寻找一个月前失踪的女子。调查将你引向一栋偏僻的房子，那里隐藏着一个黑暗扭曲的秘密。房子里住着一个古怪的女孩——她所做的事情超乎你的想象。
+- [逃离炸弹](../games/adventure/escape-the-bombs.md) — 城市遭到炸弹袭击，你和你的同事需要逃离并自救。避开炸弹，捕捉下落的心形。心形可以延长你的生命。它们需要你提供能量，并在你被炸弹击中时治愈你。屏幕上会出现炸弹将要落下位置的警告。但炸弹会越来越多，越来越快，因此很难全部避开。你的同事也会想救自
 - [逃离怪物](../games/adventure/escape-the-monster.md) — 你醒来时发现自己身处怪物巢穴的最底层。五十层迷宫横亘在你和出口之间。
+- [逃离墙壁](../games/adventure/escape-the-wall.md) — 欢迎来到《逃离墙壁》，这是一款令人兴奋且节奏快速的街机游戏，你需要帮助你的角色从一个平台荡到另一个平台，避开下方致命的墙壁。其简单却富有挑战性的机制将让你沉浸其中数小时。特色：快节奏游戏：你需要迅速反应，从一个平台荡到另一个平台。随着游戏进
 - [逃离海啸，拯救脑残](../games/adventure/escape-tsunami-and-save-brainrots.md) — 逃离海啸，拯救脑虫！逃离海啸，升级你的基地，营救并偷走脑虫。你能抓住所有传说中的脑虫吗？
 - [逃离海啸拯救脑腐](../games/adventure/escape-tsunami-save-brainrot.md) — 一场惊天动地的威胁正笼罩着这座城市——由外星科技制造的巨浪正迅速逼近！只有你能拯救这些独特的脑腐生物，阻止它们被外星海啸吞噬。抓住它们，逃离即将到来的灾难，并设法将它们送到安全区域。提升你的机动性——提高速度、敏捷性和耐力，以便远离巨浪，拯
+- [逃离你的生日：恐怖逃脱](../games/adventure/escape-your-birthday-horror-escape.md) — 一个诡异的生日。一间锁住的房间。你能找到出路吗？你醒来时身处一个陌生的房间。今天是你的生日……但感觉有些不对劲。有蛋糕、蜡烛，还有一片诡异的寂静。这并不是一场庆祝——而是一场谜题。你需要逃出去。特色：第一人称恐怖解谜体验 氛围感十足的音效设
+- [雕塑屋逃脱](../games/adventure/escultura-house-escape.md) — 《雕塑屋逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你被困在了一栋房子里。这里有有趣的谜题和隐藏的物品需要你寻找并成功逃脱。祝你好运！尽情享受吧！
+- [庄园逃脱](../games/adventure/estate-escape.md) — 庄园逃脱是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾去过一座庄园，却意外被困其中。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离庄园。祝你好运……尽情享受吧！
+- [欧洲卡车驾驶](../games/adventure/euro-truck-drive.md) — 《欧洲卡车驾驶》让你成为真正的卡车司机！游戏 featuring 欧洲卡车并提供大量自定义选项，这款卡车模拟器带来令人兴奋的驾驶体验，让你仿佛在驾驶真实的卡车。穿越欧洲众多国家，游览柏林、布拉格、马德里、罗马、巴黎等令人惊叹的地方！体验本卡
+- [躲避警察](../games/adventure/evading-the-police.md) — 逃跑很刺激，如果你是小偷并且正在被警察追捕，那么逃跑会更加惊险。躲避警察是一款非常有趣的游戏，玩家需要克服各种障碍。然而，玩家也必须远离警察。在这个游戏中，玩家需要集中注意力来跳过障碍物并迷惑警察。使用键盘方向键来玩游戏。
+- [Eventide](../games/adventure/eventide.md) — 在这个游戏中，你将扮演一名玩家和巨大的地面，每30秒就要抵御敌人的进攻。游戏难度会逐渐增加，与朋友分享并享受游戏的乐趣吧！
 - [进化：生存](../games/adventure/evolution-survival.md) — 一款生存游戏，你将从原始汤中的一个微小细胞开始。通过摄取食物和击败敌人来收集DNA，触发进化，并选择你的变异：速度、攻击、防御、毒素、再生或智力。
+- [探索洞穴](../games/adventure/explore-hole.md) — 穿越逐渐收窄的洞穴，躲避障碍物，收集强化道具，并在这款无尽街机挑战中尽可能长时间地生存下去！
 - [探索银河系 1：安多拉](../games/adventure/exploring-the-galaxy-1-andora.md) — 探索银河系1：安多拉——免费在线游戏。建造星球，收集资源，制作物品，解锁新大陆。无需下载，直接在浏览器中畅玩。
+- [极限球平衡3D](../games/adventure/extreme-ball-balance-3d.md) — 这款不可能的球类跑酷游戏将让你沉浸其中数小时。尽情享受所有桥梁平衡游戏关卡，让球在不可能的轨道上保持平衡。共有10条不同的轨道，挑战地狱球跑酷。你可以成为这款球平衡狂潮中的最佳得分者或金币收集者。其令人兴奋的游戏玩法搭配优质图形和环境，远超
+- [Fall Guys Puzzle 2](../games/adventure/fall-guys-puzzle-2.md) — 完成3个不同的关卡，简单、中等和困难，可在手机和电脑上玩，祝你好运！
+- [下落的球 3D](../games/adventure/falling-balls-3d.md) — 嘿！你一定会沉迷于《拉出彩色球针：2021 年色彩流动》游戏，因为拯救自己并获得安全，让你在玩《下落的球 3D》游戏或拉针迷你游戏时享受数小时的乐趣。在这个拉针挑战中，你需要弹出并拉出彩色球 3D，这就是通过这款掉落球游戏的方式。拉出针、拉
+- [华丽的裤子冒险](../games/adventure/fancy-pants-adventure.md) — 《华丽的裤子冒险》是这款出色的2D平台系列游戏的原始标题。现在你可以在网页浏览器中无需Flash即可畅玩这款Flash游戏。
+- [奇幻玩具逃脱](../games/adventure/fantasy-toy-escape.md) — 《奇幻玩具逃脱》是由Games2Live开发的一款点击解谜游戏。想象一下，你身处一片奇幻森林中。你丢失了你的奇幻玩具。这里有有趣的谜题和隐藏物品等待你去发现，帮助你逃离奇幻玩具的世界。祝你好运……尽情享受吧！
 - [遥远的猎户座：新世界](../games/adventure/far-orion-new-worlds.md) — 公元2121年，科技发展远超我们最狂野的想象，但伟大的进步也需要巨大的牺牲……
+- [农场男孩逃脱2](../games/adventure/farm-boy-escape2.md) — 《农场男孩逃脱2》是由8BGames开发的一款点击式逃脱游戏。想象一下，你的农舍里有一匹马和一个农场男孩。这个农场男孩非常调皮，总是到处乱跑。现在，这个调皮的农场男孩被困在了一个笼子里。找出一些隐藏物品，解开一些有趣的谜题，帮助农场男孩逃脱
+- [农场逃脱](../games/adventure/farm-escape.md) — 《农场逃脱》是由Games2Live开发的一款点击式游戏。想象一下，你去了一个农场，却意外被困在了农场里。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离农场。祝你好运……尽情享受吧！
+- [农场逃脱3](../games/adventure/farm-escape-3.md) — 《农场逃脱3》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你来到一个农场，却意外被困在了里面。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你逃离农场。祝你好运……尽情享受吧！
+- [农场房屋逃脱](../games/adventure/farm-house-escape.md) — 《农场房屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾造访过一座房子；在那儿，你被困在了房子里。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离这座房子。祝你好运……尽情享受吧！
+- [农民逃脱3](../games/adventure/farmer-escape-3.md) — 《农民逃脱3》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往农夫家，打算带他去农场。当你到达那里时，却被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离农夫的家。祝你好运……尽情享受吧！
+- [农场迷你拼图](../games/adventure/farming-mini-puzzle.md) — 欢迎来到《农场迷你拼图》游戏，这是一款充满趣味与放松的农场冒险，内含激动人心的谜题挑战、色彩缤纷的农场环境以及令人满意的玩法。如果你喜欢解谜游戏、农场游戏、脑筋急转弯和休闲挑战，这款游戏将为你提供娱乐与智力锻炼的完美结合。踏入一个迷人的乡村
+- [迷人的家逃脱](../games/adventure/fascinate-home-escape.md) — 迷人的家逃脱是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你进入了一栋房子；在那里，你被困在了房子里。这里有有趣的谜题和隐藏物品需要寻找，以逃离这栋房子。祝你好运……尽情享受吧！
+- [小鹿逃脱](../games/adventure/fawn-escape.md) — 《小鹿逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的小鹿。这里有有趣的谜题和隐藏的物品等待你去发现，帮助小鹿获救。祝你好运……尽情享受吧！
+- [羽毛朋友逃脱](../games/adventure/feathered-friend-escape.md) — 《羽毛朋友逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的鸟。这里有有趣的谜题和隐藏物品等待你去寻找，以解救这只小鸟。祝你好运！尽情享受吧！
+- [小提琴](../games/adventure/fiddle.md) — 这只猫必须使用小提琴来操控世界，收集物品，并用精彩的表演逗乐它们的狗朋友。
+- [指尖陀螺 - iSpinner](../games/adventure/fidget-spinner-ispinner.md) — 指尖陀螺3D让您在手机上体验各种设计精美的指尖陀螺。指尖陀螺模拟器是2020年最受欢迎的减压游戏之一。您可以用手指滑动来旋转指尖陀螺，持续滑动以打破旋转记录。指尖陀螺游戏提供多达30种不同颜色、不同形状和不同风格的手指陀螺。此外，游戏还提供
+- [找一个猫玩具](../games/adventure/find-a-cat-toy.md) — 从森林之家找到一个猫玩具是Top 10 New Games开发的另一款点击式逃脱游戏。假设你被困在房子里，尝试通过使用物品、钥匙、提示以及解决谜题来救出猫咪。你能逃出去吗？我们希望你能成功逃脱。祝你好运，玩得开心！
 - [寻找水豚：怪物谷](../games/adventure/find-capybara-valley-of-monsters.md) — 欢迎来到一个巨大而疯狂的世界！你的主要目标是找到并收集所有隐藏的水豚！
 - [在爱情故事中寻找角色](../games/adventure/find-part-in-love-story.md) — 《寻找爱情故事中的伙伴》是一款精彩的益智游戏，带你踏上一段引人入胜的浪漫冒险之旅。无需下载即可在线免费畅玩，沉浸在神秘与幽默交织的氛围中。游戏讲述了一对恩爱的情侣在生活中经历各种趣味挑战，考验彼此感情的故事。你需要帮助他们揭开隐藏的秘密，解
+- [找到安尼的零食](../games/adventure/find-the-ani-snack.md) — 《找到安尼的零食》是由8B Games/Games2live开发的一款点击解谜游戏。我是安尼，我需要你的帮助来找到零食。这里有有趣的谜题和隐藏物品等待你去发现并获得零食。祝你好运，玩得开心！
+- [找到船桨](../games/adventure/find-the-boat-oar.md) — 《找到船桨》是由8BGames/Games2Mad开发的一款点击式游戏。想象一下，你去了海滩；在那里，你发现一个男孩丢失了他的船桨。这里有许多有趣的谜题和隐藏物品，帮助男孩找回他的船桨。祝你好运……玩得开心！
+- [寻找糖果儿童房](../games/adventure/find-the-candy-kids-room.md) — 《寻找糖果儿童房》是一款专为年幼孩子设计的趣味寻物解谜游戏。本游戏的主要目标是在每一关中找到全部三颗星星和美味的糖果。与物品及可爱的小朋友角色互动，找出甜点的位置。每一关难度都会增加，所以不要放弃，发挥你的想象力，总会有办法找到它。锻炼你的
+- [找到摩托车钥匙](../games/adventure/find-the-chopper-motorcycle-key.md) — 《找到摩托车钥匙》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你曾去过一片森林，在那里你丢失了你的摩托车钥匙。这里有许多有趣的谜题和隐藏物品，帮助你找到那把摩托车钥匙。祝你好运……尽情享受吧！
+- [找到圣诞帽](../games/adventure/find-the-christmas-cap.md) — 《找到圣诞帽》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你曾前往一座雪白的山峰，在那里你正准备庆祝圣诞节和新年。因此你需要一顶圣诞帽。游戏中包含有趣的谜题和隐藏物品，帮助你找到圣诞帽。
+- [找到更衣室柜子的钥匙](../games/adventure/find-the-dressing-cupboard-key.md) — 9分钟游戏 - 《找到更衣室柜子的钥匙》是9分钟游戏开发的另一款点击式柜子逃脱游戏。假设你不幸丢失了柜子的钥匙，正努力寻找钥匙。点击物品与它们互动，解开隐藏谜题以成功逃脱。祝你好运，玩得开心！
+- [找到门钥匙](../games/adventure/find-the-gate-key.md) — 《找到门钥匙》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你想要出门却丢失了门钥匙。这里有许多有趣的谜题和隐藏物品等待你去发现，从而顺利外出。祝你好运……尽情享受吧！
+- [找到女孩家的钥匙](../games/adventure/find-the-girl-s-house-key.md) — 《找到女孩家的钥匙》是一款由8B Games/Games2Mad开发的点击类游戏。想象一下，你曾去过一片森林，但不幸的是现在正在下雨，你发现一个女孩丢了她的家门钥匙。这里有有趣的谜题和隐藏物品，帮助你找到钥匙并进入屋内。祝你好运……尽情享受
+- [寻找金币](../games/adventure/find-the-gold-coins.md) — 《寻找金币》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你曾到过一个藏有金币的地方。你想要偷走这些金币并成功逃脱。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃脱。祝你好运……尽情享受吧!!!
 - [找到杰克猫](../games/adventure/find-the-jack-cat.md) — 找到杰克猫是由8B Games/Games2live开发的一款点击式游戏。我是杰克。我需要你的帮助来找到我的宠物。这里有一些有趣的谜题和隐藏物品，可以帮助你找到这只猫。祝你好运，玩得开心！
+- [找钥匙](../games/adventure/find-the-key.md) — 《找钥匙》是一款充满挑战的迷宫解谜游戏，你将在复杂的路径中探索，收集星星，并找到钥匙以打开出口。仔细规划每一步，避免被困。收集足够的星星后，拿起钥匙，开启通往目标的路径。随着迷宫越来越复杂，策略性玩法不断提升，这款游戏将考验你的逻辑思维、耐
+- [找到美人鱼石](../games/adventure/find-the-mermaid-stone.md) — 《找到美人鱼石》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你在一个傍晚前往幻想中的海洋放松自己。当你正在放松时，发现了一位美人鱼在寻找她的石头。找出一些隐藏物品，解开有趣的线索，找到美人鱼石。祝你好运……尽情
+- [找到失踪的弟弟](../games/adventure/find-the-mia-brother.md) — 《找到失踪的弟弟》是一款由8B Games/Games2Mad开发的点击式游戏。我是米娅，我需要你的帮助来找到我的弟弟。游戏中有有趣的谜题和隐藏物品等待你发现，快来解救米娅的弟弟吧！祝你好运，尽情享受乐趣！
+- [找到鸵鸟的标签](../games/adventure/find-the-ostrich-tag.md) — 找到鸵鸟的标签是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你弄丢了鸵鸟的标签。这里有有趣的谜题和隐藏物品，帮助你找到标签并把它戴在鸵鸟的脖子上。祝你好运……玩得开心！
 - [寻找宠物](../games/adventure/find-the-pets.md) — 《寻找宠物》是一款激动人心的 3D 冒险游戏，你的任务是追踪 150 只可爱、滑稽，有时又难以捉摸的宠物，它们藏身于充满想象力的地图之中。从像 Floppa 这样走红网络的猫咪，到其他古灵精怪、惹人喜爱的生物，每一次发现都会为你的旅程增添乐
+- [找到通往井道的路](../games/adventure/find-the-shaft-way.md) — 《找到通往井道的路》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下你被困住了。这里有有趣的谜题和隐藏物品等待你去发现，还有通往逃生的井道。祝你好运……尽情享受吧！
+- [寻找感恩节礼物 -3](../games/adventure/find-the-thanksgiving-gift-3.md) — 《寻找感恩节礼物3》是由8B Games/Games2live开发的一款点击解谜游戏。我是杰克，我需要你的帮助来为我的女朋友找到一份感恩节礼物。游戏中有有趣的谜题和隐藏物品等待你去发现并获得礼物。祝你好运，玩得开心！
+- [找出感恩节礼物-5](../games/adventure/find-the-thanksgiving-gift-5.md) — 《找出感恩节礼物-5》是由8B Games/Games2live开发的一款点击式游戏。我是杰克，这是最后一集。我需要你的帮助，为我的女朋友找到一份感恩节礼物。游戏中有有趣的谜题和隐藏物品等待你去发现并获得礼物。祝你好运，玩得开心！
+- [找到拖拉机钥匙](../games/adventure/find-the-tractor-key.md) — 《找到拖拉机钥匙》是由8BGames/Games2Mad开发的一款点击式游戏。想象一下，你来到了你的农舍；在那里，你丢失了你的拖拉机钥匙。这里有许多有趣的谜题和隐藏物品，帮助这位女孩找到她的拖拉机钥匙。祝你好运……玩得开心！
+- [找到拖拉机钥匙2](../games/adventure/find-the-tractor-key-2.md) — 《找到拖拉机钥匙2》是由8BGames/Games2Mad开发的一款点击式游戏。想象一下，你来到了你的农舍；在那里，你丢失了你的拖拉机钥匙。这里有许多有趣的谜题和隐藏物品，帮助女孩找到她的拖拉机钥匙。祝你好运……玩得开心！
+- [找到拖拉机钥匙4](../games/adventure/find-the-tractor-key-4.md) — 《找到拖拉机钥匙4》是由8BGames/Games2Mad开发的一款点击式游戏。想象一下，你来到了你的农舍；在那里，你丢失了你的拖拉机钥匙。这里有许多有趣的谜题和隐藏物品，帮助这位女孩找到她的拖拉机钥匙。祝你好运……尽情享受吧！
+- [在海中寻找宝藏](../games/adventure/find-the-treasure-in-the-sea.md) — 《在海中寻找宝藏》是由8B Games/Games2Mad开发的一款点击式逃脱游戏。在这个逃脱游戏中，你来到了海滩。有人告诉你宝藏藏在海里，因此你必须通过寻找有用的物品、线索并解开谜题来找到海中的宝藏。祝你好运……尽情享受吧!!!
 - [找到吸血鬼](../games/adventure/find-the-vampire.md) — 想找一款刺激的吸血鬼游戏吗？这是一款休闲3D游戏，你将扮演一名猎人，终结吸血鬼的暴行。你的任务是找出潜伏在我们之中的吸血鬼，消灭他们，将城市从威胁中解救出来。
+- [找到水上摩托钥匙](../games/adventure/find-the-water-scooter-key.md) — 《找到水上摩托钥匙》是由8BGames/Games2Mad开发的一款点击式游戏。想象一下，你来到了你的农舍；在那里，你丢失了你的水上摩托钥匙。这里有许多有趣的谜题和隐藏物品，帮助这位女孩找到她的水上摩托钥匙。祝你好运……尽情享受吧！
+- [恐龙世界中的火与水](../games/adventure/fire-and-water-in-dino-world.md) — 火与水来到恐龙世界探索。他们在回家的路上遇到了恐龙。要回家，他们必须收集所有的金币并避开恐龙。快来帮她们回家吧！
+- [火球与水球大冒险 3](../games/adventure/fireball-and-waterball-adventure-3.md) — 火球和水球各自拥有超能力。水球能让水变成冰，火球能点燃木头材料。因此，这对兄弟成为了最佳搭档，经常一起外出冒险。赶快呼叫伙伴，陪伴他们去冒险吧。
+- [火球与水球冒险4](../games/adventure/fireball-and-waterball-adventure-4.md) — 火球与水球冒险4 - 火球和水球各自拥有超能力。水球能让水变成冰，火球能点燃木头材料。因此，这对兄弟成为了最佳搭档，经常一起外出冒险。赶快呼叫伙伴，陪伴他们一同冒险。
+- [火男孩与水女孩在线](../games/adventure/fireboy-and-watergirl-online.md) — 加入激动人心的双人冒险游戏《火男孩与水女孩在线》。从神秘的森林神庙开始。携手合作，解开谜题，克服障碍，在这款充满动作的休闲游戏中体验乐趣。你可以选择不同的模式来感受游戏。在突破模式中，与朋友一起收集宝石以解锁神庙，推动箱子并打开门。在超级冒
+- [火男孩与水女孩](../games/adventure/fireboy-watergirl.md) — 红男孩和蓝女孩的新冒险：火焰与水游戏。角色（火男孩和水女孩）的冒险。尽情享受水女孩和火男孩游戏的乐趣。你需要通过收集金币来完成各个章节。当你完成章节后，可以继续体验更多新且更具挑战性的章节。红男孩和蓝女孩在火焰与水游戏中克服各种障碍，火男孩
+- [火男孩与水女孩在光明神殿](../games/adventure/fireboy-watergirl-in-the-light-temple.md) — 火男孩和水女孩需要帮助来探索光明神殿。解决谜题，挑战时间，收集所有的钻石！独自游玩或与朋友一起，加入火男孩和水女孩的全新冒险！
+- [火男孩水女孩在僵尸世界](../games/adventure/fireboy-watergirl-in-zombies-world.md) — 火男孩水女孩在僵尸世界冒险。三位兄弟再次来到僵尸世界展开冒险，帮助他们避开僵尸的攻击并收集所有的钻石。
+- [火男孩水女孩岛屿生存](../games/adventure/fireboy-watergirl-island-survival.md) — 火男孩与水女孩岛屿生存 - 一款不错的冒险游戏。火男孩和水女孩被困在一座孤岛上。岛上充满了凶猛的怪物、食人族和其他危险势力。危机四伏。快来帮助他们逃离吧。
+- [火焰男孩水女孩岛屿生存3](../games/adventure/fireboy-watergirl-island-survival-3.md) — 火焰男孩与水女孩岛屿生存3 - 新关卡，新挑战。火焰男孩和水女孩被困在一座孤岛上。岛上充满了凶猛的怪物、食人族和其他危险势力。危机四伏。快来帮助他们逃离吧。
+- [火焰男孩水女孩岛屿生存4](../games/adventure/fireboy-watergirl-island-survival-4.md) — 火焰男孩与水女孩岛屿生存4 - 新关卡，新挑战。火焰男孩和水女孩被困在一座孤岛上。岛上充满了凶猛的怪物、食人族和其他势力。危机四伏。快来帮助他们逃离吧。
+- [消防员飞机游戏](../games/adventure/firefighter-plane-game.md) — 飞向天空，成为救火英雄！驾驶你的飞机飞越危险的森林火灾，小心地投放水来扑灭火焰。控制你的飞机，精准瞄准，并在完成每一关的过程中尽可能扑灭更多火灾。保持专注，管理好飞行，在这场激动人心的救火冒险中拯救世界！
+- [鱼狂热   吃点鱼](../games/adventure/fish-frenzy-eat-some-fish.md) — 潜入鱼狂热！扮演一条金鱼，吃掉更小的鱼来成长，但要小心那些能吃掉你的大鱼！通过5个独特的关卡，解锁2个额外关卡。享受3种可喂食鱼带来的激动挑战。你能成为海洋中最大的鱼吗？
+- [渔夫逃脱2](../games/adventure/fisherman-escape-2.md) — 渔夫逃脱2是一款由8BGames开发的点击式逃脱游戏。想象一下，你是一名渔夫，需要出海钓鱼。不幸的是，你丢失了钥匙。寻找一些隐藏物品，解开一些有趣的线索，从这栋房子里逃出去。祝你好运……玩得开心！
+- [渔夫逃脱 3](../games/adventure/fisherman-escape-3.md) — 《渔夫逃脱 3》是由 8BGames 开发的一款点击式逃脱游戏。想象一下，你是一名渔夫，需要出海钓鱼。不幸的是，你丢失了钥匙。寻找一些隐藏物品，解开有趣的线索，从这所房子里逃出去吧。祝你好运……玩得开心！
+- [渔夫逃脱4](../games/adventure/fisherman-escape-4.md) — 《渔夫逃脱4》是由8BGames开发的一款点击式逃脱游戏。想象一下，你是一名渔夫，需要外出钓鱼。不幸的是，你丢失了钥匙。寻找一些隐藏物品，解开一些有趣的线索，从这所房子里逃脱出去。祝你好运……尽情享受吧！
 - [钓鱼：捕捉秘密脑腐症](../games/adventure/fishing-catch-the-secret-brainrot.md) — 探索广阔的海洋世界，钓鱼是冒险的核心🌊🎣
 - [鱼托邦](../games/adventure/fishtopia.md) — 潜入奇妙的《Fishtopia Adventure》世界！🐠✨
 - [圣诞五夜](../games/adventure/five-nights-at-christmas.md) — 《圣诞五夜惊魂》是一款恐怖生存游戏，你需要在雪林中度过漫漫长夜。你需要完成一些任务，记住不要着凉，也别忘了雪人。
+- [五个夜晚在弗雷迪的最终炼狱](../games/adventure/five-nights-at-freddys-final-purgatory.md) — 《五个夜晚在弗雷迪的最终炼狱》是一款随机生成的《五个夜晚在弗雷迪》粉丝游戏。生存一整夜，从中午12点持续到早上6点。留意那些在地图中游荡的机械人偶，如果不够小心，它们会把你塞进一套服装里！每家披萨店的布局都是随机生成的，让每次游玩都独一无二
+- [五夜后弗雷迪](../games/adventure/five-nights-at-freddys-game.md) — 《五夜后弗雷迪》是一款极其受欢迎的恐怖视频游戏。这家著名的披萨店中发生了一些奇怪的事情。白天为孩子们娱乐的机械动物在夜晚会进入完全不同的状态。它们的程序使它们警惕入侵者，如果看到不在餐厅营业时间应该出现的人，就会变得愤怒。你负责安保工作，刚
+- [在史瑞克酒店度过五个夜晚](../games/adventure/five-nights-at-shreks-hotel.md) — 卖掉了你的房子并搬到另一个城市后，你发现自己需要一个新的住处。虽然你有稳定的工作，但尚未积累足够的资金购买新房子。作为临时解决方案，你决定在格雷克酒店度过五晚，希望借此攒够必要的资金。格雷克是酒店经理，看起来是个不错的人，但他身上似乎有些不
+- [Flagron](../games/adventure/flagron.md) — 在森林中被轰炸是一款令人兴奋的手机游戏，将考验你的反应速度和时机把握能力。你扮演一个带着斧头进入森林砍伐树木的角色，但不幸的是，你陷入了敌方飞机轰炸袭击的交叉火力中。你的目标是躲避从天而降的炸弹，并沿途收集金币，以最快速度完成任务。游戏玩法
+- [Flappy Halloween 游戏](../games/adventure/flappy-halloween-game.md) — 准备好迎接一场惊悚又刺激的飞行冒险吧！在《Flappy Halloween 游戏》中，控制一个可爱的万圣节主题角色，穿越充满挑战的障碍物，努力取得最高分数。点击、轻按或按下按键，让角色保持在空中，并小心地穿越万圣节障碍物。游戏上手简单，但随
+- [飞行直升机 2 人版](../games/adventure/flappy-helicopter-2-player.md) — 你准备好进行双人直升机对战了吗？要在直升机战斗中获胜，你必须引爆最多的直升机。与你的朋友展开战斗并取得胜利。引爆最多直升机的人获胜。引爆次数达到 10 次的玩家将被淘汰。记住，不仅仅是子弹；如果你飞得太高撞到地面或天空，也会爆炸。你准备好和
+- [飞翔的烟斗](../games/adventure/flappy-smoker.md) — 它类似于经典游戏《愤怒的小鸟》，但背景是Windows XP壁纸，还有我们最好的伴郎XD。只需点击开始按钮，像鸟一样飞得更远吧。
+- [Flapy Bird 3D](../games/adventure/flapy-bird-3d.md) — Flapy Bird 3D 是由一位独立开发者重制的经典游戏。它采用了现代机制和图形效果。你控制一只鸟，需要引导这只鸟穿过管道。
+- [翻转求生](../games/adventure/flip-for-survival.md) — 在《翻转求生》中测试你的反应能力！轻轻一点，你的球就会翻转，避开从地面突起的致命尖刺。积累分数，看看你能坚持多久！你能否掌握翻转技巧，挺过这场狂潮？
+- [翻翻英雄跳跃游戏](../games/adventure/flippy-hero-jump-game.md) — 准备好在《翻翻英雄跳跃游戏》中体验无穷乐趣与刺激吧，这是一款节奏快速的街机冒险游戏，时机、反应和精准度是获胜的关键。跃入竞技场，控制你的英雄，通过翻滚、闪避和得分，在充满独特创意的足球风格挑战中大展身手。
+- [洪水逃生](../games/adventure/flood-escape.md) — 《洪水逃生》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你遭遇了一场洪水，被困在这所房子里，房子几乎快要沉没了。现在，这里有一些有趣的谜题和隐藏物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [花之防御 - 丧尸围城](../games/adventure/flower-defense-zombie-siege.md) — 这款游戏与《植物大战僵尸》有所不同。本游戏中的新植物是由两个相同的植物合并而成的。持续合并可解锁更强大的植物。新植物不仅攻击力更强，外观也更加绚丽。哦！丧尸摧毁了一切，却留下了一个花园。培育并合成更强大的植物，守护最后的净土！
+- [花屋逃脱](../games/adventure/flower-house-escape.md) — 《花屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你成功逃离这栋房子。祝你好运……尽情享受吧！
+- [飞行注射病毒游戏](../games/adventure/flying-injection-virus-game.md) — 掌控一架高科技飞行注射飞机，配备强大的注射武器，在一个充满致命病毒的无限世界中翱翔。你的任务是精准定位并消灭这些危险威胁，使用技巧向每个病毒注射致命剂量的解药。快节奏的游戏玩法、惊艳的视觉效果以及无穷无尽的挑战，让飞行注射带来一场肾上腺素飙
+- [雾中狐狸](../games/adventure/foggy-fox.md) — 迷雾狐狸是一款3D角色扮演游戏，你将扮演一只狐狸展开冒险，收集战利品并对抗敌人。在这场激动人心的旅程中，你将探索一个魔法王国，那里魔法卷轴和法术真实存在，同时也有危险的怪物。通过传送门探索不同的世界，但要实现这一点，你必须获得一把钥匙来解锁
+- [禁地：秘密实验](../games/adventure/forbidden-land-the-secret-experiment.md) — 探索一个被禁止的土地，那里曾有科学家进行秘密实验。寻找隐藏的物品和线索，揭开这片禁地背后的真相。
+- [森林之门逃脱 1](../games/adventure/forest-gate-escape-1.md) — 《森林之门逃脱 1》是由 8B Games/Games2live 开发的一款点击解谜游戏。想象一下，你曾前往一片森林，却被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离森林。祝你好运……尽情享受吧！
+- [森林小屋逃脱](../games/adventure/forest-house-escape.md) — 《森林小屋逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你曾来到一座森林小屋，却意外被困在了里面。现在，迎接你的是一系列有趣的谜题和隐藏物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [遗忘地城2](../games/adventure/forgotten-dungeon-2.md) — 《遗忘地城2》是一款令人上瘾的砍杀动作角色扮演游戏。在探索地城的过程中，斩杀骷髅、僵尸和其他怪物。每次击杀都会获得经验值，有时敌人会掉落物品。升级后，你可以提升力量、敏捷、智力、体质和法术。通过装备更优秀的武器和防具来提高攻击/伤害和防御力
+- [堡垒建造者沙盒](../games/adventure/fort-builder-sandbox.md) — 堡垒建造者是一款出色的模拟游戏，您可以在其中建造堡垒并用各种武器进行训练。您有三种结构选项、多种武器和弹药可供使用，您可以充分发挥想象力，建造最令人惊叹的堡垒。
+- [堡垒洞穴逃脱](../games/adventure/fort-cave-escape.md) — 堡垒洞穴逃脱是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你被困在一座堡垒洞穴中，在这里你需要解开有趣的谜题，寻找隐藏的物品，从而逃离堡垒洞穴。祝你好运……尽情享受吧！
+- [堡垒逃脱](../games/adventure/fort-escape.md) — 《堡垒逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你被困在一座堡垒中，这里有着有趣的谜题和隐藏的物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！
 - [堡垒之夜火焰 2021](../games/adventure/fortnite-fire-2021.md) — 堡垒之夜应用的描述 全球排名第一的大逃杀游戏现已登陆移动设备！组队作战，参与100名玩家的PvP对战，成为最后幸存者。建造掩体。对抗对手。生存到最后。赢得胜利。在移动设备上，堡垒之夜与你在PlayStation 4、Xbox One、PC和
 - [邪恶堡垒](../games/adventure/fortress-of-the-sinister.md) — 《FOS：英雄战术》是一款回合制战术策略游戏，玩家将在网格地图上指挥一支英雄小队，抵御一波又一波的敌人，保卫魔法网络。根据可见的敌人攻击制定行动计划，使用技能推开并重新部署对手，在每次行动中收集神器，并在攀登城堡的过程中解锁新的英雄和队伍组
+- [狐狸冒险家](../games/adventure/fox-adventurer.md) — 狐狸先生在2D益智游戏《狐狸冒险》中出发寻找珍贵的绿宝石。要成功完成关卡，你需要找到钥匙并收集所有的绿宝石。在白天和黑夜模式之间切换以在平台上移动。祝你好运！
+- [弗兰西](../games/adventure/francy.md) — 欢迎来到弗兰西，享受在三个关卡之间克服所有障碍和陷阱的乐趣，成为游戏中最强者吧，还等什么？立即开始玩弗兰西，乐趣保证！！！
+- [弗兰肯斯坦历险记](../games/adventure/frankenstein-adventures.md) — 弗兰肯斯坦历险记 这是一款需要智慧和计算能力来克服障碍的游戏。游戏共有12个关卡，每个关卡都设有各种障碍，需要您通过计算、智力和好运来克服。每关都有星星，获得的星星越多，越能证明您的能力。祝您玩得愉快。如何游玩 点击或轻触屏幕让角色跳过障碍
+- [弗兰肯斯坦去奔跑](../games/adventure/frankenstein-go-run.md) — 弗兰肯斯坦想要拯救他的女友，但为此他必须解决复杂的谜题并避开可怕的敌人。攀登楼梯、跳跃障碍物、打开门扉，以推进到美丽却令人恐惧的关卡中。在旅途中，他会遇到许多朋友，只要帮助他们找回丢失的物品，他们很可能会回报你一把钥匙，显然这把钥匙能打开大
+- [弗雷德·弗林斯通逃脱](../games/adventure/fred-flintstone-escape.md) — 《弗雷德·弗林斯通逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去拜访威尔玛·弗林斯通，却发现弗雷德·弗林斯通被困在那所房子里，这让威尔玛感到难过。你必须找到一些隐藏物品，解开一些有趣的线索，找到弗雷德·弗林斯通，让威尔玛开
+- [星期五冒险之夜](../games/adventure/friday-adventure-night.md) — 这是一个适用于《星期五夜晚狂欢》音乐游戏的模组，享受与所有角色一起竞速的乐趣：男朋友、女朋友、最亲爱的爸爸、Skid 和 Pump。一边驾驶一边聆听《星期五夜晚狂欢》原声音乐，男朋友的任务是安全驾驶，不失误，以证明自己配得上成为女朋友的伴侣
+- [青蛙忍者冒险](../games/adventure/frog-ninja-adventure.md) — 你准备好开始《青蛙忍者冒险》游戏的冒险了吗？随着你在充满挑战的关卡中前进，必须避开遇到的各种生物！不要让你的3条生命耗尽，到达赛道终点并进入下一章节。这款游戏共有5个章节，一定要完成它！玩得开心！
+- [青蛙救援](../games/adventure/frog-rescue.md) — 《青蛙救援》是由8BGames/Games2Mad开发的一款点击式解救游戏。想象一下，你来到一个地方，发现一只青蛙被困在笼子里。寻找一些隐藏物品，解开有趣的谜题，拯救这只青蛙。祝你好运……玩得开心！
 - [青蛙奇幻弹珠冒险](../games/adventure/frogtastic-marble-adventure.md) — 快来体验《Frogtastic Marble Adventure》的精彩世界吧！这是一款免费的在线益智游戏，考验你的策略和反应能力。通过匹配和消除彩色弹珠，阻止它们继续前进。在任何设备上畅玩，享受无数小时的乐趣！
+- [冰雪奇缘冒险](../games/adventure/frozen-ice-adventures.md) — 迪士尼《冰雪奇缘》的世界在一款令人兴奋的新三消益智冒险游戏中栩栩如生。加入艾莎、安娜和奥拉夫，一起建造、翻新和装饰王国，这是一款基于迪士尼《冰雪奇缘》及《冰雪奇缘2》电影的全新游戏。设计并装饰阿伦黛尔王国及其周边地区，同时享受三消益智游戏的
+- [冰封公主拼图](../games/adventure/frozen-princess-puzzle.md) — 进入一个神奇的冰雪世界，体验《冰封公主拼图》这款充满美丽画面、激动人心挑战和迷人公主冒险的趣味又放松的拼图游戏。随着你在冰封王国中的推进，匹配、解谜并解锁新关卡！
+- [水果采摘者](../games/adventure/fruit-picker.md) — 收集所有水果并找到出路，通过克服各种障碍来完成关卡。
+- [水果塔下落](../games/adventure/fruit-tower-drop.md) — 水果塔下落是一款快节奏的街机游戏，你需引导一个弹跳的球穿过旋转的水果片组成的塔。通过水果片之间的空隙向下移动，同时避开危险区域。下潜得越深，得分越高。保持专注，把握下落时机，持续保持动力，避免击中错误位置。
+- [水果和表情符号](../games/adventure/fruits-and-emojis.md) — 水果和表情符号是一款益智游戏，你需要连接相同的水果以完成所有关卡。
 - [水果乐园：逃离游乐园](../games/adventure/fruitsland-escape-from-the-amusement-park.md) — 欢迎来到水果乐园——一个独具特色的游乐园，处处充满乐趣！色彩缤纷的旋转木马、刺激的游乐设施，还有装扮成苹果、香蕉、西瓜和橙子的水果表演者，让整个乐园热闹非凡。孩子们的欢声笑语回荡在空气中，学校团体、老师和带着孩子的家庭络绎不绝地前来游玩。一
+- [全男子](../games/adventure/full-guys.md) — 《全男子》是一档打破休闲搞笑游戏壁垒的综艺节目。你将在场上与对手竞争，只为成为最终的胜利者。
+- [趣味箭矢下落](../games/adventure/fun-arrow-fall.md) — 趣味箭矢下落 - 是一款玩家角色必须避免与下落箭矢碰撞以生存的游戏。向左或向右跳跃至平台，但要避开碰撞。尽情享受获得最高分数的乐趣！！
+- [趣味逃脱3D - 趣味跑酷3D游戏](../games/adventure/fun-escape-3d-fun-run-3d-game.md) — 趣味逃脱3D是一款有趣的跑步竞速游戏。你将与其他选手进行比赛。在这个游戏中，除了移动的障碍物，你还需注意自己的部件。每个人都可以推倒他人，使他们失去平衡。因此，请不要被推下去。
+- [搞笑玉米大逃亡](../games/adventure/funny-corn-escape.md) — 《搞笑玉米大逃亡》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。在一个美丽的小镇里，有一片森林，还有一片种植玉米的农场。搞笑的玉米被困在了一栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离玉米屋。祝你好运……尽情享受吧！
+- [搞笑美人鱼公主](../games/adventure/funny-mermaid-princess.md) — 你有没有梦想过访问一个真正的水下城市，那里住着一位美丽的美人鱼公主？踏上一段惊人的海底冒险，体验美人鱼生活，我们的美人鱼游戏免费为女孩们提供关卡！
+- [搞笑恶作剧声音](../games/adventure/funny-prank-sounds.md) — 搞笑恶作剧声音是一款集成了大量搞笑恶作剧音效的终极音效板游戏，可用来惊吓你的朋友和家人。点击即可播放各种搞笑声音，包括汽车喇叭、放屁声、警笛声、恐怖尖叫、门铃声、笑声、动物叫声以及更多。拥有易于使用的界面和高品质音频，让每个恶作剧更加有趣。
+- [飞出个未来：明日世界](../games/adventure/futurama-worlds-of-tomorrow.md) — 建造属于你的新纽约，与外星人战斗，收集你最喜爱的英雄，并在由原班编剧打造的史诗级《飞出个未来》故事中探索宇宙！重温这部令人激动又爆笑的游戏，让你笑到流泪。当你扮演弗雷、莉拉、本德或任何你钟爱的《飞出个未来》角色时，幽默永不停歇！未来是否掌握
+- [G2L 黑色星期五逃脱](../games/adventure/g2l-black-friday-escape.md) — 黑色星期五逃脱是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，我们去参加了黑色星期五购物。在那里，我的朋友被困住了。这里有有趣的谜题和隐藏的物品需要寻找，以救出我的朋友。祝你好运……尽情享受吧！
+- [G2L 黑色星期一逃脱](../games/adventure/g2l-cyber-monday-escape.md) — "黑色星期一逃脱是一款由8B Games/Games2live开发的点击式游戏。想象一下，你去了一栋房子，结果在黑色星期一被一个陌生人困住了。这里有有趣的谜题和隐藏物品需要寻找，以逃离这里。祝你好运……尽情享受吧！"
+- [G2L 白猫救援](../games/adventure/g2l-white-cat-rescue.md) — 白猫救援是由 8B Games/Games2Live 开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的猫。这里有有趣的谜题和隐藏的物品需要寻找，以解救这只猫。祝你好运……尽情享受吧！
+- [G2L 奇趣房屋逃脱](../games/adventure/g2l-zany-house-escape.md) — 奇趣房屋逃脱是由 Games2Live 开发的一款点击解谜游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品等待你去发现并逃离这栋奇趣房屋。祝你好运……尽情享受吧！
+- [G2M 蓝色房子逃脱](../games/adventure/g2m-blue-house-escape.md) — 《蓝色房子逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离房子。祝你好运……尽情享受吧！
+- [G2M 城堡逃脱](../games/adventure/g2m-castle-escape.md) — 城堡逃脱是一款由8B Games/Games2mad开发的点击解谜游戏。想象一下，你曾造访一座城堡，却意外被困在其中。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离城堡。祝你好运……尽情享受吧！
+- [G2M 猫逃脱](../games/adventure/g2m-cat-escape.md) — 猫逃脱是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你在一个傍晚前往一片幻想森林放松自己。当你正在放松时，发现了一只被锁住的猫。寻找一些隐藏物品，解开一些有趣的线索，逃离猫咪。祝你好运……玩得开心！
+- [G2M 洞穴之地逃脱](../games/adventure/g2m-cave-land-escape.md) — 洞穴之地逃脱是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [G2M 厨师屋逃脱](../games/adventure/g2m-chef-house-escape.md) — 厨师屋逃脱是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你曾进入一栋房子；结果被困在了房子里。这里有有趣的谜题和隐藏物品等待你去发现，从而成功逃脱房子。祝你好运……尽情享受吧！
+- [G2M 黑色星期一逃脱](../games/adventure/g2m-cyber-monday-escape.md) — 黑色星期一逃脱是一款由8BGames/Games2Mad开发的点击式逃脱游戏。你正准备在黑色星期一购物，但不幸被困在这个地方。寻找一些隐藏物品并解开一些有趣的线索，以逃离这里。祝你好运……玩得开心！！
+- [G2M 鹿逃脱](../games/adventure/g2m-deer-escape.md) — 鹿逃脱是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困住的鹿。寻找一些隐藏物品，解开一些有趣的线索，逃离鹿所在的地方。祝你好运……玩得开心！
+- [G2M 慈善星期二逃脱](../games/adventure/g2m-giving-tuesday-escape.md) — 慈善星期二逃脱是由8BGames/Games2Mad开发的一款点击式逃脱游戏。你正准备庆祝慈善星期二，但不幸被困在这个地方。寻找一些隐藏物品并解开一些有趣的线索，从而逃离这里。祝你好运……玩得开心！！
+- [G2M 岛屿逃脱](../games/adventure/g2m-island-escape.md) — 《岛屿逃脱》是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你曾前往一座岛屿；在那里，你被困在了岛上。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离岛屿。祝你好运……尽情享受吧！
+- [G2M 鼠标逃脱](../games/adventure/g2m-mouse-escape.md) — 《鼠标逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困住的鼠标。寻找一些隐藏物品，解开有趣的谜题，逃离这个鼠境。祝你好运……尽情享受吧！
+- [G2M 小猪佩奇逃脱](../games/adventure/g2m-piglet-escape.md) — 小猪佩奇逃脱是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到一个地方，发现一只小猪被困在那里。寻找一些隐藏物品，解开有趣的谜题，逃离小猪的困境。祝你好运……尽情享受吧！
+- [G2M 愉快男孩逃脱](../games/adventure/g2m-playful-boy-escape.md) — 愉快男孩逃脱是一款由8B Games/Games2mad开发的点击式逃脱游戏。想象一下，你去一个男孩的家里和他玩耍。由于这个男孩非常爱玩，结果被困在了屋子里。寻找一些隐藏物品，解开一些有趣的谜题，逃离这个调皮男孩的家。祝你好运……尽情享受吧
+- [G2M 公主逃脱](../games/adventure/g2m-princess-escape.md) — 《公主逃脱》是一款由8B Games/Games2Mad开发的点击式逃脱游戏。想象一下，你去公主家和她一起玩耍。当你到达那里时，她被困在这栋房子里。寻找一些隐藏物品，解开一些有趣的谜题，逃离公主的房间。祝你好运……玩得开心！
+- [G2M 监狱逃脱](../games/adventure/g2m-prisoner-escape.md) — 监狱逃脱是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你的朋友们被囚禁在监狱里。现在你来到这里营救他们。这里有有趣的谜题和隐藏物品需要寻找，以便与朋友一起成功逃脱。祝你好运……尽情享受吧！
+- [G2M 救援外星人](../games/adventure/g2m-rescue-the-alien.md) — 救援外星人是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一个被困的外星人。寻找一些隐藏物品，解开有趣的线索，逃离外星人所在的地方。祝你好运……玩得开心！
+- [G2M 救援小狗](../games/adventure/g2m-rescue-the-puppy.md) — 救援小狗是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一栋房子，发现一只可爱的小狗被困在笼子里。这里有有趣的谜题和隐藏的物品，帮助你救出小狗。祝你好运……玩得开心！
+- [G2M 惊悚森林逃脱](../games/adventure/g2m-scary-forest-escape.md) — 惊悚森林逃脱是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾进入一片森林，却意外被困在其中。这里有着有趣的谜题和隐藏物品等待你去发现，从而成功逃离森林。祝你好运……尽情享受吧！
+- [G2M 小型企业周六逃脱](../games/adventure/g2m-small-business-saturday-escape.md) — 小型企业周六逃脱是一款由8BGames/Games2Mad开发的点击式逃脱游戏。你即将在本周六开始一项小生意。不幸的是，你被困在这个地方。寻找一些隐藏物品并解开一些有趣的线索，从这里逃脱。祝你好运……玩得开心！！
+- [G2M 树林逃脱](../games/adventure/g2m-tree-land-escape.md) — 树林逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你来到了一个村庄，却被困在了那里。这里有着有趣的谜题和隐藏物品等待你去发现，从而逃离村庄。祝你好运……尽情享受吧！
+- [G2M 独角兽逃脱](../games/adventure/g2m-unicorn-escape.md) — 独角兽逃脱是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你在一个傍晚前往了一片奇幻森林，想要放松自己。当你正在放松时，发现了一只被锁住的独角兽。寻找一些隐藏物品，解开有趣的谜题，逃离独角兽所在的场所。祝你好运……
+- [地铁狂飙：香港](../games/adventure/game-subway-surf-hong-kong.md) — 在香港的地铁狂飙！这群人打算在这座中国大都市中彻底逃离，展开一场惊险刺激的地铁冒险。和往常一样，你也可以参与这些激动人心的事件。帮助这群人尽情享受乐趣，摆脱追捕。
+- [游戏男孩逃脱](../games/adventure/gamer-boy-escape.md) — 《游戏男孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去游戏男孩的家里和他一起玩游戏。结果他被困在了自己的房间里。找出一些隐藏物品，解开有趣的谜题，逃离游戏男孩的房间。祝你好运……玩得开心！
+- [宠物游戏](../games/adventure/games-for-pets.md) — 欢迎来到《宠物游戏》，这是一款专为您的心爱猫咪和狗狗设计的终极互动游戏！让您的毛茸茸的朋友在屏幕上追逐和扑向移动的物体时保持娱乐和活跃。特色：引人入胜的游戏玩法：点击屏幕使各种物体移动，吸引您的宠物扑向并玩耍。多样化的物体：从弹跳球到飞舞的
 - [黑帮岛：犯罪之城](../games/adventure/gangsta-island-crime-city.md) — 《黑帮岛：犯罪之城》是一款让你从街头混混做起，一步步称霸世界的黑帮游戏。运用你的街头智慧，进行小偷小摸，对抗敌对帮派，并在拉斯维加斯参与高风险的劫案。体验引人入胜的小游戏和活动，努力成为终极黑道老大。
+- [黑帮城市犯罪](../games/adventure/gangster-city-crime.md) — 你是新来镇上的，必须弄清楚这里的情况，因此你卷入了黑帮之间的战斗，你必须在这场黑帮肮脏的游戏里脱颖而出。如果你不喜欢战斗，可以选择城市骑行，这里有各种各样的汽车和摩托车，你可以随意驾驶任何一辆车，无论有没有司机。功能 • 两种游戏模式 • 
+- [垃圾](../games/adventure/garbage.md) — 躲避垃圾的浪潮。在垃圾攻击中生存下来，直到获得高分。 https://alexithacb.itch.io/garbage-attack https://alexbcgames.blogspot.com/ 闪避垃圾的浪潮。在垃圾攻击中生存下
+- [垃圾攻击](../games/adventure/garbage-attack.md) — 躲避垃圾的浪潮。在垃圾攻击中生存下来，直到获得高分。躲避垃圾的浪潮。在垃圾攻击中生存下来，直到获得高分。https://alexithacb.itch.io/garbage-attack https://alexbcgames.blogsp
 - [Garby](../games/adventure/garby.md) — 是时候开始垃圾大作战了！亿万富翁污染者正在破坏地球！这可是Garby垃圾桶的使命！在色彩缤纷的世界中引导Garby奔跑和跳跃，收集你看到的所有垃圾。了解电子垃圾、石油泄漏和太空垃圾对生态系统的影响。在激动人心的Boss战斗中对抗大型企业污染
+- [Banban的花园 3D](../games/adventure/garten-of-banban-3d.md) — 《Banban的花园》是一款紧张刺激且令人毛骨悚然的恐怖解谜冒险游戏。你进入了一所被诅咒的幼儿园，黑暗与诡异的音乐预示着灾难的到来。你将学习简单的操作方式，了解游戏机制。你需要找到钥匙并逃离这个可怕的地方。在寻找钥匙时，请留意潜伏在阴影中的
+- [Banban的花园逃脱](../games/adventure/garten-of-banban-escape.md) — 《Banban的花园逃脱》是一款令人肾上腺素飙升的在线游戏，融合了生存与恐怖元素，为玩家提供沉浸式的3D体验。该游戏由Kiz10.com游戏平台开发，是休闲游戏、动作游戏爱好者以及寻求刺激冒险者的必玩之作。凭借引人入胜的游戏玩法和惊艳的图形
+- [BanBan小熊花园逃脱](../games/adventure/garten-of-banban-huggy-escape.md) — 踏入《BanBan小熊花园逃脱》这个诡异的世界，这是一款令人兴奋的在线恐怖游戏，你必须智胜可怕的生物才能生存。被困在一个阴森的废弃幼儿园里，你必须探索黑暗的走廊，解开谜题，并躲避潜伏在阴影中的怪物。每一步都带来新的挑战，让每一刻都充满紧张与
+- [凉亭逃脱](../games/adventure/gazebo-escape.md) — 《凉亭逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [天才屋逃脱](../games/adventure/genial-house-escape.md) — 《天才屋逃脱》是8B Games/Games2Mad开发的另一款点击式逃脱游戏。想象一下，你被困在这所房子里，你可以找到有用的物品和有趣的线索符号，解开谜题，最终逃出这所房子。祝你好运，玩得开心！
+- [神灯逃脱](../games/adventure/genie-magic-lamp-escape.md) — 《神灯逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去见阿拉丁，发现他的神灯中被困着精灵，而这个神灯被关在了那栋房子里，你需要寻找一些隐藏物品，解开有趣的谜题，找到精灵和神灯。祝你好运……尽情享受吧！
+- [温柔的房屋逃脱](../games/adventure/gentle-house-escape.md) — 《温柔的房屋逃脱》是8B Games/Games2Mad开发的另一款点击式逃脱游戏。想象一下，你被困在这所房子里，你可以找到有用的物品和有趣的线索符号，解开谜题，最终逃出这所房子。祝你好运，玩得开心！
+- [几何冲刺之星](../games/adventure/geometry-dash-stars.md) — 《几何冲刺之星》是一款有趣且令人兴奋的技巧类游戏，您将引导自己的方块穿越充满各种障碍的关卡。在关卡中收集所有星星，随着音乐的节奏轻松避开沿途的所有障碍。您能完成全部8个关卡，并解锁《几何冲刺之星》中的所有角色吗？快来发现答案，享受这款免费畅
 - [几何开放世界](../games/adventure/geometry-open-world.md) — 深入探索精彩刺激的《几何开放世界》世界，这是一款动感十足的2D动作游戏。驾驶你的飞船穿越充满挑战的地形，迎战形形色色的敌人，挑战强大的首领。运用升级和技能，最终赢得胜利。准备好称霸这场几何冒险了吗？现在就免费在你的设备上畅玩吧！
+- [细菌屋逃脱](../games/adventure/germ-house-escape.md) — 《细菌屋逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你进入了一间细菌屋，结果被困在了里面。现在，这里有许多有趣的谜题和隐藏物品等待你去发现，以成功逃脱。祝你好运……尽情享受吧！
 - [长高又跌落](../games/adventure/get-tall-and-fall.md) — 这是一场激动人心的冒险，你需要利用各种食物、宠物、药水和其他方法来提升自身实力。
+- [克服一切 无限制版](../games/adventure/getting-over-it-unblocked.md) — 在《克服一切 无限制版》中开启前所未有的攀爬冒险之旅。这款游戏将前所未有地考验你的耐心、技巧和决心。你扮演一个被困在巨大陶罐中的男人，仅凭一把锤子攀爬不可能的平台。你的目标是不断向上攀登。三种不同的冒险等待着你来挑战。注意空心平台、更长的距
+- [幽灵镇逃脱 3 &ndash; 镜像维度](../games/adventure/ghost-town-escape-3-ndash-mirrored-dimension.md) — 当你疲惫的双眼缓缓睁开，映入眼帘的是一个荒废衰败的世界。一阵幽灵般的微风掠过你的灵魂之躯，令你脊背泛起一阵寒意。在这座孤寂的亡城中，你独自一人，毫无凡人相伴。此刻，你的使命展现在眼前，一场被幻象谜题笼罩的冒险。寻找并发掘35件神秘遗物，这将
 - [幽灵镇逃脱 4 &ndash; 镜像维度](../games/adventure/ghost-town-escape-4-ndash-mirrored-dimension.md) — 在一个废弃的军事小镇中，你被召唤来帮助幽灵居民。收集45枚神秘硬币以激活出口传送门。周围回荡着诡异的低语，指引你的任务。寻找与灵魂记忆相关的遗物。他们的感激将打开传送门，融合两个世界。在通往超越之旅中面对幽灵挑战和谜题，物理世界与灵界在此交
+- [幽灵尖刺](../games/adventure/ghostly-spikes.md) — 这个万圣节，Jhurr Games 为您带来一款独特游戏——幽灵尖刺。帮助这只可爱的幽灵在不撞到尖刺的情况下飞行，以尽可能长时间地生存下去。这是一个荒诞而致命的地方。取得高分，并向您的朋友发起挑战，看他们能否超越您。通过游玩这款幽默搞笑的游
+- [幽灵的万圣节外出](../games/adventure/ghoul-s-night-out-halloween.md) — 《幽灵的万圣节外出》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你走进了一栋阴森恐怖的房子，气氛令人胆寒，让你感觉四周有鬼魂出没。这里有许多有趣的谜题和隐藏物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！！！
+- [巨兽杀手](../games/adventure/giant-killer.md) — 升级你的英雄，对抗可怕的敌人，并磨练你的战略技巧，在这款永无止境的重玩性奇幻冒险游戏中，掌握闪避、防御和攻击，征服每一关，成为终极英雄！
+- [来自巨型蝙蝠的礼物](../games/adventure/gifts-from-giant-bats.md) — 保护礼物免受巨型蝙蝠侵害是一款免费的在线游戏。持续触摸屏幕以瞄准并射击动物
+- [长颈鹿之地逃脱](../games/adventure/giraffe-land-escape.md) — 《长颈鹿之地逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [女孩冒险家](../games/adventure/girl-adventurer.md) — 玩精彩的动作平台游戏《女孩冒险家》。跳到巨人的头上将其消灭，避开障碍物并收集每关的3把钥匙。祝你好运！
+- [穿戏服的女孩逃脱](../games/adventure/girl-with-costume-escape.md) — 《穿戏服的女孩逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到一个村庄，在那里发现了一个被困的女孩。这里有有趣的谜题和隐藏物品等待你去发现，帮助女孩逃脱。祝你好运……尽情享受吧！
+- [Giving Tuesday Escape](../games/adventure/giving-tuesday-escape.md) — "Giving Tuesday Escape 是由 8B Games/Games2live 开发的一款点击解谜游戏。想象一下，你曾去过一栋房子，在那里你被一个陌生人困在了感恩节的这一天。这里有有趣的谜题和隐藏物品等待你去发现，从而逃离此地。
+- [欢乐女孩逃脱](../games/adventure/gleeful-girl-escape.md) — 《欢乐女孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去一位女孩的家中和她一起玩耍。当你到达那里时，她突然开始奔跑；紧接着，她被困在了这所房子里。寻找一些隐藏物品，解开一些有趣的谜题，逃离欢乐女孩所在的房间。祝你好运……尽
+- [故障冲刺](../games/adventure/glitch-dash.md) — 故障冲刺是一款第一人称游戏，你需要躲避障碍物以求生存。收集钻石来购买检查点。那么，你准备好测试你的反应能力，并完成故障冲刺中的每一关了吗？
+- [阴郁：石像鬼](../games/adventure/gloom-gargoyle.md) — 阴郁：石像鬼是一款魔法类、单人游玩、第三人称视角的游戏。本作是游戏《阴郁》的第一幕，包含三个美丽而充满魔力的场景。通过使用魔法能力来完成攻略：炽热光环可吸收你的法力并照亮周围空间，时间光环可加快游戏时间，使你移动得更快，以及魔法光环会消耗你
+- [GN忍者跑](../games/adventure/gn-ninja-run.md) — 忍者跑是一款游戏，玩家控制忍者角色跳跃过木桥，收集金币并躲避炸弹。玩家移动得越远，得分越高。祝你玩得开心。
+- [去圣诞老人](../games/adventure/go-santa.md) — 《去圣诞老人》由Gamezad开发，是一款引人入胜的移动游戏，将节日气氛与激动人心的游戏玩法融为一体。在这款无尽跑酷游戏中，你将扮演圣诞老人，在充满活力的雪景中疾驰前行
 - [山羊逃脱](../games/adventure/goat-escape.md) — 《山羊逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾到过一个农场；在那里，一只山羊被拴住了。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离山羊的束缚。祝你好运……尽情享受吧！
+- [山羊公主逃脱3](../games/adventure/goat-princess-escape3.md) — 一只平静的熊猫生活在森林里。这只平静的熊猫生活得非常快乐。有一天，这只平静的熊猫意外地被困在了一栋房子里。你的任务是将这只平静的熊猫从那里救出来。为了成功救出这只平静的熊猫，你需要找到所有隐藏的线索位置。所有的面具都已被正确隐藏，而被困的平
+- [山羊去月球](../games/adventure/goat-to-the-moon.md) — 这只疯狂的山羊不想在地球上多待一秒。山羊计划前往月球，那看起来并且尝起来都像一块美味的奶酪。她摩擦着蹄子，想出了一个计划。装备上她的新喷气背包后，她已经准备起飞了！你必须帮助山羊实现她的目标吗？
 - [熵之神](../games/adventure/god-of-entropy.md) — 一款包含故事模式和沙盒模式的沙漏模拟游戏。自由尝试数十种元素，触发连锁反应，建造或摧毁作品，解锁趣味成就。
+- [Gogo Adventures 2021](../games/adventure/gogo-adventures-2021.md) — * 我的名字是GoGo。让我们和GOGI一起踏上冒险之旅。 * 横跨森林的木桩，计算木桩之间的距离，在它们之间搭建一座桥，快速穿越森林。 * 锻炼你的智力。 * 让我们和GoGo一起冒险。
+- [黄金王冠逃脱](../games/adventure/gold-crown-escape.md) — 《黄金王冠逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到一座城市，在那里发现了一顶被困住的黄金王冠。这里有有趣的谜题和隐藏的物品，你需要找到王冠并逃离这座城市。祝你好运……尽情享受吧！
+- [黄金矿工杰克经典：淘金热 - 挖矿](../games/adventure/gold-miner-jack-classic-gold-rush-mine-mining.md) — 欢迎来到最佳离线挖矿游戏！挖掘黄金，升级，这是一款极其简单但令人上瘾的手机游戏！通过充满宝藏的冒险之旅，尽可能快速地挖掘物品。挖掘黄金、钻石，避开岩石和猪以更快地获得分数。这款复古游戏将帮助你迅速锻炼反应能力。黄金矿工适合所有年龄层，全家一
+- [金色岛屿冒险游戏：加利福尼亚在线](../games/adventure/golden-island-adventure-game-california-online.md) — 冒险即将开始！认识并游玩金色岛屿冒险游戏，这是一款热爱收集古代文物的女孩。金色岛屿冒险游戏现在必须在充满陷阱的洞穴中找到8个金骷髅！更糟糕的是，还有一个巨大的岩石在追击金色岛屿冒险游戏！你能否逃出洞穴？金色岛屿冒险游戏是一款趣味十足的游戏，
 - [好骑士物语](../games/adventure/good-knight-story.md) — 昨晚到底发生了什么？！加入我们这位不太靠谱的英雄的行列，看他如何从昏迷中醒来，发现自己身处地牢，头痛欲裂，却完全不记得自己是怎么到这儿的。
+- [好排序](../games/adventure/good-sort.md) — 欢迎来到商品整理游戏，这是一款终极免费的排序游戏，您可以在数百个关卡中挑战自己，对各种商品进行排序！无论您是三消游戏、商品整理的爱好者，还是单纯喜欢整理事物，这款游戏应有尽有。您能否找到、整理并匹配，成为组织大师？
+- [傻瓜魔法](../games/adventure/goofy-magic.md) — 高飞是1932年在华特迪士尼制作公司创作的一个搞笑动物卡通角色。高飞是一个高个子、拟人化的狗，通常穿着高领衫和背心，搭配裤子、鞋子、白色手套，以及一顶最初设计为皱巴巴的软呢帽。高飞是米老鼠和唐老鸭的亲密朋友，也是迪士尼最具辨识度的角色之一。
+- [抓取包游戏时间](../games/adventure/grab-pack-playtime-game.md) — 抓取包游戏时间是一款有趣的教育类在线游戏，背景是抓取道具。你将在游戏中扮演一位超级英雄，探索充满怪物的玩具工厂，并借助两条超长手臂在玩具工厂中收集各种物品。面对游戏中的每一项挑战，你都必须想出不同的解决方法。你需要充分展现你的智慧，并灵活应
 - [大逃亡！](../games/adventure/grand-escape.md) — 加入《Grand Escape!》的冒险之旅吧！这是一款惊险刺激的在线平台游戏。探索一个充满奇异生物和激动人心挑战的迷人世界。带领你的角色闯过一个个精彩纷呈的关卡，最终取得胜利。在你的电脑或移动设备上畅玩这款免费游戏，尽情释放你的冒险精神！
+- [大宅逃脱](../games/adventure/grand-house-escape.md) — 大宅逃脱是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你进入了一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品需要寻找，才能逃离这栋房子。祝你好运……玩得开心！
+- [爷爷逃脱](../games/adventure/grandpa-escape.md) — 爷爷房子逃脱是一款由8B Games/Games2mad开发的点击式解谜游戏。想象一下，你进入了一栋房子，却发现自己被困在了里面。这里有有趣的谜题和隐藏物品等待你去发现，帮助你逃离这栋房子。祝你好运……尽情享受吧！
+- [祖母隐藏的骷髅阴影](../games/adventure/granny-hidden-skull-shadows.md) — 《祖母隐藏的骷髅阴影》是一款免费的在线找物游戏。屏幕上会出现一个特定区域，你需要非常仔细地检查它。寻找骷髅的影子。一旦发现其中一个，只需用鼠标点击即可。这样就能选中该物品并获得分数。共有6个关卡，每个关卡有10个隐藏的骷髅阴影。
+- [奶奶恐怖村庄](../games/adventure/granny-horror-village.md) — 《奶奶恐怖村庄》是一款免费的在线第一人称恐怖游戏。你必须观察周围环境，解决各种挑战性的谜题以逃脱。3D画面非常酷炫，游戏体验紧张刺激！
+- [祖母屋逃脱](../games/adventure/granny-house-escape.md) — 进入令人毛骨悚然的《祖母屋逃脱》世界，这是一款3D恐怖游戏，你的任务是逃离一个被愤怒邪恶的祖母控制的诡异房子。寻找钥匙以解锁房间，每个房间都通向更多的钥匙和更大的挑战，当你试图找到出路时，危险步步紧逼。在《祖母屋逃脱》中，紧张的游戏玩法与阴
+- [葡萄逃亡](../games/adventure/grapey-escape.md) — 葡萄逃亡是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [割草修剪割草游戏](../games/adventure/grass-cutting-mowing-game.md) — 割草修剪割草游戏是一款有趣且令人放松的草坪修剪模拟游戏，你将操控一台强大的割草机，修剪草坪以保持各个区域的整洁与美观。在环境中驾驶，仔细修剪草地，并在享受流畅且令人满足的游戏体验的同时完成任务。
+- [草地之地逃脱](../games/adventure/grassy-land-escape.md) — 草地之地逃脱是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [草地山逃离](../games/adventure/grassy-mountain-escape.md) — 草地山逃离是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾去过一座山，却被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离这座山。祝你好运……尽情享受吧！
+- [墓地逃脱](../games/adventure/grave-land-escape.md) — 《墓地逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [灰暗的房屋逃脱](../games/adventure/grayish-house-escape.md) — 《灰暗的房屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾进入一栋房子，却意外被困在其中。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以成功逃脱。祝你好运……尽情享受吧！
+- [绿色小鸟逃脱](../games/adventure/green-bird-escape.md) — 《绿色小鸟逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，那里有一只小鸟被困住了。这里有有趣的谜题和隐藏的物品需要寻找，以解救这只小鸟。祝你好运……尽情享受吧！
+- [绿鸭逃脱](../games/adventure/green-duck-escape.md) — 《绿鸭逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的鸭子。这里有着有趣的谜题和隐藏物品等待你去寻找，以解救这只猫头鹰。祝你好运！尽情享受吧！
+- [绿色庄园逃脱](../games/adventure/green-estate-escape.md) — 《绿色庄园逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一座庄园，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离庄园。祝你好运……尽情享受吧！
+- [绿色房屋逃脱](../games/adventure/green-house-escape.md) — 《绿色房屋逃脱》是由Games2Live开发的一款点击式游戏。想象一下，你曾前往一座绿色房屋；在那里，你被困在了绿色房屋内。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离绿色房屋。祝你好运……尽情享受吧！
+- [绿人 smash](../games/adventure/green-man-smash.md) — 绿人 smash 是一款有趣且令人上瘾的动作游戏。拯救世界，不让坏人征服它。从邪恶的僵尸中拯救城市。怪物浩克。
+- [绿色山峰逃脱](../games/adventure/green-mountain-escape.md) — 绿色山峰逃脱是由8BGames开发的一款点击式逃脱游戏。想象一下，你在一个傍晚前往了一座绿色的山峰。你本应赶在天黑前返回，但不幸的是，你迷路了。寻找一些隐藏物品，解开一些有趣的谜题，逃离绿色山峰。祝你好运……尽情享受吧！
+- [绿意盎然的逃离](../games/adventure/greeny-land-escape.md) — 《绿意盎然的逃离》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏物品等待你去发现，帮助你逃离这个村庄。祝你好运……尽情享受吧！
+- [灰色砖房逃脱](../games/adventure/grey-brick-house-escape.md) — 《灰色砖房逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾进入一栋房子，却意外被困在其中。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你成功逃离这栋房子。祝你好运……尽情享受吧！
+- [灰色房间逃脱](../games/adventure/grey-room-escape.md) — 《灰色房间逃脱》是由 Games2Live 开发的一款点击式游戏。想象一下，你进入了一个灰色房间；在那里，你被困在了这个灰色房间中。这里有许多有趣的谜题和隐藏物品等待你去发现并逃离灰色房间。祝你好运……尽情享受吧！
+- [灰色墙门逃脱](../games/adventure/grey-wall-gate-escape.md) — 《灰色墙门逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [烧烤鸡逃脱](../games/adventure/grill-chicken-escape.md) — 《烧烤鸡逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你身处沙漠之中，饥饿难耐，却意外发现了一只在烤架上的鸡。游戏中充满了有趣的谜题和隐藏物品，帮助你找到烧烤鸡肉所需的物品。祝你好运……尽情享受吧！
+- [Grimace 夜](../games/adventure/grimace-night.md) — Grimace 夜 是这个万圣节期间的一场有趣的冒险之旅。在这个趣味冒险游戏中，小 Grimace 正四处移动，收集钥匙以打开通往出口的传送门。为此，Grimace 需要在途中收集钥匙，但众所周知，废弃区域充满了障碍。不过也有一些对您有利的
+- [Grimace Shake 逃脱 Skibidi 和 摄影师](../games/adventure/grimace-shake-escape-skibidi-and-cameraman.md) — 你醒来时身处 Doctor Grimace Shake 的恐怖医院，却什么也记不起来。你需要生存并逃脱——寻找物品，避开 Doctor Grimace 可怕的豚鼠——地下道里的 Dop Dop Skibidi Toilet，以及医院区域内的
 - [格鲁米岛](../games/adventure/groomy-island.md) — 《怪兽岛》是一款全新的3D岛屿恐怖生存游戏，你的唯一目标是生存下来并收集全部10个怪兽奶昔。
+- [树林](../games/adventure/grove.md) — 简单易玩的游戏，你需要通过两个关卡，才能在时间限制内捕捉所有小鸟并带着它们飞行
+- [树林之门逃脱](../games/adventure/grove-gate-escape.md) — 《树林之门逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你曾来到一片树林，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离树林之门。祝你好运……尽情享受吧！
+- [Grow My Heels 3D 游戏](../games/adventure/grow-my-heels-3d-game.md) — 准备好享受乐趣了吗？全新的高跟鞋女孩跑酷游戏，操作简单，你的目标是通过收集赛道上的所有高跟鞋来制作一双高跟鞋。滑动屏幕收集高跟鞋，搭建出更高的高跟鞋塔以抵达目的地。你的高跟鞋越高，就越容易避开墙壁。每个障碍赛道都充满了各种不同的障碍物！想要
+- [恐怖奶奶](../games/adventure/grusel-oma.md) — 在可怕的恐怖奶奶找到你之前，从废弃的机构中逃脱。轻声移动，不要发出任何声音，并避开奶奶以成功逃脱。特性：• 多个层级 • 具有挑战性的游戏玩法
+- [古比的达尔文年鉴](../games/adventure/gumball-darwins-yearbook.md) — 神奇世界中的古比，古比的达尔文年鉴 一款有趣的益智平台游戏，你将帮助古比和达尔文拍摄年鉴照片。分别控制达尔文和古比，每个人都有独特的技能集。
+- [古比：隐藏的星星](../games/adventure/gumball-hidden-stars.md) — 该系列讲述了12岁的蓝猫盖比·瓦特森和他的金鱼最好的朋友兼领养兄弟10岁的达尔文的生活，他们就读于加利福尼亚州虚构城市埃尔莫尔的中学
+- [枪战狂潮2](../games/adventure/gun-mayhem-2.md) — 《枪战狂潮》的续作终于来了！这一次将带来更多的混乱。通过射击或使用炸药将敌人从平台上炸飞来击败强大的敌人。这款游戏包含单人战役模式、自定义游戏以及一系列挑战。选定游戏模式后，你可以自定义角色的外观、颜色和装备——可以更换他们的衬衫、帽子和面
+- [Hagi Waga 攻击 派普玩偶游戏](../games/adventure/hagi-waga-attack-poppy-playtime-game.md) — 欢迎来到 Hagi Waga 攻击！在这里，你将化身为一个无情的怪物，毫无怜悯之心。而这个噩梦般的生物的名字就是 Hagi Wagi！此前，这只怪物生活在派普玩偶玩具工厂中，伪装成一个友善的拥抱玩具。但有一天，它嗜血的本性爆发，显露出了真实
+- [冰雹控制](../games/adventure/hail-control.md) — 在这款快节奏的色彩匹配街机挑战中，赶在风暴吞噬你之前抓住它！彩色冰雹块从上方落下，你的目标很简单——在它们落地前将每个冰雹块引导至对应的篮子中。随着风暴加剧，速度加快，快速决策变得至关重要。解锁强大的升级道具，如车道变换器和加速器，以应对混
+- [万圣节森林逃脱 3](../games/adventure/halloween-forest-escape-3.md) — 《万圣节森林逃脱 3》是由 8B Games/Games2mad 开发的一款点击式解谜游戏。想象一下，你曾进入一片森林，却意外被困在万圣节森林中。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [万圣节森林逃脱系列 第一集](../games/adventure/halloween-forest-escape-series-episode-1.md) — 《万圣节森林逃脱系列 第一集》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾前往一片森林，却意外被困在了万圣节森林中。这里有着有趣的谜题和隐藏物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [万圣节森林逃脱系列 第3集](../games/adventure/halloween-forest-escape-series-episode-3.md) — 《万圣节森林逃脱系列 第3集》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾进入一片森林，却意外被困在万圣节森林中。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [万圣节森林逃脱系列最终集](../games/adventure/halloween-forest-escape-series-final-episode.md) — 《万圣节森林逃脱系列最终集》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾前往一片森林，却在万圣节森林中被困。这里有有趣的谜题和隐藏的物品等待你去发现并成功逃离森林。祝你好运……尽情享受吧！
+- [万圣节恐怖](../games/adventure/halloween-horror.md) — 恐怖万圣节是一款休闲游戏，你只需吃巧克力，通过吃巧克力来获得分数。需要小心不要吃有毒的药水瓶。黄金规则是不让三块巧克力掉到地面，否则你将失败。游戏速度会逐渐加快。尽情享受吧！
+- [万圣节即将到来 第10集](../games/adventure/halloween-is-coming-episode-10.md) — 万圣节即将到来 第10集是一款由8B Games/Games2Live开发的点击解谜游戏。我是约翰，现在我被困在了一个雪地世界里，需要你的帮助。这里有一些有趣的谜题和隐藏物品等待你去发现，以逃离此地。祝你好运……尽情享受吧！！！
+- [万圣节即将到来 第二集](../games/adventure/halloween-is-coming-episode-2.md) — 万圣节即将到来 第二集 是由 8B Games/Games2Live 开发的一款点击式解谜游戏。我是约翰，现在我被困在了荆棘树里，需要你的帮助。这里有一些有趣的谜题和隐藏物品等待你去发现，从而逃离此地。祝你好运……尽情享受吧!!!
+- [万圣节即将到来 第三集](../games/adventure/halloween-is-coming-episode-3.md) — 《万圣节即将到来 第三集》是由8BGames/Games2Live开发的一款点击式解谜游戏。我是约翰。我又遇到了一个问题，我需要你的帮助才能从这里逃脱……这里有各种有趣的谜题和隐藏物品等待你去发现，从而成功逃脱。祝你好运……尽情享受吧!!!
+- [万圣节即将到来 第六集](../games/adventure/halloween-is-coming-episode-6.md) — 万圣节即将到来 第六集 是由8B Games/Games2Live开发的一款点击解谜游戏。我是约翰，现在我被困在了一个洞穴里，需要你的帮助。这里有一些有趣的谜题和隐藏物品等待你去发现，从而逃离此地。祝你好运……尽情享受吧!!!
+- [万圣节即将到来 第7集](../games/adventure/halloween-is-coming-episode-7.md) — 万圣节即将到来 第7集是一款由8B Games/Games2Live开发的点击式游戏。我是约翰，现在我被困在了一座鬼屋中，需要你的帮助。这里有一些有趣的谜题和隐藏物品等待你去发现，从而逃离此地。祝你好运……尽情享受吧!!!
+- [万圣节即将到来 第8集](../games/adventure/halloween-is-coming-episode-8.md) — 《万圣节即将到来 第8集》是一款由8B Games/Games2Live开发的点击式游戏。我是约翰。我又被困在了墓地里，需要你的帮助。这里有一些有趣的谜题和隐藏物品等待你去发现，从而逃离这里。祝你好运……尽情享受吧！！！
+- [万圣节即将到来 第9集](../games/adventure/halloween-is-coming-episode-9.md) — 《万圣节即将到来 第9集》是一款由8B Games/Games2live开发的点击式解谜游戏。我是约翰，现在我被困在了一栋可怕的房子里，需要你的帮助。这里有一些有趣的谜题和隐藏物品等待你去发现，从而逃离这个地方。祝你好运……尽情享受吧！
+- [万圣节即将到来 第一集](../games/adventure/halloween-is-coming-episode1.md) — 《万圣节即将到来 第一集》是一款由8B Games/Games2Mad开发的点击解谜游戏。游戏中，一名男孩正努力逃离自己的房子，以融入万圣节的气氛。游戏氛围阴森恐怖，让人感觉周围有鬼魂出没。游戏中包含一些有趣的谜题和隐藏物品，需要你找到它们
+- [万圣节即将到来 第三集](../games/adventure/halloween-is-coming-episode3.md) — 嗨……我是你们的彼得，现在我被困在一个奇怪的村庄里，需要你的帮助才能逃出去参加万圣节派对。帮我逃离这里……
+- [万圣节即将到来 第五集](../games/adventure/halloween-is-coming-episode5.md) — 嗨……我是你的彼得，在我的旅程中，我又被困在了墓地里，找不到出去的路。我需要你的帮助才能逃离这里。帮我前往万圣节派对吧……
+- [万圣节即将到来 最终集](../games/adventure/halloween-is-coming-final-episode.md) — 嗨……我是你们的彼得，现在我快要到万圣节了，但门被锁住了。我需要你的帮助才能参加派对。帮我解开谜题，加入万圣节派对吧……
+- [万圣节魔法女士逃脱](../games/adventure/halloween-magic-lady-escape.md) — 《万圣节魔法女士逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一位女士被困。寻找一些隐藏物品，解开一些有趣的谜题，从而帮助女士逃脱。祝你好运……尽情享受吧！
+- [万圣节猫头鹰救援](../games/adventure/halloween-owl-rescue.md) — 《万圣节猫头鹰救援》是由8BGames/Games2Mad开发的一款点击式解救游戏。想象一下，你来到了一个地方，在那里发现了一只猫头鹰被困在笼子里。寻找一些隐藏物品，解开一些有趣的线索，拯救这只猫头鹰。祝你好运……尽情享受吧！
+- [万圣节南瓜森林逃脱](../games/adventure/halloween-pumpkin-forest-escape.md) — 《万圣节南瓜森林逃脱》是一款由8B Games/Games2mad开发的点击式解谜游戏。想象一下，你曾前往一片森林，结果被困在了里面。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃离森林。祝你好运……尽情享受吧！
+- [万圣节恐怖连接](../games/adventure/halloween-scary-connection.md) — 玩最新的万圣节恐怖连接游戏。连接至少2个相同万圣节主题的方块以摧毁它们。在时间结束前尽可能多地摧毁方块并获得分数。游戏拥有出色的图形效果。享受乐趣吧！
 - [万圣节火柴人](../games/adventure/halloween-stickman.md) — 《万圣节火柴人》是一款刺激的冒险游戏，你可以通过回溯时间来报复你那狡猾的朋友。游戏设定在一个阴森恐怖的氛围中，你将体验一段引人入胜的故事，你的选择将影响故事的结局。游戏可在任何设备上免费畅玩，让你沉浸在这场惊险刺激的2D恐怖之旅中。
 - [万圣节火柴人2](../games/adventure/halloween-stickman-2.md) — 《万圣节火柴人2》带来令人兴奋的游戏体验，你将在一个充满恶作剧和诡异气氛的环境中穿梭。免费在线畅玩，投身万圣节主题冒险，智胜你的捣蛋朋友火柴人，在节日的混乱中展开复仇。
+- [万圣节剧院逃脱](../games/adventure/halloween-theatre-escape.md) — 《万圣节剧院逃脱》系列是一款由8B Games/Games2mad开发的点击式解谜游戏。想象一下，你曾去过一家剧院，结果被困在了剧院里。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃脱剧院。祝你好运……尽情享受吧！
+- [万圣节双鬼救援](../games/adventure/halloween-twin-ghosts-rescue.md) — 《万圣节双鬼救援》是由8BGames/Games2Mad开发的一款点击式救援游戏。想象一下，你来到了一个地方，在那里发现了一对幽灵被困在了这个地方。寻找一些隐藏物品，解开一些有趣的谜题，来拯救这对双鬼。祝你好运……尽情享受吧！
+- [万圣节村庄逃脱](../games/adventure/halloween-village-escape.md) — 《万圣节村庄逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到了一个万圣节村庄，却意外被困其中。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你逃离村庄。祝你好运……尽情享受吧！
+- [万圣节村庄逃脱 2](../games/adventure/halloween-village-escape-2.md) — 《万圣节村庄逃脱 2》是由 8B Games/Games2Mad 开发的一款点击式游戏。想象一下，你来到了一个万圣节村庄，却意外被困其中。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃离村庄。祝你好运……尽情享受吧！
+- [万圣节女巫山逃脱](../games/adventure/halloween-witch-mountain-escape.md) — 《万圣节女巫山逃脱》系列是一款由8B Games/Games2mad开发的点击式解谜游戏。想象一下，你曾前往一座山中，却在那里被困住了。这里有着有趣的谜题和隐藏物品等待你去发现，从而成功逃离这座山。祝你好运……尽情享受吧！
+- [无手百万富翁3](../games/adventure/handless-millionaire-3.md) — 点击（或轻触）屏幕右侧的那只手。这是你手的安全区域。当你准备好抓钱时（时机要对！注意观察规律），将手从安全区拖到钱的位置，然后迅速拉回安全区。你需要一点时间来抓钱，所以不要拉得太快，否则什么也得不到。如果你太慢，你会知道的……一轮中你能获得
+- [悬挂的兔子逃脱](../games/adventure/hanging-rabbit-escape.md) — 《悬挂的兔子逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你走进了一片森林，在那里发现了一只被困在森林中的悬挂兔子。寻找一些隐藏物品，解开一些有趣的谜题，逃离这只悬挂的兔子。祝你好运……尽情享受吧！
+- [快乐男孩逃脱](../games/adventure/happy-boy-escape.md) — 《快乐男孩逃脱》是由8BGames/Game2Live开发的一款点击式逃脱游戏。想象一下，你来到了一个男孩的房间。不幸的是，这个男孩被困在了一个房间里。寻找一些隐藏物品，解开一些有趣的谜题，从而逃离这个男孩的房间。祝你好运……尽情享受吧！
+- [快乐恶魔与不快乐天使](../games/adventure/happy-devil-and-unhappy-angel.md) — 想要在地狱中生存，就需要恶魔和天使！嘿，你和朋友，不如一人扮演恶魔，另一人扮演天使？恶魔和天使需要逃离地狱，帮助他们逃出地狱。地狱中的生物无处不在，你必须非常小心。怪物和障碍物太多。你们两人需要同时抵达橙色目标，迅速行动，收集金币，拿到钥匙
+- [快乐的玻璃游戏](../games/adventure/happy-glass-game.md) — 使用魔法笔和墨水，你需要画线将水引到杯子里。节省你的墨水以赢得星星。80个关卡/挑战可供游玩。尽情享受！
+- [硬推游戏](../games/adventure/hard-push-game.md) — 硬推是一款充满动作的物理游戏，力量、时机和策略是胜利的关键。推动巨大物体，撞碎人群，清除障碍，并在动态关卡中完成激动人心的挑战。掌握流畅的操作，解锁强大的升级，并在越来越困难的关卡中测试你的技巧。享受色彩缤纷的图形、令人满足的游戏体验以及令
+- [兔子岛逃脱](../games/adventure/hare-land-escape.md) — 《兔子岛逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你被困在了兔子岛。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离这个岛屿。祝你好运……尽情享受吧！
+- [幼鳄逃脱](../games/adventure/hatchling-escape.md) — 《幼鳄逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你的朋友送你一只幼鳄鱼作为礼物。不幸的是，你把幼鳄鱼忘在了一个房间里。寻找一些隐藏物品，解开一些有趣的谜题，救出幼鳄鱼。祝你好运……尽情享受吧！
+- [幽灵糖果](../games/adventure/haunted-sweets.md) — 踏入《幽灵南瓜》的诡异世界，这是一款令人兴奋的三消益智冒险游戏！在100个神秘关卡中穿梭，通过交换并匹配发光的鬼魂、古老的骨头和魔法南瓜等恐怖图标。触发强力连击，解锁幽灵增益道具，在时间或步数耗尽前清除棋盘。充满活力且氛围感十足的光影效果，
+- [你好，猫咪](../games/adventure/hello-cat.md) — 解决基于物理的谜题并收集猫咪！欢迎来到这个全新的猫咪收容所，立即开始收集和合并猫咪的旅程吧！来自世界各地猫爱好者的大方捐赠将不断涌入，因此请谨慎投资，打造一座充满各种可爱猫咪的宏伟宫殿！
+- [你好猫咪](../games/adventure/hello-cats.md) — 欢迎来到这个全新的猫咪收容所，立即开启收集和合并猫咪的旅程吧！来自世界各地猫爱好者的大笔捐赠将不断涌入，因此请谨慎投资，打造一座宏伟的、充满各种可爱猫咪的宫殿！有时猫咪会调皮捣蛋，藏起来。为了抓住这些淘气的猫咪，请画出合适的形状，巧妙利用关
+- [帮助冒名顶替者逃脱](../games/adventure/help-imposter-escape.md) — 帮助冒名顶替者逃脱是一款冒险逃脱类休闲游戏。操作简单易学，适合所有玩家尝试。冒名顶替者被困在一个奇怪的空间中，你的任务是帮助它找到出口。注意路径上的障碍物，尖刺会将你分成两部分。收集金币以解锁更多皮肤。不要放弃，五十个关卡等待着你的挑战，祝
+- [帮我](../games/adventure/help-me.md) — 《帮我》是一款由8B Games/Games2Mad开发的点击式逃脱游戏。想象一下，一个女孩被困在她的房间里，她通过手机寻找那个打开了锁住房间的人。这里有许多有趣的谜题和隐藏物品等待你去发现，这些都将帮助这个女孩脱困。祝你好运……尽情享受吧
 - [帮助解决棘手的故事 一个复杂的故事](../games/adventure/help-tricky-story-a-complicated-story.md) — 深入探索《Help Tricky Story》的迷人世界，这是一款独特的在线游戏，通过复杂的谜题考验你的解题能力。这款引人入胜的冒险游戏可在手机和电脑上免费畅玩，鼓励你运用逻辑思维，迎接各种趣味挑战，磨练你的头脑。
+- [救救小鸭子](../games/adventure/helptheduck.md) — 帮助小鸭子洗澡。小鸭子会随机出现在上方的平台上。点击屏幕会涌出水流。控制水流将小鸭子冲入底部的浴池。快来试试吧。
+- [母鸡家族救援系列3](../games/adventure/hen-family-rescue-series-3.md) — 《母鸡家族救援系列3》是由8B Games/Games2mad开发的一款点击解谜游戏。嗨……我是Webby；在你的帮助下，我已经找到了我的两位家人。现在我正在寻找我的宝宝们。需要你的帮助来找到他们。请帮帮我……祝你好运……玩得开心！！！
+- [母鸡家族救援 第四季](../games/adventure/hen-family-rescue-series-4.md) — 《母鸡家族救援 第四季》是由8B Games/Games2mad开发的一款点击式游戏。嗨……我是Webby；在你的帮助下，我已经找到了我三位家人。现在我正在寻找我的宝宝们。需要你的帮助来找到他们。请帮帮我……祝你好运……玩得开心！！！
+- [母鸡救援](../games/adventure/hen-rescue.md) — 母鸡救援是由8BGames/Games2Mad开发的一款点击式解救游戏。想象一下，你来到了一个地方，在那里发现了一只母鸡被困在笼子里。寻找一些隐藏物品，解开一些有趣的线索，来拯救这只母鸡。祝你好运……玩得开心！
+- [英雄冒险2](../games/adventure/hero-adventure-2.md) — 英雄小镇冒险游戏是一款令人上瘾的游戏，你可以奔跑、跳跃，或投掷球来消灭敌人。在这个超级英雄冒险经典游戏中，英雄必须奔跑、跳跃越过障碍物，爬楼梯，探索小镇，还要与敌人战斗。这款游戏将带你回到童年时光，重温老式游戏的乐趣。
+- [超级动作冒险中的英雄](../games/adventure/hero-in-super-action-adventure.md) — 更多从未在其他游戏中出现过的地点。你的冒险将带你穿越纯正的精灵森林、因部落战争而被焚毁的兽人土地、神秘的亚特兰蒂斯城，以及侏儒的冰冻悬崖。BAHA将引导你完成这场英雄之旅。
+- [英雄救援2 免费益智游戏](../games/adventure/hero-rescue-2-free-puzzle-games.md) — 帮助英雄救出公主并赢得宝藏。在这个最新的救援游戏中，你将成为一位富有的英雄。拉动木棍，为公主开辟一条安全的道路。英雄救援的游戏玩法会让你沉迷于这款英雄游戏。开始很容易，但要完成所有英雄谜题却很难。只要让英雄脱离危险，你就是胜利者。
+- [英雄救援：拔掉引信](../games/adventure/hero-rescue-pull-the-pin.md) — 欢迎来到《英雄救援：拔掉引信》益智游戏！立即帮助英雄找到宝藏并拯救公主！你将扮演一位拥有智慧、勇气与爱的力量的英雄，拯救自己的新娘。这位英雄已踏上寻找宝藏和拯救公主的旅程。网站开发者 <a href='https://newkidsgame
+- [英雄时间](../games/adventure/hero-time.md) — 加入本10的行列，当他变身成为他的十种外星形态之一，以阻止比利亿万和他的阴谋，在《本10 英雄时间》中。利用每位外星人的特殊能力克服各种障碍并挽救局势。你必须控制本10，他在试图破坏比利的计划时，使用欧米茄装置的力量来克服各种障碍。他每次变
+- [战争英雄](../games/adventure/heroes-of-war.md) — 《战争英雄》属于回合制策略类游戏。您将操控一名英雄，可以招募军队、在地图上移动、夺取资源并参与战斗。英雄拥有一套属性，能为军队提供加成或产生战略优势。此外，英雄通过战斗获得经验值，因此经验丰富的英雄远比新手强大。
 - [英勇骑士](../games/adventure/heroic-knight.md) — 《英勇骑士》是一款引人入胜的解谜冒险游戏，玩家将操控一位英勇的骑士穿越险恶的地形，赢得荣耀并夺取隐藏的宝藏。这款免费的网页游戏无需下载或注册，即可直接畅玩，开启一段史诗般的中世纪冒险之旅。在旅途中，你需要巧妙地避开障碍，智胜狡猾的陷阱，并击
+- [英雄对怪物](../games/adventure/heros-vs-monster.md) — **英雄对怪物** 是一款令人兴奋的动作解谜游戏，你将扮演一位勇敢的英雄，与危险的怪物展开战斗。推动砖块击败敌人，合并相同方块以创造有用的道具，并解决巧妙的谜题来推进关卡。找到钥匙，解锁出口，完成每一关的挑战。凭借战略性玩法、创意机制和令人
+- [六边形之门逃脱](../games/adventure/hexgon-gate-escape.md) — 六边形之门逃脱是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
 - [隐藏物品：线索与谜题](../games/adventure/hidden-object-clues-and-mysteries.md) — 《隐藏物品：线索与谜题》将经典的隐藏物品游戏类型革新为一场引人入胜的冒险。沉浸于谜题、隐藏物品和未解之谜的世界。
 - [隐藏物品：我的酒店](../games/adventure/hidden-object-my-hotel.md) — 隐藏物品：我的酒店 – 一款趣味十足的隐藏物品游戏，你将帮助女主角重振她梦想中的酒店！买下这座老建筑后，她需要你的帮助来清理杂乱的房间，找到隐藏的物品，并重现酒店昔日的魅力。
 - [隐藏物品：秘密街](../games/adventure/hidden-object-street-of-secrets.md) — 《隐藏物品：秘密街道》是一款氛围独特的隐藏物品游戏，你将扮演首席侦探。一桩神秘案件正等待着你，而你睿智的助手将随时为你提供帮助，提示线索，引导你发现关键细节。
 - [隐藏物品：岛屿](../games/adventure/hidden-objects-island.md) — 踏入一个充满秘密和惊喜的世界，每个地点都讲述着一个故事。从宁静的海滩和静谧的日式花园，到神奇的飞行房屋和古朴的渔村，这款游戏将带你领略令人叹为观止的美景。探索并发现隐藏物品，解开谜题，收集珍稀宝藏，揭开每个场景背后的秘密！
+- [隐藏物品 夏日滑梯](../games/adventure/hidden-objects-tropical-slide.md) — 《隐藏物品 夏日滑梯》带你踏上异域冒险。在时间耗尽前找到屏幕上所有物品。共16个关卡，充满待清理的物品。
+- [躲藏与寻找恐怖逃脱](../games/adventure/hide-and-seek-horror-escape.md) — 躲藏与寻找：恐怖逃脱是一款非对称恐怖逃脱游戏。废弃的学校和闹鬼的医院中，隐藏着许多秘密和宝藏等你去发现。游戏中，你可以选择两种身份之一：躲藏或寻找？
 - [躲避学校](../games/adventure/hide-from-school.md) — 🏫《躲避校园》：一款融合了捉迷藏、逃脱和任务等热门游戏类型的免费在线游戏。帮助一位小学生逃离老师的追捕！
+- [山丘山谷逃脱](../games/adventure/hills-valley-escape.md) — 《山丘山谷逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [阻碍之地逃脱](../games/adventure/hinder-land-escape.md) — 《阻碍之地逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却发现自己被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [河马机场旅行](../games/adventure/hippo-airport-travel.md) — 河马的父亲中了彩票。让我们看看他赢得了什么。哇！这是一次神秘的旅程。
+- [击中与击倒](../games/adventure/hit-knockdown.md) — 奔跑途中拾取物品，这些物品会为你带来分数。跳上箱子以发现奖励。
+- [灰屋逃脱](../games/adventure/hoary-house-escape.md) — 《灰屋逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你被困在了一栋房子里，这里有着有趣的谜题和隐藏的物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！
+- [空洞骑士：丝之歌游戏](../games/adventure/hollow-knight-silksong-game.md) — 《空洞骑士：丝之歌》是一款全新的精彩空洞骑士游戏，也是一款免费的在线银河战士恶魔城冒险游戏。在这场史诗级的银河战士恶魔城动作游戏中，你可以挑战充满趣味的关卡，击败各种Boss，运用空洞骑士的能力和攻击技能进行斩杀与切割。体验最佳独立游戏，非
+- [家速通路径游戏](../games/adventure/home-rush-path-game.md) — 家速通路径游戏是一款有趣且令人兴奋的益智竞速游戏，玩家必须引导角色沿着正确的路径安全抵达家中。选择正确的路线，避开迷惑性的路径，并尽可能快速地完成每一关。游戏拥有色彩缤纷的视觉效果、流畅的操作体验、富有挑战性的路径设计以及简单的控制方式，上
+- [Homescapes](../games/adventure/homescapes.md) — 欢迎来到《Homescapes》！帮助管家奥斯汀让这座美妙的家族宅邸重新充满温暖与舒适。进来吧——从你踏入大门的那一刻起，冒险便已等待着你！这是一款冒险解谜游戏。一位中年男子的爱人被抢劫并囚禁在花园中，那里布满了复杂的陷阱。务必谨慎选择开启
+- [钩子大师 暴力城市](../games/adventure/hook-master-mafia-city.md) — 钩子大师：暴力城市是一款休闲益智游戏，融合了解谜、逃脱和收集元素。在这座危险的城市中，你需要用聪明的头脑解决谜题，并使用酷炫的钩爪和摆荡技巧，像特工一样灵活闪避、精准打击，成功逃脱敌人的追捕！
+- [跳跃大师](../games/adventure/hop-masters.md) — 在《跳跃大师》中，你必须点击左侧或右侧，以在平台移动、破裂甚至消失之前到达下一个平台！途中，你会找到装满各种可爱服装的宝箱和皮纳塔，用来装扮你的角色，还有令人惊叹的物品，可以装饰你的家园。
+- [Hoppy Stacky](../games/adventure/hoppy-stacky-2.md) — Hoppy Stacky 是一款有趣且令人上瘾的街机游戏，考验你的时机、精准度和专注力。通过简单的单击操作，游戏易于上手但难以精通。你的目标是将移动的方块完美地堆叠在一起。每一次准确的放置都会提升你的得分，但哪怕是一点点失误也会使你的堆叠缩
+- [跳房子生存](../games/adventure/hopscotch-survival.md) — 跳房子生存是一款可以在手机或智能平板上玩的在线游戏。发现这款令人着迷的新安卓游戏跳房子生存，专为手机和平板设备设计。随着鱿鱼游戏的节奏跳跃，体验更佳的乐趣。游戏充满激烈竞争，激发你的创造力。
+- [恐怖别墅逃脱](../games/adventure/horrid-villa-escape.md) — 《恐怖别墅逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你曾造访过一座可怕的别墅，结果被困在了里面。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [恐怖之眼逃脱](../games/adventure/horror-eyes-escape.md) — 踏入《恐怖之眼逃脱》这个令人毛骨悚然的恐怖世界，体验一场惊心动魄的恐怖冒险，过去永远无法安息。探索两个阴森可怖的地点——荒凉的停尸房和幽暗的学校，每个地方都充满了难以言喻的恐怖。遭遇一位复仇亡灵女性的不安灵魂，并躲避潜伏在阴影中的野蛮食人敌
+- [恐怖奶奶玩乐时间](../games/adventure/horror-granny-playtime.md) — 这是一款恐怖类在线躲藏与寻找游戏。如果你喜欢躲藏与寻找的刺激感，这款游戏非常适合你。作为搜寻方，你必须在规定时间内找到所有人。他们可能会变成场景中的物品来隐藏并迷惑你。如果你未能在规定时间内抓住所有人，游戏即告失败。如果找不到线索，你可以观
+- [恐怖万圣节](../games/adventure/horror-halloween.md) — 恐怖万圣节是一款你需要收集所有出现糖果的游戏。尽量多抓取饼干之间的糖果，同时始终避开藏在饼干之间的炸弹。如果炸弹击中你，游戏就结束了。如果你错过了三次饼干，游戏也会结束。
+- [恐怖之夜故事](../games/adventure/horror-nights-story.md) — 《恐怖之夜故事》是一款动作游戏，你需要逃离古老矿井中令人恐惧的深处！该游戏由罗斯特伊·卡拉克和美味空气游戏公司制作，游戏包含一个3D世界以及需要击败的恐怖怪物。在《恐怖之夜故事》中，你需要合理管理时间，一边挖掘逃生之路，一边在矿井中生存五夜
+- [恐怖游戏时间逃脱](../games/adventure/horror-playtime-room-escape.md) — 挑战你的大脑，突破恐怖的迷雾。在《恐怖游戏时间——房间逃脱》中，你将进入一个神秘的故事。你在一栋建筑的屋顶上与叶晨共度生日。突然，一位奇怪的女人出现，将你困在了一个可怕的房间里。进入充满谜题和恐怖的多个房间！运用你的智慧解开隐藏的线索，揭开
+- [恐怖学校侦探故事](../games/adventure/horror-school-detective-story.md) — 准备好进入一个充满惊吓和谜团的恐怖学校了吗？在《恐怖学校：侦探故事》中，你将扮演一位勇敢的侦探。解开层层叠叠发生在学校里的谜团。每个场景都紧张刺激，充满悬念与未知！选择场景的复杂程度，开启你的挑战吧。
+- [马离婚](../games/adventure/horse-divorce.md) — 马离婚是一款关于马匹相爱与分手的短小、超现实解谜游戏。玩家控制一匹拉长马的两半部分，克服彼此差异，穿越并移动障碍物。
+- [马匹救援](../games/adventure/horse-rescue.md) — 《马匹救援》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一个村庄，发现一匹马被猎人困在了屋子里。这里有有趣的谜题和隐藏的物品等待你去发现，帮助马匹逃离房屋。祝你好运……尽情享受吧！
+- [骑马求生](../games/adventure/horseback-survival.md) — 在《骑马求生》中开启一段生存之旅，你扮演的主角佐汉与你的马匹巴达尔有着不可分割的联系。你们同一天出生，当一场神秘事件使你陷入昏迷时，这种独特纽带便成为你的生命线。在被僵尸占领的世界中穿行，使用近战和远程攻击进行激烈战斗，通过保持隐蔽来智胜亡
+- [特兰西瓦尼亚酒店](../games/adventure/hotel-transylvani.md) — 通过迪拜Motiongate的《特兰西瓦尼亚酒店增强现实体验》，让《特兰西瓦尼亚酒店》世界中的您喜爱的角色栩栩如生！下载应用程序后，只需将手机对准Motiongate的《特兰西瓦尼亚酒店》景点附近或内部的增强现实（AR）标记。或者，您也可以
+- [危险之屋](../games/adventure/house-of-hazards.md) — 危险之屋是一款有趣的技巧游戏，你将在一间公寓中竞速完成各种任务，而你的对手会实时观察你并设置陷阱来击败你。避开如掉落的灯和摆动的橱柜等障碍物，完成所有目标并赢得本轮比赛。同时，通过在恰当的时机激活自己的陷阱，阻止对手完成他们的任务。每轮结束
+- [危险之家在线](../games/adventure/house-of-hazards-online.md) — 欢迎来到《危险之家》，这是一款有趣的多人游戏，每位玩家需要在家中完成各种任务，同时避开各种危险。你的朋友会何时绊倒你？你能相信这栋房子想要伤害你吗！健康与安全？这里一无所有。这里有不稳定的灯饰、突然喷水的水龙头，还有飞来的吐司片试图将你击倒
+- [Huggy Kissy 对战 Steve Alex](../games/adventure/huggy-kissy-vs-steve-alex.md) — Huggy 和 Kissy 在追 Steve 和 Alex，嘿，Alex 和 Steve 快跑，永远不要停下，否则它们会抓住你。如果你停下，它们就会抓住你，记得你需要收集3个药水，否则传送门无法形成，Huggy 和 Kissy 会抓住你。你
+- [Huggy Puzzle](../games/adventure/huggy-puzzle.md) — 完成三个不同的关卡，简单、中等和困难，可在手机和电脑上玩，祝你好运！
+- [Huggy Wuggy Play Time 3D 游戏](../games/adventure/huggy-wuggy-play-time-3d-game.md) — 这是一款街头战斗游戏，玩家扮演主角 Play Time，在名为 Huggy Wuggy Play Time 3D 游戏的动漫世界中与敌人展开对决。你必须击败众多敌人 Huggy，才能抵达最终关卡，与首领 Huggy Wuggy Play T
+- [绿巨人3D游戏](../games/adventure/hulk-3d-game.md) — 在这个绿巨人3D游戏中，你将扮演主角。你需要通过一系列关卡，面对越来越强大的敌人。随着你逐渐接近最终挑战——与最终Boss对决，紧张感不断升级。凭借你的技巧和策略克服每一个障碍，这是一次令人兴奋的体验。每取得一次胜利，你都会感到成就感和自豪
+- [蜂鸟屋逃脱](../games/adventure/hummingbird-house-escape.md) — 《蜂鸟屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。这里有着有趣的谜题和隐藏的物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！
+- [饥饿的熊救援](../games/adventure/hungry-bear-rescue.md) — 《饥饿的熊救援》是由8B Games/Games2Live开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的熊。这里有有趣的谜题和隐藏物品等待你去发现，以解救这只熊。祝你好运……尽情享受吧！
+- [饥饿的鱼进化](../games/adventure/hungry-fish-evolution.md) — 饥饿的鱼进化是一款免费的儿童在线游戏。一开始，你是一条普通的鱼，需要吃掉小鱼才能进化成大鱼。同时，你需要展现出卓越的躲避技巧，避开危险的大鱼，并避免自己的死亡。持续在游戏中获胜，吞噬面前的各种对手，成为最终的胜利者！
+- [猎人男孩逃脱](../games/adventure/hunter-boy-escape.md) — 《猎人男孩逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你计划和邻居男孩一起去打猎。于是你去了他家，却发现他被困在了屋子里。寻找一些隐藏的物品，解开有趣的谜题，逃离猎人男孩的屋子。祝你好运……玩得开心！
+- [小屋村庄逃脱](../games/adventure/hut-village-escape.md) — 《小屋村庄逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离村庄。祝你好运……尽情享受吧！
 - [我是疯狂的鸟](../games/adventure/i-am-crazy-bird.md) — 化身为鸟儿！化身无畏的城市飞鸟，在开放世界中尽情释放你的狂野力量。自由翱翔，施展各种疯狂特技，偷取食物，使用意想不到的武器，探索屋顶和街道，完成任务，成为真正的都市传奇。在这款沙盒冒险游戏中，每一次飞行都充满欢笑、惊喜和绝对的自由。
+- [冒牌者谜题 1](../games/adventure/i-mpostor-puzzle-1.md) — 完成三个不同的关卡，简单、中等和困难难度均可在手机和电脑上游玩，祝你好运！
+- [iBullet Master](../games/adventure/ibullet-master.md) — 是时候拯救世界了！如果你选择接受任务：摧毁恐怖分子基地。少说多打！你是否有能力击溃敌人并顺利抵达终点？奔跑。射击。掩护。采取行动！反击恐怖分子，将他们彻底击碎！Bullet Master 特色：- 视觉震撼的3D图形和酷炫动画 - 数千个激
+- [冰霜尖叫恐怖冒险](../games/adventure/ice-scream-horror-adventure.md) — 冰淇淋小贩来到社区了！他绑架了你的朋友和邻居「鲍勃」，而你亲眼目睹了一切。他用某种力量将你最好的朋友冻住了，你必须揭开这一切的真相。如果这个故事背后还有更多像他一样的孩子呢？这位可怕的冰淇淋小贩名叫罗德，他对年幼的孩子看起来非常友好，但他对
+- [冰淇淋恐怖邻里](../games/adventure/icescream-horror-neighborhood.md) — 冰淇淋小贩来到这个街区了！他绑架了你的朋友和邻居查理，而你亲眼目睹了一切……他用某种超能力将你最好的朋友冻住，并把他带到了某个地方，乘坐他的货车。你的朋友失踪了，更糟糕的是……如果还有其他像他一样的孩子呢？
+- [冰法师冒险DX](../games/adventure/icewizard-adventure-dx.md) — 冰法师冒险是一款平台动作冒险游戏，探索20个关卡，摧毁邪恶势力，击败Boss并获取水晶以解锁下一关。
+- [闲置岛](../games/adventure/idle-island.md) — 是时候开启冒险了！收集资源，建造桥梁，探索岛屿并赢得战斗。出发去解救被反派抓住的公主吧！
+- [闲置伐木英雄](../games/adventure/idle-lumber-hero.md) — 沿着木材的路径前进，尽可能多地砍伐！将木材卖给市场，购买新的升级来加快你的伐木速度。
+- [闲置矿工冒险](../games/adventure/idle-miners-adventure.md) — 拿起你的第一把木制镐，开始挖掘资源，开启矿井的新层级并挖掘更稀有的资源，打造更强大的镐子，最终找到最稀有的资源——钻石。
 - [3D 冒名顶替者在线恐怖游戏](../games/adventure/imposter-3d-online-horror.md) — 在单人或在线模式下，从叛徒手中救出所有迷你船员。
+- [冒名顶替者击杀  Among Us](../games/adventure/impostor-kill-among-us.md) — 冒名顶替者单人击杀是一款有趣且引人入胜的解谜游戏。你的任务很简单：消灭飞船中所有存活的船员。不要让任何人幸存。
+- [Incredibox Party 冰冻 Sprunki 节奏](../games/adventure/incredibox-party-frozen-sprunki-beat.md) — 准备好沉浸在这场音乐、恐怖与节奏的独特融合之中吧！在《Incredibox Party 冰冻 Sprunki 节奏》中，你可以通过结合诡异的声音与令人毛骨悚然的视觉效果，创造出既阴森又富有节奏感的旋律。
+- [婴儿黑猩猩逃脱](../games/adventure/infant-chimp-escape.md) — 《婴儿黑猩猩逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困住的婴儿黑猩猩。寻找一些隐藏物品，解开一些有趣的谜题，逃离婴儿黑猩猩所在的环境。祝你好运……尽情享受吧！
+- [无限色彩轮](../games/adventure/infinite-color-wheel.md) — 无限色彩轮是一款简单、有趣且令人上瘾的单触游戏，包含5种不同的色彩轮片，多种色彩主题以及多种主题的指针箭头。你需要在指针颜色与指向的轮片颜色匹配时点击屏幕。你认为自己反应快、有耐心且反应灵敏吗？来试试疯狂的无限色彩轮游戏吧！这款游戏旨在考验
+- [无限滚动 3D](../games/adventure/infinity-roll-3d.md) — 无限滚动 3D 是一款快节奏的无尽滚动冒险游戏，考验你的反应能力和专注力！控制一个滚动的球，在未来风格的 3D 赛道上疾驰，速度永不停歇。你的任务很简单：在恰当的时机点击或轻触，完成完美转弯，收集钻石，并不断刷新你的分数！流畅的操作、动态的
+- [暴躁女孩逃脱](../games/adventure/irascible-girl-escape.md) — 《暴躁女孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去一个女孩的家里和她一起玩耍。当她在玩耍时，突然生气了，把房间的门锁上了。寻找一些隐藏物品，解开一些有趣的谜题，逃离这位暴躁的女孩。祝你好运……玩得开心！
+- [愤怒男孩逃脱](../games/adventure/irate-boy-escape.md) — 《愤怒男孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，一个男孩邀请你去他家玩耍。当你和他一起玩的时候，他突然发怒，把自己锁在了房间里。找出一些隐藏物品，解开有趣的谜题，逃离这个愤怒男孩的房间。祝你好运……尽情享受吧！
 - [岛屿逃脱](../games/adventure/island-escape.md) — 《岛屿逃脱》是由Games2Live开发的一款点击式游戏。想象一下，你曾到过一个岛屿；在那里，你被困在了岛上。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离岛屿。祝你好运……尽情享受吧！
+- [海岛逃脱2](../games/adventure/island-escape-2.md) — 《海岛逃脱2》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾前往一座岛屿，却意外被困在了岛上。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离这座岛屿。祝你好运……尽情享受吧！
+- [岛屿巨魔部落](../games/adventure/island-troll-tribes.md) — 在这个美丽的世界中建造属于你自己的热带岛屿。现在你将不得不找到一种方式在这款免费游戏中生存！
+- [可能发生：访客](../games/adventure/it-can-happen-visitors.md) — 你从一场漫长的睡眠中醒来，发现你的房子里满是小绿人。调查发生了什么，以恢复正常状态。
 - [它潜伏着](../games/adventure/it-lurks.md) — 你独自一人待在家中。外面有东西。一种奇怪的病毒在动物间传播，将它们变成了可怕的生物。现在，你必须在晚上10点到早上7点之间，守卫你的家，熬过这8个夜晚。
+- [艾薇巧克力蛋糕逃脱](../games/adventure/ivy-choco-cake-escape.md) — 《艾薇巧克力蛋糕逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你被艾薇邀请去品尝她亲手制作的巧克力蛋糕，于是你前往她的住所。然而，她被困在了自己家的一间房间里。寻找一些隐藏物品，解开有趣的谜题，逃离艾薇的房间并品尝那块美味的巧
+- [越狱逃脱](../games/adventure/jail-break-escape.md) — 《越狱逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你被困在了监狱里。有人留下了一些线索和物品来帮助你。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃脱监狱。祝你好运……尽情享受吧！
+- [逃离停车场](../games/adventure/jam-escape.md) — Parking Guru 是一款令人上瘾的停车解谜游戏，你需要重新排列车辆，为红色汽车腾出一条逃生通道。如果你喜欢经典的 Rush Hour 棋盘游戏，这款游戏会立刻吸引你！适合各种技能水平的关卡：从简单的移动到令人费解的脑力挑战。多样的车
+- [JellyFace34](../games/adventure/jellyface34.md) — 方块拼图是一款宝石风格的方块游戏。方块拼图非常简单且极具上瘾性。击碎更多的宝石方块，获得更高的分数。当宝石粒子在屏幕上飞溅时，你一定会爱上这款宝石风格的拼图游戏。方块拼图特色：. 美丽的宝石方块 . 四种令人上瘾的游戏模式 . 有趣的音效和
 - [宝石爆破者](../games/adventure/jewel-blaster.md) — 潜入闪耀的宝石爆破者世界，这是一款趣味十足且令人上瘾的HTML5益智游戏，策略与刺激完美结合！你的任务是匹配三个或更多相同颜色的璀璨宝石，将它们从棋盘上炸掉，获得分数，并解锁新的挑战。每一步都需要玩家深思熟虑，以创造强力组合，触发连锁反应，
+- [Jhan the Duck](../games/adventure/jhan-the-duck.md) — 在广阔海洋的岛屿上，认识我们的朋友Jhan，看他如何克服重重挑战，经历激动人心的时刻！
 - [吉姆的世界：冒险游戏](../games/adventure/jim-s-world-adventure-games.md) — 《吉姆的世界》带你重温童年时光，体验冒险游戏《公主营救》的传奇挑战。这款全新的复古跑酷游戏拥有精心设计的关卡、种类繁多的敌人、超级Boss、简单易上手的玩法、精美的画面以及舒缓的音乐和音效。
+- [铃铛喷射背包](../games/adventure/jingle-jetpack.md) — 最激动人心的动作游戏再次回归，帮助圣诞老人送达所有礼物。系上子弹驱动的喷射背包，躲避激光、电场以及迎面而来的所有导弹。你必须活着逃离！收集金币，购买新的能力升级和皮肤，以达到更高的分数，并将圣诞节送到全世界
+- [诅咒村庄逃脱](../games/adventure/jinxed-village-escape.md) — 诅咒村庄逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你为了研究目的前往一个村庄，却被困在了这个恐怖的村庄里。现在这里有有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [逃离之旅](../games/adventure/journey-of-escape.md) — 逃脱游戏一直是解谜爱好者和冒险追求者中广受欢迎的类型。它们挑战玩家进行批判性思考，解决复杂的谜题，并在与时间赛跑的过程中揭开隐藏的秘密。《逃离之旅》是一款沉浸式的逃脱游戏合集，旨在考验你的智慧
+- [Joyance 男孩逃脱](../games/adventure/joyance-boy-escape.md) — Joyance 男孩逃脱是一款由8BGames开发的点击式逃脱游戏。想象一下，你作为一名保姆去了一位男孩的家中。当你和他玩耍时，他感到快乐并开始奔跑，结果被困在了一个房间里。寻找一些隐藏物品，解开有趣的谜题，逃离Joyance男孩所在的房间
+- [Joyance女孩逃脱](../games/adventure/joyance-girl-escape.md) — 《Joyance女孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去Joyance女孩的家和她一起玩耍。当你到达那里时，她被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离Joyance女孩的房间。祝你好运……玩得开
+- [欢乐男孩逃脱](../games/adventure/joyous-boy-escape.md) — 欢乐男孩逃脱是一款由8BGames开发的点击式逃脱游戏。想象一下，一个欢乐的男孩被困在这所房子里。你的任务是将他救出来。寻找一些隐藏物品，解开有趣的谜题，逃离欢乐男孩所在的房间。祝你好运……尽情享受吧！
+- [榨汁机逃脱](../games/adventure/juicer-escape.md) — 《榨汁机逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去你的榨汁机房子，打算带他去酒吧。当你到达那里时，他被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离榨汁机。祝你好运……玩得开心！
+- [跳跃男孩跳跃](../games/adventure/jump-boy-jump.md) — 跳过障碍物，尝试获得最高分数！
+- [Jump Up 游戏](../games/adventure/jump-up-game.md) — Jump Up 是一款有趣且富有挑战性的 2D 平台游戏，你将控制一名玩家穿越充满敌人和危险障碍的精彩关卡。使用 WASD 键移动，按下空格键跳跃以越过障碍、避开陷阱并抵御敌人的攻击。通过快速反应和精准时机，抵达下一个检查点并完成关卡。测试
+- [Jumpero](../games/adventure/jumpero.md) — Jumpero 绝对是一款令人着迷的跳跃类休闲游戏。你是否曾梦想过摆脱重力影响，跳到足以跃过高墙的高度？今天，在我们的虚拟世界中，你的梦想将变为现实。你拥有这种非凡的跳跃能力，似乎没有任何障碍能阻挡你前进的步伐。勇敢地去追逐你的荣耀吧！
+- [跳跃猫（测试版）](../games/adventure/jumping-cat-beta.md) — 你是一只猫，必须从老鼠手中拯救自己：通过触摸屏操作，跳跃、双重跳跃和滑行。挑战你的最高分，这是该游戏的测试版本。我将每隔两周或一个月更新一次这个游戏。
+- [丛林攀爬者](../games/adventure/jungle-climber.md) — 抓住藤蔓，尽可能往上爬！在《丛林攀爬者》中，你控制一只小猴子，坚持不懈地向上攀爬，而危险则从上方不断袭来——岩石、冰锥、火球等等，具体取决于你正在攀登的哪个世界。丛林、熔岩洞穴、雪峰、蘑菇森林以及更多地点等待着你去征服。抓住香蕉以获得第二次
+- [丛林人逃脱](../games/adventure/jungle-man-escape.md) — "丛林人逃脱是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一位被困在丛林中的男子。这里有有趣的谜题和隐藏的物品等待你去发现，以解救这位丛林人。祝你好运……尽情享受吧！"
+- [丛林乌龟逃脱](../games/adventure/jungle-tortoise-escape.md) — 《丛林乌龟逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到一个地方，发现一只丛林乌龟被困住了。寻找一些隐藏物品，解开有趣的谜题，逃离丛林乌龟的困境。祝你好运……尽情享受！
+- [侏罗纪小孩蛇颈龙逃脱](../games/adventure/jurassic-kid-plesiosaur-escape.md) — 《侏罗纪小孩蛇颈龙逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你来到了侏罗纪之家，发现那里困着一个蛇颈龙小孩，你需要找到一些隐藏物品，解开一些有趣的谜题，最终找到侏罗纪小孩蛇颈龙。祝你好运……尽情享受吧！
+- [Kaboom Maze](../games/adventure/kaboom-maze.md) — 这是一款必须解开迷宫的炸弹，它可以通过爆炸摧毁墙壁，但会失去生命
+- [武士刀水果切切乐](../games/adventure/katana-fruits-cutting-fun.md) — 欢迎来到道场，忍者。你的目标：成为切水果的大师！还有比玩《水果忍者》——这款经典的切水果手机游戏——更好的方法吗？
+- [Kicky House Escape](../games/adventure/kicky-house-escape.md) — Kicky House Escape 是由 8B Games/Games2Mad 开发的一款点击式逃脱游戏。想象一下，你曾去过一栋房子，结果被困在了里面。现在这里有有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [儿童逃脱](../games/adventure/kid-escape.md) — 《儿童逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一个被困的小孩。这里有有趣的谜题和隐藏的物品等待你去发现，以救出这个孩子。祝你好运……尽情享受吧！
+- [儿童房逃脱](../games/adventure/kids-house-escape.md) — 《儿童房逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你进入了一栋房子，却意外被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以成功逃脱房子。祝你好运……尽情享受吧！
+- [消灭怪物](../games/adventure/kill-the-monster.md) — 1. 游戲玩法也非常解壓，這裡可以製作更多食物；2. 遊戲中有許多關卡，你可以慢慢挑戰並完成更多任務；3. 可以收集各種物品來通過更多關卡；
+- [金正恩后室](../games/adventure/kim-jong-un-backrooms.md) — 《金正恩后室》是一款充满悬念的恐怖冒险游戏，你必须逃离一个无尽的诡异黄色走廊迷宫。被困在神秘的后室中，每一条走廊看起来都一模一样——但总有什么东西在注视着你。探索黑暗的通道，寻找钥匙，解开谜题，并避开可怕的遭遇，努力求生。保持安静，快速思考
 - [海盗王](../games/adventure/king-of-pirate.md) — 试试扮演勇敢的海盗，击退敌方僵尸的进攻！🧟
 - [小猫永不消亡](../games/adventure/kitten-never-dies.md) — 加入这场跨次元冒险，帮助一只迷路的小猫找到回家的路！在每个次元中解决独一无二的挑战。可爱、机智、充满惊喜——你准备好接受挑战了吗？立即畅玩，测试你的解谜能力！
+- [小猫格迪翁护甲](../games/adventure/kitty-griddion-gauntlet.md) — 扮演一只被困在狗狗格迪翁护甲游戏中的小猫。通过点击并移动鼠标来操控猫咪。尽量避开冲过来的狗！收集道具，尽可能长时间生存下去！尝试解锁每一只猫咪并和它们一起玩耍！
+- [悬崖](../games/adventure/klifur.md) — 一款柔软物理谜题游戏。点击并拖动你的手和脚，以到达目标位置。在12个关卡中抵达顶端，然后击败开发者的最佳路线，每个关卡获得一颗星。
+- [刀刃冲刺](../games/adventure/knife-dash.md) — 闲置刀刃：切水果是一款全新的超休闲闲置游戏，拥有独特设计！你可以将刀刃投掷到水果、披萨、甜甜圈等物品上，将它们切成小块。《闲置刀刃：切水果》并非普通的无尽闲置点击游戏。你可以升级以自动发射刀刃，或手动点击投掷，或使用加速道具。《闲置刀刃：切
+- [刀刃向上](../games/adventure/knife-up.md) — 让我们踏上刀忍大师中充满冒险的木板破裂之旅。用刀击打旋转的水果板，直到它碎成碎片。木板上可能已经有一些刀具。成为一名专业的切割高手，将它彻底切开！不要击中那把刀，否则会失败。成为一位无论多难都能劈开原木的战士。不要让两把刀叠在一起。立即把锋
+- [为爱而战的骑士](../games/adventure/knight-for-love.md) — 骑士必须拯救他的爱人——公主。现在你将操控骑士攻入城堡，收集金币以升级武器和装备。点击并轻触屏幕来移动和更新。
+- [Koby 跳跃逃脱](../games/adventure/koby-jump-escape.md) — Koby 跳跃逃脱是一款出色的 HTML5 平台游戏。帮助 Koby 逃离监狱。在每一关中，你需要收集 3 个钱袋才能打开门。这座监狱共有 13 个关卡。祝你好运！
+- [科菲冒险](../games/adventure/kofi-adventure.md) — 帮助科菲完成危险的冒险，拯救梦之国的公主
+- [Kong英雄 超级金刚跳跃2020](../games/adventure/kong-hero-super-kong-jump-2020.md) — 在《超级金刚跳跃：猴兄弟与香蕉森林传说》中，你将扮演莫诺，他必须克服障碍并击败敌人，以找到他的兄弟并拯救世界。通过令人兴奋的关卡跳跃和奔跑，探索充满藏身之处的壮丽地点。来自外太空的巨大入侵者来到地球，企图征服地球，传播腐败，并奴役地球上的动
+- [实验室破坏者](../games/adventure/labbuster.md) — 实验室内部已经陷入混乱！在《实验室破坏者》中，危险的生物正在突破束缚，唯有你的战斗技巧才能阻止它们。拿起武器，踏入不间断的动作场面，迎接一波又一波激烈的战斗挑战，在这款节奏快速的射击冒险游戏中生存下来。
+- [劳动节逃脱](../games/adventure/labor-day-escape.md) — AmgelEscape - Amgel 劳动节逃脱是 Amgel Escape 开发的另一款点击式逃脱游戏。在这款游戏中，你被困在一个儿童房里，必须通过寻找物品和解决谜题来尝试逃离儿童房。展示你最出色的逃脱技巧，成功逃离儿童房。你能否成功逃
+- [湖景逃离](../games/adventure/lake-view-escape.md) — 湖景逃离是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却发现自己被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [陆地地形逃脱](../games/adventure/land-terrain-escape.md) — 《陆地地形逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个陆地，却被困在了那里。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离这片陆地。祝你好运……尽情享受吧！
+- [激光与果冻](../games/adventure/lasers-and-slime.md) — 生存并抵御激光和果冻，这是一款考验你反应力的紧张游戏！每一刻，每一秒，难度都会逐渐增加！注意：在这里站着不动是不可行的！
 - [昨夜！](../games/adventure/last-night.md) — 一款剧情向游戏，讲述一位油管博主努力争取获得金牌播放按钮，但他的电脑却发生了奇怪的事情，他想参与一项调查？
+- [薰衣草之地逃脱](../games/adventure/lavender-land-escape.md) — 《薰衣草之地逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你曾前往一片薰衣草之地，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离这片土地。祝你好运……尽情享受吧！
+- [懒散GTO 6](../games/adventure/lazy-gto-6.md) — 踏入懒散GTO 6那混乱而悠闲的街道——一个开放世界的沙盒冒险，你可以步行、驾车或骑车穿越一座充满生机与恶作剧的繁华城市。无论你是驾驶跑车巡航、骑上摩托车，还是只是徒步漫游，自由尽在掌握。探索一个巨大的都市游乐场，充满无限可能——偷窃车辆、
+- [莉亚的逃离](../games/adventure/lea-land-escape.md) — 《莉亚的逃离》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [学习农场动物](../games/adventure/learning-farm-animals.md) — 你可以学习农场动物，了解它们的英文名称拼写，与它们互动，玩与它们相关的游戏，例如拼图游戏，并可以给它们最喜欢的美食。非常适合儿童通过有趣的图片和简单的操作方法来认识动物。游戏包含：1. 通过声音和动画学习农场动物名称。2. 农场动物拼图游戏
+- [剩菜](../games/adventure/leftovers.md) — 你妈妈正在做晚饭。看到剩下的食物太多，她不想浪费，于是把分发这些剩菜给邻居的任务交给了你。在《剩菜》中，你妈妈让你把多余的饭菜送给邻居，因为她实在不忍心把这些食物扔掉。尽管她一直告诫你不要和陌生人说话，但她还是把你派去和最诡异的陌生人交谈。
+- [LEG 拉伸 数字马戏团 3](../games/adventure/leg-stretch-digital-circus-3.md) — LEG 拉伸 挑战！《神奇数字马戏团》拉伸这个傻乎乎的角色，通过解决各种谜题来完成这款有趣的在线游戏。利用物理特性，将主角拉伸以攀爬并达到每关的目标。不断拉伸，直到解开所有不同的谜题。
+- [传奇骑士：寻宝之旅](../games/adventure/legendary-knight-in-search-of-treasures.md) — 一位传奇骑士正在寻找失落的远古宝藏，该宝藏被分割成四块地图碎片，散落在充满危险的地下城中。他必须与敌人战斗并躲避陷阱，才能找到每一块碎片。第一个区域是一座山城，由史莱姆和蜘蛛守护着第一块碎片。接着，进入一个黑暗洞穴，里面布满蝙蝠和各种诡计，
+- [莱斯冒险布林](../games/adventure/les-adventures-blin.md) — 尝试帮助森林里的动物和外星人。找到40颗钻石并逃出去！玩得开心！
+- [让我出去 EP 01](../games/adventure/let-me-out-ep-01.md) — 环顾四周，寻找可以帮你解开其他谜题的物品。寻找线索，并逐一解决每个谜题。你能否成功逃脱房间？
+- [字母球](../games/adventure/letter-ball.md) — 这款令人上瘾的冒险游戏《字母球》充满趣味、简单的操作、令人惊叹的谜题以及有趣的脑力训练！你控制小球，击打字母以组成单词。你的任务是按正确顺序收集单词。每一关都比前一关更具挑战性，因为你需要付出努力才能获得必要的物品。跳跃、滚动并避开障碍物。
 - [生死忍者](../games/adventure/life-and-death-ninja.md) — 鼠标控制让忍者攀爬，避开陷阱，并看看你能得到多少分
+- [救生圈滑行](../games/adventure/lifebuoy-planing.md) — 救生圈滑行是一款街机风格的动作游戏，你将化身一个会飞的救生圈。在快速曲折的滑道上滑行，积累速度，并在终点跃入开放水域。动量、角度和时机决定了你在波浪上飞行的距离和效果。完成惊险的起跳，避开障碍物，掌握每条滑道的布局。简单的操作搭配基于技巧的
 - [生命密码](../games/adventure/lifecode.md) — 游戏剧情
+- [点亮它 - 忍者跳跃](../games/adventure/light-it-up-ninja-jump-up.md) — 《点亮它》游戏设计精美，充满爱心！在不同霓虹色彩的形状之间摆动、跳跃、翻转和滑行，让它们发光，点亮《点亮它 - 忍者跳跃》。《点亮它》特色：- 多个关卡 - 高画质 - 多种特效 - 最佳消遣 - 超休闲游戏 在最棒的棍子人跳跃游戏中，跳跃
+- [光速英雄救援任务](../games/adventure/light-speed-hero-rescue-mission.md) — 想要玩一些超级英雄游戏的话，试试这款超级闪速英雄游戏《超级闪速之星：惊人的飞行速度英雄》，体验惊险刺激的惊人闪速英雄小队城市联盟战争。这是超级英雄与王国联盟敌人的英勇战斗战争。现在就来玩这款正义超级英雄闪速游戏，完美融合了所有速度英雄、飞行
+- [薰衣草屋逃脱](../games/adventure/lilac-house-escape.md) — 《薰衣草屋逃脱》是8B Games/Games2Mad开发的另一款点击式逃脱游戏。想象一下，你被困在这间屋子里，这间房子的主人热爱薰衣草植物，你可以找到有用的物品和有趣的线索符号来解开谜题，最终从薰衣草屋中逃脱。祝你好运，玩得开心！
+- [狮子逃脱](../games/adventure/lion-escape.md) — 《狮子逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到一个地方，在那里发现一只狮子被困在其中。寻找一些隐藏物品，解开一些有趣的谜题，逃离狮子的追捕。祝你好运……玩得开心！
+- [小老板宝宝逃脱](../games/adventure/little-bossbaby-escape.md) — 《小老板宝宝逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去一栋房子和小老板宝宝玩耍。当你到达那里时，他被困在这栋房子里。寻找一些隐藏物品，解开一些有趣的线索，从而逃离这个小宝宝。祝你好运……尽情享受吧！
+- [小恐龙归来 2023](../games/adventure/little-dino-returns-2023.md) — 加入小恐龙的精彩冒险，他在全新游戏《小恐龙冒险归来 2023》中重返舞台！这款可爱的2D平台游戏提供激动人心且富有挑战性的体验，包含6个充满活力的关卡，将考验你的技巧。踏上色彩斑斓的旅程，穿越恐惧山谷，我们的小小英雄将遭遇各种障碍和挑战。你
+- [小花园逃脱](../games/adventure/little-garden-escape.md) — 《小花园逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾去到一个花园，却意外被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离花园。祝你好运……尽情享受吧！
+- [小哈姆莱特逃脱](../games/adventure/little-hamlet-escape.md) — 小哈姆莱特逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你曾和家人一起去一个村庄度假，享受乐趣。结果你和家人被困在了村庄里。现在，这里有着有趣的谜题和隐藏的物品，你需要与家人一起找到逃脱的方法。祝你好运……尽情
+- [小屋逃脱](../games/adventure/little-house-escape.md) — 《小屋逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [小美人鱼爱丽尔逃脱](../games/adventure/little-mermaid-arial-escape.md) — 小美人鱼爱丽尔逃脱是一款由8BGames开发的点击式逃脱游戏。想象一下，你去看了小美人鱼爱丽尔，却发现她被困在那所房子里，你需要寻找一些隐藏物品，解开一些有趣的线索，找到人鱼爱丽尔。祝你好运……尽情享受吧！
+- [小怪物逃脱](../games/adventure/little-monster-escape.md) — 《小怪物逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你在农场房子里发现了一只小怪物。你正准备把这只小怪物带到森林里去。不幸的是，小怪物被困在了一个房间里。寻找一些隐藏物品，解开一些有趣的谜题，逃离小怪物的房间。祝你好运……尽
+- [小木偶皮诺曹逃脱](../games/adventure/little-pinocchio-escape.md) — 《小木偶皮诺曹逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往皮诺曹的家看望小皮诺曹，却发现他被困在屋内，你需要寻找一些隐藏物品，解开一些有趣的线索，找到小皮诺曹。祝你好运……尽情享受吧！
+- [小公主魔法故事 - 女孩游戏](../games/adventure/little-princess-magical-tale-girl-game.md) — 在寻找女孩的公主游戏吗？让我们一起玩适合5到7岁及以上的女孩的儿童游戏吧！免费成为童话冒险的一部分！将会有很多陷阱，肯定会很危险！
+- [Live Aqua Hero Adventure](../games/adventure/live-aqua-hero-adventure.md) — 这不仅仅是一次逃脱计划，让你一次逃离并获得自由；它关乎真正的海洋英雄，他对抗黑暗混乱中的水下国度以及怪物之王，以证明自己是一位真正非凡的英雄。
+- [龙虾跳跃冒险](../games/adventure/lobster-jump-adventure.md) — 龙虾跳跃冒险是一款适合所有年龄段的趣味跳跃游戏。游戏目标很简单，就是尽可能长时间地留在屏幕上。跳到水母身上，尽可能多地吃红色小鱼。远离屏幕的上下边缘。尽情享受游戏乐趣。
 - [被锁在奶奶的地下室2：复仇 - 恐怖逃脱](../games/adventure/locked-in-grandma-s-basement-2-revenge-horror-escape.md) — 《奶奶的地下室2：复仇 - 恐怖逃脱》是经典点击式恐怖游戏的惊悚续作。
+- [高耸的房屋逃脱](../games/adventure/lofty-house-escape.md) — 《高耸的房屋逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你进入了一栋房子，却意外被困在了里面。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受吧！
+- [长发女孩](../games/adventure/long-haired-girl.md) — 1. 游戏中的图片也非常简单，为您带来非常舒适的遊戲環境；2. 在關卡中，您需要收集更多的頭髮。頭髮越長，獲得的分數越多；3. 遊戲方式也非常簡單。玩家只需點擊屏幕即可操作；
 - [环维瓦尔](../games/adventure/loopvival.md) — 《Loopvival》是一款氛围独特的生存游戏，融合了roguelite元素，其核心机制是循环。
 - [宝藏岛 - 寻宝者](../games/adventure/loot-island-treasure-digger.md) — 开启一段激动人心的寻宝之旅！沉浸于迷人的风景之中，寻找十字架，挖掘珍贵的宝物。将战利品装进背包，并在令人着迷的俄罗斯方块式拼图游戏中堆叠起来。准备好体验这款融合了策略挖掘和刺激宝物堆叠的游戏吧！
 - [洛林冒险](../games/adventure/lorin-adventure.md) — 《洛林冒险》是一款以无尽连击和引人入胜的英雄故事为核心的刺激动作角色扮演游戏。玩家将踏上史诗般的征程，运用简单却极具动感的连击，击败魔王卡奥斯及其三位恶魔。
+- [迷失冒险 新](../games/adventure/lost-adventure-new.md) — 一次空中相撞的幸存者发现自己置身于一个神秘的土地。飞行员在制作、采矿和解谜的过程中，不懈努力地拯救被困在荒野草丛中各个岛屿上的乘客。他们能否克服挑战，重聚并逃离这个神秘领域，在潜伏于荒野中的未知危险吞噬所有人之前成功逃脱？在飞机失事后，踏上
+- [迷失森林逃脱](../games/adventure/lost-in-forest-escape.md) — 《迷失森林逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你曾前往一片森林，却在其中被困。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [迷路的小猫回家](../games/adventure/lost-kitty-go-home.md) — 移动箱子来救小猫，并帮助她找到回家的路。祝你好运！
 - [恋爱购物跑](../games/adventure/love-shopping-run.md) — 快来加入恋爱购物跑，体验疯狂的购物跑酷冒险。在这个快节奏的街机游戏中，你将穿梭于繁忙的街道和激动人心的商场之间。不断奔跑，收集金钱购买漂亮服装。选择美丽的连衣裙、发型和鞋子，打造迷人形象，吸引更多粉丝。
+- [可爱的房屋逃脱](../games/adventure/lovely-house-escape.md) — 想象一下，你被困在了一栋房子里。这里有有趣的谜题和隐藏的物品等待你去发现并逃离这栋房子。
+- [清醒之屋逃脱](../games/adventure/lucid-house-escape.md) — 《清醒之屋逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你进入了一栋房子，却发现自己被困在了里面。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受吧！
+- [幸运掠夺者](../games/adventure/lucky-looter.md) — 幸运掠夺者是一款酷炫的3D潜行游戏。这类游戏稍微有点难度，你需要小心避开那些「视野范围」才能安全进入。进出时要保持耐心。随着关卡的发展，难度会越来越大。祝你在游戏《幸运掠夺者》中能偷到更多宝藏！
+- [幸运掠夺者2](../games/adventure/lucky-looter-2.md) — 幸运掠夺者是一款全新的令人上瘾的3D游戏，拥有丰富多彩的环境和数小时的游戏玩法！动作迅速且谨慎，夺取大量战利品！留意巡逻的警察，成为盗贼之王！如何玩：- 在屏幕上用手指拖动以移动你的盗贼！- 松开手指以躲进箱子！- 别被警察抓住！特色：- 
+- [幸运掠夺者游戏](../games/adventure/lucky-looter-game.md) — 幸运掠夺者是一款您可以在 Superkidgames.com 上免费在网页浏览器中游玩的趣味游戏。丰富多彩的环境和数小时的游戏时间！动作迅速且谨慎，抢夺大量战利品！留意巡逻的警员，成为盗贼之王！
+- [Ludo Memory](../games/adventure/ludo-memory.md) — Ludo Memory：拼图是一款全新的匹配游戏。轻松且易于上手。你只需将骰子放置在由5×5方块组成的拼图板上，使三个或更多相同数字的骰子连成一线。游戏简单但依然具有挑战性，需要策略性操作。在消磨时间的同时锻炼大脑。可变的图形风格和强大的道
+- [原木奔逃](../games/adventure/lumber-run.md) — 欢迎来到原木奔逃！砍伐树木，切割木材，现在就横跨河流吧！用斧头砍倒树木，将其转化为木板，然后横跨河流。你走得越远，需要砍伐的树木就越昂贵。第一个到达终点的人将赢得本关。
 - [露娜与魔法迷宫](../games/adventure/luna-and-the-magic-maze.md) — 在《露娜与魔法迷宫》中，加入露娜的奇幻冒险，探索神秘的秋日森林。解开迷宫，收集魔法物品，揭开秘密。每个关卡都充满新鲜挑战，证明意志力与魔法一样强大，无论你是在手机上还是电脑上玩。
+- [露娜基蒂屋 逃脱](../games/adventure/luna-kitty-house-escape.md) — 《露娜基蒂屋 逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到一座房子，而露娜基蒂被困在里面了。这里有着有趣的谜题和隐藏的物品等待你去发现，快来救出这只基蒂吧！祝你好运……尽情享受吧！
+- [茂密之地逃脱](../games/adventure/lush-land-escape.md) — 《茂密之地逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
+- [鹦鹉情侣逃脱](../games/adventure/macaw-couple-escape.md) — 《鹦鹉情侣逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾去过一个农场；在那儿，一只鹦鹉被困在了农场里。这里有许多有趣的谜题和隐藏物品需要寻找，以帮助鹦鹉逃脱。祝你好运……尽情享受吧！
+- [疯狂科学家](../games/adventure/mad-scien.md) — 原子武器研究机构的科学家们正在试验新的核能来源，结果研制出了这些高度放射性的弹珠，当它们到达发射管末端时会引发强大的连锁反应。然而，进一步的研究表明，这种武器设计不可行，因为弹珠会过早爆炸，甚至可能炸毁整栋建筑。
+- [马达加斯加国王朱利安十三世逃脱](../games/adventure/madagascar-king-julien-xiii-escape.md) — 《马达加斯加国王朱利安十三世逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去拜访马达加斯加的狐猴国王朱利安十三世，却发现他被困在那所房子里，你需要寻找一些隐藏物品，解开有趣的谜题，找到马达加斯加狐猴国王朱利安十三世。祝你好运
+- [疯狂加速器](../games/adventure/madness-accelerant.md) — 疯狂加速器是一款快节奏的动作游戏，玩家需要击败敌人并逃离怪兽。这款游戏是Krinkel的《疯狂恐慌》的可玩重制版。
 - [疯狂：第六病房](../games/adventure/madness-ward-number-6.md) — 在这款游戏中，你扮演的是一名精神病院的病人。
 - [法师冒险：强力突袭](../games/adventure/mage-adventure-mighty-raid.md) — 游戏玩法简单却令人上瘾：只需瞄准敌人并投掷弹丸，即可清除一波又一波的敌人。随着游戏的进行，你将解锁各种各样的弹丸——每一种都有其独特的特性。
+- [魔法冒险学校](../games/adventure/magic-adventure-school.md) — 欢迎来到我们的魔法、巫术和巫师学校！建立属于自己的魔法商店，整天制作魔药，直到你真正成为一名女巫！在魔法学校游戏中制作魔药并不容易——这需要专注力和大量技巧！
 - [魔法城堡入侵：放置角色扮演游戏](../games/adventure/magic-castle-invasion-idle-rpg.md) — 在这款激动人心的奇幻角色扮演游戏中，你将扮演一位强大的巫师，肩负起保卫魔法城堡免受恐怖怪物侵袭的重任。这个世界充满了神秘生物、危机四伏的地牢和隐藏的宝藏，只有最强者才能生存下来。释放你全部的魔法潜能，召集你的魔法伙伴，共同为生存而战。
+- [魔法手指谜题 3D](../games/adventure/magic-finger-puzzle-3d.md) — 魔法手指谜题 3D 是一款有趣的休闲益智类在线游戏。你拥有一双神奇的手，可以发射激光。它能帮你击碎困住你的笼子，还能将箱子推到障碍物上，让你在不踩到尖刺而死亡的情况下逃脱牢笼。但别担心，你需要发挥自己的聪明才智，充分利用这双神奇的手。所有难
+- [魔法之地](../games/adventure/magic-land.md) — 魔法之地是一款无尽游戏，你将扮演一名巫师，收集南瓜的同时避开所有障碍物。每收集一个南瓜，你的分数就会增加。如果你与障碍物相撞，你将从绳子上掉落。
+- [魔术师逃脱](../games/adventure/magician-escape.md) — 《魔术师逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个魔法世界，在那里发现了一位魔术师被困在了里面。寻找一些隐藏物品，解开有趣的谜题，逃离魔术师的困境。祝你好运……尽情享受吧！
+- [魔法塔](../games/adventure/magictower.md) — 据说女王是一位强大的女巫，而公主姐妹们已被女王俘虏。英雄，你必须赶快去营救公主们！
+- [马力欧兄弟拯救公主](../games/adventure/mario-bros-save-princess.md) — 公主被怪物抓走了。邪恶的怪物绑住了公主。与马力欧和路易斯一起踏上冒险旅程，拯救公主。在游戏中收集所有的金币，控制超级玛丽和路易斯前往公主所在之处。
+- [马里奥疯狂](../games/adventure/mario-madness.md) — 《马里奥疯狂》是一款血腥的俯视角射击马里奥游戏，由两位疯狂的兄弟诺亚和利亚姆·卡利切为每周游戏制作挑战第50周创作！
+- [深红房间逃脱](../games/adventure/maroon-room-escape.md) — 深红房间逃脱是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你曾到过一栋房子，结果被困在了房子里的某个房间里。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [马丁的冒险](../games/adventure/martins-adventure.md) — 在马丁居住的村庄里，村长的魔法水晶能让植物焕发生机。邪恶的巫师贪图水晶的魔力，伴随着一道闪电出现在村庄，将马丁击晕并夺走了魔法水晶。
+- [漫威蜘蛛侠 2022](../games/adventure/marvel-spider-man-2022.md) — 《2021 蜘蛛侠战斗》是一款史诗级开放世界第三人称超级英雄黑帮格斗游戏，包含您想要的一切以及所有您能想到的功能。蜘蛛侠是美国漫威漫画出版的漫画书中出现的超级英雄。这款游戏将为您带来超凡体验。享受一款酷炫的在线蜘蛛侠游戏。多年来，它已成为深
+- [面具女孩逃脱](../games/adventure/mask-girl-escape.md) — 《面具女孩逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一栋房子，里面困着一个戴着面具的女孩。这里有有趣的谜题和隐藏的物品，帮助你逃离面具女孩。祝你好运……尽情享受吧！
+- [梅森逃脱](../games/adventure/mason-escape.md) — 《梅森逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往梅森的家，准备带他去建筑工地。当你到达时，他被困在了一个房间里。寻找一些隐藏物品，解开有趣的谜题，救出梅森。祝你好运……玩得开心！
+- [儿童数学游戏高清版](../games/adventure/math-game-kids-hd.md) — 这款数学游戏非常容易上手。你必须在45秒内解答尽可能多的问题。包含加法、减法、乘法和除法选项。你可以与朋友分享你的得分。
 - [马克斯：爷爷信中的秘密](../games/adventure/max-the-secret-of-grandpa-s-letter.md) — 一场寻宝之旅！认识一下小狼麦克斯，他梦想着冒险。一天，麦克斯收到了一封来自已故祖父的信。祖父像所有慈祥的祖父一样，生前最爱和孙子玩猜谜游戏，即使在他去世后也依然如此。信中，麦克斯还收到了一张藏宝图，以及祖父旧笔记本里留下的神秘线索。这意味着
+- [迷宫逃脱 3D](../games/adventure/maze-escape-3d.md) — 迷宫逃脱 3D 是一款免费的在线逃脱游戏，主题为迷宫。你需要在有限的时间内快速穿过复杂的迷宫。许多岔路口需要你辨别正确的道路，并尝试各种方法找到出口。还有多种模式供你选择。你可以通过在这里冒险体验巨大的 3D 场景。快来体验吧！
+- [迷宫逃脱挑战](../games/adventure/maze-escape-challenge.md) — 迷宫逃脱挑战是一款快节奏的迷宫游戏，你的目标是尽快到达出口。每一关都包含一个独特的迷宫，难度逐渐增加并带来新的惊喜。部分迷宫采用暗黑模式，视野受限，你必须仅依靠角色周围的微弱灯光小心导航。要进入更高难度的关卡，你需要收集指定数量的星星。通过
+- [迷宫逃脱厕所冲刺](../games/adventure/maze-escape-toilet-rush.md) — 你能想象最紧急的情况是什么？当然是在最后一秒找到厕所。在《迷宫逃脱：厕所冲刺》中，你将经历一场紧张又搞笑的迷宫逃脱。每一关都是全新的迷宫。你需要迅速找到通往厕所的最佳路线。运用你的逻辑和智慧，成功抵达目的地。
+- [迷宫游戏 恐怖恶作剧](../games/adventure/maze-game-horror-prank.md) — 游戏玩法非常简单，你需要通过不同的迷宫关卡，用一个红色方块前进，尽量不要撞到墙壁，但要小心，迷宫的墙壁里藏着黑暗生物。
+- [迷宫躲猫猫](../games/adventure/maze-hide-or-seek.md) — 迷宫躲猫猫是一款在PuzzleGame上免费在线玩的逃脱和捉迷藏游戏，专为男孩设计。在游戏中，你将被随机分配到不同的阵营。你可以成为杀手，消灭场上的所有人；也可以成为村民，打开开关并成功逃脱。利用迷宫复杂的地形完成身份赋予的任务！支持在手机
+- [迷宫狂热冒险](../games/adventure/maze-madness-adventure.md) — 踏上史诗般的旅程，体验《迷宫狂热冒险》这款迷宫解谜盛宴！穿越众多充满挑战的关卡，每一关都旨在考验你的技巧与智慧。选择你偏好的模式：在普通模式中按自己的节奏征服迷宫，在紧张刺激的限时模式中与时间赛跑，或在充满挑战的黑暗模式中于阴影中穿行。
+- [MCATLANTS](../games/adventure/mcatlants.md) — 在这个新的冒险中，你必须到达传送门。要到达传送门，你应该与你的朋友合作并作为一个团队工作。在亚特兰蒂斯世界中，团队合作是生存的关键。与你的朋友一起努力并取得胜利。击败所有怪物。你必须消灭所有怪物并收集黑币。黑币是创建传送门所必需的。
+- [机械逃脱3](../games/adventure/mechanic-escape-3.md) — 《机械逃脱3》是由8BGames开发的一款点击式逃脱游戏。想象一下，你正准备找一位机械师来修理你的自行车。当他去准备时，却意外被困在了自己的房间里。寻找一些隐藏物品，解开有趣的线索，逃离机械师的房间。祝你好运……尽情享受吧！
+- [Meek House Escape](../games/adventure/meek-house-escape.md) — Meek House Escape 是由 8B Games/Games2Mad 开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [超级坡道自行车特技游戏](../games/adventure/mega-ramps-bike-stunt-game.md) — 《超级坡道自行车特技游戏3D》，您将被邀请进入2023年全新版本的刺激与冒险体验——不可能自行车特技游戏离线3D。通过我们全新的2023年离线3D自行车竞速游戏，您将体验到在超级坡道不可能赛道上骑行的终极快感。在《超级坡道自行车特技游戏3D
+- [记忆惊悚游戏](../games/adventure/memory-scary-game.md) — 在屏幕上，您将看到一个游戏区域，卡片会放置在上面。您可以在一次操作中翻转两张卡片。仔细观察卡片上的图案，并记住它们的位置。一旦找到两张相同的图片，请点击卡片数据并同时打开它们。这样，您就可以将它们从游戏区域移除，并获得相应的分数。
+- [精神医院逃脱](../games/adventure/mental-hospital-escape.md) — 游戏中的角色完全心理健康。但尽管如此，他却被关在了精神病院里。对一个正常人来说，身处这样的地方是无法想象的，因此游戏的主角必须尽快逃离这里，以免真的开始失去理智。你需要帮助他完成这一任务。
+- [喵逃](../games/adventure/meow-escape.md) — 《喵逃》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到一个村庄，在那里发现一只猫被困住了。这里有有趣的谜题和隐藏的物品等待你去发现，拯救这只猫咪。祝你好运……尽情享受吧！
+- [商人逃脱](../games/adventure/merchant-escape.md) — 《商人逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你前往你的村庄讨论生意事宜。当你到达那里时，却发现自己被困在了这个村庄里。寻找一些隐藏物品，解开一些有趣的线索，从而逃离商人所在的困境。祝你好运……尽情享
+- [美人鱼逃脱](../games/adventure/mermaid-escape.md) — 《美人鱼逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的美人鱼。这里有有趣的谜题和隐藏物品等待你去寻找，以解救美人鱼。祝你好运……尽情享受吧！
+- [美人鱼跳跃](../games/adventure/mermaid-jump.md) — 爱丽儿是华特迪士尼影业第28部动画电影《小美人鱼》（1989年）中的虚构角色，也是该片的主角。她随后出现在该电影的前传电视系列剧（1992—1994年）、直接发行的续集《小美人鱼II：回归大海》（2000年）以及直接发行的前传《小美人鱼：爱
+- [金属 Slug](../games/adventure/metale-sluge.md) — 游戏详情 第3集 Metal Slug Rampage 和 Metal Slug Rampage 2。在这个出色的16位风格射击游戏中，与一波又一波的突击队员战斗并射击前进。
+- [流星逃脱](../games/adventure/meteor-escape.md) — 陨石从天而降，金钱也纷纷落下！你能否避开毁灭，同时变得富有？快速移动，生存更久，并像生命取决于此一样收集那些硬币——因为确实如此！
+- [墨西哥雷克斯2](../games/adventure/mexico-rex-2.md) — 控制一只真实的暴龙，再次在墨西哥城摧毁一切。碾碎一些汽车，收集辣椒，尽可能多地吃掉人类！你必须穿越不同的城镇和定居点，摧毁眼前的一切，制造混乱。
+- [中街逃脱](../games/adventure/mid-street-escape.md) — 《中街逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你晚上散步时迷了路。于是你决定找到主门钥匙，逃离这条街道。这里有许多有趣的谜题和隐藏物品，帮助你逃离这个地方。祝你好运……尽情享受吧！
+- [Mika的糖果冒险](../games/adventure/mikas-candy-adventure.md) — Mika的糖果冒险是由Fumingo制作的一款休闲益智游戏。你的目标是推动纸杯蛋糕，将它们移动到正确的位置。当所有纸杯蛋糕都放置在正确位置后，你就可以进入下一关。你可以使用撤销道具来回退你的操作，重新思考并再次尝试。这是有史以来最美味的益智
 - [迈克迷失在沙漠中 - 隐藏物品](../games/adventure/mike-lost-in-desert-hidden-object.md) — 迷失沙漠的迈克——隐藏物品游戏
 - [米奇誓言](../games/adventure/miki-oath.md) — 《米奇的誓约》是一款剧情驱动的精准平台跳跃游戏，包含106个精心设计的关卡，分布在十个奇幻世界中。玩家需要引导米奇穿越尖刺、锯齿、移动平台、弹簧和传送门，履行她拯救露娜的承诺。快速重开、灵敏的操控以及九种语言的完整本地化，让玩家可以轻松上手
+- [奶茶大冒险](../games/adventure/milk-tea-adventure.md) — 奶茶大冒险是一款打破常规的黑白风格游戏。主角是一位长手长腿的奶茶造型设计师。通过观察场景中的物品和提示，找到钥匙并成功打开门。完成挑战即可解锁新关卡。随着关卡难度逐渐增加，与朋友分享以获取帮助你的建议。
+- [金矿逃脱](../games/adventure/mina-de-oro-escape.md) — 《金矿逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你被困在了一座金矿中。在这里，你将面对有趣的谜题和隐藏的物品，努力逃离金矿。祝你好运……尽情享受吧！
+- [两人、三人、四人益智游戏](../games/adventure/mind-games-for-2-3-4-player.md) — Mind Games 是一款大型游戏，您可以在其中找到适合两人、三人或四人游玩的游戏。游戏包含 27 款不同类别的游戏，如技巧类游戏、脑力游戏、配对游戏、弹珠游戏、曼卡拉、路多棋以及井字棋游戏。这些游戏都非常有趣，专为儿童设计，安全可玩。大
+- [我的生存](../games/adventure/mine-survival.md) — 移除方块，帮助史蒂夫安全降落在正确的平台上。
+- [火星生存矿工](../games/adventure/mine-survival-mars.md) — Huggy Wuggy 尝试抵达火星核心以取得胜利！深入挖掘，收集有价值的元素和材料，然后制作新物品。不断重复这一过程，直到抵达核心，查看你的最终高分。这是一款超级有趣的挖矿游戏
+- [Mine World](../games/adventure/mine-world.md) — MineWorld 是一款受 Minecraft 启发并融合了角色扮演元素的游戏。你喜欢采矿、击败敌人、自动化操作以及建造和提升技能吗？击败在战斗要塞中现身的巨型凋灵，即可完成游戏。你还将拥有一个开放世界，可以探索并建造属于自己的地下家园。
+- [我的世界 - 金色史蒂夫](../games/adventure/minecraft-gold-steve.md) — 我的世界金色史蒂夫是一款适合所有年龄段的有趣且令人上瘾的在线游戏。这一次，你需要引导我们可爱的史蒂夫找到黄金。在正确的时间点击，我们的史蒂夫就会从一个平台跳到另一个平台，并避开 TNT 炸弹。
+- [我的世界隐藏的金色方块](../games/adventure/minecraft-hidden-golden-blocks.md) — 我的世界隐藏的金色方块是一款精彩的在线游戏，包含隐藏物品。在指定的图片中找出隐藏的金色方块。每一关都有10个隐藏的金色方块。总共有10关。时间有限，所以要迅速行动，在时间耗尽前找到所有隐藏物品。如果多次点击错误位置，时间将额外减少5秒。所以
+- [我的世界在线](../games/adventure/minecraft-online.md) — 现在你可以在 zazgames.com 的网页浏览器中免费在线玩我的世界在线游戏。探索无限方块世界，从最简单的房屋到最宏伟的城堡，一切由你建造。创造属于你的事物，冒险未知的世界。
+- [我的世界重制版](../games/adventure/minecraft-remake.md) — 经典我的世界游戏！探索无限的世界，并从最简单的房屋到最宏伟的城堡，一切皆可建造。
+- [我的世界 - 天空岛](../games/adventure/minecraft-skyblock.md) — 天空岛是一种流行的挑战模式，玩家从一个位于虚空中的小岛上开始游戏，岛上通常有一棵树和一个箱子，箱子里包含一些没有它就无法获得的物品。
+- [矿工卡丁车Craft - 4人模式](../games/adventure/miner-gokartcraft-4-player.md) — 嘿，伙计，带上你所有的朋友一起逃离蓝色怪物！小心躲避怪物，收集金币并达到最高分数。如果被蓝色怪物抓住，别忘了它会吃掉你，每个人都必须到达门口。如果你无法到达门口，你就无法获胜。注意那些尖刺，轮胎会爆裂，你会输掉游戏。小心点，别忘了怪物无处不
+- [迷你忍者](../games/adventure/mini-ninja.md) — 迷你忍者是一款非常吸引人的游戏，拥有极其精美的图形。这是一款适合儿童忍者的有趣游戏。尽你所能避开障碍物。尽可能长时间地存活，并获得高分。祝你游戏愉快！
+- [迷你变形](../games/adventure/mini-shape-shifting.md) — 准备好迎接《变形竞速游戏》中最为激动人心、节奏快速且充满动作的竞速冒险吧。这款令人兴奋的变形竞速游戏带来完全独特的游戏体验，玩家必须迅速更换车辆并适应不同环境，以赢得挑战性比赛。游戏拥有刺激的赛道、色彩缤纷的图形、流畅的操作以及趣味十足的游
+- [迷你方块冒险](../games/adventure/minicraft-adventure.md) — 迷你方块冒险是一款2D平台游戏，你的任务是在不同地图上建造桥梁、击杀僵尸并进行跑酷挑战。
+- [迷你世界 极限版](../games/adventure/minicraft-insane.md) — 让您的想象力自由飞翔，踏上穿越无尽世界的激动冒险——从建造简朴的居所到宏伟的堡垒。进入无限创意的领域，您的资源取之不尽；或沉浸于生存模式，在那里您需要制作武器和盔甲来对抗危险的生物。无论您选择独自探索还是与朋友一起，您都有能力创造、发现并克
 - [《迷你战队：奇幻角色扮演游戏》](../games/adventure/minimight-fantasy-rpg.md) — 《迷你奇幻角色扮演游戏：奇幻RPG》是一款休闲奇幻角色扮演游戏，你将带领一支勇敢的冒险小队，穿越危机四伏、怪物横行的楼层。招募战士、弓箭手、法师和其他战斗人员，升级他们的装备，学习新的技能，并击败强大的首领。组建你的队伍，收集战利品，提升你
+- [米妮老鼠救援](../games/adventure/minnie-mouse-rescue.md) — 《米妮老鼠救援》是由8B Games/Games2Live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的老鼠。这里有着有趣的谜题和隐藏的物品需要你寻找并解救这只老鼠。祝你好运……尽情享受吧！
+- [登月任务在线游戏](../games/adventure/mission-to-moon-online-game.md) — 游戏的目标是抵达月球，收集一些太空垃圾，并返回地球。收集新的船员，通过与机器人战斗赚取金钱。《登月任务》是一款可以免费游玩的在线免费游戏。这是一款太空飞行模拟游戏，你将能够探索月球，在天空中飞行，甚至在这款有趣的游戏中登陆月球。
+- [黑帮豪宅逃脱](../games/adventure/mobster-house-escape.md) — 《黑帮豪宅逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾前往一栋房子；在那里，你被困在了屋内。这里有许多有趣的谜题和隐藏物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！
+- [现代木屋逃脱](../games/adventure/modern-wooden-house-escape.md) — 《现代木屋逃脱》是一款由8B Games/Games2mad开发的点击式解谜游戏。想象一下，你曾来到一栋房子，却意外被困在其中。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [Momo 恐怖故事](../games/adventure/momo-horror-story.md) — Momo 是一款基于用户 "momo" 的消息历史的恐怖游戏。在游戏中，你将扮演一个通过消息联系 momo 的男子，而现在他将被 momo 的怪物追捕。你需要完成一些任务才能获救，例如启动发电机、寻找钥匙、关上窗户等……目标是坚持到计时器归
+- [Momoquest](../games/adventure/momoquest.md) — 在黑暗中追赶！Momoquest - 在黑暗中寻找钥匙，用手电筒四处摸索。看起来很简单，但你会被一个害怕光的奇怪生物打扰，不要让自己被抓到！超过10种不同的皮肤
+- [金钱冲刺游戏](../games/adventure/money-rush-game.md) — 金钱冲刺游戏是一款令人兴奋的街机跑酷游戏，你的目标是在避开危险障碍物的同时尽可能多地收集金钱。利用敏捷的反应能力躲避陷阱，保持在道路上，以最高的现金总额抵达终点。简单的操作、快节奏的游戏玩法以及色彩丰富的视觉效果，让所有年龄段的玩家都能享受
+- [猴子逃脱](../games/adventure/monkey-escape.md) — 《猴子逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你的朋友买了一只小猴子作为礼物。你正准备把这只小猴子带到你的农舍。不幸的是，猴子被困在了一个房间里。找出一些隐藏物品，解开一些有趣的谜题，逃离猴子所在的房间。祝你好运……尽情
+- [Monki & Goru](../games/adventure/monki-goru.md) — 欢迎来到 Monki & Goru 的冒险之旅！奔跑、跳跃并避开障碍物，收集所有香蕉以完成你的关卡。探索海量挑战关卡，尽情享受吧！
+- [怪物龙城毁灭者](../games/adventure/monster-dragon-city-destroyer.md) — 城市龙游戏的人民已经忘记了你作为龙城攻击游戏中的超级英雄的威名。快来发动一场猛烈的飞行攻击城市龙游戏，证明你昔日强大的力量，重振龙城游戏的辉煌权威。
+- [怪物人冲刺](../games/adventure/monster-man-rush.md) — 准备好迎接《怪物冲刺》中激动人心的旅程吧，这是一款节奏快速、无尽奔跑的游戏，充满刺激的挑战、色彩缤纷的环境和令人兴奋的游戏玩法。踏入一个怪物活跃的世界，你的任务是尽可能长时间地奔跑、闪避并生存下去。流畅的操作和令人上瘾的机制让这款游戏为所有
+- [怪物跑酷冒险](../games/adventure/monster-run-adventure.md) — 在我们的魔法世界里生活着一只小怪物——利基。他喜欢在他的世界中旅行，寻找冒险。有一天，他在穿越山脉时掉进了一个深矿井。现在，我们的英雄利基需要在你的帮助下返回地面。你正在玩《怪物跑酷冒险》，你需要帮助他找到回家的路。我们的英雄能够沿着墙壁滑
+- [怪物陷阱逃脱](../games/adventure/monster-traps-escape.md) — 一款轻松的解谜游戏，你的目标是安全地向下移动。游戏表面看似简单，但深入体验后会发现其出人意料的深度。通过众多关卡，提升智力的同时享受乐趣。Web Dev <a href='https://www.brightestgames.com/'>h
+- [怪兽卡车僵尸游戏](../games/adventure/monster-truck-zombies-nbsp-game.md) — 怪兽卡车儿童游戏：用巨大的大脚怪卡车和惊险的怪兽卡车碰撞，点燃孩子对高速乐趣的热情！观看小赛车手们在炫目的竞技场中飞驰，收集奇特的道具，并为每一次震撼的胜利欢呼庆祝。
+- [怪物冲击-3](../games/adventure/monsters-impact-3.md) — 力量就在你的指尖！点击屏幕击打怪物，点击特殊按钮释放你的力量。消灭成群的怪物，成为真正的怪物猎人。不要停止点击，成为这场对抗怪物和其他恐怖生物的史诗战争中的英雄。这款游戏是最佳的RPG休闲游戏之一。
+- [月光石炼金术师](../games/adventure/moonstone-alchemist.md) — 月光石炼金术师是一款包含70多个有趣且富有挑战性的免费关卡的消除三消游戏。将三个或更多宝石连成一线，获得宝石组合，并尝试制造炼金炸弹。游戏提供移动次数、时间限制、打破障碍和魔法蘑菇等多种挑战，等待着你来征服。
+- [山地自行车极限](../games/adventure/mountain-bike-xtreme.md) — 《山地自行车极限》是一款令人兴奋的2D物理驱动山地自行车游戏，每一条小径都是一次全新的挑战。在逼真的山丘上骑行，完成帅气的跳跃，收集硬币，完成激动人心的任务，并解锁更强大的新自行车。掌握流畅的操作，在陡峭的爬坡、巨大的下坡和复杂的地形中保持
+- [山地逃离](../games/adventure/mountain-land-escape.md) — 《山地逃离》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这个村庄。祝你好运……尽情享受吧！
 - [MR BLOCK](../games/adventure/mr-block.md) — 你开始游戏时是一个蓝色方块。你在一根线上移动。你会尝试尽可能远地移动，而不会碰到红色方块。使用空格键或Shift键上下跳跃，使用方向键或W/S键分别上下移动。
+- [Mr Bullet - 间谍谜题2](../games/adventure/mr-bullet-spy-puzzles-2.md) — 你准备好成为英雄、特工和传奇人物了吗？解决各种谜题挑战，展示你致命的精准度，瞄准敌人。来体验这款射击现象级游戏吧。在这个独特的益智游戏中运用你的大脑。你需要精准的瞄准和激光般的专注力，才能击败敌人、忍者以及其他你在世界中遇到的各种坏蛋！前往
+- [泥屋逃脱](../games/adventure/muddy-house-escape.md) — 《泥屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有有趣的谜题和隐藏的物品需要寻找，才能成功逃脱这栋房子。祝你好运……尽情享受吧！
+- [多彩砖房逃脱](../games/adventure/multicolored-brick-house-escape.md) — 《多彩砖房逃脱》是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你进入了一栋房子，却意外被困在其中。这里有着有趣的谜题和隐藏物品等待你去发现，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [Mungos Rescue](../games/adventure/mungos-rescue.md) — Mungos Rescue 是由 8B Games/Games2mad 开发的一款点击式游戏。想象一下，你曾前往沙漠，在那里发现一只獴被猎人困在笼子里。这里有着有趣的谜题和隐藏物品等待你去寻找，帮助獴逃离笼子。祝你好运……尽情享受吧！
+- [谋杀案线索 3D](../games/adventure/murder-case-clue-3d.md) — 谋杀案线索 3D 是一款令人兴奋的 3D 逃脱游戏。你将扮演侦探，最近发生了一起谋杀案，你需要找到一些线索并从这个危险的房子里逃脱。小心行事，祝你好运！
+- [杀人屠夫别墅逃脱](../games/adventure/murdering-butcher-villa-escape.md) — 《杀人屠夫别墅逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你误入了一座杀人屠夫的别墅，被困在了屋内。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！！！
+- [蘑菇森林冒险](../games/adventure/mushroom-forest-adventure.md) — 踏入迷人的蘑菇森林，这里现实与魔法的界限变得模糊。在这片神秘的树林中，一场冒险正等待着你。你的任务是解开一系列引人入胜的谜题，考验你的记忆力和观察力。记住谜题的位置及其复杂的解法是取得进展的关键，同时收集全部30颗绿色宝石。
+- [蘑菇森林逃脱](../games/adventure/mushroom-forest-escape.md) — 《蘑菇森林逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你进入了一片森林，却意外被困其中。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [我的宠物](../games/adventure/my-pets.md) — 我的宠物是一款游戏，你需要用骨头和鱼喂狗和猫，通过平台的调节和激活来开辟道路。
+- [我的小小市场](../games/adventure/my-tiny-market.md) — 在《我的小小市场》中，你将经营属于自己的超市。合理管理时间和资源，找到各项任务之间的完美平衡：补货货架、服务顾客，并让一切高效运转！
+- [Myna Land Escape](../games/adventure/myna-land-escape.md) — Myna Land Escape 是由 8B Games/Games2mad 开发的一款点击式解谜游戏。想象一下，你曾到过一个村庄；在那里，你被困在了村中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离村庄。祝你好运……尽情享受吧！
+- [神秘之门](../games/adventure/mysterious-doors.md) — 探索神秘的王国！穿越充满陷阱、谜题和惊喜的关卡。技巧与策略！掌握操作，随着你在王国中的推进，发现隐藏的秘密。你准备好迎接挑战了吗？测试你的速度与智慧，克服障碍并解开谜题！
+- [神秘森林逃脱](../games/adventure/mysterious-forest-escape.md) — 《神秘森林逃脱》是一款由8BGames/Games2Mad开发的HTML5点击式逃脱游戏。你在一个午夜来到一片神秘的森林进行研究，但不幸的是大门已经关闭。你必须找到打开门的方法。祝你好运，玩得开心！
+- [神秘之地逃脱](../games/adventure/mysterious-land-escape.md) — 《神秘之地逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个神秘之地，却意外被困其中。这里有着有趣的谜题和隐藏的物品，帮助你逃离神秘之地。祝你好运……尽情享受吧！
+- [神秘之地 - 万圣节(2022) 逃脱游戏](../games/adventure/mysterious-land-halloween-2022-escape-game.md) — 桑帕特和尼蒂亚被女巫困住了。女巫正通过收割灵魂来增强自己的力量。你是一位从天而降的天使，受命拯救这些可怜的灵魂，通过引导他们解开谜题并帮助他们顺利逃离。如何玩这款万圣节恐怖逃脱游戏：1. 尝试理解游戏的目标；2. 尝试理解游戏中的环境/物品
+- [神秘密码森林 - 秋日版 2](../games/adventure/mysterious-password-forest-autumn-edition-2.md) — 你走进森林，想要呼吸一口新鲜空气。经过长时间的行走后，你迷路了。帮助森林里的居民，激活通往回家之路的传送门！
 - [神秘挖掘者](../games/adventure/mystery-digger.md) — 加入《神秘挖掘者》的精彩旅程，这是一款令人上瘾的放置点击游戏。探索地下世界，寻找宝藏和故事。每次点击都能升级你的钻头，发现更多奇妙的宝藏。在任何设备上畅玩这款轻松休闲的游戏，每一次发现都能满足你的好奇心。
 - [老房子的秘密：隐藏物品](../games/adventure/mystery-of-the-old-house-hidden-objects.md) — 每个角落都藏着秘密，每一次发现都让你离真相更近一步。
+- [神秘公园逃脱](../games/adventure/mystery-park-escape.md) — 《神秘公园逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你和家人一起去了一座公园游玩，却意外被困在了公园里。现在，这里充满了有趣的谜题和隐藏物品，你需要与家人一起找到逃脱的方法。祝你好运……尽情享受吧！
+- [神秘郊区逃脱](../games/adventure/mystery-suburb-escape.md) — 神秘郊区逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你和家人去了一座郊区玩乐。结果你们被困在了郊区里。现在这里有有趣的谜题和隐藏物品，帮助你和家人逃离郊区。祝你好运……尽情享受吧!!!
+- [Nana Escape](../games/adventure/nana-escape.md) — Nana Escape 是由 8BGames 开发的一款点击式逃脱游戏。想象一下，你在一个周末去了你奶奶家，想和奶奶共度一些时光。但不幸的是，今天你的奶奶被困在了她的房间里。寻找一些隐藏物品，解开一些有趣的线索，帮助奶奶逃离房间。祝你好运…
+- [火影忍者3D游戏](../games/adventure/naruto-3d-game.md) — 这是一款动漫《火影忍者》中的主角鸣人与同一动漫中的敌人之间的街头战斗游戏，你必须击败众多敌人，包括佐助·宇智波，才能到达最后一关，与首领斑展开对决。
+- [肮脏的房屋逃脱](../games/adventure/nasty-house-escape.md) — 《肮脏的房屋逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你进入了一栋房子，结果被困在了里面。这里有有趣的谜题和隐藏的物品等待你去发现并逃离这栋房子。祝你好运……尽情享受吧！
+- [调皮的布鲁诺逃脱](../games/adventure/naughty-bruno-escape.md) — 《调皮的布鲁诺逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去和调皮的布鲁诺玩耍，结果他被困在了自己家的一个房间里。找出一些隐藏物品，解开有趣的谜题，逃离布鲁诺的房间。祝你好运……玩得开心！
+- [调皮厨师逃脱](../games/adventure/naughty-chef-escape.md) — 《调皮厨师逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你前往调皮厨师的家，打算接他去酒店。当你到达那里时，他却被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的谜题，逃离调皮厨师的屋子。祝你好运……玩得开心！
+- [Navesco V](../games/adventure/navesco-v.md) — 格洛克塔尔队长和他的同伴们偷走了终极战争机器的项目，找到他们并阻止他们，否则就太迟了！
+- [邻居海绵。恐怖秘密3D](../games/adventure/neighbor-sponge-scary-secret-3d.md) — 扮演名叫鲍勃的男孩！你来到了城市的底层街区，并搬到了海绵邻居的旁边。你很喜欢他那异常巨大的菠萝屋。你认为他非常友善。他有一大把胡子，总是向陌生人打招呼。你得知他就在一家以蟹肉汉堡闻名的快餐店工作。一段时间后，你发现那个秘密汉堡配方被盗了。
 - [猫咪的冒险](../games/adventure/neko-s-adventure.md) — 《Neko的冒险》是一款充满活力的平台游戏，主角是顽皮的猫咪Neko，他要拯救自己的女朋友。探索20个充满挑战的关卡，解锁能量光束发射火焰，并在充满魅力、刺激和卡通乐趣的异想天开、快节奏的冒险中对抗各种古怪的敌人！
+- [霓虹深渊守护者](../games/adventure/neon-abyss-defender.md) — 战争太空守护者是一款快节奏的街机太空射击游戏，你将驾驶未来感十足的战斗机穿越密集的敌军波次。躲避子弹，存活于致命炸弹之中，并在多个关卡中击败强大的Boss。获取分数，获得额外生命，追逐高分，在绚丽的银河战场中体验流畅操控与不间断的动作冒险。
+- [霓虹脉冲竞技场](../games/adventure/neon-pulse-arena.md) — 霓虹脉冲竞技场是一款快速反应生存街机游戏，你需要躲避不断来袭的形状，并尽可能长时间地挑战自我极限。每多存活一秒，竞技场的强度就会提升。简单操作、干净利落的霓虹视觉效果以及纯粹基于技巧的游戏玩法——没有运气成分，只有反应力。你能坚持多久？
+- [永不坠落](../games/adventure/never-fall.md) — 在《永不坠落》中跳得更高，永远攀登！从一个平台跃向另一个平台，精准把握跳跃时机，不断攀升至无尽的天空。一旦出错，你就会坠落，因此要保持专注，持续前进。操作简单但难以精通，《永不坠落》以不间断的动作和逐渐提升的难度挑战你的反应力与专注力。你能
+- [新鸟逃脱](../games/adventure/new-bird-escape.md) — 《新鸟逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只新鸟被困住了。这里有有趣的谜题和隐藏的物品需要你寻找，以救出这只小鸟。祝你好运……尽情享受吧！
+- [新绝地求生手游](../games/adventure/new-pubg-mobile.md) — 绝地求生是一款玩家对玩家的射击游戏，最多一百名玩家参与一场大逃杀模式，这是一种大规模的生存对决，玩家需要战斗至最后存活。玩家可以选择单人、双人或最多四人小队模式进入比赛。
+- [新年庆祝活动 第1集](../games/adventure/new-year-celebration-episode1.md) — 《新年庆祝活动 第1集》是8BGames/Games 2Mad开发的另一款点击式逃脱游戏。在这款逃脱游戏中，查尔斯先生正准备庆祝新年。在旅途中，他遗失了自行车钥匙，被困在一个地方。寻找有用的物品、提示，并解开谜题，找到钥匙并成功逃脱。祝你好
+- [新年庆祝活动 第二集](../games/adventure/new-year-celebration-episode2.md) — 《新年庆祝活动 第二集》是8BGames/Games 2Mad开发的另一款点击式逃脱游戏。在这款逃脱游戏中，查尔斯先生正准备庆祝新年，但在旅途中被困在一个地方。寻找有用的物品、线索，并解开谜题以成功逃脱。祝你好运，玩得开心！
 - [新手逃离博主监狱](../games/adventure/newbie-s-escape-from-blogger-prison.md) — 🔓《越狱》是一款激动人心的平台跳跃冒险游戏，你必须克服重重危险挑战，找到通往自由的道路！
+- [夜公园逃脱](../games/adventure/night-park-escape.md) — 《夜公园逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你曾去了一座公园，结果被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现并逃离公园。祝你好运……尽情享受吧！
+- [妮娜泰迪逃脱](../games/adventure/nina-teddy-escape.md) — 《妮娜泰迪逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。嗨，我是你的妮娜……意外地，我的泰迪熊被困在了笼子里。我需要你的帮助来救出我的泰迪熊。祝你好运……尽情享受吧！
+- [忍者暴风](../games/adventure/ninja-arashi.md) — 忍者暴风是一款充满激情的平台游戏，融合了混合RPG元素。在这款游戏中，你将扮演阿雷希，一位前传奇忍者，他穿越被腐化的世界，奋力拯救被恶魔大蛇掳走的儿子。凭借卓越的体操技巧和致命武器，阿雷希已准备好面对那些誓死保护大蛇的险恶陷阱与敌人。
+- [忍者暴风2](../games/adventure/ninja-arashi-2.md) — 是时候向那些奇怪的黑暗城堡敌人复仇了，他们将你囚禁了如此之久，让影忍者战士的生存变得极其艰难。邪恶城堡的敌人惧怕这位拥有高超武术生存与战斗技巧的忍者刺客，他可能对王座构成威胁。幸运的是，你成功突破了牢房，准备复仇，但你需要战斗并逃离这座城堡
+- [忍者闪避](../games/adventure/ninja-evade.md) — 在繁忙的城市中探索，帮助勇敢的忍者抵达他的忍者小镇。游戏故事始于勇敢的忍者萨罗吉，但有一天他前往了最近的城市。他探索了城市，然而当得知该城市不允许忍者进入时，麻烦便随之而来。现在玩家需要扮演忍者萨罗吉，帮助他逃离这座城市。小心！穿越铁轨和河
+- [忍者棍](../games/adventure/ninja-stick.md) — 忍者棍是一款非常棒的游戏，有助于学习测量，训练你的大脑追踪测量、尺寸和距离。
 - [谁也别想通过：拯救卡布奇娜！](../games/adventure/none-shall-get-through-save-cappuccina.md) — “无人能及：拯救卡布奇娜！”——一款运用重力枪的物理益智游戏。移动方块，打开门，从邪恶人工智能手中拯救芭蕾舞演员！
+- [数图谜题 - 图片十字](../games/adventure/nonogram-picture-cross.md) — 探索图片十字数字谜题的奥秘！通过简单规则和富有挑战性的解法，解开数图谜题，揭示隐藏的图像！用这款图片十字游戏锻炼你的逻辑思维，成为真正的数图谜题大师！数图谜题是一种令人上瘾的数字谜题，将逻辑与像素艺术相结合。根据两个方向排列的数字，在谜题页
+- [菜鸟弓箭手在线游戏](../games/adventure/noob-archer-game-online.md) — 菜鸟弓箭手是一款带有射击元素的解谜游戏。世界充满了僵尸，你必须一个接一个地清除邪恶的僵尸！使用你的弓和箭，逐一清理每一关复杂的僵尸。游戏中，只要你的箭射中僵尸，它们就会立即死亡。所以请仔细瞄准，并享受发现各种创意射击僵尸方式的乐趣。有些关卡
+- [新手点击：新手的崛起](../games/adventure/noob-click-the-rise-of-noob.md) — 帮助努比克克服充满诡异生物的维度，这些生物试图偷走他的绿宝石。最终，是您决定他能否击败最终Boss，还是遭遇失败。改进之处：游戏提供多种独特的升级来协助努比克。改变：升级努比克的盔甲和武器，以增强他的能力并改变他的外观。关卡：三个主要关卡，
 - [菜鸟保险丝](../games/adventure/noob-fuse.md) — 加入菜鸟的疯狂冒险吧！
 - [新手入门 - 沙盒与工艺](../games/adventure/noob-in-mine-sandbox-craft.md) — 欢迎来到方块世界——一个巨大的3D沙盒世界，在这里一切皆有可能！
+- [新手拯救村庄](../games/adventure/noob-save-the-village.md) — 升级你的武器，解锁强大的法术和能力，阻止敌人的入侵。建造防御工事，提升你的技能，成为村庄最后的希望！
 - [菜鸟拯救了村庄](../games/adventure/noob-saves-the-village.md) — 村庄遭到残暴怪物的袭击！成为真正的英雄，用你的战斗技巧击败危险的敌人！
+- [菜鸟 vs 丧尸](../games/adventure/noob-vs-zombie.md) — 加入《菜鸟 vs 丧尸》的冒险，穿越充满丧尸和敌人的不同生态区域迷宫。高手背叛了菜鸟，并将他留在充满亡灵的迷宫中。克服每个生态区域的挑战，击败丧尸，找到高手并展开史诗般的对决，同时应对作弊者及其狡猾科技的干扰。赚取金币购买和升级武器，打开宝
+- [Nubic 对战 Huggy Wuggy](../games/adventure/nubic-vs-huggy-wuggy.md) — Huggy Wuggy 突破进入 Minecraft 世界！帮助 Nubic 击败所有敌人！拿起各种武器，投入战斗！小心 Huggy Wuggy 强大的爪子、巨大的 Huggy 的破坏性攻击，以及向你飞来的末影-Huggy 方块！面对大量敌
 - [Nubik Courier：开放世界](../games/adventure/nubik-courier-an-open-world.md) — 《Nubik Courier：开放世界》是一款刺激的送餐游戏，让你化身技艺精湛的披萨外卖员，穿梭于熙熙攘攘的城市街道。你需要避开障碍物，并在每次送餐过程中切换车辆，同时还能享受免费的在线游戏体验。游戏支持 iOS、Android 和桌面平台
+- [核能鱼](../games/adventure/nuclear-fish.md) — 核能鱼是一款关于放射性机械鱼的趣味点击游戏。游戏的目标是尽可能多地得分。游戏拥有精美的图形和简单的操作，适合所有年龄段。非常适合打发时间
 - [越野山地](../games/adventure/off-road-mountain.md) — 山地骑行者是一款物理模拟游戏模板，你可以在充满挑战的山地地形上骑自行车下坡，努力保持平衡和速度，以最短时间完成关卡。
+- [办公室逃脱](../games/adventure/office-escape.md) — 《办公室逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你进入了一间办公室，却意外被困在了里面。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你逃离办公室。祝你好运……尽情享受吧！
+- [办公室密室逃脱](../games/adventure/office-room-escape.md) — 《办公室密室逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一间办公室，却意外被困在了里面。这里有许多有趣的谜题和隐藏物品等待你去发现并成功逃离办公室。祝你好运……尽情享受吧！
+- [越野货运卡车司机 3D](../games/adventure/offroad-cargo-truck-driver-3d.md) — 喜欢卡车游戏的人，这里就是你的天堂。欢迎来到全新的《越野货运卡车司机：上坡伐木卡车 3D》。这是2023年最佳的免费3D卡车驾驶游戏。你的任务是在这款越野货运卡车运输驾驶游戏中运送重要货物。相信我，货运卡车司机并不像看起来那么简单。你将需要
+- [Oink Escape](../games/adventure/oink-escape.md) — OinkEscape 是一款有趣的 3D 生存游戏，你将控制一只可爱的猪，在有限的竞技场中躲避危险陷阱。当障碍物从不同方向出现或突然从天而降时，请迅速移动。保持警觉，快速反应，尽可能长时间生存以获得最高分数。简单操作、快节奏的游戏体验以及不
+- [奥塞鸟屋逃脱](../games/adventure/oiseau-house-escape.md) — 奥塞鸟屋逃脱是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你曾前往一片沙漠，在那里一只奥塞鸟被困住了。这里有着有趣的谜题和隐藏物品等待你去发现并从沙漠中救出它。祝你好运……尽情享受吧！
+- [老熊逃脱](../games/adventure/old-bear-escape.md) — 《老熊逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只老熊被困在了里面。寻找一些隐藏物品，解开有趣的谜题，逃离老熊的困境。祝你好运……尽情享受吧！
+- [老贝多芬狗逃脱](../games/adventure/old-beethoven-dog-escape.md) — 《老贝多芬狗逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去探望老狗贝多芬，结果发现他被小偷绑架了，而这一切就发生在那栋房子里。你需要寻找一些隐藏物品，解开有趣的谜题，找到可怜的老贝多芬狗以及那个小偷。祝你好运……尽情享受吧
+- [老砖房逃脱](../games/adventure/old-brick-house-escape.md) — 《老砖房逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以成功逃离这栋房子。祝你好运……尽情享受吧！
+- [老绿别墅逃脱](../games/adventure/old-green-villa-escape.md) — 《老绿别墅逃脱》是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你曾造访一座别墅，却在其中被困。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离别墅。祝你好运……尽情享受吧！
+- [老男人逃脱](../games/adventure/old-man-escape.md) — 《老男人逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到一个地方，发现一位老人被困其中。寻找一些隐藏物品，解开一些有趣的谜题，从而逃离老男人。祝你好运……尽情享受！
+- [老男人逃脱2](../games/adventure/old-man-escape-2.md) — 《老男人逃脱2》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到一个地方，发现一位老男人被困在那里。寻找一些隐藏物品，解开有趣的谜题，逃离老男人的困境。祝你好运……尽情享受吧！
+- [老人拐杖逃脱](../games/adventure/old-man-walking-stick-escape.md) — 《老人拐杖逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往一位老人的家中，准备带他去散步。当你到达那里时，却发现自己被困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的谜题，从而逃离这位老人。祝你好运……尽情享受吧！
+- [老囚犯逃脱](../games/adventure/old-prisoner-escape.md) — 《老囚犯逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你的一位老朋友曾被关在监狱里。现在你来到这里救他。这里有有趣的谜题和隐藏的物品需要寻找，与你的朋友一起成功逃脱。祝你好运……尽情享受吧！
+- [老囚犯逃脱2](../games/adventure/old-prisoner-escape-2.md) — 《老囚犯逃脱2》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你的老朋友被关在监狱里。现在你来到这里救他。这里有有趣的谜题和隐藏物品等待你发现，帮助你和朋友成功逃脱。祝你好运……尽情享受吧！
+- [老教师逃脱](../games/adventure/old-teacher-escape.md) — 《老教师逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去了老师的家，当他在那里时突然被困了。这里有有趣的谜题和隐藏的物品等待你去发现，以解救老师。祝你好运……尽情享受吧！
+- [一块生存](../games/adventure/one-block-survival.md) — 这是一款基于经典方块游戏相同方块的方块益智平台游戏（类似俄罗斯方块类型），拯救小方块生物——泰特拉，它们可以变成不同的方块，利用其变形能力通过搭建平台抵达出口传送门。
+- [只向上或熔岩](../games/adventure/only-up-or-lava.md) — 准备好迎接一场激动人心的冒险，挑战你的极限！征服关卡，跃过危险的障碍，避开炽热的熔岩。跳跃、攀爬并做出精准的跳跃。每一关的挑战都会不断升级，考验你的勇气与决心。你能否战胜所有障碍，完成这场难忘的旅程？命运掌握在你手中——征服关卡，或被熔岩吞
+- [仅向上跳水马桶](../games/adventure/only-up-skibidi-toilet.md) — 尽可能往上跳，而斯基比迪马桶四处跳跃以成为最高点
+- [橙皮](../games/adventure/orange-peel.md) — 巧合的是，这些橙子最终来到了外太空，而酸雨即将开始。这种不寻常的自然现象对水果构成了巨大威胁，因为只要一滴雨落在果皮上，它们就会立刻溶解。智慧与逻辑相结合，将帮助橙子逃离死亡的命运。
 - [OrbaDrone - 机器人逃生](../games/adventure/orbadrone-robot-escape.md) — ℹ️关于
+- [轨道循环革命](../games/adventure/orbit-loop-revolution.md) — 在《轨道循环革命》中掌握宇宙循环！简单操控，深度挑战。翻转以求生存：点击或使用键盘瞬间改变你的轨道方向。收集与躲避：获取星星以得分，同时避开不断来袭的危险。强力升级！通过护盾、慢动作、双倍分数、磁铁以及清除环形障碍的爆炸等改变游戏局势的道具
+- [兽人英雄](../games/adventure/orc-hero.md) — 踏上激动人心的像素艺术回合制冒险！对抗凶猛的敌人，提升你的英雄等级，掌握战略战斗。升级你的闪避、防御和攻击能力，以应对更强大的对手。你能否击败无尽波次的敌人，成为终极英雄？
+- [兽人：新大陆](../games/adventure/orcs-new-lands.md) — RPG游戏的非传统机制。突袭村庄并培养你的英雄。你扮演一名探索新大陆以征服的兽人。游历世界，发展你的英雄。非同寻常且简单的玩法。
 - [外部](../games/adventure/outside.md) — 《OUTSIDE》是一款极简主义的益智游戏，每一步都至关重要。你需要引导独眼角色穿过网格，收集钥匙，打开通往下一关的大门——但游戏有个特别之处：一旦开始移动，就无法停止，直到撞到墙壁为止。
+- [欣喜若狂的男孩逃脱](../games/adventure/overjoyed-boy-escape.md) — 《欣喜若狂的男孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你前往一个男孩的家，准备带他去一次冒险之旅。男孩兴奋不已，开始在屋子里奔跑，结果被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离这个欣喜若狂的男孩。祝你好
+- [猫头鹰睡不着](../games/adventure/owl-cant-sleep.md) — 为什么猫头鹰睡不着呢？因为他整天都在想冒险！（你明白了吗？）加入这位充满冒险精神的猫头鹰，开启他追寻新高度的旅程吧！发现无限可能；探索全新世界。点击并按住以压扁，然后松开让猫头鹰从一个平台跳到另一个平台！沿途保存并结识一群古怪的新朋友！哎呀
+- [猫头鹰之地逃脱](../games/adventure/owl-land-escape.md) — 《猫头鹰之地逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个猫头鹰之地，却意外被困其中。这里充满了有趣的谜题和隐藏物品，你需要找到它们并成功逃离猫头鹰之地。祝你好运……尽情享受吧！
+- [Pac Ring Adventure](../games/adventure/pac-ring-adventure.md) — 踏上激动人心的旅程，体验《Pac Ring Adventure》这款引人入胜的街机风格游戏，为经典的吃豆人体验带来全新玩法。在充满挑战的迷宫中穿行，收集道具，迎战强大的敌人，努力征服不断扩展的精彩之环！- 创新的环形玩法 - 道具大狂欢 -
+- [PacMan2D](../games/adventure/pacman2d.md) — PacMan2D 游戏，你需要吃掉圆点并避开敌人。当你吃掉大圆点时，你可以吃掉敌人，这是你过关的机会。但要注意新出现的敌人。
+- [PacRing 冒险](../games/adventure/pacring-adventure.md) — 踏上激动人心的旅程，体验《PacRing 冒险》这款引人入胜的街机风格游戏，为经典的吃豆人体验带来全新玩法。在充满挑战的迷宫中穿梭，收集强力道具，面对强大的敌人，努力征服不断扩展的精彩之环！- 创新的环形玩法 - 道具大狂欢 - 多敌人混战
+- [画家之家逃脱](../games/adventure/painter-house-escape.md) — 画家之家逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你进入了一栋房子，却发现自己被困在了里面。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃脱这栋房子。祝你好运……尽情享受吧！
+- [画家之家逃脱 2](../games/adventure/painter-house-escape-2.md) — 《画家之家逃脱 2》是由 8B Games/Games2Mad 开发的一款点击解谜游戏。想象一下，你被困在了一栋房子里。在这里，你需要解开有趣的谜题，寻找隐藏的物品，从而逃离这栋房子。祝你好运……尽情享受吧！
 - [帕尔科维尔回家之路](../games/adventure/palkovil-the-way-home.md) — “帕尔科维尔”的独特世界将带你沉浸在疯狂的新年氛围中！数百种怪物和怪兽、你喜爱的动物、引人入胜的谜题和任务、礼物、玩具和糖果，以及巨大的实验室空间，将帮助你揭开这个地方最可怕的秘密！收集玩具，喂养松鼠、狗狗和猫咪，挥舞利剑战斗，击败首领，通
+- [Pannai House Escape](../games/adventure/pannai-house-escape.md) — Pannai House Escape 是由 8B Games/Games2live 开发的一款点击式解谜游戏。想象一下，你曾前往过一座 Pannai 房屋，在那里你被困住了。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离这座房子。祝
+- [纸 Minecraft](../games/adventure/paper-minecraft.md) — Paper Minecraft 是一款受著名方块世界 Minecraft 启发的 2D 沙盒冒险游戏。探索像素世界，挖掘方块，收集资源，并建造令人惊叹的结构。在创造模式和生存模式之间切换，发现不同的地形和材料。发挥你的想象力，制作工具，挖掘
+- [纸张小人](../games/adventure/paper-stick-figures.md) — 纸张小人是一款在笔记本页面上绘制的快节奏塔防战斗游戏。用你的手绘草图组建军队，部署小人士兵、坦克、飞机和重型武器，然后抵御一波又一波敌方小人的进攻。每一关都将简单的纸面涂鸦变成充满导弹、爆炸和战术升级的混乱战场。强化你的基地，提升你的部队，
+- [公园逃脱](../games/adventure/park-escape.md) — 《公园逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你去了一个公园，结果被困在了那里。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离公园。祝你好运……尽情享受吧！
+- [公园屋逃脱](../games/adventure/park-house-escape.md) — 《公园屋逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你去公园玩得非常开心。结果你被困在了屋子里，现在这里有有趣的谜题和隐藏物品，帮助你从公园屋中逃脱。祝你好运……尽情享受吧!!!
+- [鹦鹉救援](../games/adventure/parrot-rescue.md) — 《鹦鹉救援》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的鹦鹉。这里有有趣的谜题和隐藏物品等待你去寻找，以解救这只鹦鹉。祝你好运……尽情享受吧！
+- [派对屋逃脱](../games/adventure/party-house-escape.md) — 《派对屋逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你参加了一场在某栋房子举办的派对庆祝活动。派对结束后，你发现自己被困在了屋内。现在，这里有着有趣的谜题和隐藏的物品，等待你去发现以成功逃脱。祝你好运…
+- [乘客飞机：飞行3D](../games/adventure/passenger-airplane-flight-3d.md) — 乘客飞机：飞行3D 体验最真实的乘客飞行模拟！2 种精彩模式：世界地图模式 —— 飞越全球真实客运航线 飞行训练模式 —— 学习必备的飞行员技能 主要特色：逼真的操纵杆控制 速度调节：1x、2x、3x 6 种摄像机模式 —— 驾驶舱、外部、
 - [巴塔哥尼亚人](../games/adventure/patagonians.md) — 在巴塔哥尼亚的恐怖与神秘世界中探索！寻找失踪的女儿，与怪物战斗，解开谜题，并在阴森的洞穴和豪宅中躲过致命陷阱。你敢直面黑暗吗？立即畅玩！
+- [路径绘画 3D](../games/adventure/path-paint-3d.md) — 路径绘画 3D 是一款有趣且令人上瘾的超休闲街机游戏。点击并按住鼠标来绘制道路。你能画到终点线吗？
+- [图案谜题3D](../games/adventure/pattern-puzzle-3d.md) — 欢迎来到《图案谜题3D》，这是一款令人兴奋的脑力训练解谜游戏，旨在挑战您的观察力、逻辑思维和模式识别能力。进入一个充满活力的3D世界，体验引人入胜的谜题，考验您的专注力，同时为各年龄段的玩家提供无尽的乐趣。在《图案谜题3D》中，每一关都带来
+- [帕维洛斯塔斯森林冒险](../games/adventure/pavilostas-forest-adventure.md) — 今年，你决定探索这片森林。你搜索了有趣的森林地点，结果发现了帕维洛斯塔斯森林。你收拾好装备，出发前往森林。
+- [农民逃脱](../games/adventure/peasant-escape.md) — 《农民逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你来到了一座农民的家中。不幸的是，这位农民被困在了屋内。寻找一些隐藏的物品，解开有趣的谜题，逃离这个农民的家。祝你好运……尽情享受吧！
+- [Peikin 鸭子逃脱](../games/adventure/peikin-duck-escape.md) — Peikin 鸭子逃脱是由 8B Games/Games2live 开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里 Pekin 鸭子被困住了。这里有有趣的谜题和隐藏物品等待你去发现，帮助鸭子获救。祝你好运！尽情享受吧！
+- [笔跑 - 3D 笔 race 游戏](../games/adventure/pen-run-3d-pen-race-game.md) — 途中避开所有遇到的障碍物并收集大量硬币。走到路径尽头以赢得胜利。
+- [企鹅冒险](../games/adventure/penguin-adventure.md) — 《企鹅冒险》是一款解谜游戏，你需要控制企鹅收集所有钻石，并解救被冻结的女友。游戏中共有九个关卡，每一关都比前一关更难。你需要点击企鹅并拖动来施加力量。注意避开尖刺，它们会伤害企鹅。还有火球和其他生物也会对企鹅造成伤害。努力通过所有关卡，享受
+- [企鹅桥](../games/adventure/penguin-bridge.md) — 欢迎来到企鹅桥世界。这是一款疯狂的解谜冒险游戏。点击并按住以建造桥梁，松开以铺设桥梁，为企鹅和他的宝宝们开辟道路。挑战自我，收集钻石来购买其他疯狂的企鹅！尽情游玩，冲击高分
+- [企鹅看护人逃脱](../games/adventure/penguin-caretaker-escape.md) — 《企鹅看护人逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你把你的宠物企鹅托付给附近的一位企鹅看护人，让她在她家照顾企鹅。当你去接回你的企鹅时，却发现她被困在了她的厨房里。寻找一些隐藏物品，解开一些有趣的线索，逃离企鹅看护人的
+- [企鹅救援2](../games/adventure/penguin-rescue-2.md) — 《企鹅救援2》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只企鹅被困住了。这里有有趣的谜题和隐藏的物品等待你去寻找，以解救这只企鹅。祝你好运……尽情享受吧！
+- [小猪佩奇：小猪逃脱](../games/adventure/peppa-pig-pig-escape.md) — 我想分享我关于佩奇猪恐怖小猪测验的知识，这是一款有趣且独特的非官方电话游戏！这是全新的测验游戏和电话游戏《小猪逃脱 恐怖小猪》，你可以用小猪或记忆电话吓唬你的朋友或邻居，同时通过简单的经典测验来测试你的知识。小猪是一个住在甜蜜家园的恐怖动物
+- [完美转身游戏](../games/adventure/perfect-turn-game.md) — 完美转身是一款有趣、令人上瘾且注重技巧的益智游戏，挑战您的时机把握、精准度和反应能力。游戏采用简单的机制，但关卡难度逐渐增加，提供引人入胜的游戏体验，让玩家欲罢不能。
+- [波斯王子冲刺](../games/adventure/persia-prince-dash.md) — 波斯王子冲刺是一款解谜冒险游戏。控制一名身披铠甲的王子收集金币并突破地牢。使用方向键或鼠标控制移动
+- [追逐女孩逃脱](../games/adventure/persue-girl-escape.md) — 《追逐女孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去一位Peruse女孩的家里，准备带她出去吃晚餐。当你到达那里时，她被困在这栋房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离Peruse女孩的房子。祝你好运……玩得
+- [宠物医生关爱游戏](../games/adventure/pet-doctor-caring-game.md) — 扮演一位充满爱心的宠物医生，帮助可爱的动物们恢复健康！在这个有趣且引人入胜的游戏中，你将使用各种医疗工具和技巧治疗受伤或生病的宠物。从清洁伤口到喂药以及进行体检，每一项任务都会让你更接近成为最棒的宠物兽医。
+- [彼得叔叔救援](../games/adventure/peter-uncle-rescue.md) — 《彼得叔叔救援》是由8B Games/Games2Live开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现叔叔被困了。这里有有趣的谜题和隐藏的物品等待你去寻找，以解救叔叔。祝你好运……尽情享受吧！
+- [野餐朋友](../games/adventure/picnic-friends.md) — 野餐朋友是家庭和孩子们的绝佳趣味游戏！
+- [猪兄弟大冒险](../games/adventure/pig-bros-adventure.md) — 猪兄弟从小时候就是好朋友。这一次他们外出探索乡村，发现了许多宝石。快来和他们一起探险，收集宝石吧。
+- [鸽子逃脱](../games/adventure/pigeon-escape.md) — 《鸽子逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困的鸽子。寻找一些隐藏物品，解开一些有趣的谜题，逃离鸽子所在的场所。祝你好运……尽情享受吧！
+- [Pin Rescue 3D](../games/adventure/pin-rescue-3d.md) — 挑战并突破，展现你的智慧，规划和布局无数困难，借助机关和钉子帮助你避开危险
+- [乒乓球游戏](../games/adventure/ping-pong-ball-game.md) — 乒乓球是世界上最广泛开展的体育运动之一。不仅在中国，那里甚至将其定为国球，而且在世界各个国家，人们都以娱乐或竞技的方式打乒乓球。
+- [企鹅与朋友](../games/adventure/pingu-friends.md) — 企鹅与朋友是一款非常可爱且容易上手的游戏。你只需点击屏幕即可让角色跳跃并保持在平台上的平衡。收集到金蛋后，角色和主题将会发生变化。帮助企鹅与朋友们到达平台顶端。
+- [粉红小鸟救援](../games/adventure/pink-bird-rescue.md) — 《粉红小鸟救援》是由8B Games/Games2Live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的小鸟。这里有有趣的谜题和隐藏的物品等待你去发现，帮助小鸟获救。祝你好运……尽情享受吧！
+- [粉红之门逃脱](../games/adventure/pink-gate-escape.md) — 《粉红之门逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个地方，却意外被困其中。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离粉红之门。祝你好运……尽情享受吧！
+- [管道出口游戏](../games/adventure/pipe-out-game.md) — 管道出口是一款有趣且富有挑战性的益智游戏，你的目标是连接管道并为水流创建一条完整的路径。仔细旋转和摆放管道部件，以解决每一关卡，确保水流从起点顺利到达终点。随着关卡难度逐渐提升，测试你的逻辑思维、规划能力和解决问题的技巧。每一步都至关重要，
+- [海盗男孩逃脱](../games/adventure/pirate-boy-escape.md) — 《海盗男孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去海盗男孩的家带他去钓鱼。当你到达那里时，他把你困在了这栋房子里。寻找一些隐藏物品，解开一些有趣的谜题，逃离海盗男孩的家。祝你好运……玩得开心！
+- [海盗宝藏逃脱](../games/adventure/pirate-treasure-escape.md) — 《海盗宝藏逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往了一位海盗的家，为了寻找海盗的宝藏而被困在了那栋房子里，你需要找到一些隐藏物品，解开有趣的线索，帮助找到海盗宝藏。祝你好运……尽情享受吧！
+- [像素冒险](../games/adventure/pixel-adventure.md) — 现在享受像素冒险吧！
+- [像素战斗多人游戏](../games/adventure/pixel-combat-multiplayer.md) — 像素风格的动作多人fps游戏，你可以和朋友或其他玩家对战。尝试死亡竞赛和团队死亡竞赛。游戏中有新的现代方块世界和像素风格的武器。你可以扮演同学。这是一款有趣的口袋fps方块风格射击游戏。尽情享受吧！ 特性 - 皮肤箱系统 - 高质量图形 -
 - [像素英雄幸存者](../games/adventure/pixel-hero-survivor.md) — 《像素英雄：幸存者》是一款生存类游戏，你必须在无尽的怪物浪潮中生存下来。从三个各具特色的英雄中选择一位，在每波攻击后选择强大的升级，并使用你英雄独特的专属技能来击败成群的怪物！
+- [像素巫师](../games/adventure/pixel-wizard.md) — 在《像素巫师》中，你将化身一名孤独的2D巫师，穿越多个昼夜，在不断来袭的敌人浪潮中求生。受《Brotato》启发，这是一款快节奏的类rogue竞技场射击游戏，挑战你运用神秘魔法，收集强大（有时也带有诅咒）的道具，并不断调整你的构建以应对日益
+- [披萨](../games/adventure/pizza.md) — 《披萨》是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你来到了厨房，一个饥饿的女孩请求你准备披萨。这里有有趣的谜题和隐藏物品，帮助女孩解决饥饿。祝你好运……尽情享受吧！
+- [平静男孩逃脱](../games/adventure/placid-boy-escape.md) — 《平静男孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你前往一个男孩的家中，准备带他去一次冒险之旅。男孩兴奋起来，开始在屋子里奔跑，结果被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离平静男孩所在的房间。祝你好运…
+- [飞机逃脱谜题](../games/adventure/plane-escape-puzzle.md) — 飞机逃脱谜题是一款有趣且富有挑战性的益智游戏，旨在考验你的逻辑思维、专注力和解决问题的能力。这款游戏提供了一种独特的谜题概念，玩家必须仔细按照正确的顺序和方向滑动箭头来移动棋盘上的元素。每一关都带来新的挑战，需要聪明的思考和精准的操作才能解
+- [飞机控制](../games/adventure/planes-control.md) — 掌控天空，安全降落你的飞机，避免碰撞和敌方攻击。在这款极其容易上手却又令人欲罢不能的游戏中，引导你的飞机确保安全着陆！在躲避危险碰撞、猛烈风暴和龙卷风的过程中体验肾上腺素飙升的快感，扑灭森林火灾，准备抵御敌方战斗机的进攻，并击退外星人入侵！
 - [404号星球 第一集](../games/adventure/planet-404-episode-1.md) — 在这款激动人心的解谜平台游戏中，玩家将与勇敢好奇的探险家爱丽丝一同踏上奇妙的旅程。爱丽丝意外被困在一个充满秘密的神秘星球上。这颗星球被神秘莫测的景色所环绕，遍布着各种谜题，玩家必须解开这些谜题才能揭开它的秘密。
+- [行星坠落](../games/adventure/planetary-plunge.md) — 行星坠落将你抛入银河系中一场惊心动魄的宇宙自由落体！穿越小行星带，闪避外星障碍物，深入神秘星球的深处，在求生竞赛中不断前进。快速的动作、令人惊叹的太空环境，以及简单的单触控操作，每一次坠落都是一场心跳加速的冒险。收集宇宙能量道具，解锁新的宇
 - [植物大战僵尸](../games/adventure/plants-vs-undead.md) — 《植物大战僵尸》是一款塔防策略游戏。如果你是游戏玩家，当然对这款游戏的名字非常熟悉。在这款游戏中，你将需要制定最佳的策略。游戏的主要任务是阻止僵尸僵尸进入你的房子并摧毁你的植物。为了防止僵尸，你可以依靠各种具有不同能力的植物。尽情享受吧！
+- [Playtime 夜晚恐怖](../games/adventure/playtime-night-scary.md) — 寻找拥有发光眼睛的诡异幽灵将持续10个关卡。它们会一个接一个地出现，最初你会面对较简单的关卡。根据每个关卡的指示，你需要消灭指定数量的幽灵。这个数量会显示在屏幕左上角。你也可以在这里监控任务进度。请注意，你需要在限定时间内完成任务。倒计时显
+- [口袋跳跃](../games/adventure/pocket-jump.md) — 口袋跳跃——这是一款非常出色的（扁平风格）街机游戏，拥有极其精美的图形。这款游戏非常适合移动设备使用。
 - [口袋宇宙](../games/adventure/pocket-universe.md) — 《口袋宇宙》是一款冒险游戏，玩家可以在游戏中建造并扩展自己的微型世界。
+- [波孔贡与坤蒂兰纳克恐怖惊悚](../games/adventure/pocong-and-kuntilanak-terror-horror.md) — 波孔贡与坤蒂兰纳克，来自印度尼西亚的恐怖民间传说再次制造恐慌。在废弃的限制区域！
+- [波孔贡在库尼坦拉纳之夜的恐怖](../games/adventure/pocong-found-kuntilanak-night-horror.md) — 波孔贡和库尼坦拉纳是印度尼西亚的恐怖故事
+- [宝可梦GO](../games/adventure/pokemon-go.md) — 加入全球各地的训练家，一起探索他们身边的神奇宝贝世界。《宝可梦GO》是风靡全球的游戏热潮，下载量已超过10亿次，并荣获游戏开发者选择奖“最佳移动游戏”以及TechCrunch“年度最佳应用”。_______________ 发现神奇宝贝的世
+- [宝可梦皮卡丘逃脱](../games/adventure/pokemon-pikachu-escape.md) — 《宝可梦皮卡丘逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你接到一个电话，得知宝可梦中的皮卡丘被困在它的屋子里，你需要前往它的家，寻找一些隐藏物品，解开一些有趣的谜题，成功逃脱皮卡丘的房间。祝你好运……玩得开心！
+- [池塘森林逃脱](../games/adventure/pond-forest-escape.md) — 《池塘森林逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一片森林，却意外被困在其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离森林。祝你好运……尽情享受吧！
+- [波比奶奶](../games/adventure/poppy-granny.md) — 如果你想体验惊悚刺激，现在就玩《波比奶奶 V 3.1：恐怖惊悚 MOD 2019》，尝试从恐怖屋中逃脱。你必须找到逃离波比奶奶家的路线，需要使用手边的所有工具来解开谜题并打开门，寻找藏在建筑某处的钥匙，帮助你离开这里。
+- [poppy huggy playtime 恐怖](../games/adventure/poppy-huggy-playtime-horror.md) — 等级越高，挑战就越困难。你必须找到克服障碍的方法，或者利用这些障碍来帮助自己逃脱。
+- [Poppy Playtime 完整版游戏](../games/adventure/poppy-playtime-full-game.md) — 目前 Poppy Playtime 完整版游戏尚未完全上线。现阶段，您只能体验第一章，主要介绍基本操作以及角色。此外，第二集的发布已知悉，预计于 2022 年推出。该游戏属于玩家最喜爱的类型之一——恐怖类。因此，如果您喜欢那种令人血液沸腾的
+- [Poppy Playtime - 迷宫逃脱](../games/adventure/poppy-playtime-maze-escape.md) — 欢迎来到 Poppy Playtime 迷宫逃脱！快跑，小心那个 Poppy 怪物。找到出路逃出去吧！我们开始吧
+- [Poppy Playtime 在线版](../games/adventure/poppy-playtime-online.md) — 《Poppy Playtime》是一款全新的恐怖游戏，你将独自被困在巨大的玩具工厂中，一个可怕的生物正在追捕你。你准备好迎接这次冒险了吗？立即开始游玩！
+- [Poppy Playtime：捷径赛跑](../games/adventure/poppy-playtime-shourcut-race.md) — 与对手竞速，尽可能多地收集沿途的木板碎片！如果你够聪明，就避开障碍，搭建桥梁，走捷径在其他人之前冲过终点线！作弊从未如此时尚！简单易上手的游戏，操作高效且易于学习。
+- [波比对弗莱迪战斗 FNF](../games/adventure/poppy-vs-friday-fight-fnf.md) — 波比游乐场对弗莱迪战斗 FNF 是一场惊人的游戏对决，战场布满陷阱。选择你的英雄，在一个充满奇幻元素的游乐场中战斗。升级你的角色。在激烈的 PVP 对战模式中击败对手。与朋友一起玩，或与来自世界各地的玩家对战。成为波比对弗莱迪战斗 FNF 
+- [波比对花园的班班屋逃脱](../games/adventure/poppy-vs-garten-of-banban-house-escape.md) — 波比对花园的班班屋，一款充满恐怖怪物和神秘鬼屋的恐怖游戏。你能否逃脱邪恶的花园的班班怪物的魔掌，并解开鬼屋中的谜题？在这个游戏中，你必须运用勇气和快速思考来智胜怪物，找到逃离花园的班班的方法。游戏玩法易于理解，但难以精通，因为你必须避开花园
+- [邮差逃脱](../games/adventure/postman-escape.md) — 《邮差逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你前往邮差的家中将他带到办公室。当你到达那里时，你发现自己被困在这所房子里。寻找一些隐藏物品，解开一些有趣的谜题，从而逃离邮差的家。祝你好运……尽情享受吧！
+- [Pot Store Escape](../games/adventure/pot-store-escape.md) — Pot Store Escape 是由 Games2Live 开发的一款点击式解谜游戏。想象一下，你曾去过一家 Pot Store；在那里，你被困在了里面。这里有许多有趣的谜题和隐藏物品等待你去发现并逃离 Pot Store。祝你好运……尽
+- [帅气校 boy 逃脱](../games/adventure/pretty-school-boy-escape.md) — 《帅气校 boy 逃脱》是一款由 8BGames 开发的点击式逃脱游戏。想象一下，你是一位帅气的校 boy 邀请你去他家。当你到达那里时，他被困在这栋房子里。寻找一些隐藏物品，解开有趣的线索，逃离这位帅气校 boy 的房子。祝你好运……尽情
 - [原始德鲁伊 - 动物王国](../games/adventure/primal-druid-kingdom-of-animals.md) — 作为一名原始德鲁伊，你的使命是捕捉、训练并指挥一支生物大军——从凶猛的战猫和混种怪物到传说中的神话巨龙。强化你的队伍，完成惊险刺激的任务，并在充满挑战的危险开放世界中生存下去。
+- [远古房屋逃脱](../games/adventure/primeval-house-escape.md) — 《远古房屋逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你进入了一座老房子，却意外被困其中。现在，迎接你的将是有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [公主金刃与危险水域 - 仅限](../games/adventure/princess-goldblade-and-the-dangerous-waters-onli.md) — 在遥远的魔法世界中，有一座岛屿，上面生活着一种名叫Trinks的非常友好的生物。他们有着勇敢的公主金刃的忠诚保护，她能抵御一切危险。突然间，发生了可怕的事情！来自水域的怪物偷走了Trinks的所有宝藏，更糟糕的是，连孩子们也被偷走了！现在，
+- [越狱 - 越狱计划](../games/adventure/prison-break-prison-escape-plan.md) — 你准备好采取行动，实施一个伟大的越狱计划，证明你并非他们所认为的那样……你无罪，而且是越狱高手。让我们向他们展示，想要将你关在牢笼里需要付出多大代价。你必须制定策略，通过识别高安全设施的漏洞，巧妙逃脱。你被判处15年监禁，关押在最恶劣的监狱
+- [监狱逃脱在线](../games/adventure/prison-escape-online.md) — 监狱逃脱在线是一款非常有趣的忍者风格游戏，你……嗯，帮助他逃离监狱吧！被扔进监狱牢房后，你必须运用你的技巧逃脱！在尝试逃脱的过程中，没有任何限制！但要小心，不是所有道路都安全可逃。
+- [监狱逃脱谜题：冒险](../games/adventure/prison-escape-puzzle-adventure.md) — 你突然发现自己被指控为罪犯，并被关押在阿尔卡特拉斯的一座古老城市监狱中。解开谜题，寻找有助于你逃脱的物品。前往喜马拉雅山脉的高峰，逃离偏远的森林岛屿，探索古代玛雅神庙的出路。每个房间的逃脱都需要你运用逻辑思维，解开神秘任务，从神秘迷宫中挖出
+- [监狱计划逃脱](../games/adventure/prison-plan-escape.md) — 囚犯们因从未做过的事情而被判入狱。他们试图制定一个越狱计划并寻找正义。帮助囚犯找到出路，成功逃脱。如何玩：画出一条逃生路线，帮助囚犯逃脱。那么，教授，你的计划是什么？特色 + 美丽的3D画面 + 超过20个关卡
+- [囚犯逃脱计划](../games/adventure/prisoner-escape-plan.md) — 制定一个从监狱逃脱的计划，并留意守卫。画出逃脱路线，帮助囚犯们逃脱。那么，计划是什么，教授？
 - [囚犯逃亡](../games/adventure/prisoners-run.md) — 这是一座残酷的监狱，狱警毫不留情。你扮演一名身手不凡的囚犯，可以砸开牢门、智胜狱警、解救其他囚犯，并一路杀出一条血路，最终逃出生天。
+- [教授之家逃脱](../games/adventure/professor-house-escape.md) — 教授之家逃脱是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你去了一个教授的家，结果被困在了屋内。现在这里有有趣的谜题和隐藏物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [巴哥犬逃脱](../games/adventure/pug-dog-escape.md) — 《巴哥犬逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你家里有一只宠物巴哥犬。这只狗非常调皮，总是把家里弄得乱七八糟。不幸的是，狗狗被困在了一个房间里。找出一些隐藏物品，解开一些有趣的谜题，从黄色房子中逃出去吧。祝你好运……玩
+- [拉他 NeoxGame](../games/adventure/pull-him-neoxgame.md) — 猎人开始了寻宝之旅，但前方的谜题将他困住了。你需要做的是按正确的顺序画出木棍，以便猎人能够安全地带走隐藏的宝藏。跟随猎人一起，帮助他尽可能多地收集宝藏吧！特性：* 免费游玩，随时随地畅玩 * 适合所有年龄段 *
+- [把他拉出来 - 免费](../games/adventure/pull-him-out-free.md) — 猎人开始了他的寻宝之旅，但前方的谜题将他困住了。你需要做的是按正确的顺序画出棍子，以便猎人能安全地带走隐藏的宝藏。
+- [拔掉引信3D：帮助警察](../games/adventure/pull-the-pin-3d-help-police.md) — 协助勇敢的警察，他正在执行抓捕越狱罪犯的任务。运用你的智慧和策略，拔掉正确的引信，帮助警察追捕罪犯。在追捕过程中，你可能会遇到僵尸或顽固的恶徒。小心罪犯设置的陷阱！务必谨慎！
 - [恐惧脉动](../games/adventure/pulse-of-fear.md) — 你被困在一个废弃之地，那里潜伏着难以言喻的恐怖之物，你的生存取决于两件事：光亮和寂静。
+- [南瓜森林逃脱](../games/adventure/pumpkin-forest-escape.md) — 南瓜森林逃脱是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾进入一片森林，却在其中被困。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离森林。祝你好运……尽情享受吧！
+- [打墙](../games/adventure/punch-the-wall.md) — 你生气了吗？不要把怒气发泄在别人身上，而是发泄在游戏里吧！没错！！打破阻挡你前进的每一面墙！释放你的沮丧和压力，冲过去打碎挡在你面前的墙。展现你的力量。奔跑、击打、粉碎墙壁
+- [木偶大师](../games/adventure/puppet-master.md) — 你想扔刀、开机关枪或发射火箭吗？在这个充满动作的3D木偶大师点击游戏中，通过损坏布娃娃来解锁武器！
+- [紫色小鸟逃脱](../games/adventure/purple-bird-escape.md) — 《紫色小鸟逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个地方，在那里一只紫色小鸟被困住了。这里有有趣的谜题和隐藏的物品等待你去发现，以救出这只小鸟。祝你好运……尽情享受吧！
+- [Pusha Pusha](../games/adventure/pusha-pusha.md) — Pusha Pusha 是一款解谜游戏，你需要将箱子推入目标区域才能通过关卡。一个错误的移动可能导致游戏失败。你准备好推动方块了吗？
 - [拼图蜡烛](../games/adventure/puzzle-candle.md) — 你的目标很简单：到达每个关卡的终点——但过程绝非易事。
+- [谜题屋逃脱](../games/adventure/puzzle-house-escape.md) — 《谜题屋逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你被困在了一栋房子里，在这里，你需要解开有趣的谜题并寻找隐藏的物品，从而逃离这栋房子。祝你好运……尽情享受吧！
+- [金字塔出口：逃脱游戏](../games/adventure/pyramid-exit-escape-game.md) — 进入未知的金字塔，尝试逃离法老的宝藏。你必须通过移动石块找到将棺材移出房间的方法。找出正确的路径，成为最伟大的金字塔盗贼。
+- [隔离女孩逃脱](../games/adventure/quarantine-girl-escape.md) — 《隔离女孩逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到一栋房子，发现里面有一个被锁在房间里的隔离女孩。现在，这里有有趣的谜题和隐藏的物品，帮助她成功逃脱。快来帮忙吧！祝你好运……尽情享受吧!!!
+- [王后逃脱](../games/adventure/queen-escape.md) — 《王后逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你曾造访一座宫殿，在那里发现了一位王后被困其中。寻找一些隐藏物品，解开有趣的谜题，逃离王后的困境。祝你好运……尽情享受吧！
+- [酷儿村逃脱](../games/adventure/queer-village-escape.md) — 《酷儿村逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你为了研究目的前往一个村庄，却意外被困在了村里。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [兔子小猫逃脱](../games/adventure/rabbit-kitten-escape.md) — 《兔子小猫逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困住的兔子小猫。寻找一些隐藏物品，解开有趣的谜题，逃离兔子小猫所在的场所。祝你好运……尽情享受吧！
+- [兔子王国逃脱](../games/adventure/rabbit-land-escape.md) — 《兔子王国逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一个村庄，却意外被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离村庄。祝你好运……尽情享受吧！
+- [浣熊冒险游戏](../games/adventure/raccoon-adventure-game.md) — 浣熊世界丛林冒险为您带来2020年全新的安卓游戏，小丛林男孩的冒险之旅。从前，失落的地图突然出现在浣熊的宅邸中，它引领我们勇敢的丛林男孩踏上冒险岛屿。穿越危险的悬崖、恶魔、火山、沙漠、沼泽等。帮助浣熊跳跃和奔跑，探索丛林游戏。收集宝石、宝藏
 - [彩虹朋友。生存篇](../games/adventure/rainbow-friends-survival.md) — 在这款紧张刺激的生存游戏中，你被困在一个闹鬼的环境中，必须在五天五夜里与无情的怪物搏斗。每个夜晚都会有嗜血的怪物潜伏在阴影中，让你每一步都充满惊心动魄的恐惧挑战。为了生存下去，你必须迅速完成任务目标，精准操作，并始终领先于恐怖的敌人一步。掌
+- [彩虹朋友生存谜题](../games/adventure/rainbow-friends-survival-puzzle.md) — 在这款紧张刺激的动作游戏中，迅速在房间中穿梭以求生存！控制《Among Us》的船员角色，避开与你同处一室的怪物。通过收集每个硬币来解锁出口，然后跳入出口完成每一关。看看你是否有能力存活下来！
 - [彩虹怪物冒名顶替者抓捕者](../games/adventure/rainbow-monster-impostor-catcher.md) — 无需再寻找，彩虹怪物冒名顶替者抓捕者就是你的不二之选！在这场令人兴奋的游戏中，你将操控彩虹蓝，展开一场任务，要在时间耗尽前抓住那些调皮捣蛋的Among Us角色。其引人入胜的游戏玩法和令人上瘾的挑战，保证为你带来数小时的乐趣与娱乐。无论你是
+- [老鼠岛逃脱](../games/adventure/rat-land-escape.md) — 《老鼠岛逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你被困在一个村庄里，这里充满了有趣的谜题和隐藏的物品，你需要找到它们并逃离这个村庄。祝你好运……尽情享受吧！
+- [Ratomilton 与 Sprunki 冒险](../games/adventure/ratomilton-meets-sprunki-adventure.md) — Ratomilton 与 Sprunki 是一款令人兴奋的物理益智游戏，玩家需要运用智慧和策略，引导 Rato Milton 找到他的朋友 Sprunki。与依赖环境移动的 Rato Milton 不同，Sprunki 完全静止不动，等待 
 - [雷文庄园](../games/adventure/raven-estate.md) — 《渡鸦庄园》是一款快节奏的射击游戏，你将扮演一只无畏的乌鸦，夺回一座被诅咒的庄园。使用可锁定方向的武器，巧妙地扫射一波又一波的怪物。在这场紧张刺激的弹幕冒险中，你的每一个选择都至关重要，你需要躲避、穿梭，并释放出混乱的力量。你能夺回你的家园
+- [惊艳之地逃脱](../games/adventure/ravishing-land-escape.md) — 《惊艳之地逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你曾为了研究目的前往一个地方，却意外被困在了那里。现在，这里有着有趣的谜题和隐藏的物品，等待你去发现以成功逃脱。祝你好运……尽情享受吧！
+- [真实苹果捕捉者 极限水果捕捉惊喜](../games/adventure/real-apple-catcher-extreme-fruit-catcher-surprise.md) — 你与苹果之间的真正对决。证明自己是真正的苹果捕捉者。在这个精彩的游戏里，玩家需要智慧地完成任务，从树上捕捉下落的真实苹果。这款游戏展示了你、苹果和计时器之间的较量，要在规定时间内达成目标，才能进入下一关。
+- [ReCoil](../games/adventure/recoil-2.md) — 你扮演一个小小角色，使用各种武器消灭可恶的粉红色病毒！你无法移动，唯一能移动的方式是利用武器的后坐力来推动自己！小心那些尖刺，它们会立即消灭你！与多种不同的机制互动，通过每一关！
+- [红蓝小人绳索](../games/adventure/red-and-blue-stickman-rope.md) — 你准备好迎接两位非常可爱的兄弟——蓝色和红色小人的冒险了吗？红蓝兄弟需要找到钥匙并到达门口。作为两个人，和你的朋友一起帮助他们到达门口。到达门口并通过进入下一关。你将面临多重挑战，但一定要到达门口。
+- [红球4弹跳冒险](../games/adventure/red-ball-4-bounce-adventure.md) — 红球4：第四关是广受欢迎的红色大球4系列的新篇章。邪恶的仆从们想要把星球挤压成方形。而红弹跳球正要拯救世界。在致命的工厂中滚动和跳跃，击败敌人，并避开致命的激光束。
+- [红鸟逃脱](../games/adventure/red-bird-escape.md) — 《红鸟逃脱》是由8B Games/Games2mad开发的一款点击式逃脱游戏。想象一下，你为了研究目的前往森林。在那里，你遇到了一个女孩，她正试图解救被猎人困住的红色小鸟。游戏中包含一些有趣的谜题、线索和隐藏物品，帮助她救出鹦鹉。快来帮忙救
+- [红色逃脱](../games/adventure/red-escape.md) — 《红色逃脱》是一款引人入胜的冒险解谜游戏，考验你的智慧和解决问题的能力！你被困在三个房间中，需要运用逻辑思维，收集工具，发现隐藏线索，并解开复杂的谜题以成功逃脱。你是否具备解决所有谜题并逃出这三个房间的能力？
+- [红月](../games/adventure/red-moon.md) — 每十年，月亮便会闪耀红色……在那一天，我们——红武士，将获得其巨大的力量。你感觉到了吗？凭借这份力量，我们将夺取这个王国。你准备好释放怒火了吗？加入艾瓦娜的宏大冒险，推翻国王。挑战20个充满动作的关卡，经历2场激烈的Boss战斗，同时解锁1
+- [红鹦鹉救援](../games/adventure/red-parrot-rescue.md) — 《红鹦鹉救援》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到一个村庄，在那里发现了一只被困的鹦鹉。这里有有趣的谜题和隐藏物品等待你去寻找，以解救这只鹦鹉。祝你好运……尽情享受吧！
+- [红色房间逃脱](../games/adventure/red-room-escape.md) — 红色房间逃脱是由8BGames开发的一款点击式逃脱游戏。想象一下，你晚上睡着了。当你醒来时，发现自己身处一个全新的红色房间。寻找一些隐藏物品，解开一些有趣的谜题，逃离红色房间。祝你好运……玩得开心！
+- [红色别墅逃脱](../games/adventure/red-villa-escape.md) — 《红色别墅逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你曾造访过一座红色别墅，却意外被困在其中。现在，这里充满了有趣的谜题和隐藏的物品，等待你去发现并成功逃脱。祝你好运……尽情享受吧!!!
+- [红木屋逃脱](../games/adventure/red-wood-house-escape.md) — 红木屋逃脱是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品需要寻找，以逃离这栋房子。祝你好运……尽情享受吧！
+- [普通特工](../games/adventure/regular-agents.md) — 这是一款双人游戏，两名特工需要克服困难，收集鸡蛋并通关。这款游戏是刺猬与蓝鹊的冒险。穿上西装特工，抵达章节终点！
+- [驯鹿逃脱2](../games/adventure/reindeer-escape-2.md) — 《驯鹿逃脱2》是由8BGames开发的一款点击式逃脱游戏。想象一下，你为圣诞节买了一只驯鹿。但有人偷走了你的驯鹿。在寻找驯鹿的过程中，你发现它在一间房子里。找出一些隐藏物品，解开一些有趣的线索，逃离驯鹿的困境。祝你好运……玩得开心！
+- [记者之家逃脱](../games/adventure/reporter-house-escape.md) — 《记者之家逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你进入了一栋房子，却意外被困在了里面。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受吧！
+- [救援休闲拉杆谜题](../games/adventure/rescue-casual-pin-puzzle.md) — 欢迎来到《救援休闲拉杆谜题》，这是一款充满爱意、策略与激情的烧脑冒险游戏。在这款令人上瘾的益智和拉杆谜题游戏中，你的任务是解救这对情侣，摆脱复杂的陷阱和危险的敌人。每一关都讲述一段小小的爱情故事。为了拯救这对情侣，你必须按正确的顺序拔出拉杆
+- [救援朋友](../games/adventure/rescue-friend.md) — 救援男孩：拔掉引信是一款烧脑高智商解谜游戏，但特别上瘾，让人欲罢不能！如何拔掉引信并救出男孩或女孩，取决于你。如果你喜欢救援剪绳游戏并想解决有趣的谜题，那么你一定会爱上《救援男孩：拔掉引信》这款游戏。作为一名拥有超级智慧的专家，你的目标是尝
+- [救援女孩](../games/adventure/rescue-girl.md) — 这是一款有趣的拼图游戏，属于Pin Pull类型。游戏中有多种模式，通过难度各异的独特关卡，解决复杂的任务，拔出钉子或选择正确的冒险发展方向。找到帮助女孩的方法！
+- [救出囚犯](../games/adventure/rescue-man-from-prison.md) — 《救出囚犯》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你的朋友被关在监狱里。现在你必须前来营救他们。游戏中有各种有趣的谜题和隐藏物品等待你去发现，帮助你和朋友们成功逃脱。祝你好运……尽情享受吧！
+- [拯救我的爱](../games/adventure/rescue-my-love.md) — 1. 游戏画面风格简洁，动脑挑战，通关并不容易；2. 非常容易上手，但每一关都不同，通关方式也各不相同；3. 灵活运用大脑思维能力进行挑战，绝对烧脑的解谜玩法，让玩家疯狂嗨起来！
+- [拯救蚂蚁](../games/adventure/rescue-the-ant.md) — 《拯救蚂蚁》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一片森林，发现一只狼獾被困在笼子里。这里有有趣的谜题和隐藏物品需要寻找，帮助蚂蚁逃脱。祝你好运……玩得开心！
+- [拯救蓝鸟2](../games/adventure/rescue-the-blue-bird-2.md) — 《拯救蓝鸟2》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现蓝鸟被困在笼子里。这里有有趣的谜题和隐藏的物品，帮助你救出蓝鸟。祝你好运……尽情享受吧！
+- [拯救蓝蟹](../games/adventure/rescue-the-blue-crab.md) — 《拯救蓝蟹》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现一只蓝蟹被困在笼子里。这里有有趣的谜题和隐藏的物品等待你去发现，帮助蓝蟹逃脱。祝你好运……尽情享受吧！
+- [拯救茄子](../games/adventure/rescue-the-brinjal.md) — 《拯救茄子》是一款由8BGames/Games2live开发的点击式逃脱游戏。想象一下，你来到了茄子被困的地方。寻找一些隐藏物品，解开有趣的谜题，拯救茄子。祝你好运……玩得开心！
+- [拯救卡通书](../games/adventure/rescue-the-cartoon-book.md) — 《拯救卡通书》是一款由8B Games/Games2mad开发的点击式游戏。想象一下，你来到一个地方，发现一本卡通书被困在笼子里。这里有有趣的谜题和隐藏物品等待你去寻找，帮助卡通书逃脱。祝你好运……尽情享受吧！
+- [拯救猫咪](../games/adventure/rescue-the-cat.md) — 《拯救猫咪》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被锁住的猫。寻找一些隐藏物品，解开有趣的谜题，以救出这只猫。祝你好运……玩得开心！
+- [拯救可爱的幼犬](../games/adventure/rescue-the-charming-pup.md) — 《拯救可爱的幼犬》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现一只小狗被猎人困在笼子里。这里有有趣的谜题和隐藏的物品需要寻找，帮助小狗逃脱牢笼。祝你好运……尽情享受吧！
+- [拯救黑猩猩](../games/adventure/rescue-the-chimpanzee.md) — 《拯救黑猩猩》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现一只黑猩猩被困在笼子里。这里有有趣的谜题和隐藏的物品，帮助你救出黑猩猩。祝你好运……尽情享受吧！
+- [拯救可爱女孩2](../games/adventure/rescue-the-cute-girl-2.md) — 《拯救可爱女孩2》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一个被锁住的女孩。寻找一些隐藏物品，解开一些有趣的谜题，救出这个女孩。祝你好运……尽情享受吧！
+- [拯救小狗](../games/adventure/rescue-the-doggy.md) — 《拯救小狗》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的小狗。这里有有趣的谜题和隐藏的物品等待你去发现，从而救出小狗。祝你好运……尽情享受吧！
+- [拯救鸭家族2](../games/adventure/rescue-the-duck-family-2.md) — 《拯救鸭家族2》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一家鸭子被困在了里面。寻找一些隐藏物品，解开一些有趣的谜题，来拯救鸭家族吧。祝你好运……玩得开心！
+- [救女孩](../games/adventure/rescue-the-girl.md) — 《救女孩》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一名被困的女孩。这里有有趣的谜题和隐藏的物品需要寻找，以解救这名女孩。祝你好运……尽情享受吧！
+- [拯救山羊](../games/adventure/rescue-the-goat.md) — 《拯救山羊》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一个村庄，发现一只山羊被陌生人困住了。这里有着有趣的谜题和隐藏物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！
+- [拯救母鸡](../games/adventure/rescue-the-hen.md) — 《拯救母鸡》是一款由8B Games/Games2mad开发的点击解谜游戏。想象一下，你来到一片森林，发现一只母鸡被猎人关在笼子里。这里有有趣的谜题和隐藏物品等待你去发现，帮助母鸡获救。祝你好运……尽情享受吧！
+- [拯救母鸡2](../games/adventure/rescue-the-hen-2.md) — 《拯救母鸡2》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现一只母鸡被猎人关在笼子里。这里有有趣的谜题和隐藏物品等待你去发现，帮助母鸡获救。祝你好运……尽情享受吧！
+- [拯救饥饿的骆驼](../games/adventure/rescue-the-hungry-camel.md) — 《拯救饥饿的骆驼》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只饥饿的骆驼。寻找一些隐藏物品，解开一些有趣的谜题，以拯救这只饥饿的骆驼。祝你好运……尽情享受吧！
+- [拯救饥饿的女孩](../games/adventure/rescue-the-hungry-girl.md) — 《拯救饥饿的女孩》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你进入了一片奇幻森林，在那里发现了一个小女孩被困在小屋里。游戏中有有趣的谜题和隐藏物品，帮助这个可怜的小女孩填饱肚子并成功获救。祝你好运……尽情享受
+- [救救小猫](../games/adventure/rescue-the-kitty.md) — 《救救小猫》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。这只可爱的小猫咪被困在森林里，你需要帮助它找到出路。游戏中充满了有趣的隐藏物品、线索和谜题，快来拯救小猫吧！祝你好运，玩得开心！
+- [拯救狮子](../games/adventure/rescue-the-lion.md) — 《拯救狮子》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾前往一片森林，发现一只狮子被猎人困在笼子里。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你逃离牢笼。祝你好运……尽情享受吧！
+- [拯救小熊崽](../games/adventure/rescue-the-little-cub.md) — 《拯救小熊崽》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现一只小熊崽被猎人困在了笼子里。这里有有趣的谜题和隐藏物品等待你去发现，帮助小熊崽逃脱笼子。祝你好运……尽情享受吧！
+- [拯救猴子](../games/adventure/rescue-the-monkey.md) — 《拯救猴子》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现一只猴子被猎人困在了木屋中。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助猴子逃脱。祝你好运……尽情享受吧！
+- [救援山羊](../games/adventure/rescue-the-mountain-goat.md) — 《救援山羊》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只山羊被困住了。这里有有趣的谜题和隐藏的物品等待你去发现，以救出这只山羊。祝你好运……尽情享受吧！
+- [拯救调皮的小猫](../games/adventure/rescue-the-naughty-kitten.md) — 《拯救调皮的小猫》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现一只小猫被困在猎人设置的笼子里。这里有许多有趣的谜题和隐藏物品需要寻找，帮助小猫逃离笼子。祝你好运……尽情享受吧！
+- [拯救海洋学家](../games/adventure/rescue-the-oceanographer.md) — 《拯救海洋学家》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾潜入海底，却发现一名海洋学家不幸被困。这里有着有趣的谜题和隐藏的物品等待你去发现，帮助他成功逃脱。祝你好运……尽情享受吧！
+- [拯救鸵鸟幼崽](../games/adventure/rescue-the-ostrich-chick.md) — 《拯救鸵鸟幼崽》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现一只鸵鸟幼崽被关在笼子里。寻找一些隐藏物品，解开一些有趣的谜题，以拯救鸵鸟幼崽。祝你好运……玩得开心！
+- [拯救熊猫幼崽](../games/adventure/rescue-the-panda-cub.md) — 《拯救熊猫幼崽》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一片森林，发现一只熊猫幼崽被困在笼子里。这里有有趣的谜题和隐藏物品，帮助你救出熊猫幼崽。祝你好运……尽情享受吧！
+- [拯救熊猫探险家](../games/adventure/rescue-the-panda-explorer.md) — 《拯救熊猫探险家》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一片森林，发现熊猫探险家被困在笼子里。这里有有趣的谜题和隐藏的物品等待你去发现，以解救熊猫。祝你好运……尽情享受吧！
+- [拯救宠物狗](../games/adventure/rescue-the-pet-dog.md) — 《拯救宠物狗》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的狗。这里有有趣的谜题和隐藏物品等待你去寻找，以解救这只小狗。祝你好运！尽情享受吧！
+- [拯救鸽子2](../games/adventure/rescue-the-pigeon-2.md) — 《拯救鸽子2》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你来到一片森林，发现一只鸽子被困在笼子里。这里有有趣的谜题和隐藏的物品，帮助你救出鸽子。祝你好运……尽情享受吧！
+- [拯救海盗鹦鹉](../games/adventure/rescue-the-pirate-parrot.md) — 《拯救海盗鹦鹉》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一片森林，发现海盗鹦鹉被困在笼子里。这里有有趣的谜题和隐藏物品，帮助你救出海盗鹦鹉。祝你好运……尽情享受吧！
+- [拯救可爱的小狗](../games/adventure/rescue-the-pretty-puppy.md) — 《拯救可爱的小狗》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一栋房子，发现一只可爱的小狗被困在屋内。这里有有趣的谜题和隐藏的物品需要寻找，帮助小狗逃脱。祝你好运……尽情享受吧！
+- [营救被困的绵羊](../games/adventure/rescue-the-prisoned-sheep.md) — 《营救被困的绵羊》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你走进了一片森林，发现一只绵羊被猎人关在笼子里。这里有有趣的谜题和隐藏物品等待你去发现，帮助绵羊逃离牢笼。祝你好运……尽情享受吧！
+- [救救小狗](../games/adventure/rescue-the-pup.md) — 《救救小狗》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。这只可爱的小狗被困在森林里，要找到逃离的方法，这里有许多有趣的隐藏物品、线索和谜题，帮助小狗逃离森林。祝你好运，尽情享受！
+- [拯救小狗](../games/adventure/rescue-the-puppy.md) — 《拯救小狗》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一片森林，发现一只小狗被猎人困在笼子里。这里有有趣的谜题和隐藏的物品需要寻找，帮助小狗逃脱笼子。祝你好运……尽情享受吧！
+- [拯救兔子2](../games/adventure/rescue-the-rabbit-2.md) — 《拯救兔子2》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一片森林，发现一只兔子被困在笼子里。这里有有趣的谜题和隐藏的物品等待你去发现，帮助兔子逃脱。祝你好运……尽情享受吧！
+- [拯救红鹦鹉2](../games/adventure/rescue-the-red-parrot-2.md) — 《拯救红鹦鹉2》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一片森林，发现红鹦鹉被困在笼子里。这里有有趣的谜题和隐藏物品，帮助你救出红鹦鹉。祝你好运……尽情享受吧！
+- [拯救海马](../games/adventure/rescue-the-seahorse.md) — 《拯救海马》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你进入了一个洞穴，发现一只海马被困在笼子里。这里有有趣的谜题和隐藏的物品，帮助你救出海马。祝你好运……尽情享受吧！
+- [拯救懒熊](../games/adventure/rescue-the-slothful-bear.md) — 《拯救懒熊》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一片森林，发现一只熊被猎人关在了笼子里。这里有有趣的谜题和隐藏物品等待你去寻找，帮助熊逃脱笼子。祝你好运……尽情享受吧！
 - [解救绑着的人](../games/adventure/rescue-the-tied-man.md) — 《解救绑着的人》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一名被绑在船上的男子。寻找一些隐藏物品，解开一些有趣的谜题，以解救这名绑着的人。祝你好运……玩得开心！
+- [拯救小老虎](../games/adventure/rescue-the-tiger-cub.md) — 《拯救小老虎》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一片森林，发现一只小老虎被困在笼子里。这里有有趣的谜题和隐藏的物品等待你去发现，帮助小老虎逃脱。祝你好运……尽情享受吧！
+- [拯救小鸟](../games/adventure/rescue-the-tiny-bird.md) — 《拯救小鸟》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一个村庄，发现一只小鸟被陌生人困住了。这里有有趣的谜题和隐藏的物品等待你去寻找，帮助小鸟逃脱。祝你好运……尽情享受吧！
+- [拯救鲸鱼](../games/adventure/rescue-the-whale.md) — 《拯救鲸鱼》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一头被困的鲸鱼。这里有有趣的谜题和隐藏物品等待你去发现，帮助鲸鱼获救。祝你好运……尽情享受吧！
+- [拯救狼獾](../games/adventure/rescue-the-wolverine.md) — 《拯救狼獾》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你走进了一片森林，发现一只狼獾被困在笼子里。这里有有趣的谜题和隐藏的物品等待你去发现，帮助狼獾逃脱。祝你好运……尽情享受吧！
+- [度假村逃脱](../games/adventure/resort-escape.md) — 《度假村逃脱》是由Games2Live开发的一款点击解谜游戏。想象一下，你曾前往一家度假村，却在那儿被困在了度假村内。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离度假村。祝你好运……尽情享受吧！
+- [餐厅厨房逃脱](../games/adventure/restaurant-kitchen-escape.md) — 《餐厅厨房逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你被困在了一家餐厅的厨房里。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离厨房。祝你好运……尽情享受吧！
+- [宁静公园逃脱](../games/adventure/restful-park-escape.md) — 宁静公园逃脱是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你去公园玩乐，却意外被困在了公园里。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
+- [复古 rogue](../games/adventure/retro-rogue.md) — 在这个游戏中，你需要完成这些简单动作：奔跑、跳跃、收集、生存！在这场令人兴奋的游戏中，你将踏上一段围绕这些基本动作展开的激动人心的旅程：奔跑、跳跃、收集、生存！系好安全带，迎接一场肾上腺素飙升的冒险，快速反应和敏锐的智慧是你最强大的武器。准
+- [返回阿尔松加森林](../games/adventure/return-to-alsunga-forest.md) — 《返回阿尔松加森林》是Escape Fan制作的一款点击式冒险游戏。有人告诉您，这片森林里藏有一箱宝藏。最近您正面临一些财务危机，这促使您相信关于阿尔松加森林中宝藏的传闻。因此，您进入了森林，希望找到那笔宝藏。在前行一段时间后，您来到一个无
+- [瑞克与乔什的冒险](../games/adventure/rick-and-josh-adventures.md) — 每位英雄都必须通过拾取一块特殊石头来激活他们的传送门。每个人都有自己的能力，例如，赫吉可以使用双重跳跃跳得很高。史蒂夫可以钻进狭窄的空间并贴在墙上。这款游戏类似于《火与水》。你可以在同一台设备上一起游玩。游戏中共有25个关卡，随着进度推进，
+- [戒指抢劫逃脱](../games/adventure/ring-robbery-escpae.md) — "《戒指抢劫逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你即将实施戒指抢劫，这里有有趣的谜题和隐藏物品等待你发现并拿到戒指。祝你好运……尽情享受吧！"
+- [环魂萨马拉逃脱](../games/adventure/ring-soul-samara-escape.md) — 《环魂萨马拉逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去拜访了瑞秋，到了她家后，发现环魂萨马拉被困在了瑞秋的房子里，你需要寻找一些隐藏物品，解开有趣的谜题，找到环魂萨马拉。祝你好运……尽情享受吧！
+- [道路障碍逃脱](../games/adventure/road-block-escape.md) — 道路障碍逃脱是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你被困在道路障碍面前；你必须从这个地方逃脱。这里有许多有趣的谜题和隐藏物品等待你发现，从而成功逃脱道路障碍。祝你好运……尽情享受！
+- [抢劫宝藏](../games/adventure/rob-the-treasure.md) — 《抢劫宝藏》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到一座别墅，发现箱子里藏有宝藏。你想要抢劫宝藏并成功逃脱。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离别墅。祝你好运……尽情享受吧!!!
+- [抢劫鲍勃游戏](../games/adventure/robbery-bob-game.md) — 在《抢劫鲍勃游戏》中，扮演一名聪明的窃贼，体验一场充满动作、策略和趣味挑战的刺激潜行冒险。悄悄穿过房屋、办公室和有警卫把守的地点，避开监控摄像头、陷阱和警惕的守卫。运用你的潜行技巧收集贵重物品，并在不被抓住的情况下完成惊险任务。
+- [火箭导弹攻击](../games/adventure/rocket-missile-attack.md) — 准备好迎接《火箭导弹攻击》中令人兴奋的冒险吧，这是一款融合了策略、速度与精准度的终极导弹指挥游戏！掌控先进的导弹防御系统，保护你的基地免受敌方火箭和导弹一波接一波的攻击。游戏拥有惊艳的图形、直观的操作以及一系列极具挑战性的关卡，让你全程屏住
+- [岩石村庄逃脱](../games/adventure/rocky-village-escape.md) — 《岩石村庄逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你曾前往一个岩石村庄，却不幸被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离村庄。祝你好运……尽情享受吧！
+- [鼠类之地逃脱](../games/adventure/rodent-land-escape.md) — 《鼠类之地逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你被困在了鼠类之地。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离这片土地。祝你好运……尽情享受吧！
+- [叛逆海冒险](../games/adventure/rogue-seas-adventure.md) — 与一位无畏的草帽少年和他的橡胶般敏捷的反应力一起启航，开启《叛逆海冒险》！在小小的岛屿间跳跃，解救被俘的船员同伴，并在最终对决前积累你的力量。画出完美的路径，夺取隐藏的宝箱，看着你那弹性的英雄力量从5 → 9 → ∞飞速提升——所有这一切都
+- [滚动与逃脱](../games/adventure/roll-and-escape.md) — 游戏介绍 欢迎来到激动人心的《滚动与逃脱》冒险！在这个游戏中，你将扮演一个球形角色，穿越充满挑战的迷宫关卡。每一关都会出现不同的怪物，每个怪物都有独特的技能和元素。你的任务是穿越迷宫，躲避紧追不舍的怪物，并抵达每关终点的神秘洞口。进入这个洞
+- [Romp House Escape](../games/adventure/romp-house-escape.md) — Romp House Escape 是由 8B Games/Games2Mad 开发的一款点击式解谜游戏。想象一下，你曾去过一栋房子，结果被困在了里面。现在这里有有趣的谜题和隐藏的物品，帮助你逃脱。祝你好运……尽情享受吧！
+- [密室逃脱 1](../games/adventure/room-escape-1.md) — 《密室逃脱 1》是由 8B Games/Games2Mad 开发的一款点击式游戏。想象一下，你曾去过一栋房子，结果被困在了房子里的某个房间内。现在，这里有一些有趣的谜题和隐藏物品，帮助你成功逃脱。祝你好运……尽情享受吧！！！
+- [密室逃脱3D](../games/adventure/room-escape-3d.md) — 密室逃脱3D是一款有趣的免费在线解谜游戏。你需要运用智慧巧妙地避开守卫，但不要让他们发现你。试着智胜敌人！你可以在这个最好的3D监狱游戏中测试自己的逻辑思维能力。各种酷炫的动作任务和谜题正等着你！游戏整体操作并不困难，但要玩好这个游戏，你需
+- [公鸡母鸡逃脱](../games/adventure/rooster-hen-escape.md) — 《公鸡母鸡逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困住的公鸡母鸡。寻找一些隐藏物品，解开一些有趣的线索，逃离公鸡母鸡所在的场所。祝你好运……尽情享受吧！
+- [公鸡度假村逃脱](../games/adventure/rooster-resort-escape.md) — 《公鸡度假村逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你曾前往一家度假村，结果在那里被困住了。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你逃离公鸡度假村。祝你好运！尽情享受吧！
+- [皇家宅邸逃脱](../games/adventure/royal-residence-escape.md) — 《皇家宅邸逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你参加了一场皇家宅邸的派对庆祝活动。在派对结束后，你发现自己被困在了宅邸内部。现在，迎接你的是一系列有趣的谜题和隐藏物品，帮助你成功逃脱。祝你好运…
+- [ruler survival game](../games/adventure/ruler-survival-game.md) — 进入《Ruler Survival Game》这个充满策略与生存挑战的激烈世界，每一个决定都将决定你的命运。建立你的帝国，管理你的资源，并在这款令人兴奋的生存策略游戏中证明你作为终极统治者的实力。无论你喜欢富有挑战性的游戏玩法，还是沉浸式的
+- [Rumpus House Escape](../games/adventure/rumpus-house-escape.md) — Rumpus House Escape 是由 8B Games/Games2mad 开发的一款点击式解谜游戏。想象一下，你曾去过一栋房子，结果被困在了里面。这里有着有趣的谜题和隐藏的物品等待你去发现，从而逃离这栋房子。祝你好运……尽情享受吧
+- [跑2恐怖](../games/adventure/run-2-spooky.md) — 此游戏于2022年发布，以纪念《洛克人Xover》推出10周年，是我在2012年制作的一款粉丝游戏的HTML5版本。
+- [跑和跳](../games/adventure/run-and-jump.md) — 设法避开所有直升机，获得最高分数，与自己竞争并达到最高纪录。避免所有直升机并获得最高分，与自己竞争并达到最高纪录
 - [从67号跑](../games/adventure/run-from-67.md) — 一款第一人称视角的校园捉迷藏游戏。在每层楼找到6个背包，
+- [跑啊，圣诞老人](../games/adventure/run-santa-run.md) — 又一款有趣的圣诞节游戏，主角是圣诞老人。这一次，圣诞老人出了事故，从雪橇上掉了下来。驯鹿们逃跑了，圣诞老人必须拯救礼物，让更多的孩子开心。所以，收集更多的礼物，分发给世界各地的孩子们。
+- [跑吧，沃万，跑2](../games/adventure/run-vovan-run-2.md) — 跑吧，沃万，跑
 - [符文诅咒](../games/adventure/runic-curse.md) — 《符文诅咒》是一款动作冒险游戏，玩家将扮演海难幸存者艾德里安，他被困在一座神秘岛屿上。
+- [水手逃脱](../games/adventure/sailor-escape.md) — 《水手逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去了一位水手的家中准备出海钓鱼。不幸的是，你到了那里却发现被困在了屋内。寻找一些隐藏物品，解开有趣的谜题，逃离水手的家。祝你好运……尽情享受吧！
+- [水手女孩逃脱](../games/adventure/sailor-girl-escape.md) — 《水手女孩逃脱》是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到海边，发现一艘船上困着一位水手女孩。这里有有趣的谜题和隐藏的物品等待你去发现，帮助她成功逃脱。祝你好运……尽情享受吧！
 - [同一房间，同一天](../games/adventure/same-room-same-day.md) — 体验《同一天同室》带来的惊悚心理恐怖。扮演罗莎琳，探索一座充满怪物的恐怖建筑。面对严峻的挑战，收集关键物资，直面内心深处的恐惧，揭开秘密，在令人毛骨悚然的数字世界中寻求平静。
+- [武士牛人](../games/adventure/samurai-cow-man.md) — 武士牛人是一款前所未有的狂野动作冒险游戏！踏入一位无畏的牛人角色，拥有武士之心与相匹配的剑术技巧。在史诗般的景观中与敌人战斗，斩断障碍，捍卫你的荣誉。游戏玩法：使用流畅的触控操作进行斩击、闪避和冲刺。用强大的太刀连招抵御一波又一波的敌人。解
+- [武士逃脱](../games/adventure/samurai-escape.md) — 你身处一个武士村庄，出口的门被锁住了。探索这个神秘的地方，寻找能帮助你逃脱的有用物品！
 - [武士幸存者](../games/adventure/samurai-survivor.md) — 在古老的日本，一道神秘的传送门开启，无数恐怖的怪物涌入人间。作为最后的防线，一群勇敢的武士必须挺身而出，抵御怪物的侵袭，守护家园。每位武士都拥有世代相传的独特技能和能力，以此对抗黑暗势力。他们必须团结一致，关闭传送门，恢复这片土地的和平。
+- [沙洞逃生](../games/adventure/sand-cave-escape.md) — 《沙洞逃生》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾前往一片森林，却意外被困在其中。这里有着有趣的谜题和隐藏的物品等待你去发现，最终成功逃离森林。祝你好运……尽情享受吧！
+- [沙画](../games/adventure/sand-draw.md) — 在沙子上作画，您可以在屏幕上写下便条或信息给某人，同时也适合所有人使用，因为可以通过沙画来提升绘画技巧。沙画或素描绘画是一款最佳的摄影应用，让您轻松地在类似海滩沙子的表面上绘制草图
+- [沙坑逃脱](../games/adventure/sand-pit-escape.md) — 《沙坑逃脱》是由Games2Live开发的一款点击解谜游戏。想象一下，你曾前往一个沙坑；在那里，你被困在了沙坑里。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离沙坑。祝你好运……尽情享受吧！
+- [沙岸逃脱](../games/adventure/sand-shore-escape.md) — 沙岸逃脱是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你曾为了研究目的前往一片沙滩。结果被困在了沙滩之中。现在，这里有着有趣的谜题和隐藏的物品，帮助你成功逃脱。祝你好运……尽情享受吧!!!
 - [圣诞老人假日冒险游戏](../games/adventure/santa-holiday-adventure-game.md) — 与圣诞老人一起飞行，派送礼物，在神奇的假日冒险中传递圣诞的欢乐！
+- [圣诞跑](../games/adventure/santa-run.md) — 圣诞老人弄丢了他的礼物。现在你需要帮助鸵鸟收集这些礼物，并保护它们免受危险的精灵、邪恶的驯鹿、饼干和雪人的伤害。
+- [Santa Soosiz](../games/adventure/santa-soosiz.md) — 在这个游戏中，你控制着圣诞老人在围绕你的世界中移动！当你在地形上移动时，角色会通过重力紧贴地面——利用这一点从一个平台移动到下一个平台。收集所有丢失的礼物，拯救圣诞节吧！这是一款有趣的圣诞主题探索冒险游戏，快来享受它吧！
+- [香肠游戏](../games/adventure/sausage-game.md) — 香肠翻转是一款有趣的街机游戏，让你用一双大眼睛的滑稽香肠进行投掷！玩法很简单：只需用手指或鼠标向后拖动以瞄准，然后松开即可将你的香肠射向空中
+- [香肠生存大师](../games/adventure/sausage-survival-master.md) — 通过参与各种随机生成的3D小游戏进行战斗和竞速，坚持存活30秒。积累经验，征服各种挑战，确保你的3D角色生存下来！开启惊险冒险，保持敏捷，像资深高手一样灵活操作，让角色持续存活！网站开发者 <a href='https://www.best
+- [救救我的女孩](../games/adventure/save-my-girl.md) — 你能否帮助迷路的女孩克服她所面临的困难？解决谜题，帮助女孩！你必须通过做出正确的选择来拯救女孩。每个难关都有两个选项，你必须做出正确选择才能进入下一阶段。祝你玩得愉快。
+- [拯救我的宠物游戏](../games/adventure/save-my-pet-game.md) — 拯救我的宠物游戏是一款有趣且令人兴奋的益智游戏，你的任务是保护可爱的宠物免受危险障碍和复杂情况的威胁。运用你的逻辑、时机把握和解决问题的能力，找到最安全的方法拯救你的宠物并完成每一关。每一关都会带来新的挑战，需要仔细思考和快速决策。绘制路径
 - [拯救尼莫](../games/adventure/save-nemo.md) — 《拯救尼莫》是一款海底解谜冒险游戏，你的每一个选择都至关重要！帮助勇敢的小鱼尼莫逃离危险的陷阱，智胜饥饿的鲨鱼，并救出鱼公主。选择正确的行动，按正确的顺序拔出别针，连接管道，解决各种烧脑小游戏。探索海底故事，一路收集精美物品，装点你的岛屿。
+- [拯救动物王国](../games/adventure/save-the-animal-kingdom.md) — "拯救动物王国" 是一款点击游戏，玩家控制一个动物角色，试图逃离被熔岩填满的世界。通过点击屏幕的左侧或右侧，角色会从一片叶子跳到另一片叶子，利用植物作为避让下方危险熔岩的方法。目标是引导角色安全抵达，拯救动物王国。
+- [拯救猫咪](../games/adventure/save-the-cat.md) — 拯救猫咪是一款有趣且令人上瘾的超休闲游戏。请尽快完成所有关卡！猫咪被困在大楼的楼层里，请在看守人抓住猫咪之前帮助它逃脱。
+- [拯救饥饿的女孩2](../games/adventure/save-the-hungry-girl-2.md) — 《拯救饥饿的女孩2》是由8BGames/Games2Mad开发的一款点击逃脱游戏。想象一下，你来到了一个地方，在那里发现了一艘船上的饥饿女孩正在寻求冰淇淋。寻找一些隐藏物品，解开有趣的线索，拯救这位饥饿的女孩。祝你好运……尽情享受吧！
+- [拯救饥饿的老人2](../games/adventure/save-the-hungry-old-man-2.md) — 《拯救饥饿的老人2》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一位饥饿的老人正在请求鸡肉。寻找一些隐藏物品，解开一些有趣的线索，以拯救这位饥饿的老人。祝你好运……尽情享受吧！
+- [拯救美人鱼](../games/adventure/save-the-mermaid.md) — 帮助美人鱼逃离水族馆，穿过下水道的屏障，回到大海。
+- [拯救企鹅](../games/adventure/save-the-penguin.md) — 企鹅被困在浮冰上，需要你的帮助！修剪边缘的冰块使其变小。但要小心，不是所有的企鹅都会游泳。同时，要避开掉落的心形物体，并在有国王企鹅的情况下正确分配平衡。
+- [拯救公主 1](../games/adventure/save-the-princess-1.md) — 拯救公主 1：纯净之心的传说 一个宁静的夜晚。在星光下轻声许下的诺言。黎明时分……她消失了。猫王子知道，夺走她的并非偶然，而是一股大胆到足以摧毁纯洁之物的阴影。她不仅仅是一位公主。她是善良，是静默的力量，是赋予世界意义的光芒。没有力量。没有
+- [拯救圣诞老人](../games/adventure/save-the-santa-claus.md) — 快来和我的圣诞老人一起玩有趣的圣诞节游戏吧，避开炸弹和障碍物，安全抵达地球，现在比以往任何时候都更有趣也更容易！
+- [拯救小偷](../games/adventure/save-the-thief.md) — 迅速而隐秘地抢夺大量战利品！小心巡逻的守卫，成为盗贼之王！
+- [拯救叔叔](../games/adventure/save-the-uncle.md) — 《拯救叔叔》是一款免费的在线冒险游戏，专为男孩们在PuzzleGame上设计。你需要救出身处危险中的叔叔。途中会有巨大的蜘蛛和陷阱。每一个插销都是叔叔生命的钥匙。请正确拔出这些插销。游戏玩法紧张刺激，每一关的谜题都将提升你的思维能力！挑战你
+- [国际象棋屋逃脱](../games/adventure/scacchic-house-escape.md) — 《国际象棋屋逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏的物品等待你去发现，从而成功逃脱这栋房子。祝你好运……尽情享受吧！
+- [深海探险](../games/adventure/scale-the-depths.md) — 《深海探险》带你进入一段宁静的水下冒险，让垂钓变成一种放松且富有回报的体验。这款迷人的钓鱼游戏让你探索宁静的海洋，抛出鱼钩，发现不同的海洋生物，并享受简单的捕捞与喂食之旅。如果你热爱钓鱼模拟游戏、放松的海洋探索以及舒缓的收集玩法，这个水下世
+- [稻草人逃脱](../games/adventure/scarecrow-escape.md) — 《稻草人逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去一栋房子取一个稻草人用于农地。当你到达那里时，却发现自己被困在这栋房子里。寻找一些隐藏物品，解开有趣的谜题，逃离稻草人。祝你好运……玩得开心！
+- [害怕的男孩逃脱2](../games/adventure/scared-boy-escape-2.md) — 《害怕的男孩逃脱2》是由8BGames开发的一款点击式逃脱游戏。想象一下，你和一个男孩一起去查看一栋新房子。由于男孩非常害怕，他开始奔跑并被困在了一个房间里。寻找一些隐藏物品，解开有趣的谜题，逃离这个害怕的男孩。祝你好运……玩得开心！
+- [黄色的恐怖婴儿](../games/adventure/scary-baby-in-yellow.md) — 享受这款充满悬念的3D恐怖游戏。黄色的恐怖婴儿是一款充满谜题、恐惧、搜寻、关卡和乐趣的游戏。遵循指示，尝试找到那个害怕的黄色婴儿。把他带到指示你去的地方。完成这款游戏的所有关卡；每个关卡都有时间限制。如果你未能完成关卡，将失去进度，必须重新
+- [恐怖森林逃脱 3](../games/adventure/scary-forest-escape-3.md) — 《恐怖森林逃脱 3》是由 8B Games/Games2mad 开发的一款点击式游戏。想象一下，你曾进入一片森林，结果被困在了里面。这里有有趣的谜题和隐藏的物品等待你去发现，从而逃离森林。祝你好运，玩得开心。
+- [恐怖奶奶：地下室逃脱](../games/adventure/scary-granny-basement-escape.md) — 《恐怖奶奶：地下室逃脱》是一款全新游戏，你将面对想要找到并杀死你的恐怖邪恶奶奶。你需要找到所有出口门并逃离地下室。但要小心恐怖邪恶奶奶。
+- [惊悚万圣节冒险](../games/adventure/scary-halloween-adventure.md) — 惊悚万圣节冒险带你踏上一段诡异的旅程，穿越充满幽灵、怪物和恐怖惊喜的阴森景观。在鬼屋、阴森森林和黑暗洞穴中穿梭，解开谜题并逃离怪物。你能否在这场令人毛骨悚然的万圣节主题冒险中撑过一整夜？考验你的勇气，看看你是否有能力生存下来！
+- [惊悚万圣节差异](../games/adventure/scary-halloween-differences.md) — 惊悚万圣节差异是一款有趣的儿童游戏，现在是时候享受乐趣了！在这个游戏中，你需要在这些有趣的儿童图片中找出不同之处。这些图片背后隐藏着细微的差异。你能找到它们吗？这些有趣的设计等着你来玩。这是一款既有趣又富有教育意义的游戏，因为它能帮助你提高
+- [恐怖万圣节派对](../games/adventure/scary-halloween-party.md) — 恐怖万圣节派对是一款免费的在线技巧和找物游戏。在指定的图片中找出隐藏的星星。每关有10颗隐藏的星星。总共有6关。时间有限，所以要迅速行动，在时间耗尽前找到所有隐藏物品。如果多次点击错误位置，时间将额外减少5秒。如果你准备好了，就开始游戏并享
+- [恐怖迷宫7](../games/adventure/scary-maze-7.md) — 你是否喜欢那种令人紧张刺激的感觉？考验勇气的在线游戏有着独特的吸引力。恐怖迷宫这一类型尤为突出，将玩家推向极限。《恐怖迷宫7》是这一广为人知且常令人畏惧体验的最新版本，为经典的互联网迷宫游戏带来了全新的视角。
+- [恐怖迷宫html5](../games/adventure/scary-maze-html5.md) — 恐怖迷宫html5是一款基于复古恐怖迷宫flash版本的一人游戏，这里增加了三个新关卡。游戏的目标非常简单：不要碰到墙壁（后方区域）.
+- [惊悚午夜隐藏蝙蝠](../games/adventure/scary-midnight-hidden-bats.md) — 惊悚午夜隐藏蝙蝠是一款免费的在线技巧和寻物游戏。在指定的图片中找出隐藏的蝙蝠。每一关都有10只隐藏的蝙蝠。共有8个关卡。时间有限，所以要迅速行动，在时间耗尽前找到所有隐藏的蝙蝠。如果多次点击错误位置，时间将额外减少5秒。所以，如果你准备好了
+- [恐怖彩虹朋友 2023](../games/adventure/scary-rainbow-friends-2023.md) — 欢迎来到彩虹朋友逃脱游戏，许多可怕的蓝色怪物和坏玩具正等着你，还有人也在等你……让我们一起揭开秘密，享受一段惊悚又愉快的时光！这款游戏是《诡异彩虹朋友逃脱》的升级版，源自生存恐怖游戏《波比的噩梦》的恐怖逃脱游戏。
+- [惊恐奔跑](../games/adventure/scary-run.md) — 你喜欢通过逃跑来击败幽灵吗？你是否喜欢恐怖电影，以及那种英雄必须逃离幽灵的场景？如果是的话，这款游戏非常适合你，因为它会让你感觉自己置身于那个场景之中。
+- [恐怖的Stickman房屋逃脱](../games/adventure/scary-stickman-house-escape.md) — 《恐怖的Stickman房屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾去过一栋房子；在那里，你被困在了屋内。这里有许多有趣的谜题和隐藏物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！
+- [恐怖老师2](../games/adventure/scary-teacher-2.md) — 进入《恐怖邻居老师3D》的世界，与地球上最糟糕的高中老师正面交锋。这位老师搬进了玩家的社区。在这场令人毛骨悚然的游戏中，玩家将设法让这位恐怖的邻居老师吃尽苦头。玩家的任务是为所有曾被这位邪恶老师威胁和折磨的学生复仇。这款游戏讲述了邪恶老师及
+- [恐怖火车站](../games/adventure/scary-train-station.md) — 恐怖火车站是一款可在所有设备上玩的隐藏物品游戏。游戏目标是在时间耗尽前找出所有隐藏物品。每二十秒可以使用提示按钮获得帮助。
+- [校园儿童逃脱](../games/adventure/school-child-escape.md) — 《校园儿童逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你前往一所校园儿童的家中接他去学校。当你到达那里时，却发现自己被困在这栋房子里。寻找一些隐藏物品，解开有趣的谜题，成功逃离校园儿童的家。祝你好运……尽情享受吧！
+- [学校逃脱](../games/adventure/school-escape.md) — 《学校逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你刚刚参观完一所学校；现在你必须立刻离开。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离学校。祝你好运……尽情享受吧！
 - [小学生：逃离父母！](../games/adventure/schoolboy-escape-from-parents.md) — 欢迎来到《小学生：逃离父母！》——一款刺激的潜行冒险游戏，你必须在不被父母发现的情况下逃离家！探索房间，收集物品，并巧妙地利用它们，找到通往自由的新路径，解开谜题。
 - [学生逃亡：逃跑](../games/adventure/schoolboy-escape-runaway.md) — 《逃亡少年：离家出走》是一款潜行冒险游戏，你将帮助一位意志坚定的孩子智胜严厉的父母，逃离被锁住的家。穿梭于昏暗的走廊，避开父母的耳目，运用巧妙的计谋完成你的逃亡之旅。你已经许下承诺——现在，能否信守承诺，找到外面的朋友们，就看你的了。游戏特
 - [学生离家出走：密室逃脱](../games/adventure/schoolboy-runaway-room-escape.md) — 严厉的爸爸不让你出门散步，你能逃出密室吗？来挑战你的第一个密室逃脱游戏吧！这个小学生只想逃跑，不想学习，所以快去逃出密室！
+- [尖叫女孩逃脱](../games/adventure/scream-girl-escape.md) — 《尖叫女孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，一名女孩被绑架并锁在一间房子里。当她开始尖叫时，你听到了她的尖叫声。你只有短短的时间来救她。寻找一些隐藏物品，解开有趣的谜题，逃离尖叫女孩所在的房间。祝你好运……玩得开心
+- [螺丝逃脱](../games/adventure/screw-escape.md) — 螺丝逃脱是一款极具挑战性的螺丝谜题冒险游戏。潜入这个扭曲的铁质世界，解开螺母和螺栓，点击产品以解锁螺丝孔，导致金属板掉落。这不仅仅是一款挑战性十足的游戏，更是一款真正考验脑力的螺丝游戏，将彻底颠覆你的思维。你准备好迎接挑战了吗？加入我们，成
+- [海马逃脱](../games/adventure/seahorse-escape.md) — 《海马逃脱》是由8BGames/Games2Mad开发的一款点击式逃脱游戏。想象一下，你在一个傍晚前往一片奇幻的海洋放松自己。当你正在放松时，发现了一只被锁住的海马。寻找一些隐藏物品，解开一些有趣的谜题，从海马中逃脱出来。祝你好运……尽情享
+- [季节变换](../games/adventure/season-change.md) — 在《季节变换》游戏中体验大自然的魔力，这是一款有趣且引人入胜的休闲益智冒险游戏，玩家将探索四季的美丽。在春、夏、秋、冬之间切换，解决挑战，解锁新环境，并发现独特的季节变化。
+- [密室逃脱](../games/adventure/secret-house-escape.md) — 《密室逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索并成功逃离这栋房子。祝你好运……尽情享受吧！
+- [秘密之地逃脱](../games/adventure/secret-land-escape.md) — 《秘密之地逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你曾为了研究目的前往某个地方，却意外被困在了那里。现在，这里充满了有趣的谜题和隐藏的物品，等待你去发现以求逃脱。祝你好运……尽情享受吧！！！
+- [秘密别墅逃脱](../games/adventure/secret-villa-escape.md) — 《秘密别墅逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾造访一座房子，却意外被困在其中。这里有着有趣的谜题和隐藏物品等待你去发现，从而成功逃离这座房子。祝你好运……尽情享受吧！
+- [寻找发现](../games/adventure/seek-find.md) — 潜入一款充满悬念与刺激的趣味谜题寻物游戏中，敏锐的目光和敏捷的思维将主宰一切。这款寻宝游戏邀请所有年龄段的玩家通过精心设计的场景寻找隐藏物品，探索地图并揭开巧妙隐藏的秘密。融合了魅力与挑战，这款有趣的寻物游戏旨在前所未有地吸引你、娱乐你，并
+- [老年狗逃脱](../games/adventure/senior-dog-escape.md) — 《老年狗逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的老年狗。这里有有趣的谜题和隐藏的物品等待你去寻找，帮助狗狗获救。祝你好运……尽情享受吧！
+- [宁静的逃离](../games/adventure/serene-escape.md) — 宁静的逃离是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾来到一个宁静的地方；在那里，你被困在了宁静之中。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离这个宁静之地。祝你好运……尽情享受吧！
+- [影子追击](../games/adventure/shadow-chase.md) — 《影子追击》是一款充满动感的动作冒险游戏，以忍者为主题，是一款令人上瘾的平台游戏。你将扮演一位勇敢的忍者，踏上收集星星的旅程。星星散落在各个关卡中，但敌人也遍布其中。敌人会沿着与忍者相同的路径移动，而忍者拥有一种可摧毁所有敌人的能力。通过使
+- [影子逃脱](../games/adventure/shadow-escape.md) — 在《影子逃脱》中，开启一段无尽的垂直冒险！装备强大的喷气背包，你的任务很简单——飞得更高，躲避障碍物，并尽可能长时间地生存下去。流畅的操作、快节奏的动作以及令人上瘾的游戏玩法，让这款游戏让你不断想要‘再来一次’。无论你是新手还是资深玩家，《
+- [形状混乱](../games/adventure/shape-havoc.md) — 准备好迎接一种极其新颖、简单、原创，但同时又极具挑战性的体验。
+- [鲨鱼攻击3D](../games/adventure/shark-attack-3d.md) — 《鲨鱼攻击3D》是一款有趣又好玩的冒险游戏，你需要躲避所有敌人来赢得游戏
+- [鲨鱼 Io3](../games/adventure/shark-io3.md) — 在这款大鱼吃小鱼的游戏中努力生存。捕捉周围比你小且弱的鱼来进食。在人们躺在海底享受时，一击吞掉他们，让他们来不及反应。你需要避开比你大的鱼，直到它们变得更强大并长大。
 - [绵羊逃脱：农场分拣挑战](../games/adventure/sheep-escape-farm-sorting-challenge.md) — 《绵羊逃生：农场分类挑战》是一款精彩的休闲益智游戏，背景设定在一个充满动物的农场！帮助绵羊们找到逃生之路，成功逃离农场。
+- [护盾屋逃脱](../games/adventure/shield-house-escape.md) — 护盾屋逃脱是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品需要你寻找并成功逃脱。祝你好运……尽情享受吧！
+- [粉碎与撕裂 2](../games/adventure/shred-and-crush-2.md) — 《粉碎与撕裂 2》延续了在广阔奇幻场景中与不同神话生物进行剑斗的冒险。
+- [寂静山谷逃脱](../games/adventure/silent-valley-escape.md) — 寂静山谷逃脱是一款由8B Games/Games2Mad开发的点击解谜游戏。想象一下，你曾和家人一起来到这里度过愉快的时光。你们被困在公园里，安保人员没有注意到你们在里面玩耍，他锁上了大门便离开了。现在这里有一些有趣的谜题和隐藏物品，帮助你
+- [简单别墅逃脱](../games/adventure/simple-villa-escape.md) — 《简单别墅逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你来到一座别墅，却意外被困在了里面。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃脱别墅。祝你好运……尽情享受吧！
+- [歌手逃脱](../games/adventure/singer-escape.md) — 《歌手逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你前往歌手的家中接他去参加音乐会。当你到达那里时，却被困在了这栋房子里。寻找一些隐藏物品，解开有趣的谜题，成功逃脱歌手的家。祝你好运……尽情享受！
 - [罪恶与欲望](../games/adventure/sins-and-desires.md) — 《罪与欲》是一款引人入胜的侦探题材视觉小说，融合了浪漫元素。你将扮演侦探菲莉西亚，前往西阿尔本村，揭开贵族威廉失踪之谜。游戏采用互动式剧情，玩家将做出不同的选择，体验影响结局的人际关系系统，并与阿尔伯特、菲利克斯和维克托展开浪漫的恋爱路线。
+- [Siren Head 对战卡通猫](../games/adventure/siren-head-vs-cartoon-cat.md) — Siren Head 对战卡通猫 弓箭手是一款紧张刺激的物理弓箭游戏。起初，你扮演一只卡通猫，收集尽可能多的宝石，同时避开前方的 Siren Head 和卡通狗。只需轻触屏幕，拉弓并释放箭矢。证明自己是史上最强的弓箭手。最棒的弓箭射击模拟游
 - [滑板男孩逃脱](../games/adventure/skate-boy-escape.md) — 《滑板男孩逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你来到了一位滑板玩家的家中。不幸的是，这个男孩被困在了一个房间里。寻找一些隐藏物品，解开有趣的谜题，救出滑板男孩。祝你好运……尽情享受吧！
+- [滑板公园逃脱](../games/adventure/skate-park-escape.md) — 《滑板公园逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你去了一个滑板公园，却意外被困在了里面。这里有有趣的谜题和隐藏的物品，帮助你逃离滑板公园。祝你好运……尽情享受吧！
+- [Skibidi 跳跃冒险](../games/adventure/skibidi-jump-adventure.md) — 扮演名叫 Skibidi 的小男孩，你将在游戏《Skibidi 跳跃冒险》中体验不间断的平台跳跃动作。Skibidi 是一位技艺高超的舞者，他利用自己的能力跳跃、滑行并避开危险，穿越一系列充满挑战的关卡。
+- [Skibidi 跳跃挑战](../games/adventure/skibidi-jump-challenge.md) — Skibidi 跳跃挑战是一款有趣且富有挑战性的游戏。在这里，玩家需要堆叠垃圾桶，并在正确的时间跳跃，将 Skibidi 马桶放在堆叠的顶部。注意时机；不要让马桶掉落，否则游戏结束。网站开发者 <a href='https://naptec
+- [Skibidi 跳跃](../games/adventure/skibidi-jumping.md) — 方块跳跃是一款你绝对会喜欢的3D游戏。这款游戏旨在通过让多个平台左右移动来测试你的反应速度，你的任务是在你的方块前方出现平台时点击一次。
+- [Skibidi Toilet 横穿马路](../games/adventure/skibidi-toilet-cross-the-road.md) — 踏上一场疯狂的冒险，体验《Skibidi Toilet 横穿马路》！Skibidi Toilet 被困在一片神秘森林的中央，需要穿越道路到达另一边。但小心！前方的道路布满狡猾的河流、倒下的树干，以及潜伏在树林中的野兽。跳过奔腾的溪流，躲避岩
+- [Skibidi 洗手间跳跃者](../games/adventure/skibidi-toilet-jumper.md) — Skibidi 洗手间跳跃是一款快节奏、充满挑战的街机游戏，将考验你的反应能力和协调性。在游戏中，你控制一个上下移动的洗手间。目标是到达塔顶，同时避免被上升的电流击中。你还需要射击并摧毁巡逻塔楼的敌方机器人。游戏上手简单，但精通困难。你越往
+- [Skibidi Toilet Melon 沙盒](../games/adventure/skibidi-toilet-melon-sandbox.md) — 欢迎来到 Skibidi Toilet Melon 沙盒，在这里你将踏上一场史诗级战场的冒险之旅，与勇敢的战士并肩作战。这些休闲合成游戏带来精美的模型和场景，让战斗大师沉浸于怪物与战士之间的战略挑战之中。在怪物大战马桶游戏里，扮演一位策略大
+- [skibidi 马桶恐怖](../games/adventure/skibidi-toilet-terror.md) — 夜间 skibidi 马桶模拟器扮演一名名叫 CameraHead 的男子的角色。夜间的 skibidi 马桶模拟器发生在一个老房子里，你必须逐一访问所有房间，寻找线索并观察以获取硬币。夜间的 skibidi 马桶模拟器让你扮演一名名叫 C
+- [Skibidi Toilet TopDown Survival](../games/adventure/skibidi-toilet-topdown-survival.md) — 在游戏《Skibidi Toilet TopDown Survival》中，玩家将扮演一名机智的摄像师，面对一项非同寻常的挑战。他们的任务是在被调皮的Skibidi Toilets充斥的地图中生存下来。必须消灭这些奇特的敌人，才能继续前进。
+- [骷髅洞穴逃脱](../games/adventure/skull-den-escape.md) — 《骷髅洞穴逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你被困在了一个洞穴里，这里充满了有趣的谜题和隐藏的物品，你需要找到它们并逃离骷髅洞穴。祝你好运……尽情享受吧！
 - [骷髅人逃脱](../games/adventure/skull-man-escape.md) — 《骷髅人逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到一个村庄，在那里发现了一个被困的骷髅人。这里有有趣的谜题和隐藏物品等待你去发现，帮助拯救骷髅人。祝你好运……尽情享受吧！
 - [天空球 - 3D冒险](../games/adventure/sky-ball-adventure-3d.md) — 在空中赛道上滚动、跳跃、疾驰！避开障碍物，挑战极限。
+- [拍手国王](../games/adventure/slap-hands-kings.md) — 挑战你的朋友一起玩，看看谁在拍手游戏中最厉害！准备好了吗？啊——！！！拍手 - 两人游戏 基于一种拍手游戏。它属于两人游戏，但任何喜欢竞争的人都可以玩这个两人游戏。如果你喜欢玩两人游戏，这款游戏非常适合你！
 - [梦游者](../games/adventure/sleepwalkers.md) — 与《梦游者》一起探索奇幻世界，这里有形形色色的角色需要你的帮助才能找到他们的床。在这款免费的在线冒险游戏中，克服重重挑战，避开各种危险。可在任何设备上畅玩，揭开这个迷人童话世界的秘密。
+- [瘦长人迷失在学校](../games/adventure/slenderman-lost-at-school.md) — 《瘦长人迷失在学校》是一款令人毛骨悚然的在线恐怖游戏，将玩家带入一个黑暗而诡异的学校，其中著名的瘦长人正在四处游荡。你的目标是探索废弃的学校，解开谜题，并收集物品以逃脱瘦长人的魔掌。这款游戏融合了潜行、策略和恐怖元素，带来真正身临其境且令人
+- [Slendrina 必死：疗养院](../games/adventure/slendrina-must-die-the-asylum.md) — Slendrina 必死再度回归，带来全新的恐怖冒险！疗养院！她比平时更加愤怒。小心，她在保护着什么。还要提防 Slendrina 的母亲！她是一位年迈的邪恶女巫！在废弃疗养院中寻找 8 本古老的医学书籍。三种武器：- 手枪 - MP5 -
+- [光滑的房子逃脱](../games/adventure/slick-house-escape.md) — 《光滑的房子逃脱》是8B Games/Games2Mad开发的另一款点击逃脱游戏。想象一下，你被困在这所房子里，可以找到有用的物品和有趣的线索符号，解开谜题，最终逃离这所房子。祝你好运，玩得开心！
+- [史莱姆逃脱](../games/adventure/slime-escape.md) — 《史莱姆逃脱》是一款解谜冒险游戏，你将操控一个灵活的史莱姆，在充满挑战的迷宫中滑行，寻找逃脱钥匙。巧妙地引导史莱姆通过弯道、狭窄通道和意想不到的路径；每个迷宫都有不同的布局，需要你仔细观察并计算出最高效的路线。只有收集到钥匙，才能打开大门并
+- [史莱姆微笑](../games/adventure/slime-smile.md) — 今天是史莱姆的故事！通过匹配属性来获得更好的清除体验。如果你喜欢，我们未来将继续更新更多内容！
+- [Slimoban 2](../games/adventure/slimoban-2.md) — Slimoban 2 是受 Sokoban 启发的游戏 Slimoban 的续作，讲述了一位小女孩在充满巨大且危险黏液的地下城中的冒险故事。在每一关中，你需要收集金币，逃离黏液，并尽可能摧毁它们。女孩可以收集魔法药水，帮助她举起巨大的木块和
+- [Slimoban V2](../games/adventure/slimoban-v2.md) — Slimoban 2 是受 Sokoban 启发的游戏 Slimoban 的续作，讲述了一位小女孩在充满巨大且危险的黏液怪物的地下城中的冒险故事。在每一关中，你需要收集金币，逃离黏液怪物，并尽可能地消灭它们。女孩可以收集魔法药水，帮助她抬起
+- [懒惰男孩逃脱](../games/adventure/slothful-boy-escape.md) — 《懒惰男孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，一个懒惰的男孩被困在这所房子里。你的任务是将他救出来。寻找一些隐藏物品，解开有趣的谜题，逃离这个懒惰男孩的困境。祝你好运……玩得开心！
+- [小型企業星期六逃脫](../games/adventure/small-business-saturday-escape.md) — 《小型企業星期六逃脫》是由8B Games/Games2live開發的一款點擊解謎遊戲。想像一下，你曾去過一家購物中心，在那裡發現一名女孩被困。這裡有有趣的謎題和隱藏物品等待你尋找並成功逃出購物中心。祝你好運……玩得開心！
+- [小独角兽逃脱](../games/adventure/small-unicorn-escape.md) — 小独角兽逃脱是由8BGames/Games2live开发的一款点击式逃脱游戏。想象一下，你来到了独角兽被困的地方。寻找一些隐藏物品，解开一些有趣的线索，拯救独角兽。祝你好运……尽情享受吧！
+- [Smash Land Escape](../games/adventure/smashing-land-escape.md) — Smashing Land Escape 是由 8B Games/Games2Mad 开发的一款点击式解谜游戏。想象一下，你为了研究目的前往一个村庄，却意外被困在了这片土地上。现在，这里有有趣的谜题和隐藏物品等待你去发现，以求逃脱。祝你好运
+- [蜗牛挤压](../games/adventure/snail-squash.md) — 蜗牛挤压是一款休闲生存游戏，你的主要目标是保护一只蜗牛并帮助它存活。迅速应对不断来袭的危险，防止蜗牛受到伤害，并尽可能长时间地保护它。现在就去CrazyCubix.com玩蜗牛挤压游戏吧。
+- [蛇类逃脱](../games/adventure/snake-escape.md) — 经典的蛇类游戏，搭配激烈的拼图元素
+- [蛇之度假村逃脱](../games/adventure/snake-resort-escape.md) — 《蛇之度假村逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你曾前往一家度假村享受乐趣。然而，你被困在了度假村内，安保人员并未注意到你还在里面，他们锁上了大门便离开了。现在，这里有着有趣的谜题和隐藏的物品，
 - [蛇类排序](../games/adventure/snake-sorting.md) — 准备好迎接《蛇类排序》中有趣又令人上瘾的益智挑战吧！通过将五彩缤纷的蛇类正确地归入管道来训练你的大脑，完成充满轻松又具挑战性的精彩关卡。轻触并小心移动蛇类，按颜色进行整理。听起来很简单？再想想！随着关卡推进，谜题会变得更加复杂，需要聪明的策
+- [蛇与梯子](../games/adventure/snakes-amp-ladders.md) — 一百个方格，充满陷阱和诡计。掷骰子，试试你的运气吧！梯子会带你上升，但蛇会让你下降！这是100天派对的绝佳游戏！此游戏至少需要2名玩家参与。
+- [史努比逃脱](../games/adventure/snoopy-escape.md) — 《史努比逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，有人从你家里偷走了你的史努比玩偶。后来，你得到了关于你玩偶当前位置的信息。寻找一些隐藏物品，解开一些有趣的线索，逃离史努比的世界。祝你好运……尽情享受！
+- [雪人与战斗机](../games/adventure/snowma-and-fighter-jet.md) — 如何游玩：摧毁敌方飞机以保护礼物，使用箭头键上下移动战斗机。你的目标是将所有礼物击落到屏幕底部的线上。尽情享受吧，朋友们。
+- [雪人屋逃脱](../games/adventure/snowman-house-escape.md) — 《雪人屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃脱房子。祝你好运……尽情享受吧！
+- [雪人调皮的陷阱](../games/adventure/snowmans-naughty-trap.md) — 欢迎来到《雪人调皮的陷阱》！圣诞老人遇到了麻烦，只有你能帮助他！一个淘气的雪人把圣诞老人困在了一个雪地迷宫里，现在你必须拯救他。跳过棘手的障碍物，避开冰冻的障碍，滑过雪隧道，赶在为时已晚之前找到圣诞老人。
 - [新手与高手一起体验雪地冒险！](../games/adventure/snowy-adventures-with-noob-and-pro.md) — 与新手和高手一起体验雪地冒险！——一款有趣的雪地冒险游戏，你可以单人或与朋友一起玩，升级你的树，使其成为世界上最酷的树！收集稀有玩具，畅玩迷你游戏，向所有人展示你的圣诞树才是最棒的！🎄❄️
+- [汽水方块狂想曲](../games/adventure/soda-block-jam.md) — 汽水方块狂想曲是对经典益智游戏的一种清新改编。通过连续滑动汽水箱子，穿越充满活力的关卡，收集汽水瓶，并将它们运送至指定出口。
+- [索尼克隐藏钻石](../games/adventure/sonic-hidden-diamonds.md) — 索尼克隐藏钻石是一款有趣的在线技巧和寻物游戏。在指定的图片中找出隐藏的钻石。每一关都有10颗隐藏的钻石。总共有8个关卡。时间有限，所以要迅速行动，在时间耗尽前找到所有隐藏物品。如果多次点击错误位置，时间将额外减少5秒。如果你准备好了，就开始
+- [音速倒流](../games/adventure/sonic-revert.md) — 《音速倒流》是对经典音速游戏玩法的重新构想，但当索尼克处于奔跑模式时，其操作方式如同驾驶汽车。游戏包含单人计时挑战和在线多人竞速模式。一些经典的索尼克机制已被修改，例如追踪攻击。关卡设计灵感来自Trackmania赛道，但充满了机械敌人、尖
 - [巫师避难所](../games/adventure/sorcerers-refuge.md) — 你醒来发现自己身处一间陌生的客厅。这里没有门，只有墙后传来的低语和黑暗的眼神。欢迎来到巫师的藏身处，一场融合了魔法、谜题和任务的黑暗冒险。
+- [灵魂本质冒险](../games/adventure/soul-essence-adventure.md) — 《灵魂本质冒险》带你进入一段2D旅程，你被困在阴暗城堡的沉闷牢笼中，寻找逃脱之路。在追寻自由的过程中，你将面对这座宏伟堡垒阴影中潜伏的众多敌人。网站开发者 <a href='https://www.onlinegames.io/'>http
+- [太空屋逃脱](../games/adventure/space-house-escape.md) — 《太空屋逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你进入了一栋房子；在那里，你被困在了房子里。这里有有趣的谜题和隐藏的物品等待你去发现并逃离这栋房子。祝你好运……尽情享受吧！
+- [太空监狱逃脱](../games/adventure/space-prison-escape.md) — 你是否想参与朋友被机器人外星人团伙绑架的冒险？朋友们摆脱了外星人铐住的手铐，正在太空飞船中寻找出口门。想要逃离太空飞船可不容易！
+- [太空鱿鱼挑战游戏](../games/adventure/space-squid-challenge-game.md) — 我们将在这款太空鱿鱼挑战游戏中带你进入太空！著名的鱿鱼游戏现在已准备好由你来挑战，你敢接受这个挑战吗？这款游戏拥有非常真实的物理效果，超过十种皮肤和角色可供解锁，配有非常惊悚的音效，让你肾上腺素飙升，操作也非常简单。你有足够的勇气加入游戏并
+- [太空人逃脱冒险](../games/adventure/spaceman-escape-adventure.md) — 太空人逃脱冒险是一款令人上瘾的太空冒险游戏。帮助在太空中孤立的宇航员成功找到钥匙，打开门，并顺利逃脱。注意水流，如果碰到它，你将从头开始。传送门是达到目标的标志，你可以通过关卡。你准备好迎接挑战了吗？
+- [太空飞船战斗](../games/adventure/spaceship-fight.md) — 由gamed Fight制作的太空飞船是一款动作激烈的移动游戏，将你带入激烈的太空战斗。作为一艘强大航天器的飞行员，
+- [SparkSnap](../games/adventure/sparksnap.md) — SparkSnap 是一款点击游戏，烟花从左右两侧不断涌来，你需要点击并拖动所需的烟花到中央位置，然后去取下一个需要的烟花。这样可以增加你的分数。祝你玩得愉快 :)
+- [空间逆反：重力谜题冒险](../games/adventure/spatial-inverse-gravity-puzzle-adventure.md) — 《空间逆反》是一款创新的免费游玩物理谜题游戏，玩家可操控重力，引导发光弹珠到达目标。专为喜爱逻辑游戏、脑筋急转弯和物理模拟的玩家设计，这款HTML5浏览器游戏提供无缝、无需下载的体验。游戏包含三个独特的科幻世界，共15个精心设计的关卡，每一
+- [Speakerman：Skibidi Dop Yes Yes](../games/adventure/speakerman-skibidi-dop-yes-yes.md) — 《Speakerman：Skibidi Dop Yes》是一款非常有趣的遊戲。要前往下一個柱子，你只需要將木頭長度調整到指定長度即可。但這並不像你想的那麼簡單。你需要精準的時機才能做出恰到好處長度的木頭。不要讓它太長或太短，否則你會掉下去。
+- [速度冲刺游戏](../games/adventure/speed-run-game.md) — 速度冲刺游戏是一款有趣、快速且令人兴奋的跑酷游戏，玩家需要快速奔跑，避开障碍物，收集奖励，并抵达终点线。这款游戏适合喜欢跑酷游戏、速度游戏、街机游戏、障碍游戏和休闲冒险游戏的玩家。
+- [蜘蛛逃生链接](../games/adventure/spider-escape-link.md) — 蜘蛛逃生是一款快节奏的街机游戏，你的任务是帮助一只聪明的蜘蛛逃离危险的陷阱和挑战性的障碍。保持警觉，快速移动，引导蜘蛛安全脱险！
+- [蜘蛛侠冒险](../games/adventure/spider-man-adventure.md) — 蜘蛛侠和他的敌人沙人与毒液游戏。在这个游戏中，蜘蛛侠在城市中行走时遇到了他的敌人。他骑着摩托车，利用他收集到的能力。他用蛛网摧毁敌人。祝你好运。
+- [蜘蛛侠对绿魔](../games/adventure/spider-man-vs-goblin.md) — 保护城市免受邪恶的绿色绿魔的侵害。为和平而战。摧毁绿魔的炸弹，然后等待绿魔的出现。得分越高，排名越靠前。帮助斯皮迪保护世界。
+- [蜘蛛侠攀爬大楼](../games/adventure/spiderman-climb-building.md) — 在这个小游戏里，蜘蛛侠正在攀爬大楼。前方有许多障碍物，比如绿魔、章鱼博士等等。看看你能爬多高吧……好玩的游戏！
+- [蜘蛛侠海洋冒险 - 拔药游戏](../games/adventure/spiderman-sea-adventure-pill-pull-game.md) — 拯救我们的蜘蛛侠免受海洋僵尸的侵袭
+- [洒出来吧！—— 滴落小球](../games/adventure/spill-it-drop-balls.md) — 滴落小球，打翻杯子，把所有东西都弄洒！
+- [倒出葡萄酒](../games/adventure/spill-the-wine.md) — Spill It! 是一款令人上瘾的物理益智游戏，你需投放球体来打翻酒杯，使所有液体倾倒而出。享受轻松休闲的街机玩法、简单的操作以及富有挑战性的关卡。非常适合快速游戏时段和离线益智游戏爱好者。
+- [螺旋冲刺](../games/adventure/spiral-rush.md) — 1. 玩家可以根据系统提供的木材发挥想象力进行雕刻，并在完成后获得丰厚奖励；2. 游戏中没有强制性广告，让玩家可以舒适地度过闲暇时光，愉快地享受游戏带来的乐趣；3. 制作过程越自由，得分越高。
+- [海绵宝宝 among us](../games/adventure/spongbob-among-us.md) — 海绵宝宝 among us 是一款有趣且引人入胜的冒险游戏。你的任务很简单：奔跑、击杀，让无人幸存。这款动作游戏充满乐趣，包含跳跃、奔跑和摧毁敌人的元素。你需要摧毁砖块以获得金币和隐藏能力。此外，这款超级跑酷冒险游戏允许玩家使用金币来激活各
+- [海绵邻居逃脱3D](../games/adventure/sponge-neighbor-escape-3d.md) — 你扮演一个名叫鲍勃的人。你来到了城市最底层的街区，并且搬到了一位海绵邻居的隔壁。你喜欢他那座异常巨大的菠萝屋。你认为他非常友善。他有着浓密的大胡子，总是向陌生人打招呼。你了解到他是在一家以蟹肉汉堡闻名的快餐店工作。过了一段时间，你得知秘密汉
+- [海绵宝宝冒险跑跳](../games/adventure/spongebob-adenture-run-and-jump.md) — 海绵宝宝冒险跑跳
+- [海绵宝宝英雄](../games/adventure/spongebob-hero.md) — 海绵宝宝梗 海绵宝宝冰棒 海绵宝宝电影 海绵宝宝方形裤 海绵宝宝角色 海绵宝宝和派大星 海绵宝宝壁纸 海绵宝宝冰淇淋 海绵宝宝动漫 海绵宝宝年龄 海绵宝宝和章鱼哥 海绵宝宝上升 海绵宝宝手臂 海绵宝宝亚特兰蒂斯 海绵宝宝和派大星梗 一个海绵
+- [海绵宝宝钢铁侠](../games/adventure/spongebob-ironman.md) — 欢迎来到最好的游戏《海绵宝宝钢铁侠》
+- [海绵宝宝 蜘蛛](../games/adventure/spongebob-spaider.md) — 欢迎来到最好的游戏 海绵宝宝 蜘蛛
+- [海绵宝宝乌龟](../games/adventure/spongebob-turtles.md) — 超级海绵宝宝乌龟
+- [惊魂露营逃脱](../games/adventure/spooky-camp-escape.md) — 你的父母把你送到一个周末露营地，这里真的很吓人！你唯一想做的就是逃出去！四处看看，找到能帮助你逃离这个诡异营地的物品！
 - [惊魂逃脱](../games/adventure/spooky-escape.md) — 惊魂逃脱是一款需要高反应能力的精彩冒险游戏。在游戏中，你将扮演一个幽灵，追捕你的人会使用红外扫描来追踪你。你必须尽快逃脱。然而，在红外线无法扫描到的地方，你可以反击他们。你准备好了吗？
+- [恐怖万圣节](../games/adventure/spooky-halloween.md) — 恐怖万圣节是由8B Games/Games2Mad开发的一款点击式游戏。想象一下，你来到了一个阴森恐怖、气氛惊悚的地方，让你感觉周围有鬼魂出没。这里有一些有趣的谜题和隐藏物品，让你沉浸在万圣节的氛围中。祝你好运……尽情享受吧!!!
 - [孢子卫士](../games/adventure/spore-guard.md) — 保护活孢子核心免受一波又一波的微生物攻击。核心会自动开火，你需要点击优先目标、收集生物质、解锁变异，并在不断升级的酸液、护盾、坦克、快速移动、粘液和首领级敌人的攻击下生存下来。
 - [Sprunki 冒险 3](../games/adventure/sprunki-adventure-3.md) — 🎮 欢迎来到精彩纷呈的《Sprunki 冒险 3》世界！🏞️
 - [Sprunki 冒险 4](../games/adventure/sprunki-adventure-4.md) — 🎮 欢迎来到冰雪世界《斯普伦基大冒险4》！❄️🏔️
 - [Sprunki 冒险 5](../games/adventure/sprunki-adventure-5.md) — 🎮 欢迎来到酷热难耐的《Sprunki 冒险 5》世界！☀️🌵
+- [Sprunki 城堡恐慌 Skibidi 厕所](../games/adventure/sprunki-castle-panic-skibidi-toilet.md) — 现在 Sprunki 城堡恐慌 Skibidi 厕所必须从 Incredibox 城堡中的 Skibidi 厕所逃脱。收集所有硬币以获得出口权限。现在没有简单的逃脱方式，小心！
 - [Sprunki Craft - 3D沙盒游戏](../games/adventure/sprunki-craft-sandbox-3d.md) — 🌟 探索 Sprunki 的世界！🌟
+- [Sprunki 奇案](../games/adventure/sprunki-epic-mystery.md) — Sprunki 奇案是 Sprunki 世界中的一款真实恐怖游戏。在遇到任何邪恶的 Sprunki 之前收集所有物品！
+- [Sprunki 逃脱 Incredibox 2025](../games/adventure/sprunki-escape-incredibox-2025.md) — 现在你必须逃离 Sprunki 的恐怖，找到所有物品后才能逃脱，小心这个由 Sprunki 制造的永无止境的噩梦！
 - [Sprunki 在后台](../games/adventure/sprunki-in-backrooms.md) — 🎮 欢迎来到 Sprunki 的后室！🟨🚪
+- [Sprunki 被谋杀的 Incredibox](../games/adventure/sprunki-murdered-incredibox.md) — 现在是时候在这场史诗对决中谋杀 Sprunki 了！拿起任何物品，将 Sprunki 烧成永恒的死亡之火！
+- [Sprunki 重制版 最终 v4](../games/adventure/sprunki-retake-final-v4.md) — Sprunki 重制版：通往明星之路的专属配乐 灯光，摄像，行动！进入 Sprunki 重制版，音乐制作与大片叙事完美融合。告别重复播放——这是你的导演剪辑版，为你的作品注入主角般的能量！为什么 Sprunki 重制版独领风骚 我们不只是重
+- [Sprunki 的世界 全模组](../games/adventure/sprunki-s-world-all-mod.md) — 探索 Sprunki Incredibox：一款粉丝制作的音乐冒险游戏。如果你是 Incredibox 的粉丝，那么你一定会爱上 Sprunki Incredibox！这款粉丝自制模组将原版游戏广受欢迎的创意与音乐混搭乐趣提升到了全新的高度
+- [鱿鱼所有挑战](../games/adventure/squid-all-challenges.md) — 欢迎来到这款精彩的休闲鱿鱼游戏《鱿鱼所有挑战》。鱿鱼游戏是一款基于动作与冒险的生存大逃杀游戏。在这款游戏中，我们将与其他玩家对决，赢取巨额奖金！
+- [鱿鱼游戏3D VIP](../games/adventure/squid-game-3d-vip.md) — 今年早些时候在Netflix首播后，鱿鱼游戏迅速成为全球热门。该剧的设定将生存剧与受儿童娱乐活动启发的挑战相结合。然而，幕后策划者为这些纯真的游戏注入了黑暗的转折。例如，在红灯绿灯游戏中，哪怕一步失误也会导致死亡。高风险、引人入胜的谜团以及
+- [鱿鱼游戏娃娃 3D](../games/adventure/squid-game-doll-3d.md) — 所有玩家都贫穷，希望为他们的未来和现在的生活赚取金钱。不要被淘汰，努力登上顶峰，赢得465亿韩元的奖金池！还有鱿鱼游戏挑战，人们来到这个平台，通过完成各种任务来拯救自己的生命。红色灯光时，不允许你移动身体。
+- [鱿鱼游戏 找不同](../games/adventure/squid-game-find-the-differences.md) — 《鱿鱼游戏 找不同》是一款精彩的游戏，您需要在20个关卡中找出7处差异。屏幕上会出现一个条件上分为两部分的游戏区域。乍看之下，两张图片似乎完全相同，但实际上它们之间存在一些差异。您需要仔细检查这两张图片。找出其中一张图片缺少的元素，然后用鼠
+- [鱿鱼游戏 红绿灯](../games/adventure/squid-game-red-green-light.md) — 免费玩鱿鱼红灯绿灯游戏，红灯绿灯是鱿鱼游戏的最佳版本。当女孩娃娃说绿灯时，所有人将朝终点线前进；当鱿鱼游戏娃娃说红灯时，所有人必须立即停止。如果玩家在她喊出红灯时仍在移动，鱿鱼游戏娃娃和红衣人就会杀死他们。立即游玩鱿鱼游戏、红灯绿灯、钓鱼游
+- [鱿鱼游戏太空版](../games/adventure/squid-game-space.md) — 鱿鱼游戏是一款基于红灯绿灯的生存射击游戏。开启你的生存冒险，体验无限关卡和无尽的游戏玩法。运用你的知识，参与鱿鱼游戏课程，成为第一个在竞争者之前完成比赛的人。享受这款免费且简单的鱿鱼游戏。
+- [鱿鱼游戏来玩](../games/adventure/squid-game-to-play.md) — 鱿鱼游戏：生存挑战 鱿鱼游戏：生存挑战是基于韩国电视剧/电视系列的遊戲。關卡包括：綠燈紅燈、拔河、糖畫挑戰、玻璃橋、彈珠滾動和夜間對決。任務很簡單：活下去。
+- [鱿鱼游戏 试求生存](../games/adventure/squid-game-try-to-survive.md) — 该剧围绕一场竞赛展开，456名深陷财务困境的玩家冒着生命危险参与一系列致命的儿童游戏，以争取赢得4560亿韩元奖金的机会。该剧名称源自同名的韩国儿童游戏。
+- [鱿鱼游戏：123，停下](../games/adventure/squidly-game-123-stop.md) — 游戏爱好者注意！你最喜欢的鱿鱼游戏来了。在鱿鱼游戏中击倒你的对手。按照指示享受鱿鱼游戏的真实乐趣，不要迟到，否则你会死。如果你想获得奖品，就不要在鱿鱼游戏挑战中被淘汰。
+- [松鼠乐园逃脱](../games/adventure/squirrel-land-escape.md) — 《松鼠乐园逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你为了研究目的前往一个宁静的国度，却意外被困在了那里。现在，这里充满了有趣的谜题和隐藏的物品，助你成功逃脱。祝你好运……尽情享受吧！
+- [Stack Jump 3D](../games/adventure/stack-jump-3d.md) — 这是一款冒险游戏。在游戏中，玩家需要跳跃到堆叠物上，尽可能跳得更高。这款游戏可以帮助你提高专注力和能力。希望这款游戏能帮到你。如果你喜欢这款游戏，请查看我们的其他应用和游戏。
+- [星球大战尤达逃脱](../games/adventure/star-wars-yoda-escape.md) — 《星球大战尤达逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去拜访星战家族，却发现尤达被困在那栋房子里，你需要寻找一些隐藏物品，解开有趣的谜题，找到星球大战中的尤达。祝你好运……尽情享受吧！
 - [偷鸟](../games/adventure/steal-a-bird.md) — 在3D世界中，你可以自定义皮肤和基地，同时还能从其他玩家那里偷走鸟类。加入这款免费的多人游戏，和朋友们一起成为鸟王吧！
+- [偷取金币](../games/adventure/steal-the-gold-coins.md) — 《偷取金币》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾前往森林笼子偷取金币。这里有许多有趣的谜题和隐藏物品等待你去发现金币。祝你好运……尽情享受吧！
+- [偷取幽灵宝藏](../games/adventure/steal-the-haunted-treasure.md) — 偷取幽灵宝藏是一款由8B Games/Games2Mad开发的点击式游戏。想象一下，你曾到过一个充满宝藏的鬼屋。你想要偷走宝藏并成功逃脱。这里有许多有趣的谜题和隐藏物品等待你发现，帮助你逃离。祝你好运……尽情享受吧!!!
 - [在监狱里过新年](../games/adventure/stick-new-year-in-prison.md) — 你将扮演一个火柴人角色。你的角色在除夕夜被关进了监狱。
 - [火柴人冒险](../games/adventure/stickman-adventure.md) — 这是一场穿越时空的冒险！一路上，你会遇到各种陷阱和怪物；你需要击败它们，救出你的朋友。来吧，英雄，一个全新的世界在等着你！
+- [Stickman Base Jumper](../games/adventure/stickman-base-jumper.md) — 带上你的降落伞，从世界最高的建筑上跳下，体验 Stickman Base Jumper 2 的惊人快感！估算你的助跑距离，并精准把握跳跃时机，在空中滑翔，完成惊险的近距离飞行，在即将撞地、骨断筋折的瞬间打开降落伞。准备好从埃菲尔铁塔、特朗普
+- [Stickman Bros 在水果岛 3](../games/adventure/stickman-bros-in-fruit-island-3.md) — Stickman Bros 在水果岛 3 - Stickman 兄弟在水果岛的冒险！这一次，他们的三位兄弟来到了水果岛冒险。在游戏中，他们的任务是收集草莓和苹果。快来和他们一起探索吧。
+- [Stickman 逃脱出](../games/adventure/stickman-escape-out.md) — Stickman Escape Out 是一款以帮助罪犯从监狱中逃脱为主题的隧道挖掘游戏。用鼠标拖动挖掘地面，沿途收集钥匙和黄金，并到达路线尽头等待你的车辆，带你走向更好的生活。挖出正确的出口，享受你的自由。
 - [火柴人逃脱 - 飞机和轮船](../games/adventure/stickman-escape-plane-and-ship.md) — 向所有人证明你是个富翁！只有拥有金钱的玩家才能在这款游戏中进行购买。逃离巨轮的游戏后续内容需要付费。
+- [stickman hook 2 游戏](../games/adventure/stickman-hook-2-game.md) — 一款关于人们之间领先潮流的竞速 .io 游戏。使用绳索移动，躲避障碍物，尽可能跳得更高，还有更多内容！比对手更快地抓住钩子！
+- [Stickman Hook 动画](../games/adventure/stickman-hook-animation.md) — Stickman Hook 是一款有趣的遊戲，讓你可以測試自己的技巧。你將扮演一個在數百個挑戰關卡中擺盪的 stickman。這款有趣又色彩繽紛的 stickman 遊戲提供超過 100 個挑戰關卡。在遊玩過程中解鎖獨特角色，讓遊戲體驗更豐
+- [Stickman 餐厅冲刺游戏](../games/adventure/stickman-restaurant-rush-game.md) — 欢迎来到 Stickman 餐厅冲刺游戏，这是一款快节奏的餐厅管理冒险游戏，您将为饥饿的顾客提供服务，制作美味佳肴，并发展您的梦想餐厅！扮演一位勤劳的 Stickman 厨师，与时间赛跑，接收订单、烹饪可口食物，并在顾客失去耐心前完成送餐。
+- [Stickman Rope Heroes](../games/adventure/stickman-rope-heroes.md) — 你见过一个 stickman 扔出蛛网吗？是的，他正在扔出网并试图到达终点线以完成他的任务。在所有标记的位置上拉网并跳跃。作为 stickman 超级英雄，帮助他连接网络。在不同难度级别中到达终点线，而不会从悬崖上掉下去。
+- [StickMan 3D 特技竞速](../games/adventure/stickman-stunt-race-3d.md) — StickMan 3D 特技竞速是一款充满动作的游戏，以有趣且令人兴奋的方式结合了跑酷和竞速。你将在数百个独特的关卡中与对手竞争，这些关卡充满了障碍物和陷阱，例如摆动的锤子、旋转的锯子、巨大的球体等。要赢得比赛并抵达终点线，你需要运用速度、
+- [StickManHook](../games/adventure/stickmanhook.md) — 与英雄一起完成冒险，游戏包含多个关卡，每个关卡都有若干锚点，利用惯性，让英雄通过锚点到达终点。通过关卡后将获得金币，金币可用于解锁新英雄，来体验更多乐趣。
+- [跺脚-跺脚](../games/adventure/stomp-stomp.md) — 一款关于毁灭世界的放松游戏！当绿色音符到达红色区域时，点击按钮。
+- [石林逃脱](../games/adventure/stony-forest-escape.md) — 《石林逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾进入一片森林，却意外被困在其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离森林。祝你好运……尽情享受吧！
+- [石林逃脱2](../games/adventure/stony-forest-escape-2.md) — 《石林逃脱2》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你进入了一片森林，却意外被困在其中。这里有着有趣的谜题和隐藏的物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [风暴破坏者](../games/adventure/stormbreaker.md) — 1. 你可以使用多种武器，如激光和导弹，发动攻击并消灭目标，以解锁下一关。2. 注意每张地图的位置以及敌人的位置，做出合理的判断。
+- [街头逃脱2](../games/adventure/street-escape-2.md) — 《街头逃脱2》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你傍晚时分外出散步，却迷了路。于是你决定寻找主门钥匙，以逃离这条街道。这里有许多有趣的谜题和隐藏物品，帮助你成功逃脱。祝你好运……尽情享受吧！
+- [惊艳男孩逃脱](../games/adventure/stunning-boy-escape.md) — 《惊艳男孩逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你是一位惊艳男孩，他邀请你去他的房子。当你到达那里时，他被困在了这所房子里。寻找一些隐藏物品，解开一些有趣的线索，逃离这位惊艳男孩。祝你好运……尽情享受吧！
+- [特技屋逃脱](../games/adventure/stunt-house-escape.md) — 《特技屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离这栋房子。祝你好运……尽情享受吧！
 - [Subby Quest](../games/adventure/subby-quest.md) — 欢迎来到一个被黑暗吞噬的世界。一条深邃的水下洞穴在你面前绵延不绝，充满了神秘、危险，以及你意想不到的事物。探索它，努力生存，揭开隐藏在洞穴深处的秘密。
+- [地铁狂飙冲浪快跑](../games/adventure/subway-madness-surf-rush.md) — 冲浪者们，尽全力在地铁表面奔跑吧，但要小心，保安会试图阻止你进入地铁表面并抓住你，所以赶快逃跑、跳跃并逃离他！奔跑、冲浪，尽可能收集所有儿童免费游戏金币
+- [阳光之地鹦鹉逃脱](../games/adventure/sunland-parrot-escape.md) — 《阳光之地鹦鹉逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个地方，在那里发现了一只被困的鹦鹉。这里有有趣的谜题和隐藏的物品等待你去发现，帮助鹦鹉获救。祝你好运……尽情享受吧！
+- [晴朗逃脱](../games/adventure/sunny-escape.md) — "《晴朗逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个村庄，那个村庄异常炎热。这里有有趣的谜题和隐藏物品等待你去发现，并最终逃离这个村庄。祝你好运……尽情享受吧！"
+- [日落驾驶者 2021](../games/adventure/sunset-driver-2021.md) — 在这场疯狂的漂移体验中，驾驶你最喜欢的汽车驶向日落。
+- [超级冒险世界](../games/adventure/super-adventure-world.md) — 超级陆地冒险3D是一款3D平台陆地游戏，探索并收集岛屿、雪地和沙漠关卡中的所有宝石。奔跑并跳跃通过每一关，小心不要掉进水中或踩到陷阱，否则你将不得不从头开始重新挑战该关卡。通过跳到敌人头上来消灭它们。你能用多少颗星完成这次冒险？收集更多宝石
+- [超级兄弟冒险](../games/adventure/super-brothers-adventure.md) — 这里有两位小兄弟被困在这个神秘的地方，你需要帮助他们合作并逃脱。你需要一个接一个地控制他们，帮助他们克服所有困难，避开那些致命的障碍，并收集全部三把钥匙以通关。记住，只有当他们到达门口时，你们才能一起通过。他们能成功逃脱吗？一切取决于你，祝
+- [超级链条](../games/adventure/super-chains.md) — 超级链条是一款有趣的益智游戏。只需点击一个相邻的方块，该方块的数字比当前方块大1、小1或相同，即可创建长长的链条方块连接并捕获使用它们。这款超级数字益智游戏中隐藏着强大的神话生物！获得强大的英雄来帮助你完成任务！你能成为史诗级冠军吗？
 - [超级砍伐：森林英雄](../games/adventure/super-chop-forest-hero.md) — 《超级伐木：森林英雄》是一款第一人称3D伐木冒险游戏。从石头中拔出英雄斧，砍伐六片森林，从橡树林到红杉巨树，一路披荆斩棘，最后把木材卖给卡车换取金币。你可以升级斧头，换取咆哮的英雄锯、雷霆斧和宇宙劈砍刀，运送木材重建村庄，挑战怪物巢穴——敌
+- [超级圣诞](../games/adventure/super-christmas.md) — 圣诞节又来了！玩这款包含600多个关卡的三消游戏，充满各种新挑战！点亮蜡烛，清除积雪寻找礼物，捕捉跳跃的雪人，填满礼品袋。把圣诞老人从烟囱放下来，点燃鞭炮，填满大袜子，看看冰箱里有什么。同时还要照顾好雪炮！2020年快乐圣诞将让你在圣诞节之
+- [超级危险地牢 - 动作](../games/adventure/super-dangerous-dungeons-action.md) — 加入小寻宝者蒂米的挑战性平台冒险！奔跑跳跃，穿越布满陷阱和谜题的走廊，但要小心：房间中充满了尖刺、深坑和其他致命危险。你是否有能力征服危险的地牢并抵达传说中的宝藏？
+- [超级小农场](../games/adventure/super-ferme-mini.md) — 准备好迎接假期吧，Google Play 上的节日更新已上线！在《超级小农场》中创建属于你自己的个性化农场，并挑战你的邻居，成为最棒的农民！
+- [超级鸡战](../games/adventure/super-fowlst.md) — 世界已被恶魔占领，唯有唯一一只鸡能阻止它们。如何做到？用头猛撞。为什么？我也不确定。
+- [超级马里奥冒险 2D](../games/adventure/super-mario-adventure-2d.md) — 超级马里奥冒险儿童游戏平台游戏 最佳动作冒险游戏，专为你的安卓设备打造！而且是免费的！欢迎来到超级马里奥——最佳冒险儿童游戏，全球最具创意的免费游玩冒险游戏！最佳平台免费游戏，跳跃开启精彩冒险！让我们踏上冒险之旅，帮助小野兽对抗敌人、怪物、
+- [超级马里奥冲冲冲](../games/adventure/super-mario-go.md) — 超级马里奥冲冲冲冒险游戏 如何玩：使用键盘的左键和右键移动，空格键跳跃，D键射击。
+- [超级马里奥丛林跑](../games/adventure/super-mario-jungle-run.md) — 欢迎来到超级马里奥丛林跑。这一次，冒险家将与他的朋友们展开一段神奇的冒险！你通过点击来控制马里奥，他将持续向前奔跑。通过精准点击时机完成帅气的跳跃、空中旋转和墙跳，收集金币并抵达终点！
+- [超级马里奥跑2](../games/adventure/super-mario-run-2.md) — 一种全新的马里奥游戏，你只需用一只手就能玩，拯救公主并拯救世界。你需要准确地点击时机，完成帅气的跳跃、空中旋转和墙跳，收集硬币并抵达终点……在商店购买新角色，通关所有关卡以找到公主。在Kiz10尽情享受乐趣
+- [超级马里奥跑酷世界](../games/adventure/super-mario-run-world.md) — 《超级马里奥跑酷世界》是一款全新的马里奥游戏，您可以用一只手进行游玩。您通过点击来控制马里奥，他将持续向前奔跑。您需要精准地点击以完成帅气的跳跃、空中旋转和墙跳，收集金币并抵达终点！
+- [超级猴子](../games/adventure/super-monkey.md) — 超级猴子：这款游戏的目标是通过跳跃来避开火焰障碍物。如果你想避开障碍物，可以进行双跳。
+- [超级洋葱男孩 - 救出公主](../games/adventure/super-onion-boy-save-the-princess.md) — 你的恋人，那位公主被坏人抓走了。让我们踏上一段冒险旅程来救她。这是一段充满危险的旅途。路上有无数坏人阻拦你。你必须击败或避开他们。记得收集道具和金币。它们可能会救你的命！
+- [超级皮卡丘](../games/adventure/super-pikachu.md) — 超级皮卡丘兄弟-Flash游戏
+- [超级海绵宝宝冒险](../games/adventure/super-spongebob-adventure.md) — 海绵宝宝梗 海绵宝宝冰棍 海绵宝宝电影 海绵宝宝方形裤 海绵宝宝角色 海绵宝宝和派大星 海绵宝宝壁纸 海绵宝宝冰淇淋 海绵宝宝动漫 海绵宝宝年龄 海绵宝宝和章鱼哥 海绵宝宝上升 海绵宝宝手臂 海绵宝宝亚特兰蒂斯 海绵宝宝和派大星梗 一个海绵
+- [超级 Sprunki 冒险游戏](../games/adventure/super-sprunki-adventure-game.md) — 超级 Sprunki 冒险游戏 - 丛林冒险 - 经典跑酷游戏让你有机会回到童年。自从公主被绑架到丛林后，Bobby 世界就变得空无一物。但随后，冒险开始了！你的任务是帮助 Bobby 穿越神秘的丛林，跳过障碍物，并击败邪恶的怪物，拯救最终
+- [超级泰坦去青少年](../games/adventure/super-titans-go-teen.md) — 这是来自《青少年超级泰坦去冒险》的又一款疯狂新游戏。帮助你最喜欢的泰坦游戏角色收集黄金。尽可能快地奔跑，并注意泰坦去的方向，她会帮助你克服障碍。享受在《青少年超级泰坦去冒险》世界中的全新搞笑而疯狂的冒险。很简单！只需不断奔跑和跳跃，尽情享受
+- [超级瓦里奥骑手](../games/adventure/super-wario-riders.md) — 加入蘑菇世界和魔法星星的比赛中，选择并使用马里奥的任何朋友，路易吉、塔朵特或塔多，帮助他们安全抵达每一关的城堡，离从库巴爪牙中救出美丽的公主更进一步！！
+- [超市购物新体验](../games/adventure/supermarket-grocery-shopping-new.md) — 超市游戏是一种有趣的方式，让你像真正的消费者一样在杂货店购物、玩耍和体验！收银员们需要在购物中心的超市里度过忙碌的一天，并在收银台享受乐趣。在收银台后方的购物场景中学习时间管理和现金管理。扮演城市购物中心的资深收银员，学会如何处理现金和清点
+- [超级商店逃脱](../games/adventure/superstore-escape.md) — 9分钟游戏 - 《超级商店逃脱》是9分钟游戏开发的另一款点击式密室逃脱游戏。假设不幸的是，牛仔失去了房间的钥匙，正努力寻找钥匙。点击物品与它们互动，并解决隐藏谜题以成功逃脱。祝你好运，玩得开心！
+- [惊喜蛋：恐龙派对](../games/adventure/surprise-egg-dino-party.md) — 几年前，恐龙还生活在我们的世界中。不幸的是，它们已经灭绝了。我们中的许多人通过照片和书籍了解它们。在这个游戏中，我们想向您介绍恐龙！我们相信，它们多彩的皮肤和不同的颜色一定会吸引您的注意力。游戏非常简单：点击蛋将其打破，最终找到恐龙玩具！如
+- [生存南瓜](../games/adventure/survival-pumpkin.md) — 生存南瓜是一款有趣且令人上瘾的万圣节主题无尽生存游戏，你将操控一个欢快的南瓜，通过跳跃来躲避可怕的敌人和障碍物！点击屏幕让南瓜跳跃，避开诡异的蝙蝠、骷髅、僵尸之手和魔法坩埚。尽可能长时间地存活，以获得最高分数，并在这款既恐怖又刺激的游戏中挑
 - [生存沙盒游戏，持续99个夜晚](../games/adventure/survival-sandbox-for-99-nights.md) — 四个孩子在森林里失踪了。你只有99个夜晚的时间找到他们，否则森林将永远吞噬他们。
+- [生存海星](../games/adventure/survival-starfish.md) — 生存海星是一款在线游戏，挑战玩家在水下生存。通过策略和快速思考，玩家必须穿越危险的水域到达安全地带。游戏充满刺激的玩法和精美的画面，是所有在线游戏爱好者必玩之作。
 - [躲过熔岩，免于脑腐！](../games/adventure/survive-lava-for-brainrots.md) — 跑得更快，收集脑腐！🏃
+- [挺过今夜](../games/adventure/survive-the-night.md) — 你准备好迎接人生中最恐怖的一夜了吗？《挺过今夜》是一款紧张刺激的恐怖生存游戏，你被困在一个黑暗诡异的房间里，而阴影中潜伏着某种东西。你可以选择普通模式或恐怖模式来挑战自我。在普通模式下，你会获得更多的提示，更少的房间，以及普通的怪物。
+- [生存于鲨鱼之间](../games/adventure/survive-the-sharks.md) — 你当时正在船上，不小心掉进了海里。不幸的是，没有人注意到，船把你留在了茫茫大海中央。水中潜伏着鲨鱼，你别无选择，只能努力游向陆地以求生存，因为附近似乎没有任何船只。每次游戏开始时，陆地会出现随机位置，你要尽力避开鲨鱼。海洋中还有无害的鱼类，
+- [游泳俱乐部逃脱2](../games/adventure/swimming-club-escape-2.md) — 《游泳俱乐部逃脱2》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你去了一个游泳俱乐部，结果被困在了俱乐部里。这里有有趣的谜题和隐藏物品，帮助你逃离游泳俱乐部。祝你好运……尽情享受吧！！！
+- [摇摆英雄](../games/adventure/swing-hero-2.md) — 摇摆英雄是一款动作冒险游戏，玩家控制一只猴子用绳索从悬崖上荡下来！当猴子滑下时，岩石和蛇等障碍物会阻挡去路。你需要左右摇摆以避开它们。这是一款刺激又有趣的遊戲，考验你的时机和反应能力。你的猴子能荡多远？
 - [句法](../games/adventure/syntagma.md) — 一款融合了平台跳跃元素的解谜冒险游戏。
+- [达塔希·贝马克套装逃脱](../games/adventure/tadashi-baymax-suit-escape.md) — 《达塔希·贝马克套装逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你去见达塔希讨论贝马克套装的事，结果到达后发现达塔希被困在房子里，而他身上穿着贝马克套装。你需要寻找一些隐藏物品，解开有趣的线索，找到达塔希的贝马克套装。祝你好
+- [太极武术女子逃脱](../games/adventure/taichi-martial-arts-woman-escape.md) — 太极武术女子逃脱是一款由8BGames开发的点击式逃脱游戏。想象一下，你去学习武术，却发现那位教授女性武术的大师被困在了那栋房子里，你需要找到一些隐藏物品，解开有趣的谜题，最终找到太极武术女子大师。祝你好运……尽情享受吧！
+- [Tails Dash](../games/adventure/tails-dash.md) — Tails Dash 是一款免费的趣味游戏应用——Tails 的朋友 Sonic 单独面对丛林危险。Tails Dash 是一款免费的趣味游戏应用——当女巫捕获了森林动物，她也想抓住 Tails，但 Tails 身手敏捷，总能迅速逃离危险，
+- [Talking Tom Gold Run Online](../games/adventure/talking-tom-gold-run-online.md) — Talking Tom Gold Run Online 是最佳的猫咪奔跑游戏。享受与您心爱的猫咪一起玩乐的数小时乐趣，在这款无尽跑酷游戏中，追击被抢劫后的金币！探索新世界，仅以极速竞速。开启一场奔跑冒险，躲避快速行驶的汽车和火车，追捕劫匪。
+- [Talking Tom Run Gold](../games/adventure/talking-tom-run-gold.md) — 一款最有趣的无尽跑酷游戏！玩家将加入 Talking Tom 和他英勇的朋友们，踏上奔跑、获取黄金并重建世界的新旅程！这款全新的动作游戏能让任何人成为真正的超级英雄！
+- [缠绕攀岩者逃脱](../games/adventure/tangled-climber-escape.md) — 《缠绕攀岩者逃脱》是一款极具挑战性的解谜游戏，游戏中被困的攀岩者在山壁上相互缠绕。你的目标是在时间耗尽前，将攀岩者在锚点之间移动，解开所有绳索。每一关都会增加攀岩者数量、空间更加紧凑，以及越来越复杂的结，需要策略与速度并重。明智地使用道具，
+- [坦克对地砖](../games/adventure/tank-vs-tiles.md) — 坦克与地砖是一款射击同色子弹并避开障碍物的游戏。有2个粉色和蓝色。玩家需要触摸屏幕的左半部分或右半部分来相应地发射子弹。这款游戏适合所有年龄，锻炼你的智慧。祝你玩得开心
+- [塔皮·杜蒙 - 飞机](../games/adventure/tappy-dumont-aeroplane.md) — 帮助桑托斯·杜蒙在飞机上尽可能长时间地飞行，并穿越巴黎。只需在屏幕上轻轻触碰几次，即可控制飞机。请注意不要撞到不断出现在屏幕上的树干。通过树干时获得最高分数，同时小心不要让飞机撞上树干而坠毁。《塔皮·杜蒙》是一款休闲类游戏，风格类似“愤怒的
+- [Tappy Tower](../games/adventure/tappy-tower.md) — 在这个游戏中，你需要在房子之上建造房子，一层一层地往上搭建。如果有一层没有正确放置，游戏就会结束，你将需要重新开始。在这个令人兴奋的拼图游戏中，你的任务是在一系列生动的图片中寻找隐藏的物品。在每一关的底部，你会得到一个需要寻找的物品列表，由
+- [土豆塔之塔](../games/adventure/tatertot-towers.md) — 帮助土豆塔保卫老鼠小镇！建造塔楼，抵御成群的敌人。收集资源并升级你的建筑，以提高生存几率。你能延缓不可避免的命运吗？
+- [泰德宅邸逃脱](../games/adventure/ted-house-escape.md) — 泰德宅邸逃脱是一款由8B Games/Games2live开发的点击式游戏。想象一下，你曾来到过一座泰德宅邸，结果被困其中。这里有着有趣的谜题和隐藏物品，助你逃离宅邸。祝你好运……尽情享受吧！
+- [泰迪逃脱](../games/adventure/teddy-escape.md) — 你是一只贫穷的泰迪熊（带着喷气背包！），正被一架喷气式战斗机追击！你只能在圆周上绕圈，而喷气式战斗机则试图击中你。你必须不时改变方向以避免撞上战斗机。起初，你们双方移动得都很慢，因此很容易应对。但随着游戏进程推进，速度会逐渐加快，躲避战斗机
+- [Terra Craft World](../games/adventure/terra-craft-world.md) — Terra Craft World 邀请您探索一个开放世界，在这里每一个决定都会塑造您的旅程。开启一段难忘的冒险，充满发现与创造力。这款游戏完美融合了探索、建造和生存机制，带来一场激动人心的体验。无论您喜欢建造结构还是克服环境危险，每一刻都
+- [感谢闪存](../games/adventure/thank-you-flash.md) — 8B 感谢闪存是一款由 8B Games/Games2Mad 开发的点击式迷你逃脱游戏。想象一下，你是一位闪存逃脱游戏爱好者。由于你的电脑中闪存已被阻止，你想要最后一次玩这个游戏。现在你需要完成一些谜题，以在你的电脑中最后一次解锁闪存播放器
+- [感恩节毛毛虫逃脱](../games/adventure/thanksgiving-caterpillar-escape.md) — 《感恩节毛毛虫逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只被困住的毛毛虫。寻找一些隐藏物品，解开一些有趣的谜题，逃离毛毛虫的困境。祝你好运……尽情享受吧！
+- [感恩节特辑2](../games/adventure/thanksgiving-episode2.md) — 《感恩节特辑2》是由8BGames/Games 2Mad开发的另一款点击式逃脱游戏。在这款逃脱游戏中，你需要在森林中找到一只感恩节火鸡才能逃脱。每集你都会获得一个物品，帮助你寻找火鸡。因此，你需要通过发现有用的物品、线索以及解谜来找到感恩节
+- [感恩节特辑3](../games/adventure/thanksgiving-episode3.md) — 《感恩节特辑3》是由8BGames/Games 2Mad开发的另一款点击式逃脱游戏。在这款逃脱游戏中，你需要找到一只感恩节火鸡才能逃离这片森林。每集你都会获得一个物品来帮助你寻找火鸡。目前你已经收集了两个物品。因此，你需要通过寻找有用的物品
+- [感恩节逃脱系列 第一集](../games/adventure/thanksgiving-escape-series-episode-1.md) — 《感恩节逃脱系列 第一集》是8BGames/Games 2Mad开发的另一款点击式逃脱游戏。在这款逃脱游戏中，你需要找到一只感恩节火鸡才能逃离这片森林。因此，你需要通过寻找有用的物品、线索并解开谜题来逃出感恩节火鸡的困境。祝你好运，玩得开心
+- [感恩节逃脱系列 第二集](../games/adventure/thanksgiving-escape-series-episode-2.md) — 《感恩节逃脱系列 第二集》是8BGames/Games 2Mad开发的另一款点击式逃脱游戏。在这款逃脱游戏中，你需要找到一只感恩节火鸡以逃离这片森林。因此，你需要通过寻找有用的物品、线索并解开谜题来找到感恩节物品，从而逃离感恩节火鸡。祝你好
+- [感恩节逃脱系列最终集](../games/adventure/thanksgiving-escape-series-final-episode.md) — 《感恩节逃脱系列最终集》是8BGames/Games 2Mad开发的另一款点击式逃脱游戏。在这款逃脱游戏中，你需要找到一只感恩节火鸡以逃离这片森林。因此，你需要通过寻找有用的物品、线索并解开谜题来找到感恩节相关物品，从而逃脱感恩节火鸡。祝你
+- [感恩节最终集](../games/adventure/thanksgiving-final-episode.md) — 《感恩节最终集》是8BGames/Games 2Mad开发的另一款点击式逃脱游戏。在这款逃脱游戏中，你需要在森林中找到一只感恩节火鸡以成功逃脱。此前的剧集中，你已经收集了一些物品，这些物品将帮助你找到火鸡。因此，你需要通过寻找有用的物品、线
+- [那不是我的邻居 找不同](../games/adventure/thats-not-my-neighbor-spot-the-difference.md) — 《那不是我的邻居：找不同》是一款经典益智游戏，你需要并排对比两张图片，找出它们之间的所有差异。目标是发现两张几乎完全相同的图片之间的若干差异。这些差异可能包括颜色变化、物体缺失、形状改变或其他视觉差异。挑战在于保持敏锐的观察力，并迅速识别这
 - [大乔的冒险](../games/adventure/the-adventures-of-big-joe.md) — 快来加入海盗大乔的冒险之旅吧！
+- [洞穴 逃生](../games/adventure/the-cave-escape.md) — 规则很简单：从第三人称视角探索一个黑暗而复杂的洞穴。通过智慧解决谜题，避开障碍和陷阱，推进到下一关。目标：避开挡在你面前的陷阱，解开具有挑战性的谜题，深入洞穴，揭开其隐藏的秘密。
 - [逃脱系列](../games/adventure/the-escape-series.md) — 《逃脱系列》是一款引人入胜的游戏，考验你的智力和分析能力。探索精心设计的场景，寻找线索和物品，助你逃脱。每个空间都设有独特的谜题和谜语，确保在移动设备和电脑平台上都能获得沉浸式的游戏体验。
+- [森林朋友](../games/adventure/the-forest-friends.md) — 踏入《森林朋友》的神奇林间冒险！匹配色彩缤纷的森林物品，如浆果、树叶、蘑菇等，完成每一关的目标。在有限的步数内，每一步都至关重要，务必谨慎规划，在步数耗尽前收集所有必需物品。随着关卡推进，难度逐渐提升，新增更多布局和目标需要掌握。操作简单却
+- [菌菌大冒险](../games/adventure/the-fungies-spelungies.md) — 扮演塞思，向下挖掘隧道以到达下方的洞穴。尽可能多地收集化石和宝石。屏幕顶部的星级评分条显示了你的等级评分以及当前进度。避免撞到任何障碍物，无论是来自上方还是侧面。你只能向下、向左或向右移动。收集化石和宝石。每获得一个可收集物品，你的星级评分
+- [Pleia 的家园](../games/adventure/the-home-of-pleia.md) — 被迫来到一个新世界，Pleia 必须耕种这片土地并收集魔法，以恢复她同伴 Briony 的灵魂——她的灵魂被困在灯笼中。用魔法种子 enchant 并避开小生物以保护脆弱的生态系统，当你的家园靠近时，它们会贡献魔法。使用你收集到的魔法来购买
+- [不可能冲刺](../games/adventure/the-impossible-dash.md) — 《不可能冲刺》是一款点击移动游戏，游戏共有7个关卡，每个关卡都有不同的障碍物，你需要点击来移动，以避免与障碍物碰撞。这是一款有趣且充满活力声音的游戏。祝你玩得愉快。
 - [太空中的杀手冒牌货](../games/adventure/the-killer-imposter-among-us.md) — 太空中的杀手冒牌货 _ 是一款有趣且引人入胜的解谜游戏。你的任务是消灭飞船中所有幸存的船员，并在不被任何船员发现的情况下逃脱。游戏剧情：在某处，一群船员正在太空中工作以维持飞船的运行，但总会有危险潜伏其中。你就是那个将一切破坏的冒牌货，需要
+- [最后15分钟](../games/adventure/the-last-15-minutes.md) — 最后15分钟 &ndash; 恐怖解谜游戏 被困在黑暗的地下室，灯光闪烁不定，你只有15分钟时间逃脱。解开谜题，寻找钥匙，揭开秘密——每个角落都隐藏着危险。明智地使用你的手电筒，并考验你的勇气。你能否幸存……还是成为黑暗的一部分？
+- [最后的斯巴达](../games/adventure/the-last-spartan.md) — 你是最后一名斯巴达人，保卫你的城市
 - [回家的漫长路](../games/adventure/the-long-way-home.md) — 你的飞船不见了。你离地球非常遥远，只有一套宇航服、一罐燃料和肺里的空气。
+- [失落的迷宫](../games/adventure/the-lost-labyrinth.md) — 进入陷阱重重的城堡以获得宝藏，但要避开陷阱和障碍物。探索一座古老的神庙。避开陷阱并解决谜题。夺取世界上最伟大的宝藏之一
 - [海盗之海。走私者的道路](../games/adventure/the-pirate-sea-the-smuggler-s-way.md) — 在游戏中，你将扮演一名走私犯。
 - [回家之路：奶奶逃亡](../games/adventure/the-road-home-granny-escape.md) — 《回家之路：奶奶逃脱》是一款恐怖的3D生存游戏，你的唯一目标是逃离一座充满危险、谜题和恐惧的鬼屋。你并非偶然来到这里——奶奶和爷爷是故意把你带到这里，而且他们不会轻易放你走。
 - [玩具工厂的秘密](../games/adventure/the-secret-of-the-toy-factory.md) — 这是一款氛围浓厚的第一人称恐怖游戏，你将探索一座废弃工厂，揭开其黑暗的秘密。解开谜题，寻找有用物品，仔细调查黑暗的房间——危险随时可能降临。
 - [高个子男人](../games/adventure/the-tall-man.md) — 《高个子男人》是一款恐怖游戏，玩家将在黑暗中探索，仅凭微弱的光线寻找线索。但总有某种东西在暗中窥视，伺机而动。
 - [颠倒世界](../games/adventure/the-upside-down.md) — 一款融合策略与80年代元素的战术角色扮演游戏：智胜幽暗行者，救回你的爱犬。
+- [墙破者](../games/adventure/the-wall-breaker.md) — 只需玩一玩，就能放松你的大脑。专注于打破墙壁，你会发现它更加有趣和刺激！砸碎墙壁，让自己摆脱办公室、教室或拥挤街道的枯燥能量。打破墙壁会让你感觉充满活力，比以往任何时候都更强大！如何玩墙破者：按住开始奔跑，松开停止。
 - [术士的囚徒](../games/adventure/the-warlock-s-prisoner.md) — 《术士的囚徒》是一款融合了恐怖、生存和解谜元素的黑暗冒险游戏。
+- [巫师艾利昂](../games/adventure/the-wizard-elion.md) — 当老巫师艾利昂试图召唤一个光球时，一个错误将他传送到了一个充满怪物的现代购物中心。如今，迷失在商店橱窗和奇怪生物之间，艾利昂需要找到纠正法术的方法，返回他的王国，否则混乱将进一步蔓延，怪物将彻底被释放。 ---------该游戏支持三种语言
+- [巫师艾利昂：万圣节版](../games/adventure/the-wizard-elion-halloween-edition.md) — 虽然你可能已经经历过这个小小冒险，但你将再次体验，不过是在不同的气候下！带巫师艾利昂回家 ------------------- 对部分艺术内容进行了更新，并优化了场景。支持语言：英语、葡萄牙语、意大利语
+- [巫师绿斯基比迪狂怒](../games/adventure/the-wizard-green-skibidis-fury.md) — 平行宇宙中的绿色巫师现在正从斯基比迪厕所中逃脱！快点！找到出口！Le sorcier vert dun univers parall&egrave;le s&eacute;chappe des toilettes de Skibidi ! 
+- [剧院逃脱](../games/adventure/theatre-escape.md) — 《剧院逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾去过一家剧院，结果被困在了剧院里。这里有有趣的谜题和隐藏的物品等待你去发现，从而成功逃脱剧院。祝你好运……尽情享受吧！
+- [小偷逃脱](../games/adventure/thief-escapes.md) — 你是否是黑手党中的一名忠实成员，肩负着执行大胆抢劫任务、夺取无价珍宝的使命，同时还要智胜顽强的安全人员？你能否在这个结合了潜行与战略技巧的刺激游戏中，展现出你坚定不移的忠诚和聪明才智？
+- [小偷棍子谜题：男人逃脱](../games/adventure/thief-stick-puzzle-man-escape.md) — 在《小偷棍子谜题：男人逃脱》中享受一场滑稽又烧脑的冒险。这是一款融合了棍子人喜剧、巧妙的谜题关卡以及有趣的逃脱挑战的游戏，将让你沉迷数小时！你扮演一名狡猾的小偷棍子人，试图从棘手的境况中逃脱。为了生存，你需要解决聪明的脑筋急转弯谜题。例如，
+- [雷神 boss 战斗](../games/adventure/thor-boss-battles.md) — 至高大师偷走了奥丁宝库中的圣物，唯有雷神才能将其夺回。扮演雷神，深入宇宙废墟，对抗至高大师联手的反派：洛基、魅惑女巫和海拉。
+- [咚咚萨赫尔夜逃](../games/adventure/thung-thung-sahur-night-escape.md) — 《咚咚萨赫尔夜逃》是一款身临其境的第一人称恐怖潜行游戏，背景设定在一个阴森诡异的废弃村庄。你的唯一任务是在可怕的咚咚萨赫尔抓住你之前，救出被囚禁的脑腐生物。
+- [咚咚萨胡尔游乐场逃脱](../games/adventure/thung-thung-sahur-playgrounds-escape.md) — 《咚咚萨胡尔游乐场逃脱》是一款生存恐怖游戏。你必须在咚咚抓住你之前，找到完成任务的方法！
+- [井字棋专业版](../games/adventure/tic-tac-toe-pro.md) — 井字棋专业版是经典游戏的增强版本，具有时尚的设计、多种难度级别以及多人游戏选项。您可以选择不同技能等级的AI对手进行对战，或在竞争环境中挑战朋友。适合随时随地进行快速而富有策略性的游戏。老少皆宜！
+- [被绑男子逃脱](../games/adventure/tied-man-escape.md) — 《被绑男子逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，一位老人被绑架并关押在某个剧院里；在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离剧院。祝你好运……玩得开心！
 - [瓦片农场物语](../games/adventure/tile-farm-story.md) — 《Tile Farm Story》是一款精彩刺激、充满挑战的冒险游戏，让你爱不释手！
+- [瓷砖山下滑](../games/adventure/tile-hill-descent.md) — 瓷砖山下滑是一款快节奏的街机游戏，你将引导一个弹跳的表情符号沿着无尽的瓷砖路径下滑。在方块间斜向移动，保持在轨道上并避开危险。一个错误的操作可能让你掉下边缘或踏上致命的方块。利用特殊方块，如反弹垫可以跳过前方，扩展方块可以拓宽你的路径。保持
 - [木屋逃脱](../games/adventure/timber-house-escape.md) — 《木屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾去过一栋房子；在那里，你被困在了房子里。这里有有趣的谜题和隐藏的物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！
+- [小鸟救援](../games/adventure/tiny-bird-rescue.md) — 《小鸟救援》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你来到一栋房子，发现一只小鸟被困在屋内。这里有有趣的谜题和隐藏物品等待你去发现，帮助这只小小鸟获救。祝你好运……尽情享受吧！
+- [小小蓝鸟逃脱](../games/adventure/tiny-blue-bird-escape.md) — 《小小蓝鸟逃脱》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的鸟。这里有有趣的谜题和隐藏的物品等待你去发现，以解救这只小鸟。祝你好运……尽情享受吧！
+- [泰坦英雄岛上大冒险](../games/adventure/titans-go-island-adventure.md) — 你一定会爱上这款超级英雄少年泰坦大冒险和跑酷游戏！这是一场终极跑酷冒险，充满各种障碍需要克服！还有众多敌人需要击败，才能在每一关获得最高分数并推进到下一关。画面精美且绚丽，帮助超级英雄泰坦少年们收集金色硬币，并穿越丛林、沙漠、冰世界、撒哈拉
+- [Toby 的冒险](../games/adventure/toby-s-adventures.md) — Toby 的冒险是一款解谜平台游戏。收集所有食物并到达门口以完成关卡。打破砖块，避开障碍物和敌人。
+- [Toco 逃脱](../games/adventure/toco-escape.md) — "Toco 逃脱是一款由8B Games/Games2live开发的点击解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的Toco。这里有有趣的谜题和隐藏物品等待你去寻找，以拯救Toco。祝你好运……尽情享受吧！"
+- [托科金刚鹦鹉逃脱](../games/adventure/toco-toucan-escape.md) — 《托科金刚鹦鹉逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的托科金刚鹦鹉。这里有有趣的谜题和隐藏物品等待你去寻找，以解救这只托科金刚鹦鹉。祝你好运……尽情享受吧！
+- [厕所冲刺赛游戏](../games/adventure/toilet-rush-race-game.md) — 厕所冲刺赛游戏是一款有趣且节奏快速的赛车游戏，你需要帮助你的角色尽快到达厕所！选择正确的路径，与对手竞速，并避免在途中迷路。每一关都有新的挑战，包括色彩缤纷的路径、激动人心的比赛和复杂的路线。保持专注，迅速做出决策，在对手之前抵达终点！
 - [东京美味](../games/adventure/tokyo-treats.md) — 在这个引人入胜的益智游戏中，你需要将各种色彩缤纷的水果色调进行匹配，以清除棋盘并获得甜蜜奖励。随着你逐步通过越来越具有挑战性的关卡，颜色和组合变得愈加复杂，需要策略思维和快速反应才能成功。每一关都带来更多的兴奋感和匹配的刺激，挑战你迎难而上
+- [收费站逃脱](../games/adventure/toll-gate-escape.md) — 《收费站逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你正前往学校途中，却被困在了收费站。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离收费站。祝你好运……尽情享受吧！
+- [汤姆和杰瑞 - 拼图逃脱](../games/adventure/tom-and-jerry-puzzle-escape.md) — 汤姆和杰瑞拼图逃脱是一款基于广受欢迎的汤姆和杰瑞动画系列的趣味点击解谜游戏。在这个精彩的游戏里，你必须完成一系列关卡，帮助杰瑞老鼠从汤姆猫手中逃脱！
+- [墓穴逃脱者](../games/adventure/tomb-escaper.md) — 《墓穴逃脱者》是一款紧张刺激的解谜冒险游戏，你必须从一个充满致命陷阱和巧妙谜题的神秘古老墓穴中逃脱。运用你的逻辑和敏捷性克服障碍，避开危险，赶在为时已晚之前找到出路。随着难度逐渐增加和氛围感十足的设计，每一关都会以全新方式挑战你的大脑和反应
+- [面具之墓色彩迷宫](../games/adventure/tomb-of-the-mask-color-maze.md) — 挑战你的技巧，看看你能征服多少关卡！在这场激动人心的25关迷宫挑战中，你需要在避开不断逼近的障碍物的同时，将整个迷宫涂色。每一关都带来新的曲折、转弯和障碍，使迷宫难度逐步提升
+- [Toto Adventure](../games/adventure/toto-adventure.md) — 玩精彩冒险游戏 Toto Adventure。你有 24 个关卡。避开障碍物，收集 3 把钥匙以到达关卡终点。祝你好运！
+- [Toto World](../games/adventure/toto-world.md) — 玩精彩冒险游戏 Toto World。在三个角色中选择一个，通过20个关卡避开障碍物完成游戏。祝你好运！
+- [按顺序触摸字母](../games/adventure/touch-the-alphabet-in-the-order.md) — 按顺序触摸字母——在这个教育类游戏中，通过游戏化的方式，你需要按字母表的顺序触摸字母以通关。本游戏只有一个关卡，配有60秒的游戏计时器，带来有趣的玩法体验，展示你与其他玩家相比的最佳游戏成绩。尽情享受吧！
+- [塔楼建造挑战](../games/adventure/tower-builder-challenge.md) — 塔楼建造挑战是一款超休闲游戏，你需要像乐高一样搭建一座塔楼。你能把塔建得多高？给你一个小提示：无论你做什么，都要保持平衡。别把塔楼弄倒了 :) 你会度过一段愉快的时光，心情也会很好。ripogame.com祝你游戏愉快。
+- [塔楼攀爬](../games/adventure/tower-climb.md) — “攀登塔楼”是一款刺激的迷你游戏，考验速度与反应能力，你需要扮演一名真正的忍者，攀登到一座极其高耸的塔顶！帮助主角存活下来，并成功克服途中诸多危险障碍！尽可能快速地向上攀升，因为下方是紧追不舍的沸腾熔岩湖！务必万分小心，不要落入前方众多阴险
+- [塔楼之地逃脱](../games/adventure/tower-land-escape.md) — 《塔楼之地逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却发现自己被困在了那里。这里有着有趣的谜题和隐藏的物品等待你去发现并成功逃离村庄。祝你好运……尽情享受吧！
+- [小镇住宅逃脱](../games/adventure/town-home-escape.md) — 《小镇住宅逃脱》是由8B Games/Games2Mad开发的一款点击式解谜游戏。想象一下，你来到一座小镇住宅，却意外被困在其中。现在，这里有着有趣的谜题和隐藏的物品，等待你去发现并成功逃脱。祝你好运……尽情享受吧!!!
 - [有毒领域：生物威胁](../games/adventure/toxic-arena-biological-threat.md) — 《毒害竞技场：生物威胁》是一款惊险刺激的动作类Roguelike生存游戏，你的唯一目标就是在全球生物灾难的中心生存下去。你是一名被困在竞技场中的战士，面对无穷无尽的变异生物大军。考验你的胆量和反应速度吧！
+- [玩具屋逃脱](../games/adventure/toy-house-escape.md) — 玩具屋逃脱是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾进入一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品需要你寻找并成功逃脱房子。祝你好运……尽情享受吧！
+- [拖拉机快递农业](../games/adventure/tractor-express-agricultural.md) — 农业是世界上大多数国家经济的主要来源。人们喜欢耕种和建立农场以实现这一目的。农业和耕作中充满了各种活动，包括拖拉机模拟。很难满足人们对农业的渴望以及在田间驾驶拖拉机的需求。因此，我们为拖拉机模拟爱好者和农民提供了一个平台，让他们虚拟地享受实
+- [交通检查员住宅逃脱](../games/adventure/traffic-inspector-house-escape.md) — 《交通检查员住宅逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾前往一栋住宅，却在其中被困。这里有许多有趣的谜题和隐藏物品等待你去发现，从而成功逃离住宅。祝你好运……尽情享受吧！
+- [火车旅行](../games/adventure/train-travels.md) — 你是一名火车司机，我告诉你保持火车在铁轨上运行真的很难，所以首先你必须从车站接上乘客，然后驾驶火车到达他们需要抵达的目的地。特性 • 多个关卡 • 趣味玩法
 - [陷阱工艺](../games/adventure/trap-craft.md) — 黑客准备满足公主、菜鸟、高手、Herobrine 和其他角色的任何愿望。
+- [陷阱制作](../games/adventure/trap-craft-2.md) — 黑客再次在怪物学校制造了一场僵尸末日。他还邀请你与他玩游戏。游戏中有菜鸟、高手、公主以及其他怪物学校的角色。每个人都有自己的愿望，例如，菜鸟希望得到公主的爱。如果能通过黑客的所有挑战，他就会满足每个人的愿望。你所需要做的就是保护传送门免受方
 - [陷阱敌人3D](../games/adventure/trap-the-enemy-3d.md) — 欢迎来到《陷阱敌人3D》，在这里，战略思维是你最强大的武器！穿越复杂的陷阱和障碍，捕捉敌人。沿途收集金币以解锁更多角色，提高成功的机会。每一关都带来新的挑战，你能否智胜敌人，在这场激动人心的3D冒险中取得胜利？网站开发者 <a href='
+- [寻宝冒险](../games/adventure/treasure-hunt-adventure.md) — 在这个美丽的世界上建造属于你自己的热带岛屿。现在你将不得不找到一种方式在这款免费游戏中生存下去！
+- [宝藏抢劫](../games/adventure/treasure-robbery.md) — 《宝藏抢劫》是由8B Games/Games2live开发的一款点击式游戏。想象一下，你即将进行抢劫，这里有有趣的谜题和隐藏物品等待你发现并获取宝藏。祝你好运……尽情享受吧！
+- [树屋森林逃脱](../games/adventure/tree-house-forest-escape.md) — 《树屋森林逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你曾进入一片森林，结果被困在了里面。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你逃离森林。祝你好运……尽情享受吧！
+- [棘手之地逃脱](../games/adventure/tricky-land-escape.md) — 《棘手之地逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个棘手之地，结果被困在了那里。这里有着有趣的谜题和隐藏物品等待你去发现，帮助你逃离棘手之地。祝你好运！尽情享受吧！
+- [真假](../games/adventure/truefalse.md) — 真假游戏的玩家会面对一系列陈述或情境，任务是判断每一个陈述是真是假。但关键在于，游戏会动态生成这些陈述，将真相与谎言无缝混合，以挑战玩家的感知和直觉。
+- [突突车自动三轮车](../games/adventure/tuk-tuk-auto-rikshaw.md) — 突突车自动三轮车是一款有趣且逼真的驾驶模拟游戏，你将扮演一名专业的突突车司机。从不同地点接载乘客，穿梭于繁忙的城市街道，并安全地将他们送达目的地。遵守交通规则，避开障碍物，完成激动人心的运输任务以赢得奖励。随着驾驶技能的提升，解锁新的自动三
+- [咚咚斋尔隐藏鼓](../games/adventure/tung-tung-sahur-hidden-bedug.md) — 准备好迎接一场充满节日气氛的寻物冒险，带点小惊喜！在《咚咚斋尔：隐藏鼓》中，你的任务看似简单——但可别被表面迷惑了，其实并不像看起来那么容易！目标：在每一关中找出全部10个隐藏的鼓（印尼传统鼓），它们巧妙地藏匿于生动的“咚咚”图片之间，呼应
+- [在几何冲刺中敲击晨光](../games/adventure/tung-tung-sahur-in-geometry-dash.md) — 加入提翁·提翁·萨胡尔，这位背着木鼓的黎明呼唤者，他在日出前跃动翻腾于霓虹都市之中！躲避尖刺，跳过陷阱，并随着他标志性的“咚咚！”叫声精准把握跳跃节奏。在这个受几何冲刺启发的挑战中，街道上充满发光的门、加速垫以及令人棘手的重力翻转。你能否保
+- [咚咚斋宵午夜恐怖](../games/adventure/tung-tung-sahur-midnight-terror.md) — 在一个时间仿佛停滞的小而被遗忘的小镇里，每个斋月之夜都回荡着一种诡异的声音……“咚咚斋宵！”但这可不是普通的唤醒铃声。欢迎来到《咚咚斋宵：午夜恐怖》——一款荒诞的恐怖喜剧生存游戏，而唯一能带你逃离的，可能就是方便面。你扮演一名毫无防备的村民
+- [咚咚咚咚 沙胡尔](../games/adventure/tung-tung-tung-tung-sahur.md) — 进入一个黑暗诡异的森林，那里被神秘的沙胡尔所困扰。你的目标是收集散布在树林中的所有迷失灵魂以逃脱……但要小心！沙胡尔会突然出现追捕你。唯一能生存的方法就是躲进木屋直到安全。你能在它抓住你之前收集到所有灵魂吗？
+- [土耳其逃脱](../games/adventure/turkey-escape.md) — 《土耳其逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你来到了一个地方，在那里发现了一只困住的火鸡。寻找一些隐藏物品，解开有趣的谜题，逃离火鸡所在的场所。祝你好运……尽情享受吧！
+- [土耳其救援](../games/adventure/turkey-rescue.md) — 《土耳其救援》是由8BGames/Games2Mad开发的一款点击式解救游戏。想象一下，你来到了一个地方，在那里发现一只青蛙被困在笼子里。寻找一些隐藏物品，解开一些有趣的谜题，来拯救这只青蛙。祝你好运……玩得开心！
+- [扭转与滚动](../games/adventure/twist-and-roll.md) — 《扭转与滚动》是一款引人入胜的技巧解谜游戏，玩家需要旋转地形并控制小球滚动到正确的目的地。计算旋转方向，精准把握移动时机，克服障碍以完成每一关卡。每关都带来全新的挑战，难度逐渐增加，需要逻辑思维和快速反应。游戏玩法简单、轻松，却极具上瘾性！
+- [典型的陆地逃脱](../games/adventure/typical-land-escape.md) — 《典型的陆地逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有着有趣的谜题和隐藏物品等待你去发现，从而成功逃离村庄。祝你好运……尽情享受吧！
+- [终极瓶翻游戏](../games/adventure/ultimate-bottle-flip-game.md) — 离线大师瓶3D：点击、翻转与跳跃，终极瓶翻冒险之旅，刺激与挑战完美结合！掌握水瓶翻转的艺术，开启令人兴奋的跑酷狂潮。点击翻转、旋转并跳跃你的瓶子以达成目标。无穷无尽的技巧与挑战，这款瓶翻游戏定会让你欲罢不能！
 - [终极进化](../games/adventure/ultimate-evolution.md) — 战斗。进化。称霸竞技场。
+- [终极飞鹰游戏](../games/adventure/ultimate-flying-eagle-game.md) — 鹰帝国是一款为喜爱街机游戏以及克服障碍和逆境的玩家而设计的游戏。它也是自然和动物爱好者的绝佳选择，尤其是鸟类和鹰类爱好者，因为其超级主角是一只真正的鹰。飞鹰游戏是一款街机游戏，目标是尽可能获得更高的分数。如果你喜欢强烈的情绪体验并追求自我超
+- [奥特曼怪兽岛大冒险2](../games/adventure/ultraman-monster-island-adventure-2.md) — 奥特曼怪兽岛大冒险2 - html5冒险游戏。人们在太平洋发现了一座新岛屿，令人惊讶的是，这座岛屿拥有许多珍贵的蓝宝石。怎能错过这一财富机遇？因此村民们蜂拥而至，但不幸的是，无人返回。超人奥特曼也踏上了怪兽岛的旅程，与他一起冒险吧！
+- [地下世界逃脱](../games/adventure/under-world-escape.md) — 《地下世界逃脱》是由8B Games/Games2live开发的一款点击式解谜游戏。想象一下，你进入了一个地下世界，却发现自己被困在了那里。在这里，你将面对有趣的谜题和隐藏的物品，寻找逃脱的方法。祝你好运……尽情享受吧！
+- [地下逃脱](../games/adventure/underground-escape.md) — 《地下逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾进入过一个地下场所，却意外被困其中。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离地下空间。祝你好运……尽情享受吧！
+- [地下隧道逃脱](../games/adventure/underground-tunnel-escape.md) — 地下隧道逃脱是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你进入了一个地下隧道；在那里，你被困在了隧道里。这里有许多有趣的谜题和隐藏物品需要寻找，以逃离隧道。祝你好运……尽情享受吧！
 - [水下生存：深潜](../games/adventure/underwater-survival-deep-dive.md) — 在这款沉浸式水下生存模拟游戏中，你将被困在一个陌生的海洋星球上，面临着逃离危机四伏的深海的艰巨任务。如果你喜欢《深海迷航》（Subnautica），你也会喜欢这款游戏。在这场扣人心弦的冒险中，你必须穿戴好潜水装备，磨练捕鱼技巧，并收集必要的
 - [不熟悉的物体](../games/adventure/unfamiliar-object.md) — 《陌生物品》是一款第一人称视角的办公室恐怖侦查游戏，玩家需要找出那件格格不入的物品。阅读游戏规则，探索寂静的夜班走廊，拍摄真正的异常物品，并在程序变得敌对之前通过传真提交证据。每个班次都会将普通的办公物品扭曲成某种诡异的存在。
+- [解开蛇群狂乱](../games/adventure/untangle-snake-frenzy.md) — 解开蛇群狂乱是一款有趣且具有挑战性的益智游戏，游戏中纠缠的蛇群挡住了所有路径。你的目标是仔细选择并移除那些未被其他蛇阻挡的自由蛇，逐步清理棋盘。每一步都至关重要，因为一个错误的选择可能会让你失去一条生命。提前规划，明智思考，解开混乱，释放每
+- [城市交通指挥官](../games/adventure/urban-traffic-commander.md) — 我不知道你怎么样，但当交通繁忙时，我发现很难集中注意力。现在是时候掌控全局了！指挥街道上的交通，引导车辆前行。随着关卡的推进，不断提升你的调度能力。不过要小心，那些行人可不太容易对付！
+- [吸血鬼生存](../games/adventure/vampire-survival.md) — 《吸血鬼生存》是一款快节奏的多人生存游戏。击败你的敌人，成为传奇！化身为吸血鬼，在这款免费的在线游戏中生存下来。击杀猎人，努力存活。升级你的吸血鬼技能，战胜对手并赚取更多金币。《吸血鬼生存》是一款免费的在线动作游戏，你可以与邪恶怪物战斗。在
+- [吸血鬼幸存者 黑暗版](../games/adventure/vampire-survivors-dark.md) — 《吸血鬼幸存者 黑暗版》是一款在线动作游戏，你可以在四位角色中选择你钟爱的英雄，击败你遇到的黑暗仆从。你将在战场上与他们战斗，通过战略性移动消灭敌人，并收集掉落在地上的钻石，以填满顶部的等级条。在这款RPG游戏中，尽可能长时间地抵抗这些掠食
+- [货车逃脱](../games/adventure/van-escape.md) — 《货车逃脱》是由Games2Live开发的一款点击式解谜游戏。想象一下，你去了公园，却丢失了货车的钥匙。在这里，你将面对有趣的谜题和隐藏物品，寻找线索并逃离农场。祝你好运……尽情享受吧！
+- [保险箱逃脱](../games/adventure/vault-escape.md) — 《保险箱逃脱》是由8B Games/Games2mad开发的一款点击式游戏。想象一下，你曾进入一家银行，却意外被困在保险箱内。这里有许多有趣的谜题和隐藏物品等待你去发现，帮助你逃离保险箱。祝你好运……尽情享受吧！
+- [翠绿荒野](../games/adventure/verdant-wilds.md) — 探索一个等轴测生存体素世界。收集木材、石头和矿石，制作工具，建造篝火和庇护所，挖掘深层洞穴，并在《翠绿荒野》中发现神秘维度！
+- [Verity Block Survival](../games/adventure/verity-block-survival.md) — 进入一个神秘的方块世界，生存是你的唯一目标！探索黑暗而危险的环境，收集资源，制作有用的物品，并建造一个安全的避难所来生存。但要小心——当你最意想不到的时候，奇怪的生物和突如其来的危险可能会出现。探索废弃区域，发现隐藏的秘密，并找到在夜晚生存
 - [维京人：弓箭手的旅程](../games/adventure/vikings-an-archer-s-journey.md) — 加入惊险刺激的无尽跑酷游戏《维京：弓箭手的旅程》，操控勇敢的女武神弓箭手诺特，穿梭于冥界，营救她的爱狼奥德。游戏画面精美，可在移动设备和电脑上免费畅玩，吸引着世界各地的玩家。
+- [村庄之门逃脱 1](../games/adventure/village-gate-escape-1.md) — 《村庄之门逃脱 1》是由 8B Games/Games2live 开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，却意外被困其中。这里有有趣的谜题和隐藏的物品等待你去发现，帮助你逃离村庄。祝你好运……尽情享受吧！
 - [紫罗兰色的房屋逃脱](../games/adventure/violaceous-house-escape.md) — 紫罗兰色的房屋逃脱是由8B Games/Games2live开发的一款点击式游戏。想象一下，你被困在了一所房子里。这里有有趣的谜题和隐藏的物品需要寻找，才能逃离这所房子。祝你好运……尽情享受吧！
+- [生命之光陆地逃脱](../games/adventure/vital-spark-land-escape.md) — 生命之光陆地逃脱是一款由8B Games/Games2Mad开发的点击式逃脱游戏。想象一下，你和家人一起去公园玩乐，却意外被困在了公园里。现在，这里有有趣的谜题和隐藏物品，帮助你和家人逃离公园。祝你好运……尽情享受吧！！！
+- [Vlog House Escape](../games/adventure/vlog-house-escape.md) — Vlog House Escape 是由 8B Games/Games2live 开发的一款点击式解谜游戏。想象一下，你曾前往一个 Vlog 房屋，却在那里被困住了。这里有许多有趣的谜题和隐藏物品等待你去发现，从而逃离这栋房子。祝你好运……
+- [Vulpin 冒险](../games/adventure/vulpin-adventure.md) — Vulpin 冒险是一款冒险游戏，让你创建并控制你的小恐龙，与敌人战斗。当你收集到积分后，可以购买物品进行升级。
+- [危险之墙冲刺](../games/adventure/wall-of-danger-dash.md) — 一段拯救朋友并教训坏怪物的旅程。游戏故事始于杰克和莉莉，其中莉莉被一个名叫影魅的坏怪物掳走。怪物向杰克发出挑战，要求他前来救回他的朋友莉莉。杰克勇敢地接受了挑战。现在玩家需要扮演杰克，帮助他完成这段旅程。途中充满了陷阱和怪物，但你必须克服并
+- [巫师](../games/adventure/warlock.md) — 通过各种角色畅玩地下城探险。完成任务并变得强大。今天就完成冒险吧。
 - [废土猎人：解谜角色扮演游戏](../games/adventure/wasteland-hunter-puzzle-rpg.md) — 《废土猎人：益智角色扮演游戏》——一款将俄罗斯方块的益智机制与回合制战斗系统和角色扮演策略巧妙融合的独特游戏，背景设定在末日后的世界。
+- [水球排序谜题](../games/adventure/water-ball-sorting-puzzle.md) — 排序谜题游戏是一款有趣、放松且能提升大脑活力的益智游戏，专为喜欢逻辑挑战和色彩排序玩法的玩家设计。在这款休闲益智游戏中，你的主要任务是通过聪明的移动和策略思维，将不同的物品、颜色或物体放入正确的容器中。每一关都提供独特的谜题，以愉快的方式考
+- [水力冲击](../games/adventure/water-blast.md) — 在这个解谜游戏中，你必须引爆元素以引发连锁反应来消除它们。你需要消除所有元素才能完成关卡并进入下一关。在每个关卡中，你可以收集星星。越快完成关卡，就能收集越多的星星。共有400个关卡等待你完成游戏。
+- [给植物浇水](../games/adventure/water-the-plant.md) — 这是一款令人上瘾的益智游戏，目标是找到正确的路径，将水引向树木，通过这款精彩的游戏挑战来提升你的大脑智商。
+- [向下](../games/adventure/way-down.md) — Way Dawn——一款你需要正确放置和调整平台，以发射小球并将其送入篮筐的游戏
 - [我们光头熊的差异](../games/adventure/we-bare-bears-difference.md) — 可爱的熊差异是一款免费的在线差异和儿童游戏！在这个游戏中，您需要在每张图片中找出7个不同之处。共有6个不同的级别。您会看到一张原始图片和一张有错误的图片。尽情享受吧！
+- [婚礼冲刺赛](../games/adventure/wedding-rush-race.md) — 婚礼冲刺赛是一款有趣且刺激的赛车游戏，玩家必须在充满挑战的赛道上快速前进，并尽快抵达终点。准备好迎接一场独特的婚礼主题赛车冒险，游戏中充满了快节奏的动作、障碍物、激动人心的挑战和趣味十足的游戏玩法。控制你的角色，在比赛中迅速移动，避开障碍物
+- [周末数独 08](../games/adventure/weekend-sudoku-08.md) — 数独是历史上最受欢迎的谜题游戏之一。数独的目标是将一个9×9的方格填满数字，使得每一行、每一列以及每一个3×3的小区域都包含1到9之间的所有数字。作为一种逻辑谜题，数独也是一种极佳的大脑训练游戏。如果你每天玩数独，很快就会发现自己的专注力和
+- [西蓝鸲屋逃脱](../games/adventure/western-bluebird-house-escape.md) — 《西蓝鸲屋逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以成功逃脱。祝你好运……尽情享受吧！
 - [我的猫在哪里：冒险之旅](../games/adventure/where-is-my-cat-the-adventure.md) — 我们可爱的小猫咪又走丢了……这一次，终极捉迷藏冒险将在整个宇宙展开！
+- [白色砖块后院逃脱](../games/adventure/white-brick-backyard-escape.md) — 《白色砖块后院逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你来到了一个后院，却意外被困在了里面。这里有着有趣的谜题和隐藏的物品等待你去发现，从而成功逃离后院。祝你好运……尽情享受吧！
+- [白狗救援](../games/adventure/white-dog-rescue.md) — 《白狗救援》是由8B Games/Games2Live开发的一款点击式解谜游戏。想象一下，你来到了一个村庄，在那里发现了一只被困的狗。这里有有趣的谜题和隐藏物品等待你去发现，以拯救这只小狗。祝你好运……尽情享受吧！
+- [白宫逃脱](../games/adventure/white-house-escape.md) — 《白宫逃脱》是8B Games开发的另一款点击式逃脱游戏。想象一下，你被困在这所房子里，你可以找到有用的物品和有趣的线索符号来解开谜题，最终从白宫逃脱。祝你好运，玩得开心！
 - [狂野的爱](../games/adventure/wild-love.md) — 一场冒险即将在一座神秘岛屿展开，女主角时刻面临着危险。做出正确的抉择，努力分辨敌友。
+- [冬季雪地冒险 1](../games/adventure/winter-snowy-adventures-1.md) — 完成全部 10 个关卡并收集星星！
+- [冬日仙境森林冒险](../games/adventure/winter-wonderland-forest-adventure.md) — 在这个冰冻的森林中，每过一分钟就会越来越冷，因此你必须迅速逃离。冬日仙境森林是Escape Fan推出的最新户外逃脱游戏。探索冬日森林，尽可能快地逃脱吧。
+- [女巫狗逃脱](../games/adventure/witch-dog-escape.md) — 《女巫狗逃脱》是一款由8BGames/Games2Mad开发的点击式逃脱游戏。想象一下，你进入了一片可怕的森林，在那里发现了一只被困的女巫狗。寻找一些隐藏物品，解开一些有趣的谜题，逃离女巫狗的追捕。祝你好运……尽情享受吧！
+- [女巫跳跃](../games/adventure/witch-jump.md) — 《女巫跳跃》是一款惊险刺激的跳跃冒险游戏，将考验你的反应能力。随着你不断闯关，游戏难度会逐渐增加。
+- [女巫猫头鹰逃脱](../games/adventure/witch-owl-escape.md) — 《女巫猫头鹰逃脱》是由8BGames开发的一款点击式逃脱游戏。想象一下，你从一位善良的女巫那里收到了一只猫头鹰作为礼物。当你正在喂食时，猫头鹰突然跑开并被困在了一个房间里。寻找一些隐藏物品，解开有趣的谜题，成功逃脱猫头鹰所在的房间。祝你好运
 - [女巫变公主药水制作游戏](../games/adventure/witch-to-princess-potion-maker-game.md) — 你绝对不能错过这款充满戏剧性的公主与独角兽游戏！邪恶女巫如何装扮自己，成为高贵的王后并赢得国王的心？她在这款专为女孩设计的免费游戏中隐藏着什么黑暗秘密？让我们在我们的免费独角兽游戏中揭开王后的秘密吧！《独角兽公主1-公主的秘密》是最新推出的
+- [女巫狼逃脱](../games/adventure/witch-wolf-escape.md) — 《女巫狼逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，一只女巫狼在万圣节前夕被困在了一座女巫屋中。寻找一些隐藏物品，解开一些有趣的谜题，逃离女巫狼的困境。祝你好运……尽情享受吧！
+- [巫师冒险](../games/adventure/wizzard-adventure.md) — 巫师冒险是一款激动人心的冒险游戏，玩家将扮演一名巫师，踏上克服重重挑战的旅程。运用魔法，避开陷阱，击败敌人以继续前进。每一关都带来新的地形和挑战，需要技巧和快速反应。游戏玩法简单却引人入胜，带来神奇而愉快的体验。
+- [摇摆老板游戏](../games/adventure/wobble-boss-game.md) — 找到逃离办公室的方法并解锁新角色。容易上手，难以精通。简单控制玩法：- 避开摄像头 - 收集现金
+- [摇晃抢劫者人](../games/adventure/wobble-robber-man.md) — 摇晃人是一款休闲游戏，你的目标是帮助一位穿着西装的男人在不被发现的情况下登上楼梯。为了达成目标，你必须仔细观察周围环境，并利用收集到的各种工具来解锁门或移动家具。网站开发者 <a href='https://www.kizi10.org/'
+- [狼崽逃脱2](../games/adventure/wolf-pup-escape2.md) — 《狼崽逃脱2》是由8BGames开发的一款点击式逃脱游戏。想象一下，你的朋友买了一只小狼崽作为礼物。你正准备把这只小狼崽带到森林里去。不幸的是，小狼崽被困在了一个房间里。找出一些隐藏物品，解开一些有趣的线索，逃离小狼崽所在的房间。祝你好运…
+- [Wolfoo 迷宫大冒险](../games/adventure/wolfoo-maze-adventure.md) — 引导 Wolfoo 和朋友们穿越色彩斑斓的迷宫！探索、收集金币和星星，避开滑动门、冰面和传送器等棘手障碍，与时间赛跑抵达出口。在商店解锁可爱的角色和灯笼皮肤，观看雾气笼罩的迷宫逐渐焕发生机
+- [木人切割者](../games/adventure/wood-man-cutter.md) — 欢迎来到《木人切割者3D》游戏！点击并按住开始行走，通过弹性绳索旋转。开始从树木上砍伐木材，但要小心避开金属物品和岩石。你能通过第3关吗？在 gamemonetize.com 上享受这款游戏
+- [木制阁楼逃脱](../games/adventure/wooden-attic-escape.md) — 《木制阁楼逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，却意外被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以成功逃脱这栋房子。祝你好运……尽情享受吧！
+- [木屋逃脱](../games/adventure/wooden-house-escape.md) — 《木屋逃脱》是由8B Games/Games2Mad开发的一款点击解谜游戏。想象一下，你来到了一栋木屋。结果被困在了屋内。现在，这里有许多有趣的谜题和隐藏物品等待你去发现以成功逃脱。祝你好运……尽情享受吧!!!
+- [木屋逃脱4](../games/adventure/wooden-house-escape-4.md) — 《木屋逃脱4》是由8BGames开发的一款点击式逃脱游戏。你被困在一间木屋里。寻找一些隐藏物品，并解开一些有趣的线索，逃离你的木屋。祝你好运……玩得开心
+- [木屋逃脱5](../games/adventure/wooden-house-escape-5.md) — 《木屋逃脱5》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你曾到过一栋房子；在那里，你被困在了房子里。这里有许多有趣的谜题和隐藏物品等待你去发现并成功逃脱。祝你好运……尽情享受吧！
+- [木屋逃脱](../games/adventure/wooden-rooms-escape.md) — 《木屋逃脱》是由8B Games/Games2mad开发的一款点击解谜游戏。想象一下，你被困在了一栋房子里。这里有有趣的谜题和隐藏的物品需要寻找，以逃离房子。祝你好运……尽情享受吧！
 - [内维亚森林：森林生存](../games/adventure/woods-of-nevia-forest-survival.md) — 《内维亚森林：森林生存》是一款单指操作的动作冒险游戏，你将在荒野中战斗并生存下去。挥舞斧头击退狼群，砍伐木材，建造庇护所，同时探索资源和隐藏宝箱。升级、选择强化道具，在不断升级的危险中生存下来，同时还要管理饥饿和生命值，在这个引人入胜的森林
+- [木屋逃脱](../games/adventure/woody-house-escape.md) — 《木屋逃脱》是由8B Games/Games2live开发的一款点击解谜游戏。想象一下，你曾去过一座木屋，在那里你被困住了。这里有许多有趣的谜题和隐藏物品，帮助你逃离木屋。祝你好运……尽情享受吧！
 - [文字故事](../games/adventure/words-story.md) — 一个男人被陷害入狱，但他永不放弃，决心自救。他日复一日，年复一年地坚持不懈。他需要你的帮助才能重获自由。
+- [世界杯旗帜匹配](../games/adventure/world-cup-flag-match.md) — 世界杯旗帜匹配是一款在线游戏，考验你对世界各地旗帜的了解。连续匹配三个旗帜即可得分并进入下一关。
+- [蠕虫路径](../games/adventure/worm-path.md) — 蠕虫路径是一款富有挑战性的逻辑谜题游戏，你需要引导一只聪明的蠕虫穿越复杂的迷宫以到达出口。在方块间移动，推动障碍物，避开陷阱，并仔细规划每一步，以免被困住。每一关都会引入新的布局和越来越困难的谜题，考验你的策略和解决问题的能力。找到最佳路径
+- [虫子滑行](../games/adventure/worm-slither.md) — 《虫子滑行》是一款有趣且令人上瘾的冒险游戏。吃掉昆虫让你的虫子变大，但要注意更大的滑行者。不要碰到那个更大的滑行者，他会吃掉你。尽可能多地吃虫子，以获得高分。
+- [圣诞糖果生存游戏](../games/adventure/xmas-candy-survival-game.md) — 你想尝试一款无谜题的圣诞节游戏吗？《圣诞糖果生存》非常适合孩子，你只需要让圣诞老人降落在陆地上就能成功完成挑战。你想帮助圣诞老人通过关卡吗？这里有大量圣诞节主题关卡等你来挑战。来吧，希望你能成功。
+- [解开毛线](../games/adventure/yarn-untangle.md) — 解开毛线是一款解谜游戏，你将使用你信赖的小猫来解开毛线球。只需选择毛线并拖动，将其从缠结的混乱中解放出来。注意连接线的颜色。红色表示缠结，粉色表示正在解开，黄色表示已成功解开。
+- [黄色外星人逃脱！](../games/adventure/yellow-alien-escape.md) — 扮演名叫杰夫的外星人，穿越各个关卡。包含3个普通关卡和4个隐藏关卡。记得不要被困在矩阵里（详见更新1）。
+- [黄色房子逃脱](../games/adventure/yellow-house-escape.md) — 《黄色房子逃脱》是由8B Games/Games2mad开发的一款点击式解谜游戏。想象一下，你进入了一栋房子，结果被困在了里面。在这里，你将面对有趣的谜题和隐藏的物品，寻找线索以逃离这栋房子。祝你好运……尽情享受吧！
+- [瑜伽教练逃脱](../games/adventure/yoga-instructor-escape.md) — 《瑜伽教练逃脱》是一款由8BGames开发的点击式逃脱游戏。想象一下，你去瑜伽教练的家里学习瑜伽，不幸的是他被困在了自己的房间里。寻找一些隐藏物品，解开有趣的线索，逃离瑜伽教练的房间。祝你好运……尽情享受吧！
+- [蛋黄巡逻 休闲版](../games/adventure/yolk-patrol-easy.md) — 蛋黄巡逻 休闲版 - 是之前游戏的简化版本，其中收集鸡蛋被购买糖果自动售货机并尝试经营生意所取代。收集下落的糖果以提高你的分数。你有3条生命，游戏玩法已变得更简单，尽情享受吧！
 - [你的障碍赛逃脱](../games/adventure/your-obby-escape.md) — 加入激动人心的多人密室逃脱冒险。与世界各地的朋友组队，探索隐藏的秘密、信息、奖励和通往自由的隐秘路径。
+- [Zad Jewels](../games/adventure/zad-jewels.md) — 潜入璀璨的宝石世界，这是一款引人入胜的三消益智游戏，将策略玩法与闪耀的视觉效果完美结合
 - [之字形雪地探险](../games/adventure/zigzag-snow-adventure.md) — 控制一个弹力十足的红色小球，让它从雪山上滚落！躲避树木、岩石和其他障碍物，尽可能长时间地生存下去。速度越快，难度越大！
+- [僵尸兄弟在冰封世界](../games/adventure/zombie-bros-in-frozen-world.md) — 三位僵尸兄弟来到冰岛世界寻找宝石。在危险的冰岛，他们能否成功收集宝石顺利通关？亲爱的朋友，快来和他们一起冒险吧。
+- [僵尸猎手](../games/adventure/zombie-buster.md) — 你可以猎杀僵尸并成为城市之王。抵御僵尸大军 一款充满激情、极其动态且氛围感十足的策略游戏，融合了角色扮演元素，能为你带来数小时的真实乐趣，并让你享受深思熟虑的游戏玩法
 - [丧尸检查：生存避难所](../games/adventure/zombie-check-survival-shelter.md) — 《僵尸检查：生存避难所》是一款紧张刺激的隔离检查模拟游戏，背景设定在僵尸爆发期间。
+- [僵尸逃生：恐怖工厂](../games/adventure/zombie-escape-horror-factory.md) — 《僵尸逃生：恐怖工厂》是一款令人兴奋的生存游戏，将你带入一个被僵尸肆虐的末日世界。你的任务是与队友一起修复所有的发电机，完成后将打开一扇门，让你逃离这个活生生的噩梦。沉浸式的体验，处处充满紧张与恐惧。你能否成功完成任务并逃脱？
 - [僵尸怪物幸存者](../games/adventure/zombie-monster-survivors.md) — 在一个被丧尸病毒肆虐的世界里，你是最后的幸存者之一。每次游戏都会随机生成地图和敌人。收集各种武器和物品，升级角色能力，并在成群的丧尸围攻下尽可能长时间地生存下去。
 - [僵尸突袭](../games/adventure/zombie-raid.md) — 《僵尸突袭》是一款快节奏的生存动作游戏，你必须击退成群的僵尸，完成危险的任务，并升级你的装备。城市已被怪物占领，只有你能清理街道，阻止不断蔓延的威胁。
+- [僵尸海啸在线](../games/adventure/zombie-tsunami-online.md) — 僵尸海啸是一款无尽跑酷游戏，玩家需要控制一群僵尸不断奔跑。避开各种障碍物，比如汽车和公交车等。必须确保你队伍中僵尸的数量。收集金币并购买特殊能力，如超级僵尸、海啸或外星人入侵。生存下来，吃掉世界上所有人，组建最庞大的僵尸群，摧毁一切
+- [动物园奔跑](../games/adventure/zoo-run.md) — 动物园奔跑是一款超棒的无限等距跑酷游戏，拥有8种动物角色可供选择，背景元素每隔固定时间变化，并且难度逐渐增加
+- [动物学飞艇](../games/adventure/zoological-zeppelin.md) — 游戏的核心是设法从那个洞穴中逃生。在逃生的过程中，会遇到许多障碍物。游戏将包含三个不同的关卡，每个关卡都需要应对不同的环境和其他挑战。注意突如其来的障碍物和飞行怪物。如果玩家从平台上掉落，游戏就会结束。所以要谨慎行事，并按需控制你的角色。如

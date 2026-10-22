@@ -19,6 +19,6 @@ It's time for a new generation of mobile racing games! Millions of other gamers 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, Driving, Monster, Racing, Supercars, Truck, Unity3D

@@ -19,6 +19,6 @@ This adventure takes place in the oceans depths with the dangerous fishes of all
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Animal, Arcade, Arena, Battle, Casual, Fish, fishing, HTML5, Skill
+- Tags: 2 Player, 2 Player Games, 2D, Action, Animal, Arcade, Arena, Battle, Casual, Fish, Fishing, HTML5, Skill

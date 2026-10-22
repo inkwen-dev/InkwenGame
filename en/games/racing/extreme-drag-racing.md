@@ -19,6 +19,6 @@ Extreme Drag Racing game is a fantastic simulation where you have to shift gears
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, Race, Racing

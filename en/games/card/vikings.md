@@ -22,4 +22,4 @@ There are many adventures waiting for you.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, cards, management, rpg, Strategy
+- Tags: Adventure, cards, Management, RPG, Strategy

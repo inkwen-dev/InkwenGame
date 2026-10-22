@@ -19,6 +19,6 @@ Punch Master is a thrilling action boxing game where you play as a fighter unlea
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Battle, Boxing, Fighting

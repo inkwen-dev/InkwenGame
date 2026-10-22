@@ -19,6 +19,6 @@ Vulpin Adventure is an adventure game to create and control your little dragon a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Collecting, Collection, Dragon

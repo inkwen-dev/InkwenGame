@@ -19,6 +19,6 @@ Play as the viking Haldor as you dodge, jump and throw you axe Play as the vikin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Game, Online, run, running

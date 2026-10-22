@@ -21,4 +21,4 @@ Soul Jigsaw is an interesting jigsaw cartoon game, which is developed for kids w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Cartoon, Fun, Girl, HTML5, Jigsaw, Kids, Matching, Mobile, movie, Puzzle
+- Tags: Cartoon, Fun, Girl, HTML5, Jigsaw, Kids, Matching, Mobile, Movie, Puzzle

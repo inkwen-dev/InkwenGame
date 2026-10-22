@@ -21,4 +21,4 @@ Play supermarket girlfriend free shopping centre the first ever 3D shopping supe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Food, Fruits, Shopping
+- Tags: Burger, Food, Fruits, Shopping

@@ -19,6 +19,6 @@ Sprunki Dead Rails - protect the train! Cooperative survival against zombies wit
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Best Games, Defense, Mobile, Shooter, Sprunki, Tower Defense, two player games, Zombie

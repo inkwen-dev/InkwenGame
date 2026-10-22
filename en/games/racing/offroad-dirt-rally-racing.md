@@ -19,6 +19,6 @@ Race colorful dirt bikes across rugged rally courses packed with sharp turns, st
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Bike, Motorcycle, offroad, Racing, Sports

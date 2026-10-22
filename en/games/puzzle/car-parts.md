@@ -19,6 +19,6 @@ Are you looking for adventurous and adrenaline rush game? You have come to the r
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, card, Cars, Fun, Kids, Match 3, Memory, Mobile, Skill
+- Tags: Car, Card, Cars, Fun, Kids, Match 3, Memory, Mobile, Skill

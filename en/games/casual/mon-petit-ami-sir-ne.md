@@ -19,6 +19,6 @@ Wow, c'est tellement excitant. Il y aura une excellente soirée de sirène. Tout
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Girl, Girls

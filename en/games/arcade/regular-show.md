@@ -19,6 +19,6 @@ The series revolves around the lives of two working-class friends, a blue jay na
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Anime, Arcade, Cartoon, Cartoon Network, movie, Puzzle
+- Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Animal, Anime, Arcade, Cartoon, Cartoon Network, Movie, Puzzle

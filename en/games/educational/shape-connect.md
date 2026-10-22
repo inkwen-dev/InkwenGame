@@ -19,6 +19,6 @@ Shape Connect is a cute and fun game where kids help two teddy bears meet each o
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Brain, Educational, HTML5, Kids, Matching, NapTech Games, Puzzle

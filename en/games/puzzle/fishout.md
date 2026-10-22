@@ -19,6 +19,6 @@ Simple arkanoid game with underwater scene. Break all cages to free the fish. Mo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arkanoid, Fish, HTML5, Hypercasual, Kids, Puzzle

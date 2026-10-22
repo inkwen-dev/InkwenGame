@@ -19,6 +19,6 @@ Little Panda's truck Team is a very addictive game. In this game, you need to he
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, city, Educational, Fun, H5, HTML5, Kid, Kids, Truck

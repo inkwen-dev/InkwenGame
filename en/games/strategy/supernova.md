@@ -19,6 +19,6 @@ Supernova is a skill game where you fly a ship and have to dodge objects along t
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Interactive, Race, Space, Spaceship, Strategy, Super

@@ -21,4 +21,4 @@ This simple but cool memory card matching game was designed for anyone that want
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, HTML, HTML5, Match 3, Match3, Matching, Memory, Mobile, Puzzle
+- Tags: Brain, Card, HTML, HTML5, Match 3, Match3, Matching, Memory, Mobile, Puzzle

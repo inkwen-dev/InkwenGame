@@ -19,6 +19,6 @@ The legendary Simpsons family invites you to play with them. Here are 12 cool pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Jigsaw, Simpson

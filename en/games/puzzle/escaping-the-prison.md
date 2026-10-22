@@ -21,4 +21,4 @@ Escaping The Prison is a fantastically fun stick figure game where you... Well, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: prison
+- Tags: Prison

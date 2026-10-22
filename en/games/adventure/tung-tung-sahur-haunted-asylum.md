@@ -17,4 +17,4 @@ In Tung Tung Sahur: Haunted Asylum, navigate a chilling horror landscape where s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

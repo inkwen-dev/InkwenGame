@@ -21,4 +21,4 @@ Sudoku is one of the most popular puzzle games of all time. The goal of Sudoku i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Point And Click, sudoku
+- Tags: Point And Click, Sudoku

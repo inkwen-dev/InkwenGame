@@ -19,6 +19,6 @@ A Panda has just landed in our forests! This imposing black and white animal is 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, Bomb, Boy, Fight, Fighting, Fun, Funny, Kid, Kids, Kill, Killing, Shoot, Shooter

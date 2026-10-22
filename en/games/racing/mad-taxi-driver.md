@@ -19,6 +19,6 @@ Mad Taxi Driver is a great HTML5 racing game. Drive your cab and stay a live. Pi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, Racing

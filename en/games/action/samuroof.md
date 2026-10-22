@@ -19,6 +19,6 @@ In this game, the ninja has to run across buildings, defeat the enemies that app
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Adventure, amazing, attack, Best Games, Jumping, Puzzle, running

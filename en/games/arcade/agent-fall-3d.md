@@ -19,6 +19,6 @@ Agent Fall 3D is an interesting falling game. Your aim is to land on the ground 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Kid, Mobile, Skill

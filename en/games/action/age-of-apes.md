@@ -19,6 +19,6 @@ Enter the Age of the Apes, a monkey war of adventure, evolution and passion. Thi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Fight, Monkey

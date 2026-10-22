@@ -19,6 +19,6 @@ Embark on an exciting adventure where your powers of observation are your main t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Best Games, Casual, Girls, Hidden, HTML5, Mobile

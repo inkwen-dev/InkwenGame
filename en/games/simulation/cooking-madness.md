@@ -19,6 +19,6 @@ This is Cooking Madness, an amazing cooking game. Cook delicious food and try to
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cook, Cooking, Cool, Girls, HTML5, Mobile, Simulation

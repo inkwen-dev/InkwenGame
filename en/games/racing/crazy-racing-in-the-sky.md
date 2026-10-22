@@ -19,6 +19,6 @@ Complete different cool levels to earn money and buy your dream car. The game ha
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Arcade, Car, Cars, drift, drifting, Obstacle, Race, Sport, unity, Unity3D, WebGL

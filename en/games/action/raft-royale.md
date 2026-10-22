@@ -21,4 +21,4 @@ Build your raft as you try to destroy your enemies rafts. Keep building so that 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Battle, boat, Fighting, Online, War
+- Tags: Action, Battle, Boat, Fighting, Online, War

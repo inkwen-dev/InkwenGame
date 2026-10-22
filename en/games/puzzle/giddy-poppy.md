@@ -19,6 +19,6 @@ It’s Giddy Poppy the hottest game on the charts at the moment! Tap To Match Th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Crazy, Girls, HTML, HTML5, Logic, Memory, Mobile, Monster, Puzzle

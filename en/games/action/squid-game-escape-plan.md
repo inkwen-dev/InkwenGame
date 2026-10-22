@@ -19,6 +19,6 @@ In Squid Game, one of the most popular games of recent times, some contestants, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Android, Battle, Best, Casual, Escape, Fun, Hypercasual, Mobile, Platform, Strategy, WebGL

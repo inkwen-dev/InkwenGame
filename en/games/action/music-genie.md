@@ -19,6 +19,6 @@ This is a rhythmic game of bouncing balls with music. The music is very rhythmic
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Ball, Bounce, Click, H5

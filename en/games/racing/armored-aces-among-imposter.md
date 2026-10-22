@@ -19,6 +19,6 @@ Armored aces Among - Imposter Control an eight-wheels car as you conquer mountai
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Car, Cars, Game, Online, Race, Racing, Super, Supercars

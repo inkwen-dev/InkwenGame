@@ -19,6 +19,6 @@ Cube Jumping is a 3D Game that you absolutely like. the game aimes to test your 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Click, Fun, HTML5, iPhone, Kids, Mobile, Skibidi, Skibidi Toilet

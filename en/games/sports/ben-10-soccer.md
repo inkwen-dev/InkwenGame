@@ -19,6 +19,6 @@ Use Ben 10's alien powers to work out how to score goals and be a goalkeeper, be
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boy, Boys, Cartoon, Cartoon Network, Football, Interactive, Soccer, Sport, Sports

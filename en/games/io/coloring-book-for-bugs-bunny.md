@@ -19,6 +19,6 @@ Are you into Bugs Bunny ? Bugs Bunny Coloring Book: A Stunning Coloring Book Inc
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Cartoon, Color, Coloring, Draw, Drawing, Game, Kids, Online, Puzzle, Skills

@@ -19,6 +19,6 @@ Hey there, friend! Get ready to get on an epic adventure with Jack in the pursui
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Family, Halloween, HTML, jump, Jumping, mapi games, Mobile

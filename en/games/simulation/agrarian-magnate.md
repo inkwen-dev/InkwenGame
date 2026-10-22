@@ -27,4 +27,4 @@ Complete levels, complete tasks and earn money. Manage your farm, factory and st
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Cooking, cozy, farm, management, Shopping, Simulation, tycoon
+- Tags: Cooking, cozy, Farm, Management, Shopping, Simulation, tycoon

@@ -19,6 +19,6 @@ Piggy Get pain on hand and need doctor because hurt hand so in this PIGGY hand d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Baby, Boys, Cartoon, Cartoon Network, Doctor, Fun, Girls, Kids

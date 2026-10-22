@@ -19,6 +19,6 @@ Super fun coloring game! Choose one of the 12 images to color. Paint the way you
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Baby, Boy, Boys, Cartoon, Color, Coloring, Cute, Family, Funny, Girl, Girls, HTML5

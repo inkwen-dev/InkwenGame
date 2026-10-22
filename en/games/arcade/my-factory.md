@@ -19,6 +19,6 @@ In this game you have to make something everyday, like light bulbs and lanterns.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Arcade, farm, Game, HTML5, Online
+- Tags: 1 Player, 3D Games, Arcade, Farm, Game, HTML5, Online

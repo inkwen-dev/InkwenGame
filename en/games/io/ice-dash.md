@@ -19,6 +19,6 @@ Ice Dash is a fun and frosty adventure where you draw icy lines to guide Santa t
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2025 games, 2D, Adventure, Android, Arcade

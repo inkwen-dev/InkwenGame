@@ -19,6 +19,6 @@ Sort all 3d balls with the same color into one tube. Sort Balls 3D color sort pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Brain, Color, Mind, Puzzle, Unity3D

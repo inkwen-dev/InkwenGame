@@ -19,6 +19,6 @@ Flight Sim is a game where you have to guide aircraft to their landing zones, ke
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Flight, Plane, Sim, Simulation, Simulator

@@ -19,6 +19,6 @@ you crush your enemies in one of the coolest Adventure fun run games you have ev
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Anime, Best, Boys, Cartoon, Cartoon Network, endless, Games, Kids, Online, Race, Racing, run, running, Simulation, Simulator, Super, Superhero

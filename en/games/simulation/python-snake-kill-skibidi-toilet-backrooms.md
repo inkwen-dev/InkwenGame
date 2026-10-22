@@ -19,6 +19,6 @@ as python snake, kill all skibidi toilet at backroom. Fight all skibidi toilet a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Physics, Simulation, Skibidi, Skibidi Toilet

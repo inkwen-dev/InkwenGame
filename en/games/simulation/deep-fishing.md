@@ -21,4 +21,4 @@ Dive into the fun with Deep Fishing! Explore the deep blue, cast your line, and 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Casual, endless, fishing, HTML5, Mobile
+- Tags: 2D, Casual, endless, Fishing, HTML5, Mobile

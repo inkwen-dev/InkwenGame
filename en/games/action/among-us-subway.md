@@ -19,6 +19,6 @@ Welcome to Among us Subway Your goal is to reach the end of the level and collec
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best, Hot, run, running, Subway Surfers

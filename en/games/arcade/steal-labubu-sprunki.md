@@ -19,6 +19,6 @@ Steal Labubu - Sprunki! &ndash; a platformer with physics. You play as Sprunki P
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Best, Best Games, Casual, Girl, Mobile, Physics, Puzzle, Sprunki

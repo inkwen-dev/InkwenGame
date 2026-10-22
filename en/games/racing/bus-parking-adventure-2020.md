@@ -19,6 +19,6 @@ Bus Parking Adventure 2020 is a game for all those who are crazy for bus driving
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, bus, Driving, Parking

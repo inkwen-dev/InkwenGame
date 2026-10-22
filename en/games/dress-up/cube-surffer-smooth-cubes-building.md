@@ -19,6 +19,6 @@ To get the most of enjoy and focus on the line and keep your attention to get Th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Car, Cars, Defense, Elsa, Fashion, Hypercasual, Ladybug, Miraculous Ladybug, Pokemon, Quiz, Race, Road, Supercars, Unity3D

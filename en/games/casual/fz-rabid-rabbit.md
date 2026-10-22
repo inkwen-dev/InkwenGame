@@ -19,6 +19,6 @@ FZ Rabid Rabbit - Help the rabbit collect as many more carrots as possible, many
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Kid, Kids, Rabbit

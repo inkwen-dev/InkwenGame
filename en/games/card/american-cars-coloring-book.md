@@ -21,4 +21,4 @@ Now it's time for wonderful game that's called American Cars Coloring Book, let'
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Color, Coloring, Fun, HTML5, Mobile, Skill, Supercars
+- Tags: Card, Color, Coloring, Fun, HTML5, Mobile, Skill, Supercars

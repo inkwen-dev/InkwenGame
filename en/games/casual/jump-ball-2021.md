@@ -19,6 +19,6 @@ Welcome to the most addictive Moving Ball Bouncing game ! Get ready to enjoy the
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arena, Ball, Bounce, Bricks, Casual, endless

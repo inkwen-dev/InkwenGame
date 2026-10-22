@@ -21,4 +21,4 @@ What is the shortest way between two spots? Straight line! You don't need to bot
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Bridge, Game, Games, HTML, HTML5, prison, Stickman
+- Tags: Bridge, Game, Games, HTML, HTML5, Prison, Stickman

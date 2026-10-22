@@ -19,6 +19,6 @@ Protect My Dog is a fun casual puzzle game. The aim of the game is to protect ou
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Draw, Drawing, Fun, Funny, Hypercasual

@@ -21,4 +21,4 @@ This is no ordinary top-down farming game. The full 3d perspective offers hundre
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Baby, Boys, farm, Game, Girls, Kids, Love
+- Tags: Baby, Boys, Farm, Game, Girls, Kids, Love

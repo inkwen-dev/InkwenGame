@@ -19,6 +19,6 @@ Car Word Hunt is a fun word puzzle game where you need to find hidden car names!
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Car, Fun, Girls, Hidden, Puzzle, Skill, Word

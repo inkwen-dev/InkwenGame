@@ -19,6 +19,6 @@ The lovely princess Elsa is beautiful and charming girl that everyone in this wo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Barbie, Cooking, Dora, Dress Up, Fashion, Girls, Hair, Holiday, Makeover, Princess, Summer

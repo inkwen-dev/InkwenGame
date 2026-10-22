@@ -19,6 +19,6 @@ This engaging game is designed to spark creativity and musical interest in young
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Fun, Funny, Kids, Mobile, Music, Skill

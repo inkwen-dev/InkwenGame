@@ -21,4 +21,4 @@ Play Chess against a powerful AI engine. Choose to play as White or Black, get r
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Ai Games, Battle, Board, Brain, card, Casual, Classic, HTML5, Turn Based
+- Tags: 1 Player, Ai Games, Battle, Board, Brain, Card, Casual, Classic, HTML5, Turn Based

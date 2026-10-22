@@ -19,6 +19,6 @@ Finish The Drawing is your invitation to complete drawings in each level! Showca
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Drawing, Fun, Kids, Logic, Mobile, Skill

@@ -19,6 +19,6 @@ Climb into the cockpit of your favorite fighter aircraft, get ready to take-off,
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Action, Air, Arcade, Fight, Game, jet, Simulation, War

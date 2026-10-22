@@ -21,4 +21,4 @@ Everyone loves anime. This is an incredible art style. Feel like a real anime ar
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Anime, Cartoon, Creation, Decorate, Dress Up, Fantasy, Fashion, Girls, HTML5, Kids, Makeover, rpg
+- Tags: 1 Player, Anime, Cartoon, Creation, Decorate, Dress Up, Fantasy, Fashion, Girls, HTML5, Kids, Makeover, RPG

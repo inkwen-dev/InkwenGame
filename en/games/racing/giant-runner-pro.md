@@ -19,6 +19,6 @@ Giant Run Survival Rush best free Overall Game offline. Run through the obstacle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fight, Fighting, Racing, running

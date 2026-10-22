@@ -21,4 +21,4 @@ Roaming through lush and immersive environments, youll need to use your keen obs
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: dino, Dinosaur, hunter, hunting, Shooting, Sniper, Unity3D, WebGL
+- Tags: dino, Dinosaur, hunter, Hunting, Shooting, Sniper, Unity3D, WebGL

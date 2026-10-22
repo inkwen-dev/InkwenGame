@@ -19,6 +19,6 @@ Control the Batman and hunt down your targets one by one. Use your surroundings 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Batman, Kill, Killing, Super, Superhero

@@ -21,4 +21,4 @@ Are you ready to show off your your gardening skills ? Play online Garden Decora
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, Baby Hazel, Creation, Decorate, Decoration, Design, Games, Kids, Online, Plane, Planet, Simulator
+- Tags: .io Games, Baby Hazel, Creation, Decorate, Decoration, Design, Games, IO, Kids, Online, Plane, Planet, Simulator

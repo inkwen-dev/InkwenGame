@@ -19,6 +19,6 @@ Welcome to Cleaner Run Hypercasual 3D Game! Clean the road faster to win by choo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Girls, running, Unity3D

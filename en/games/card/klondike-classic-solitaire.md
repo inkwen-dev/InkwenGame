@@ -17,4 +17,4 @@ Unwind with Klondike Classic Solitaire, where strategic card-stacking reigns sup
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

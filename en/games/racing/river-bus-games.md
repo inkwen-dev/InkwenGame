@@ -19,6 +19,6 @@ Get ready to play the best river coach ultimate bus driving simulator. City Rive
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Adventure, Arena, bus, Car, Cars, Race, War

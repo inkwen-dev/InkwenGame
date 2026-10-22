@@ -19,6 +19,6 @@ The people who love truck games, then this is the place to be. Welcome to new &l
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Classic, Truck, Unity3D, WebGL

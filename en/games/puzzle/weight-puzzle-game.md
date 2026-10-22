@@ -19,6 +19,6 @@ Put your thinking skills to the test in Weight Puzzle Game! Solve challenging pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best, Best Games, Brain, Brainrot, Casual, Fun, Hypercasual, Puzzle

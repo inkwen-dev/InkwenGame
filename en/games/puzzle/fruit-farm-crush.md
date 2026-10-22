@@ -19,6 +19,6 @@ Yes! it's time to Crush and Fruits and Veggies. Play and enjoy Fruits Farm Crush
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, farm, Fruit, Fruits, Hypercasual, Kids, Match 3, Match3, Matching
+- Tags: Arcade, Brain, Farm, Fruit, Fruits, Hypercasual, Kids, Match 3, Match3, Matching

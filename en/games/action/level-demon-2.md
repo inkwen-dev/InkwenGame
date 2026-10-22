@@ -19,6 +19,6 @@ Level Demon 2 throws you straight into a fast-paced platforming challenge where 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Crazy, free html5 games for your website, Fun, Geometry, Jumping, Level, Pixel, running

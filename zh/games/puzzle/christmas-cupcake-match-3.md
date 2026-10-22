@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 圣诞节, HTML5, 孩子们, 匹配3, 移动设备, 拼图
+- 标签: 圣诞节, HTML5, 孩子们, 三消, 移动, 益智

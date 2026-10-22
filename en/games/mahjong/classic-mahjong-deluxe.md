@@ -19,6 +19,6 @@ Match 2 of the same mahjong tiles to remove them from the board. You only can us
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Mahjong, Mobile

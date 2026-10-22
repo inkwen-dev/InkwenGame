@@ -19,6 +19,6 @@ Our character, who is running for his flowers, has 2 difficult roads and at the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Casual, endless, Fun, Funny, Game, Games, WebGL

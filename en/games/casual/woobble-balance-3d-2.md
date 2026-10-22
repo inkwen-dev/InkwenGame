@@ -19,6 +19,6 @@ Woobble Balance 3D 2 is the sequel to the popular mobile game, offering an enhan
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Ball, Kids, Mentolatux, Skill, Unity3D, WebGL

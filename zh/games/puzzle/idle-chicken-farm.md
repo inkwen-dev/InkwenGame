@@ -35,4 +35,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动物, Clicker, 农场, 闲置的, 合并, 模拟游戏
+- 标签: 动物, 点击游戏, Farm, 闲置, 合并, 模拟

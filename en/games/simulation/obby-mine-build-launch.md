@@ -37,4 +37,4 @@ Build your style and your squad:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Crafting, idle, management, obby
+- Tags: Crafting, idle, Management, obby

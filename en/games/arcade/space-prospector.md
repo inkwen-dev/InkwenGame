@@ -19,6 +19,6 @@ Space Prospector is a fun game where you have to fly on a jet device, search, co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Flight, Gold, Rocket, Space

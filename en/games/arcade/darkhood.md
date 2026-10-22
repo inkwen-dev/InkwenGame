@@ -19,6 +19,6 @@ Step into a world where the only light is your own aura. Guide a brave boy in a 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Arcade, HTML5, Hypercasual, Mobile

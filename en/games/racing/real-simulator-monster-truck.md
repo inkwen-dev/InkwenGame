@@ -19,6 +19,6 @@ Real Simulator: Monster Truck is a 3D car driving game that lets you drive monst
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Boy, drift, Driving, Hot, Race, Racing, Stunts

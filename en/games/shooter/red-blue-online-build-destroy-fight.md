@@ -39,4 +39,4 @@ Red & Blue: Online. Build! Destroy! Fight! — is a fast-paced voxel multiplayer
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Multiplayer, pvp, Shooting, survival, two-player
+- Tags: Action, Multiplayer, PvP, Shooting, survival, two-player

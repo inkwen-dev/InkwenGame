@@ -19,6 +19,6 @@ Do u love cute DOLLS lol? Cute Dolls lol Photo Editor is the best lol photo edit
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Dora, Dress Up, Girl, Girls

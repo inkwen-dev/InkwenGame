@@ -19,6 +19,6 @@ Here is a taxi driver simulation game called Taxi Simulator 3D. You have a chanc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Driving, Mobile, Parking, Simulation, Taxi, Unity3D

@@ -19,6 +19,6 @@ Professor Bubble needs your help! In his excitement over his new bubble machine,
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bejeweled, Bubble, Bubble Shooter, Game, Match 3, Match3, Matching, Online
+- Tags: Arcade, Bejeweled, Bubble, Bubble Shooter, Game, Match-3, Match3, Matching, Online

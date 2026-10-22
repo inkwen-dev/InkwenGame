@@ -19,6 +19,6 @@ Blunt Arrow is a one&ndash;of-a-kind action game that can train your reflexes to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Casual, Hypercasual

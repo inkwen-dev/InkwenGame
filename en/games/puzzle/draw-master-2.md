@@ -19,6 +19,6 @@ Do you want to relax in peace and quiet? Draw Master 2 is a fun and casual free 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boy, Brain, Draw, Fun, HTML5, Kids, Online, Puzzle

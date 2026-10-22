@@ -25,4 +25,4 @@ Plan your route carefully, use cover and darkness to your advantage, and upgrade
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Escape, horror, scary
+- Tags: Escape, Horror, scary

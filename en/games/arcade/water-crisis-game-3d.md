@@ -19,6 +19,6 @@ Solve Simple yet Challenging Water Puzzles to Keep Your Lovely Flower Happy, it'
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, Arcade, Army, Avoid, Balance, Brain, farm, Fire, Puzzle
+- Tags: Adventure, Android, Arcade, Army, Avoid, Balance, Brain, Farm, Fire, Puzzle

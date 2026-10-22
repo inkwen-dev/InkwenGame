@@ -19,6 +19,6 @@ Stack Crash Ball is a 3d casual game where players smash, bump and bounce throug
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Casual, Color, Fun, Hypercasual, Unity3D

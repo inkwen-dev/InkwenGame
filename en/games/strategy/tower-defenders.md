@@ -19,6 +19,6 @@ Fight the undead viking warriors and upgrade your defenses. Use the rewards you 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Defense, Simulation, Strategy, Tower Defense

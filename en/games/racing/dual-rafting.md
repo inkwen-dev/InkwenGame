@@ -19,6 +19,6 @@ Take part in the race of your life, with this driving duet boat simulator. The p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Race, Racing, Strategy

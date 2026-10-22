@@ -19,6 +19,6 @@ Dodge spikes, jump walls, fall into holes. Simple until it isnt. Speed keeps cli
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Arcade, Ball, free html5 games for your website, Hypercasual, Jumping, mapi games, Racing

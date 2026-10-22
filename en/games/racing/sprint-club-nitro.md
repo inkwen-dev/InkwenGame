@@ -19,6 +19,6 @@ Ricky Zoom: Wheelford Wheelies is a motorbike racing game based on Ricky Zoom, a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Avoid, Bounce, Boys, Cars, Cartoon, Cartoon Network, Disney, HTML5, jump, Jumping, Kids, Moto, Motorcycle, Race, Racing

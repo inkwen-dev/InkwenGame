@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 砖块, 拼图, Tetris
+- 标签: 砖块, 益智, 俄罗斯方块

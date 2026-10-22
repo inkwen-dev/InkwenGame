@@ -19,6 +19,6 @@ Heavy Coach Bus Simulation will let you experience what it likes being a bus dri
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, city, drifting, Driving, Sim, Simulation, Simulator, Stunts

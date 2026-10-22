@@ -19,6 +19,6 @@ DIY Mini Journals is a super cute art game made for girls. Do you have a journal
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Design, Fashion, Fun, Girls, HTML5, Kids, Mobile

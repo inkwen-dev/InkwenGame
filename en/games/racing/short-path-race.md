@@ -19,6 +19,6 @@ Race forward, think fast, and build your own path to victory! Sprint along a nar
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Best Games, Brain, Crazy, Hypercasual, Interactive, Race, Racing, Timing

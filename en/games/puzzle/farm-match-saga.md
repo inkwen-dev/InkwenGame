@@ -19,6 +19,6 @@ if you love match3 puzzle games then you will fall in love with Farm Match Saga!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Fruits, Match3, Puzzle

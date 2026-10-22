@@ -19,6 +19,6 @@ Set sail with a fearless straw-hat kid and his rubber-quick reflexes in Rogue Se
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, attack, Math, Puzzle, Stickman

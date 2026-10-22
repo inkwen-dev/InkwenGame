@@ -21,4 +21,4 @@ BTS Boat Coloring Book is an online game that you can play for free. In this col
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Android, boat, Boys, Brain, Color, Coloring, Fun, Girls, HTML5, Kid, Kids, School
+- Tags: 1 Player, Android, Boat, Boys, Brain, Color, Coloring, Fun, Girls, HTML5, Kid, Kids, School

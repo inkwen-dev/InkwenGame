@@ -19,6 +19,6 @@ You own a pet store and the most important business is pet grooming. One day a g
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cat, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

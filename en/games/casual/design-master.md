@@ -19,6 +19,6 @@ It is a newly created simulation cutting game. In this game, the players will op
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Funny, Game, Games, Google, H5, HTML, Hypercasual, Kid, Kids, Slicing

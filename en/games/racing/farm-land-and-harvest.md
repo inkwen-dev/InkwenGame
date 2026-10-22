@@ -21,4 +21,4 @@ Do you know where does flour come from? Do you know what does farmer do to grow 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, Cars, Cleaning, Driving, Educational, farm, Food, Fun, HTML5, Kids, Mobile
+- Tags: Boys, Cars, Cleaning, Driving, Educational, Farm, Food, Fun, HTML5, Kids, Mobile

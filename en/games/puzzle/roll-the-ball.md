@@ -19,6 +19,6 @@ Can you make these balls roll into the holes in each one of these challenging le
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Brain, Family, Friv, HTML5, Puzzle, Skill

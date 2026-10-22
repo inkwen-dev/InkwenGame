@@ -19,6 +19,6 @@ This is an online cooking game for Thanksgiving. You will have the opportunity t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Food, Shopping, Super

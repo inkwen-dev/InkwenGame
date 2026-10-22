@@ -19,6 +19,6 @@ World of Alice - Parts of the House World of Alice - Parts of the House is an ed
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Cartoon, Cute, Educational, free games for your site, free games for your website, free html5 games for your website, House, HTML, html games for your website, HTML5, html5 games, Kids, School

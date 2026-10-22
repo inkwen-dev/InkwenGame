@@ -21,4 +21,4 @@ Upgrade your hook and net to catch more fish and to dive deeper unveil treasure 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Boys, Fighting, Fish, fishing, Games, Girls, Kids, Sport
+- Tags: Action, Adventure, Animal, Boys, Fighting, Fish, Fishing, Games, Girls, Kids, Sport

@@ -19,6 +19,6 @@ Get ready for a fun and exciting winter challenge in Snow Ball Race! Roll your s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Fun, Hypercasual, Race, Racing

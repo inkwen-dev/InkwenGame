@@ -19,6 +19,6 @@ Move the mouse, drag the ball with the line, avoid hitting the white dot and get
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Ball, Casual, Game, Highscore, HTML5, Play, Snow

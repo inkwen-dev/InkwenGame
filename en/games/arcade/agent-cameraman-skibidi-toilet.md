@@ -19,6 +19,6 @@ Hey agent! Quickly grab your weapon and be ready for the mission. The monsters a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Adventure, Alien, Android, Arcade, Arena, Interactive, Skibidi, Skibidi Toilet

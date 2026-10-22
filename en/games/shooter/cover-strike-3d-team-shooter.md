@@ -21,4 +21,4 @@ The gameplay of multiplayer shooting games is very action-packed & thrilling. Do
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arena, Army, Battle, boat, Bomb
+- Tags: Adventure, Arena, Army, Battle, Boat, Bomb

@@ -19,6 +19,6 @@ Twist And Roll is an engaging skill puzzle game where you rotate the terrain and
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ball, Fun, Logic

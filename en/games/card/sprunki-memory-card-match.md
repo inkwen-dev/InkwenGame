@@ -21,4 +21,4 @@ Put your memory to the ultimate test with Sprunki Memory Card Match! Dive into a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, Brain, card, Girls, Hypercasual, Matching, Memory, Puzzle, Sprunki
+- Tags: Boys, Brain, Card, Girls, Hypercasual, Matching, Memory, Puzzle, Sprunki

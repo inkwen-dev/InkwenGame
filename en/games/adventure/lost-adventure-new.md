@@ -19,6 +19,6 @@ Survivors of a mid-air crash find themselves in a mysterious land. The pilot, am
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, airplane, Android, Animal, Casual, water, wolf, World, Zombie
+- Tags: Adventure, Aircraft, airplane, Android, Animal, Casual, water, Wolf, World, Zombie

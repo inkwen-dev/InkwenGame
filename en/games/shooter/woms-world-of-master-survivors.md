@@ -19,6 +19,6 @@ The city fell. You are the last line of defense holding the street corner. Endle
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, apocalypse, Best Games, Top Down, Zombie

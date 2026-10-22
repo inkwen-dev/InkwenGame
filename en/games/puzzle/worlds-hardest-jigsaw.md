@@ -19,6 +19,6 @@ Worlds Hardest Jigsaw is an engaging jigsaw puzzle game, and everyone can play f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boy, Brain, Fun, Game, HTML5, Jigsaw, Kids, Online, Relaxation

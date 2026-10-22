@@ -19,6 +19,6 @@ Ear doctor game is a simulation game to treat ear in the emergency doctor room. 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Casual, Doctor, Hypercasual

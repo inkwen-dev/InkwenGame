@@ -19,6 +19,6 @@ Magic Land is an endless game where you have to play a role of a wizard where yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Brain, HTML, HTML5, Online

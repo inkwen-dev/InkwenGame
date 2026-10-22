@@ -19,6 +19,6 @@ Emma Play Time is a fun supermarket shopping girl game that gives you an idea of
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Cooking, Girl, Girls, Hidden, Shopping

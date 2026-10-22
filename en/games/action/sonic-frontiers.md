@@ -19,6 +19,6 @@ Worlds are colliding in Sonic the Hedgehog’s newest high-speed adventure! In s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, kiz10, Platform, running

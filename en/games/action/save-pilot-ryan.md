@@ -19,6 +19,6 @@ Can you keep Pilot Ryan flying? In this high-octane action game, youll be dodgin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: airplane, Battle, Bomb

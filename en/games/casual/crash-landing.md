@@ -19,6 +19,6 @@ Crash Landing 3D is a very addicting simulation flight game. In the game, the pl
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Collecting, fly, Hypercasual

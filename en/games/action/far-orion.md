@@ -19,6 +19,6 @@ The year is 2121. Technology has advanced far beyond the bounds of our wildest f
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arena, Battle, Clans, Fight, Fighting, HTML5, Princess, rpg, WebGL, Witch, Wizard, World
+- Tags: 1 Player, Adventure, Arena, Battle, Clans, Fight, Fighting, HTML5, Princess, RPG, WebGL, Witch, Wizard, World

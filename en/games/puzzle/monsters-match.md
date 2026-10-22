@@ -19,6 +19,6 @@ Monsters Match is a simple cool game that requires finding match card pairs base
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Brain, card, Family, Halloween, HTML, HTML5, Kid, Kids, Match 3, Match3, Matching, Memory, Monster
+- Tags: 2D, Brain, Card, Family, Halloween, HTML, HTML5, Kid, Kids, Match 3, Match3, Matching, Memory, Monster

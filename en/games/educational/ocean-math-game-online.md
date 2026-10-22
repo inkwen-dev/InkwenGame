@@ -19,6 +19,6 @@ Play games online free. Practice math and improve mental arithmetic. Ocean Math 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Kid, Kids, Math

@@ -19,6 +19,6 @@ Baby Panda Breakfast Cooking is a cute cookig game. In this game, you are an own
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cooking, Cute, Food, Fun, Girls, HTML5, Kids, Mobile, Panda

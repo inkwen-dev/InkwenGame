@@ -21,4 +21,4 @@ Click the cards to flip. Memorize their position and match them up in pairs. Mat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Memory, Puzzle
+- Tags: Card, Memory, Puzzle

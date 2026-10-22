@@ -21,4 +21,4 @@ Scooby Doo Match 3 – this cool game three in a row, in which you have to put t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Match 3, Mobile, Puzzle
+- Tags: Fun, HTML5, Kids, Match-3, Mobile, Puzzle

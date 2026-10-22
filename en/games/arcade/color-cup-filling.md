@@ -19,6 +19,6 @@ Colour Cup Filling is a thrilling puzzle game where players fill cups with vibra
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Unity3D, WebGL

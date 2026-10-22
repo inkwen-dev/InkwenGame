@@ -19,6 +19,6 @@ Connect similar star blocks using touchscreen or mouse. Make a group of 3 or mor
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, HTML5, Match 3, Matching, Mobile, Puzzle

@@ -19,6 +19,6 @@ A great way to learn to recognize letters and shapes. Letter Shapes, fun learnin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Fun, Girls, HTML5, Kids, Letters, Mobile, School

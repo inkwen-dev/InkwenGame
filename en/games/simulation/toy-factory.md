@@ -19,6 +19,6 @@ Welcome to Toy Factory! Are you ready to build your own production empire? Produ
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, Action, management, WebGL
+- Tags: 1 Player, 2026 games, 3D, Action, Management, WebGL

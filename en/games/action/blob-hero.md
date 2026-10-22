@@ -19,6 +19,6 @@ In Blob Hero, you become a brave hero facing endless waves of enemies and monste
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, endless, Monster

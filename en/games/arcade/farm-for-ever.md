@@ -21,4 +21,4 @@ Manage a farm: grow crops, care for animals, trade. Save Progress. Management. O
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Animal, Baby, farm
+- Tags: 1 Player, 3D, Adventure, Animal, Baby, Farm

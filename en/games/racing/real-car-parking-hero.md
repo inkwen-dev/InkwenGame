@@ -19,6 +19,6 @@ Real Classic Car Parking 3d new Hard Drive is full of fun and enjoyment. This ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Adventure, Cars, Interactive

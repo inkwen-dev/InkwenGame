@@ -19,6 +19,6 @@ Help the chicken to explore the. Jump, Jump and jump. Try to get more points
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Chicken, jump, Jumping, Platform

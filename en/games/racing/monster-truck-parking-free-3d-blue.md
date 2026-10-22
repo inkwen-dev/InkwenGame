@@ -19,6 +19,6 @@ Description Brain for Monster Truck Parking is a unique and imaginative driving 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Arcade, Car, Cars, Casual, drift, drifting, Driving, Fun, Funny, Hypercasual, Parking, Supercars

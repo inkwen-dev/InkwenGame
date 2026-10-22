@@ -21,4 +21,4 @@ Plunge into the world of business, where you will become the manager of your own
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Car, management
+- Tags: 3D, Arcade, Car, Management

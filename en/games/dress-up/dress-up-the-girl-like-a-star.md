@@ -19,6 +19,6 @@ Can you dress this girl like a star ? Choose the dress, the top, the shoes, the 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Dress Up, Family, Fashion, Girl, Shopping

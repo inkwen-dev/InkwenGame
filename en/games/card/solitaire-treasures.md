@@ -19,6 +19,6 @@ Classic Klondike Solitaire (Draw 1) where every deal is guaranteed winnable. Col
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, Brain, card, Casual, Classic, Puzzle, Solitaire
+- Tags: Board, Brain, Card, Casual, Classic, Puzzle, Solitaire

@@ -21,4 +21,4 @@ Les jeux éducatifs pour les enfants de la maternelle sont le moyen le plus popu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, farm, Kids
+- Tags: Animal, Farm, Kids

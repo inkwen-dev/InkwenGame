@@ -19,6 +19,6 @@ An exciting mix of parking and drawing in one online game invites players to hav
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Drawing, Fun, Game, Girl, HTML5, Hypercasual, Parking, Racing

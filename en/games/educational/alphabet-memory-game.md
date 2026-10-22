@@ -19,6 +19,6 @@ One of the best ways to teach something to children is using some kind of game. 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Fun, HTML5, Kids, Letters, Memory, Mobile, Skill

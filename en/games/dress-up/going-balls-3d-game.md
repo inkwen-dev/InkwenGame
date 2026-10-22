@@ -19,6 +19,6 @@ You love ball games. Join the fun and test your ability to master Rolling Ball 3
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Action, Adult, Adventure, Ballon, Bike, Boy, Boys, Candy, Car, Cars, Color, Fashion, Fun, Games, Girls, Hair, Mario, Side Scrolling, Spiderman, Sport, Superhero, Traffic, train
+- Tags: 3D Games, 8 Ball Pool, Action, Adult, Adventure, Ballon, Bike, Boy, Boys, Candy, Car, Cars, Color, Fashion, Fun, Games, Girls, Hair, Mario, Side Scrolling, Spiderman, Sport, Superhero, Traffic, Train

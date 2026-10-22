@@ -17,4 +17,4 @@ Venture into the chilling, dark forest of Floppa Scary Horror, where humor meets
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

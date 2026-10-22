@@ -63,4 +63,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 动作, 街机, Clicker, 障碍, 技巧
+- 标签: 3D, 动作, 街机, 点击器, 障碍, 技巧

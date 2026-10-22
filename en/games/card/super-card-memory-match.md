@@ -21,4 +21,4 @@ The objective of this game is to gather the even cards Win the game when you col
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, card, Math, Memory
+- Tags: 1 Player, 2D, Arcade, Card, Math, Memory

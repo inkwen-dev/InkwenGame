@@ -19,6 +19,6 @@ Welcome to the Rainbow Friends Escape Game, where many scary Blue Monsters and b
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Blood, Boys, Casual, House

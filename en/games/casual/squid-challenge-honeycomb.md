@@ -19,6 +19,6 @@ It's time to play one of the famous games in the Squid Game series. On this occa
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, Brain, Fun, H5, HTML5, Kid, Kids

@@ -19,6 +19,6 @@ Start an adventure with the fearless and equipped stickman! Defeat the enemies t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Battle, Boy, Collecting, Fight, Fighting, Stickman, War

@@ -19,6 +19,6 @@ Welcome to the world of truck cargo transport games. Real cargo truck driving,up
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: cargo, city, Driving, mountain, offroad, Truck, trucks, water

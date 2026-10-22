@@ -19,6 +19,6 @@ An addictive running game. Run as fast as you can, avoid the obstacle, to escape
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Best, dino, HTML, jump, Jumping, Mobile, run, running

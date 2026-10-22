@@ -19,6 +19,6 @@ Classic minecraft game! Explore infinite worlds and build everything from the si
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Craft, Crafting, HTML5, Minecraft, Unity3D, WebGL

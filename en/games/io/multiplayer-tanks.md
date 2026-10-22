@@ -19,6 +19,6 @@ First HTML5 tank game with real multiplayer. Good old deathmatch mode. Endless r
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, MMO, Multiplayer, Tank, Tanks

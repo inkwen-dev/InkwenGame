@@ -19,6 +19,6 @@ Soldier Shooting is an exciting action shooting game where you control special f
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Army, Clicker, Enemy

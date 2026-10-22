@@ -19,6 +19,6 @@ With City Runner, Try to go as far as possible,, beat your opponents be the firs
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Adventure, Arcade, Casual, city, Fun, Games, Hypercasual, Kids, Online, Pixel, Puzzle, running

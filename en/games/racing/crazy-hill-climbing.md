@@ -19,6 +19,6 @@ Crazy Mountain Climbing is your ultimate mountain racing adventure! Tackle 15 ch
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boys, Car, Cars, Driving, Platform, Race, Racing, Simulation, Simulator, Supercars

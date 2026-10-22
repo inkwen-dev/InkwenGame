@@ -21,4 +21,4 @@ Screw Nuts Snap Puzzle is a colorful puzzle game about matching screws and choos
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Logic, Match 3
+- Tags: 1 Player, 2D, Brain, Logic, Match-3

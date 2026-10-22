@@ -21,4 +21,4 @@ Dive into the exciting world of "Legions: Way of War," a real-time strategy game
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Multiplayer, pvp, Strategy, War
+- Tags: Mobile, Multiplayer, PvP, Strategy, War

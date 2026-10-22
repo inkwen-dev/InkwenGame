@@ -21,4 +21,4 @@ Your vegetable garden really need water. Connect the pipes and water the garden 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, farm, Fruit, Puzzle
+- Tags: Casual, Farm, Fruit, Puzzle

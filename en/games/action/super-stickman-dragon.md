@@ -19,6 +19,6 @@ Find the truest and most powerful warrior with the Dragon ball z characters in t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Dragon Ball Z, Fighting, free html5 games for your website, Hypercasual, kiz10, Physics, Stickman

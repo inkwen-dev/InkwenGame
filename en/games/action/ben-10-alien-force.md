@@ -19,6 +19,6 @@ Ben 10 Alien Force is the follow-up to the hit free-to-play game Super Slime Bli
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ben 10, jump, Jumping, run, running

@@ -19,6 +19,6 @@ It's possible now to play RigBMX 2 Crash Curse game in your web browser for free
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Avoid, Baby, Boys, Brain, Cartoon, Cartoon Network, Family, Fun, Girls, HTML5, Kids, Mobile, Racing, Skills, Sport

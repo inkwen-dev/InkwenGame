@@ -19,6 +19,6 @@ Be a super racer of highway riding game: train vs tricky bikes A new story in ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Bike, Games, HTML, HTML5, Race, Racing, Stunts, Traffic, train
+- Tags: 3D, 3D Games, Bike, Games, HTML, HTML5, Race, Racing, Stunts, Traffic, Train

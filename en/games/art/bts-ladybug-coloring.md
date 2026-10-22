@@ -19,6 +19,6 @@ Bts Ladybug Coloring is an online game that you can play for free. A new colorin
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Color, Coloring, Fun, Girls, HTML5, Kids, Ladybug, Miraculous Ladybug, School

@@ -21,4 +21,4 @@ Enter the world of Mecha Shoot Pixel RPG. This is an exciting mix of shooting, R
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Enemy, Monster, rpg, Shooting
+- Tags: Enemy, Monster, RPG, Shooting

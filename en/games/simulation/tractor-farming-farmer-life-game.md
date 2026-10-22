@@ -54,4 +54,4 @@ Grow your crops, master modern farming equipment, and build your dream farm in T
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, farm, Simulation, tractor
+- Tags: 3D, Farm, Simulation, tractor

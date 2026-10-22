@@ -19,6 +19,6 @@ Are you seeking a stimulating puzzle game to challenge your cognitive prowess an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Arcade, Ball, Boy, Casual, Girl, iPad, iPhone, Kids, Maze, Mobile, mouse, Online
+- Tags: 3D, Android, Arcade, Ball, Boy, Casual, Girl, iPad, iPhone, Kids, Maze, Mobile, Mouse, Online

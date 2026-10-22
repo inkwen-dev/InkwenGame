@@ -19,6 +19,6 @@ Understanding that racism is not inherent in human beings, we corroborate peacef
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Batman, Battle, Battlegrounds, Ben 10, Fight, Fighting, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting

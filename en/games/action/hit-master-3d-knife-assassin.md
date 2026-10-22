@@ -19,6 +19,6 @@ Hit Master 3D Knife Assassin has become the legend of the assassin, Do you want 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Fire, HTML, Mobile, Online, Platform, Skill, Skills, weapons

@@ -21,4 +21,4 @@ Thats Not My Neighbor is a detective puzzle game. You are going to be the new ja
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, horror, Puzzle
+- Tags: 1 Player, Horror, Puzzle

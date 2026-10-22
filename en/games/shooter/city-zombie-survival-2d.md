@@ -19,6 +19,6 @@ Your mission is to destroy all zombies in the city. You can use weapons like a k
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, city, Collecting, HTML5, iPad, iPhone, Mentolatux, Mobile, Shooting, survival, Zombie

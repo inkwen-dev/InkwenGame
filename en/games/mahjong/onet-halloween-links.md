@@ -19,6 +19,6 @@ Connect 2 same halloween items with a path that no more than two 90 degree angle
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, HTML5, Mahjong, Mobile

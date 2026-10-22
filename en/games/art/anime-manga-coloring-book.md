@@ -19,6 +19,6 @@ Do you like watching Anime and Manga? Do you like gorgeous Anime and Manga chara
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Coloring, Cute, Fun, Girls, HTML5, Kids, Love, Mobile

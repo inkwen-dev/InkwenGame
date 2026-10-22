@@ -19,6 +19,6 @@ Fascinating arcade game "Ball Rolling Path". The ball is constantly rolling on a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Avoid, Ball, Casual, HTML, HTML5, Hypercasual

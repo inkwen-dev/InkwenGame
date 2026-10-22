@@ -21,4 +21,4 @@ Tap or click any card to reveal its icon. Memorize it and try to find its pair i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, HTML5, Kids, Matching, Memory, Mobile
+- Tags: Card, HTML5, Kids, Matching, Memory, Mobile

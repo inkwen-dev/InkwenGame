@@ -21,4 +21,4 @@ Tray to count the number of carts before your time is run out! How accurate you 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Fun, HTML5, Kids, Mobile, Puzzle
+- Tags: Card, Fun, HTML5, Kids, Mobile, Puzzle

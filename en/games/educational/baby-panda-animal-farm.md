@@ -21,4 +21,4 @@ Baby Panda Animal Farm is a cute farming game where you can learn how to run a f
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cartoon, Cleaning, Cute, Educational, farm, Fun, Girls, Grooming, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Cartoon, Cleaning, Cute, Educational, Farm, Fun, Girls, Grooming, HTML5, Kids, Mobile, Panda

@@ -19,6 +19,6 @@ Do you want to be a champion? Try this game Bridge Race that combines collecting
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Block, Boy, Bridge, Casual, Collecting, Kid, Puzzle, Race, Relaxation

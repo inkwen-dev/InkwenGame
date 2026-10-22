@@ -19,6 +19,6 @@ CarBattle is an exciting car combat game where you can create and upgrade your o
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Car, Tank, weapons

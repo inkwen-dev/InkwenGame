@@ -19,6 +19,6 @@ Get ready for the Red Ball excitement! This amazing platform game is a lot of fu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Avoid, Balance, Ball, Hypercasual, Platform

@@ -19,6 +19,6 @@ Tap the screen to let the character roll in the air and land in the correct dire
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Girl, Kiz 10, Skill

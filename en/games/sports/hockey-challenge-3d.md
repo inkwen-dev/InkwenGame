@@ -19,6 +19,6 @@ Aim Target Shoot the Crazy Tricky Shot in the goal in this crazy hockey challeng
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: hockey, Shoot, Sports

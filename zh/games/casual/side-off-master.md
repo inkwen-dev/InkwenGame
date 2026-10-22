@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 游戏, 游戏们, HTML, HTML5, 休闲, 儿童, 孩子们, 思维
+- 标签: 游戏, 游戏们, HTML, HTML5, 超休闲, 儿童, kids, 思维

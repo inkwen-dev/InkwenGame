@@ -19,6 +19,6 @@ This is a cool, easy, and fun to play, endless game. Tap or Click on the Flies w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Boys, Casual, Clicker, endless, fly, Plant

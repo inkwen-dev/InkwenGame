@@ -19,6 +19,6 @@ Bulldozer Race GAME This is one of the most fascinating games! Can you drive a b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Crazy, Racing

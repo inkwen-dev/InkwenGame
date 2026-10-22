@@ -19,6 +19,6 @@ Move Color Jump 2 is a free online fun and puzzle game. Flat Jumper 2 is a game 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Color, jump, Jumping, Puzzle

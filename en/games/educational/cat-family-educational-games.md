@@ -19,6 +19,6 @@ Cat Family Educational Games is specially designed for preschoolers. The happy a
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Educational, Family, Fun, Girls, HTML5, Kid, Mobile, Puzzle

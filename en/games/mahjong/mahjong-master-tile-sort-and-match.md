@@ -19,6 +19,6 @@ Mahjong Master is a classic tile-matching puzzle game. Match identical mahjong t
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Matching, Puzzle

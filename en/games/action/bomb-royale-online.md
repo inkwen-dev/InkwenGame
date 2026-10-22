@@ -21,4 +21,4 @@ Enter an explosive online battle royale inspired by classic bomber-style arcade 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Multiplayer, pvp
+- Tags: Multiplayer, PvP

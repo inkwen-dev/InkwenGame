@@ -19,6 +19,6 @@ Skull Arkanoide game is the best game who love skull and darkness environment. S
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Arkanoid, Army, Ball, Bricks, sky, Space, Spaceship, weapons

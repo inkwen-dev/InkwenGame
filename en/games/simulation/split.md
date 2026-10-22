@@ -19,6 +19,6 @@ SPLIT is an underwater survival game where you control a magical bubble rising t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, Ai Games, amazing, Best, Best Games, Brain, Fish, fishing, water
+- Tags: 1 Player, 2026 games, Ai Games, amazing, Best, Best Games, Brain, Fish, Fishing, water

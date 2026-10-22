@@ -19,6 +19,6 @@ FZ Traffic Jam you have to prevent crashes. You can stop and start cars by tappi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Kid, Kids, Sport, Sports

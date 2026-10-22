@@ -19,6 +19,6 @@ Step into the heat of Blaze Ball Showdown, a fiery sports arcade game where play
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Fire, Sport, Sports

@@ -19,6 +19,6 @@ Let's start the engines of your supercars! Get ready your gt stunt car and start
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Cars, Hypercasual, jump, Jumping, Race, Racing, Simulation, Simulator, Stunts, Super, Supercars

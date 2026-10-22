@@ -19,6 +19,6 @@ Apple clicker endless Test your reflexes and precision as you click your way thr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Baby, Baby Games, Best Games, Cartoon, Casual, Clicker, free games for your website, Fruit, Fruits, HTML5

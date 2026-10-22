@@ -19,6 +19,6 @@ This kawaii fishing game, game funny casual for playing. Features? - Kawaii fish
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Fish, fishing, Hypercasual
+- Tags: Action, Arcade, Fish, Fishing, Hypercasual

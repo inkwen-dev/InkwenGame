@@ -21,4 +21,4 @@ The world is broken&hellip; a hollow shell of what it was. Yet hope lingers stil
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Adventure, apocalypse, Blood, Cute, Fighting, horror, Pixel, Platform, quests
+- Tags: 1 Player, 2025 games, 2D, Adventure, apocalypse, Blood, Cute, Fighting, Horror, Pixel, Platform, quests

@@ -25,4 +25,4 @@ Click Click Clicker is all about getting shiny new things with minimal effort. Y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, mouse
+- Tags: Clicker, idle, Mouse

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2025年游戏, 2026年游戏, 3D, 精彩, 平衡, 脑残, 脑残意大利版, 休闲, 有趣, 搞笑, 障碍, roblox, tralalero tralala
+- 标签: 单人游戏, 2025年游戏, 2026年游戏, 3D, 惊人, 平衡, 脑残, 脑残梗意大利版, 休闲, 有趣, 搞笑, 障碍, roblox, Tralalero Tralala

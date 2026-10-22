@@ -19,6 +19,6 @@ Jump Ninja Hero – this is a great (flat style) arcade-action game with very be
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Clash, Classic, jump, Jumping, Kids, Kill, Killing, Mario, Ninja, Ninjago, run, running, Skill, Super, Supercars, Superhero

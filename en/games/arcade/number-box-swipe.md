@@ -19,6 +19,6 @@ Number Box Swipe is a fast-paced puzzle game that challenges players to match an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, mouse, Puzzle, Unity3D, WebGL
+- Tags: Arcade, Mouse, Puzzle, Unity3D, WebGL

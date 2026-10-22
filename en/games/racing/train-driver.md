@@ -21,4 +21,4 @@ Hello, trainspotters! Train Simulator is a very realistic simulation game where 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Driving, train, Unity3D, WebGL
+- Tags: Driving, Train, Unity3D, WebGL

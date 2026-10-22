@@ -19,6 +19,6 @@ Welcome to Pin Out Rescue Game, a fun and addictive puzzle rescue game where you
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Casual, Fun, Hypercasual, Pinball

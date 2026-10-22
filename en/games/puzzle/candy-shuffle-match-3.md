@@ -19,6 +19,6 @@ Welcome to Candy Shuffle March3 Puzzle Game. Challenge yourself to Tons of DELIC
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Brain, Bubble, Candy, Casual, HTML5, Hypercasual, Jewel, Match 3, Match3, Matching

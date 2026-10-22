@@ -21,4 +21,4 @@ Sands of Anubis is an Egyptian tile matching puzzle. Tap a tile to move it into 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Casual, Logic, Mahjong, Match 3, Matching, Puzzle, tomb
+- Tags: Brain, Casual, Logic, Mahjong, Match-3, Matching, Puzzle, tomb

@@ -19,6 +19,6 @@ Flying Jelly is a casual game, the goal is to crushes all the Jelly, except the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Casual, fly, HTML5, Jelly, Timing

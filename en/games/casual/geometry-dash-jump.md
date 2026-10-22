@@ -19,6 +19,6 @@ Get ready for an electrifying challenge in Geometry Dash Jump Test your reflexes
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: dash, endless, Geometry, jump, Jumping, Kids, Race, Rhythm, run

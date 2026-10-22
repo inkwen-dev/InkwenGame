@@ -19,6 +19,6 @@ Knife Ring IO is a fast-paced arcade game where players control spinning rings o
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Arcade, Unity3D, WebGL

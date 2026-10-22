@@ -21,4 +21,4 @@ Bonjour les jeunes chefs! Envie d'un délicieux repas de restauration rapide? Pr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Cooking, Cool
+- Tags: Burger, Cooking, Cool

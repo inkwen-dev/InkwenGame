@@ -21,4 +21,4 @@ Do you have what it takes to be an Airport Manager and run your own airline? Giv
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, airplane, Casual, Cute, Educational, management, Plane, Simulation
+- Tags: 2D, airplane, Casual, Cute, Educational, Management, Plane, Simulation

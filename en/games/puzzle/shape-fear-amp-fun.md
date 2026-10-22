@@ -19,6 +19,6 @@ Shape Fear &amp; Fun - is a match 3 game where children have to match shapes of 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Match 3, Puzzle
+- Tags: Casual, Match-3, Puzzle

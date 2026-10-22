@@ -19,6 +19,6 @@ Meet a colorful collection of quirky monsters in this card-merging puzzle! Move 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2048, Brain, card, Matching, Mobile, Monster, Number
+- Tags: 2048, Brain, Card, Matching, Mobile, Monster, Number

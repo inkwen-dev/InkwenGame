@@ -19,6 +19,6 @@ Merge Number Puzzle-is SUPER addictive number puzzle game !Drag the number block
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Cartoon Network, Hypercasual, Kids, Number, Puzzle

@@ -19,6 +19,6 @@ Pokemon Coloring Fun is free coloring game for kids that you can play on PC and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Coloring, Fun, Girls, HTML5, Hypercasual, Kids, Mobile, Pokemon, School

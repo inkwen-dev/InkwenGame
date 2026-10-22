@@ -19,6 +19,6 @@ Do you want to play Squid Game red light green light online with other players? 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, Action, Arena, Battle, Best, Casual, Escape, Hypercasual, Multiplayer, Online, run, running, WebGL

@@ -19,6 +19,6 @@ Tricky balls is new satisfying game puzzle. Move the balls from cup to another t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Ballon, Casual, Hypercasual, Obstacle, Puzzle, Unity3D

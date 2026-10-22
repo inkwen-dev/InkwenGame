@@ -27,4 +27,4 @@ Experience an exhilarating adventure with Steve Evolution Mega Clicker, a captiv
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Clicker, Mobile, mouse
+- Tags: Arcade, Clicker, Mobile, Mouse

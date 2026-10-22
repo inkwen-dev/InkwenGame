@@ -19,6 +19,6 @@ Embark on a heartwarming journey with Danboard Adventure, a game filled with sto
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Driving, fishing, Girls
+- Tags: Driving, Fishing, Girls

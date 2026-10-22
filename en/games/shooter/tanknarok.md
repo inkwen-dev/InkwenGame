@@ -29,4 +29,4 @@ Step into the explosive world of TANKNAROK, the definitive top-down multiplayer 
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Multiplayer, pvp, Shooting, Strategy, Tanks, War
+- Tags: 3D, Action, Multiplayer, PvP, Shooting, Strategy, Tanks, War

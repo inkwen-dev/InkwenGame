@@ -19,6 +19,6 @@ Welcome to the game where you will find 12 different pictures that need to be co
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Color, Coloring, Funny, Kids, Skill, Tung Tung Tung Sahur

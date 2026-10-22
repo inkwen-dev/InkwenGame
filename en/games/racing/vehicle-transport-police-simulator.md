@@ -19,6 +19,6 @@ Vehicle Transport Police Simulator is an action-packed game where players drive 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, bus, Car, Cars, Driving, Mentolatux, military, Simulation, Truck, Unity3D, WebGL

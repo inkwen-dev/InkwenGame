@@ -19,6 +19,6 @@ Are you ready to become the best pizza delivery man in town and feed some pizza 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Arcade, Bike, Cake, Classic, Food, Girls, Timing

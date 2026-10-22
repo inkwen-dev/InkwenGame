@@ -19,6 +19,6 @@ Penguins are stuck on an ice floe and they need your help! Trim the ice around t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Games, Ice, Penguin

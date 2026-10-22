@@ -19,6 +19,6 @@ Halloween Pumpkin Jumping is a Halloween theme game in which you have to jump be
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Fun, Halloween, jump, Jumping, Kids

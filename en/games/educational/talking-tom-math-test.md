@@ -19,6 +19,6 @@ Talking Tom Math Test Challenge is an online game that you can play for free. Th
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Cat, Celebrity, Educational, Fun, Girls, HTML5, Kids, Math, School, Skill

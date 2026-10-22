@@ -19,6 +19,6 @@ Embark on a monstrous adventure in Monster Match Mania! Match 3 monsters of the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, Logic, Monster, Puzzle

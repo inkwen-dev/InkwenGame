@@ -19,6 +19,6 @@ Guide the pig into the pool of mud with help from friendly animals. Watch out fo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Animal, Arcade, Kids, Logic, Physics, Puzzle, Summer

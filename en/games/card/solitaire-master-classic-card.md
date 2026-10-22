@@ -21,4 +21,4 @@ Solitaire by XT Studios is the new best way to play the classic card game you kn
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, Boys, card, Girls, Solitaire
+- Tags: 1 Player, 2D, Android, Arcade, Boys, Card, Girls, Solitaire

@@ -19,6 +19,6 @@ Sword Knight is a very fun and challenging game. The objective of the game is to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Arcade, Casual, Pixel, Sword

@@ -19,6 +19,6 @@ Kitty's love is very strong. And as normal lovers, they never want to be separat
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Hello Kitty, Love, Quiz

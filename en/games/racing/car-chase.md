@@ -19,6 +19,6 @@ Car Chase is an amazing 2D game where player has to steer the car, collect point
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, Cars, Casual, Collecting, Collection, Hypercasual, Racing, Supercars

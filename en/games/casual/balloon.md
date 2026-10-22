@@ -19,6 +19,6 @@ Balloon! a fun clicker game to play on. Lots of balloons are set free in the pla
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ballon, endless, Family, Girl, Girls, Kids

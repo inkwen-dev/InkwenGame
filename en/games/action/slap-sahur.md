@@ -19,6 +19,6 @@ STRESS RELIEF? JUST SLAP IT! Got a bad day? Bored? Just need to hit something? S
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Boys, Brainrot, Brainrot Italian, Brainrot sahuuur, Casual, Clicker, endless, Funny, Hypercasual, Italian Brainrot, Mobile, swipe

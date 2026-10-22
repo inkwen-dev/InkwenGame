@@ -19,6 +19,6 @@ Color Reveal Mermaid Doll is an online Kids game, its playable on all smartphone
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Barbie, Cute, Dress Up, Fashion, Girl, Girls, Hair, Kids, Makeover, Mermaid, Simulation

@@ -19,6 +19,6 @@ Landscape Paradise Hidden is a free online skill and hidden object game. Find ou
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Hidden, HTML5, Kids, Mobile, Puzzle, Skills

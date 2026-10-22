@@ -19,6 +19,6 @@ Cat Hair Salon is actually a cat washing and a hair design game with two-dimensi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Fun, Girl, Girls, H5, Hair, HTML5, Kid, Kids

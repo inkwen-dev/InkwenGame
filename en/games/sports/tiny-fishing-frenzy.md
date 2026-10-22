@@ -21,4 +21,4 @@ In this fun and easy to play the game you are about to be the first fisherman ev
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Boys, Fish, fishing, Girl, Girls, Shoot, Shoot 'Em Up, Shooter, Shooting, Sport, Sports
+- Tags: Boy, Boys, Fish, Fishing, Girl, Girls, Shoot, Shoot 'Em Up, Shooter, Shooting, Sport, Sports

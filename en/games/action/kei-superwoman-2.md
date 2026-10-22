@@ -21,4 +21,4 @@ Kei Superwoman 2 is a 2D platformer where you play as a superwoman who have to c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, burger, Collecting, Girl, jump, Jumping, Pixel, Platform, Retro, Superhero
+- Tags: 1 Player, 2D, Adventure, Arcade, Burger, Collecting, Girl, jump, Jumping, Pixel, Platform, Retro, Superhero

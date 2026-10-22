@@ -19,6 +19,6 @@ Challenge your mind and test your reflexes in BuildUp 3D &ndash; the ultimate 3D
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: build, builder, building, Puzzle, puzzleblock

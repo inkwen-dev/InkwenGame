@@ -21,4 +21,4 @@ Backrooms: Skibidi Escape is a horror game where you are trapped in the backroom
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Escape, horror, Skibidi, Skibidi Toilet, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Escape, Horror, Skibidi, Skibidi Toilet, Unity3D

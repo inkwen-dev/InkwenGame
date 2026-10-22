@@ -19,6 +19,6 @@ By collecting and bouncing, you get more balls. You need to control the launcher
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Bounce, Boy, Casual, Collecting, Highscore, Kid

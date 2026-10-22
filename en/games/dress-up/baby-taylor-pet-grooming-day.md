@@ -19,6 +19,6 @@ Its all about adorable pets and tons of fun! You get to be the ultimate pet styl
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Baby Games, Cleaning, Cute, Design, Educational, Girl, Girls, Grooming, Makeover, Simulation

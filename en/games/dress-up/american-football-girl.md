@@ -19,6 +19,6 @@ Maria likes to play football. She is the captain of the school team. She bought 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Fashion, Fun, Game, Girl, HTML5, Sport, Sports

@@ -19,6 +19,6 @@ Shoot to enemy ships and complete the all levels. You will like to this game so 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Fighting, Shooting, Space, Spaceship, War

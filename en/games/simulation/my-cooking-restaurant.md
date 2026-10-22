@@ -21,4 +21,4 @@ Make dishes, desserts and salads for orders from the menu! With the money you ea
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Cook, Cooking, Girl, Girls, management, Simulation
+- Tags: Cook, Cooking, Girl, Girls, Management, Simulation

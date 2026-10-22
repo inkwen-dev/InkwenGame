@@ -19,6 +19,6 @@ Get ready for a thrilling gameplay experience in this emerging tricky bike stunt
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Bike, Race, Racing

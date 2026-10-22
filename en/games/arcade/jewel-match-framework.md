@@ -19,6 +19,6 @@ Jewel & Gem is an exciting new take on the classic match-3 puzzle genre. Locate 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Brain, HTML5, Mobile, Puzzle, Skill

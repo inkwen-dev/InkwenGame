@@ -19,6 +19,6 @@ Solve the color sort 3d game and become a champion in color hoop stack. This sor
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Arcade, Board, Brain, Casual, Fun, Funny, Game, Sport, Unity3D

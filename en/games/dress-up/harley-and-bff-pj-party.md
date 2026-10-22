@@ -21,4 +21,4 @@ Harley and her friends Mel and Cruella decided to have a pajama party. Hooligan 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Dress Up, Girl, Girls, rpg
+- Tags: 2D, Dress Up, Girl, Girls, RPG

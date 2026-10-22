@@ -21,4 +21,4 @@ Ball Cup Boom is a physics-based puzzle game where you must carefully pick up th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Ball, Logic, mouse, Puzzle, Skill
+- Tags: Ball, Logic, Mouse, Puzzle, Skill

@@ -19,6 +19,6 @@ Prepare your battle weapons for battle and make your way through the barrier of 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boy, Gun, HTML5, Mobile, Shoot, Shooting, War, weapons

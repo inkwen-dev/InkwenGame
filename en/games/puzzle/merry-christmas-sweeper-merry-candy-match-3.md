@@ -19,6 +19,6 @@ Use mouse to connect the balls
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Baby, Baby Hazel, Ball, Boy, Christmas, Fun, Funny, Girl, HTML, HTML5, Match 3, Match3, Matching, New, WebGL
+- Tags: Adventure, Baby, Baby Hazel, Ball, Boy, Christmas, Fun, Funny, Girl, HTML, HTML5, Match-3, Match3, Matching, New, WebGL

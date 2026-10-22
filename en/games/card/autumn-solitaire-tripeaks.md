@@ -19,6 +19,6 @@ Play Classic TriPeaks or 100 different autumn levels. Remove all cards from the 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Girls, Holiday, Logical, Puzzle, Solitaire
+- Tags: Card, Girls, Holiday, Logical, Puzzle, Solitaire

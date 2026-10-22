@@ -21,4 +21,4 @@ Fast Euro Train Driver Sim: Train Games 3D 2020 is new train driving simulator g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Driving, Simulation, Simulator, train
+- Tags: Driving, Simulation, Simulator, Train

@@ -19,6 +19,6 @@ In Genshin Impact: Collector, you try to collect every character and weapon in t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Collecting, Collection, HTML5, Hypercasual, Mobile

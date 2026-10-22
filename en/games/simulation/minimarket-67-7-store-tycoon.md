@@ -37,4 +37,4 @@ Can you turn a small minimarket into a successful retail empire and become a tru
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, management, Shopping, tycoon
+- Tags: idle, Management, Shopping, tycoon

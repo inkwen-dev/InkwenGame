@@ -19,6 +19,6 @@ Are your ready for an excitement struggle with your buddy? Does your answer "YES
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Brain, Educational, Mind, School

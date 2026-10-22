@@ -19,6 +19,6 @@ The color push begins with colorful squares, obstacles, and color gates within a
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D, Boys, Casual, Color, Coloring, Hypercasual, Logical, Skill, WebGL

@@ -21,4 +21,4 @@ US Modern Farm Simulator allows you to manage your own realistic modern farm in 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Boys, Cleaning, Driving, farm, HTML, HTML5, Simulation, Simulator
+- Tags: 3D Games, Boys, Cleaning, Driving, Farm, HTML, HTML5, Simulation, Simulator

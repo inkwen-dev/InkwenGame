@@ -19,6 +19,6 @@ Broken Diamond offering you the best free offline 4x4 offroad parking simulator 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, bus, Car, Cars, fly, jump, Jumping, Parking, Race, Racing, Simulation, Simulator, Supercars, Truck, Unity3D

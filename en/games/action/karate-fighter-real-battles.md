@@ -19,6 +19,6 @@ Play as a karate master and fight against waves of warriors ! Are you able to ra
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Boxing, Fighting, Kill

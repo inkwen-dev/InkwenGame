@@ -21,4 +21,4 @@ Fantastic Jigsaw game with a theme of Valentine. Drag and drop the picture piece
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, farm, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle
+- Tags: Animal, Farm, Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle

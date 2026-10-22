@@ -19,6 +19,6 @@ How to Control Able to move left and right on the screen and press the fire and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Bubble, Bubble Shooter, Girls, Kids, Panda, Shoot, Shooting

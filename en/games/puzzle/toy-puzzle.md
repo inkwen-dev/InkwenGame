@@ -19,6 +19,6 @@ There are 6 different toy puzzles in total. Each puzzle consists of 9 pieces. Cl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Hot, New, Puzzle

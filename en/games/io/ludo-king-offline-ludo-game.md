@@ -19,6 +19,6 @@ Dive into the world of Ludo Super, an all-in-one board game experience featuring
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D Games, Best Games, Board, free games for your site, free games for your website, free html5 games for your website, Games, Multiplayer, onlinegames io

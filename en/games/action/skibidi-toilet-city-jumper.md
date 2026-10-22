@@ -19,6 +19,6 @@ Skibidi Toilet City Jumper is an adrenaline-packed mobile game that combines toi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jumping, Platform, Skibidi, Skibidi Toilet, Unity3D, WebGL

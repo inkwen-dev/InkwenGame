@@ -19,6 +19,6 @@ ELECTRIX is a puzzle game that looks simple but will keep you glued to the scree
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Arcade, Family, mapi games, Puzzle, Tetris

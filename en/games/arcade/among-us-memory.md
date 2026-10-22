@@ -19,6 +19,6 @@ Among Us Memory - is a fun memory game. Match all the identical cards before tim
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, Kids, Memory, Mobile, Skill, Space

@@ -19,6 +19,6 @@ Chinese New Year is coming! The China Town gets quite busy and happy! The street
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Candy, Chicken, Cook, Cooking

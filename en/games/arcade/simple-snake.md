@@ -19,6 +19,6 @@ Snake game is a classic arcade-style game where the player controls a growing sn
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Collecting, Highscore, Mobile, Snake

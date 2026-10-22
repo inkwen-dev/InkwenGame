@@ -19,6 +19,6 @@ The hero is hanging on a stone, and your task is to press at the right moment so
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Click, Clicker, HTML, HTML5, jump, Jumping, Point And Click, Superhero

@@ -19,6 +19,6 @@ Get ready to race across the waves in Boat Rush! Take control of your high-speed
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2025 games, Action, Adventure, Arcade, attack, free games for your site, free html5 games for your website, Race, Racing

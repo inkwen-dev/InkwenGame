@@ -21,4 +21,4 @@ Speedway village farming tractor crew gives you the unique concepts about cultiv
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Driving, farm
+- Tags: Adventure, Driving, Farm

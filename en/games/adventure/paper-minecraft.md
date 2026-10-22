@@ -19,6 +19,6 @@ Paper Minecraft is a 2D sandbox adventure inspired by the famous block world of 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Block, Classic, Craft, html5 games, Minecraft, Pixel, Sandbox, World

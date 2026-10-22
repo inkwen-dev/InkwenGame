@@ -21,4 +21,4 @@ Embark on a thrilling adventure and become the ultimate dungeon champion in this
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Dungeon, Monster, rpg, Vampire
+- Tags: Adventure, Dungeon, Monster, RPG, Vampire

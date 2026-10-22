@@ -19,6 +19,6 @@ Funny Skibidi Toilet Face is a super fun online game for kids that you can play 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Fun, Funny, HTML5, Hypercasual, Kids, Mobile, Skibidi Toilet

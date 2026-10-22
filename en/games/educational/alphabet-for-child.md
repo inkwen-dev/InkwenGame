@@ -19,6 +19,6 @@ Alphabet for Child a fun and intuitive game to play. Learning is always fun whil
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Educational, Family, HTML, HTML5, Kids, Music, School, Word

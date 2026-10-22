@@ -19,6 +19,6 @@ Slope City is here with its new episode! The city map has been redesigned. In Sl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Ball, Bounce, Classic, Collection, Hypercasual, Kids, Mobile, Obstacle, Platform, Skill, Slicing

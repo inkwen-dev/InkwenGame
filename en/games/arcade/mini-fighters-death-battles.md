@@ -19,6 +19,6 @@ Play to the best RPG BEAT EM UP action game of all time ! In a medieval fantasy 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Defense, Fantasy, Fight

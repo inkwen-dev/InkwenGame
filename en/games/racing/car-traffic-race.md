@@ -19,6 +19,6 @@ This is actually not a car driving simulation game but a car avoiding arcade gam
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Boy, Car, Collecting, Highscore, Kid, Mobile, Truck, Unity3D

@@ -31,4 +31,4 @@ High Replayability: Map exploration, escalating difficulty, and diverse equipmen
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, blocks, Mobile, Puzzle, rpg, story, survival, video
+- Tags: Action, Adventure, blocks, Mobile, Puzzle, RPG, story, survival, video

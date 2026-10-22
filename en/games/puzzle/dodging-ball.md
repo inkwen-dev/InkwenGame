@@ -19,6 +19,6 @@ Dodging Ball is a complicated game with ball. You need to balance ball on the be
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Balance, Ball, HTML5, Kids, Puzzle

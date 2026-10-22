@@ -19,6 +19,6 @@ A pure motorbike race is a little boring, let us add some different exciting ele
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fun, Kid, Kids, Moto, Motorcycle, Race, Racing

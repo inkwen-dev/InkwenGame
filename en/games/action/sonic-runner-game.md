@@ -19,6 +19,6 @@ Sonic Runner Game is a fast-paced endless running adventure where speed, timing,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, dino, Dinosaur, running, unblocked games, unblockedgames66, unblockedgames76

@@ -19,6 +19,6 @@ Tricky Track 3D 2 is a fun confrontational parkour arcade game. At each level, y
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Ball, Boys, Kids, Obstacle, Platform, Racing, running, Skills

@@ -21,4 +21,4 @@ Embark on an underwater adventure with Reef Connect Challenge! In this engaging 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Draw, Logic, Match 3, Number, Puzzle
+- Tags: Draw, Logic, Match-3, Number, Puzzle

@@ -19,6 +19,6 @@ Its time to cut out the bombs that are set for you! Dont waste time! Theyll blow
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2D, Action, Android, Arcade, Bomb, Casual, Classic, Click, Clicker, Crazy, Highscore, Hypercasual, Point And Click, Timing

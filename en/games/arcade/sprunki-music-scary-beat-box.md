@@ -21,4 +21,4 @@ Dive into a rhythm-filled horror adventure! Join the scary yet fun-filled musica
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: horror, Music, Sprunki
+- Tags: Horror, Music, Sprunki

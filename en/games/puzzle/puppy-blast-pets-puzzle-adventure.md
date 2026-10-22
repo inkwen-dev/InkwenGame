@@ -21,4 +21,4 @@ Puppy Blast is a sweet puzzle adventure in which you get to tap on any set of ma
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Candy, H5, Hot, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Puzzle
+- Tags: Adventure, Candy, H5, Hot, HTML, HTML5, Hypercasual, Match-3, Match3, Matching, Puzzle

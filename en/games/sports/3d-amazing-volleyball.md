@@ -19,6 +19,6 @@ Over 100 levels to master with more updated weekly Simple to learn yet hard to c
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, HTML5, Sport, WebGL

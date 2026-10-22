@@ -19,6 +19,6 @@ Mad Shark by gamed is an exhilarating mobile game where players take on the role
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Fish, fishing, Fun
+- Tags: Adventure, Fish, Fishing, Fun

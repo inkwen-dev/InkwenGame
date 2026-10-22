@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, 枪械, 打猎, PVE, 射击, Sniper
+- 标签: 冒险, 枪械, 狩猎, PVE, 射击, 狙击

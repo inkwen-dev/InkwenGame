@@ -21,4 +21,4 @@ Love the thrill of catching fish? Do you like to catch fish earn money games? We
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Boy, Boys, Bubble, Bubble Shooter, Candy, Cartoon, Dragon Ball Z, Fish, fishing, Game, Games, Girl, Girls, Moto, Motorcycle, Turn Based
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Boy, Boys, Bubble, Bubble Shooter, Candy, Cartoon, Dragon Ball Z, Fish, Fishing, Game, Games, Girl, Girls, Moto, Motorcycle, Turn Based

@@ -21,4 +21,4 @@ Solitaire 8 Collection brings together eight classic solitaire games in one plac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, Hypercasual, Puzzle, Solitaire
+- Tags: Card, Casual, Hypercasual, Puzzle, Solitaire

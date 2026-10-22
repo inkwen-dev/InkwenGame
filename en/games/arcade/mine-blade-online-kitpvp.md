@@ -21,4 +21,4 @@ Mine Blade Online KitPvP is a fast-paced and exciting PvP battle game where play
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, 3D, 3D Games, Arcade, mineblock, Minecraft, Online, pvp
+- Tags: 2026 games, 3D, 3D Games, Arcade, mineblock, Minecraft, Online, PvP

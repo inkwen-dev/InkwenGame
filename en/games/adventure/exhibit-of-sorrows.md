@@ -17,4 +17,4 @@ Step into a whimsical yet unsettling circus exhibit where curiosity leads you de
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ Wrestle Online is not only a wrestle but also a relaxation arcade game made from
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Fun, H5, HTML5, Kid, Kids, Sport, Sports

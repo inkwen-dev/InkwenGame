@@ -19,6 +19,6 @@ Paint House Challenge is an exterior wall color changer that is ideal for houses
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Block, Brain, Coloring, House, html5 games, Logic, paint, painting, Puzzle, Relaxation, WebGL

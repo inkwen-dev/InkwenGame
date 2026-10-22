@@ -19,6 +19,6 @@ Match Pair: Memory Card Game takes the classic concentration game to the next le
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Adventure, Arcade, Brain, card, Matching, Memory, Puzzle, Strategy
+- Tags: 1 Player, 2025 games, 2D, Adventure, Arcade, Brain, Card, Matching, Memory, Puzzle, Strategy

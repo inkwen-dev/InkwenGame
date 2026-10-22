@@ -21,4 +21,4 @@ Fishing Gone it is a very fun and relaxing game. The objective of the game is to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Fish, fishing, Highscore, Sport, Sports, Timing
+- Tags: 2D, Fish, Fishing, Highscore, Sport, Sports, Timing

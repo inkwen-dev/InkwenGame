@@ -19,6 +19,6 @@ Welcome to the World of falling blocks! The best cube puzzle game is here to ste
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Bricks, Classic, Crazy, Matching, Puzzle, WebGL

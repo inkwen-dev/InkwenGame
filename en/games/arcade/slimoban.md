@@ -19,6 +19,6 @@ Slimoban is a variation of sokoban with slimes. But besides the boxes that you n
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Girl, Mobile, Pixel, Puzzle, Retro

@@ -19,6 +19,6 @@ If you want to have a scary time, play Poppy Granny V 3.1 : Horror Scary MOD 201
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ghost, House

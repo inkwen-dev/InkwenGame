@@ -19,6 +19,6 @@ Ready for a new adventure in Subway Surfers Bali? Get down into the subway and d
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, HTML, HTML5, jump, Jumping, run, running, subway, Subway Surfers

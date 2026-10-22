@@ -19,6 +19,6 @@ Be the champ and knock down as many tree as possible with your Head super Skibid
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML, Mobile, Punch, Skibidi, Skibidi Toilet

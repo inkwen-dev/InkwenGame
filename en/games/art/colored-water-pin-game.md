@@ -19,6 +19,6 @@ Colored Water Pin is a free online puzzle game played on PuzzleGame for boys. Yo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Boy, Brain, Coloring, Fun, HTML5, Kids, Matching, Online, Puzzle

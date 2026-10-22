@@ -19,6 +19,6 @@ Golem Escape - in this game you have to help this little creature which was trap
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Fun, HTML5, Mobile, Monster, Platform, run, running

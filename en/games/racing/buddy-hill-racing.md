@@ -19,6 +19,6 @@ Buddy Hill Racing is addictive physics based driving game! And it's free! Get 10
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Car, Cars, Cartoon, Collecting, Driving, Fun, HTML5, Kids, Mobile, Racing

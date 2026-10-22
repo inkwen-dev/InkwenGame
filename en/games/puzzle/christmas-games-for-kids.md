@@ -19,6 +19,6 @@ Christmas Games For Kids It's a cool kid's game, is very easy and intuitive to p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2D, Animal, Ball, Ballon, Bubble, Christmas, Family, Girl, Girls, HTML, HTML5, Kid, Kids, Mobile

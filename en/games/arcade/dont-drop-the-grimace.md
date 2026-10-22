@@ -19,6 +19,6 @@ Dont let Grimace fall! And drink all the milkshakes for Grimaces Birthday! Sing 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Grimace, Grimace Shake, Hypercasual

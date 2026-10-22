@@ -19,6 +19,6 @@ Play FreeCell solitaire in this polished version of the classic card game.
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, card, Casino, Mobile, Solitaire
+- Tags: 1 Player, Android, Card, Casino, Mobile, Solitaire

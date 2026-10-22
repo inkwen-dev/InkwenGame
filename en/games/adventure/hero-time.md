@@ -19,6 +19,6 @@ Rejoignez Ben 10 alors qu’il se transforme pour devenir l’une de ses 10 form
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Ben 10, Boy, Girl, H5, HTML, HTML5, Hypercasual, Mobile

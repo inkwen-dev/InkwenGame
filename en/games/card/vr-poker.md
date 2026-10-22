@@ -21,4 +21,4 @@ Texas Hold em game. Unlock a hidden character and a new level if you have the sk
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Poker
+- Tags: Card, Poker

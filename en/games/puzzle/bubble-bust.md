@@ -19,6 +19,6 @@ Bubble Bust a bubble shooting classic game. Aim and shoot bubbles and complete y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Match3, Puzzle, Shoot, Shoot 'Em Up, Shooting

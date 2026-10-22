@@ -19,6 +19,6 @@ She is a ghost and a student at Monster High. She is the reporter of Monster Hig
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Fun, Games, Girl, Girls, HTML5, Magic, Makeover, Monster

@@ -19,6 +19,6 @@ Fierce Gangster-Mafia City Automobile Driving Crime Shooting Thief Break-in Rogu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best, Car, Cars, Crazy, Driving, Super, Supercars, Unity3D, WebGL

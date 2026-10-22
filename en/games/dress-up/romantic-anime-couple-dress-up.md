@@ -19,6 +19,6 @@ Welcome to the Romantic Anime Couple Dress Up games ! If you love anime love sto
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Barbie, Cartoon, Disney, Dress Up, Elsa, Fashion, Frozen, Games, Girl, Girls, Makeover, Mobile, Princess, Simulation

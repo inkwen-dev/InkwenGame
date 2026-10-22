@@ -19,6 +19,6 @@ Become the ace of legendary squadron – Air Wolves! Fly, fight and survive in h
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Air, Boy, Boys, Click, Clicker, Flight, fly, Game, HTML5, Hypercasual, Pixel, Shoot, Shoot 'Em Up, Shooting

@@ -19,6 +19,6 @@ Build up four foundations by suit from Ace to King. Use Magic button, when you g
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, card, Mobile, Puzzle, Solitaire
+- Tags: Best, Card, Mobile, Puzzle, Solitaire

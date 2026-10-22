@@ -19,6 +19,6 @@ Ziply is a highly addictive, minimalist logic puzzle game. Your goal is simple: 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Arcade, free games for your website, html5 games, Hypercasual, Maze, Mind, Mobile, Puzzle, Strategy, touch

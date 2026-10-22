@@ -19,6 +19,6 @@ Jack is going to spend today at the water park. There are plenty of slides on wh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

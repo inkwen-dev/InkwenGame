@@ -19,6 +19,6 @@ Dominate the board in this four-player Dominoes game that runs seamlessly in you
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Board, Brain, Casual, Classic, Crazy, Educational, kiz10, Logic, Logical

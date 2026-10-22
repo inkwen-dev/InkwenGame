@@ -19,6 +19,6 @@ Welcome to Winter Aesthetic Look. Skyler and Sunny are the Rainbow high school g
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Dress Up, Fashion, Fun, Girls, Winter

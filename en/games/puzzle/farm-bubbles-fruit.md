@@ -19,6 +19,6 @@ Fruits Are falling from the sky and your mission is to pop them to complete the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Clicker, Fruit, Fruits, Puzzle

@@ -19,6 +19,6 @@ This is an interesting word puzzle game with Christmas theme. Try to find the na
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Educational, HTML5, Kids, Mobile, Puzzle, School, Skill, Word

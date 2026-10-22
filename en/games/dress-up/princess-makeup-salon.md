@@ -19,6 +19,6 @@ Princess Makeup Salon is a Free girl's makeup game! Beautiful Princess is a fash
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Design, Dress Up, Fun, Girls, HTML5, Kids, Makeover, Mobile, Princess

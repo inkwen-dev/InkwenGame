@@ -19,6 +19,6 @@ Combo Color Unlocker is a fast-paced puzzle game where timing and color mastery 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Color, mouse
+- Tags: Action, Arcade, Color, Mouse

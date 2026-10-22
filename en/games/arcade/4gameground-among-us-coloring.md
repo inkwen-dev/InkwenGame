@@ -19,6 +19,6 @@ Funny astronauts from the popular game Among Us are so interesting to users arou
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Fun, HTML5, Mobile

@@ -19,6 +19,6 @@ Click the cards to reveal an animal baby. Memorize their locations so that you c
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, card, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Animal, Baby, Card, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle

@@ -19,6 +19,6 @@ spine trap is a puzzle game
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, HTML5, Hypercasual, Puzzle, Strategy

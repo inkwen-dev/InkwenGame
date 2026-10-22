@@ -41,4 +41,4 @@ PC：
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Clicker, 钓鱼
+- 标签: 点击器, 钓鱼

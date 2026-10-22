@@ -19,6 +19,6 @@ Play the best brainrot clicker! Your favorite characters and a variety of cool w
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Best Games, Brainrot, Cartoon, Casual, Crazy, Game, HTML5, Italian Brainrot, Stunts, Tralalero Tralala, Tung Tung Tung Sahur, WebGL, World

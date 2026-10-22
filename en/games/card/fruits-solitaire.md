@@ -19,6 +19,6 @@ This is a skill based puzzle game where you match and collect fruits. Collect al
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Fruits, HTML5, Matching, Mobile, Puzzle, Solitaire

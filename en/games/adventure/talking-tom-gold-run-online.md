@@ -19,6 +19,6 @@ Talking Tom Gold Run Online is the best cat running game. Enjoy hours of fun wit
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, Boy, Boys, Cat, Collecting, Collection, H5, HTML5, run

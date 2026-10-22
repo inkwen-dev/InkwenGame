@@ -19,6 +19,6 @@ Unleash your creativity and dive into the enchanting world of Chibi Doll Art Mag
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boy, Cartoon, Coloring, Fun, Girl, Hypercasual, Kids, School

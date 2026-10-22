@@ -19,6 +19,6 @@ Parkour Boss in an awesome 3D platformer game where you have to get from the sta
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 3D, 3D Games, Action, Adventure, Boys, jump, Jumping, Minecraft, Platform, Sport

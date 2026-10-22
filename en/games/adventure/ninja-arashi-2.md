@@ -19,6 +19,6 @@ It’s time to take revenge from strange dark castle enemies who have kept you i
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Dragon, Dragon Ball Z, Killing, Worms

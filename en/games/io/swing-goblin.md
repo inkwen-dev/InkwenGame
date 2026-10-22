@@ -19,6 +19,6 @@ A fun and addictive casual game. Swing your goblin as far as possible. Many cute
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Best, Casual, Fun, Halloween, HTML5, Mobile

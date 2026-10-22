@@ -19,6 +19,6 @@ In a small, forgotten town where time seems to stand still, every night of Ramad
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Granny, horror, Stealth, survival
+- Tags: Granny, Horror, Stealth, survival

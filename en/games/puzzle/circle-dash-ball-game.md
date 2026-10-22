@@ -19,6 +19,6 @@ Circle Dash Ball ek super fun aur addictive arcade game hai jisme aapko apni bal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Casual, Crazy, Hypercasual, Puzzle

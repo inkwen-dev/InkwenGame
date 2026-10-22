@@ -19,6 +19,6 @@ The green wizard in a parallel universe now escapes from the Skibidi toilet! Qui
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Android, Escape, HTML5, Mobile, Skibidi, Wizard

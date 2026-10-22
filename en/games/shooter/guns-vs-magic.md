@@ -21,4 +21,4 @@ Step into the shoes of Silvius, a courageous student of magic, as you fight to s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Magic, rpg, Shooting
+- Tags: Action, Magic, RPG, Shooting

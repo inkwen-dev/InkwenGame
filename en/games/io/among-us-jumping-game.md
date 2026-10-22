@@ -19,6 +19,6 @@ The new online Among Us Jump game is appearing today right here on our website, 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Arcade, Best, Boys, Casual, Fun, Games, Girls, Hot, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, Online

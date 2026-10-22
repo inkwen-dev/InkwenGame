@@ -19,6 +19,6 @@ Dream Wedding is an attractive game for people who like dress up games! Slide to
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collection, Kids, Mobile, Platform, Skill

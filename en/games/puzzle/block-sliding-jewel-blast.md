@@ -19,6 +19,6 @@ Block Sliding - Jewel Blast, a new artisan relaxing block puzzle. Just move the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Casual, Color, HTML, HTML5, Jewel, Puzzle

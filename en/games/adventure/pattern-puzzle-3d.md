@@ -19,6 +19,6 @@ Welcome to Pattern Puzzle 3D, an exciting brain-training puzzle game designed to
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, amazing, Casual, Fun, Puzzle

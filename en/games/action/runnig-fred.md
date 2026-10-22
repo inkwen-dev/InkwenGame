@@ -19,6 +19,6 @@ Fred is back with a new host of painful antics, awesome acrobatic/desperate move
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Hypercasual, jump, Jumping, run, running, subway, Subway Surfers, Unity3D

@@ -19,6 +19,6 @@ Poppy playtime huggy among imposter is a game of teamwork and betrayal ...in spa
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D Games, Arcade, Kill

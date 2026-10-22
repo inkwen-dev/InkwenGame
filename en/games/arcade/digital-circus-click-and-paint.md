@@ -19,6 +19,6 @@ Digital Circus Click and Paint is a super fun coloring game designed for kids an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Coloring, digital circus, Girls, Hypercasual, Kids, Puzzle

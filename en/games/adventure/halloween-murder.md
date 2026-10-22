@@ -21,4 +21,4 @@ Ready for the scary world of Halloween Murder? Colorful Halloween scenes, accomp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Halloween, horror, Kill
+- Tags: Halloween, Horror, Kill

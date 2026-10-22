@@ -17,4 +17,4 @@ Immerse yourself in the vibrant world of Four Colors Multiplayer Monument Editio
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

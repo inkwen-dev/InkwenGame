@@ -19,6 +19,6 @@ Grave Blast is a fast-paced 3D twin-stick survival shooter set in a spooky Hallo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Arcade, Casual, Halloween, horror, HTML5, mapi games, Mobile, Monster, Shooter, Shooting, survival, Zombie
+- Tags: Action, Arcade, Casual, Halloween, Horror, HTML5, mapi games, Mobile, Monster, Shooter, Shooting, survival, Zombie

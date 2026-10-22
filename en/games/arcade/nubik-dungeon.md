@@ -19,6 +19,6 @@ Immerse yourself in the exciting world of dungeons, where incredible adventures 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Arcade, Jumping, Kids, Levels, Pixel, unity

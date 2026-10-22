@@ -19,6 +19,6 @@ Baby First Aid Tips teaches kids 5 home aids. Rinse with cold water to relieve s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cute, Doctor, Dress Up, Educational, Girl, Girls, Kids, Makeover, Simulation, Surgery

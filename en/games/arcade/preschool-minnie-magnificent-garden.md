@@ -21,4 +21,4 @@ It's possible now to play the Mickey Mouse Preschool: Minnie's Magnificent Garde
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Baby, Baby Hazel, Brain, Disney, Educational, Family, farm, Fun, HTML5, Kids, Mobile, Plant, Puzzle, School
+- Tags: Arcade, Baby, Baby Hazel, Brain, Disney, Educational, Family, Farm, Fun, HTML5, Kids, Mobile, Plant, Puzzle, School

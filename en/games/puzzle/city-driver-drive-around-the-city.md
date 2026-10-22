@@ -21,4 +21,4 @@ Enjoy your time by driving the Bmw city car rider 2021 testing your racing skill
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Adult, Adventure, Arcade, Boy, Boys, Bubble Shooter, burger, bus, Car, Cars, Game, Games, Girl, Girls, Race, Racing, Stunts, Supercars, Truck
+- Tags: .io Games, 3D Games, Adult, Adventure, Arcade, Boy, Boys, Bubble Shooter, Burger, bus, Car, Cars, Game, Games, Girl, Girls, Race, Racing, Stunts, Supercars, Truck

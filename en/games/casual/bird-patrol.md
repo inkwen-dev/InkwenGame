@@ -19,6 +19,6 @@ Bird Patrol is a bird walking game on different vertical levels and a soldier tr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: angrybirds, Army, Bird, Killing

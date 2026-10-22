@@ -19,6 +19,6 @@ Capture the Planet is a strategy game where you play as a commander leading your
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Defense, Hypercasual, Strategy

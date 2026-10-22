@@ -21,4 +21,4 @@ Enjoy the adventure in the magic world of Candy Match Sagas 2. Immerse yourself 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Bejeweled, Best Games, Candy, Casual, farm, Google, HTML5, kiz10, Match 3, Witch
+- Tags: Arcade, Bejeweled, Best Games, Candy, Casual, Farm, Google, HTML5, kiz10, Match 3, Witch

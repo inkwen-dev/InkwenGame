@@ -21,4 +21,4 @@ One of your best friends, Ben 10 is back! Your favorite superhero is bringing fo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Ben 10, Best, card, Hypercasual, Memory, Puzzle, Shooter
+- Tags: 2D, Adventure, Arcade, Ben 10, Best, Card, Hypercasual, Memory, Puzzle, Shooter

@@ -19,6 +19,6 @@ The best fruit match 3 game for all juicy fruit lovers is here! Swipe through 3 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Candy, Fruit, Match 3, Puzzle

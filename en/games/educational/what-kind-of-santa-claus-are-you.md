@@ -19,6 +19,6 @@ Santa Clauses are different: strict, funny and even a little strange. Have you e
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, New, Quiz, Santa, Santa Claus

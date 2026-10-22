@@ -19,6 +19,6 @@ Leafino is a 2D platform game where you play as a leaf who needs to collect orbs
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Cartoon, Collecting, jump, Pixel, Platform, Retro

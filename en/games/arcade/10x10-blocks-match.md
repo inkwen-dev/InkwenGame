@@ -19,6 +19,6 @@ Pick and drop sets of blocks to complete vertical and horizontal rows. Once you 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Board, HTML5, Mobile, Puzzle, Tetris

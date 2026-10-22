@@ -19,6 +19,6 @@ This is a adventurous game. In this game the player has to jump on the stacks to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Arcade, Best, Boy, Girl, HTML, HTML5, Hypercasual, jump, Jumping, Kid, Logic, New, run, subway, Subway Surfers, WebGL

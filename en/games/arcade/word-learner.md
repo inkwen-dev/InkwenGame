@@ -19,6 +19,6 @@ Word Learner is a brain puzzle game for toddlers and kids. You can play by categ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Clicker, HTML5, Kids, Mobile, Puzzle, Word

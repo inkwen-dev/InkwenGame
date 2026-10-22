@@ -19,6 +19,6 @@ Sudoku is a popular number puzzle where the goal is to fill a 9x9 grid with digi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Android, Brain, Classic, endless, Logic, Logical, Mobile, Number, Puzzle, sudoku, Super
+- Tags: 1 Player, 2025 games, 2D, Android, Brain, Classic, endless, Logic, Logical, Mobile, Number, Puzzle, Sudoku, Super

@@ -19,6 +19,6 @@ The objective of the game is to eliminate everything in front of you, choose you
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D, 3D Games, Adventure, Arcade, Shoot 'Em Up, Space, Spaceship

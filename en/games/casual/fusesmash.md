@@ -19,6 +19,6 @@ FuseSmash is a game where there are fire-crackers coming from left/right which w
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boxing, Casual, Clicker, Punch

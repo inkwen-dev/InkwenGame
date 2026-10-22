@@ -19,6 +19,6 @@ Slide and merge matching numbered tiles in this addictive puzzle challenge! Reac
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adventure, amazing, Puzzle, puzzleblock, pvp
+- Tags: .io Games, Adventure, amazing, Puzzle, puzzleblock, PvP

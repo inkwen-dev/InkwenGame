@@ -19,6 +19,6 @@ Learn the world flags while having fun playing 3 different game modes: classic h
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, card
+- Tags: 2D, Card

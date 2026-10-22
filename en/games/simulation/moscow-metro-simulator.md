@@ -48,4 +48,4 @@ Drive a Moscow metro train, transport passengers, explore stations!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: train
+- Tags: Train

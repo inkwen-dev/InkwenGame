@@ -19,6 +19,6 @@ Dive deep into the ocean in Splashy Sub, a fun and challenging underwater advent
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2025 games, Action, Adventure, Car, free games for your site, free games for your website, free html5 games for your website, Race, tractor

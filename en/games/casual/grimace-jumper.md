@@ -19,6 +19,6 @@ Welcome to Grimace Jumper Game! Tap or click to jump and try to get a high score
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Grimace, Grimace Shake

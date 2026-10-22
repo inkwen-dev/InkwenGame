@@ -19,6 +19,6 @@ What would you draw to help a hungry dog or a cat caught in the rain? Draw to He
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Draw, Drawing, Fun, Puzzle

@@ -51,4 +51,4 @@ Build your successful career, enjoy your wealth, and live your dream lifestyle i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, Car, Girls, management, Simulation
+- Tags: 3D, Arcade, Car, Girls, Management, Simulation

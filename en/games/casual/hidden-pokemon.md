@@ -19,6 +19,6 @@ Hidden pokemon is a hidden object html5 game for all devices. Point and click to
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hidden, Pokemon

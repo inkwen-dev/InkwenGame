@@ -19,6 +19,6 @@ Step into the chaotic world of Italian Brainrot, where your only mission is to m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Crazy, Puzzle, Quiz, trial car, Tung Tung Tung Sahur

@@ -19,6 +19,6 @@ A very important step in your child’s life is to go to kindergarten. After all
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Cars, Chicken, Cleaning, Cooking, Super

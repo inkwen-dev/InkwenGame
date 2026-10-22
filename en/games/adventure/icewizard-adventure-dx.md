@@ -19,6 +19,6 @@ Icewizard Adventure is a platformer adventure game, explore 20 levels and destro
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Fun, Funny, Game, Games, HTML, HTML5, Ice, Kid, Kids

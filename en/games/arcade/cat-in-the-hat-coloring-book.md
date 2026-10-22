@@ -19,6 +19,6 @@ The cat in the hat Coloring Book: Jumbo Coloring Books With 50+ High Quality Ima
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Cat, Color, Coloring, Draw, Drawing, Girls, Kids, Puzzle, Whack

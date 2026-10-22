@@ -19,6 +19,6 @@ Launch your cheerful tomato from platform to platform with a single tap! Hold to
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Ball, html5 games for your site, mapi games, Platform

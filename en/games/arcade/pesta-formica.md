@@ -19,6 +19,6 @@ Smash the Ants! In this very nice game you have to crush all the ants that emerg
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Click, Clicker, Family, HTML, HTML5, Kids, Mobile

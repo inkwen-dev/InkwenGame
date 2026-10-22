@@ -19,6 +19,6 @@ Easy Kids Coloring Ben 10 is fun game suitable for all ages and it is free to pl
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Cartoon, Coloring, Girls, HTML5, Kids, Mobile, School

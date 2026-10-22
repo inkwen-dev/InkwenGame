@@ -19,6 +19,6 @@ Welcome to the adorable world of the sliding puzzle game featuring cute kittens!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cat, Cute, Girls, HTML5, Puzzle

@@ -21,4 +21,4 @@ tap the card if two of same are in front of each other. If they are same then wi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Animal, card, Clicker, HTML5, Matching, Mobile, Puzzle
+- Tags: Action, Animal, Card, Clicker, HTML5, Matching, Mobile, Puzzle

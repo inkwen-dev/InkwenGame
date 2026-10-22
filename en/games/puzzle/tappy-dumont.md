@@ -19,6 +19,6 @@ Tray to help Santos Dumont stay as long as possible on the plane and cross Paris
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: fly, Fun, HTML5, Kids, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ Welcome to a new match3 puzzle game with veggies and fruits! Swipe to match 3 or
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Fruits, Match 3, Match3, Puzzle

@@ -19,6 +19,6 @@ Show your skills in the flowing traffic with your cute cubic car! Pay attention 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Block, Boy, Car, Kids, Racing

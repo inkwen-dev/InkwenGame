@@ -19,6 +19,6 @@ Fruit Crush Kingdom is an addictive Match3 puzzle game. This is The place where 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bejeweled, Brain, Cake, Candy, Casual, Fruit, Fruits, HTML5, Hypercasual, Jewel, Match 3, Match3, Matching, Puzzle

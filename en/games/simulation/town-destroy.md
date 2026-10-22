@@ -21,4 +21,4 @@ Town Destroy is a difficult game that can be played by people who have a lot of 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, Bomb, Game, HTML5, Hypercasual, management, Minecraft, Skills
+- Tags: .io Games, Bomb, Game, HTML5, Hypercasual, Management, Minecraft, Skills

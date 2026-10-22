@@ -19,6 +19,6 @@ Fairway Solitaire is a well-polished golf solitaire game with a unique theme. Th
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, card, Golf, Logic, Puzzle, Solitaire
+- Tags: Animal, Card, Golf, Logic, Puzzle, Solitaire

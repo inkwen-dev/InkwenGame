@@ -19,6 +19,6 @@ Hold on to your life against increasingly challenging AI in this incredibly fast
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Arcade, Classic, Defense, Multiplayer, Obstacle, Online, PacMan, Retro, Skill, Snake

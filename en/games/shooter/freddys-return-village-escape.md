@@ -21,4 +21,4 @@ Immerse yourself in this 3D gametheres no need to fear the monster Freddy. To fa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, horror, kiz10, Shooter
+- Tags: Escape, Horror, kiz10, Shooter

@@ -19,6 +19,6 @@ This just happened to Aria, and she was taken to the Middle Ages from the 21st c
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Adventure, Arcade, Casual, Dress Up, Fun, Funny, Hypercasual, Makeover, Princess

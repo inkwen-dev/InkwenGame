@@ -19,6 +19,6 @@ You should survive with your cube characters inside of a garden made with cubes.
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, farm, Fun, Funny, Hypercasual
+- Tags: Casual, Farm, Fun, Funny, Hypercasual

@@ -19,6 +19,6 @@ You are spider man and you are in space, use your skill orientation to get to th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Skill, Space, Unity3D, WebGL

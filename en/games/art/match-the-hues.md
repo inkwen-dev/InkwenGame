@@ -19,6 +19,6 @@ Get ready for a colorful matching challenge in Match The Hues! In this fast-pace
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Casual, Coloring, Hypercasual

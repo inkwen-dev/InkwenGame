@@ -19,6 +19,6 @@ Perfect Pouring - Color Sorting Puzzle Game is a fun and addictive puzzle game! 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Color, Coloring

@@ -21,4 +21,4 @@ Craze of death races has peaked the highest of all time. You being an skillful h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Fun, Race, Racing, Simulation, Simulator
+- Tags: Boat, Fun, Race, Racing, Simulation, Simulator

@@ -19,6 +19,6 @@ This is a small game of simulation, operation and construction adventure. There 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, Casual, Collection, Fun, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Launch, management, Mobile, Plane, Planet, Rocket, run, Simulation, Skill, Skills, sky, Space, Sport
+- Tags: 3D Games, Action, Boy, Boys, Casual, Collection, Fun, Game, Games, Girl, Girls, Google, H5, HTML5, Hypercasual, Kid, Kids, Launch, Management, Mobile, Plane, Planet, Rocket, run, Simulation, Skill, Skills, sky, Space, Sport

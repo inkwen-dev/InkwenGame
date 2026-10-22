@@ -19,6 +19,6 @@ A deeply satisfying 3D puzzle game designed to help you relax, focus, and unwind
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Block, crazygamesunblocked, Puzzle, unblockedgamesatschool

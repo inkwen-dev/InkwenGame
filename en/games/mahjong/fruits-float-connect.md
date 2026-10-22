@@ -19,6 +19,6 @@ Connect 2 same fruit with a path that no more than two 90 degree angles. Clear t
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Fruits, HTML5, Mahjong, Mobile

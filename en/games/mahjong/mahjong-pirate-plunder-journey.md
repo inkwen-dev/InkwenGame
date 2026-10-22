@@ -19,6 +19,6 @@ Play this fun Mahjong in the caribbean, where pirates quest for the pearl treasu
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, card, Casual, Hypercasual, Logic, Mahjong, Pirate, Puzzle
+- Tags: Arcade, Card, Casual, Hypercasual, Logic, Mahjong, Pirate, Puzzle

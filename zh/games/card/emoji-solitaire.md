@@ -31,4 +31,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 拼图, 纸牌
+- 标签: 解谜, 接龙

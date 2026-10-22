@@ -19,6 +19,6 @@ This is a game in which you need to connect all the equipment such as phones, ta
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Fun, Funny, Hypercasual, Logical, Mobile, Skill, Skills

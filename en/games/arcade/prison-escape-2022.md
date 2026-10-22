@@ -19,6 +19,6 @@ Why can you do it when you're not in prison? Assemble a group of cellmates and w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Android, HTML, HTML5, Mobile, Skills, Unity3D, WebGL

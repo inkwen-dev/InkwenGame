@@ -19,6 +19,6 @@ Attractive and a very fun free online game from the Miraculous Ladybug and Cat N
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Cartoon, Celebrity, Girl, Girls, HTML5, Kids, Ladybug, Miraculous Ladybug, Mobile, Skill

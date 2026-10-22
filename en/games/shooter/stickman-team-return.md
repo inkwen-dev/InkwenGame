@@ -19,6 +19,6 @@ Its team time now! Cartoon character The game of Team Detroit is fun to watch. A
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: kiz10, Shooter, Stickman, War

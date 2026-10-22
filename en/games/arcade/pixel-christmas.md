@@ -19,6 +19,6 @@ Pixel Christmas is a festive-themed tetris game. Presents are falling from the s
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Christmas, Game, Games, HTML, HTML5, Mobile, Online, Santa, Santa Claus, Tetris

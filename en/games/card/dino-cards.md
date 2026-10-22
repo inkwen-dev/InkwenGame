@@ -21,4 +21,4 @@ It's a collection of 15 different Dinosaurs cards to read! It's just an educatio
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, dino, Dinosaur, Educational, Family, HTML, HTML5, Kid, Kids, Mobile
+- Tags: Card, dino, Dinosaur, Educational, Family, HTML, HTML5, Kid, Kids, Mobile

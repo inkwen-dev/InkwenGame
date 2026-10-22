@@ -19,6 +19,6 @@ Gempicker is a fun puzzle and ability game that challenges you to pick the right
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, Casual, HTML5, Logic, Matching, Puzzle

@@ -21,4 +21,4 @@ In this game, your goal is to destroy all the blocks using your brain. Move a bl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Block, Brain, Bricks, Color, HTML5, Hypercasual, Match 3, Puzzle
+- Tags: Block, Brain, Bricks, Color, HTML5, Hypercasual, Match-3, Puzzle

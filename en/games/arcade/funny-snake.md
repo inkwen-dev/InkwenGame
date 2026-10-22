@@ -19,6 +19,6 @@ Funny Snake is an exciting game where the player controls a fun and stretched he
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Best, Collecting, Fun, Kids, Mobile, Obstacle, Skill, Snake

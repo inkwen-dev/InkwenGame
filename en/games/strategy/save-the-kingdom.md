@@ -19,6 +19,6 @@ There are some creatures that you need to protect the kingdom in Save The Kingdo
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Arena, Best, Castle, Defense, HTML5, King, Mobile, Shooter, Sword, Tower Defense, WebGL

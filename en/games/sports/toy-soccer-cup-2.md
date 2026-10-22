@@ -19,6 +19,6 @@ Toy Soccer Cup is a fast, tabletop-style soccer game where you flick your little
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Arcade, Casual, Football, Multiplayer, Soccer, Sports

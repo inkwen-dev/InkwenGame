@@ -19,6 +19,6 @@ Whooo? is a casual puzzle online game for boys for free. You can guess in the ga
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Brain, card, Fun, Games, Guessing, HTML5, Kids, Matching, Online, Puzzle, Quiz
+- Tags: 3D, Android, Boy, Brain, Card, Fun, Games, Guessing, HTML5, Kids, Matching, Online, Puzzle, Quiz

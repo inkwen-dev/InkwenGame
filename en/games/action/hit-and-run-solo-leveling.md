@@ -19,6 +19,6 @@ In Hit And Run: Solo Leveling, you turn into a brave adventurer who leveling you
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Obstacle, running

@@ -19,6 +19,6 @@ Amazing prison game adventure of thrilling word prisoner escape games with tacti
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Escape, Gun, Pixel, prison, Shooting, Stickman
+- Tags: Action, Escape, Gun, Pixel, Prison, Shooting, Stickman

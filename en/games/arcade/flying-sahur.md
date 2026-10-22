@@ -19,6 +19,6 @@ Its Time To Fly! Fly With Triple T In an exiting endless flying game where you m
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 3D, 3D Games, Brainrot Italian, Flight, fly, iPad, Italian Brainrot, Obstacle

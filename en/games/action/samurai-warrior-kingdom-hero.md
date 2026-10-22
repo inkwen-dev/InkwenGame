@@ -19,6 +19,6 @@ Master the art of Kung Fu, pave your path to greatness and become the ultimate K
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arena, Fight, Fighting, Street Fighting

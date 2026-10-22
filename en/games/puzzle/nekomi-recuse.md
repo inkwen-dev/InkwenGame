@@ -19,6 +19,6 @@ Nekomi Rescue is an exciting action adventure game where you play as a brave war
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Cat, Classic, Click

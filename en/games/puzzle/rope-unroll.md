@@ -19,6 +19,6 @@ Here New Trending Game, Just Swipe to Unroll the Rope and Unlock the Beautifull 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Fun, Funny, Girls, HTML5, Kids, Mobile

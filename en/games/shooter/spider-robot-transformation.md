@@ -19,6 +19,6 @@ Welcome to spider robotic battle where police spider robots are ready to fight i
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Robot, Shoot, Shooter, Shooting

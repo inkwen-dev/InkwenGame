@@ -19,6 +19,6 @@ Girls, get ready! A new game of make-up and dress-up has just arrived! This time
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Boys, Design, Dress Up

@@ -19,6 +19,6 @@ The yellow dog goes in search of his favorite human friend. and must pass 20 dif
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Cartoon, Cartoon Network

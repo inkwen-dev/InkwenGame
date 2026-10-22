@@ -47,4 +47,4 @@ From frying juicy burgers to managing staff, every decision you make is importan
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Cooking, Food, management, Restaurant, Simulation, tycoon
+- Tags: 3D, Cooking, Food, Management, Restaurant, Simulation, tycoon

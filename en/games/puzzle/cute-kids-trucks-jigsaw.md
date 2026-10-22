@@ -19,6 +19,6 @@ Cute Kids Trucks is a jigsaw game. At this game you can play with twelve differe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Games, Jigsaw, Kids, Puzzle, Truck

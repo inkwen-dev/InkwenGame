@@ -19,6 +19,6 @@ In this game you will run a thousand adventures in the company of different char
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ben 10, Cartoon, Cartoon Network, Girls, Platform, run

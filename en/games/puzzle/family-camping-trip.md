@@ -19,6 +19,6 @@ Family Camping Trip is a fun and creative 2D cartoon puzzle game for kids and gi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boys, Casual, Cute, Design, Girls, Kids, Puzzle

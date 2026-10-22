@@ -19,6 +19,6 @@ The World's #1 Archery game is now on mobile! Archery Master 3D is the hottest a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D, Arcade, Casual, Defense, Games, Hypercasual, Play, Relaxation, Tennis, Unity3D

@@ -21,4 +21,4 @@ Misland is a placement/management game that allows you to turn a deserted island
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, management, Relaxation, Simulation
+- Tags: Adventure, Management, Relaxation, Simulation

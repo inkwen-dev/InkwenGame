@@ -19,6 +19,6 @@ City Constructor Driver 3D is a freight simulation game. You can use 3D trucks t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Boy, Brain, Car, Driving, Kids, Obstacle, Race, Skills, Strategy

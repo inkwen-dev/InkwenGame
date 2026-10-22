@@ -19,6 +19,6 @@ Snakes & Apples is a free thinking game for everyone, where the goal is to guide
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Boy, Fruit, Girl, HTML5, Kid, Racing, Snake, Timing, WebGL

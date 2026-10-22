@@ -21,4 +21,4 @@ Sudoku is played on a grid of 9 x 9 spaces. Within the rows and columns are 9 â€
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, Educational, HTML5, Mobile, Number, Puzzle, sudoku
+- Tags: Board, Educational, HTML5, Mobile, Number, Puzzle, Sudoku

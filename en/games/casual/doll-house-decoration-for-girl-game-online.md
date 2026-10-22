@@ -19,6 +19,6 @@ Hey if you have creative mind then you should play our game School Decorating Do
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Best, Dora, Fun, Girl, Girls, Hot, House, Kids, Magic, Mobile, New, Online, Princess

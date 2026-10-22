@@ -19,6 +19,6 @@ Italian checkers with a twist! Jump over your opponents pieces, promote to power
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Brain, Family, Kids, mapi games

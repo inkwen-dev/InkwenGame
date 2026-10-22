@@ -19,6 +19,6 @@ CircleMatrix is an easy-to-use game that is suitable for people of all ages, all
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Hypercasual, Puzzle, sorting

@@ -47,4 +47,4 @@ Shift - 光标。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 冒险, 逃脱, 多人游戏, 障碍, 平台
+- 标签: 3D, Adventure, 逃脱, 多人游戏, 障碍, 平台

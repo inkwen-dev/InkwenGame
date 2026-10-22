@@ -21,4 +21,4 @@ RPG Idle Clicker is an incremental game where you embark on an adventure to slay
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, Mobile, mouse, rpg
+- Tags: Clicker, idle, Mobile, Mouse, RPG

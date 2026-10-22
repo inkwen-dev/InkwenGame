@@ -19,6 +19,6 @@ trezeBlocks 2 is a tetris-style fun matching game. You need need to make perfect
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Block, Puzzle, Tetris

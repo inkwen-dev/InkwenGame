@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Android, Arcade, Bounce, Brain, Bubble, Bubble Shooter, Casual, Classic, Fun, Funny, Hypercasual, Kid, Kids, Mind, Mobile, Multiplayer, Puzzle

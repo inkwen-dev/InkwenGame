@@ -19,6 +19,6 @@ US Army Vehicle Transporter Truck Simulator:Army Game is one the finest army oil
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Games, Shoot, Shooting, transport, Truck

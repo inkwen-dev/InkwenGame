@@ -21,4 +21,4 @@ Horse Shoeing is a virtual stable simulation game created by No Power-up. As the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Animal, Best, farm, Horse, New, Simulation
+- Tags: 3D, Animal, Best, Farm, Horse, New, Simulation

@@ -17,4 +17,4 @@ Embrace serenity in The Cozy Fishing, where peaceful angling harmonizes with nat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

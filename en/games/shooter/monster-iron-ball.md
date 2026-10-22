@@ -19,6 +19,6 @@ This is fun kids shooting ball physics puzzle game. Aim of the game is to destro
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Mobile, Physics, Puzzle, Shooting, Skill

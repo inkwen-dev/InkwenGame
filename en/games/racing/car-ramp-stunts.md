@@ -19,6 +19,6 @@ GT Mega Ramp Stunts Free tests you driving controls through the performance of m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Best, Car, drift, drifting, jump, Online, Parking, Racing

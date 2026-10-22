@@ -98,4 +98,4 @@ Basket Sport Stars combines accessible controls with quick competitive matches, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Basketball, pvp, Sports, two-player
+- Tags: Arcade, Basketball, PvP, Sports, two-player

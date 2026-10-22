@@ -19,6 +19,6 @@ Flip at the rooftops, park, over speeding cars, on moving elevators and over air
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Best, Click, Clicker, fly, Hot, HTML, HTML5, jump, Jumping, Unity3D

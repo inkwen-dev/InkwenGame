@@ -19,6 +19,6 @@ Stickman Gradient is an amazing stickman running game. Your mission in this game
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Best, Collecting, Hot, Kids, Obstacle, Platform, running, Skill, Slicing, Slither, Stickman

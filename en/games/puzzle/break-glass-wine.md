@@ -19,6 +19,6 @@ Break Glass Wine is a game where you have to break all the wine glasses by throw
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Fun, Funny, HTML5, Hypercasual, Logic, Logical, Mobile, Skill

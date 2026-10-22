@@ -19,6 +19,6 @@ Warrior Kingdom is an action RPG for one person. You will guide your character t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Arcade, Fight, Fighting, Fun, Funny, Game, Games, HTML, HTML5, NapTech Games, Online

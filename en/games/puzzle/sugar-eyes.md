@@ -19,6 +19,6 @@ your objective is to combine little monsters of the same color -or the same amou
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Matching, Monster, Puzzle

@@ -21,4 +21,4 @@ Farm Puzzle goal is easy... Go through all the areas without leaving any and wit
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Brain, Casual, Crazy, farm, Mind, Puzzle
+- Tags: 3D Games, Brain, Casual, Crazy, Farm, Mind, Puzzle

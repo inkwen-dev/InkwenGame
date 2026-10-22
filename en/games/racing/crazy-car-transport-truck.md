@@ -19,6 +19,6 @@ In this Advance Truck driving game your task is to move loads of freight things 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Army, bus, Helicopter, HTML5, monstertruck, transport, Truck, Unity3D

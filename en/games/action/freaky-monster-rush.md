@@ -19,6 +19,6 @@ It's time to start an afresh race. To merge the DNA of each component of your mo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Collecting, Fun, Hypercasual, Monster, Obstacle, Platform, run, Skill

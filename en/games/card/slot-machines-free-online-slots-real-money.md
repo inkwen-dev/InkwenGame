@@ -21,4 +21,4 @@ Play LAS VEGAS SLOT MACHINES FREE! Try OVER 35+ FREE Slot Machines unlocked NOW 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, Boys, card, Casino, Games, Girl, Girls, Slot Machine
+- Tags: .io Games, Boys, Card, Casino, Games, Girl, Girls, Slot Machine

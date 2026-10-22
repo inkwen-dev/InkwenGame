@@ -19,6 +19,6 @@ The game is divided into 3 modes: 1 is normal mode, 2 countdown simple mode, and
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Air, Avoid, Ballon, endless, Funny, Google, Highscore, HTML5

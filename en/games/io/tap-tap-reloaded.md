@@ -19,6 +19,6 @@ Tap along to all your favorite songs in this fast paced rhythm game! Tap Tap Rel
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, Adventure, Arcade, Baby, Casual, Family, Hypercasual, Logic, Unity3D

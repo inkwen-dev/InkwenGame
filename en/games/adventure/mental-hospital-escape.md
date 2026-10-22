@@ -19,6 +19,6 @@ The character of the game is completely mentally healthy. But despite this, he w
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Best, Boy, Boys, Brain, Escape, Hot, HTML, HTML5, Hypercasual, Mind, prison, Puzzle, Stickman
+- Tags: Adult, Adventure, Best, Boy, Boys, Brain, Escape, Hot, HTML, HTML5, Hypercasual, Mind, Prison, Puzzle, Stickman

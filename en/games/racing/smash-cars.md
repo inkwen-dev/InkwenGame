@@ -19,6 +19,6 @@ Smash Cars this is a game that will allow you to compete with the best racers. Y
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Boys, Car, Cars, HTML5, Race, Racing, WebGL

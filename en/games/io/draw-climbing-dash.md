@@ -19,6 +19,6 @@ Draw anywhere on the screen, any size you want to create legs and run. Draw spec
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Draw, Game, HTML5, Hypercasual

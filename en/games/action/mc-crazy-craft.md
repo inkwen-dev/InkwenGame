@@ -19,6 +19,6 @@ You will change the hours with its beautiful levels and very fluid gameplay. Hav
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Arcade, Battle, Crafting, Crazy, HTML5, Minecraft

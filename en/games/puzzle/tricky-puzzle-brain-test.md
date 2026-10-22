@@ -19,6 +19,6 @@ A bright, colorful puzzle game that will not let you get bored. Stunning graphic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Hypercasual, Logic, Logical, Mind, Puzzle

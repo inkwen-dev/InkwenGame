@@ -19,6 +19,6 @@ It's possible now to play Cartoon Network Easter Egg Hunt game in your web brows
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Animal, Anime, Avoid, Baby, Baby Hazel, Boys, Brain, Cake, Candy, Cartoon, Cartoon Network, Cool, Easter, Family, Girls, Kids, Penguin, Puzzle, Rabbit, Skills

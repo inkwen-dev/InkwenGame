@@ -21,4 +21,4 @@ Tied Up is an action survival game with a unique twist! Control a small ball con
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, 2D, Action, Arcade, Ball, Best Games, Casual, Highscore, mouse, Physics, Skills, survival
+- Tags: 1 Player, 2025 games, 2D, Action, Arcade, Ball, Best Games, Casual, Highscore, Mouse, Physics, Skills, survival

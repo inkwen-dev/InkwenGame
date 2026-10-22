@@ -19,6 +19,6 @@ You asked us so many times and we finally did it! Boys dress up game - «Dream B
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Celebrity, Crazy, Cute, Decorate, Design, Dress Up, Fashion, Funny, Girl, Girls, Hair, Makeover, Music

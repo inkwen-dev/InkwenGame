@@ -19,6 +19,6 @@ Princess Barbie and her cute friend pony are walking around the garden. Do you w
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Barbie, Decoration, Dress Up, Fashion, Game, Girl, Girls, Horse, HTML5, Pony

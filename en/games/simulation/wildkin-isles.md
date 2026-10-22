@@ -28,4 +28,4 @@ Prepare for tougher monsters after dark, cross Cloudstep’s tricky platforms, a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Arcade, cozy, Crafting, management, Simulation, Strategy
+- Tags: Adventure, Arcade, cozy, Crafting, Management, Simulation, Strategy

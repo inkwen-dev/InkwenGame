@@ -19,6 +19,6 @@ Get ready for an action-packed adventure in Impostor Assassin. With the assassin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Android, Arcade, Battle, Casual, Hypercasual, Kid, Kids, Space, Spaceship, Stealth, Strategy, War, WebGL

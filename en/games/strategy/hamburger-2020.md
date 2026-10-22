@@ -19,6 +19,6 @@ Hamburger 2020 is super addictive hyper casual game. Easy To play and hard to ma
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: burger, Casual, Hypercasual, Strategy
+- Tags: Burger, Casual, Hypercasual, Strategy

@@ -19,6 +19,6 @@ Skibidi Drop is a 60 levels of fun physics puzzle game! all boxes except the gra
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Skibidi, Skibidi Toilet

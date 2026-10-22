@@ -21,4 +21,4 @@ Hexa Master 是一款令人上瘾的益智游戏，它将颜色匹配和六边�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 颜色, 拼图
+- 标签: 颜色, 解谜

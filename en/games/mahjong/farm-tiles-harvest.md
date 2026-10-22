@@ -21,4 +21,4 @@ Experience top-rated farm-themed tile matching in Farm Tile Harvest! Draw up to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, html5 games, Mahjong, Matching, Mobile, Puzzle, Skill
+- Tags: Farm, html5 games, Mahjong, Matching, Mobile, Puzzle, Skill

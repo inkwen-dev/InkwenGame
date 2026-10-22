@@ -21,4 +21,4 @@ What would happen to the world if there were no super heroes? It would probably 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Anime, Arcade, Best, Game, HTML5, movie, Online, Puzzle
+- Tags: Anime, Arcade, Best, Game, HTML5, Movie, Online, Puzzle

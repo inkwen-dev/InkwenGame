@@ -19,6 +19,6 @@ Red is hungry! So let's go hunt! Eat the fish you can but not hurt the border of
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Fish, HTML, HTML5, Mobile, Monster

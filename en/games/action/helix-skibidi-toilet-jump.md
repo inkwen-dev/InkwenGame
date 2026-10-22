@@ -19,6 +19,6 @@ Helix Skibidi Toilet Jump is a whimsical and unique mobile game that blends the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Helix, HTML5, iPad, iPhone, jump, Mobile, Skibidi, Skibidi Toilet

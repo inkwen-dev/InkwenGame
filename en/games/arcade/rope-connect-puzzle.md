@@ -19,6 +19,6 @@ Rope Connect Puzzle is a multi-level logic game in which you have to pull a rope
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Hypercasual, Puzzle

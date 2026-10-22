@@ -19,6 +19,6 @@ Enter the ultimate egg battle arena! Protect your precious egg, collect resource
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Adventure, Arcade, Block, mineblock, Minecraft

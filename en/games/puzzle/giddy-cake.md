@@ -19,6 +19,6 @@ Tap To Match The Crazy Cakes As Many As You Can! Memory Test: Giddy Cake Game ne
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Family, HTML, HTML5, Kids, Memory, Puzzle

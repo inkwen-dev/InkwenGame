@@ -19,6 +19,6 @@ Here is an experimental method for creating opera music using the voices of a re
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Bow, Classic, HTML, HTML5, Hypercasual, Music, Puzzle, Unity3D

@@ -19,6 +19,6 @@ Marble Snap is an addictive and relaxing logic puzzle game designed to test your
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D Games, Android, Arcade, Ball, Best Games, Color, crash, crazygamesunblocked, Fun, Hypercasual, Mind, sorting

@@ -19,6 +19,6 @@ Test your reflexes in Car Rush, the intense endless racer where one mistake ends
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Cars, Race, Racing

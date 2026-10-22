@@ -21,4 +21,4 @@ Welcome to the new era of car parking games. In Fish Parking, you will experienc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Boy, Car, Fish, fishing, Fun, Funny, Girl, Hypercasual, Kid, Parking, Skill
+- Tags: 3D, Boy, Car, Fish, Fishing, Fun, Funny, Girl, Hypercasual, Kid, Parking, Skill

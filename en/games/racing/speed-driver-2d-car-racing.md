@@ -19,6 +19,6 @@ Do you enjoy racing your car at extreme speeds? In Speed Driver - 2D Car Racing 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Racing

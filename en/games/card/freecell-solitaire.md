@@ -21,4 +21,4 @@ Best your score or just have a relaxing game of Free cell Solitaire! Jump right 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Game, Games, HTML5, Puzzle, Solitaire
+- Tags: Card, Game, Games, HTML5, Puzzle, Solitaire

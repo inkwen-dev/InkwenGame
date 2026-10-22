@@ -19,6 +19,6 @@ The arcade game Count Master 3d is a lot of fun. You will have to lead your peop
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Obstacle, Puzzle, run, War

@@ -19,6 +19,6 @@ Level Once Again is a story-driven puzzle platformer with 100 rooms, 4 worlds an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Action, Adventure, Arcade, Brain, Escape, Jumping, Logic, Physics, Puzzle, Skill, Timing, trap

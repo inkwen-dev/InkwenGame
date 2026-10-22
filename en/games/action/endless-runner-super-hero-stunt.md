@@ -19,6 +19,6 @@ Keep your balance as you run and jump across perilous cliffs while avoiding larg
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, endless, HTML5, Mobile, run, running, Unity3D, WebGL

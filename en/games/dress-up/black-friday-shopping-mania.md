@@ -19,6 +19,6 @@ Go shopping with this gorgie and get ready to take advantage of all the discount
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Celebrity, Dress Up, Fashion, Girl, Hidden, HTML5, Makeover, Shopping

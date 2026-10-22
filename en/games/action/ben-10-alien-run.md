@@ -19,6 +19,6 @@ When 10-year-old Ben Tennyson discovers a mysterious watch called Ominitrix, he 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Ben 10, run, running

@@ -19,6 +19,6 @@ Christmas Dentist Doctor is an educational dentist game for kids. Christmas is c
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Educational, Kids

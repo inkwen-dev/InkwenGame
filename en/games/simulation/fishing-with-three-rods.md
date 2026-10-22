@@ -17,4 +17,4 @@ Experience the thrill of the catch as you juggle three rods in this angling adve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

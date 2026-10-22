@@ -21,4 +21,4 @@ The ability to change shape at the right moment is quite useful. However, it is 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, boat, Car, Cars, Click, Clicker, Helicopter, HTML, HTML5, Hypercasual, Supercars
+- Tags: 3D, 3D Games, Adventure, Boat, Car, Cars, Click, Clicker, Helicopter, HTML, HTML5, Hypercasual, Supercars

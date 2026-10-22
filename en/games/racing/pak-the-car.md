@@ -19,6 +19,6 @@ Draw a road with you finger and park the car safely. Get ready for exciting park
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Boys, Car, Cars, HTML5, Parking, Race, Racing, WebGL

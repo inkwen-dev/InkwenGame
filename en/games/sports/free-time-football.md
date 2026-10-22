@@ -19,6 +19,6 @@ Are you good at playing football ? Want to have a try ? In this game you can pla
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Football, Sport, Sports

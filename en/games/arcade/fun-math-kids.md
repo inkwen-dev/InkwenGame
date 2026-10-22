@@ -19,6 +19,6 @@ Math educational games for kids to learn to count, add, subtract, numbers & more
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cleaning, Educational, Games, Kids, Math, Number

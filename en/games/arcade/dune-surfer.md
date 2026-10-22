@@ -19,6 +19,6 @@ Experience the thrill of launching yourself into the air, to the cosmos and beyo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Casual, endless, Fun, Game, HTML5

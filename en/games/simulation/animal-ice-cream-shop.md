@@ -19,6 +19,6 @@ Summer is the most loved and hottest season. Children really love ice cream, pop
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cooking, Decorate, Decoration, Fun, Girls, HTML5, Ice, Kids, Mobile, Simulation

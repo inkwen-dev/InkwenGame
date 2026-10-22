@@ -19,6 +19,6 @@ Steve and Alex is a 2 player TNT game where your mission is to explode your frie
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, Arcade, Arena, Minecraft, War

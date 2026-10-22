@@ -19,6 +19,6 @@ Do you want to drive a truck with a heavy crane? Here is both a 3D truck driving
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Driving, Kid, Mobile, Parking, Simulation, Truck

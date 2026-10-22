@@ -19,6 +19,6 @@ Population is a very important element of the city. Every crowd want people. The
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D, 3D Games, Arcade, Avoid, Boy, Boys, city, Highscore, HTML, HTML5, Kid, Kids, Multiplayer, run, running, Skills, Sport, Sports

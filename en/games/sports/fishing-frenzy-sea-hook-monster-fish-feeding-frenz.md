@@ -21,4 +21,4 @@ Arrow Click Mouse
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Baby, Baby Hazel, Boy, Family, Fish, fishing, Girl, HTML, HTML5, Hypercasual, Puzzle, Sport
+- Tags: Animal, Arcade, Baby, Baby Hazel, Boy, Family, Fish, Fishing, Girl, HTML, HTML5, Hypercasual, Puzzle, Sport

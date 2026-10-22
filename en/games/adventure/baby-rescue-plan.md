@@ -19,6 +19,6 @@ This is an escape series of games, mainly about the baby to help grandpa to esca
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Avoid, Dungeon, Escape, Funny, Google, H5

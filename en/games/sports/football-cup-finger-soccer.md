@@ -19,6 +19,6 @@ Finger Soccer, also known as button football, penny football, coin football, or 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Android, Arcade, Football, HTML5, Mobile, Soccer, Unity3D

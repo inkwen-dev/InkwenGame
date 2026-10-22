@@ -19,6 +19,6 @@ In this mini-game, spider-man is climbing the building. There are many obstacles
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boys, Cartoon, Fun, Game, Games, HTML5, Spiderman

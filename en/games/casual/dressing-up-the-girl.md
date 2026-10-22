@@ -19,6 +19,6 @@ Girls want to be trendy, beautiful, and charming. Dressing Up The Girl is the be
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Girls, Gold

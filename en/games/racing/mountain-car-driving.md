@@ -19,6 +19,6 @@ Car Parking, off road Game, Mountain Tracks, impossible Tracks Car stunt in one 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, drift, drifting, Driving, Fun, Funny, Hypercasual, Parking, Race, Racing, run, running, Super, Supercars

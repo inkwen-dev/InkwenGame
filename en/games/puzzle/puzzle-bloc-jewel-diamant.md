@@ -19,6 +19,6 @@ The objective is to move the blocks in order to create and destroy complete line
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, 3D Games, Adventure, Arcade, Arena, Arkanoid, Army, Baby, Baby Hazel, Ball, Barbie, Bejeweled, Ben 10, Best, Block, Blood, Boy, Boys, Bubble, Bubble Shooter, Cake, Candy, card, Clans, Clash, Classic, Difference, Dinosaur, Disney, Game, Games, Girls, Hypercasual, Jelly, Jewel, Jigsaw, jump, Jumping, Ladybug, Punch, Puzzle, Road, Spiderman
+- Tags: 2D, 3D Games, Adventure, Arcade, Arena, Arkanoid, Army, Baby, Baby Hazel, Ball, Barbie, Bejeweled, Ben 10, Best, Block, Blood, Boy, Boys, Bubble, Bubble Shooter, Cake, Candy, Card, Clans, Clash, Classic, Difference, Dinosaur, Disney, Game, Games, Girls, Hypercasual, Jelly, Jewel, Jigsaw, jump, Jumping, Ladybug, Punch, Puzzle, Road, Spiderman

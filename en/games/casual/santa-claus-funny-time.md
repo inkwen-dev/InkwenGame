@@ -19,6 +19,6 @@ Santa Claus Funny Time is fun html5 game suitable for all ages. Kids will love t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Casual, Celebrity, Christmas, Classic, Fun, Funny, Girls, Holiday, HTML5, Hypercasual, Kids

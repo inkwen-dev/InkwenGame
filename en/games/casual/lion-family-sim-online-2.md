@@ -17,4 +17,4 @@ Roam the savannah as a powerful lion, nurturing your family and expanding your t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: hunting
+- Tags: Hunting

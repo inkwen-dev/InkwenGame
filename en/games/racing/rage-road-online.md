@@ -19,6 +19,6 @@ Join the brave cowboy in an extreme chase in Rage Road Online play for free firs
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, kiz10, Racing, Shooter

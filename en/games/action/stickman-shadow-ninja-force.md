@@ -19,6 +19,6 @@ The little ninja is starting his training. Help him to pass 30 levels, one harde
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Boys, Casual, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Ninja, Online, Platform, run, running, Stickman

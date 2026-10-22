@@ -19,6 +19,6 @@ Sky Fairy Bloom continues to fight evil witches. Trix witches Darcy and Icy are 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fairy, fly, Game, Games, Girls, HTML5

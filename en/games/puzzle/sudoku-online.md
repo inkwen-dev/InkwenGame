@@ -35,4 +35,4 @@ Sudoku Puzzle is also a competitive experience. Leaderboards track rankings by l
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Puzzle, sudoku
+- Tags: Puzzle, Sudoku

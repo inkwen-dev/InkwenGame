@@ -19,6 +19,6 @@ Lady Celebrity Dress up fashionistas lets you design and dress up girls, boys an
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Arcade, Boys, Dress Up, Fashion, Girls, Hypercasual, Kids

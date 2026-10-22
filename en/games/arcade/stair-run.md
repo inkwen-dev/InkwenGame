@@ -19,6 +19,6 @@ When I went over the mountains, crossed mountains, just to see you. But you're o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Block, Boy, Collecting, Kid, Kids, Puzzle, Relaxation, run, Side Scrolling, Stickman

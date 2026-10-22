@@ -17,4 +17,4 @@ Dive into a surreal nightmare where survival demands cunning and courage. Naviga
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

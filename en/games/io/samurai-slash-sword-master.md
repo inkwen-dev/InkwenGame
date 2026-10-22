@@ -19,6 +19,6 @@ Ninja Cut - it is a simple and addictive arcade game with slicey puzzle elements
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Anime, Best, Cartoon, Cartoon Network, Christmas, Game, Games, Island, Online, Punch, Puzzle, Samurai, Sword

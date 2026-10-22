@@ -19,6 +19,6 @@ Welcome to our Rope game! Tie the rope to dot-shaped needles, ensuring it touche
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adult, Adventure, Android, Arcade, iPhone, Physics, Platform, Puzzle

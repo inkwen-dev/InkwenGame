@@ -19,6 +19,6 @@ Welcome to the world of two players of the red hands game. Challenge your friend
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2025 games, Action, attack, Fighting, Red

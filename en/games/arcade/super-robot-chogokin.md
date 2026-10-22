@@ -19,6 +19,6 @@ Play a relaxing destruction game in Super Robot Chogok. You control a giant robo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: destroy, Robot, Super

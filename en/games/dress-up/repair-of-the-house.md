@@ -19,6 +19,6 @@ We invite you and your kids to visit the fascinating world of building games. Yo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Coloring, Cute, Decorate, Design, Educational, Fashion, Girl, Girls, Kids, Simulation

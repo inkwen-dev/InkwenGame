@@ -19,6 +19,6 @@ Tower Run Online is an easy arcade jumping game. You will run in a truck with lo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Avoid, H5, Highscore, HTML5, Hypercasual, jump, Jumping, Mobile, Obstacle, Online, Skill, Skills

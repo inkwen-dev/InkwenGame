@@ -19,6 +19,6 @@ This is fun kids Ninja game. Aim of the game is to collect the fruits and avoid 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Fun, HTML5, jump, Kids, Mobile, Ninja, Skill

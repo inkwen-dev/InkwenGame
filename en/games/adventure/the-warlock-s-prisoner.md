@@ -39,4 +39,4 @@ Will you escape the lair alive—or will you remain a prisoner of darkness forev
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, horror, story, survival
+- Tags: Adventure, Escape, Horror, story, survival

@@ -19,6 +19,6 @@ Boat Simulator 2 is a brand new game where you can learn how to drive 4 types of
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Simulation, Simulator

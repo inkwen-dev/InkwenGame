@@ -19,6 +19,6 @@ Poly Art is undoubtedly the most interesting graphic puzzle game this year. It h
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Draw, Drawing, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -19,6 +19,6 @@ Balloon Escape is a fun endless arcade adventure where you control a hot air bal
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ballon, Casual, fly, Highscore, Hypercasual, sky

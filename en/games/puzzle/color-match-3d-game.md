@@ -19,6 +19,6 @@ Color Match 3D is a very fun online puzzle game for boys for free. You can paint
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Boy, Brain, Coloring, Fruit, Fun, Game, HTML5, Kids, Matching, Online, Puzzle, Relaxation

@@ -21,4 +21,4 @@ Start With One Sugarcane Bush and Make Millions! Buy a factory, open a laborator
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Click, Clicker, farm, Pixel, Strategy
+- Tags: 2D, Click, Clicker, Farm, Pixel, Strategy

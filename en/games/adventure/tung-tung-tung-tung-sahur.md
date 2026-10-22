@@ -19,6 +19,6 @@ Enter a dark, eerie forest haunted by the mysterious Tung Sahur. Your goal is to
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Game, Ghost, Granny, horror, jump, Sahur, Tung Tung Tung Sahur
+- Tags: 3D, 3D Games, Action, Game, Ghost, Granny, Horror, jump, Sahur, Tung Tung Tung Sahur

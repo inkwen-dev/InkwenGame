@@ -21,4 +21,4 @@ Merge Royale 2048 &ndash; The Ultimate 2048 Card Puzzle Adventure! Welcome to Me
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2048, card, Puzzle
+- Tags: 1 Player, 2026 games, 2048, Card, Puzzle

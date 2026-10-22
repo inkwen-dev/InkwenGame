@@ -19,6 +19,6 @@ its controoled like driving a real car the up arrow is the gear and the down is 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Arcade, Boy, Car, Girl, HTML, HTML5, Hypercasual, Puzzle, Race, Traffic, WebGL

@@ -19,6 +19,6 @@ A wide variety of weaponry will be at your disposal in these top-notch zombie br
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Multiplayer, Shooting, Tank, Unity3D, War, WebGL

@@ -19,6 +19,6 @@ Happy Halloween! This Halloween is so special for our besties Mia and Ava. So th
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Candy, Cook, Decoration, Dress Up

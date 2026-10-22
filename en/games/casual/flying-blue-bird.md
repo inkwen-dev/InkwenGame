@@ -19,6 +19,6 @@ Use your finger and flap your wings to fly be careful try to avoid all dangerous
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Bird, Casual, Click, Flight, fly, Girl, Girls, HTML, HTML5, Hypercasual, Kid, Kids

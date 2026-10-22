@@ -19,6 +19,6 @@ Salta, esquiva y completa el laberinto de hélices. Evita las hélices de color 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D Games, 8 Ball Pool, Arcade, Balance, Ball, Ballon, Baseball, Basketball, Game, Games

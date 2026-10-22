@@ -19,6 +19,6 @@ Epic Skibidi Toilet Clash part 1 is the first story of galactic superhero to fig
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brawl, Casual, Fight, Skibidi, Skibidi Toilet, Space, Spaceship, Street Fighting, Superhero

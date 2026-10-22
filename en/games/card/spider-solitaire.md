@@ -21,4 +21,4 @@ Spider Solitaire is a HTML5 Game. Enjoy this stylish version of the classic Spid
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Solitaire
+- Tags: Card, Solitaire

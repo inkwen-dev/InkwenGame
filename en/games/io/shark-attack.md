@@ -19,6 +19,6 @@ Try to become the biggest shark on the server in this fun online .io game.
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arena, Battle, Multiplayer, Online, Shark

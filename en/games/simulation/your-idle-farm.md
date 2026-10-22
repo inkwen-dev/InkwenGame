@@ -19,6 +19,6 @@ Grow your dream farm from a single wheat patch into a thriving valley empire! Pl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, Collecting, Cooking, farm, idle, Simulation
+- Tags: Click, Clicker, Collecting, Cooking, Farm, idle, Simulation

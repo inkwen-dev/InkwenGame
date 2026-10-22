@@ -19,6 +19,6 @@ Destroy the building blocks consisting of cube bricks! Choose one of the 3D Stun
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Cars, crash, Stunts

@@ -21,4 +21,4 @@ Collect nuts and bolts to build up your train's length in this io-style snake ga
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, Multiplayer, rpg, Simulation
+- Tags: .io, .io Games, Multiplayer, RPG, Simulation

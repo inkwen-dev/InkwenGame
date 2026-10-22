@@ -17,4 +17,4 @@ Dive into the tranquil wilderness of Wild Hunting Clash, where exquisite landsca
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: hunting
+- Tags: Hunting

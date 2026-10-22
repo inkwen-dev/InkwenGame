@@ -19,6 +19,6 @@ Galaxy Shooter-Space War Shooting Games Start your fighter engines and join to t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Aircraft, Boys, Fight, Fighting, Girls, Kids, Shoot, Shooter, Shooting, Simulator, Space, Spaceship

@@ -19,6 +19,6 @@ Zombie attack 2 is one of the best adventure, zombie shooter run game. Zombie At
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Zombie

@@ -21,4 +21,4 @@ Its fun game with one finger control. Control the running boat and smash the box
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Bricks, drift, drifting, Driving, Obstacle, Race, Racing
+- Tags: Boat, Bricks, drift, drifting, Driving, Obstacle, Race, Racing

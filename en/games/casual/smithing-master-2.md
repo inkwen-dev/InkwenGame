@@ -17,4 +17,4 @@ Unleash your creativity in Smithing Master, where forging legendary weapons lead
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

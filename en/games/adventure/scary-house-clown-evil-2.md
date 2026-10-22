@@ -17,4 +17,4 @@ Enter the chilling world of a haunted mansion in Scary House Clown Evil. Navigat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

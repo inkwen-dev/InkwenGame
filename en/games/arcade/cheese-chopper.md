@@ -19,6 +19,6 @@ Use your samurai skills to neatly cut the Cheese! A fun game like Fruits Ninja S
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Fruit, Fruits, Kids, Ninja, Ninjago, Slicing

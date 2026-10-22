@@ -39,4 +39,4 @@ Play against real people online, with bots that have personality when nobody is 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, Multiplayer, pvp
+- Tags: cards, Multiplayer, PvP

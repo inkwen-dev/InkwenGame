@@ -17,4 +17,4 @@ Dive into Scratch Town, a vibrant puzzle adventure where strategic matching lead
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

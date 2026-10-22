@@ -19,6 +19,6 @@ Try your hand at the most satisfying wood turning game and experience the real f
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Best, Block, Boy, Boys, Puzzle, Skill, WebGL

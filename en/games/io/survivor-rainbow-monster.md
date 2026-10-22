@@ -19,6 +19,6 @@ Im Red Monster - your guide in this Survivor In Rainbow Monster io game. The fir
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Brain, Monster, monstertruck

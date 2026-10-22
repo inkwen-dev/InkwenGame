@@ -21,4 +21,4 @@ Klondike Solitaire Treasures is classic Klondike solitaire with a collection to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, Brain, card, Casual, Classic, Hypercasual, Puzzle, Solitaire
+- Tags: Board, Brain, Card, Casual, Classic, Hypercasual, Puzzle, Solitaire

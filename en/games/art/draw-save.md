@@ -36,4 +36,4 @@ Easy to draw. Brutal to plan.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: boat, Drawing
+- Tags: Boat, Drawing

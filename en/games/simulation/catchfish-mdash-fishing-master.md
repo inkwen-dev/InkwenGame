@@ -21,4 +21,4 @@ CatchFish is a free arcade fishing game. Blast schools of fish with mighty canno
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Fish, fishing, Shooter
+- Tags: Arcade, Casual, Fish, Fishing, Shooter

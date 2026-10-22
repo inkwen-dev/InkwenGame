@@ -19,6 +19,6 @@ Hey girls! Welcome to the new Rainbow Girls Hollywood Story game. Rainbow high s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Disney, Dress Up, Fun, Girls, Makeover

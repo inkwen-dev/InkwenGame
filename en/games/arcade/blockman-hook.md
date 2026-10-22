@@ -19,6 +19,6 @@ In our adventure, we have a block man who can throw hooks everywhere. The only g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Arcade, mineblock, Minecraft, Mobile, Pixel, Spiderman, Stickman

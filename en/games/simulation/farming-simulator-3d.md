@@ -21,4 +21,4 @@ Can you build and manage an entire big farm? Are you ready for country life? You
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Collecting, farm, Kids, Mobile, Simulation, tractor
+- Tags: Collecting, Farm, Kids, Mobile, Simulation, tractor

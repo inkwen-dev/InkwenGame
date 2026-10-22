@@ -19,6 +19,6 @@ New free hexa jigsaw puzzle game every day - a Daily Free hexa jigsaw Puzzle and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Animal, Anime, Block, Board, Brain, Cat, Family, Jigsaw, Lego, Puzzle

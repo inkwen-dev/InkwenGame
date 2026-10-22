@@ -19,6 +19,6 @@ Let help Lovely Miraculous Ladybug rescue baby ladybugs! The best pop Bubble Sho
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Bubble, Bubble Shooter, Candy, Cartoon Network, Cat, Girl, Girls, Kids, Ladybug, Match 3, Match3, Miraculous Ladybug, Rescue

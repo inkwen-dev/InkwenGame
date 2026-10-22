@@ -19,6 +19,6 @@ Mr. Fox sets out to find precious emeralds in the Fox Adventure 2D puzzle game. 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Boy, Game, Games, Girl, H5, HTML, HTML5, Hypercasual, Mobile, Punch, wolf
+- Tags: Action, Adventure, Boy, Game, Games, Girl, H5, HTML, HTML5, Hypercasual, Mobile, Punch, Wolf

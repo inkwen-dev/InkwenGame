@@ -19,6 +19,6 @@ A fast-paced action shooter where bulls are the enemy and survival depends on qu
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Animal, Bullet, fps, Shooter, Sniper

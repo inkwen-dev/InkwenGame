@@ -19,6 +19,6 @@ The series concerns the lives of 12-year-old Gumball Watterson, a blue cat, and 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, Cartoon, Cartoon Network

@@ -19,6 +19,6 @@ Bus Jam &ndash; Fun Puzzle Adventure with Colorful Challenges! Get ready for Bus
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, bus, carparking, Puzzle

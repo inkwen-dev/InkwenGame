@@ -21,4 +21,4 @@ Don't wait for the fish to find you, drop a line and chase them down in Fishing 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Android, Arcade, Avoid, Bomb, Boys, Collecting, Fish, fishing, Highscore, HTML5, Kids
+- Tags: Adventure, Android, Arcade, Avoid, Bomb, Boys, Collecting, Fish, Fishing, Highscore, HTML5, Kids

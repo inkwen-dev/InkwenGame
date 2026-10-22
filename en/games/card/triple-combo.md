@@ -19,6 +19,6 @@ Play Triple Combo online for free, the fast card game with a poker deck. Make th
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, card
+- Tags: 1 Player, 2D, Brain, Card

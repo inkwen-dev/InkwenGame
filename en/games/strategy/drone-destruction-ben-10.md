@@ -19,6 +19,6 @@ Ben 10: Drone Destruction is an action game you can play on iyigames.com. You ge
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Android, Ben 10, Boys, Cartoon Network, Collecting, Girls, Rescue, Robot, Shooter, Shooting, Tower Defense

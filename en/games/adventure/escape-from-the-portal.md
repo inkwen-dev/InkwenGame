@@ -26,4 +26,4 @@ Explore gloomy catacombs, avoid traps, fight monsters, uncover secrets of the pa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, horror, pve, scary, story, survival
+- Tags: Adventure, Escape, Horror, pve, scary, story, survival

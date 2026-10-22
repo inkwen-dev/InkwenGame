@@ -19,6 +19,6 @@ Hey Doctor, I hurt my feet and it is so painful! Could you please help me to tre
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Nails, Relaxation, Skill, Surgery

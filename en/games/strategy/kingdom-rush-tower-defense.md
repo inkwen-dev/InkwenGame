@@ -19,6 +19,6 @@ The critically acclaimed medieval fantasy defense game is now available for Andr
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fight, Fighting, King, Street Fighting

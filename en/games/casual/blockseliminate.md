@@ -19,6 +19,6 @@ Eliminating blocks is a simple game where players need to get points by eliminat
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: blocky, Classic, Color, html5 games, Hypercasual, Logic, unity games

@@ -21,4 +21,4 @@ an exciting journey and shape your destiny by choosing from a myriad of captivat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Collecting, iPad, iPhone, Mobile, mouse, run, running
+- Tags: Android, Collecting, iPad, iPhone, Mobile, Mouse, run, running

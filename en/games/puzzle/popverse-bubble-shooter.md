@@ -21,4 +21,4 @@ Popverse is a bubble shooter game with 20 unique special bubbles and chain react
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Bubble Shooter, Match 3, Matching
+- Tags: Bubble Shooter, Match-3, Matching

@@ -19,6 +19,6 @@ Here we come with another cute game where you have to use your mind to make more
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bird, Block, Casual, Hypercasual

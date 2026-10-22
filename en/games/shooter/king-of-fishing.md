@@ -25,4 +25,4 @@ Upgrade your gear, unlock stronger cannons, and explore vibrant ocean zones fill
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: fishing
+- Tags: Fishing

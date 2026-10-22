@@ -19,6 +19,6 @@ Animal Shape Puzzle is one casual free online game for kids to play. According t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Block, Boys, Fun, HTML5, Kids, Matching, Mobile, Online, Puzzle, Relaxation

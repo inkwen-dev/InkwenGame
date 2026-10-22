@@ -19,6 +19,6 @@ Inspired by My Little Pony, this colorful dress-up game lets you unleash your cr
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: beauty, Fashion, Makeover

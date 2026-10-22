@@ -38,4 +38,4 @@ The game mixes simple one-touch controls with tense, skill-based duels, power-up
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, Gun, Multiplayer, pvp, Shooting, Skill
+- Tags: Action, Arcade, Gun, Multiplayer, PvP, Shooting, Skill

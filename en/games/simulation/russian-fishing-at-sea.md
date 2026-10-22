@@ -17,4 +17,4 @@ Embark on a captivating sea adventure, exploring enchanting waters and reeling i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

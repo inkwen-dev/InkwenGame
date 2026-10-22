@@ -19,6 +19,6 @@ Woodcraft is a simulation game where you can master the art of woodworking! Cut 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Craft, Crafting, H5, Simulation, Simulator, Skill, Skills

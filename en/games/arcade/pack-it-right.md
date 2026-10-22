@@ -19,6 +19,6 @@ Pack It Right is an engaging puzzle game that puts your spatial reasoning skills
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Skills, Unity3D, WebGL

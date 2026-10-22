@@ -19,6 +19,6 @@ In Burger Farm, your goal is to collect as many burgers falling from the sky as 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Best Games, burger, Casual, Cooking
+- Tags: 1 Player, 2D, Android, Best Games, Burger, Casual, Cooking

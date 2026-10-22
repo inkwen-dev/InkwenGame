@@ -19,6 +19,6 @@ Girls, have you heard that slimes are always miswritten as lime by unicorn kids?
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cook, Cooking, Decorate, Decoration, Design, Fun, Girls, HTML5, Kids, Mobile

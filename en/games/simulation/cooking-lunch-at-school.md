@@ -19,6 +19,6 @@ Feel bored and want to have some fun? Try this game! Cooking Lunch At School is 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Chicken, Cooking, Food, Fruits, Fun, Girls, HTML5, Kids, Mobile, School

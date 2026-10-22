@@ -21,4 +21,4 @@ A goth girl is going to a school prom. She wants to make a splash with her new d
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Dancing, Fashion, Girl, Makeover, movie
+- Tags: Dancing, Fashion, Girl, Makeover, Movie

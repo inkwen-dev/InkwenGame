@@ -19,6 +19,6 @@ Crazy Maze is a simple but a very challenging game. Your only task is to guide t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Android, Arcade, Boys, Crazy, Fun, HTML5, Kids, Maze, Skill

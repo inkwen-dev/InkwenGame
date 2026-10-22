@@ -21,4 +21,4 @@ Are you ready to drive Super Car in city? Drive the powerful Super Cars like Bug
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, Adult, Adventure, Aircraft, Arcade, Ballon, Batman, Boys, Bridge, Bubble, Bubble Shooter, burger, bus, Candy, Car, Cars, drift, drifting, Driving, Fashion, Game, Games, Girl, Girls, Mario, Moto, Motorcycle, Race, Racing, Simulation, Simulator, Spiderman, Sport, Supercars, Truck
+- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, Adult, Adventure, Aircraft, Arcade, Ballon, Batman, Boys, Bridge, Bubble, Bubble Shooter, Burger, bus, Candy, Car, Cars, drift, drifting, Driving, Fashion, Game, Games, Girl, Girls, Mario, Moto, Motorcycle, Race, Racing, Simulation, Simulator, Spiderman, Sport, Supercars, Truck

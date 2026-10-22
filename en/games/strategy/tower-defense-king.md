@@ -19,6 +19,6 @@ Monsters are gathering now. A bolt of arrows! Colorful magic! Powerful Explosion
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Shooting, Tower Defense

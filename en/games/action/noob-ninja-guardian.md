@@ -19,6 +19,6 @@ Have fun with this new free game Noob Ninja Guardian is a casual game of action,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Fighting, kiz10, Minecraft, Ninja

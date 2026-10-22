@@ -19,6 +19,6 @@ Strawberry Shortcake is so excited to bake with you! Make the dessert of your dr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Decorate, Decoration, Fun, Girls, HTML5, Kids, Mobile

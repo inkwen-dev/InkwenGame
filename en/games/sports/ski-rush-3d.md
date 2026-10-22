@@ -19,6 +19,6 @@ Ski Rush 3D is an interesting and very entertaining lite game.Drag right and lef
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, running, Skating, Sports

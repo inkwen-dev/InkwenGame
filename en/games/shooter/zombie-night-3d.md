@@ -19,6 +19,6 @@ Hoards of the undead are heading your way. Take them out, one by one, and earn l
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Gun, Shoot, Zombie

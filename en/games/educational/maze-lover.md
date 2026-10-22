@@ -19,6 +19,6 @@ This is a romantic puzzle game where boy has to reach to his girl. As usual, the
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Ben 10, Boy, Boys, Cartoon, Cartoon Network, Fun, Funny, Girl, Girls, Kid, Kids, Love, Puzzle, Quiz

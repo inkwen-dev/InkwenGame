@@ -19,6 +19,6 @@ Happy Valentines Day Puzzles is a jigsaw game with a romance theme.Choose from 1
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cartoon, Fun, Girls, HTML5, Hypercasual, Jigsaw, Kids, Mobile, Puzzle, Skill

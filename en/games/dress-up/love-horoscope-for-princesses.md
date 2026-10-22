@@ -19,6 +19,6 @@ Do you like horoscope? What is your zodiac sign? Let's have fun with the princes
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Elsa, Holiday, Love, Makeover, Princess

@@ -19,6 +19,6 @@ What good habits do you know? Don't be picky about food, brush your teeth after 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cleaning, Cooking, Cute, Educational, Family, Food, Fun, Girls, HTML5, Kids, Makeover, Mobile

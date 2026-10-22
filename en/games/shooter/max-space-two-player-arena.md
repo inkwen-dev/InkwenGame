@@ -21,4 +21,4 @@ Welcome to the Max Space. Second game of the sequel offers you challenge with yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, Arcade, Battle, Fight, Gun, pvp, Shooting
+- Tags: 2 Player, Arcade, Battle, Fight, Gun, PvP, Shooting

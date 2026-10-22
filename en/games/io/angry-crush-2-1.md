@@ -19,6 +19,6 @@ Blast into a new Angry Birds puzzle adventure game! The birds are trapped inside
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D, Action, Adventure, Arcade, Casual, Fun, Funny, Ninja, running, Unity3D, War

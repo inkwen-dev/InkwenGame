@@ -19,6 +19,6 @@ Escaped from the Matrix, prototype-09432 tries to learn real-world secrets by ov
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Best, Boy, Girl

@@ -21,4 +21,4 @@ Dive into the classic Sudoku puzzle game and challenge your mind! With a grid of
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: sudoku, Super
+- Tags: Sudoku, Super

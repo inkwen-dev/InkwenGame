@@ -19,6 +19,6 @@ Dive into Hexa Merge 2048, the exciting puzzle game that mixes numbers and fun! 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2048, Casual, Educational, Family, hexagon, Hypercasual, Kids, Number, Puzzle, Strategy

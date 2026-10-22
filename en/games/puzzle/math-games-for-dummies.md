@@ -19,6 +19,6 @@ Sharpen your math skills with Math Mastery Challenge, an engaging and educationa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bejeweled, bicycle, Bullet, Casual, Clicker, Dragon, Fight, games for your website, HTML5, Hypercasual, Math, Play, Traffic
+- Tags: Bejeweled, Bicycle, Bullet, Casual, Clicker, Dragon, Fight, games for your website, HTML5, Hypercasual, Math, Play, Traffic

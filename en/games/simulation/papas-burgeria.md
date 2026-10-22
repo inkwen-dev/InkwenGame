@@ -21,4 +21,4 @@ Welcome to Papa's Burgeria, a cooking game. Grab your spatula and get ready for 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Cooking, Funny, management
+- Tags: Cooking, Funny, Management

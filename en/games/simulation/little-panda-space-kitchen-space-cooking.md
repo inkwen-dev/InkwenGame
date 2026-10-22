@@ -19,6 +19,6 @@ Have you ever imagined that you are cooking delicious food in a space capsule? E
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cook, Cooking, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Space

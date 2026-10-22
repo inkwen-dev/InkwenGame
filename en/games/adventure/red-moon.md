@@ -19,6 +19,6 @@ Once a decade, the moon shines Red... on that day, we, the Red Samurais, gain it
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Game, Games, HTML, HTML5, Online, Red, Samurai

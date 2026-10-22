@@ -19,6 +19,6 @@ awesome flower shop simulator get ready and clean the room Arm the orders that t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Barbie, Girl, Simulation

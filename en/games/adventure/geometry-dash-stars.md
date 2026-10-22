@@ -19,6 +19,6 @@ Geometry Dash Stars is a fun and exciting skill game, where you guide your block
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Casual, dash, Geometry, survival

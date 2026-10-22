@@ -19,6 +19,6 @@ Get ready for a brand new adventure with Peaman. With renewed enemies, different
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Cartoon, Casual, Funny, Hot, Kids, Superhero, WebGL

@@ -19,6 +19,6 @@ Come and enjoy driving large euro trucks transporting goods and offroad jeeps Pr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Batman, Boy, Boys, Bubble, Candy, Car, drift, Driving, Girl, Mario, Spiderman, Super, Supercars, Superhero, Truck

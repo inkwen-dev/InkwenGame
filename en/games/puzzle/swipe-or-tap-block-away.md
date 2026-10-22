@@ -19,6 +19,6 @@ Tap Away is a captivating 3D puzzle game that revolves around rotating the cube 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Casual, Click, Hypercasual, Kid, Kids, Mentolatux, puzzleblock, Skill

@@ -19,6 +19,6 @@ Santa Claus Jumping Adventure is fun online game suitable for all ages. Help our
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boys, Christmas, Collecting, Fun, Girls, Holiday, HTML5, Kids, Skill, Winter

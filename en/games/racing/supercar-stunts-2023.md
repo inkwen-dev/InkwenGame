@@ -19,6 +19,6 @@ In the most recent and readily available new car games 2021, like mountain rise 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Car, Cars, Driving, HTML5, Mobile, Stunts, Supercars, Unity3D

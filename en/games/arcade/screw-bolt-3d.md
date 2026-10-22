@@ -19,6 +19,6 @@ Screw &amp; Bolt 3D Tighten, twist, and unlock the world of mechanics! Screw &am
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Color, Interactive, Punch

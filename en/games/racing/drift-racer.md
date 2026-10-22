@@ -19,6 +19,6 @@ Features • Customizable car; • 5 amazing tracks for drifting; • Cool graph
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: drift, drifting, Police, Race

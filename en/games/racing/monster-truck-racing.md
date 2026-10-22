@@ -19,6 +19,6 @@ Monster Truck Racing is a fun racing game with amazing graphics. Race against AI
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Mobile, Race, Truck

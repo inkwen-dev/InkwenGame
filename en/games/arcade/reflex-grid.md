@@ -19,6 +19,6 @@ How fast are YOUR reflexes? Put them to the ultimate test in Reflex Grid &mdash;
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Arcade

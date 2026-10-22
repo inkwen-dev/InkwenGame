@@ -19,6 +19,6 @@ Welcome to the world of car drift and driving games. Get ready to ignite your en
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Car, drift, Driving, Parking, Race, Racing

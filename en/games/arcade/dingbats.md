@@ -19,6 +19,6 @@ Dingbats a unique crossword puzzle! You need to pay attention to how the cues fo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Boy, Brain, Casual, Kid, Letters, Puzzle, Word

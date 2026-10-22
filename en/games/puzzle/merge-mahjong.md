@@ -21,4 +21,4 @@ Relax and stretch your mind in this merge puzzle. - A unique mechanism that is e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Mahjong, Match 3, Match3, Matching, Puzzle
+- Tags: Mahjong, Match-3, Match3, Matching, Puzzle

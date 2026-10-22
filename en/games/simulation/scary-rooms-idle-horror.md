@@ -51,4 +51,4 @@ FEATURES:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: horror, idle, tycoon
+- Tags: Horror, idle, tycoon

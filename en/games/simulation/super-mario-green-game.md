@@ -19,6 +19,6 @@ Keyboard
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Ball, Batman, Block, Game, Games, Ladybug, Mario, Memory, Moto, Motorcycle, prison, Sim, Simulation, Simulator, Space, Spiderman, Undead
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Ball, Batman, Block, Game, Games, Ladybug, Mario, Memory, Moto, Motorcycle, Prison, Sim, Simulation, Simulator, Space, Spiderman, Undead

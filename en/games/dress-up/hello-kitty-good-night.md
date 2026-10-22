@@ -19,6 +19,6 @@ Welcome to a new exciting game for toddlers! Start playing Hello Kitty education
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cake, Cartoon, Cleaning, Color, Coloring, Cook, Cooking, Cute, Decorate, Decoration, Draw, Drawing, Dress Up, Educational, Family, Fire, Fun, Girls, Hello Kitty, Hidden, HTML5, jump, Jumping, Kids, Mobile, Puzzle

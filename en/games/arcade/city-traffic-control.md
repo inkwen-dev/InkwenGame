@@ -19,6 +19,6 @@ City Traffic Control is a free online traffic control game. Control traffic in t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Arcade, Boy, Boys, Hot, New, Puzzle

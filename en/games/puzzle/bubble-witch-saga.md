@@ -19,6 +19,6 @@ Welcome to Bubble Witch Saga, a New bubble shooter adventure game. Aim to shoot 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Bubble, Bubble Shooter, Fruit, Fruits, HTML5, Match 3, Match3, Matching, Shoot, Shoot 'Em Up, Shooter, Shooting, Strategy

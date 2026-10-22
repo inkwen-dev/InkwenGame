@@ -19,6 +19,6 @@ Off-road challenges starting again! We are here with improved physic engine to g
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 3D, Adventure, Arcade, Car, Cars, Driving, Game, Parking, Race, Racing, Stunts, Super, Supercars, Unity3D

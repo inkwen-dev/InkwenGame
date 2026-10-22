@@ -19,6 +19,6 @@ Try thinking of a lethal bridge game where all the floors are made of molten roc
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adult, Adventure, Arcade, Brain, Click, Clicker, Hot, HTML, HTML5, Hypercasual, Mind, Point And Click

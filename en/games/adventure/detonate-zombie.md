@@ -21,4 +21,4 @@ Top down shooting game, Detana Zombie is a new style of game that combines skill
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Action, Adventure, Fire, rpg, Strategy
+- Tags: 2D, Action, Adventure, Fire, RPG, Strategy

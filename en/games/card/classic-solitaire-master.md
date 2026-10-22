@@ -19,6 +19,6 @@ The addictive game you&rsquo;ve been playing on your computer for years now goes
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, card, Solitaire
+- Tags: 1 Player, 2026 games, 2D, Card, Solitaire

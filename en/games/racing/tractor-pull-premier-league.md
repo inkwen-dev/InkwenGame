@@ -21,4 +21,4 @@ Welcome to Tractor Pull Premier League 2020. It is going to be tractor vs. tract
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Family, Fantasy, farm, Fighting, Strategy
+- Tags: Family, Fantasy, Farm, Fighting, Strategy

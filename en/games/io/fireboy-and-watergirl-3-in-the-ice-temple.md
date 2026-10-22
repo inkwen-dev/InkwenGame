@@ -19,6 +19,6 @@ Fireboy And Watergirl 3 In The Ice Temple is a online game that you can play for
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player, Adventure, Brain

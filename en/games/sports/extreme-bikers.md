@@ -19,6 +19,6 @@ Hop on your bike, start riding it, and make big jumps. Execute stunts perfectly,
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Avoid, Bike, Fun, Highscore, HTML5, Moto, Motorcycle, Road, Skills, Sport

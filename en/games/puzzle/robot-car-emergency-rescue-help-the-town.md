@@ -19,6 +19,6 @@ Join Robot cars and save the city playing these cool games for boys and girls. K
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, H5, HTML5, Kid, Kids, Robot

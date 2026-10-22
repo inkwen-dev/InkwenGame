@@ -19,6 +19,6 @@ Become a design engineer who will have to improvise and, above all, adapt to the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bridge, Cars, construction, destruction, Logic, trucks

@@ -19,6 +19,6 @@ Pets Sever is game which you will like for sure its a game of puzzles kind. The 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Brain, Educational, Fun

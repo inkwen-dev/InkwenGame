@@ -21,4 +21,4 @@ connect 3 or more similar shells and blast them away and achieve the target scor
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, Mahjong, Match 3, Match3, Matching, Puzzle
+- Tags: Fish, Mahjong, Match-3, Match3, Matching, Puzzle

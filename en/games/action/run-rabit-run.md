@@ -19,6 +19,6 @@ In the game "Run Rabbit Run" you will control a rabid rabbit who is ready to tak
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, HTML, HTML5, Hypercasual, Kid, Kids, Kill, Killing, Rabbit, run, running

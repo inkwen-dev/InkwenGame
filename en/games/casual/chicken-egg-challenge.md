@@ -19,6 +19,6 @@ Are you ready for a fun competition with your friends? Before your friends fill 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Animal, Best, Boy, Cartoon, Chicken, Click, Clicker, Crazy, Fun, Funny, Girl, Highscore

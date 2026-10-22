@@ -19,6 +19,6 @@ Smash your way through colorful pixel blocks in Pixel Smash Ball! Bounce the bal
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Ball, Best Games, Casual, Fun, Levels, Physics, Pixel, Retro, Skill, smash

@@ -19,6 +19,6 @@ My name is GoGo Let s go on an adventure with GOGI Wooden stakes crossing the fo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 8 Ball Pool, Adventure

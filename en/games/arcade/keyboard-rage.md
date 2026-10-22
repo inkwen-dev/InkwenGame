@@ -19,6 +19,6 @@ Make your typing speed way faster with a simple keyboard simulator game. Easy bu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Highscore, typing
+- Tags: Arcade, Casual, Highscore, Typing

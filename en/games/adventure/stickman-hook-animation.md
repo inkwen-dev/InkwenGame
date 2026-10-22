@@ -19,6 +19,6 @@ Stickman Hook is a fun game where you can test your skills. You play as a swingi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Barbie, Click, Clicker, HTML, HTML5, Hypercasual, Mind, Stickman

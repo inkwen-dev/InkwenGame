@@ -19,6 +19,6 @@ Get ready for the best high heels game EVER! This shoe game is fun, this runway 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Action, Adventure, Arcade, Car, Game, Games, Girl, Girls, Hypercasual, Physics, Robot, run, running, Stunts

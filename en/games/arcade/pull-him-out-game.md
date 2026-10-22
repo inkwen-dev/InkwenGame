@@ -19,6 +19,6 @@ Looking for a fun and free online game? Check out Pull Him Out! In this game, yo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Brain, Fun, Funny, Game, Games, HTML5, Hypercasual, Online, Puzzle

@@ -21,4 +21,4 @@ Planet Pair is a memory game with pairs of planets. Each round has 3 phases of i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, HTML, HTML5, Memory, Planet, Puzzle
+- Tags: Card, HTML, HTML5, Memory, Planet, Puzzle

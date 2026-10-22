@@ -21,4 +21,4 @@ Following the instructions to cut the card boards as body parts, glue them toget
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Cartoon, Color, Cute, Decorate, Dress Up, Funny, Girl, Kids, rpg
+- Tags: Baby, Baby Hazel, Cartoon, Color, Cute, Decorate, Dress Up, Funny, Girl, Kids, RPG

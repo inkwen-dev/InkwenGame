@@ -19,6 +19,6 @@ defend yourself from ghosts go for the fruit and get improvements to your weapon
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, PacMan, Retro

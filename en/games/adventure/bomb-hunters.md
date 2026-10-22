@@ -19,6 +19,6 @@ Bomb Hunters is an addictive skill game in which you must defuse all the bombs i
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bomb, H5, Hot, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Baby Taylor Babysitter Daycare is an online HTML5 game, it's playable in browser
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Dress Up, Family, Game, Girls, H5, Hypercasual, Princess, rpg
+- Tags: Baby, Baby Hazel, Dress Up, Family, Game, Girls, H5, Hypercasual, Princess, RPG

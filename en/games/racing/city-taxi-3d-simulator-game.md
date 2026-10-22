@@ -19,6 +19,6 @@ City Taxi Simulator is a real taxi game. The game has realistic car physics and 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Car, Cars, Driving, Fun, H5, HTML5, Kid, Kids, Parking, Sim

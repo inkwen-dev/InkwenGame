@@ -19,6 +19,6 @@ Click the cards to reveal a food icon . Memorize it so that you can match to sim
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Food, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Card, Food, HTML5, Kids, Matching, Memory, Mobile, Puzzle

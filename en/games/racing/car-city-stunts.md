@@ -19,6 +19,6 @@ Car City Stunts is a free 3d car game based on a free drive with various cars on
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, drift, Driving, Fun, Funny, Race, Racing, Unity3D, WebGL

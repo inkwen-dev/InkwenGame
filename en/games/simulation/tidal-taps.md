@@ -17,4 +17,4 @@ Tidal Taps transforms the ocean into a vibrant arena where your reflexes are key
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

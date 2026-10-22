@@ -19,6 +19,6 @@ This is a placement game, the user's house in the game is blown up by meteorites
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arkanoid, Business, Crazy, Food, H5, Miner, Turn

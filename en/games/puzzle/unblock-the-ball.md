@@ -19,6 +19,6 @@ Unblock The Ball is a simple and addictive puzzle game. There are many pipes mad
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Block, Boys, Brain, Fun, HTML5, Kids, Matching, Puzzle

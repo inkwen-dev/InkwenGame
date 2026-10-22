@@ -19,6 +19,6 @@ Christmas is Taylor's favorite holiday, she loves Santa Claus and Santa's reinde
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Christmas, Cute, Decorate, Dress Up, Educational, Girl, Girls, Makeover, Puzzle, Simulation

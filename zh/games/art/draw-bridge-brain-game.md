@@ -37,4 +37,4 @@ Playgama 官方：游戏已完全集成 Playgama SDK，支持 PC 和移动设备
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 大脑, 绘画, 逻辑, 物理
+- 标签: 大脑, 繪畫, 逻辑, 物理

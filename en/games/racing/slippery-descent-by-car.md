@@ -19,6 +19,6 @@ Pass obstacles on cars from the cube game! A hardcore game that takes you into a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Car, Driving, Minecraft, Obstacle, Race, Racing, unity, vehicle

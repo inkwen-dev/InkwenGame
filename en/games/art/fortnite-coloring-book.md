@@ -19,6 +19,6 @@ Fortnite Coloring Book includes 12 different images of Fortnite Characters from 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Color, Coloring, Fun, HTML5, Hypercasual, Kids, Mobile, Skill

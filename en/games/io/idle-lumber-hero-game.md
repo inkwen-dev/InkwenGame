@@ -19,6 +19,6 @@ Follow the path of wood and chop down as many as you can! Sell the wood to the m
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Boy, Boys, Games, Hot, Hypercasual, New

@@ -19,6 +19,6 @@ Deadpool is a Marvel game based arcade fighting game with 10 levels in which you
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Anime, Fight, Fighting

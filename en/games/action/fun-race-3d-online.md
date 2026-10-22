@@ -19,6 +19,6 @@ Fun Race 3D is a cool and interesting 3D racing game, you need to control your c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Avoid, Fun, H5, Hot, HTML, HTML5, Mobile, Obstacle, Online, Race, run, running, Skill, Skills

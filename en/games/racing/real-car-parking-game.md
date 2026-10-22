@@ -19,6 +19,6 @@ Welcome to the Vehicle Master Parking Games! It is an exhilarating street car dr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Adventure, Car, carparking, Cars, Driving, Parking

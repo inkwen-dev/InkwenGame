@@ -19,6 +19,6 @@ Oopsy! Clumsy customers are making a big mess and its your job to keep the super
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Animal, Arcade, Business, Cartoon, Casual, Cleaning, Driving, Funny, Hypercasual, management, Mobile, Racing, Relaxation, Restaurant, Slither
+- Tags: 1 Player, 3D, 3D Games, Action, Animal, Arcade, Business, Cartoon, Casual, Cleaning, Driving, Funny, Hypercasual, Management, Mobile, Racing, Relaxation, Restaurant, Slither

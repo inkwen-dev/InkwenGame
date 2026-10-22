@@ -21,4 +21,4 @@ Yummy Hotdog is a cooking game to make your delicious hotdog from scratch. Get t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Cook, Cooking, Food, Girls, Restaurant
+- Tags: Burger, Cook, Cooking, Food, Girls, Restaurant

@@ -19,6 +19,6 @@ Sprunki Bullet Blender is a casual game where players control bullets and projec
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Fun, Mentolatux, Shooting, Sprunki, Unity3D, WebGL

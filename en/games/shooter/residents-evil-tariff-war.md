@@ -21,4 +21,4 @@ In the shadow of a global tariff war, the world teeters on the edge of collapse.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: horror, Maze, Puzzle, Shooting, War, weapons, Zombie
+- Tags: Horror, Maze, Puzzle, Shooting, War, weapons, Zombie

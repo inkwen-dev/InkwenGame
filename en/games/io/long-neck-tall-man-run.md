@@ -19,6 +19,6 @@ Run, make long neck, be a tall man, beat the boss and win UC and Diamonds. Be as
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2 Player, Action, Adventure, Android, Baby, Best, Bridge

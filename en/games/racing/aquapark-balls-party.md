@@ -19,6 +19,6 @@ The Aquapark adventure is beginning with the rolling balls this time. Pass throu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Ball, Race, Racing, Skill, WebGL

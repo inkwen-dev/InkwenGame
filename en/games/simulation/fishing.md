@@ -17,4 +17,4 @@ Dive into a thrilling race against time in this immersive fishing adventure. Per
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

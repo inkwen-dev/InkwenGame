@@ -19,6 +19,6 @@ how off your driving skills in this exciting open world game! Drift and drive fu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Car, Cars, city, drift, drifting, Driving, Game, Games, jump, Simulation, Simulator, Stunts, Supercars, Truck

@@ -21,4 +21,4 @@ Build your own dairy empire from a single cow! Collect fresh milk, sell it for c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Click, Clicker, idle, mouse
+- Tags: Android, Click, Clicker, idle, Mouse

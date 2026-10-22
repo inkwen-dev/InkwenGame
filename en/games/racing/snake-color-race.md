@@ -19,6 +19,6 @@ In Snake Race, navigate a vibrant arena as a colorful snake. Your mission: eat b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Ball, Bridge, Color, Race, Snake, Unity3D

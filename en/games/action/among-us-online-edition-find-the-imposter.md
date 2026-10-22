@@ -19,6 +19,6 @@ Among Us Online Edition plays like the classics play rules as it on Steam. As a 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Fun, H5, Hidden, HTML5, Kid, Kids, Kill, Killing

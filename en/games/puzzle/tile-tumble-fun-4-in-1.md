@@ -19,6 +19,6 @@ Welcome to Tile Tumble Fun, the 4-in-1 collection of match 3 games. Find food, f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collection, Match 3, Puzzle, puzzleblock

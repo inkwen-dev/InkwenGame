@@ -19,6 +19,6 @@ Embark on a thrilling pixel-art turn-based adventure! Fight fierce enemies, leve
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Clicker, Fantasy, Pixel

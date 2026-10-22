@@ -19,6 +19,6 @@ Control the crane to load the truck with cargo and then deliver the cargo to the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Car, Cars, Driving, HTML5, Mobile, Obstacle, Simulation, Simulator, Truck

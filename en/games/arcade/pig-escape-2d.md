@@ -19,6 +19,6 @@ Piggy Wiggy is a brand new physics-based puzzle game developed by Qaibo Games to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Click, HTML5, Mobile, Point And Click

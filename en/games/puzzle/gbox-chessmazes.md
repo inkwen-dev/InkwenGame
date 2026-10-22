@@ -19,6 +19,6 @@ Deliver the message from the King to the Castle, passing it from one piece to an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Logical, Maze, unity, Unity3D

@@ -19,6 +19,6 @@ Do you enjoy playing American Police Suv Driving: Car Games 2022? Then you will 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Android, Boys, Car, Casual, drifting, Driving, Police

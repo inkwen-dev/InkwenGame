@@ -19,6 +19,6 @@ Step into the traffic controller in Traffic Control. Your mission is to manage t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2026 games, Brain, Cars, Casual, city, HTML5, management, Puzzle, Road, Strategy, Traffic, train
+- Tags: .io Games, 2026 games, Brain, Cars, Casual, city, HTML5, Management, Puzzle, Road, Strategy, Traffic, Train

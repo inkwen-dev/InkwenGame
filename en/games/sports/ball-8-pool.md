@@ -19,6 +19,6 @@ Select the difficulty level in the main menu - easy, medium, high, depending on 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, 8 Ball Pool, Adult, Arcade, Ball, Billiard, Board, Boy, Boys, Casino, Casual, Click, Clicker, Game, Games, H5, Highscore, HTML, HTML5, Hypercasual, Mind, Pool, Unity3D

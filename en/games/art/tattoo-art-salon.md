@@ -19,6 +19,6 @@ Always wanted to get a tattoo? This is your chance. Try all the models and choos
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Girl, Unity3D, WebGL

@@ -19,6 +19,6 @@ Neon Pulse Arena is a fast-reaction survival arcade game where you dodge incomin
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, Arena, survival

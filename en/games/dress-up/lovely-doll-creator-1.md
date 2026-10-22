@@ -19,6 +19,6 @@ Lovely Doll Creator is your personal fashion avatar creator & self emoji maker. 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Creation, Design, Dress Up, Fun, Girl, Girls, H5, HTML5, Makeover

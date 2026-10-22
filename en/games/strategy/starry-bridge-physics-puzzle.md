@@ -19,6 +19,6 @@ Starry Bridge: Physics Puzzle is a captivating and brain-challenging game that t
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Brain, construction, Fun, Game, Kids, Physics, Puzzle, Space, Strategy

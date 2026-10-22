@@ -19,6 +19,6 @@ Christmas Candy Cane is an online jump action game that will keep you entertaine
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Game, Games, HTML5, jump, Jumping, Platform

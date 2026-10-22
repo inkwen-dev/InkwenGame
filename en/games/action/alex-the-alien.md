@@ -19,6 +19,6 @@ Alex the alien is lost on a strange planet! Help him collect coins and open the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Alien, Android, Casual, Click, jump, Jumping, Platform, Rescue, Rocket, Space, Spaceship

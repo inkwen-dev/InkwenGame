@@ -19,6 +19,6 @@ In this game you will become a "Pecel" skipper. Pecel is one of traditional's In
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Casual, Cooking

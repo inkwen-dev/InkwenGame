@@ -29,4 +29,4 @@ If you throw all ball without fall down bottles will level failed.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Ball, mouse, Skill
+- Tags: Ball, Mouse, Skill

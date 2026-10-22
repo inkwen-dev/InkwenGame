@@ -19,6 +19,6 @@ Corona Defense - use your gun to protect the world from the deadly corona(covid)
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Clicker, Defense, Gun, Shoot 'Em Up, Shooter, Shooting

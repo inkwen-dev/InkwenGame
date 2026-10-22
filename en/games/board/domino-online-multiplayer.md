@@ -79,4 +79,4 @@ Domino Online Multiplayer offers a challenging and entertaining experience for p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, Multiplayer, pvp, two-player
+- Tags: Mobile, Multiplayer, PvP, two-player

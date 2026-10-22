@@ -19,6 +19,6 @@ Just before Christmas night, zombies invade Santa&rsquo;s base and steal all the
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: angrybirds, mapi games, Santa, Santa Claus, Zombie

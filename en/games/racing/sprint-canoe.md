@@ -19,6 +19,6 @@ Lacking an explosion of emotions and adrenaline? You can get it all in an incred
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Racing, Sport, Sports

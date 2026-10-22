@@ -19,6 +19,6 @@ Feel the fear inside your heart as this match will take you to a ride in the saf
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Battle, Blood, Interactive, jump, Shoot, Shooting

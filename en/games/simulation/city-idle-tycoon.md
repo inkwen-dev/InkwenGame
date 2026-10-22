@@ -19,6 +19,6 @@ City Idle Tycoon is a popular idle game recently. Do you want to try it? Let me 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: city, Collecting, Kids, Mobile, Simulation, Skill

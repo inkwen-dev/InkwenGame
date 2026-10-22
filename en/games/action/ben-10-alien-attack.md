@@ -19,6 +19,6 @@ Ben 10: Alien Attack Earth rescue alien 10 from evil alien attack
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Battle, Ben 10, Game, Online

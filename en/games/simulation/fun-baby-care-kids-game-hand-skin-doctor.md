@@ -19,6 +19,6 @@ This hand looks just horrible. Do you think something can be done to fix it and 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Doctor, Fun, Game, Kids

@@ -19,6 +19,6 @@ Hyena Simulator 3D is an animal simulation game where a hyena will complete diff
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Simulation, Simulator

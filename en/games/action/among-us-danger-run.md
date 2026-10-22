@@ -19,6 +19,6 @@ You will love this super game Among us Run! All you need is to run as fast as po
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Boys, Funny, HTML5, Physics, running, Skill

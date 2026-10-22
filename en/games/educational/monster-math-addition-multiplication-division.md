@@ -19,6 +19,6 @@ Monster Math (addition multiplication subtraction division) is a competitive mul
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Best, Boy, Boys, Brain, Cool, Crazy, Educational, endless, Fun, Funny, Game, Games, Girl, Girls, Kid, Kids, Math, Puzzle, Skill, Skills

@@ -19,6 +19,6 @@ Help the trash pandas take out the garbage! - Sort trash into the correct contai
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Cartoon, Casual, Color, Cute, Hypercasual, Mobile, Pixel, Retro, Timing, Unity3D, WebGL

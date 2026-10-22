@@ -19,6 +19,6 @@ Swipe left-right or up-down to move the box in this free Gravity Switch game for
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML, HTML5, Mobile, Skill, Unity3D, WebGL

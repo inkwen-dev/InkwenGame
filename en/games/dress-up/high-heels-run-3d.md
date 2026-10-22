@@ -19,6 +19,6 @@ Model Super High and Model Walk Contest is about to start. The beautiful girls s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Arcade, Best, Casual, Ever After High, Fashion, Game, Games, Girl, Girls, Hypercasual, Online, Unity3D

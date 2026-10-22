@@ -19,6 +19,6 @@ You will have to cheat and take a shortcut. Also, there will be levels with obst
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Animal, Arcade, Click, Clicker, HTML, HTML5, Hypercasual, Play, Puzzle, Unity3D

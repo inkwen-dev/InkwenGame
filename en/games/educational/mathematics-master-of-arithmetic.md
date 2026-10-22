@@ -19,6 +19,6 @@ The puzzle game &ldquo;Mathematics: Master of Arithmetic&rdquo; promotes brain d
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Educational, endless, Highscore, HTML5, Logic, Logical, Math, Memory, Science

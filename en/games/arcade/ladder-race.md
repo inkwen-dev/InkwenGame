@@ -19,6 +19,6 @@ A racing game for labber! You need to gather sticks to build ladders, build your
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Boy, Collecting, Game, Kid, Kids, Race

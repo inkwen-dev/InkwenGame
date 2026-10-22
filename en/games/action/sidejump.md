@@ -19,6 +19,6 @@ Tap on PLAY GAME to play this game.it's very simple but too hard all what you ha
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Hypercasual, jump, Jumping, run, running, Space

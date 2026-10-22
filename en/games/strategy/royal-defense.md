@@ -21,4 +21,4 @@ Build a strong defense and hold the road against incoming waves. Choose tower sp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 2D, Android, Best Games, Boys, Level, Levels, Logic, management, Mobile, Relaxation, Strategy, Tower Defense
+- Tags: 1 Player, 2026 games, 2D, Android, Best Games, Boys, Level, Levels, Logic, Management, Mobile, Relaxation, Strategy, Tower Defense

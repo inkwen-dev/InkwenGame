@@ -19,6 +19,6 @@ Welcome to Stone Miner: Crush the stones with your truck, Mine the resources, Se
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Casual, Simulator

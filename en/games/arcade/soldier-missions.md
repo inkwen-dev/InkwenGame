@@ -19,6 +19,6 @@ One character with different weapons on one map. 30 levels against soldiers and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Arcade, Army, Fun, Funny, Game, Games, HTML5, Unity3D, weapons, WebGL

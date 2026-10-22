@@ -19,6 +19,6 @@ In the Skewer in the Sewer game, join the Ninja Turtles team as they have a barb
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Click, Clicker, Fruits, H5, Hot, HTML5, New, Ninja, Ninjago

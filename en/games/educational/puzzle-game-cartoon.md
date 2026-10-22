@@ -19,6 +19,6 @@ Puzzle Game Cartoon is a great game to help children improve their abilities and
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Cartoon, Casual, Educational, HTML, HTML5, Hypercasual, Kids, Puzzle

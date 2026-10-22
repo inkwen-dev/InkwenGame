@@ -17,4 +17,4 @@ Navigate a crumbling labyrinth as you collect scattered instant noodles to unloc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

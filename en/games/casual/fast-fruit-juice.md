@@ -19,6 +19,6 @@ Fast Fruit Juice is a lively arcade-style game where you slice, mix, and serve c
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Fruit, Fruits, Funny, Logic

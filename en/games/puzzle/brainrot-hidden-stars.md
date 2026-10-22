@@ -19,6 +19,6 @@ Play Brainrot Hidden Stars game online and for free. Find out the hidden stars i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Best, Brainrot, Funny, Hidden, Italian Brainrot, Kids, Skill, Tralalero Tralala, Tung Tung Tung Sahur

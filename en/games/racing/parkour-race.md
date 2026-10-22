@@ -19,6 +19,6 @@ Jump from building to building - make the best stunts to win. Welcome to the won
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, Adventure, Arcade, Parking, Sport, Sports, Stickman

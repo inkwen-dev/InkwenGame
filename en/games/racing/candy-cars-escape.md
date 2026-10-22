@@ -19,6 +19,6 @@ Get ready for a super sweet police chase. Collect all the gold coins while avoid
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Car, Cars, Cartoon

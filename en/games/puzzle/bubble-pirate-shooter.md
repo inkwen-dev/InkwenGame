@@ -19,6 +19,6 @@ Zounds! You went in search of the treasure of the lost island. But it will not b
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Ball, boat, Bubble, Bubble Shooter, Kids, Pirate, Puzzle, Shoot
+- Tags: Arcade, Ball, Boat, Bubble, Bubble Shooter, Kids, Pirate, Puzzle, Shoot

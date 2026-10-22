@@ -19,6 +19,6 @@ While Barry is trying to escape from the space laboratory, his path is blocked b
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Battle, Battlegrounds, Gun, HTML, HTML5, Hypercasual, jump, Jumping, run, running, Shoot, Shooting, subway, surfers

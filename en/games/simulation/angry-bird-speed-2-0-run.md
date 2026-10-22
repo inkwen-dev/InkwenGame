@@ -19,6 +19,6 @@ Join hundreds of millions of players for FREE and start the fun slingshot advent
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, Action, Battle, Casual, Fun, Funny, Love, Simulation, Unity3D

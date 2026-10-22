@@ -19,6 +19,6 @@ PongFu Master the Paddle. Embrace the Panda. Welcome to PongFu, the ultimate pin
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Panda

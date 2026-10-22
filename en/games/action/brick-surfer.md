@@ -19,6 +19,6 @@ In the game, we need to help the lumberjack pick up the fallen wood on the way, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boy, Boys, Bricks, Collecting, Highscore, Hypercasual, Kids, Platform, Skill

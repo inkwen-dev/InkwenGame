@@ -19,6 +19,6 @@ Now its time to take a look at some pictures with Skibidi Toilet. Behind these p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Difference, Fun, Funny, HTML5, Kids, Skibidi, Skibidi Toilet

@@ -19,6 +19,6 @@ Snash Master: Fun Worm Game is an exciting snake and worm battle adventure where
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2026 games, Arena, Battle, Casual, grow, Multiplayer, Online, Slither, Snake, survival, worm, Worms
+- Tags: .io, .io Games, 2026 games, Arena, Battle, Casual, grow, Multiplayer, Online, Slither, Snake, survival, Worm, Worms

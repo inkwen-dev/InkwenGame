@@ -19,6 +19,6 @@ You are trapped in HELL. You have 5 days to Escape or you will be damned for all
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Monster, Puzzle, Undead, weapons

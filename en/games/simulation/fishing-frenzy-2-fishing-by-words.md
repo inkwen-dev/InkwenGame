@@ -19,6 +19,6 @@ Fishing the fish by word. this is a learning game for a kids.
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: fishing, Fun, Funny, Kids, Word
+- Tags: Fishing, Fun, Funny, Kids, Word

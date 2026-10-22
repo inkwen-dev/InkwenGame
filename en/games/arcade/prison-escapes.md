@@ -19,6 +19,6 @@ Prison Escape is a fun online escape game with different levels! You have to hel
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Avoid, Brain, Casual, Escape, Fun, HTML5, html5 games, Logic, Logical, Police, prison, Strategy
+- Tags: Arcade, Avoid, Brain, Casual, Escape, Fun, HTML5, html5 games, Logic, Logical, Police, Prison, Strategy

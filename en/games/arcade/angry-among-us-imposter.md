@@ -19,6 +19,6 @@ Compete against the World in 24 NEW Angry Among Us imposter levels every week! O
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, fly, Fun, Games, HTML5, jump, Jumping, Online, Puzzle, Quiz

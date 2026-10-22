@@ -39,4 +39,4 @@ J - J
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, 牌, 纸牌
+- 标签: 冒险, 牌, 接龙

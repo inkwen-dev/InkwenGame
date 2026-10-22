@@ -21,4 +21,4 @@ Freecell and Klondike are just the beginning! Dive deep into the world of Solita
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Solitaire
+- Tags: Card, Solitaire

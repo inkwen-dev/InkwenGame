@@ -19,6 +19,6 @@ Pop It Fidget Ball! Lets Pop the poppers, sensory Play game for ADHD &amp; Autis
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, 3D, 3D Games, Android, Cartoon, Design, Quiz

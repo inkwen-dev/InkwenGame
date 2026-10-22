@@ -19,6 +19,6 @@ In spite of multitudinous attacks of mythical creatures Trawds, your duty is to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Fight, Fighting, HTML5, War, WebGL

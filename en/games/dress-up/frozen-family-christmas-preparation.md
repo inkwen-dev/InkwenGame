@@ -19,6 +19,6 @@ Elsa and Jack are about to usher in a special Christmas! Because they have a bab
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon, Christmas, Cute, Dress Up, Elsa, Frozen, Girl, Girls, Holiday, Kids, Princess, Shopping, Simulation

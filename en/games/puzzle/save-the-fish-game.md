@@ -19,6 +19,6 @@ Hey! Hey! Look what`s coming in my town. A fast food shop is here with loads of 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Bubble, Bubble Shooter, burger, Candy, Casual, Fish, fishing, Food, Game, Games, Girl, Girls, Hypercasual, Memory, Motorcycle, subway
+- Tags: 3D Games, 8 Ball Pool, Bubble, Bubble Shooter, Burger, Candy, Casual, Fish, Fishing, Food, Game, Games, Girl, Girls, Hypercasual, Memory, Motorcycle, subway

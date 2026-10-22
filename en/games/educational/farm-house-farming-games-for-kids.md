@@ -21,4 +21,4 @@ Farm House is the best village farming and town-building game. The farmhouse is 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Educational, endless, Family, Fantasy, farm, Strategy
+- Tags: Educational, endless, Family, Fantasy, Farm, Strategy

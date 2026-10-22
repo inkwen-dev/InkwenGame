@@ -19,6 +19,6 @@ Wedding Artist is an online HTML5 game, it's playable in browsers such as safari
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Baby, Baby Hazel, Cake, Color, Cook, Educational, Kids, rpg, Super
+- Tags: Action, Adventure, Baby, Baby Hazel, Cake, Color, Cook, Educational, Kids, RPG, Super

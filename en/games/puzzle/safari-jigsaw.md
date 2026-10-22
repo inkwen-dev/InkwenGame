@@ -19,6 +19,6 @@ The animals in this game are as scary as they are cute! If you combine the piece
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Fun, Funny, Jigsaw, Kids, Puzzle

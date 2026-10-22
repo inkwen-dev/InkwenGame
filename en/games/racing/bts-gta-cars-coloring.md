@@ -19,6 +19,6 @@ Bts GTA Cars Coloring is an online game that you can play for free. Coloring pag
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Car, Cars, Cartoon, Color, Coloring, Games, HTML5, Kids, School

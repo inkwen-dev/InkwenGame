@@ -19,6 +19,6 @@ Collapse the virus by connecting 2 or more similar virus. Collapse 6 or more vir
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Collecting, Collection, HTML5, Mobile

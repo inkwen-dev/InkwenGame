@@ -19,6 +19,6 @@ Water Sort Master is the ultimate liquid puzzle game! Test your brain with 6 uni
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, Brain, Casual, Color, HTML5, html5 games, Logic, Mobile, Puzzle, Relaxation, sort, Strategy, water

@@ -19,6 +19,6 @@ This BTS Pig Coloring Book is perfect for children of all ages that loves to esc
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Coloring, Fun, Girls, HTML, HTML5, Kids, Mobile, School

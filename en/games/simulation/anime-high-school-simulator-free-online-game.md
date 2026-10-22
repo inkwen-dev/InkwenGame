@@ -19,6 +19,6 @@ Anime High School Simulator is an anime-style game simulator in which you play a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Best, Cartoon, Ever After High, Kids, New, School, Simulation, Simulator

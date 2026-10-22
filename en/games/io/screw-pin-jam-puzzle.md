@@ -19,6 +19,6 @@ Screw Pin Jam Puzzle is an incredibly creative and strategic puzzle game designe
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Best Games, Game, Games, games for your website, Mobile, onetouch, onlinegames io, Puzzle, puzzleblock, touch, touchscreen

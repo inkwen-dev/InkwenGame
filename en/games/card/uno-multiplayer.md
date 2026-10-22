@@ -21,4 +21,4 @@ Uno Multiplayer is an exhilarating digital adaptation of the classic card game t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, card, Classic, Multiplayer, Unity3D, WebGL
+- Tags: Arcade, Card, Classic, Multiplayer, Unity3D, WebGL

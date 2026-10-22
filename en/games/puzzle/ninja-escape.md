@@ -19,6 +19,6 @@ Ninja escape game has a lot of success review and player this MONTH that signifi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Bubble Shooter, Interactive, Obstacle, Shoot, Shoot 'Em Up, Shooter, Shooting

@@ -19,6 +19,6 @@ Get ready for an adrenaline-fueled adventure in Wreck &amp; Riches: Demolition C
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Car, demolition, Driving, HTML5, Mentolatux, Mobile

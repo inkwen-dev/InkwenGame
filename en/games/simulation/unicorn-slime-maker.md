@@ -19,6 +19,6 @@ Let us learn to make slime with simple and easy steps. Go to the supermarket and
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Decoration, Design, Fun, Girls, HTML5, Kids, Mobile, Simulation

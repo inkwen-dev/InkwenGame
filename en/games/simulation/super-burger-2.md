@@ -21,4 +21,4 @@ You own a burger shop and you have a lot of customers who love burgers. It's you
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Cooking, Girl, Girls
+- Tags: Burger, Cooking, Girl, Girls

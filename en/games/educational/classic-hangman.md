@@ -19,6 +19,6 @@ You’ve got five minutes in the subway but you don’t know what you should do 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Brain, Casual, Educational, Family, Girl, School, Stickman

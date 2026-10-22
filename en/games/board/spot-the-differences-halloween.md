@@ -19,6 +19,6 @@ This is a spot the difference game with Halloween theme. Find 5 differences betw
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Difference, Fun, Halloween, HTML5, Kids, Mobile, Puzzle

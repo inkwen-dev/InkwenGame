@@ -19,6 +19,6 @@ Block Blast Puzzle is a fun and addictive puzzle game where you drag and drop co
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2026 games, 2D, Best, Best Games, Bricks, free html5 games for your website, HTML5, Mobile, Puzzle, puzzleblock, unblockedgamesatschool

@@ -19,6 +19,6 @@ Come and play house renovation and messy playground cleaning game for kids! Help
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Fun, Girl, Girls, H5, HTML5, Kid, Kids

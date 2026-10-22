@@ -19,6 +19,6 @@ Baby Taylor is very fond of cotton candy. Today she's going to play a simulation
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Candy, Cooking, Cute, Decorate, Food, Girl, Girls, Kids, Simulation

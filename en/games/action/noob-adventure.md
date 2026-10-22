@@ -19,6 +19,6 @@ The Noob Adventure game is a fun and sometimes challenging game. Embark on a jou
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Best, Block, Boy, Boys, Castle, Girl, Girls, Minecraft, Pixel, Platform, Puzzle, Retro

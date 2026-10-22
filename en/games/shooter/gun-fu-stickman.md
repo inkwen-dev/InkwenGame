@@ -19,6 +19,6 @@ Gun Fu: Stickman 2 online offical game. Armed with a pistol in each hand, take c
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Gun, HTML5, Shoot, Shooter, Shooting, Stickman

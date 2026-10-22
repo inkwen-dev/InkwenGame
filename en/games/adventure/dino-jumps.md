@@ -19,6 +19,6 @@ Help your cute little dinosaur to get as far as possible. In this infinite jump'
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 8 Ball Pool, Action, Adventure, Animal, Baby, Ball, Jumping

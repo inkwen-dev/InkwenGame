@@ -19,6 +19,6 @@ Dino Run Adventure is the best free running game where you can run with your din
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boys, Collecting, dino, Dinosaur, Fun, HTML5, Hypercasual, Kids, Mobile, run, running

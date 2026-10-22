@@ -19,6 +19,6 @@ The poor girl Cinderella is bullied by her step mother and sisters. She doesn’
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Dress Up, Fashion, Girl, Girls, Hypercasual, Princess

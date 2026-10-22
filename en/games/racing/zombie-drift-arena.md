@@ -19,6 +19,6 @@ You must try Zombie Drift Arena to play a fun drift game. You have to drift in t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Arena, Battle, Car, Cars, Cartoon, Crazy, drift, drifting, Escape, Fun, Hypercasual, Race, Racing, Road, Simulator, Supercars, WebGL, Zombie

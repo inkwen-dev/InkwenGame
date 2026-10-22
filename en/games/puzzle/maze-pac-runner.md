@@ -21,4 +21,4 @@ Pac Maze Runner is a puzzle game online and a free game that you will be addicte
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Anime, Arena, Army, Barbie, Candy, Draw, HTML5, Match 3, Music, Punch, running, Shooter, Sim, Skating, Snake, Sofia, Space, Strategy, Submachine, Subway Surfers, sumo, Superhero, Surgery, Tank, Taxi, Timing, tomb, Traffic, typing, Violence, Wizard, Word, World, worm, Worms, Zombie
+- Tags: Adventure, Anime, Arena, Army, Barbie, Candy, Draw, HTML5, Match 3, Music, Punch, running, Shooter, Sim, Skating, Snake, Sofia, Space, Strategy, Submachine, Subway Surfers, sumo, Superhero, Surgery, Tank, Taxi, Timing, tomb, Traffic, Typing, Violence, Wizard, Word, World, Worm, Worms, Zombie

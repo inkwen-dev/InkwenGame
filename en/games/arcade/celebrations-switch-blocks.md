@@ -19,6 +19,6 @@ Hi there, pals The year 2024 has arrived. Let&rsquo;s begin the festivities by p
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Puzzle, Tetris

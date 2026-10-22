@@ -19,6 +19,6 @@ Valentines Day is coming! sofia has already received three different boys appoin
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Dress Up, Fashion, HTML5, Kid, Kids, Makeover, Relaxation, valentine day, valentines

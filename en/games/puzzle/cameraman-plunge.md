@@ -19,6 +19,6 @@ Challenge your skills in this quirky game as you strategically shift cups to gui
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Fun, Games, HTML5, Kids, Puzzle, Skibidi, Skibidi Toilet, Skills

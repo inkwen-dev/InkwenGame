@@ -19,6 +19,6 @@ Rediscover a great classic game on your phone or pc: The Solitaire. Challenge yo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Game, Puzzle, Solitaire
+- Tags: Card, Game, Puzzle, Solitaire

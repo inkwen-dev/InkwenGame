@@ -19,6 +19,6 @@ This is an easy version of memory-based games where each tile shows a multiplica
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Educational, Math, Memory
+- Tags: Card, Educational, Math, Memory

@@ -19,6 +19,6 @@ Spooky Link is a relaxing Halloween-themed game where you connect matching spook
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, Mahjong, Matching, Puzzle

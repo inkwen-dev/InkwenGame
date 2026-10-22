@@ -19,6 +19,6 @@ Gun Mayhem is finally back, after the smash hit Gun Mayhem 2. After a long break
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shooting

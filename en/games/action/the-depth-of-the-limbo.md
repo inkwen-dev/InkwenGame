@@ -27,4 +27,4 @@ The lines of the path seem familiar until they turn around your head, forcing yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Escape, horror, Platform
+- Tags: Escape, Horror, Platform

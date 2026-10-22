@@ -19,6 +19,6 @@ Bratz girl Yasmin loves to read and travel. She loves buying and trying new clot
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Decorate, Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5

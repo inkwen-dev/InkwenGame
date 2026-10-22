@@ -19,6 +19,6 @@ Angry Ork is a fun puzzle physics game of action. Launch your skulls at the angr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Games, Physics, Puzzle

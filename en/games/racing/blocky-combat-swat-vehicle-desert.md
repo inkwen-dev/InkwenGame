@@ -19,6 +19,6 @@ Top undead breakout games, both single-player and multiplayer, provide you acces
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player, 2 Player Games, Car, Helicopter, Multiplayer, Shooter, Shooting, Tanks, Unity3D, War

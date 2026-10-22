@@ -19,6 +19,6 @@ Squid Game - Cookie Carver: Life Challenge game start! Win levels and get chance
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D Games, Car, Cars, Game, Parking, Race, Racing

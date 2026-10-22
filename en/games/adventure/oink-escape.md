@@ -19,6 +19,6 @@ OinkEscape is a fun 3D survival game where you control a cute pig and dodge dang
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Avoid, Escape, Fun

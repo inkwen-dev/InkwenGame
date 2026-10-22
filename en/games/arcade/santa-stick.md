@@ -19,6 +19,6 @@ Join Santa in Santa Stick, an exciting HTML5 game where precision is key! Help S
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML, HTML5, mapi games, Santa, Santa Claus

@@ -19,6 +19,6 @@ Horror Minecraft Partytime is a spooky and interesting horror survival game. Thi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, Hidden, horror
+- Tags: Escape, Hidden, Horror

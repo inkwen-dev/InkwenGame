@@ -19,6 +19,6 @@ Buttocks Time is a new type of game that tests the ability of reflection. In thi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, HTML, HTML5, Hypercasual, Mobile, Obstacle, Online, Skill

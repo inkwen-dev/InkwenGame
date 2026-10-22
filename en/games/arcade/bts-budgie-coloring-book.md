@@ -19,6 +19,6 @@ Get ready for a colorful bird adventure with BTS Budgie Coloring Book! Pick your
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Coloring, Drawing, Educational, Girls, Hypercasual, Kids, School

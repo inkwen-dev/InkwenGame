@@ -19,6 +19,6 @@ Mind Games is a huge game where you can find 2-3-4 player games while playing. T
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2D, Action, Brain, Casual, Classic, Mind, Puzzle, puzzleblock, WebGL

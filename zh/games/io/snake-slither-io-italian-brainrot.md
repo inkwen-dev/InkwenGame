@@ -27,4 +27,4 @@ Snake Slither.io Italian Brainrot 是一款节奏快、趣味十足、完全疯�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: .io, 疯狂游戏, 搞笑, 贪吃蛇
+- 标签: .io, 疯狂游戏, 搞笑, 蛇

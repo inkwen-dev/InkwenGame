@@ -21,4 +21,4 @@ Get ready to play Offroad Tractor Farmer Simulator 2022: Cargo Drive.The farming
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Boy, Car, Cars, Driving, farm, Game, Games
+- Tags: 3D, Adventure, Boy, Car, Cars, Driving, Farm, Game, Games

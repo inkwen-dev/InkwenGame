@@ -19,6 +19,6 @@ Welcome to new Impossible Track Jeep Driving Game 3D game where you can drive am
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Driving, HTML, HTML5, Road, Simulation, Simulator

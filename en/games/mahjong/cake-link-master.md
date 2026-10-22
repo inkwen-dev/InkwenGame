@@ -19,6 +19,6 @@ Cake Link Master is a fun puzzle game where you tap two matching cakes to connec
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Cake, Girls, html5 games, Mahjong, Matching, Mobile, Puzzle

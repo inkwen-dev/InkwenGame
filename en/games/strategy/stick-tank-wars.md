@@ -19,6 +19,6 @@ Play Stick Tank Wars game in your web browser for free at Superkidgames.com and 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Avoid, Battle, Best, Bomb, Boys, Defense, Girls, HTML5, Hypercasual, Kid, Mobile, Stickman, Tank, Tanks, Tower Defense, War

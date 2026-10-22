@@ -19,6 +19,6 @@ Formula One cars are the fastest regulated road-course racing cars in the world,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Balance, Car, Cars, Classic, Racing, Traffic, Unity3D, WebGL

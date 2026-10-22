@@ -19,6 +19,6 @@ Flappy Stickman is a thrilling arcade challenge where you guide a stickman throu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: fly, HTML5, Stickman

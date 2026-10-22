@@ -19,6 +19,6 @@ Merge identical stickmen to unlock powerful warriors and mages! Lead your squad 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: attack, Battle, Casual, destroy, Launch

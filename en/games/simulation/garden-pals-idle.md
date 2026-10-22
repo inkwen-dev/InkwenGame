@@ -32,4 +32,4 @@ quests. A cozy idle farm where you can spend a few minutes or spend a few hours.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, cozy, farm, idle, Simulation
+- Tags: Clicker, cozy, Farm, idle, Simulation

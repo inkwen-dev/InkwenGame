@@ -19,6 +19,6 @@ Police Car Parking Game is a fun and challenging 3D parking simulator where you 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Car, carparking, Parking, Police

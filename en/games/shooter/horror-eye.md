@@ -19,6 +19,6 @@ Horror Eyes is a horror 3D game where you wake up in a house, and it is dark in 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, Action, Adventure, Casual, Game, horror, Shooting
+- Tags: 1 Player, 2026 games, 3D, Action, Adventure, Casual, Game, Horror, Shooting

@@ -19,6 +19,6 @@ In Ninja Clash Heroes you take command of a squad of professional heroes. Might 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Boys, Multiplayer, Shooter

@@ -19,6 +19,6 @@ Play at Bird In A Pot and getinto a spooky, fun-filled puzzle adventure set in a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Family, Halloween, HTML5, mapi games, Puzzle

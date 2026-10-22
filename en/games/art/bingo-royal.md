@@ -19,6 +19,6 @@ Want to try your luck and skills? The new classic Bingo game comes with beautifu
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Collecting, Coloring, Funny, Games, HTML5, Relaxation

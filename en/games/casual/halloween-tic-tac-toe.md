@@ -19,5 +19,5 @@ Halloween Tic Tac Toe brings a spooky twist to the classic game! Play against a 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize

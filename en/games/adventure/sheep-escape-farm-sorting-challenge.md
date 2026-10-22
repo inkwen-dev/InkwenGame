@@ -76,4 +76,4 @@ A: While the music enhances the overall atmosphere and complements the gameplay,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cozy, farm
+- Tags: cozy, Farm

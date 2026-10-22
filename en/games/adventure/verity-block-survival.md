@@ -19,6 +19,6 @@ Enter a mysterious block-based world where survival is your only goal! Explore a
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, attack, horror, mineblock, Minecraft
+- Tags: 3D, 3D Games, Action, attack, Horror, mineblock, Minecraft

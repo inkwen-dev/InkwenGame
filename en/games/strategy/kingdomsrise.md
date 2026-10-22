@@ -19,6 +19,6 @@ The kingdom guarded by the player is facing attacks from all directions. As a mi
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Fight, Fighting, Tower Defense

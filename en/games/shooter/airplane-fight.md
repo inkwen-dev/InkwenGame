@@ -19,6 +19,6 @@ Airplane Fight is an online game that you can play for free. A group of evil air
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Air, Aircraft, Boys, fly, HTML5, Kids, Shoot, Shoot 'Em Up, Shooter, Shooting

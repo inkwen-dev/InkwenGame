@@ -21,4 +21,4 @@ World of Alice - Plant Game is an educational game developed for children with t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best Games, Cartoon, Cute, Educational, farm, free games for your site, free html5 games for your website, HTML5, html5 games for your site, Kids, Logic, Plant, School, World of Alice
+- Tags: Best Games, Cartoon, Cute, Educational, Farm, free games for your site, free html5 games for your website, HTML5, html5 games for your site, Kids, Logic, Plant, School, World of Alice

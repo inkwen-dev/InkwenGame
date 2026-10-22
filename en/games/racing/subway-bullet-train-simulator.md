@@ -21,4 +21,4 @@ Feel & live through the excitement of riding on a real train drive simulator onl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Driving, Strategy, train
+- Tags: Adventure, Driving, Strategy, Train

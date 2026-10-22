@@ -21,4 +21,4 @@ This is a puzzle game, come to challenge synthesis 2048!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Puzzle
+- Tags: Card, Puzzle

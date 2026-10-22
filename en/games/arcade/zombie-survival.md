@@ -19,6 +19,6 @@ Zombie Survival is fun html5 game suitable for all zombie lovers. The aim of the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Games, HTML5, Hypercasual, Kids, Mobile, Puzzle, Skill, Zombie

@@ -19,6 +19,6 @@ In the game Parking Path you should try to park the cars to the designated place
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Car, Cars, Drawing, Fun, Logic, Logical, Mobile, Parking, Skill

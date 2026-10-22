@@ -19,6 +19,6 @@ Welcome to the euro truck driving simulator game. Drive powerful trucks across h
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D, 3D Games, Adventure, Car, city, Games, Racing, Truck, trucks

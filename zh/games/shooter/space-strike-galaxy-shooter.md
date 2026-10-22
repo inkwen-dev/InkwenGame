@@ -39,4 +39,4 @@ PC：
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 战列舰, PVE, 射击, 太空
+- 标签: 动作, 战舰游戏, PVE, 射击, 太空

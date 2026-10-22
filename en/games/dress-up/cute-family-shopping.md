@@ -19,6 +19,6 @@ Cute Family Shopping is a very fun shopping game. Abundant merchandise departmen
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cake, Candy, Cartoon, Cook, Cooking, Cute, Dress Up, Educational, Family, Fish, fishing, Food, Fruit, Fun, Girls, Hidden, HTML5, Kids, Mobile, Shopping
+- Tags: Animal, Baby, Cake, Candy, Cartoon, Cook, Cooking, Cute, Dress Up, Educational, Family, Fish, Fishing, Food, Fruit, Fun, Girls, Hidden, HTML5, Kids, Mobile, Shopping

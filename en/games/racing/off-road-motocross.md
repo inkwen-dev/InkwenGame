@@ -19,6 +19,6 @@ Off-road motocross is an exciting world of speed and adrenaline. Take a ride on 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Moto, Motocross, Motorcycle, Race

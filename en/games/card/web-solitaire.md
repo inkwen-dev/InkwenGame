@@ -21,4 +21,4 @@ An Interesting solitaire game with all solvable puzzles. Sort all the cards in t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, HTML5, Kids, Mobile, Puzzle, Solitaire, Stack
+- Tags: Card, HTML5, Kids, Mobile, Puzzle, Solitaire, Stack

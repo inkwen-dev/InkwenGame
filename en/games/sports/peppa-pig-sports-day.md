@@ -19,6 +19,6 @@ Peppa and her friends are taking part in Sports Day and they want you to join th
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Racing, running, Soccer

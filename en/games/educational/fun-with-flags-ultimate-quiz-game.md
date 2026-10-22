@@ -30,4 +30,4 @@ Perfect for kids, students, and adults—whether you're learning or sharpening y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, mouse, Quiz, trivia
+- Tags: Brain, Educational, Mouse, Quiz, trivia

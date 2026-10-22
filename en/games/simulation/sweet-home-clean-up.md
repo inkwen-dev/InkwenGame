@@ -19,6 +19,6 @@ Welcome to your sweet home and cleaning world to keep your house clean. Bedrooms
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation

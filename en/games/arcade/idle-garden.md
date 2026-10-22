@@ -19,6 +19,6 @@ Gather adorable plants and create your own beautiful garden in this relaxing idl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, garden, Mentolatux, Plant, plants, tree, WebGL

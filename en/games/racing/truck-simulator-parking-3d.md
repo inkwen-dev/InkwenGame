@@ -19,6 +19,6 @@ This transport truck adventure is a thrilling offroad truck driving game with fr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Driving, Parking, Simulation, Simulator, Truck

@@ -19,6 +19,6 @@ Grandpa and grandchild are embarking on an adventure to collect the precious sto
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Fun, Funny, Maze, Mine, Miner, Platform, Puzzle

@@ -19,6 +19,6 @@ Welcome to the Amazing Digital Circus Puzzle Connect Game! The game is pretty si
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, digital circus, Pomni

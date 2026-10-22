@@ -19,6 +19,6 @@ Welcome to Space Alien, a 2D platformer that will have you on the edge of your s
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Alien, Arcade, Hypercasual, Spaceship

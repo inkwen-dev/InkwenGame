@@ -19,6 +19,6 @@ Protect the city from the bad green goblin. Fight for peace. Destroy Goblin's bo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Pixel, Retro, Spiderman

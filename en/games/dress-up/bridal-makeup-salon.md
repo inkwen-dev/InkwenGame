@@ -19,6 +19,6 @@ Salon customers have dozens of things to do: make a beautiful bouquet, bake a we
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Coloring, Dancing, Fashion

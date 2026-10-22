@@ -19,6 +19,6 @@ Get ready for adrenaline-pumping aerial battles in Air Combat: Jet Fighter. Take
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D, Air, Aircraft, Fight, firefighters, Flight, jet, military, Shooting, Simulation, War

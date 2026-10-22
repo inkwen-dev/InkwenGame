@@ -19,6 +19,6 @@ Barbie is a beautiful angel of the mystical world. Beauty is hidden in people's 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Dress Up, Fairy, Fashion, Fun, Game, Girl, Girls, HTML5, Magic

@@ -19,6 +19,6 @@ Welcome to an exciting game where you climb upward on carts, collect money, and 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Android, cannon, Cars, Cartoon, Cartoon Network, Craft, CSGO, destroy, eggames, fishing, Hypercasual, Penguin, roblox
+- Tags: Adventure, Android, cannon, Cars, Cartoon, Cartoon Network, Craft, CSGO, destroy, eggames, Fishing, Hypercasual, Penguin, roblox

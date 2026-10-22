@@ -19,6 +19,6 @@ Darth Vader Coloring Book: Coloring Book For Kids And Adults The original bad gu
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Color, Coloring, Draw, Drawing, Game, Online, Vampire

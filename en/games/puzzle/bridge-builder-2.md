@@ -19,6 +19,6 @@ Stretch the stick in order to reach and walk on the platforms. Watch out! If the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Bridge, Classic, Click, Clicker, Fun, Funny, Kid, Kids, Mobile, Pixel, Point And Click

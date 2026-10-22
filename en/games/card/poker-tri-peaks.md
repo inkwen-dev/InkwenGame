@@ -21,4 +21,4 @@ Poker tri peaks is a solitaire style game where the player has the main objectiv
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Board, card
+- Tags: Arcade, Board, Card

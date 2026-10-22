@@ -19,6 +19,6 @@ Paper Plane 2 – HTML5 Game + Mobile Version – this is a great (flat style) a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Air, Android, Hypercasual, Mobile, Plane

@@ -19,6 +19,6 @@ SuperBattle 2 is a two-player competitive game created by YouDevice!. This game 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Multiplayer, Sport, Sports

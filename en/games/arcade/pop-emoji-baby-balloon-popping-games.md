@@ -19,6 +19,6 @@ Play Pop the Emojis Balloons-Baby Balloon Popping Games** for your little ones a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Air, Arcade, Baby, Ball, Ballon, Bomb, Boxing, Candy, Cat, Collecting, Collection, Girl, Girls, Kid, Kids

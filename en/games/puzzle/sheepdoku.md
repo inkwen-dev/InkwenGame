@@ -39,4 +39,4 @@ Sheepdoku is perfect for quick relaxing sessions, daily brain training, and puzz
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Logic, Puzzle, sudoku
+- Tags: animals, Logic, Puzzle, Sudoku

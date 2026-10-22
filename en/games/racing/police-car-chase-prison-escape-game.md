@@ -21,4 +21,4 @@ Join the police force and protect the city in Police Car Chase Prison Escape Gam
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Car, Escape, Police, prison
+- Tags: 3D, Car, Escape, Police, Prison

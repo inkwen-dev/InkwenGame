@@ -19,6 +19,6 @@ Test your brain and IQ with Easy Game and have tons of fun! Think outside the bo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Brain, Game, Games, Mind

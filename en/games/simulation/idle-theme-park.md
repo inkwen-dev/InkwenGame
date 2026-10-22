@@ -21,4 +21,4 @@ The idle theme park is an online management game. It starts by operating a small
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Android, Boy, Fun, HTML5, Kids, management, Online, Puzzle, Skill
+- Tags: 3D, Android, Boy, Fun, HTML5, Kids, Management, Online, Puzzle, Skill

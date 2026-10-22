@@ -19,6 +19,6 @@ Castle Defender Saga is a strategy-based arcade game. The player must choose the
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Battle, Boys, Defense, Family, Fighting, Fun, Horse, HTML5, Magic, Strategy, Tower Defense, War

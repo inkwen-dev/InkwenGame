@@ -31,4 +31,4 @@ Progression & Variety: Grind through a wide array of creative voxel shapes and l
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, mouse, Physics, Puzzle, Skill
+- Tags: Arcade, Mouse, Physics, Puzzle, Skill

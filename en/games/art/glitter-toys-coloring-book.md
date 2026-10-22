@@ -19,6 +19,6 @@ Everybody loves playing with toys! How about a coloring book full of toys? There
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Color, Coloring, Funny, Girl, Kids, Mobile

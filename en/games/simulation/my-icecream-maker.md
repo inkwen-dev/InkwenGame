@@ -21,4 +21,4 @@ Welcome to the land of sweets, where anything is possible. Ice cream magic await
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Girls, management, Timing
+- Tags: Girls, Management, Timing

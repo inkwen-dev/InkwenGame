@@ -19,6 +19,6 @@ Have you always dreamed of being a ballerina? It's your moment to shine along wi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fun, Funny, Girl, Girls, Hair, HTML5, Kids, Makeover, Mobile

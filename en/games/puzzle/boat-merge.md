@@ -26,4 +26,4 @@ Boat Merge is a relaxing idle merge game where players combine matching boats to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: boat, idle, merge
+- Tags: Boat, idle, merge

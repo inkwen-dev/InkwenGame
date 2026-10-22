@@ -19,6 +19,6 @@ Jump side to side and avoid the spikes! That's all you need to do but try to res
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bird, Boy, Casual, HTML, HTML5, Hypercasual, Mobile

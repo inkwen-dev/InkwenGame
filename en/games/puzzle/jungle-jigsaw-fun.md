@@ -19,6 +19,6 @@ Enjoy the lush greenery and vibrant wildlife of the jungle with our jigsaw puzzl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, HTML5, Jigsaw, jungle, Mobile, Puzzle

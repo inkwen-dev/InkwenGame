@@ -19,6 +19,6 @@ Minecraft Hidden Golden Blocks is a wonderful online game with hidden objects. F
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Block, Craft, Fun, Gold, Hidden, HTML5, Kids, Minecraft, Mobile, Skill

@@ -19,6 +19,6 @@ Clicker Knights Vs dragons is a perfect idle game . Embark on your quest and beg
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Army, Dragon, Knight, Pixel

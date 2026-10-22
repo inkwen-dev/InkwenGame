@@ -19,6 +19,6 @@ Legendary Soccer is an exciting and captivating free online game designed specif
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Boy, Boys, Celebrity, Fun, Funny, New, Soccer

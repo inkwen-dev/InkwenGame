@@ -21,4 +21,4 @@ In this beautiful game, you have to collect the fruits and vegetables from your 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, Brain, Casual, farm, Fruit, Logic, Mahjong, Puzzle
+- Tags: Board, Brain, Casual, Farm, Fruit, Logic, Mahjong, Puzzle

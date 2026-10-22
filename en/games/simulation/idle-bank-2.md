@@ -17,4 +17,4 @@ Step into the world of banking with Idle Bank, where you manage and grow your ba
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

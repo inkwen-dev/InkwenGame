@@ -19,6 +19,6 @@ Introducing the Cute Rabbit Coloring Book &ndash; the perfect blend of fun and s
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Casual, Coloring, HTML5, Kids, Puzzle

@@ -19,6 +19,6 @@ In this gripping Monster Evolution, your ultimate objective is to defeat and mer
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Arcade, Best Games, Casual, Cool, endless, Games, HTML5, Skibidi, Skibidi Toilet

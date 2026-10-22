@@ -19,6 +19,6 @@ Welcome to MakeOver Salon Game! Step into the world of fashion and glamour with 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fashion, Girls, Makeover

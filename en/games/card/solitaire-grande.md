@@ -21,4 +21,4 @@ Find out why millions of people all over the world play Solitaire every day! Enj
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, King, Logic, Logical, Puzzle, Solitaire
+- Tags: Card, Casual, King, Logic, Logical, Puzzle, Solitaire

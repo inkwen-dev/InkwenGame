@@ -19,6 +19,6 @@ Match full lines or columns to clear the blocks, can you get highest score!
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Hypercasual, Puzzle

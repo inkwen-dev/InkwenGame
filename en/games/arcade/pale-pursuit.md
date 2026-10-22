@@ -19,6 +19,6 @@ Run fast, jump high, and don&rsquo;t look back in Pale Pursuit! Haunted by relen
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Ghost, Kill, Killing

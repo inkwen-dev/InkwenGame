@@ -19,6 +19,6 @@ The lovely princess Mia is fond of car riding and unfortunately she met an accid
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Doctor, Dress Up, Girls, Kids, Princess

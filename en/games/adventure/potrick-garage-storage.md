@@ -21,4 +21,4 @@ Enter the chilling world of Potrick Snaps Meatly Storage, a horror game that plu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Escape, horror
+- Tags: 3D, Action, Adventure, Escape, Horror

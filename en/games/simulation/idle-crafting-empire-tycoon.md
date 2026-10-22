@@ -31,4 +31,4 @@ Embark on a journey to build your own empire in Idle Crafting Empire Tycoon, an 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Crafting, idle, management, Simulation, tycoon
+- Tags: Crafting, idle, Management, Simulation, tycoon

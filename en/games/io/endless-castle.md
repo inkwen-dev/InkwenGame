@@ -19,6 +19,6 @@ Endless Castle V.2 GAMEPLAY Stay on the wall and do as many zigzags as you can! 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Arcade, Balance, Ball, Best, Bounce, Castle, endless, New, Unity3D

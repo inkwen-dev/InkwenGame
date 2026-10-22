@@ -19,6 +19,6 @@ Box Brothers ek fast-paced reaction game hai jisme tumhe boxes par dikh rahe arr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Ai Games, HTML5

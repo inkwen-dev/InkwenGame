@@ -19,6 +19,6 @@ This is the right time for cleaning our bathroom perfectly and makes them more p
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cleaning, Decorate, Decoration, Dora, Dress Up, Girl, Girls, Hair, Princess

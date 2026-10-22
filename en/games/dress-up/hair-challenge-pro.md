@@ -19,6 +19,6 @@ Let us join the shocking game of Hair Challenge. In the game, your task is to wi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Collecting, Girl, Hair, Mobile, run

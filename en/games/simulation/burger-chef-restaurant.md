@@ -21,4 +21,4 @@ Become the best chef of burgers cook and serve delicious hamburgers in your own 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Cook, Cooking, Restaurant
+- Tags: Burger, Cook, Cooking, Restaurant

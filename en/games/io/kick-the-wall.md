@@ -19,6 +19,6 @@ Kick The Wall is a super fun game of agility and precision
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, jump, Jumping, Kid, Kids, Obstacle, Turn

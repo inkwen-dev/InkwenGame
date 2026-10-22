@@ -19,6 +19,6 @@ Rally Point 3 is a 3D racing game created by XForm Games. Come in first place an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Driving, H5, Hot, HTML, HTML5, Parking, Point And Click, Race, Racing, Stunts

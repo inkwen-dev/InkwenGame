@@ -19,6 +19,6 @@ Tiny Rifles is a fun game you can play in your web browser for free on Superkidg
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bomb, Boys, Fun, HTML5, Kid, Mobile, Shooting, Sniper, Strategy, War

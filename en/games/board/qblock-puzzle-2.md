@@ -19,6 +19,6 @@ QBlock Puzzle - Addictive block game for fans of puzzles, jigsaw, and classic wo
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Bejeweled, Block, Board, Brain, Casual, Classic, free games for your site, HTML5, Logic, Mind, puzzleblock, Tetris, WebGL

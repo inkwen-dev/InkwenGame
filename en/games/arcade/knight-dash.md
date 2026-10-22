@@ -19,6 +19,6 @@ Knight Dash it is a very fun and fast game. Your objective is to find the key to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Fun, Funny, Kid, Kids, King, Mobile, Pixel, Princess, Puzzle

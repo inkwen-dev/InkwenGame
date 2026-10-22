@@ -21,4 +21,4 @@ Color Screw 3D: Master the Twist! Welcome to the ultimate 3D puzzle challenge! D
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, burger, Color, Game, games for your website, Hypercasual, Levels, Logical, Match 3, Physics, Puzzle, Relaxation
+- Tags: 1 Player, 2026 games, 3D, Burger, Color, Game, games for your website, Hypercasual, Levels, Logical, Match 3, Physics, Puzzle, Relaxation

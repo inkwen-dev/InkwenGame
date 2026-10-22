@@ -19,6 +19,6 @@ Sniper Hitboy is an adrenaline-pumping mobile game that puts you in the shoes of
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Shoot 'Em Up, Sniper, Unity3D, WebGL

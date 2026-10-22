@@ -19,6 +19,6 @@ Barbie went to the Swiss Alps for Christmas this winter. He bought very stylish 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cartoon, Decorate, Dress Up, Fashion, Game, Girl, Girls, Snow, Winter

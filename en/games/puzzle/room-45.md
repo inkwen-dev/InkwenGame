@@ -27,4 +27,4 @@ Can you escape Room 45? Or will it remember you?
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Escape, hidden-object, horror
+- Tags: Brain, Escape, hidden-object, Horror

@@ -19,6 +19,6 @@ Stickman Adventure: Prison Jail Break Mission is a league of legendary stickman 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Boys, Escape, Fighting, HTML5, prison, Shooting, Stickman, WebGL
+- Tags: 3D, Boys, Escape, Fighting, HTML5, Prison, Shooting, Stickman, WebGL

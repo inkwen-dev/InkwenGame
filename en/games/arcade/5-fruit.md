@@ -19,6 +19,6 @@ In the fun game 5 Fruit you have to match the same fruits by clicking on the scr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Classic, Clicker, Fruit, Fruits, Fun, Funny, Game, Games, HTML, HTML5, New

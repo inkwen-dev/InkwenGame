@@ -19,6 +19,6 @@ Squidly Game: Hide-and-Seek is a hide-and-seek game with a squid game theme. You
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Arcade, Escape

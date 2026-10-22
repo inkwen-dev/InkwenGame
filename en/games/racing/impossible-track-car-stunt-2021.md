@@ -19,6 +19,6 @@ Impossible Track Car Stunt 2021 brings the real exciting aspects of a youngsterâ
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Car, Cars, drift, Fun, Parking, Race, Racing, Supercars

@@ -19,6 +19,6 @@ Draw Bridge Puzzle - Draw Game is an exciting and challenging brain game that wi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Drawing, Puzzle

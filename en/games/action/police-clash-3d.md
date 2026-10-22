@@ -21,4 +21,4 @@ Gather your elite squad of skilled individuals, each with their unique strengths
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Click, HTML5, Mentolatux, Mobile, mouse, Police, Unity3D
+- Tags: 3D Games, Android, Click, HTML5, Mentolatux, Mobile, Mouse, Police, Unity3D

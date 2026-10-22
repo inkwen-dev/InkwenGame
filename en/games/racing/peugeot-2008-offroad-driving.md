@@ -19,6 +19,6 @@ Experience the thrill of the open trail with the Peugeot 2008, designed for offr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Cars, Driving, HTML5, iPad, iPhone, Mentolatux, Mobile, offroad, Parking, Racing, Supercars, Unity3D, WebGL

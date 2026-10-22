@@ -19,6 +19,6 @@ A mega tsunami wave has stroke the city. A huge wave of tsunami coming back to y
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Action, Adventure, Anime, Arcade, Best, Boys, Cartoon, Fun, Games, Girls, Hot, HTML5, Kids, Mobile

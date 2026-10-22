@@ -19,6 +19,6 @@ Unblock Parking Car is simple and nice game. More than 3,000 puzzles
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, Car, HTML5, Parking, Puzzle

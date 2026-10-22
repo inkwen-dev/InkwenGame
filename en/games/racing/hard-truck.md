@@ -19,6 +19,6 @@ Drive a monster truck along hard tracks and become a pro monster truck racer. Ha
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Race, Racing, Truck

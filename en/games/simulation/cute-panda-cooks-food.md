@@ -19,6 +19,6 @@ Wonderful Food City is grandly opened. Let's go to taste and make food together 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Business, Cook, Cooking, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

@@ -19,6 +19,6 @@ Sure Shot is the online multiplayer in which you are a soldier dropped into the 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: CSGO, Gun, Multiplayer, Shooter, Sniper

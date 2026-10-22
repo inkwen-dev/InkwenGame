@@ -19,6 +19,6 @@ Car Stunt 3D Game is an extreme car racing game that gives racers the best fast 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Classic, Crazy, drift, drifting, Driving, Racing, Stunts

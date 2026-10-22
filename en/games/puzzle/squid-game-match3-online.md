@@ -21,4 +21,4 @@ Are you like Squid Game? and you want play new game ofSquid Game?, There are man
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, Arcade, Game, movie, Online, Puzzle
+- Tags: .io Games, Arcade, Game, Movie, Online, Puzzle

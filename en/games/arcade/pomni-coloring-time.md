@@ -19,6 +19,6 @@ Welcome to Pomni Coloring Time, where creativity knows no bounds and every strok
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Coloring, free html5 games for your website, Fun, Girls, Hypercasual, Pomni, School

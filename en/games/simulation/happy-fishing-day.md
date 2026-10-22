@@ -21,4 +21,4 @@ Happy Fishing This day promises to bring you the biggest catch or your life. But
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Bomb, Boy, Boys, Educational, Fish, fishing, Girl, Girls, Kid, Kids
+- Tags: Bomb, Boy, Boys, Educational, Fish, Fishing, Girl, Girls, Kid, Kids

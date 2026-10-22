@@ -19,6 +19,6 @@ Halloween is coming. Suddenly appeared a zombie in the neighborhood. Use your we
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Best, Casual, Click, Clicker, Halloween, Holiday, HTML, Mobile, Simulation

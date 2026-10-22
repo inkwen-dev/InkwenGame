@@ -17,4 +17,4 @@ Test your strategic mettle against an evolving AI in Durak vs AI. Outsmart a cle
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

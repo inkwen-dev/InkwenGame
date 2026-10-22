@@ -19,6 +19,6 @@ The most beloved of all fairy tales, Cinderella is not just a story anymore! It 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Fun, Girls, HTML5, Kids, Mobile, Princess

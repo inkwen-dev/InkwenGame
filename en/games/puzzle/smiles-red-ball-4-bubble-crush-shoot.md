@@ -19,6 +19,6 @@ The goal is to crushes all the smiles.. except the red one! You can reach that, 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Arcade, Ballon, Boy, Bubble Shooter, Color, Fun, Girl, HTML, HTML5, Kid, Kids, Mobile, Shoot, Shooter, Shooting, Skill, WebGL

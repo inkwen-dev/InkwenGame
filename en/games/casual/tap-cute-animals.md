@@ -19,6 +19,6 @@ Get ready to unwind in a cheerful clicker adventure where every tap brings rewar
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Clicker, Cute, free html5 games for your website, Fun, Hot, Hypercasual, idle, Mobile

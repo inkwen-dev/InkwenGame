@@ -19,6 +19,6 @@ Wordix is an engaging logic game where your task is to guess the word within a l
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Brain, Casual, Educational, Family, Logic, Logical, Puzzle, unity, WebGL, Word

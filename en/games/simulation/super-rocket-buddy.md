@@ -19,6 +19,6 @@ You have a cannon loaded with Buddies, and your goal is to get to the target. So
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Fun, Kiz 10, kiz10, Simulator

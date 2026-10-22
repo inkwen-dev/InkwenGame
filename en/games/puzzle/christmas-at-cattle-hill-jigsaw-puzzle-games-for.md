@@ -19,6 +19,6 @@ Christmas Jigsaw puzzles game about Christmas! The most realistic jigsaw experie
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Animal, Candy, Car, card, Cartoon, Detective, Disney, Doctor, Dora, Fairy, Family, Fantasy, farm, Fashion, Food, Fruit, Fruits, Funny, Girls, Gun, Halloween, Hello Kitty, Island, Jewel, Jigsaw, jump, Jumping, Kart, Kid, Kill, Killing, King, Kiss, Kissing, Kiz 10, kiz10, Knight, Ladybug, Launch, Lego, Letters, Logic, Logical, Love, Match3, Matching
+- Tags: 2 Player Games, 3D Games, Animal, Candy, Car, Card, Cartoon, Detective, Disney, Doctor, Dora, Fairy, Family, Fantasy, Farm, Fashion, Food, Fruit, Fruits, Funny, Girls, Gun, Halloween, Hello Kitty, Island, Jewel, Jigsaw, jump, Jumping, Kart, Kid, Kill, Killing, King, Kiss, Kissing, Kiz 10, kiz10, Knight, Ladybug, Launch, Lego, Letters, Logic, Logical, Love, Match3, Matching

@@ -21,4 +21,4 @@ Pokemon Find Pairs is a memory puzzle game. Choose your mode from easy medium or
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, Casual, Clicker, Pokemon, Puzzle
+- Tags: Brain, Card, Casual, Clicker, Pokemon, Puzzle

@@ -19,6 +19,6 @@ Play the best bowling game in amazing realistic graphics. Test your bowling skil
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bow, Brain, Fun, Girls, Highscore, HTML5, Sport

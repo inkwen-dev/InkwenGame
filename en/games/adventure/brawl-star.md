@@ -19,6 +19,6 @@ Brawl Stars is a 3v3 top-down shooter game where players from all over the world
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Aircraft, Brawl, Cartoon, Puzzle, weapons

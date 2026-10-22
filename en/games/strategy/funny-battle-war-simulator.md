@@ -19,6 +19,6 @@ Control a huge army. Take command over infantry and archers. Send Cyclops and Sp
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Army, Battle, Battlegrounds, Bomb, Boy, Casual, Crazy, Defense, endless, Fantasy, Fight, Fighting, Fun, Funny, Game, HTML5, Kill, Killing, Magic, Monster, Physics, Red, Simulation, Simulator, Skills, Superhero, Tower Defense, Unity3D, War, weapons, WebGL, Zombie

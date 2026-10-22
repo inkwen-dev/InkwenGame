@@ -1,0 +1,24 @@
+# 企鹅恋爱拼图2
+
+<a href="https://inkwengame.com/zh/games/penguin-love-puzzle-2" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/penguin-love-puzzle-2/cover.jpg)
+
+《企鹅恋爱拼图》是一款有趣的像素拼图游戏。一对企鹅被迫分离，你需要移动和交换方块来让它们重聚。途中请注意尖刺和陷阱，如果意外碰到它们就会失败。动动脑筋，帮助它们，尽情享受乐趣吧！
+
+## 怎么玩
+
+点击或轻触
+
+## 介绍
+
+《企鹅恋爱拼图》是一款有趣的像素拼图游戏。一对企鹅被迫分离，你需要移动和交换方块来让它们重聚。途中请注意尖刺和陷阱，如果意外碰到它们就会失败。动动脑筋，帮助它们，尽情享受乐趣吧！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/strategy" target="_blank" rel="noopener noreferrer">策略</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: Android, 动物, 躲避, 男孩, H5, HTML5, 儿童, 爱情, 技巧, 策略

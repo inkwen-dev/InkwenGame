@@ -19,6 +19,6 @@ Race, merge, and dominate in Everyday Racing &mdash; a fun and fast-paced merge 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D, Car, Cars, Casual, Hypercasual, idle, Racing, Simulation

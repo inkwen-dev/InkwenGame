@@ -19,6 +19,6 @@ Beautiful and fun farming simulation game. Raise cute farm animals and harvest d
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, city, Collecting, farm, Fruit, Fruits, Girl, Girls, Hot, HTML, HTML5, Kid, Kids
+- Tags: Best, city, Collecting, Farm, Fruit, Fruits, Girl, Girls, Hot, HTML, HTML5, Kid, Kids

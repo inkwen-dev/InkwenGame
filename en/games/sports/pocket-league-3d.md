@@ -19,6 +19,6 @@ Pocket League 3D is a fun car soccer game that can be played 1 and 2 player. If 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, Car, Driving, Football, Soccer

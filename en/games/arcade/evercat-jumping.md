@@ -19,6 +19,6 @@ Help EverCat to jump home. Be quick and attentive - time is limited and there is
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cat, HTML5, Jumping, Kids, Mobile

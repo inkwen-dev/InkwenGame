@@ -19,6 +19,6 @@ Every Christmas, many people will attend various parties, and girls will dress f
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Makeover, Nail, Nails

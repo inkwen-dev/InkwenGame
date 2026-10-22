@@ -19,6 +19,6 @@ Playing as a small child named Skibidi, youll engage in nonstop platforming acti
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Click, Clicker, Game, HTML, HTML5, jump, Jumping, Online, Skibidi, Skibidi Toilet

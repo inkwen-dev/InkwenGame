@@ -19,6 +19,6 @@ Cute Nastya is a very popular blogger. Her mom and dad help her make cool videos
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Celebrity, Crazy, Cute, Decorate, Decoration, Design, Dress Up, Family, Fashion, Fun, Funny, Girl, Girls, Hair, HTML5, Makeover, Princess

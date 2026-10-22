@@ -19,6 +19,6 @@ Your objective is to link bubbles of the same color. The longer chain you make, 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bomb, Bubble, Collecting, Color, Hypercasual, Puzzle, Rocket

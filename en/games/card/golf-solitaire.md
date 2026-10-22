@@ -19,6 +19,6 @@ Simple to play but joyously addictive card game Try to clear the course before t
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Golf, Solitaire
+- Tags: Card, Golf, Solitaire

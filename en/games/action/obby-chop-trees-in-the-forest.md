@@ -19,6 +19,6 @@ Chop Trees. Level Up. Become the Strongest! Welcome to the lobby, where you can 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 3D, Arcade, Collection, cut, Forest, Game, Mobile, roblox, tree, unity, Unity3D, weapons

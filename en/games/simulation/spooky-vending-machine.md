@@ -19,6 +19,6 @@ Spooky Vending Machine is an amazing game that helps your child to learn math by
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Brain, Educational, Family, Game, Games, Ghost, Halloween, HTML, HTML5, Kid, Kids, Math, Monster, Simulation, Simulator, Zombie

@@ -19,6 +19,6 @@ Players fight against each other on a vast map, aiming to be the last one standi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, attack, Avoid, Best Games, Bow, Brainrot Italian, Cartoon, Gun, Minecraft, roblox, Shoot, Shoot 'Em Up, Shooter, Shooting

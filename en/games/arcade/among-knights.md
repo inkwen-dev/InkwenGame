@@ -19,6 +19,6 @@ Among Knights is an Adventure Arcade 2D Game that tells a wonderful story of an 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Best Games, Casual, Knight, Sword

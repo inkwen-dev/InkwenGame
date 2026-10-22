@@ -19,6 +19,6 @@ Go on a BFF World Trip and travel around the world with three best friends. This
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Decorate, Design, Dress Up, Fashion, Girl, Girls, Hair, Halloween, Kids, Makeover, Nail, Simulation

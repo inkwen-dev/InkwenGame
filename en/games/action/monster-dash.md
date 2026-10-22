@@ -21,4 +21,4 @@ Get ready for a brand new Monster game. Make it pass through dangerous paths to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Casual, Click, Escape, Fantasy, Halloween, Hot, Hypercasual, Kids, Monster, prison, Puzzle, run, running
+- Tags: 3D, Action, Casual, Click, Escape, Fantasy, Halloween, Hot, Hypercasual, Kids, Monster, Prison, Puzzle, run, running

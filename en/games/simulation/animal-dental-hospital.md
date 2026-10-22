@@ -19,6 +19,6 @@ Is being a dentist your dream job? Then you must not miss this game! Come to pla
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Doctor, Fun, Girls, HTML5, Kids, Mobile, Puzzle, Simulation, Surgery

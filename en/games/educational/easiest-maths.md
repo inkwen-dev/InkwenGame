@@ -19,6 +19,6 @@ Learn. Play. Win! Easiest Maths is a bright and playful math quiz game made espe
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Math, Puzzle, Skills

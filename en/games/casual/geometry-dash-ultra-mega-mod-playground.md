@@ -19,6 +19,6 @@ Immerse yourself in the epic world of Ultra Mega Mod on Geometry Dash Playground
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, crash, Crazy, dash, free games for your website, free html5 games for your website, Fun, Funny, Geometry, Sandbox, unity, unity games, unity games for your website, War

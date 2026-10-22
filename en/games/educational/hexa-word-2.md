@@ -19,6 +19,6 @@ Hexa Word is a skill game where you have to create words using letters from the 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Educational, HTML5, Letters, Logic, Logical, Mobile, School, Skill, Word

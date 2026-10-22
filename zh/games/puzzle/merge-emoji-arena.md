@@ -29,4 +29,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Clicker, 合并
+- 标签: 点击器, 合并

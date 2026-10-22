@@ -30,4 +30,4 @@ Gameplay:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Simulation, Strategy, tycoon
+- Tags: Management, Simulation, Strategy, tycoon

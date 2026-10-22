@@ -19,6 +19,6 @@ Rainbow Monster Hideout 3D is a thrilling survival horror adventure where you mu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Action, Adventure, Escape, Hidden, horror, Kids, Monster, Puzzle, Stealth, survival
+- Tags: 2026 games, 3D Games, Action, Adventure, Escape, Hidden, Horror, Kids, Monster, Puzzle, Stealth, survival

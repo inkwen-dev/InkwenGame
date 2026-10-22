@@ -19,6 +19,6 @@ K-Pop Puzzle Hunters is a fun and creative puzzle game inspired by the K-Pop Dem
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boy, Brain, Girl, Jigsaw, Mind

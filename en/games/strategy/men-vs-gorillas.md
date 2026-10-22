@@ -19,6 +19,6 @@ Men vs Gorilla &ndash; The Ultimate Evolution Battle! Step into the wild showdow
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Fight, Strategy

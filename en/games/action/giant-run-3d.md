@@ -19,6 +19,6 @@ Giant Run 3D is a boy's free online game. You need to choose the correct doors t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Ball, Boy, Brain, Fun, HTML5, Kids, Number, Puzzle, running

@@ -19,6 +19,6 @@ Zap Knife is here for you to hit all the Yummy Food. Hitting all the yummy food 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Arcade, Casual, Click, Crazy, endless, Hypercasual, Play, Point And Click, Unity3D, WebGL

@@ -19,6 +19,6 @@ The legendary mob farm in Mine is back and ready to introduce you to a lot of ne
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2D, amazing, Android, Best, Best Games, Bomb, Classic, Crazy, free games for your website, Minecraft, Sandbox, Unity3D, WebGL

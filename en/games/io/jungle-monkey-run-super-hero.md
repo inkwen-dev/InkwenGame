@@ -19,6 +19,6 @@ Jungle Monkey Run 2 : Banana Adventure est un jeu d'aventure 2D gratuit. C'est l
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2D, 3D, Action, Adventure, Aircraft, Animal, Arcade, Baby, Ben 10, Boys, Cartoon

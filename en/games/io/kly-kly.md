@@ -19,6 +19,6 @@ Kly Kly is an arcade platform game in which you have to help a magical creature 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Action, Adventure, Android, Arcade, Boy, Boys, Hot, House, New, Puzzle

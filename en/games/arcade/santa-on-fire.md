@@ -19,6 +19,6 @@ Santa is TRAPPED! Pull him out of the chimney before it&rsquo;s too late! Get re
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, amazing, Arcade, Best Games, Boy, Cartoon, Cat, Christmas, Clicker, Cute, endless, Fun, Santa, unity games

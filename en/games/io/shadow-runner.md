@@ -19,6 +19,6 @@ Once you have run through the level your shadow emerges to race you, running jus
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, Action, Adventure, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Play, run, running

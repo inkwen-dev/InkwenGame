@@ -19,6 +19,6 @@ SnowBall: Platformer is a joyful physics-based platformer made for the holidays!
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Arcade, Best, Christmas, HTML5, html5 games, Mobile, New, Physics, Platform, Snow

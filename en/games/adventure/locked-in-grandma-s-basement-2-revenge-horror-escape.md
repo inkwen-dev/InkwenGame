@@ -30,4 +30,4 @@ Perfect for fans of horror, escape rooms, and point-and-click adventures.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, horror, Mobile, Point And Click, scary, story
+- Tags: Adventure, Escape, Horror, Mobile, Point And Click, scary, story

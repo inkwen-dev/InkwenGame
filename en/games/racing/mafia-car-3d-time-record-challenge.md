@@ -19,6 +19,6 @@ Are you in for a little challenge? If yes, then let's see if you can be the quic
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Android, Car, Cars, Driving, HTML5, Mobile, Racing, Skill, Skills

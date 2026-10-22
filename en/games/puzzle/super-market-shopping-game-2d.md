@@ -21,4 +21,4 @@ Are you ready! Start creating your own supermarket myth! Really start from scrat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adult, Adventure, Animal, Arcade, Baby, Baby Hazel, Battlegrounds, Bubble, Bubble Shooter, Candy, Clans, Cleaning, Clicker, Fashion, Flight, fly, Fun, Funny, Girl, Grooming, House, Hypercasual, Machine, Makeover, train
+- Tags: 8 Ball Pool, Adult, Adventure, Animal, Arcade, Baby, Baby Hazel, Battlegrounds, Bubble, Bubble Shooter, Candy, Clans, Cleaning, Clicker, Fashion, Flight, fly, Fun, Funny, Girl, Grooming, House, Hypercasual, Machine, Makeover, Train

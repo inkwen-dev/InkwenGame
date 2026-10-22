@@ -19,6 +19,6 @@ Welcome to the poppy Playtime Maze Escape! Run and be careful of the poppy monst
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Hypercasual, Maze

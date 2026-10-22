@@ -47,4 +47,4 @@ English, Russian, Spanish, Portuguese, German and Turkish
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, idle, management, Strategy, Tower Defense
+- Tags: 3D, Adventure, idle, Management, Strategy, Tower Defense

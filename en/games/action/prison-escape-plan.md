@@ -19,6 +19,6 @@ In Prison Escape Plan, 3 prisoners decide to escape from prison. A plan is requi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Android, Arcade, Battle, Cartoon, Casual, Escape, Fun, HTML5, Hypercasual, Mobile, prison, run, WebGL
+- Tags: 3D, Action, Adventure, Android, Arcade, Battle, Cartoon, Casual, Escape, Fun, HTML5, Hypercasual, Mobile, Prison, run, WebGL

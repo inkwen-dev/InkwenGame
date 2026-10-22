@@ -19,6 +19,6 @@ Is a hidden object puzzle game based on the Sunny Day animated TV series. We are
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cartoon, Cartoon Network, Celebrity, Disney, Fashion, Girls, Hidden, HTML5, Kids, Memory

@@ -19,6 +19,6 @@ Do you remember those familiar logos? Do you remember what those logos look like
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Casual, Draw, Kid, Kids, Puzzle

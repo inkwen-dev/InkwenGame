@@ -19,6 +19,6 @@ Hanna needs to get ready on time. Help her choose her dress and do her make up. 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Unity3D, WebGL

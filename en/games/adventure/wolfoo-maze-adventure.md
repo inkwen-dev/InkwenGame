@@ -19,6 +19,6 @@ Guide Wolfoo and friends through colorful mazes! Explore, collect coins and star
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Brain, Kid, Maze

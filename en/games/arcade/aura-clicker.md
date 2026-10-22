@@ -32,4 +32,4 @@ Play with a mouse or touchscreen. Automatic aura earnings continue while the gam
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Clicker, idle, mouse, Skill
+- Tags: Arcade, Clicker, idle, Mouse, Skill

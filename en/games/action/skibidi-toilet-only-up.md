@@ -19,6 +19,6 @@ In Skibidi Toilet Only Up, a young slum dweller aspires to break free from pover
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Jumping, OnlyUp, run, running, Skibidi, Skibidi Toilet

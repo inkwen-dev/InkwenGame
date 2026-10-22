@@ -19,6 +19,6 @@ Urban Echo is an exciting action parkour game where you control a character to o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Jumping, running, Street Fighting

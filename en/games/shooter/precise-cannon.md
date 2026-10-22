@@ -19,6 +19,6 @@ touch the screen to shoot use the Z and M keys to shoot in the multiplayer
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Christmas, Hypercasual, Multiplayer, Shooting

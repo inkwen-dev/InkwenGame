@@ -19,6 +19,6 @@ Use your finger to guide a snake made of balls and destroy the bricks. Try to de
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, HTML5, Snake

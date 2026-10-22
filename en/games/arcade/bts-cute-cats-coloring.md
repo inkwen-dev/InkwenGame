@@ -19,6 +19,6 @@ BTS Cute Cats Coloring Book is a fun colorig game suitable for all ages. You can
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Boys, Cartoon, Color, Coloring, Fun, Game, Games, Girls, HTML5, Kids, School

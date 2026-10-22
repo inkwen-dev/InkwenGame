@@ -19,6 +19,6 @@ Snake Cube is a game in which you need to control a snake and collect cubes that
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Best, Classic, Collecting, Fun, Funny, Mobile, Skill, Snake

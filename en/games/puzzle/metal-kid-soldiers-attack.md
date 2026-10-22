@@ -19,6 +19,6 @@ Metal kid Soldiers Attack kid education game has a lot of success review and pla
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Boys, Bubble Shooter, Defense, Detective, Educational, Fight, Fighting, Fire, Fish, Interactive Fiction, Kid, Kids, Kill, Killing, Red, Shoot, Shoot 'Em Up, Shooter, Shooting

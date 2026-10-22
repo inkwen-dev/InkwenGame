@@ -19,6 +19,6 @@ Here is a third-person 3D robot racing and fighting simulation game with Transfo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Car, Driving, Fighting, HTML5, Mobile, Racing, Robot, Simulation

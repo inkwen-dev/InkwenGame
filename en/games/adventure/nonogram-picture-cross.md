@@ -19,6 +19,6 @@ Discover the mystery of picture cross number puzzles! Solve the nonogram puzzles
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Brain, Casual, Hypercasual, Memory, Mobile, Puzzle, Strategy, sudoku, Unity3D
+- Tags: 1 Player, Action, Adventure, Brain, Casual, Hypercasual, Memory, Mobile, Puzzle, Strategy, Sudoku, Unity3D

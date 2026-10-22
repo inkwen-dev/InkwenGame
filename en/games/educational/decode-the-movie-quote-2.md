@@ -21,4 +21,4 @@ Welcome to an exciting game where you guess famous movie quotes one letter at a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2025 games, Brain, Casual, Educational, Guessing, html5 games, Letters, Logic, movie, Puzzle, quest, Quiz, Word
+- Tags: 1 Player, 2025 games, Brain, Casual, Educational, Guessing, html5 games, Letters, Logic, Movie, Puzzle, quest, Quiz, Word

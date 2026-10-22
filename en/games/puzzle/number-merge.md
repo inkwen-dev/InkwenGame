@@ -19,6 +19,6 @@ Connect the numbers and don’t run out of moves! Make lines connecting as many 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Block, Casual, Collecting, Highscore, HTML5, Logic, Match 3, Relaxation, Strategy

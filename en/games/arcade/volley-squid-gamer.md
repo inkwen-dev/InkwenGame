@@ -19,6 +19,6 @@ You can hop, bounce, and smash the ball with only a single tap of your finger! F
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, HTML5, jump, Mobile, Skill, Unity3D, WebGL

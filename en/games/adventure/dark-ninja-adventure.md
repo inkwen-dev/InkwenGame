@@ -19,6 +19,6 @@ This is not an ordinary ninja, in fact, this is a skillful collector of stars an
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, HTML5, Ninja, Puzzle

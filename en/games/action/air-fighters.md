@@ -19,6 +19,6 @@ Prepare for missions and take up the challenge of world supremacy now. Destroy y
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Air, Aircraft, Fight, Fighting, Street Fighting, Unity3D

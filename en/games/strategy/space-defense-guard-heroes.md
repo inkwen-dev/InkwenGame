@@ -21,4 +21,4 @@ Alien invasion has begun. The galaxy is under attack and only your strategy can 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: rpg, Tower Defense
+- Tags: RPG, Tower Defense

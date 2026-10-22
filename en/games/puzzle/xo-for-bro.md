@@ -19,6 +19,6 @@ Enjoy the timeless strategy game Tic Tac Toe (XO) with a modern design and smoot
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 2048, 2D, Adult, Bubble

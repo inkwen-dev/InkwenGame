@@ -19,6 +19,6 @@ You just need to match the pictures to the correct words. How To Play: It’s re
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Educational, Family, HTML, HTML5, Letters, Matching, Word

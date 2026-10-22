@@ -19,6 +19,6 @@ Mr. Lupato goes on a trip and needs your help to find Egyptian Pyramids treasure
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, HTML5, jump, Jumping, Platform

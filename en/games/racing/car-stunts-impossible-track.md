@@ -19,6 +19,6 @@ Car Stunts - Impossible Track Challenge gives a thrilling driving experience gam
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Racing, Unity3D

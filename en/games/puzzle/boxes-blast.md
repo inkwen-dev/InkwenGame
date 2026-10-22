@@ -19,6 +19,6 @@ Hey, the cute colored Boxes need your help to escape from this dark world! Your 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bomb, HTML, HTML5, mapi games, Mobile, Physics, Puzzle, puzzleblock

@@ -19,6 +19,6 @@ Limax.io is a funny io game where you need to grow fatter and fatter. Kill other
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Game, Multiplayer, pvp, worm
+- Tags: Casual, Game, Multiplayer, PvP, Worm

@@ -19,6 +19,6 @@ Aliens Memory Game is an educational memory game – Memory improvement is part 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Educational, Fun, HTML5, Kids, Memory, Skill

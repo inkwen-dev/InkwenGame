@@ -21,4 +21,4 @@ Touch Mouse Keyboard
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arena, battleship, boat, Multiplayer, Pirate, ship
+- Tags: Action, Adventure, Arena, battleship, Boat, Multiplayer, Pirate, ship

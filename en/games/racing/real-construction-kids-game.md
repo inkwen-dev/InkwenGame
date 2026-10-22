@@ -19,6 +19,6 @@ Real Construction Kids Game is a very popular truck game for boys and girls. In 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Driving, Educational, Fun, Girls, HTML5, Kids, Mobile

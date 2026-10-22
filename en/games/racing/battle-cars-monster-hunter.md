@@ -19,6 +19,6 @@ Battle Cars is a fun monster truck online confrontation game. You will have the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Battle, Boy, Car, Hot, Mobile, New

@@ -19,6 +19,6 @@ Focus your hawk-eyes in this hilarious test of your attention, which is best des
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Difference, Funny, Hidden, Highscore, HTML5

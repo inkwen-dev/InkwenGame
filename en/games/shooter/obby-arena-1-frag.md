@@ -34,4 +34,4 @@ Jump, slide, and chain eliminations to score epic killstreaks. Unlock weapons, b
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, First Person Shooter, pvp, Shooting
+- Tags: 3D, Action, First Person Shooter, PvP, Shooting

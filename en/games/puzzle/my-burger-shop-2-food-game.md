@@ -19,6 +19,6 @@ It’s lunch time! People are excited to visit your new burger shop and try the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 8 Ball Pool, Adventure, Arcade, Arena, Army, Barbie, Block, Bounce, Boy, Boys, Bubble, Bubble Shooter, burger, Candy, Food, Fun, Funny, Game, Games, Girl, Girls, Makeover
+- Tags: .io Games, 8 Ball Pool, Adventure, Arcade, Arena, Army, Barbie, Block, Bounce, Boy, Boys, Bubble, Bubble Shooter, Burger, Candy, Food, Fun, Funny, Game, Games, Girl, Girls, Makeover

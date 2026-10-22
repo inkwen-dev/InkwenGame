@@ -19,6 +19,6 @@ Cosmic Hunt blasts off into a galaxy of hidden words! Explore 8 space-themed cat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Brain, Family, mapi games, Word

@@ -19,6 +19,6 @@ Hard Room Cube is an engaging and challenging game where players navigate a cute
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, amazing, Arcade, Arena, Brain, Casual, Crazy, Escape, Fun, Funny, jump, Puzzle, survival

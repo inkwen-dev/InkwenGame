@@ -19,6 +19,6 @@ My cute pet is a memory card game with super cute animals. With each level the n
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Anime, Boy, Boys, card, Cute, Fun, Funny, Girl, Girls, Kid, Kids, Matching, Math
+- Tags: 1 Player, Animal, Anime, Boy, Boys, Card, Cute, Fun, Funny, Girl, Girls, Kid, Kids, Matching, Math

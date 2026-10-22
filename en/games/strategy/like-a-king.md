@@ -19,6 +19,6 @@ Play Like a king game in your web browser for free at Superkidgames.com and more
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Battle, Boys, Castle, Fun, Girls, HTML5, Kid, Magic, Mobile, Strategy, Tower Defense, War

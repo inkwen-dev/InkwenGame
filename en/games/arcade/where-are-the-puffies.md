@@ -32,4 +32,4 @@ A warm, charming seek-and-find adventure for a quick break or one more cozy leve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, cozy, hidden-object, Kids, mouse, Puzzle
+- Tags: Arcade, cozy, hidden-object, Kids, Mouse, Puzzle

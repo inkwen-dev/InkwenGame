@@ -19,6 +19,6 @@ Enter a wild Halloween arcade showdown! Choose from 11 monsters and battle throu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fight, Fighting, Halloween, mapi games, Monster, Street Fighting, wolf, Zombie
+- Tags: Fight, Fighting, Halloween, mapi games, Monster, Street Fighting, Wolf, Zombie

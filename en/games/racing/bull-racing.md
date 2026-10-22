@@ -19,6 +19,6 @@ Bull Racing is a 3D racing game with a crazy gameplay. Run, collect money and bo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Race, Unity3D, WebGL

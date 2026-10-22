@@ -19,6 +19,6 @@ Draw Save Puzzle - draw one line to save Stickman from the threat! Are you a goo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Best Games, Bird, Brain, Casual, Game, Games, Puzzle, Stickman

@@ -19,6 +19,6 @@ Start the crazy fight with your crash battle cars. Enter the battle with your op
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Android, Boy, Cars, Defense, Fight, Mobile, Skill

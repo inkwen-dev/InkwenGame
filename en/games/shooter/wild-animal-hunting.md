@@ -19,6 +19,6 @@ Feel the fear inside your heart as this wild animal hunting game will take you t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Animal, Arcade, Arena, Shoot, Shoot 'Em Up, Shooter, Shooting

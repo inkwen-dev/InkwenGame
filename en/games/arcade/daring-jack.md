@@ -21,4 +21,4 @@ Jack, an adventurer, was flying over the sea in his small aircraft. When he reac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, Arcade, boat, Brain, Escape, mouse, Puzzle, Strategy
+- Tags: Adventure, Aircraft, Arcade, Boat, Brain, Escape, Mouse, Puzzle, Strategy

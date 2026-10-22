@@ -19,6 +19,6 @@ Bouncy Jigsaw Puzzles The pieces jiggle, bounce, and spring to life as you solve
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Animal, Arcade, Bounce, Casual, Cat, Cute, Fun, Hypercasual, Jigsaw, Kids, Panda, Puzzle

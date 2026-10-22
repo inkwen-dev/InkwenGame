@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 冒险, 安卓, 街机, 躲避, 收集, 有趣, HTML5, 孩子们, Minecraft, 技巧
+- 标签: 冒险, Android, 街机, 躲避, 收集, 乐趣, HTML5, 小孩, 我的世界, 技巧

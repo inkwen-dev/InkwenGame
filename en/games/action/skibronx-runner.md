@@ -19,6 +19,6 @@ Welcome to Skibronx Runner! Here you make your way through the streets in this e
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, amazing, Arcade, Avoid, Best, Boys, Classic, Enemies, Jumping, running

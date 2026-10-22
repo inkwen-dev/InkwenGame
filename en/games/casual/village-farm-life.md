@@ -19,6 +19,6 @@ Farm Life is a game that simulate tasks of farmers who work on a big farm. With 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, farm
+- Tags: 1 Player, Farm

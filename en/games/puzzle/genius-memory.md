@@ -19,6 +19,6 @@ Are you a genius? Are you ready to challenge your memory? We are very happy to i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Match 3, Matching, Memory
+- Tags: Card, Match 3, Matching, Memory

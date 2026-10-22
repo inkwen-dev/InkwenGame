@@ -19,6 +19,6 @@ Christmas is the most awaited holiday. Everyone looks forward to the holidays. T
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Christmas, Cute, Decoration, Educational, Fun, Hidden, Holiday, HTML5, Mobile, Obstacle

@@ -19,6 +19,6 @@ Play great adventure game Toto Adventure. You have 24 levels. Avoid obstacles, c
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure

@@ -19,6 +19,6 @@ Welcome to Crazy Dog Racing Simulator Games 3D. Enjoy this Crazy Dog Racing Simu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 3D, Adventure, Animal, Casual, Hypercasual, Race

@@ -19,6 +19,6 @@ In a fantasy world, you are the master of the plumbers, and every lands call you
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Logic, Pipe, Puzzle

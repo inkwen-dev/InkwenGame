@@ -21,4 +21,4 @@ the Billionaire welcomes you to his Casino with the best Slot machines! Put on y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Best, card, Casino, Casual, Funny, HTML, HTML5, Jelly, Love, WebGL
+- Tags: 2 Player, 2 Player Games, Best, Card, Casino, Casual, Funny, HTML, HTML5, Jelly, Love, WebGL

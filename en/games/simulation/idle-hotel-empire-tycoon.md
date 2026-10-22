@@ -22,4 +22,4 @@ Step into the role of a manager for a small Hotel. Open and upgrade rooms, resta
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, management, tycoon
+- Tags: idle, Management, tycoon

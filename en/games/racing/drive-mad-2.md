@@ -19,6 +19,6 @@ Want to begin a wildly exciting driving challenge? Welcome to Drive Mad 2, the c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Car, Fun, Simulation

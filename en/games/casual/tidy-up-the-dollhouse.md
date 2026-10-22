@@ -19,6 +19,6 @@ The little ones have made a huge mess! Eight colorful rooms are filled with misp
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Android, Baby, Baby Games, Best Games, Cleaning, Girl, Girls, House, HTML5, Kid, Kids

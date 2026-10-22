@@ -19,6 +19,6 @@ In AI Mix Animal, players blend images of diverse animals to create unique hybri
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Animal, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile

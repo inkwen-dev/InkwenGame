@@ -19,6 +19,6 @@ Golf Tour is a game in which you need to drive the golf ball into the hole by mo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Best, Fun, Golf, Mobile, Skill

@@ -19,6 +19,6 @@ You are a famous rapper who gives concerts. Adapt to the rhythms and dance with 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dancing, Game, Music

@@ -19,6 +19,6 @@ Sonic Coloring Book is free html5 coloring game suitable for all ages. Download,
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Coloring, Fun, Games, HTML5, Hypercasual, Kids, Mobile, School

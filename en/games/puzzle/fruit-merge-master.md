@@ -19,6 +19,6 @@ Fruit Merge Master &ndash; The Ultimate Juicy Puzzle Game! Get ready for a fun a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Casual, Fruits, Fun, Matching, Puzzle

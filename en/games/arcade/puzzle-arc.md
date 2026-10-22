@@ -19,6 +19,6 @@ In a world once filled with harmony, a mysterious darkness began spreading acros
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player Games, 2D, 3D Games, Arcade, Puzzle, puzzleblock

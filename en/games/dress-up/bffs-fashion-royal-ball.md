@@ -19,6 +19,6 @@ The annual Royal Ball will be held tonight, and every girl wants to be the most 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Girl, Girls, Kids, Makeover, Princess, Simulation

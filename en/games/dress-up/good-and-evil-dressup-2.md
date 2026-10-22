@@ -19,6 +19,6 @@ Two young girls go to the school of magic to become princesses. But one of the f
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Dress Up, Fashion, Girl, Hair, Halloween, HTML5, Makeover, Princess

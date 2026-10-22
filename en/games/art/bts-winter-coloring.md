@@ -19,6 +19,6 @@ BTS Winter Coloring is a delightful, free online coloring game made just for kid
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Coloring, Draw, Drawing, Girls, Hypercasual, Kids, Winter

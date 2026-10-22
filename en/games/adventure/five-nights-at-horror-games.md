@@ -21,4 +21,4 @@ Welcome to Five Nights at Horror Games, a spine-chilling experience for thrill-s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Android, horror, HTML5, iPad, iPhone, Mentolatux, Mobile, Unity3D
+- Tags: 1 Player, Action, Android, Horror, HTML5, iPad, iPhone, Mentolatux, Mobile, Unity3D

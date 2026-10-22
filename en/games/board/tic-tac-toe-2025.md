@@ -19,6 +19,6 @@ Hook: Classic strategy puzzle game that challenges players to think ahead Featur
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Board, Brain, Classic, Family, HTML5, Logic, Mobile, Puzzle, Strategy

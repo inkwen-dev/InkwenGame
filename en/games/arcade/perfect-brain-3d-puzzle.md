@@ -19,6 +19,6 @@ Ready? Solve! Boost that BIG BRAIN IQ to the next dimension! IN 3D! With all of 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Puzzle

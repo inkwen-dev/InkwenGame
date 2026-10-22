@@ -19,6 +19,6 @@ Start your engines and put your memory to the ultimate test in Pixel Car Memory 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Cars, Educational, Fun, Hypercasual, Kids, Logic, Memory

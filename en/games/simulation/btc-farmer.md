@@ -19,6 +19,6 @@ BTC Farmer is an instant money idle clicker game that offers a virtual crypto mi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Click, Clicker, Hypercasual, management, Miner
+- Tags: Arcade, Casual, Click, Clicker, Hypercasual, Management, Miner

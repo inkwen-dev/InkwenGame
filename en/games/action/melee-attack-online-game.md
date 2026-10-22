@@ -19,6 +19,6 @@ Do you love playing online jump platformer games? Well, get ready to experience 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Game, Games, HTML5, Platform

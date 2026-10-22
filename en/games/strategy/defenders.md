@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Army, Baby, Ben 10, Cartoon, Casual, Defense, Fun, Funny, Hypercasual, Kid, Kids, Kill, Killing, King, Mario, Skill, Skills, Superhero, Sword, Tower Defense

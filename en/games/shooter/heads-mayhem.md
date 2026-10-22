@@ -19,6 +19,6 @@ A super adventure full of action begins with Heads Mayhem! Eleven different funn
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, Arena, Battle, Gun, weapons

@@ -19,6 +19,6 @@ Ready to destroy and earn? In this sandbox clicker, its simple: choose your weap
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, attack, Clicker, destroy, destroying, endless, Fun, Gun, Kill, Killing, Sandbox, weapons

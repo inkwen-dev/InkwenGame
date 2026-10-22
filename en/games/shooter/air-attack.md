@@ -19,6 +19,6 @@ Air Attack is a new kind of game where you shoot down enemy planes and try to su
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Air, Aircraft, Arcade, Game, Games, HTML5, Shoot, Shooter, Shooting

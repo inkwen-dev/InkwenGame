@@ -19,6 +19,6 @@ Welcome to the Fresh Spring Style game. Rainbow high school girls Sunny, Skyler,
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Disney, Dress Up, Fun, Girls, HTML5, Kids, Makeover

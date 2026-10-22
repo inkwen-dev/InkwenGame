@@ -19,6 +19,6 @@ Styledoll Fashion Show You can have your own gorgeous runway! Ready to have fun?
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Baby, Baby Hazel, Barbie, Boys, Design, Disney, Dress Up, Fashion, Girl, Girls, Kids, Kiss, Love, Makeover, Unity3D

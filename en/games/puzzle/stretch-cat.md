@@ -19,6 +19,6 @@ Complete each level in the longest form possible. Cat’s body part will be coll
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cat, Cool, Cute, Game, Games, Mind, Point And Click, Puzzle

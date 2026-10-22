@@ -30,4 +30,4 @@ Lead your army to victory and protect America from hostile forces
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Army, Boys, management, Strategy, tycoon, War
+- Tags: Action, Army, Boys, Management, Strategy, tycoon, War

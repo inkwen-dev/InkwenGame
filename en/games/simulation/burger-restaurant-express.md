@@ -21,4 +21,4 @@ Role in today's game is to make tasty burgers in your restaurant. The beginning 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Baby, Baby Hazel, burger, Cook, Cooking, Girl, Girls
+- Tags: 1 Player, 2D, Baby, Baby Hazel, Burger, Cook, Cooking, Girl, Girls

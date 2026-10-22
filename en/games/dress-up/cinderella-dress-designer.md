@@ -19,6 +19,6 @@ Cinderella is going to the ball where she will meet Prince Charming. Before this
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girl, Makeover, Princess

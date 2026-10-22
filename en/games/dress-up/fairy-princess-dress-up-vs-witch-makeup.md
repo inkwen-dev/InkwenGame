@@ -19,6 +19,6 @@ Help the witch or elf win the beauty contest and then date the most handsome boy
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Adventure, Arcade, Cartoon, Casual, Dress Up, Fashion, Frozen, Fun, Games, Girl, Girls, Hypercasual, Kids, Online, Princess

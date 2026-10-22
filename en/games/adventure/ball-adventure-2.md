@@ -19,6 +19,6 @@ Crazy Ball 2 is a platformer game in which the player has to pick as many stars 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Ball, Highscore, Unity3D, WebGL

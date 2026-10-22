@@ -19,6 +19,6 @@ In the fairy-tale forest in which Luni Tunz lives, it became so boring that some
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, card, Cartoon, Cartoon Network, Multiplayer
+- Tags: 2 Player, 2 Player Games, Card, Cartoon, Cartoon Network, Multiplayer

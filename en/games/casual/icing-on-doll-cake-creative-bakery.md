@@ -19,6 +19,6 @@ This game is a piece of cake! Relax and create beautiful dresses, full of style 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cake, Creation, Decorate, Design, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Princess

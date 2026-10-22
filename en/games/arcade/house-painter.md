@@ -19,6 +19,6 @@ White houses are boring. Bring the colors in and paint everything in seconds! To
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Brain, Casual, Color, Coloring, Cute, Decorate, Decoration, Design, Fun, Hypercasual, Logic, Puzzle

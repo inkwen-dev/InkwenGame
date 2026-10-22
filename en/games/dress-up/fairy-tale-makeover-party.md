@@ -19,6 +19,6 @@ I bet you must really like fairy tales. Those princesses, princes, mermaids, fai
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Cute, Dress Up, Fashion, Girl, Girls, Halloween, Kids, Princess, Simulation

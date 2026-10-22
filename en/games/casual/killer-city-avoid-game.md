@@ -19,6 +19,6 @@ Once the stickman woke up and realized that everything had changed around. Outwa
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Boy, Boys, Collecting, Collection, Fun, H5, HTML5, Kid, Kids, Kill, run

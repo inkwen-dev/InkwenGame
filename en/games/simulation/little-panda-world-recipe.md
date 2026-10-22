@@ -19,6 +19,6 @@ In Little Panda World Recipe, the baby will get a new identity, cooking master, 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cook, Cooking, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation

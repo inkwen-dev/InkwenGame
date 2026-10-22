@@ -21,4 +21,4 @@ MATRIX MAN: OVERRIDE Escape the System, Become the Glitch! The world is a lie, a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, First Person Shooter, fps, Impostor, Killing, Shoot 'Em Up, Shooter, Shooting, train
+- Tags: .io, First Person Shooter, fps, Impostor, Killing, Shoot 'Em Up, Shooter, Shooting, Train

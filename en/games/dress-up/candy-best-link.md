@@ -19,6 +19,6 @@ Connect 2 matching cards using three or fewer straight lines to clear cards, cle
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, Barbie, Candy, Craft, Dress Up, Kids, Puzzle

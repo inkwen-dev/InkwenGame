@@ -21,4 +21,4 @@ In this idle game, simplicity is key! Tap your way to success as you build and e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: easy, idle, management, Shopping
+- Tags: easy, idle, Management, Shopping

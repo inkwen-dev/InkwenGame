@@ -17,4 +17,4 @@ Immerse yourself in Remove Balls, a vibrant match-3 puzzler where swift decision
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

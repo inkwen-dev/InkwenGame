@@ -19,6 +19,6 @@ Puppy Super Dog Coloring Book can benefit your brain. It is excellent for our he
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Best, Cartoon, Cartoon Network, Coloring, Draw, Drawing, Fun, Kids, Online

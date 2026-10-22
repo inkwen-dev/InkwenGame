@@ -21,4 +21,4 @@ Welcome to this amazing Cards memory game! Look carefully and remember cards! Ta
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best, card, Clicker, Hot, Matching, Memory, Puzzle
+- Tags: Best, Card, Clicker, Hot, Matching, Memory, Puzzle

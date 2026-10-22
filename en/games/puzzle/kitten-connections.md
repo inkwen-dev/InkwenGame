@@ -19,6 +19,6 @@ Kitten Connections is a heartwarming puzzle adventure where adorable kittens nee
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Brain, Cat, Puzzle

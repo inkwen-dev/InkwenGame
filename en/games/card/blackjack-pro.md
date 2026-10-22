@@ -21,4 +21,4 @@ This fun game is built for Blackjack lovers, test your luck and skills in this c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casino, Casual, Hypercasual
+- Tags: Card, Casino, Casual, Hypercasual

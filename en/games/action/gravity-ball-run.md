@@ -19,6 +19,6 @@ The ball can move against gravity. Move the ball up or down by touching the scre
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Ball, Boys, Fun, Game, Girls, HTML5, jump, run

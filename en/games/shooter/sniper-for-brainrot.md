@@ -19,6 +19,6 @@ Use your sniper rifle to hit the balloon above a Brainrot, instantly transform i
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Brainrot, roblox, Shooting, Sniper

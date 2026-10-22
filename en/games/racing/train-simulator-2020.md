@@ -21,4 +21,4 @@ Drive your train in some beautiful landscape in this Train Simulator 3D game. Dr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Driving, Simulator, train, WebGL
+- Tags: 3D, Driving, Simulator, Train, WebGL

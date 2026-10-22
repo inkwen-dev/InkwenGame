@@ -19,6 +19,6 @@ The incredible mandala coloring book for adults, 100+ beautiful mandala coloring
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Best, Cartoon, Cartoon Network, Casual, Fantasy, Hypercasual

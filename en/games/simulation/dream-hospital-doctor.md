@@ -19,6 +19,6 @@ Dream Hospital Doctor is a frantic hospital game in which you are an accident an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Fun, Funny, Girl, Girls, Kid, Kids, Simulation, Simulator, Surgery

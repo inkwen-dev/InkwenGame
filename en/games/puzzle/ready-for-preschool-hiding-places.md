@@ -19,6 +19,6 @@ It's possible now to play Ready for Preschool Hiding Places game in your web bro
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, Baby, Baby Hazel, Barbie, Ben 10, Boy, Boys, Brain, Candy, Cartoon, Cartoon Network, Disney, Fun, Girl, Girls, HTML5, Kid, Kids, Mobile, Puzzle, School, Spiderman

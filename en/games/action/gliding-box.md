@@ -19,6 +19,6 @@ Just slide and get ready to jump. Show your reflexes and your patience. If you w
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Casual, Funny, Game, Games, Girl, Kids, Platform, run

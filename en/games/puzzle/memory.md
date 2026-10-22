@@ -19,6 +19,6 @@ Are you a genius? Are you ready to challenge your memory? We are very happy to i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Brain, Casual, Fun, Funny, Girl, Girls, Hypercasual, Kid, Kids, Math, Memory, Puzzle

@@ -19,6 +19,6 @@ This is a classic puzzle game presented in a clean, minimalist style. The goal i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, amazing, Best Games, Block, Classic, endless, free html5 games for your website, Funny, Logic, Puzzle, Skill, Tetris

@@ -19,6 +19,6 @@ Sofia has now become a cake master. She can make all kinds of complicated and be
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Cooking, Cute, Decorate, Fashion, Girl, Girls, Kids, Simulation

@@ -19,6 +19,6 @@ Drop the magical yellow Christmas Sphere into the festive Pachinko board and wat
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Casual, Christmas, mapi games, Physics, Santa, Snow, Sport

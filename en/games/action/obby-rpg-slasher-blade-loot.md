@@ -37,4 +37,4 @@ Progress through levels, unlock new areas, grow more powerful, and defeat increa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Fighting, obby, rpg
+- Tags: Fighting, obby, RPG

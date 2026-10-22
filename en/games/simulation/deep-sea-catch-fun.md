@@ -21,4 +21,4 @@ Deep Sea Catch Fun is an exciting fish-catching adventure where a clever cat div
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: catch, fishing, Shoot
+- Tags: catch, Fishing, Shoot

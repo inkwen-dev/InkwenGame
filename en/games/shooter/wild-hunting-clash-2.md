@@ -21,4 +21,4 @@ Challenge yourself and hunt beautiful animals in stunningly luscious woods. The 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Animal, hunting, Shoot, Shooting
+- Tags: 3D, 3D Games, Animal, Hunting, Shoot, Shooting

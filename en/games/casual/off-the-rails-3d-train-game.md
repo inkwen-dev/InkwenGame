@@ -21,4 +21,4 @@ Off the rails 3d is a relaxing driving game! Cute cartoon pictures, origami-styl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, Fun, H5, HTML5, Kid, Kids, train
+- Tags: 3D, 3D Games, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Train

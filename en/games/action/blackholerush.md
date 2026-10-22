@@ -19,6 +19,6 @@ You are a predatory black hole in a city! You have to devour surrounding objects
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Battle, Best, Brain, city, Classic, Game, Games, Hypercasual, Play

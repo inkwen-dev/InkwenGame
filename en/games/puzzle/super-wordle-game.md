@@ -19,6 +19,6 @@ Super Wordle Game is a great puzzle that can challenge your vocabulary. You need
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Kids, Letters, Logic, Mobile, Skill, Word

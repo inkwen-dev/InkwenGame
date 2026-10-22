@@ -47,4 +47,4 @@ Watch the jar fill up as jellies merge into more valuable forms and your score g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, management, merge
+- Tags: Clicker, idle, Management, merge

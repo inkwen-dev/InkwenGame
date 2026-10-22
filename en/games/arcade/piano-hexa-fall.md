@@ -19,6 +19,6 @@ Piano Hexa Fall challenges players to strategically drop hexagonal blocks onto a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Puzzle, Unity3D, WebGL

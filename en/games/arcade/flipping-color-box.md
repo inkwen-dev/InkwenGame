@@ -19,6 +19,6 @@ Cube Flip! Make the jumping cube flip to land with the color match and complete 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boxing, HTML5, jump, Kids, Mobile, Puzzle

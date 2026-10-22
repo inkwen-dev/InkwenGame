@@ -33,4 +33,4 @@ Hidden Objects: Island Secrets is an exciting hidden object game where magic and
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, hidden-object, mouse, story
+- Tags: Brain, hidden-object, Mouse, story

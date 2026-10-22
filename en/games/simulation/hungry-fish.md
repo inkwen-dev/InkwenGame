@@ -21,4 +21,4 @@ Looking for some fun? Play the online free game of hungry fish! The game is simp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Fish, fishing
+- Tags: Action, Fish, Fishing

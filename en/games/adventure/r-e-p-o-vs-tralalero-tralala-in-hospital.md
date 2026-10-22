@@ -17,4 +17,4 @@ Navigate the eerie corridors of an abandoned hospital as you engage in a slow, t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

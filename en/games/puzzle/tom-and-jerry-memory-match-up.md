@@ -21,4 +21,4 @@ It's possible now to play Tom and Jerry Memory Match Up game in your web browser
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adult, Adventure, Board, Boys, Brain, card, Cartoon, Cartoon Network, Cat, Family, Fun, Girls, HTML5, Kids, Match 3, Match3, Matching, Mobile, Puzzle
+- Tags: Adult, Adventure, Board, Boys, Brain, Card, Cartoon, Cartoon Network, Cat, Family, Fun, Girls, HTML5, Kids, Match 3, Match3, Matching, Mobile, Puzzle

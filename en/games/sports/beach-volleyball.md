@@ -19,6 +19,6 @@ When it's too hot, we all go to the beach. We can sunbathe on the beach and have
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Ball, Mobile, Multiplayer, New, Sport, Sports

@@ -19,6 +19,6 @@ Get the whole field ready for planting, beat the levels and push the limits of y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Brain, Casual, Collecting, farm, Mine, Minecraft, Mobile
+- Tags: 3D, 3D Games, Brain, Casual, Collecting, Farm, Mine, Minecraft, Mobile

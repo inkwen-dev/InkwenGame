@@ -19,6 +19,6 @@ In Stack Road game, collect the rollers on the roads and build bridges for yours
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Casual, Fun, Funny, Hypercasual, Stickman

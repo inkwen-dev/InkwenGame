@@ -19,6 +19,6 @@ I am waiting for the Christmas. I hope this Christmas can be celebrated it in a 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Dress Up, Girl, Girls, Holiday

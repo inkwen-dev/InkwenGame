@@ -19,6 +19,6 @@ Enchanted Mahjong Saga is a fast-paced twist on the classic tile-matching game, 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Board, Fantasy, html5 games, Logic, Mahjong, Matching, Mobile

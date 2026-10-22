@@ -1,0 +1,24 @@
+# 喷气式战斗机
+
+<a href="https://inkwengame.com/zh/games/jet-fighter" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/jet-fighter/cover.jpg)
+
+喷气式战斗机 - 是一款有趣的游戏，你需要拖动并控制喷气式飞机来保护自己！
+
+## 怎么玩
+
+使用鼠标拖动并射击宇宙飞船
+
+## 介绍
+
+喷气式战斗机 - 是一款有趣的游戏，你需要拖动并控制喷气式飞机来保护自己！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/shooter" target="_blank" rel="noopener noreferrer">射击</a>
+- 画面方向: portrait
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 军队, 防御, 射击, 射击游戏, 射手, 太空, 太空飞船

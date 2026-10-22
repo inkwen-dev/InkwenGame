@@ -19,6 +19,6 @@ Take part in an amazing tennis match and enjoy the swift and fluent game. Practi
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 3D, Clicker, kiz10, Sport

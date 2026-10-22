@@ -19,6 +19,6 @@ Taylor and dad will visit uncle James, a man who lives on a farm with lots of an
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -19,6 +19,6 @@ Challenge your friends to play for two and see which is the best in the hand gam
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Escape, Funny, Interactive Fiction

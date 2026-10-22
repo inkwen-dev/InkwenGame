@@ -41,4 +41,4 @@ Each cycle brings the world back to the beginning, but the campfire's progress a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Crafting, pve, rpg, story, survival
+- Tags: Adventure, Crafting, pve, RPG, story, survival

@@ -19,6 +19,6 @@ A spooky-cute arcade puzzler where you control a quirky little steampunk cannon.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bubble Shooter, horror, Zuma
+- Tags: Bubble Shooter, Horror, Zuma

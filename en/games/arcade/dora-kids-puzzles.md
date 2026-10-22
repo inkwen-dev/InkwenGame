@@ -19,6 +19,6 @@ Dora Kids Puzzles is fun online game suitable for all ages. Small kids will love
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Dora, Fun, Girls, HTML5, Kids, Mobile, Puzzle

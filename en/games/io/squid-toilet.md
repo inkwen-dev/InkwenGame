@@ -19,6 +19,6 @@ SQID SKIBIDI is mixed game between each of squid game and squibidi its a really 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, Android, HTML5, iPhone, Mobile, Puzzle, Skibidi, Skibidi Toilet, Skill

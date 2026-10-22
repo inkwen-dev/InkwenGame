@@ -19,6 +19,6 @@ Become a real trickster in our new simulator of parkour madness Backflip Parkour
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Boys, Fun, Girls, HTML5, jump, Jumping, Mobile, Sport

@@ -19,6 +19,6 @@ Welcome to Kisan Smart Farmer game. This game is especially designed for those f
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: farm, HTML5, Simulation, Simulator, WebGL
+- Tags: Farm, HTML5, Simulation, Simulator, WebGL

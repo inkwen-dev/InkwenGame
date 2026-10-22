@@ -19,6 +19,6 @@ Here is a Formula car racing simulation game for you to play. There are twenty r
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Driving, HTML5, Kid, Mobile, Racing, Simulation

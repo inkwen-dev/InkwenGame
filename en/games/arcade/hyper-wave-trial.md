@@ -19,6 +19,6 @@ Control the Wave, avoid obstacles, collect coins, and reach the end of each leve
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, arrow, Avoid, Boy, Casual, Click, Collecting, dash, Geometry, Hypercasual, onetouch, sound, touch

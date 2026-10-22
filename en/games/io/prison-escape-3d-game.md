@@ -21,4 +21,4 @@ Make a plan to escape from the prison and watch out from the guards. Draw the es
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Air, Android, Anime, Arena, Army, Avoid, Baby, Baby Hazel, Balance, Ball, Barbie, Boy, Boys, Brain, Chicken, Defense, Escape, Family, Girls, Matching, prison, Rescue
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, 3D Games, Action, Adult, Adventure, Air, Android, Anime, Arena, Army, Avoid, Baby, Baby Hazel, Balance, Ball, Barbie, Boy, Boys, Brain, Chicken, Defense, Escape, Family, Girls, Matching, Prison, Rescue

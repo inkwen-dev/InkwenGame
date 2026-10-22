@@ -19,6 +19,6 @@ Are you ready to challenge your mind with an exciting puzzle game? In Stamped it
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, Brain, Creation, Easter, Levels, Logic, Puzzle, Sports, unity games

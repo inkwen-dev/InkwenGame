@@ -19,6 +19,6 @@ Spin fidgets to crash others and stop them to win! Are you ready to be the maste
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arcade, Block, Casual, Fun, Funny, Hot, Hypercasual, Unity3D

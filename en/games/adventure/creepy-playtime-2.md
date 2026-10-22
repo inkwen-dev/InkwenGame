@@ -21,4 +21,4 @@ You woke up backstage, filled with monsters and mysteries! The locals do not lik
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, horror
+- Tags: 1 Player, 3D Games, Horror

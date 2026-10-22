@@ -19,6 +19,6 @@ If you love all things cars or enjoy playing memory, then this game is for you! 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Casual, Puzzle, Super

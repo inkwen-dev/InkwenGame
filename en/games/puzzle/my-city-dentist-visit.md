@@ -21,4 +21,4 @@ The city is excited, the dentist and his family have moved in! My City : Dentist
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Boys, Bubble, Bubble Shooter, burger, Candy, Car, Collecting, Collection, Color, Cooking, Food, Fun, Game, Games, Girl, Girls, Hypercasual
+- Tags: 3D Games, 8 Ball Pool, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Billiard, Board, Boys, Bubble, Bubble Shooter, Burger, Candy, Car, Collecting, Collection, Color, Cooking, Food, Fun, Game, Games, Girl, Girls, Hypercasual

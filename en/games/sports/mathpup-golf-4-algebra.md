@@ -19,6 +19,6 @@ MathPup loves golf and algebra. This educational golf game combines both of thos
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Educational, Golf, Math

@@ -19,6 +19,6 @@ Duck Bow Hunt is a classic arcade duck shooting game using a bow and arrows. The
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Funny

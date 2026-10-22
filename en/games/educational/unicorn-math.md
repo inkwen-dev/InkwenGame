@@ -19,6 +19,6 @@ Do you also struggle with your math grades and are always uninterested in the su
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Brain, Educational, HTML5, Kids, Math, Mobile, Puzzle, Skill

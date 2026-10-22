@@ -19,6 +19,6 @@ Transportation Vehicles Memory is a free online game from genre of memory and mo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Kids, Memory, Mobile, Puzzle

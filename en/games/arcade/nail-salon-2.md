@@ -19,6 +19,6 @@ Welcome to Beauty Girl Nail Salon! Hand nail configuration, nail easy and severa
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D, Adventure, Arcade, Barbie, Ben 10, Girl, Girls, Nail, Nails

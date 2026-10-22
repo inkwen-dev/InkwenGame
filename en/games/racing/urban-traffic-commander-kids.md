@@ -19,6 +19,6 @@ Traffic Commander - Kids is an easy version of Traffic Commander game by Immanit
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, management, Puzzle, Traffic
+- Tags: Car, Management, Puzzle, Traffic

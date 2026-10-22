@@ -19,6 +19,6 @@ What great way to show off a new trend than getting a manicure with this nail sa
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2D, Android, Arcade, Fashion, Girl, Girls, HTML5, Mobile, Nail

@@ -21,4 +21,4 @@ Are you like Princess Aurora? and you want play the new Of Princess Games Prince
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Match 3, Match3, Matching
+- Tags: Match-3, Match3, Matching

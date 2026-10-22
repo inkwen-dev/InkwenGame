@@ -19,6 +19,6 @@ Spider Zombie is a challenging game with a lot of levels to play. Swing your Spi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best, Halloween, Holiday, HTML, HTML5, Mobile, Physics, Simulation

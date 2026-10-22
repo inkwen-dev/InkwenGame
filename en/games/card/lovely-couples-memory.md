@@ -19,6 +19,6 @@ Click the cards to reveal a couple. Memorize it so that you can match to similar
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, card, Fun, Girl, HTML, HTML5, Kids, Love, Matching, Memory, Mobile
+- Tags: Arcade, Card, Fun, Girl, HTML, HTML5, Kids, Love, Matching, Memory, Mobile

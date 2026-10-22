@@ -19,6 +19,6 @@ Pull the Pin Rescue is a rescue game that you need to pull out the pin in the ri
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Animal, Boy, Brain, Girl, H5, HTML5, Kids, Logic, Logical, Mobile, Online, Platform, Puzzle

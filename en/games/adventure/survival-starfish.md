@@ -19,6 +19,6 @@ Survival Starfish is an online game that challenges players to survive underwate
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Fun, Funny, Game, Games, HTML5, Hypercasual, Online

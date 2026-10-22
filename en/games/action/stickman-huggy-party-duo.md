@@ -19,6 +19,6 @@ Red and Blue Huggy Stickmen need to work together to escape the terrifying templ
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Adventure, huggy, Platform, Poppy Playtime

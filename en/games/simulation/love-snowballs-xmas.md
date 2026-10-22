@@ -19,6 +19,6 @@ Draw lines to help each pair of Snowmen to get back together. Be their hero! Pla
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Christmas, Game, Holiday, HTML5, Mobile, Physics, Relaxation, Simulation

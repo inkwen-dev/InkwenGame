@@ -19,6 +19,6 @@ Experience Princess Horse Club for free, an addictive equestrian adventure game!
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Dress Up, Educational, Fantasy, farm, Fashion, Forest, Fun, Grooming, Hair, Horse, HTML5, Kids, Mobile, Princess
+- Tags: Dress Up, Educational, Fantasy, Farm, Fashion, Forest, Fun, Grooming, Hair, Horse, HTML5, Kids, Mobile, Princess

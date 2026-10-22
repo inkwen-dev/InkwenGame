@@ -19,6 +19,6 @@ The lava is coming! Hurry up Ninja! Skateboard down the mountain, collect the da
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Best, Fun, HTML5, Mobile, Physics, run, running, Simulation, Skateboard

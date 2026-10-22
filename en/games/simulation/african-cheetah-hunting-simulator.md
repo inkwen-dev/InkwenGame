@@ -21,4 +21,4 @@ In this game, the cheetah needs to find and hunt zebras. Many levels are waiting
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Animal, hunter, hunting, Mentolatux, Simulator, Skill, Unity3D, WebGL
+- Tags: Action, Animal, hunter, Hunting, Mentolatux, Simulator, Skill, Unity3D, WebGL

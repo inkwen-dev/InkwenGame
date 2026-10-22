@@ -19,6 +19,6 @@ Welcome to Avatar The Way Of Love. Can you guess what day it is? Okay, maybe we 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decoration, Dress Up, Girls, Love

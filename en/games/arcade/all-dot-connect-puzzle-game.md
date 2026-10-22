@@ -19,6 +19,6 @@ One Line with One Touch is a simple way to get some brain training exercise ever
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 2D, 3D, Adventure, Arcade, Best Games, free games for your site, free games for your website, free html5 games for your website, Hypercasual, Puzzle

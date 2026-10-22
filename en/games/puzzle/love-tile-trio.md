@@ -19,6 +19,6 @@ Welcome to the Valentines Day tile matching game! Your mission is to match and c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Love, Match 3, Matching, Mobile, Puzzle, sorting, Stack, valentine

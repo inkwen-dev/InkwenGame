@@ -19,6 +19,6 @@ Touch Down this is a very interesting sports game. Train to improve your stats f
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Boys, Football, HTML5, run, running, Sport, Sports, WebGL

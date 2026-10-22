@@ -17,4 +17,4 @@ Dive into a mind-bending card puzzle where classic solitaire meets strategic sor
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

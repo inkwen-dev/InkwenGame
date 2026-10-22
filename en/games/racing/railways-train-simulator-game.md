@@ -19,6 +19,6 @@ Welcome to Train Parking Game, the most fun and realistic train driving game whe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Driving, mountain, Parking, train
+- Tags: 2025 games, Driving, mountain, Parking, Train

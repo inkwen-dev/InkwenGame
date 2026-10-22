@@ -21,4 +21,4 @@ Step into the thrilling world of Forest Camp, a challenging escape game set in a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, amazing, Animal, attack, Boys, Casual, Click, Clicker, Collection, Forest, Hypercasual, Kids, Platform, wolf
+- Tags: Adventure, amazing, Animal, attack, Boys, Casual, Click, Clicker, Collection, Forest, Hypercasual, Kids, Platform, Wolf

@@ -19,6 +19,6 @@ Welcome to the cooking mania master chef cook game 2020 featured with time manag
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: burger, Cook, Cooking
+- Tags: Burger, Cook, Cooking

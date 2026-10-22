@@ -21,4 +21,4 @@ Protect your home from endless waves of zombies! Defeat zombies to collect coins
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, horror, Shoot, survival, Zombie
+- Tags: Action, Horror, Shoot, survival, Zombie

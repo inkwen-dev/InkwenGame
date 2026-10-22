@@ -19,6 +19,6 @@ Get ready to proceed to next-generation the flying cars games with the Flying Ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D Games, Aircraft, Best, Car, Driving, Race, Racing, Space

@@ -40,4 +40,4 @@ You are a hunter of places with dark histories. Enter the house. Look. Prove wha
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, horror, Point And Click, scary
+- Tags: 3D, Adventure, Horror, Point And Click, scary

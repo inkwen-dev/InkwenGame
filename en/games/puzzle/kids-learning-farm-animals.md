@@ -21,4 +21,4 @@ This is kids learning games where you can learn farm animals. When you click on 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, farm, Memory, Puzzle
+- Tags: Animal, Farm, Memory, Puzzle

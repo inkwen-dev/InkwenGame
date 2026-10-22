@@ -19,6 +19,6 @@ Time for a Fishing!
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Action, Adult, Adventure, Arcade, Board, Casual, Fish, fishing, Hypercasual, PacMan, sky, Space
+- Tags: .io Games, Action, Adult, Adventure, Arcade, Board, Casual, Fish, Fishing, Hypercasual, IO, PacMan, sky, Space

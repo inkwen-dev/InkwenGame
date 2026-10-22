@@ -19,6 +19,6 @@ Learn the various geometric shapes, such as circles, squares, triangles and rect
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Best, Best Games, Cartoon, Clicker, Coloring, Draw, Drawing, Educational, HTML5, Kids, School

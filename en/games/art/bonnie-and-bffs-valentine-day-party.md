@@ -19,6 +19,6 @@ Bonnie and her BFFs are getting ready for Valentines Day party. This is one of t
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Baby Hazel, Celebrity, Coloring, Dating, Decorate, Design, Disney, Frozen, Girl, Girls, Mermaid

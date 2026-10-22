@@ -19,6 +19,6 @@ The Among Us Unstoppable, Amongus character is waiting for you to help him on an
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Android, Boy, Kids, Mobile, Obstacle, Platform, running

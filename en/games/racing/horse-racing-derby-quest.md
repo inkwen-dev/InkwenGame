@@ -19,6 +19,6 @@ In the game HORSE RACING : DERBY QUEST (a horse race game), you play as a young 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Horse, Race, Racing

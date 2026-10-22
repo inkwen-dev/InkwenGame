@@ -19,6 +19,6 @@ Drone simulator is a great game for every drone lover. Enjoy realistic flight. C
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Air, Arcade, Best, Flight, fly, Fun, Funny, HTML5, Unity3D, WebGL

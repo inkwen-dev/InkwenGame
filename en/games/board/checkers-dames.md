@@ -19,6 +19,6 @@ Hi gamers, I created my Checkers app as an example of a good checkers game for m
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, HTML5, Mobile

@@ -21,4 +21,4 @@ Fishing Jigsaw that gives you the perfect free jigsaw puzzle experience. Solving
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Fish, fishing, Fun, Jigsaw, Mobile, Skill
+- Tags: Arcade, Fish, Fishing, Fun, Jigsaw, Mobile, Skill

@@ -19,6 +19,6 @@ Test your intellect and have a lot of fun! Think outside the box, train your bra
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boys, Brain, Casual, Family, Funny, Girls, HTML5, Kid, Kids, Logic, Logical, Memory, Puzzle, WebGL

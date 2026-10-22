@@ -19,6 +19,6 @@ Stack them up! Move and stack up the tiles higher and higher on the maze. Try to
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boys, HTML, HTML5, Maze, Obstacle, Stack, Strategy

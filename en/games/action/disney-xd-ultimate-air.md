@@ -19,6 +19,6 @@ It's possible now to play the Disney XD: Ultimate Air game in your web browser f
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Anime, Avoid, Battle, Bike, Boys, Brain, Cartoon, Disney, Family, Fun, Girls, HTML5, Platform, Super, Supercars, Superhero

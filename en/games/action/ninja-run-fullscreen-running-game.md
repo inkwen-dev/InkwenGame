@@ -19,6 +19,6 @@ Mobile-friendly, fullscreen game play experience. The Ninja is running to his de
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Jumping, Mobile, Ninja, Platform, running

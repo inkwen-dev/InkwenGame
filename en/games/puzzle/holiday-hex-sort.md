@@ -19,6 +19,6 @@ In Holiday Hex Sort, drag and drop hex tile stacks onto the board. Merge tiles t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, hex, Holiday, Matching, Puzzle, sort, sorting

@@ -19,6 +19,6 @@ Honey Collector Bee Game is an online platformer about a bee who collects flower
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Avoid, Collecting, Collection, Game, Games, Simulator

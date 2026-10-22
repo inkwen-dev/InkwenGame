@@ -21,4 +21,4 @@ Welcome to Food Truck Chef Cooking, a casual food cooking simulation game online
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Cooking, Food, Truck
+- Tags: Card, Cooking, Food, Truck

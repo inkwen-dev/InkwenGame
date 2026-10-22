@@ -19,6 +19,6 @@ Get behind the wheel and explore the world of cycles, where you'll find a pletho
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Bike, Driving, HTML5, Mobile

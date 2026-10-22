@@ -19,6 +19,6 @@ Snow White Hidden Stars is a point-and-click game for all ages. The objective of
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hidden, Point And Click

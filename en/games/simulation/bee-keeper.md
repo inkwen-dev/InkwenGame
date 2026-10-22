@@ -21,4 +21,4 @@ In Beekeeper, begin an exciting adventure in the world of bee farming! This fun 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Simulation
+- Tags: Farm, Simulation

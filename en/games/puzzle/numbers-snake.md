@@ -19,6 +19,6 @@ Number Snake is an interesting brain puzzle game. In one way it is similar to al
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Logical, Math, Number, Puzzle, Snake

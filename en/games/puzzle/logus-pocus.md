@@ -19,6 +19,6 @@ Collect golds and try to reach the gate, you can jump onto spikes to make yourse
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Brain, Pixel, Puzzle

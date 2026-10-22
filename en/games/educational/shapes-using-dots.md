@@ -19,6 +19,6 @@ Shapes Using Dots is a fun and challenging puzzle game that tests your spatial r
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: blocky, Educational

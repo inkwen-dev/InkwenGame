@@ -17,4 +17,4 @@ Embark on a serene yet thrilling journey in Fishing Baron Real Fishing, where ev
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

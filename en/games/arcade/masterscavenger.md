@@ -19,6 +19,6 @@ Turn trash into treasure with Master Scavenger! Dive into massive scrap piles wi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, War, Zombie

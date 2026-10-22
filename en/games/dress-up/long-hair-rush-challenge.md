@@ -19,6 +19,6 @@ Are you ready for a massive long Hair Challenge? This is an adventure in which y
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Action, Best Games, Casual, Color, endless, Fun, Games, Hair, HTML5, Obstacle, run, unity games

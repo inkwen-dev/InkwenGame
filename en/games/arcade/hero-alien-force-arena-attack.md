@@ -19,6 +19,6 @@ Alien Hero Arena force d'attaque Mega Transform War est un jeu de combat 3D où 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player

@@ -19,6 +19,6 @@ More than just parking: open-world multiplayer mode, car tuning, free walking! T
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, 3D, Action, Adult, Adventure, Arcade, Car, Cars, Race, Racing

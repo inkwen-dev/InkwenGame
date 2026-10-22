@@ -21,4 +21,4 @@ Guess you must want to be a dessert blogger at some point in your life. In our g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Cook, Cooking, Fun, Girl, Girls, H5, HTML5, Kid, Kids, movie
+- Tags: Animal, Cook, Cooking, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Movie

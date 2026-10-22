@@ -19,6 +19,6 @@ Catch The Cat new addictive fun game that aims to trap the cat and prevent it fr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Cat, Mobile, New, Puzzle

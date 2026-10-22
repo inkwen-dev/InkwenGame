@@ -19,6 +19,6 @@ Welcome to the city truck cargo game. Experience the thrill of driving a truck t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Action, Adventure, Racing, Simulation, Simulator, Truck, trucks

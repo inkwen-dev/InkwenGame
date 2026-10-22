@@ -19,6 +19,6 @@ Ghost Inn is a survival horror game set in ancient China. Defend your inn from v
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arena, Defense, Escape, horror, Tower Defense
+- Tags: Arena, Defense, Escape, Horror, Tower Defense

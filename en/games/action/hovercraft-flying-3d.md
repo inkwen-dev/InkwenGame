@@ -19,6 +19,6 @@ Hovercraft Flying 3D is an attractive game that you can not miss it. Click the s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, fly, Kids, Mobile, Platform, Puzzle, Skill, Unity3D

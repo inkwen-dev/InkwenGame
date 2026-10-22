@@ -19,6 +19,6 @@ Zombie Apocalypse Bunker Survival Z online free to play against much enemy AI li
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shoot, Shooting, Unity3D, WebGL

@@ -21,4 +21,4 @@ One more apple... but will your tail still fit? SNACK &amp; WARP is a colorful p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, Casual, Logic, Physics, Snake, WebGL, worm
+- Tags: 1 Player, 2D, Brain, Casual, Logic, Physics, Snake, WebGL, Worm

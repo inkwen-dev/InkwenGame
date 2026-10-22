@@ -19,6 +19,6 @@ Micro Golf is a game in which you need to score golf balls in holes and tray to 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Best, Fun, Funny, Golf, Logic, Skill, Sport

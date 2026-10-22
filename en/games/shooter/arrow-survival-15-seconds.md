@@ -19,6 +19,6 @@ Dodge and shoot to survive 15 seconds! Master 40 levels of arrow chaos in this f
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, arrow, arrows, Bow, Casual, free games for your site, free games for your website, free html5 games for your website, html games for your website, Hypercasual, Pixel, survival

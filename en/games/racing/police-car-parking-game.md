@@ -19,6 +19,6 @@ Welcome to Police Parking Game, the best police car driving game where you can t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Car, carparking, Driving, Parking, Police

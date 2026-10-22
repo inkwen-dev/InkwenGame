@@ -19,6 +19,6 @@ Aim &amp;Snap is an addictive spear-throwing arcade game that tests your precisi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Arcade, arrow, arrows, attack, html games for your website, Physics, Strategy, unity games

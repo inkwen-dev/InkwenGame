@@ -19,6 +19,6 @@ Our planet Earth has its soul. This is a sweet Earth-chan. Turn the princess int
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Dress Up, Kids, Princess, Space

@@ -19,6 +19,6 @@ Are you ready to win in the hexagon sport car game? If you want to be a winner, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Action, Car, Multiplayer, Racing

@@ -19,6 +19,6 @@ Embark on a relaxing brain adventure in Nest Quest! Slide blocks to help a lost 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Casual, HTML, HTML5, html5 games, Hypercasual, jump, Jumping, NapTech Games

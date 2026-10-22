@@ -19,6 +19,6 @@ UILD your own New New York, BATTLE aliens, COLLECT your favorite heroes, and EXP
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Cartoon, Cartoon Network, Super, Superhero

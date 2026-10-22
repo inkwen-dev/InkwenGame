@@ -21,4 +21,4 @@ The void is a game where you manage the cards of famous players, you can win pri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, card, Football, Letters, Sport
+- Tags: .io, .io Games, 1 Player, 2D, Card, Football, Letters, Sport

@@ -21,4 +21,4 @@ Solitaire World 125 types of games is inspired by the world&rsquo;s most popular
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Best, Brain, card, Classic, Fun, Logic, Mobile, Skill, Solitaire
+- Tags: 1 Player, 2D, Best, Brain, Card, Classic, Fun, Logic, Mobile, Skill, Solitaire

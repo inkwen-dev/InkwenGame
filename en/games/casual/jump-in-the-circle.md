@@ -19,6 +19,6 @@ Jump in the circle and obtain points for reach the best score and gems for purch
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Casual, Funny, Game, HTML5, Hypercasual, jump, Jumping, Mobile, Skill, Skills

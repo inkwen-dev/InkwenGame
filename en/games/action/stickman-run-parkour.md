@@ -19,6 +19,6 @@ Welcome to Stickman Run, A new Stickman running parkour Game . you'll face chall
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best, Hot, jump, Jumping, run, running, Stickman

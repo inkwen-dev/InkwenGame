@@ -19,6 +19,6 @@ Get a rush from this super addictive level-based Coin Run game. Roll your coin a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Balance, Casual, Hypercasual, run

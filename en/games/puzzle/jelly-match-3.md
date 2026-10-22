@@ -19,6 +19,6 @@ Welcome to the land of Jelly where all things are yummy and gooey! Test your mat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Arcade, Bubble, Bubble Shooter, Candy, Cartoon

@@ -37,4 +37,4 @@ Defeat bosses in PVE AFK games offline.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, idle, Monster, pve, rpg, Strategy
+- Tags: 3D, idle, Monster, pve, RPG, Strategy

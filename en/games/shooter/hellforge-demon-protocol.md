@@ -19,6 +19,6 @@ Hellforge: Demon Protocol is a 2D side-scrolling run-and-gun campaign with 20 in
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Monster, Platform, Shooter, Shooting, Side Scrolling, trap, weapons

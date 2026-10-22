@@ -19,6 +19,6 @@ Hello, young artist. Do you love video games and creativity? Then this game is f
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cartoon, Color, Coloring, Cute, Design, Draw, Drawing, Girl, HTML5, Monster, Princess

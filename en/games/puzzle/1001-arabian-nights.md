@@ -19,6 +19,6 @@ Get ready for an enchanting journey in 1001 Arabian Nights. The sands of this le
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Bejeweled, Game, Games, HTML, HTML5, Jewel, Match 3, Match3, Matching, Online, Puzzle

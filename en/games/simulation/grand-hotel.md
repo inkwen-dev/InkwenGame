@@ -21,4 +21,4 @@ Grand Hotel is an idle game where you get to run your dream hotel! Check in gues
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Disney, Holiday, management, Room, run
+- Tags: Disney, Holiday, Management, Room, run

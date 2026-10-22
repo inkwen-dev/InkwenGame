@@ -19,6 +19,6 @@ We all love when people around us smile. We become well and happy when someone o
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Doctor, Dress Up, Girl, Girls, Makeover

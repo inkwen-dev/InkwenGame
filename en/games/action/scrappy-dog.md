@@ -19,6 +19,6 @@ The scientist decided to try his new invention and for this he called his faithf
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, Arcade, Best, Bomb, Doctor, Hot, HTML, HTML5, jump, Jumping, run, running

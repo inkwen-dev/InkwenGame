@@ -27,4 +27,4 @@ With enthusiasm and a wagging tail, Max sets out to find his grandfather's treas
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, animals, Point And Click, wolf
+- Tags: Adventure, animals, Point And Click, Wolf

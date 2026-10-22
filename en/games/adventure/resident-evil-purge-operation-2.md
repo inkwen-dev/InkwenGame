@@ -17,4 +17,4 @@ Dive into Resident Evil: Purge Operation, a gripping shooter where every second 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

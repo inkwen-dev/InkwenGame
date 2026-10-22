@@ -19,6 +19,6 @@ Are you a die hard game player? Are you one who love playing games for hours? Ho
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Adventure, Bejeweled, Ben 10, Brain, Driving, Minecraft, run

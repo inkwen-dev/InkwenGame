@@ -19,6 +19,6 @@ Help the slinky walk downstairs and beat levels in this adventure game. Comprehe
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Arcade, Avoid, Hypercasual, Mobile

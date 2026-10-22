@@ -19,6 +19,6 @@ This Game awesome and challenging endless runner
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Obstacle, run, running

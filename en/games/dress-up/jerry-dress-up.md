@@ -19,6 +19,6 @@ The little hero of the Tom and Jerry cartoon is Jerry the mouse. Tom and Jerry a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Boys, Cartoon, Decoration, Dress Up, Fashion, Game, Girls, HTML5

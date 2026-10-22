@@ -19,6 +19,6 @@ In this game you have to rotate the central circles so that the colors of the sm
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

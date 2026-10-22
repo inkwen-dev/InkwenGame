@@ -19,6 +19,6 @@ Do you like classic jewel games? Of course, yes! But what's about jewels and dia
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Highscore, HTML5, Jewel, Magic, Match 3, Puzzle

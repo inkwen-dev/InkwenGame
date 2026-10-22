@@ -21,4 +21,4 @@ The main event of the fairy kingdom - the Flower Ball, brought together princess
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Anime, Barbie, Cartoon, Dress Up, Elsa, Fashion, Girl, Girls, rpg
+- Tags: 2D, Anime, Barbie, Cartoon, Dress Up, Elsa, Fashion, Girl, Girls, RPG

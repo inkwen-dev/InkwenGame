@@ -21,4 +21,4 @@ Step into the thrilling world of Squid Game with this unique coloring game! Brin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Coloring, horror, HTML5
+- Tags: Coloring, Horror, HTML5

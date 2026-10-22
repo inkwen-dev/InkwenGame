@@ -19,6 +19,6 @@ Great online version of the popular card game. Your goal is get rid of all your 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, card
+- Tags: Board, Card

@@ -19,6 +19,6 @@ Dino Hunter 3D FPS shooting champion offers you a chance to experience deadly 3D
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Best, Crazy, dino, Dinosaur, Games, Multiplayer, Simulation, Unity3D, WebGL

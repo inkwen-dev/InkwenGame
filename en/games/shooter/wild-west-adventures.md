@@ -19,6 +19,6 @@ A shooting game is waiting for you in Wild West Adventures. Ride your horse and 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Fun, Gun, Horse, Kids, Mobile, run, running, Shoot, Shooting, Skill

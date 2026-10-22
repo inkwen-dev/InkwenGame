@@ -19,6 +19,6 @@ Noob vs Noob is free online running game with noobs. All you need to do is to wi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Collecting, jump, Kids, Minecraft, Mobile, Online, run, running, Skill

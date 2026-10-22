@@ -19,6 +19,6 @@ SuperPoker is a puzzle game with a casino style, where you match combinations su
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Casino, Casual, Click, Logic, Puzzle
+- Tags: Card, Casino, Casual, Click, Logic, Puzzle

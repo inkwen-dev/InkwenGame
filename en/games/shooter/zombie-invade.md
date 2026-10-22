@@ -19,6 +19,6 @@ Zombie invade is a super exclusive games for all kind of players ,Zombies are al
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Minecraft, Shooter, Zombie

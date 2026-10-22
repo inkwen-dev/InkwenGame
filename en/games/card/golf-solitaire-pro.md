@@ -21,4 +21,4 @@ Enjoy this stylish version of the classic Golf Solitaire game! Your goal is to c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, card, Game, Games, Golf, HTML, HTML5, Mobile, Play, Solitaire
+- Tags: 1 Player, Card, Game, Games, Golf, HTML, HTML5, Mobile, Play, Solitaire

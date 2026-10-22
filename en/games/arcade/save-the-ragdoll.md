@@ -19,6 +19,6 @@ Save the Ragdoll is a multiplatform and casual game. Do not let Ragdoll run into
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Bomb, Casual, Fun, Mobile, Skill

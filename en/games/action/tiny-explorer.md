@@ -19,6 +19,6 @@ Tiny Explorer is a retro arcade-platforming game where you have to help a small 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Pixel, Platform, Retro

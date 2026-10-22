@@ -21,4 +21,4 @@ Looking for a fun and challenging memory game? Look no further than Advent Match
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Block, Boys, card, Girls, Hidden, Match 3, Matching, Memory, Puzzle
+- Tags: Block, Boys, Card, Girls, Hidden, Match 3, Matching, Memory, Puzzle

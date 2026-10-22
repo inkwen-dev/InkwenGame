@@ -19,6 +19,6 @@ Gungame with 24 guns free to play and much enemy AI like soldier and zombie, 5 g
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Multiplayer, Shoot, Shooter, Shooting, Unity3D, WebGL

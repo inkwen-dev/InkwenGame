@@ -19,6 +19,6 @@ This is logical kids game where you need to save the fish. In this game there ar
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fish, HTML5, Hypercasual, Kids, Logical, Puzzle

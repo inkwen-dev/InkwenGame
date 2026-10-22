@@ -19,6 +19,6 @@ Are you ready for a relentless dullo in the wild west? The Musketeer Duel also n
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Arena, Gun, HTML5, Skill

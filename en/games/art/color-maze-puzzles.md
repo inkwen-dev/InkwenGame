@@ -19,6 +19,6 @@ Are you ready to train your brain? Love puzzle, mazes and hyper-casual games? Co
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Color, Coloring, Games, Maze, Online, Puzzle, Quiz

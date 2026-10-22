@@ -19,6 +19,6 @@ Step into the shoes of a virtual mother and experience the busy but exciting lif
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Driving, Family, House, management
+- Tags: 3D, Driving, Family, House, Management

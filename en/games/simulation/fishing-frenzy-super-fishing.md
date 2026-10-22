@@ -19,6 +19,6 @@ Grab your fishing rod and get in your boat, it's time to catch some fish! Many d
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Fish, fishing, Fun, Kids, Puzzle
+- Tags: Arcade, Fish, Fishing, Fun, Kids, Puzzle

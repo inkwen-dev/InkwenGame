@@ -19,6 +19,6 @@ Learn how to drive your modern coach bus simulator. Utilize our bus simulator ga
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, bus, Race, Racing, Simulation, Simulator

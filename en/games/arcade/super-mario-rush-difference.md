@@ -19,6 +19,6 @@ Super Mario Rush Difference is a fun and challenging online game that is free to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Difference, Fun, Hypercasual, Kids, Mario, Mobile, Puzzle, Relaxation, School, Skill

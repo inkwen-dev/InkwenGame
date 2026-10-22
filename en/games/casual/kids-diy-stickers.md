@@ -19,6 +19,6 @@ Kids DIY Stickers is a casual game. Imagine how fun it would be to DIY a special
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Stickman

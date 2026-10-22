@@ -19,6 +19,6 @@ Tumble Boat is a fun and tricky puzzle game where your goal is to land a boat sa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: boat, Casual, Fun, HTML, HTML5, NapTech Games, Puzzle
+- Tags: Boat, Casual, Fun, HTML, HTML5, NapTech Games, Puzzle

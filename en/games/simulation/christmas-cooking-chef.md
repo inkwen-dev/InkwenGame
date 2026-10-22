@@ -19,6 +19,6 @@ Hi, all you awesome girls out there who love to cook! Christmas is just around t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Food, Funny, Restaurant

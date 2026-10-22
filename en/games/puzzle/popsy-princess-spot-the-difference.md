@@ -19,6 +19,6 @@ Hi, girls and boys! It is time to play another fun game. This time you need to f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Girl, Girls, Puzzle

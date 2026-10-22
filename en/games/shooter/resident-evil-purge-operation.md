@@ -21,4 +21,4 @@ At the start of each level, players must quickly locate powerful weapons like th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, horror, Shoot, weapons, Zombie
+- Tags: 3D, Horror, Shoot, weapons, Zombie

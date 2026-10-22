@@ -19,6 +19,6 @@ World of Alice - Star Sequence World of Alice - Star Sequence is an educational 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Cartoon, Cute, Educational, free games for your site, free games for your website, free html5 games for your website, html games for your website, html5 games, Kids, Math, Number, School, World of Alice

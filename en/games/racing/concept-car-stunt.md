@@ -19,6 +19,6 @@ Do you want to get the chance to drive the Concept cars produced by private bran
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arena, Best, Car, Cars, drift, drifting, Driving, Fun, Funny, HTML5, Race, Racing, Road, Unity3D, WebGL

@@ -21,4 +21,4 @@ Have you seen the film called Coco? There are many images about the plots of Coc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Boys, Casual, Disney, Fantasy, Girl, Girls, H5, HTML5, Jigsaw, movie, Puzzle
+- Tags: Boy, Boys, Casual, Disney, Fantasy, Girl, Girls, H5, HTML5, Jigsaw, Movie, Puzzle

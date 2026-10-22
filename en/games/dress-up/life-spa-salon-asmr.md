@@ -19,6 +19,6 @@ Life Spa Salon is a remarkable ASMR game on Yiv.com. With soothing visuals and i
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cute, Dress Up, Fashion, Fun, Grooming, Hair, HTML5, Kids, Makeover, Mobile, Nail, Relaxation, Witch

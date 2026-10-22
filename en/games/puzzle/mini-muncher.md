@@ -19,6 +19,6 @@ Little Glutton is a logic puzzle, the main goal of which is to feed a voracious 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, Cat, H5, HTML, HTML5, Hypercasual, Mind, Puzzle

@@ -19,6 +19,6 @@ Funny Snake 2 is a game in which you need to control the snake in order to colle
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Best, Best Games, Collecting, Fun, Kids, Obstacle, Snake

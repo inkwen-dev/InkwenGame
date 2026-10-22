@@ -19,6 +19,6 @@ Ava is always cute and pretty little girl and wants to keep her home clean and d
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Decoration, Dress Up

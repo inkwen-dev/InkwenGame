@@ -19,6 +19,6 @@ Alien Shooting Survival throws you into an apocalyptic forest and ruined town ov
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Driving, Mentolatux, Shooting, unity games, WebGL

@@ -21,4 +21,4 @@ The aim is to capture cards from a layout on the table, by playing a card from y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Craft
+- Tags: Card, Craft

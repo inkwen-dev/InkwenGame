@@ -21,4 +21,4 @@ Get ready to unleash your creativity and sense of humor in Funny JD Vance Face, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fun, Funny, HTML5, Hypercasual, Kids, mouse, Point And Click
+- Tags: Fun, Funny, HTML5, Hypercasual, Kids, Mouse, Point And Click

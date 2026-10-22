@@ -19,6 +19,6 @@ Rexo 2 is the Second installment of the original game, Rexo, which is a simple 2
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Cartoon, Casual, Collecting, Platform, Skill

@@ -19,6 +19,6 @@ Princess Coloring Glitter is a very fun coloring game. In this game, we've prepa
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Fun, Funny, Girl, Kid

@@ -19,6 +19,6 @@ Enter lovely baby's magical salon where you can let your imagination run free by
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cute, Decorate, Dress Up, Girl, Girls, Hair, Kids, Makeover, Princess, Simulation

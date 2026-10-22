@@ -39,4 +39,4 @@ Progression is focused on fishing upgrades. Buy new fishing rods, unlock better 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, boat, fishing
+- Tags: Adventure, Boat, Fishing

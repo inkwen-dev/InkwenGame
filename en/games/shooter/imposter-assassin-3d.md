@@ -19,6 +19,6 @@ Play the entertaining 3D action game Imposter Assassin 3D to transform into a tr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: attack, Fighting, Impostor, Shooter

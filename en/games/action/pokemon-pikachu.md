@@ -19,6 +19,6 @@ Run as fast as you can through an ever-changing Pokemon world with hero Pikachu.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, endless, Fun, Pokemon, run, running

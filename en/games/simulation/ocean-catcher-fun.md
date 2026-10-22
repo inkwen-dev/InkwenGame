@@ -21,4 +21,4 @@ Ocean Catcher Fun is a fast-paced arcade hyper-casual game set in a vibrant unde
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2025 games, 2D, amazing, Best Games, Casual, Classic, endless, Fish, fishing
+- Tags: .io Games, 1 Player, 2025 games, 2D, amazing, Best Games, Casual, Classic, endless, Fish, Fishing

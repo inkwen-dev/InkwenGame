@@ -19,6 +19,6 @@ Heavy Loader Excavator Simulator Heavy Cranes Game is an experience of driving g
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Boys, Bridge, rpg, Simulation, Simulator, Truck
+- Tags: 1 Player, 3D, 3D Games, Adventure, Boys, Bridge, RPG, Simulation, Simulator, Truck

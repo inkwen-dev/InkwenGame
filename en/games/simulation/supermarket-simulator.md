@@ -19,6 +19,6 @@ hey, how about you become a market owner? the shelves can be empty, sell and fil
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Android, Arcade, Mobile, Pixel, Simulator

@@ -19,6 +19,6 @@ Find the right angle, draw the bow, and release the arrow! Use it with a little 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, arrow, attack, Shooter

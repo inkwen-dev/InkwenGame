@@ -17,4 +17,4 @@ Guide a luminous snake through a dark arena, navigating to consume glowing food 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: worm
+- Tags: Worm

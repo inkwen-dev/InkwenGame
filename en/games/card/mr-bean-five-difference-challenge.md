@@ -21,4 +21,4 @@ Find the differences between two photos in Mr Bean Five Difference Challenge, le
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, Brain, card, Cartoon, Cartoon Network, Casual, Classic, Detective, Difference
+- Tags: Board, Brain, Card, Cartoon, Cartoon Network, Casual, Classic, Detective, Difference

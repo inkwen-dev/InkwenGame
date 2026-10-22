@@ -19,6 +19,6 @@ Take the ball from one point to another making the lowest possible amount of mov
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2D, Arcade, Casual, Cook, HTML5, Hypercasual, WebGL

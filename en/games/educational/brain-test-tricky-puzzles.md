@@ -19,6 +19,6 @@ Brain Test Tricky Puzzles is a fun and smart 2D quiz puzzle game for kids. You h
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boys, Casual, Girls, Kids, Logic, Quiz

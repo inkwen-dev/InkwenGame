@@ -19,6 +19,6 @@ Get Away Ninja is an exhilarating auto-run platform puzzle game that puts you in
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, HTML5, jump, Mobile, Ninja, run

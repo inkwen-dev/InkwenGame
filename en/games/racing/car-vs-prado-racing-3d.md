@@ -19,6 +19,6 @@ Prado car racing simulator is the fast pace racing game specially designed for p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arena, Car, Classic, drifting, Driving, Race

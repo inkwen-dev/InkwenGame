@@ -19,6 +19,6 @@ Embark on a wild adventure with Skibidi Toilet Cross the Road! The Skibidi Toile
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Skibidi Toilet

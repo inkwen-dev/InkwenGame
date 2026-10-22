@@ -19,6 +19,6 @@ Playing rugby by flicking the balls to score goals. PLAY NOW!
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Casual, Football, Fun, Funny, HTML5, Hypercasual, Kid, Kids, Mobile, Shoot, Shooter, Sport

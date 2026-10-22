@@ -19,6 +19,6 @@ Remember two cards of the same animals to advance
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, Animal, card, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Mind, Puzzle
+- Tags: .io, 1 Player, Animal, Card, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Mind, Puzzle

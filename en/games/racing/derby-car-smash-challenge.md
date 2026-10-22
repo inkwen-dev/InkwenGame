@@ -19,6 +19,6 @@ Enter a brutal demolition arena where only the toughest driver survives. Ram riv
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arcade, Car, crash, Driving, Racing

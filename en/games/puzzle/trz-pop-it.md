@@ -19,6 +19,6 @@ In this game you have to click all the 'buttons' on each of the 80 possible toys
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Bubble, Casual, Click, Fruits, Hypercasual, Number

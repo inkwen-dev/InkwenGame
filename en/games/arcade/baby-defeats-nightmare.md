@@ -19,6 +19,6 @@ Taylor often has nightmares at night recently, which makes her feel scared and c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Baby, Boy, Cute, Girl

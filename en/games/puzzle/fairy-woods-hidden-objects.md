@@ -19,6 +19,6 @@ In this relaxing game the main goal is to find all the lost objects in the fairy
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Family, Hidden, HTML, HTML5, Kid, Kids, Mobile, Puzzle

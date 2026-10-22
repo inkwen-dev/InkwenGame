@@ -19,6 +19,6 @@ Space Geometry Dash Waves is a fast-paced reflex game where precision is everyth
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Aircraft, amazing, Android, angryplants, Arcade, Baby, Balance

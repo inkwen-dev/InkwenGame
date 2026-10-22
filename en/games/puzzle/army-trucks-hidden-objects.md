@@ -19,6 +19,6 @@ Army Trucks Hidden Objects is a game with hidden bombs. You need to find all 10 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Hidden, Puzzle, Truck

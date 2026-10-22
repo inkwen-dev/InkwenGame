@@ -19,6 +19,6 @@ Step Upper is a game to get reach higher distance from Earth to Universe! Playin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Best, Casual, Clicker, endless, Fun, Funny, Game, Games, H5, Highscore, HTML, HTML5, Hypercasual, Mobile, New, Planet, Play, run, running, sky, Space, Spaceship, Super, surfers

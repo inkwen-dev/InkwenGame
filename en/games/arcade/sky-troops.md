@@ -19,6 +19,6 @@ Sky Troops Online Air Fighter game is an online game that simulates air combat. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Aircraft, Arcade, fly, Game, Games, HTML5, Hypercasual

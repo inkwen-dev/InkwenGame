@@ -19,6 +19,6 @@ Test your detective skills, play the best jigsaw puzzle games - Find the Differe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Jigsaw, Memory, Superhero

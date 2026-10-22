@@ -21,4 +21,4 @@ Battle Warship Arena is a thrilling 2D naval combat game that lets you command y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, boat, Casual, Kids, Simulation
+- Tags: Battle, Boat, Casual, Kids, Simulation

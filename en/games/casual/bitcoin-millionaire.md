@@ -19,6 +19,6 @@ Bitcoin Millionaire is an addictive HTML5 clicker game where you aim to amass a 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Point And Click

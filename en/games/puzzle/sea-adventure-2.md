@@ -17,4 +17,4 @@ Embark on thrilling oceanic quests in Sea Adventure. Cast your line with precisi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

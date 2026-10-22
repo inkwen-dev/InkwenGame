@@ -19,6 +19,6 @@ You are the best mechanic in this city, and you have managed a repair shop. Toda
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Boys, Car, Cars, Fun, H5, HTML5, Kid, Kids, Panda

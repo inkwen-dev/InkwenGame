@@ -17,4 +17,4 @@ Challenge your memory with Fish Memory Game, where you must swiftly identify mat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

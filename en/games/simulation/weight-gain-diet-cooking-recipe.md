@@ -19,6 +19,6 @@ Get ready for a mouth-watering adventure with Weight Gain Diet - Cooking Recipes
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cook, Food, Girls, Relaxation, Simulation

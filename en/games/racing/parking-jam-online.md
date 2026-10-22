@@ -19,6 +19,6 @@ Parking Jam Online is a kind of leisure puzzle game of parking type. In this kin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Brain, Cars, H5, HTML, HTML5, Logic, Logical, Mobile, Puzzle

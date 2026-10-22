@@ -21,4 +21,4 @@ BlackJack 21 Casino offers an exhilarating gaming experience, combining the thri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, card, Mobile
+- Tags: Android, Card, Mobile

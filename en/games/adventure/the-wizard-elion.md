@@ -19,6 +19,6 @@ When the old wizard Elion tried to conjure a sphere of light, a mistake transpor
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Best, Best Games, Castle, Escape, Funny, html5 games, Magic, Mobile, Monster, rpg
+- Tags: 1 Player, 2D, Action, Adventure, Best, Best Games, Castle, Escape, Funny, html5 games, Magic, Mobile, Monster, RPG

@@ -19,6 +19,6 @@ In Century Gold Miner adventure with a unique story, you will get lost in a gold
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Best, Boys, Cartoon, Casual, endless, Gold, Hot, HTML5, Hypercasual, Kids, Miner

@@ -19,6 +19,6 @@ BTS Noob Coloring Book is an online game that you can play on video-igrice.com f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Boys, Coloring, Fun, Game, Girls, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle, School

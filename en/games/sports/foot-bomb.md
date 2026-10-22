@@ -28,4 +28,4 @@ Foot bomb is a bomb kicking soccer game. Your goal is simple, kick the bomb and 
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Funny, mouse, Skill, Soccer, Sports
+- Tags: Action, Funny, Mouse, Skill, Soccer, Sports

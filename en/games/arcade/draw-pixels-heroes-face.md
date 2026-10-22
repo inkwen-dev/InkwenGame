@@ -19,6 +19,6 @@ Paint the faces of Batman and other heroes with pixels to unlock the next charac
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Boy, Coloring, Draw, Drawing, Pixel, Puzzle, Super, Superhero

@@ -19,6 +19,6 @@ Explore 6 charming bakery shops in this fun hidden object game! With 24 exciting
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Girls, Hidden, Mobile, Puzzle

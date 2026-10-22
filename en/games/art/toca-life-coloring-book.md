@@ -19,6 +19,6 @@ Unleash your creativity with Toca Life Coloring Book, a vibrant and engaging col
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Color, Coloring, Educational, Girl, Girls, Kids, School

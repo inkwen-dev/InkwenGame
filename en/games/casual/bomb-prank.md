@@ -19,6 +19,6 @@ The time countdown begins and the bomb you are trying to hand over has not yet b
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arena, Avoid, Bomb, Boy, Boys, H5, HTML, HTML5, Hypercasual, Kids, Mobile, Multiplayer, Obstacle, Skill, Skills, Timing

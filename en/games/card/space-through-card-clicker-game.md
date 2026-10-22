@@ -21,4 +21,4 @@ Space Card Clicker.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Clicker, Planet, Space, Spaceship
+- Tags: Card, Clicker, Planet, Space, Spaceship

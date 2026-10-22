@@ -19,6 +19,6 @@ In this game you can play with a Fly Witch! Just Tap to fly and try to pass acro
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2D, Family, Flight, fly, Game, Girl, Girls, HTML, HTML5, Mobile, Witch

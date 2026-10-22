@@ -17,4 +17,4 @@ Enter the world of Flames & Fortune, where card battles meet fiery strategies. C
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

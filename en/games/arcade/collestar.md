@@ -19,6 +19,6 @@ Fly the Collestar planes as far apart as you can to collect as many stars as pos
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Collecting, HTML5, Mobile, Rocket, Space

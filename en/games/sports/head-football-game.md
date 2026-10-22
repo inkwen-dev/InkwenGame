@@ -19,6 +19,6 @@ Head Soccer is the ultimate football games where skill, speed, and strategy deci
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D, Adventure, Battlegrounds, Football, Soccer

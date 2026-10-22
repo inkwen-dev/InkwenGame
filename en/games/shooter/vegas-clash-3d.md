@@ -19,6 +19,6 @@ The Las Vegas casino is full of cash. This is the best moment for your Sassy Elv
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Multiplayer, Shooter, Shooting

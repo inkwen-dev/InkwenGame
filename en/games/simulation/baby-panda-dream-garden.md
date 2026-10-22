@@ -19,6 +19,6 @@ Baby Panda Dream Garden is a captivating gardening game designed for young child
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby, Cooking, Cute, Educational, farm, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Baby, Cooking, Cute, Educational, Farm, Food, Fruit, Fun, Girls, HTML5, Kids, Mobile, Panda

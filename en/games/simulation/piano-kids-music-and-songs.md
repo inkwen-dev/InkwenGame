@@ -19,6 +19,6 @@ You will experience a fun and realistic music feast. Tap on your keyboard or scr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Kids, Music, Simulation

@@ -19,6 +19,6 @@ Welcome to Fast Food Cooking, an exciting restaurant tycoon game! Become the ult
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, burger, Business, Casual, Food
+- Tags: Adventure, Burger, Business, Casual, Food

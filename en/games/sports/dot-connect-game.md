@@ -19,6 +19,6 @@ Dot Connect is an exciting line puzzle game where you must connect the dots on t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 8 Ball Pool, Adventure, Brain, Color, Kid, Kids, Letters, Math, Number, Physics, Science, Sport, Word

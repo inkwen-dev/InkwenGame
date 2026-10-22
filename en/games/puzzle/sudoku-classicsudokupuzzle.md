@@ -21,4 +21,4 @@ Sudoku-ClassicSudokuPuzzle game is a popular and addictive brain Sudoku puzzle g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Puzzle, sudoku
+- Tags: Puzzle, Sudoku

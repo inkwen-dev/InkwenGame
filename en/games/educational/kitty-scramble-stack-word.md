@@ -19,6 +19,6 @@ Move through the levels with a cute cat who has prepared a lot of surprises for 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cat, Educational, Hello Kitty, HTML, HTML5, Hypercasual, Letters, Mind, Puzzle, Strategy, Word

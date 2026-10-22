@@ -19,6 +19,6 @@ Have a fun with the crazy taxi driving and racing game around the city as you wa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Driving, Hypercasual, Racing, Taxi

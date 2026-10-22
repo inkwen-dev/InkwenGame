@@ -19,6 +19,6 @@ Fashion Lip Art Salon is a free game that allows you to show off your artistic c
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Girl, Girls, H5, HTML5, Kid, Kids, Makeover

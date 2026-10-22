@@ -24,4 +24,4 @@ Sponge Strike: Clean & Smash is a satisfying physics puzzle game where every lau
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, mouse, Physics, Puzzle, Skill
+- Tags: Arcade, Mouse, Physics, Puzzle, Skill

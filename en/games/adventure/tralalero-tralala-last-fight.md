@@ -17,4 +17,4 @@ Awaken trapped in a decaying hospital, armed only with a burning torch against a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

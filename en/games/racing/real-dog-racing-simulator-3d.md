@@ -19,6 +19,6 @@ Real Dog Racing Simulator 3D is dog racing game for dog lovers. This game has ve
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Animal, Racing, Simulation, Simulator

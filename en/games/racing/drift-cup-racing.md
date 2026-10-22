@@ -19,6 +19,6 @@ Drift Cup Racing is a free racing game. Even the fastest and the most furious ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Boy, Cars, Cartoon Network, drift, drifting, Driving, Girl, HTML5, Hypercasual, Skill, Supercars

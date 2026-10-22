@@ -19,6 +19,6 @@ Welcome to the game Poppy Playtime Coloring Book where you will find 18 differen
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Color, Coloring, Funny, Kids, Mobile, Monster, Skill

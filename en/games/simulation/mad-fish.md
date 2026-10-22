@@ -21,4 +21,4 @@ Mad Fish is a HTML5 Game. This is a small game in which you play with piranha, t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fish, fishing
+- Tags: Action, Adventure, Arcade, Fish, Fishing

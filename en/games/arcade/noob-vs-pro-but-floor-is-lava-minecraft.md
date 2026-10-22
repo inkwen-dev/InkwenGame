@@ -19,6 +19,6 @@ Noob and Pro decided to relax, but suddenly rising lava ruined their plans! Now 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 2D, Action, Arcade, Funny, jump, Jumping, Mine, mineblock, Minecraft, Miner

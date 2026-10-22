@@ -21,4 +21,4 @@ prodigy is an endless hardcore platformer where levels are chosen randomly. The 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Anime, Ben 10, Boy, Boys, Fun, Funny, Game, Games, jump, Jumping, Kid, Kids, Match 3, Pixel, Skill, Skills
+- Tags: Action, Adventure, Anime, Ben 10, Boy, Boys, Fun, Funny, Game, Games, jump, Jumping, Kid, Kids, Match-3, Pixel, Skill, Skills

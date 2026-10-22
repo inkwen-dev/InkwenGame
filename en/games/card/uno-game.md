@@ -21,4 +21,4 @@ To beat the opponent, we have to empty the entire pile of cards in our hand. mat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 2D, Android, Arcade, card, Collecting, Collection, Color, Coloring, H5, HTML, HTML5, Matching
+- Tags: 2 Player, 2 Player Games, 2D, Android, Arcade, Card, Collecting, Collection, Color, Coloring, H5, HTML, HTML5, Matching

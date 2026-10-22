@@ -21,4 +21,4 @@ Wolf Life Simulator: A Realistic Animal Simulation Game Explore the life of a wo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Animal, Boys, Casual, Kids, wolf
+- Tags: 3D, 3D Games, Animal, Boys, Casual, Kids, Wolf

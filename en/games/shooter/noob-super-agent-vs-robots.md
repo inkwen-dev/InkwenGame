@@ -19,6 +19,6 @@ Noob is a super hero? This is absurd! And yet you'll let them play against robot
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Bomb, Boys, Girl, HTML5, Minecraft, Platform, Shooter, Shooting, Super, Superhero

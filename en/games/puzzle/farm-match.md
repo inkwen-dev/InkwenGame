@@ -21,4 +21,4 @@ Farm match are cute, happy and funny! Our interactive educational games for kids
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, farm, Girl, Girls, Kid, Kids, Puzzle
+- Tags: Animal, Farm, Girl, Girls, Kid, Kids, Puzzle

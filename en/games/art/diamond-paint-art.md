@@ -19,6 +19,6 @@ Relax and find peace as you complete joyful artworks by pushing diamonds onto a 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Best Games, Casual, Color, Drawing, Fun, html games for your website, Kids, Number, paint, Pixel, Puzzle, Relaxation

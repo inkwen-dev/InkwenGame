@@ -19,6 +19,6 @@ Collect all the antiques from the Bubbles. The antiques will be collected when t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Bubble, Bubble Shooter, Girls, HTML5, Mobile, Puzzle

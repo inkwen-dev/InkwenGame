@@ -19,6 +19,6 @@ Now is the time to collect all the stars from the sky! In this game you have nin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Fun, HTML5, Kids, Point And Click, Skill

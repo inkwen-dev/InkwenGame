@@ -31,4 +31,4 @@ Enter the rugged world of the Wild West in *Cowboys Duel*, where sharp aim and q
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, pve, pvp, two-player
+- Tags: Action, pve, PvP, two-player

@@ -21,4 +21,4 @@ Are you ready to run your own Halloween park? My Halloween Park is a 3D simulati
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Boys, Girl, Halloween, Kids, management
+- Tags: Adventure, Boys, Girl, Halloween, Kids, Management

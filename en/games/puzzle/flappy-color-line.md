@@ -19,6 +19,6 @@ Flappy Color Line is a very interesting and fun game for you to play.Your object
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Fun, HTML5, Kids, Mobile, Puzzle, Skill

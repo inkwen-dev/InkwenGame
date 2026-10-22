@@ -19,6 +19,6 @@ Horse Racing 2 is a free horse racing simulation game for placing bets on the ho
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Horse, Racing

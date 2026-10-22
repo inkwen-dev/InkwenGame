@@ -21,4 +21,4 @@ Sort colorful jewels around a looping conveyor and fill matching spaces to revea
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Color, Jewel, Logic, Mobile, mouse, sorting
+- Tags: 1 Player, Color, Jewel, Logic, Mobile, Mouse, sorting

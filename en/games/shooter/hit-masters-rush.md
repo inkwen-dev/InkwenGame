@@ -19,6 +19,6 @@ It's time to play and have fun with Hit Masters Rush, an entertaining exclusive 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Gun, Jumping, kiz10, running, Shooting

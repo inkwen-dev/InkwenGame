@@ -19,6 +19,6 @@ MineWorld is a Minecraft-inspired game with RPG elements. Do you enjoy mining, d
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, builder, Minecraft

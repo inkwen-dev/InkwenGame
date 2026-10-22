@@ -19,6 +19,6 @@ It is a game based on eating pepper. In the game, players will be exposed to lei
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Cake, Candy, Cooking, Crazy, Food, Fruits, H5

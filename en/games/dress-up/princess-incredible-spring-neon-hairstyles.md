@@ -19,6 +19,6 @@ Spring has come! It's time to try on bright neon outfits and change your hairsty
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Baby, Dress Up, Girl, Girls, Makeover

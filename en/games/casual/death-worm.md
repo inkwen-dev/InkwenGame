@@ -19,6 +19,6 @@ Control is carried out using the arrow keys. Devour enemy infantry units to repl
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Bird, HTML, HTML5, Kill, Killing, Slither, Snake, worm, Worms
+- Tags: Animal, Bird, HTML, HTML5, Kill, Killing, Slither, Snake, Worm, Worms

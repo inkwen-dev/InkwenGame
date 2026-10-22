@@ -21,4 +21,4 @@ Fidget Trading Card Toy is a fidget trading game that allows you to feel the fun
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, card
+- Tags: Battle, Card

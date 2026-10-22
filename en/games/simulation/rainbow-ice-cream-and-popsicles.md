@@ -19,6 +19,6 @@ Do you love Ice Cream Games, Popsicles, Ice Cream Bars, Ice Cream Sandwiches, an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Decorate, Decoration, Fun, Girls, HTML5, Ice, Kids, Mobile, Simulation

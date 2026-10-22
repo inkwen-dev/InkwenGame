@@ -19,6 +19,6 @@ This is a fun addicting skill game in which you have to control a little charact
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, H5, run, Solitaire, Sport, Stickman

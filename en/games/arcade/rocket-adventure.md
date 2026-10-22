@@ -19,6 +19,6 @@ Blast off for the stratosphere with Rocket Adventure, the addictive physics rock
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Clicker, Flight, html games for your website, kiz10, Rocket, sky

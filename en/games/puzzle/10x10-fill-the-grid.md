@@ -19,6 +19,6 @@ Are you ready to play the most addictive and challenging game in the world ? 10x
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Bricks, Game, Mind, Puzzle, Tetris

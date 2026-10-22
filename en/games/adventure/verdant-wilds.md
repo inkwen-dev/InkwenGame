@@ -19,6 +19,6 @@ Explore an isometric survival voxel world. Gather wood, stone and ores, craft to
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Crafting, Minecraft, Pixel, Retro, Sandbox, survival, voxel

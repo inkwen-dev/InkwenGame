@@ -19,6 +19,6 @@ Pixel Peak is an exciting 2D platformer game where players take control of a red
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Ball, Best, Bounce, Brain, Collection

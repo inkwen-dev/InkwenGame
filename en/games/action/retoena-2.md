@@ -19,6 +19,6 @@ Retoena 2 is a 2D Sci-fi themed platformer where you play as a humanoid girl who
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Anime, Arcade, Collecting, Girl, jump, Jumping, Pixel, Platform, Retro, Science

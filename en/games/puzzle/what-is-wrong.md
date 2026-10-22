@@ -19,6 +19,6 @@ Find the one thing in each level's picture that logically shouldn't be there. Id
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Fun, Hidden, HTML5, Kids, Logical, Mobile, Puzzle

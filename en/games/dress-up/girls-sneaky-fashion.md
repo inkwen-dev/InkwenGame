@@ -19,6 +19,6 @@ Let's help our girls Mia and Emma to get into the sneaky fashion today, So, you 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fantasy, Makeover

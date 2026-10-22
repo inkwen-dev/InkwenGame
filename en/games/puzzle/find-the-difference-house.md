@@ -19,6 +19,6 @@ Trouver la Différence Maison - Jeu des erreurs, comparez des images 3D de belle
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Funny, Puzzle

@@ -19,6 +19,6 @@ Select different military vehicles and test your driving skills across vast dese
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Cars, Driving, Racing, Simulation, Simulator, Truck, Unity3D, WebGL

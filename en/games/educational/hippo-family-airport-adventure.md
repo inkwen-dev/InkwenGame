@@ -19,6 +19,6 @@ Hippo Family Airport Adventure is a very lovely educational game. Hippo's Dad bo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Aircraft, Animal, Educational, Family, Fun, Girls, HTML5, Kids, Mobile

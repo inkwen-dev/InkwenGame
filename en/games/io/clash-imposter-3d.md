@@ -19,6 +19,6 @@ Imposter Clash is a fun and engaging 2D puzzle game. Your mission is to choose y
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D Games, Adventure, Arcade, Hypercasual

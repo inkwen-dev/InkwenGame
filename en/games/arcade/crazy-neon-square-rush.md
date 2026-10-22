@@ -19,6 +19,6 @@ Crazy Neon Square Rush is a fast-paced hyper-casual arcade game where reflexes a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Arcade, Ball, Casual, Color, Coloring, endless, Fun, Funny, Highscore, Hypercasual

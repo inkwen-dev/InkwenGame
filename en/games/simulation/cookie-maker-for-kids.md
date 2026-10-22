@@ -19,6 +19,6 @@ Prepare, cut out, bake, and decorate cookies of many shapes and sizes! Bake the 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cook, Cooking, Family, Girls, Kids, Simulation

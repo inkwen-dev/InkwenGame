@@ -19,6 +19,6 @@ How long will you stay in control? In Baby In Yellow Survival Challenge , the mo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Arcade, Baby, Boys, Girls, Horse

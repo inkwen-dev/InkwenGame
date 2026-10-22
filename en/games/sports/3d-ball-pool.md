@@ -19,6 +19,6 @@ This is authentic 3D pool experience like you’ve never seen on PC. Unlike othe
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, HTML5, Shooter, Shooting

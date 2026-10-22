@@ -19,6 +19,6 @@ Are You the next great Stunt Fly Pumpkin? You will need to have strong nerves an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Boy, Flight, fly, Halloween, HTML, HTML5, Mobile

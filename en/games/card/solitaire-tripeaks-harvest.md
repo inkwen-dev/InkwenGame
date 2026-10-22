@@ -17,4 +17,4 @@ Escape into the serene world of Solitaire TriPeaks Harvest, where classic card s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

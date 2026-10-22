@@ -19,6 +19,6 @@ Save the Princess 1: The Legend of the Pure Heart A night of peace. A promise wh
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Castle, Enemies, Escape, Fairy, Fantasy, Forest, jump, Levels, Magic, Monster, Obstacle, run

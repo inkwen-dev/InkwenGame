@@ -19,6 +19,6 @@ Easter is here so soon! Baby Taylor is getting ready to celebrate Easter. She wi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cooking, Cute, Decorate, Dress Up, Easter, Fashion, Girl, Girls, Kids, Makeover

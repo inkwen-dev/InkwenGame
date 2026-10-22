@@ -19,6 +19,6 @@ Welcome to Don’t Drop the Soap! The object is simple. Keep the soap in the air
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Bubble, Cartoon, Casual, Click, Clicker, Family, Girls, HTML, Kids

@@ -19,6 +19,6 @@ Play Super Mario Html5, remastered after flash version. Play up to 9 levels, the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Mario, Super

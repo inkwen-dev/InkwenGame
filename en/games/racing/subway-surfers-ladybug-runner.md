@@ -19,6 +19,6 @@ subway Lady run is an awesome jungle running game it's one of the best ladybug m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Baby Hazel, Classic, Driving, Hypercasual, Ladybug, Miraculous Ladybug, Subway Surfers, Superhero

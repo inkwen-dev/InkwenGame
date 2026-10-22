@@ -19,6 +19,6 @@ Dance clicker is a super game for you to create your own social media account an
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Dancing, Dress Up, Fashion, Girl, Girls, WebGL

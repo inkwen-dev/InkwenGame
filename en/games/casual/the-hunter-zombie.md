@@ -19,6 +19,6 @@ The Hunter Zombie is an action-packed game where the player takes on the role of
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Kill, Killing, Skill, Skills, Zombie

@@ -21,4 +21,4 @@ Crossy Miner is an arcade game with the gameplay similar to the classic Frogger 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Animal, Arcade, Avoid, Best, Block, Cartoon, Cute, endless, Fun, Funny, Mine, Miner, running, train
+- Tags: 1 Player, 3D, 3D Games, Animal, Arcade, Avoid, Best, Block, Cartoon, Cute, endless, Fun, Funny, Mine, Miner, running, Train

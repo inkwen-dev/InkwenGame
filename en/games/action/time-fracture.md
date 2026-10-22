@@ -19,6 +19,6 @@ Time Fracture is a fast-paced sci-fi arcade game where time itself becomes your 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, endless, HTML5, Hypercasual, onetouch, running, Skill, Timing

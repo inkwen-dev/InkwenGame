@@ -32,4 +32,4 @@ Embark on a captivating journey to build and manage your own railway station wit
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, management, Simulation, train, tycoon
+- Tags: Clicker, idle, Management, Simulation, Train, tycoon

@@ -34,4 +34,4 @@ Perfect for quick runs or chasing full-collection completion: rotate, collect, u
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: mouse, Skill
+- Tags: Mouse, Skill

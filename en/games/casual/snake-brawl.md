@@ -17,4 +17,4 @@ Brace yourself for an addictive journey in Snake Brawl! Navigate your snake thro
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: worm
+- Tags: Worm

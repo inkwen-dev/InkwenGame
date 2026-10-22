@@ -19,6 +19,6 @@ Get ready for a fun arena game where you will face powerful opponents! All you h
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Fight, Fighting, Fun, Funny, Kid, Kids, Unity3D

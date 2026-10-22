@@ -19,6 +19,6 @@ Run super chef pizza cooking and serving restaurant, make your own yummy pizza t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Boys, Car, Cartoon, Cartoon Network, Cook, Cooking, Games, Kids, Makeover, Online, Super, Truck

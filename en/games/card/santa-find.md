@@ -17,4 +17,4 @@ Unleash your memory prowess in Santa Find, a festive card-matching game. Peek be
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

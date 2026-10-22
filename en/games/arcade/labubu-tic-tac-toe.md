@@ -19,6 +19,6 @@ Labubu Tic Tac Toe takes the classic 3&times;3 tic-tac-toe board and adds a fun 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Board, Brain, Fun, Labubu, Puzzle, Skill

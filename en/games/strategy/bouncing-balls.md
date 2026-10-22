@@ -19,6 +19,6 @@ If you are finding the champion of time killer, dont miss this Html 5 game Bounc
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Brain, Number, Puzzle, Skills, Strategy

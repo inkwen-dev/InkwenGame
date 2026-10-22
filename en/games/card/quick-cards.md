@@ -21,4 +21,4 @@ Keep throwing the cards on your turn, the larger card wins! The winner keeps bot
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Color, Matching
+- Tags: Card, Color, Matching

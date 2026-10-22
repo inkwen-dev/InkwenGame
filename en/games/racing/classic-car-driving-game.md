@@ -19,6 +19,6 @@ Get ready to experience the fun and challenge of classic car parking in **Classi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Best Games, Car, Driving, Fun, Parking, unity games

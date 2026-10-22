@@ -19,6 +19,6 @@ Take control of 3 combat ships to fight your enemies Fight as a squadron or assi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fight, Fighting, Fun, Games, HTML5, Kids, Planet

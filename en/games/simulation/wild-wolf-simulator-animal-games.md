@@ -55,4 +55,4 @@ Explore, hunt, fight, and survive as you build a powerful wolf pack in Wild Wolf
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, animals, Arcade, Simulation, survival, wolf
+- Tags: 3D, Action, Adventure, animals, Arcade, Simulation, survival, Wolf

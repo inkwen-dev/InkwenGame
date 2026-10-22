@@ -21,4 +21,4 @@ Vehicle Fun Race&mdash;an exhilarating arcade game with 3D stickman characters. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Avoid, boat, Boys, Car, Casual, Helicopter, Kids, running
+- Tags: 3D, 3D Games, Avoid, Boat, Boys, Car, Casual, Helicopter, Kids, running

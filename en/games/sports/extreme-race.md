@@ -19,6 +19,6 @@ In this challenging game you control a car that has no brake and only gains more
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Car, Racing, Soccer, Sport

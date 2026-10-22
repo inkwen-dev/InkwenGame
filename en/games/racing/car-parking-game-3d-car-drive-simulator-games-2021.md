@@ -19,6 +19,6 @@ Are you looking forward to have a new car parking game 2020 to park your vehicle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Car, Cars, Dancing, drift, drifting, Driving, Race, Racing, Supercars

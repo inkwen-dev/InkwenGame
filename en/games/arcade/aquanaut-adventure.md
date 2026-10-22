@@ -19,6 +19,6 @@ Dive into the depths of the ocean and embark on an exciting adventure full of ch
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Casual, HTML, HTML5, Hypercasual, Online

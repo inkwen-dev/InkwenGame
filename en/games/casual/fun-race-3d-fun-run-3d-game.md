@@ -19,6 +19,6 @@ Fun Race 3D is a 3D arcade racing game, in order to run in this dangerous place 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, H5, HTML5, Hypercasual, Kid, Kids, Race, run

@@ -19,6 +19,6 @@ Mad Dentist is the best dentist game ever made. In this dentist game, your missi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Decorate, Decoration, Doctor, Educational, Girl, HTML5, Kids, Mobile, Simulation, Surgery

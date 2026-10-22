@@ -19,6 +19,6 @@ Horror Nights Story is an action game where you have to escape the terrifying de
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Craft, Crafting, H5, Horse, HTML, HTML5, Minecraft, Pixel

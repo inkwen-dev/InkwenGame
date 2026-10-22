@@ -19,6 +19,6 @@ In Pokey Balls, you have to throw the ball up in the most nervous way to get the
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arcade, Ball, Baseball, Best, Casual, Crazy, endless, Fun, Funny, HTML5, Hypercasual, Kid, Kids, Mobile

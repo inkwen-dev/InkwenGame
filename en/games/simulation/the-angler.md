@@ -21,4 +21,4 @@ We invite you to a quiet hunt or, more simply, to go fishing. Our hero will be f
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Animal, Bomb, Fish, fishing, Fun, HTML5, Kids, Mobile, Skill
+- Tags: Action, Animal, Bomb, Fish, Fishing, Fun, HTML5, Kids, Mobile, Skill

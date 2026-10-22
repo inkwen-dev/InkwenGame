@@ -19,6 +19,6 @@ Participate in online drift racing competitions, during which you will pilot var
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Cars, Driving, HTML5, Mobile, Racing, Supercars

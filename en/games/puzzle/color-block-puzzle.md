@@ -19,6 +19,6 @@ Challenge your mind with our puzzle game! In Color Block Puzzle, players face a 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Casual, Color, Fun, Funny, Kids, Logic, Skill

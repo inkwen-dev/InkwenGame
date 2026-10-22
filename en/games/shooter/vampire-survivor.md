@@ -19,6 +19,6 @@ Vampire Survivor is a pixel retro RPG adventure game. Damn! You are in deep trou
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Gun, Shooting, Vampire

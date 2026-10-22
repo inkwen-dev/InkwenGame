@@ -19,6 +19,6 @@ This is a puzzle shooter game. The goal of the game is to hit the yellow ball wi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Color, Kids, Shooter

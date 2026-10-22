@@ -19,6 +19,6 @@ Try To make the biggest Tower Of boxes while keeping the balance moving left and
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Balance, Best, Fun, Hypercasual, Stack

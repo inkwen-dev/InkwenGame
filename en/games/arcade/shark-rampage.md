@@ -19,6 +19,6 @@ Unleash chaos in this action-packed underwater game where you play as an apex pr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, Arcade, Killing, Shark, Unity3D, WebGL

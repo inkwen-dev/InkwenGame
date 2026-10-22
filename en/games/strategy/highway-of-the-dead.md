@@ -21,4 +21,4 @@ Walk the last highway through a zombie wasteland. Highway of the Dead is an auto
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, idle, rpg, Strategy, survival, Zombie
+- Tags: Action, idle, RPG, Strategy, survival, Zombie

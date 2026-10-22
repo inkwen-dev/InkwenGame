@@ -19,6 +19,6 @@ Animals Skin Kids match missing skin pieces to animals, learning about different
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Baby Games, Best Games, Cute, Educational, free games for your site, HTML5, Kids, Logic, Logical, School, touch, World

@@ -21,4 +21,4 @@ Rick and Morty is an American adult animated science fiction sitcom created by J
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Memory, Puzzle
+- Tags: Card, Memory, Puzzle

@@ -19,6 +19,6 @@ Try to remove all bubbles. Touch them and they will burst. Get higher score for 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bubble, Match 3, Match3, Matching
+- Tags: Ball, Bubble, Match-3, Match3, Matching

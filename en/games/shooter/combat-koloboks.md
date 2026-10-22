@@ -19,6 +19,6 @@ You are the commander of an elite unit of combat koloboks and the goal of your l
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arena, Army, MMO, Shoot, Strategy, War

@@ -21,4 +21,4 @@ Manage your small 10x10 field. Grow various crops and harvest it. Be smart when 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Games, HTML5, Puzzle
+- Tags: Farm, Games, HTML5, Puzzle

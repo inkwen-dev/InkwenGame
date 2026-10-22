@@ -19,6 +19,6 @@ Welcome to Tropical Tidy &ndash; The Juiciest Sorting Puzzle! Escape to a vibran
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Food, Fruits

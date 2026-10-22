@@ -19,6 +19,6 @@ In game Primary Math, you are given mainly 40 levels through that you have to go
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Fun, HTML5, Kids, Math, Mobile, Skill

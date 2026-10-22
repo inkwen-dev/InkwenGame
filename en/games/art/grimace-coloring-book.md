@@ -19,6 +19,6 @@ Introducing the enchanting world of the Grimace Coloring Book, where imagination
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Grimace, Grimace Shake, HTML5, Hypercasual, Kids, School

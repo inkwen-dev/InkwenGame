@@ -19,6 +19,6 @@ If you like Sudoku, then you'll love Futoshiki. Futoshiki is another popular Jap
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Funny, HTML5, Puzzle, sudoku
+- Tags: Brain, Funny, HTML5, Puzzle, Sudoku

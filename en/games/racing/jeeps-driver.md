@@ -19,6 +19,6 @@ Jeep Driver is a fun driving game with 30 levels and amazing graphics. You can b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, jump, Race, Racing, Truck

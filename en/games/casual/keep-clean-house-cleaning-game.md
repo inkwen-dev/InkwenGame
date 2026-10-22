@@ -19,6 +19,6 @@ Do you want to be a good cleaner? Do you want to be praised by the owner of the 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Girl, Girls, H5, House, HTML5, Kid, Kids

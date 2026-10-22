@@ -65,4 +65,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, 制作, Minecraft, 模拟游戏
+- 标签: 冒险, 手工, 我的世界, 模拟

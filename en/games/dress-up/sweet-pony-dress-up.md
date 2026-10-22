@@ -19,6 +19,6 @@ Let's decorate and dress our cute pony friend with horns, hair, wings, dress sho
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Decoration, Dress Up, Fun, Game, Girl, Horse, HTML5, Pony

@@ -19,6 +19,6 @@ Do you want to throw a knife, fire a machine gun or launch a rocket? Unlock weap
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Click, Clicker, H5, HTML, HTML5

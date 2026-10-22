@@ -19,6 +19,6 @@ Color Pump is a very fun color game. Do you know most colors can be produced by 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Educational, Fun, Girls, HTML5, Kids, Mobile

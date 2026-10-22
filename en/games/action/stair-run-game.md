@@ -19,6 +19,6 @@ Stair Run is recommended as not merely a collecting but also an avoiding arcade 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Hypercasual, running

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 动作, 男孩, 受欢迎的, 技巧, Stickman
+- 标签: 动作, 男孩们, 受欢迎的, 技巧, Stickman

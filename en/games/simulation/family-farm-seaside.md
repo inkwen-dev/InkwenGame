@@ -21,4 +21,4 @@ Experience the enchanting world of Family Farm Seaside as you immerse yourself i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Boy, Business, Casual, farm, Girl, iPad, iPhone, Kids, management, Mobile, Online, Simulation
+- Tags: 1 Player, Best, Boy, Business, Casual, Farm, Girl, iPad, iPhone, Kids, Management, Mobile, Online, Simulation

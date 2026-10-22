@@ -21,4 +21,4 @@ Truck Farming Simulator is a best farming game you have ever played before. In t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Driving, farm, HTML, HTML5, Simulation, Simulator, Truck
+- Tags: 3D, 3D Games, Driving, Farm, HTML, HTML5, Simulation, Simulator, Truck

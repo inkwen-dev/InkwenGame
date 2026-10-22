@@ -19,6 +19,6 @@ A fun and action-packed Impostor game is here with the difference of meyagames. 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Action, Casual, farm, Fun, HTML5
+- Tags: .io, .io Games, 3D, Action, Casual, Farm, Fun, HTML5

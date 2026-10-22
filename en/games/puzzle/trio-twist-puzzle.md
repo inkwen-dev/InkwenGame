@@ -19,6 +19,6 @@ Trio Twist Puzzle is a fun and relaxing matching game where you sort colorful ob
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Best Games, Casual, free games for your site, Funny, Hypercasual

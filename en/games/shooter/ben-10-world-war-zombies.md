@@ -19,6 +19,6 @@ The last warrior alive must fight the zombies alone
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Ben 10, Shoot, Shooter, Shooting, Zombie

@@ -19,6 +19,6 @@ Bubble Shooter Saga is a multi-level bubble shooter game. The goal of the game i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bubble, Bubble Shooter, HTML, HTML5, Match 3, Match3, Matching, Puzzle, Shoot, Shooter, Shooting

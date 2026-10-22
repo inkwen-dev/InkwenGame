@@ -19,6 +19,6 @@ An exciting race in the outer space is waiting for you. 10 different routes and 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Car, Fun, Race, Racing, Stunts

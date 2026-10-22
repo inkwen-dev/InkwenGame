@@ -19,6 +19,6 @@ Have you heard about tie dye? Whether yes or no, this time you will know about i
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Cute, Design, Dress Up, Fun, Girls, HTML5, Kids, Mobile

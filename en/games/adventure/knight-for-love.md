@@ -19,6 +19,6 @@ Knight must rescue his lover, the princess. Now you control the knight to hit th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collection, Kids, Knight, Love, Princess

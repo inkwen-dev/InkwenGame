@@ -21,4 +21,4 @@ Worms have invaded our planet. The planet needs you. Try to clean up the planet 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, 3D, Action, Adventure, Alien, Animal, Boys, Fantasy, Gun, Hypercasual, Killing, Plane, Planet, worm, Worms
+- Tags: 2 Player, 2 Player Games, 3D, Action, Adventure, Alien, Animal, Boys, Fantasy, Gun, Hypercasual, Killing, Plane, Planet, Worm, Worms

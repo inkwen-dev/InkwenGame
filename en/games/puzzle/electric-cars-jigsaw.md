@@ -19,6 +19,6 @@ Electric Cars Jigsaw is a game in which you can select pictures of electric cars
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Jigsaw, Puzzle

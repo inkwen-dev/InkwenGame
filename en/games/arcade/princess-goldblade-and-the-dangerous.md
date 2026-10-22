@@ -19,6 +19,6 @@ Princess Goldblade and the Dangerous Waters In a magical world far away, there i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Boys, Casual, Dancing, Girls, Gold, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Princess

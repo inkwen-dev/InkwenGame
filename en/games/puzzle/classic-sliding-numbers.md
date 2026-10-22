@@ -19,6 +19,6 @@ This is Classic sliding game with numbers. You need to arrange the numbers in or
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Logic, Number, Puzzle

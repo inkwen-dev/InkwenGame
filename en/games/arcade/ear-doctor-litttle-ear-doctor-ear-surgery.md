@@ -19,6 +19,6 @@ Hey Doctor, I hurt my ear and it is so painful! Could you please help me to trea
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, 8 Ball Pool, Action, Adult, Adventure, Arcade, Boy, Boys, Candy, Dating, Doctor, Dora, Fun, Funny, Game, Games, Girl, Girls, Holiday, Ladybug, Miraculous Ladybug

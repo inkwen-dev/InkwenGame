@@ -19,6 +19,6 @@ Gorbo the Orc is a bold, funny platform adventure. The Minotaur Warlord stole th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Cartoon, Fantasy, Jumping, Monster, Platform, Side Scrolling

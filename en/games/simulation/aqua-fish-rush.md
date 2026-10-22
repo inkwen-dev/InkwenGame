@@ -21,4 +21,4 @@ Aqua Fish Rush is an energetic endless 2D underwater runner game in which the pl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, 2D, Defense, fishing, Fun, Game, survival, WebGL
+- Tags: 2026 games, 2D, Defense, Fishing, Fun, Game, survival, WebGL

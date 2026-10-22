@@ -19,6 +19,6 @@ Who are these adorable Santa's helpers? The holiday season is here and Sweet Bab
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Cleaning, Cooking, Decoration, Design, Dress Up, Fun, Girls, Holiday, HTML5, Kids, Mobile, Simulation

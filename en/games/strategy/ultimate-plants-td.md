@@ -19,6 +19,6 @@ Ultimate Plants TD is an army of plants to protect your garden from countless zo
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Plant, Puzzle, Strategy, Tower Defense, Zombie

@@ -19,6 +19,6 @@ Steer your 6x6 monster jeep or 4x4 jeep as a professional stunt driver. If you a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, Car, Driving, HTML5, Race, WebGL

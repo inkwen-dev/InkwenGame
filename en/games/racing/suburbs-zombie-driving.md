@@ -19,6 +19,6 @@ Suburbs Zombie Driving is an action packed driving game where you mission is to 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, Cars, Driving, Race, Racing, Undead, Unity3D, WebGL, Zombie

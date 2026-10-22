@@ -19,6 +19,6 @@ Zombies are taking over the world. You are the only hope! Save the world! Plant 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Defense, plants, Tower Defense, Zombie

@@ -19,6 +19,6 @@ Games2Fun Pop it now is a sensory fidget game. It helps you keep your attention,
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Casual, Hypercasual, Puzzle

@@ -19,6 +19,6 @@ Math : Kids Math Learning add, subtract, count best kids Math Game, math apps, a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cleaning, Educational, Kids, Math, Puzzle, Seduction

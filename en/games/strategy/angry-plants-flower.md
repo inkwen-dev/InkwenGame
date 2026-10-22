@@ -19,6 +19,6 @@ Angry Plants Flower Game is a beautiful and amazing game with monsters&rsquo; cr
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Defense, Logic, Tower Defense, Zombie

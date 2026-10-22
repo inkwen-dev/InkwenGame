@@ -19,6 +19,6 @@ Get ready for a heart-pounding motocross adventure in Stunt Dirt Bikes Rally Ext
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Bike, Casual, Hypercasual, Multiplayer, Obstacle, offroad, Race, Road, Sports, Stunts

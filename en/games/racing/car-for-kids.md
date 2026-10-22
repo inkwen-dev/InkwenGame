@@ -19,6 +19,6 @@ Work as the repair car master and car wash the dirty plane in the kids auto gara
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Boy, Car, Cars, Family, HTML, HTML5, Kids, Simulator

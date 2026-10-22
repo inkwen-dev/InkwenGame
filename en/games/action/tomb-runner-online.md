@@ -19,6 +19,6 @@ Navigate dangerous terrain as you carry stolen gems from the zombie temple. Reac
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Boys, Casual, Fun, Girls, HTML5, Hypercasual, Obstacle, run

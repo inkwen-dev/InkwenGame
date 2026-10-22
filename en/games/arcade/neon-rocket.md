@@ -19,6 +19,6 @@ Neon Rocket is a casual and very fun game. Balance the rocket and pass the obsta
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Balance, HTML5, Hypercasual, Rocket

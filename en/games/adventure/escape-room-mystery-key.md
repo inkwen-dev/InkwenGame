@@ -21,4 +21,4 @@ Escape Room Mystery Key is an intense escape room adventure filled with horror a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, horror, Puzzle, School
+- Tags: Escape, Horror, Puzzle, School

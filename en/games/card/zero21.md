@@ -19,6 +19,6 @@ Zero21 is a challenging game with a simple rule: Try to stay between 0 and 21. I
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 8 Ball Pool, Boy, Boys, card, Casino, Casual, Fun, Funny, Hypercasual, Kid, Kids, Math
+- Tags: .io, 8 Ball Pool, Boy, Boys, Card, Casino, Casual, Fun, Funny, Hypercasual, Kid, Kids, Math

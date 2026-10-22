@@ -19,6 +19,6 @@ Fast Fruit Master is a casual game play it on iyigames.com. Do you really want t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boy, Casual, cut, Fruit, Fun, Girl, HTML5, Hypercasual, Mobile, Slicing

@@ -19,6 +19,6 @@ It's a racing game. It's like a parking game, but the scene is on an overpass in
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arena, Balance, Car, Cars, H5, Kart, Skills

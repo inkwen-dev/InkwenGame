@@ -19,6 +19,6 @@ Fish Live is the game for all fish lovers! Raised a fish lately? Play Fish Live 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Candy, Cartoon, Classic, Cleaning, Click, Clicker, Fish, fishing
+- Tags: Candy, Cartoon, Classic, Cleaning, Click, Clicker, Fish, Fishing

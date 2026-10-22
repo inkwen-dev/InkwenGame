@@ -19,6 +19,6 @@ Funny Pet Vet games with levels offer hours of fun to boys and girls who love an
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Doctor, Girl, Girls

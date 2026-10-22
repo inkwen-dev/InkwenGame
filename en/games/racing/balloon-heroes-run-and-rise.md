@@ -19,6 +19,6 @@ Balloon Heroes: Run &amp; Rise is a fast-paced racing game where you compete in 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Multiplayer, Race, run, running

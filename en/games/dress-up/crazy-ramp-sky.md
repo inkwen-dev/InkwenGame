@@ -19,6 +19,6 @@ Stunt Master Racing Game is one of the most challenging crazy stunt game for you
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, 8 Ball Pool, Action, Air, Aircraft, Boy, Boys, Collection, Creation, Decoration, drift, drifting, Driving, Educational, Fashion, Girl, Girls, Interactive Fiction, Mario, Minion, Relaxation, Seduction, Sim, Simulation, Simulator, Unity3D, Violence

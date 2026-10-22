@@ -21,4 +21,4 @@ Battle! You need to control the rotation of your weapon and attack the enemy's b
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Arcade, Avoid, Battle, Fight, Game, Kid, Kids, management, Minecraft
+- Tags: 2D, Adventure, Arcade, Avoid, Battle, Fight, Game, Kid, Kids, Management, Minecraft

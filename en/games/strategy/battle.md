@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Android, Arcade, Battle, Battlegrounds, Classic, Defense, Fun, Funny, Kill, Killing, Mobile, Skill, Skills, Super, Superhero, Sword, Tower Defense, War

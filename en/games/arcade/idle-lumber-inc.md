@@ -19,6 +19,6 @@ How about an idea to open a sawmill? This occupation can bring you a lot of prof
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Best, Hot, HTML, HTML5, Hypercasual, Mind, Puzzle, Unity3D

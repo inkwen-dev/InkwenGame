@@ -19,6 +19,6 @@ The little princess's secret garden is filled with joy and laughter! Surrounded 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cooking, Cute, Decorate, Design, Dress Up, Fashion, Girl, Girls, Kids, Makeover, Simulation

@@ -19,6 +19,6 @@ Stylish, deadly and smooth as a billiard ball, Johnny Trigger is a man on a miss
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arcade, Best, Casual, Funny, Games, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Simulation, Simulator

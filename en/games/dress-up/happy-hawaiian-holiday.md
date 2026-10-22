@@ -19,6 +19,6 @@ Zoe, Chloe, and Winnie plan to go on a holiday in Hawaii. They are so excited ab
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Baby, Baby Games, Dress Up, Fashion, Holiday, Kid, Kids, Makeover, Relaxation

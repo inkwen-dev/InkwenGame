@@ -19,6 +19,6 @@ There is a square running as if its racing towards infinity. Help the geometry s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Casual, Geometry, Hypercasual, Platform

@@ -19,6 +19,6 @@ Football is here with its most funny and random way. In Soccer Random game, try 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Ball, Football, Fun, Funny, Physics, Soccer, Sport, Sports

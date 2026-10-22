@@ -19,6 +19,6 @@ Potatoball is a kind of volleyball simulator with a giant potato stuffed with ex
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Bomb, Fight, Fighting, HTML, HTML5, Hypercasual, Kill, Killing

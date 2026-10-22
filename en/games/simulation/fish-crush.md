@@ -19,6 +19,6 @@ Amazing fish-theme match-3 game! Then take a deep breath and dive into an underw
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Boys, Casual, Fish, fishing, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Simulation
+- Tags: 3D, Arcade, Best, Boys, Casual, Fish, Fishing, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Simulation

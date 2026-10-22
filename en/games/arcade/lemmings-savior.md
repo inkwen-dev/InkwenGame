@@ -19,6 +19,6 @@ Lemmings Savior is a highly addictive game where you control a life craft to bou
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Craft, Crafting, endless, Girl, Girls, HTML, HTML5, jump, Jumping

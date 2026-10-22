@@ -19,6 +19,6 @@ This cutting-edge car game has high-flying stunt ramps and cold environments to 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Android, Car, Cars, Driving, HTML, HTML5, Mobile, Supercars, Unity3D, WebGL

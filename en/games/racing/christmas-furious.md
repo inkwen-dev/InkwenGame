@@ -19,6 +19,6 @@ This year Christmas will be furious! Many balloons invaded the North Pole, and S
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Best, Casual, Christmas, Funny, Girls, Hot, Hypercasual, Kids, Mobile, New, Online, Racing, Simulation

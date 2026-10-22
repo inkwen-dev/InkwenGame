@@ -21,4 +21,4 @@ Upgrade your vehicle to fend off every wave of enemy attacks! The more gold you 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Boy, Car, Defense, Kid, Kids, management, Point And Click, Shoot
+- Tags: 2D, Arcade, Boy, Car, Defense, Kid, Kids, Management, Point And Click, Shoot

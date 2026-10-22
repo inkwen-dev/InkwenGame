@@ -19,6 +19,6 @@ FIFA Score is an online football penalty game that is perfect for fans of the sp
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Game, Games, HTML5, Online, Sports

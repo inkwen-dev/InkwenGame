@@ -19,6 +19,6 @@ You are a cat and you have to save yourself from the rat: Play with the touch sc
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Highscore, jump, Jumping

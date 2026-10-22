@@ -21,4 +21,4 @@ Jungle Mart is a casual idle farming and market management game where youep work
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, Adventure, farm, Food, idle, Kids, Monkey
+- Tags: .io, .io Games, 1 Player, 2D, Adventure, Farm, Food, idle, Kids, Monkey

@@ -19,6 +19,6 @@ Sonic Revert is a reimagining of the Sonic gameplay but where Sonic is controlle
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure

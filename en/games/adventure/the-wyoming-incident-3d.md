@@ -17,4 +17,4 @@ Get lost in a TV's eerie world where ghostly heads lurk. Navigate a maze as you 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ Build a city by placing roads, train tracks and rivers while playing tri peaks s
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Best, card, Casual, city, management, Road, Solitaire, Traffic, train
+- Tags: Android, Best, Card, Casual, city, Management, Road, Solitaire, Traffic, Train

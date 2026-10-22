@@ -21,4 +21,4 @@ Crazy Lawn Mower isn’t just another relaxing grass-cutting game—it’s one o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Animal, Cars, farm, Funny, Play, Simulation
+- Tags: 1 Player, 3D, 3D Games, Animal, Cars, Farm, Funny, Play, Simulation

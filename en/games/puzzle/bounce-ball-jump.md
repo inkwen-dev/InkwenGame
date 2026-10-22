@@ -19,6 +19,6 @@ Bounce Ball Jump is a puzzle game with Ball. Control the ball that moves and jum
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Bounce, HTML5, jump, Jumping, Kids, Puzzle

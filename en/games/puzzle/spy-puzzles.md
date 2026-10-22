@@ -19,6 +19,6 @@ Here are 5 game modes you can choose from: jigsaw puzzle, 15 puzzles, sliding pu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Jigsaw, Kids, Puzzle

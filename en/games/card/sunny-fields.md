@@ -21,4 +21,4 @@ Welcome to a vibrant farming adventure! Build and expand your own farm by purcha
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Balance, Best Games, Brain, build, builder, building, Business, card, Casual, Collecting, farm, Highscore, Relaxation
+- Tags: Arcade, Balance, Best Games, Brain, build, builder, building, Business, Card, Casual, Collecting, Farm, Highscore, Relaxation

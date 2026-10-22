@@ -19,6 +19,6 @@ Solitaire Crime Stories is an exciting new Solitaire game which will carry you a
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Detective, Solitaire

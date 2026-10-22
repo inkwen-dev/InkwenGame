@@ -19,6 +19,6 @@ This cake shop game is specially made for you guys. In the cake making game, you
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Cake, Casual, Fun, Funny, Hot, Hypercasual, Shopping, Unity3D

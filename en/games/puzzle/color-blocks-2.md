@@ -19,6 +19,6 @@ Color Blocks is an interesting puzzle color game. There are some filled blocks a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Brain, Color, Mobile, Puzzle

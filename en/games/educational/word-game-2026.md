@@ -19,6 +19,6 @@ Welcome to Words Game 2026 &mdash; a relaxing and addictive crossword adventure!
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2026 games, 2D, Best, Best Games, Educational, Girl, Letters, Word

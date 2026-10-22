@@ -19,6 +19,6 @@ This is a classic bow and arrow shooting mobile game. It has a variety of bow an
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Boys, Casual, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Kid, Kids, Launch, Mobile, Shoot, Shooter

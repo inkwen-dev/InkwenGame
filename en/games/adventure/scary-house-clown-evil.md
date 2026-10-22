@@ -21,4 +21,4 @@ Scary House Clown Evil is an Exciting Thriller 3D horror game, inspired by all h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Best Games, Escape, free games for your website, horror
+- Tags: 3D Games, Best Games, Escape, free games for your website, Horror

@@ -19,6 +19,6 @@ Baby Supermarket is a vibrant and educational game designed for young children, 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Educational, Kid, Kids, NapTech Games

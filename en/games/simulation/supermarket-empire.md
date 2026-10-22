@@ -21,4 +21,4 @@ Supermarket Empire is a simulation game where you become the master of your own 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Shopping, Simulation, tycoon
+- Tags: Management, Shopping, Simulation, tycoon

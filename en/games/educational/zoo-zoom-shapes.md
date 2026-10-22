@@ -19,6 +19,6 @@ Get ready for a wild shape-matching adventure in Zoo Zoom Shapes! Match the ador
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best Games, Educational, Fun

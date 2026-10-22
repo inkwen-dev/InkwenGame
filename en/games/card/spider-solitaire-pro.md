@@ -19,6 +19,6 @@ Spider Solitaire is a card game that uses two decks of cards. The more cards, th
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, card, Game, Games, HTML, HTML5, Mobile, Online, Solitaire
+- Tags: 1 Player, Card, Game, Games, HTML, HTML5, Mobile, Online, Solitaire

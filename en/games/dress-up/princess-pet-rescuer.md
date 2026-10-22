@@ -19,6 +19,6 @@ Princess Mia's pet met with an accident and it needs your attention and help. Re
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Coloring, Cooking, Dora, Dress Up, Girls, Hair, Kids, Kiss, Kissing, Love, Pokemon, Princess, Rescue, Shopping

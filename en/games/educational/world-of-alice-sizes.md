@@ -19,6 +19,6 @@ World of Alice - Sizes World of Alice - Sizes is a game developed for children t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Cartoon, Educational, free html5 games for your website, Fun, html5 games for your site, Kids, School, touch

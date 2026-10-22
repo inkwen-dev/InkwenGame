@@ -19,6 +19,6 @@ The #1 fishing hit game is now available on Android! Join over 16 MILLION Ninja 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: fishing, Ninja
+- Tags: Fishing, Ninja

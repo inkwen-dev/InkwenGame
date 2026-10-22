@@ -19,6 +19,6 @@ Bubble Shooter Treasure Rush is a target-based challenging bubble shooter game. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Collecting, Girls, HTML5, Mobile

@@ -19,6 +19,6 @@ Police Car Line Driving is a cool and addictive 3D car-avoiding arcade game. You
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Bomb, Boys, Car, Kids, Platform, Police, Racing, Stunts

@@ -19,6 +19,6 @@ Hi girls Play "Nail Art Design" to become the best nail artist in the world. Cre
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Girl, Girls, Hot, New

@@ -19,6 +19,6 @@ In this Halloween Jigsaw game you can choose your favorite images with Halloween
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, Jigsaw, Puzzle, Truck

@@ -31,4 +31,4 @@ Install the game right now to begin your relaxing auto mechanic career! 📲🏁
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Car, cozy, management, Point And Click
+- Tags: 3D, Car, cozy, Management, Point And Click

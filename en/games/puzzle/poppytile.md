@@ -36,4 +36,4 @@ See you in PoppyTile!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Match 3, Matching
+- Tags: Match-3, Matching

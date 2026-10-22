@@ -23,4 +23,4 @@ Lead the animals to their enclosures, identified by green arrows and matching im
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, farm
+- Tags: animals, Farm

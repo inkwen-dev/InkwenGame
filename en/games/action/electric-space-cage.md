@@ -19,6 +19,6 @@ You are in space are you need to avoid electric and magnetic fields and planets.
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Platform, Puzzle, Space

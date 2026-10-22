@@ -19,6 +19,6 @@ Summer is coming! This vacation Baby Taylor is glad to be gifted with a beach tr
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cute, Dress Up, Educational, Food, Girl, Girls, Hidden, Kids, Makeover, Simulation

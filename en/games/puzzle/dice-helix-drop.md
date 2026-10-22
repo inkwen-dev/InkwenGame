@@ -19,6 +19,6 @@ Dice Helix Drop is a fun and addictive one-touch 3D arcade game where you guide 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Helix, Puzzle

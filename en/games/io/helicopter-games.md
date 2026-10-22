@@ -19,6 +19,6 @@ Looking for a helicopter rescue game with Helicopter Simulator for a Rescue Miss
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, Adventure, Best, Casual, Crazy, Fight, fly, Fun, Hypercasual, Unity3D

@@ -19,6 +19,6 @@ Steer open-world chaos in Cop Ramp Sandbox! Take the wheel of high-speed police 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Driving, gta, Police, Sandbox, Unity3D, WebGL

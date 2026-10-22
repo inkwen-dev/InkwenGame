@@ -19,6 +19,6 @@ Convertible Cars Jigsaw is a game where you need to put the pieces together in r
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cars, Jigsaw, Puzzle

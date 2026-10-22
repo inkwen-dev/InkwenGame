@@ -19,6 +19,6 @@ Sort all color balls in the tubes, How far can you go? Sort it Puzzle is a fun a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, 8 Ball Pool, Adventure, Baby, Ball, Boys, Girls, Kiss, Minecraft, Puzzle

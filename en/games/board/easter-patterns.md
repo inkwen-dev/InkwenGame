@@ -19,6 +19,6 @@ Look at the pattern what is missing. Drag the missing thing on its place. Just c
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Easter, Educational, HTML5, Logical, Mobile, Puzzle, Skill

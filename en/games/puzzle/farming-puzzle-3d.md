@@ -19,6 +19,6 @@ A game for few puzzle solvers. Drive the Tractor using taps and finish up the da
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Clicker, farm, Game, Puzzle, Unity3D
+- Tags: 3D, 3D Games, Clicker, Farm, Game, Puzzle, Unity3D

@@ -19,6 +19,6 @@ Ready to SMASH? Get set, SMASH LEGENDS! SMASH LEGENDS is free and fun PvP Action
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D, 3D Games, Action, Arcade, Cartoon, Casual, Fighting, Funny, Simulation, smash, unity games

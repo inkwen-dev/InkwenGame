@@ -19,6 +19,6 @@ Moto Attack - Bike Racing is a fun bike racing simulator that takes speed and ac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: attack, Fight, Funny, Motorcycle

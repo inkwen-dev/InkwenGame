@@ -19,6 +19,6 @@ Park Out is a unique puzzle game that lets your brain to be used more and more. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, Car, Cars, HTML5, Logic, Logical, Parking, Puzzle, WebGL

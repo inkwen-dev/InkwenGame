@@ -19,6 +19,6 @@ Escape Ancient Egypt is an Adventure 3D puzzle game in the mysterious ruins of t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Brain, Escape, Logic, Puzzle

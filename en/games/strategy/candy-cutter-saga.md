@@ -19,6 +19,6 @@ Candy Cutter Saga is a sweet and exciting physics-based puzzle game where precis
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Brain, Puzzle, Strategy

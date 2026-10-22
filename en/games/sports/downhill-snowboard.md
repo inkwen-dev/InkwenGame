@@ -19,6 +19,6 @@ Downhill Snowboard it is a very challenging game. The objective of the game is t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Casual, endless, Hypercasual, Skill, Snow, Sport

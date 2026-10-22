@@ -19,6 +19,6 @@ Kill the Buddy is fun arcade parody game . The rules of the game is simple. You 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Cartoon, Celebrity, Fun, Kids, Mobile, Puzzle, Skill

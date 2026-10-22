@@ -19,6 +19,6 @@ In Blocky Leap, players take control of an expressive, square-headed character n
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, jump, Mentolatux, Skill, unity, WebGL

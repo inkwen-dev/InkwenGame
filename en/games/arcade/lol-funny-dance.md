@@ -21,4 +21,4 @@ LOL Funny Dance is a hilarious and free-to-play online game perfect for kids. Pi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Celebrity, Fun, Funny, Hypercasual, mouse, Point And Click
+- Tags: Arcade, Celebrity, Fun, Funny, Hypercasual, Mouse, Point And Click

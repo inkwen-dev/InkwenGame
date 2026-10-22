@@ -25,4 +25,4 @@ Explore horror and mystery in Patagonians! Search for your missing daughter, bat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, horror, Mobile, Point And Click, scary, story, survival
+- Tags: Adventure, Horror, Mobile, Point And Click, scary, story, survival

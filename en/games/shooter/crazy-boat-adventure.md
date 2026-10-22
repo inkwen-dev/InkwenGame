@@ -21,4 +21,4 @@ Welcome to Crazy Boat Adventure. Jump in your supercharged boat and take a wild 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, endless, Hypercasual, Shooting
+- Tags: Boat, endless, Hypercasual, Shooting

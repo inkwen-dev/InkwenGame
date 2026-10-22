@@ -19,6 +19,6 @@ Pocket Golf is a hand-drawn minigolf game sketched on notebook paper. Aim, choos
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Golf, HTML5, Hypercasual, Mobile

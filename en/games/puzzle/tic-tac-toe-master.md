@@ -19,6 +19,6 @@ Tic Tac Toe Master is a skill game where 2 player game in which the objective is
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Best, Casual, Fun, Funny, Hypercasual, Kids, Logic, Logical, Mobile, Skill, Skills

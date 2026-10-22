@@ -19,6 +19,6 @@ Shoot bubbles and match colors to pop and drop your way to help the robot find t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, Adventure, Bubble, Bubble Shooter, Hypercasual, Match 3, Match3, Play, Puzzle, Shooter, Shooting

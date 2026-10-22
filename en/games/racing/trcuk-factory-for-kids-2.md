@@ -21,4 +21,4 @@ CONSTRUCT and RIDE your very own construction transport is fairly easy right now
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Boys, Car, Classic, Cleaning, Creation, Disney, Girl, Girls, H5, HTML5, train, Truck
+- Tags: Boy, Boys, Car, Classic, Cleaning, Creation, Disney, Girl, Girls, H5, HTML5, Train, Truck

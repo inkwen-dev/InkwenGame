@@ -21,4 +21,4 @@ Farm animals are cute, happy and funny! Our interactive educational games for ki
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Educational, farm, Kids
+- Tags: Animal, Educational, Farm, Kids

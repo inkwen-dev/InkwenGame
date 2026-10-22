@@ -21,4 +21,4 @@ Silent Asylum 2 features eerie atmosphere of a foggy town where your mission is 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, First Person Shooter, Gun, horror, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D
+- Tags: 3D, 3D Games, Action, First Person Shooter, Gun, Horror, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D

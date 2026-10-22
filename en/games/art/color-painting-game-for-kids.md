@@ -19,6 +19,6 @@ A Coloring Game For Kids You Will Have A Lot Of Fun Coloring The Hamburger And T
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Boys, burger, Color, Coloring, Girl, Girls, Plane, Puzzle
+- Tags: Boy, Boys, Burger, Color, Coloring, Girl, Girls, Plane, Puzzle

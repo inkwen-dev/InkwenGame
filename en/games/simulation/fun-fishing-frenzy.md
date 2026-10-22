@@ -19,6 +19,6 @@ You’re in it to fight for prey, fish, blow up rabid sharks and sea horses, col
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Fish, fishing, HTML5, Kids, Mobile, Puzzle, Skill
+- Tags: Animal, Fish, Fishing, HTML5, Kids, Mobile, Puzzle, Skill

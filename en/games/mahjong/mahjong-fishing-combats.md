@@ -19,6 +19,6 @@ This is a turn based mahjong game in which you play with an opponent. When your 
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Arcade, fishing, HTML5, Mahjong, Matching, Mobile, Puzzle
+- Tags: 2 Player, 2 Player Games, Arcade, Fishing, HTML5, Mahjong, Matching, Mobile, Puzzle

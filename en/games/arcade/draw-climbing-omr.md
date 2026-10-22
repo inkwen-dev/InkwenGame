@@ -19,6 +19,6 @@ Draw Climbing anywhere on the screen, any size you want to create legs and run. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Arcade, Draw, Fun, HTML5, Hypercasual, Interactive

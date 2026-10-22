@@ -19,6 +19,6 @@ Embark on an exciting cosmic adventure in Galactic Pixel Storm! Immerse yourself
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Alien, Battle, Block, Bomb, demolition, Minecraft

@@ -19,6 +19,6 @@ Heavy flight over skyscrapers in which you try to avoid the missiles that move t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Aircraft, Flight, Helicopter, HTML5, Mobile, Plane, Skill

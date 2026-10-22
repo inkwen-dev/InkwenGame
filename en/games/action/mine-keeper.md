@@ -19,6 +19,6 @@ Mine Keeper is a simulation game where you play as a dwarf lord and create one o
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, building, Collecting, farm, Fighting, Top Down, Unity3D
+- Tags: 3D, 3D Games, building, Collecting, Farm, Fighting, Top Down, Unity3D

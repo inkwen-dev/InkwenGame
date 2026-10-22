@@ -19,6 +19,6 @@ You will think a lot and have a lot of fun while playing the Lipuzz game. A grea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, HTML5, Puzzle

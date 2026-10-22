@@ -19,6 +19,6 @@ Click On The Screen
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Baby Hazel, Best, Boy, Boys, Click, Clicker, Girl, Girls, H5, Hot, HTML, HTML5, Kid, Kids, Rabbit

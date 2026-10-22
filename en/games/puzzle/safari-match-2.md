@@ -21,4 +21,4 @@ Play Safari Match, a fun and addictive match-3 puzzle game set in the heart of t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Match 3, Matching, NapTech Games, Puzzle, puzzleblock
+- Tags: Arcade, Match-3, Matching, NapTech Games, Puzzle, puzzleblock

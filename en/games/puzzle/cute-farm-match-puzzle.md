@@ -19,6 +19,6 @@ Cute Farm Match Puzzle brings you into a charming farm world filled with adorabl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, farm, Matching, Relaxation
+- Tags: Animal, Farm, Matching, Relaxation

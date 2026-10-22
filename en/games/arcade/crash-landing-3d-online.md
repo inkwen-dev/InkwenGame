@@ -19,6 +19,6 @@ Crash Landing 3D is a real simulation game to restore the takeoff and landing pr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Aircraft, Avoid, Boy, Boys, fly, H5, HTML, HTML5, Kids, Mobile, Plane, Skill, Skills, sky, Stunts

@@ -21,4 +21,4 @@ A Fox Running in the farm and escape from the animals for get the strawberries.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Animal, endless, Escape, farm, Hypercasual, running
+- Tags: 2D, Animal, endless, Escape, Farm, Hypercasual, running

@@ -19,6 +19,6 @@ Welcome to Raven Angry Teen SuperHero Fun Adventure Game, the world’s most cre
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Anime, Cartoon, Cartoon Network, Fun, Games, Racing, run, running, Super, Superhero

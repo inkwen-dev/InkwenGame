@@ -19,6 +19,6 @@ This is a simple racing game in which you control a buggy on a beach track and h
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Race, Skill, WebGL

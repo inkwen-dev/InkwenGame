@@ -19,6 +19,6 @@ A Crypto currency match-3 game! Get into making money with latest cryptos added 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Casino, Match 3, Puzzle

@@ -19,6 +19,6 @@ Let's play a brand-new Hide and Seek game. Everybody hide or seek. Ready or not,
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, Fun, Hidden, HTML5

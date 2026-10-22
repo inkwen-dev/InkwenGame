@@ -19,6 +19,6 @@ Mind Gambit is a relaxing puzzle game inspired by the classic Peg Solitaire. Pla
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Brain, Logical, Puzzle, Strategy

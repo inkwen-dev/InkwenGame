@@ -21,4 +21,4 @@ You are in charge of building the world's highest tower. Gather or produce the n
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Android, Arcade, Business, Clicker, management, Simulation
+- Tags: 1 Player, 2D, Android, Arcade, Business, Clicker, Management, Simulation

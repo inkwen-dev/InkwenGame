@@ -19,6 +19,6 @@ Help Santos Dumont stay as long as possible on the plane and cross Paris. With j
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Best, Cartoon, Casual, Highscore, HTML5, Hypercasual

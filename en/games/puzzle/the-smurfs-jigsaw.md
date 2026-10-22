@@ -19,6 +19,6 @@ The Smurfs Jigsaw is a jigsaw puzzle game we prepare for you to spend your spare
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Baby, Cartoon, Casual, Cute, Girl, Girls, H5, HTML5, Jigsaw, Puzzle

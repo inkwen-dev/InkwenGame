@@ -21,4 +21,4 @@ Dream Kitchen is a fun and fast-paced restaurant simulation game inspired by sha
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, Cook, Cooking, Food, Girl, Girls, Hypercasual, management, Restaurant, Simulation, Simulator
+- Tags: Casual, Cook, Cooking, Food, Girl, Girls, Hypercasual, Management, Restaurant, Simulation, Simulator

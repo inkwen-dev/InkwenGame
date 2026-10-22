@@ -19,6 +19,6 @@ Parking Parking Jam 3D-Puzzle is a game that challenges you to display your logi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Car, Cars, HTML5, Hypercasual, Parking, Puzzle, Unity3D

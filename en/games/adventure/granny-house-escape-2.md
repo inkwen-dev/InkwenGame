@@ -17,4 +17,4 @@ Navigate a mysterious, eerie house in "Granny House Escape," where intellect and
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

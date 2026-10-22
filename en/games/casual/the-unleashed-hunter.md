@@ -17,4 +17,4 @@ Embark on a dynamic shooting adventure in The Unleashed Hunter, perfecting your 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: hunting
+- Tags: Hunting

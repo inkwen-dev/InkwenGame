@@ -19,6 +19,6 @@ There are three books and each of it has numbers on it. Look for the number whic
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Fun, HTML5, Kids, Mobile, Number, Skill

@@ -19,6 +19,6 @@ Survival Race: The Blue Rainbow Monster takes you on an adrenaline-fueled journe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, iPad, iPhone, Mobile, Monster, Racing, run, running

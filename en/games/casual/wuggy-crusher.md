@@ -19,6 +19,6 @@ The world is infected by wuggy, destroy all wuggy by tap or clicking the wuggy a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Click, Clicker, Point And Click

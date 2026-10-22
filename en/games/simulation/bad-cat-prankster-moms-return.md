@@ -19,6 +19,6 @@ Play as the naughtiest cat in town in Bad Cat Prankster - Moms Return! Step into
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Cat, Escape, running, Simulation

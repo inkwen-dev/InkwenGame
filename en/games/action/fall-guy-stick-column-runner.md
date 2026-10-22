@@ -19,6 +19,6 @@ Its a game that you will have fun playing. Pass the traps and go to the next lev
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Arcade, Balance, Casual, endless, Fall Guys, Game, Obstacle, running, Skill

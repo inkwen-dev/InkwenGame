@@ -21,4 +21,4 @@ It is a Halloween variation of Solitaire. You need to pass all 100 levels. Use j
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Halloween, Puzzle, Solitaire
+- Tags: Card, Halloween, Puzzle, Solitaire

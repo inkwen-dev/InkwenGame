@@ -21,4 +21,4 @@ Unique Levels: Explore a variety of captivating and unique levels. Realistic Phy
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Best Games, bicycle, Bike, BMX, BMX Games, Brain, Casual, Christmas, Draw, Drawing, Racing
+- Tags: 3D, Arcade, Best, Best Games, Bicycle, Bike, BMX, BMX Games, Brain, Casual, Christmas, Draw, Drawing, Racing

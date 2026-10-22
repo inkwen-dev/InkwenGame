@@ -19,6 +19,6 @@ Welcome to ArmedForces.io, where adrenaline-fueled action, intense shooting, and
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, Army, Best, Best Games, First Person Shooter, fps, free games for your site, Gun, Multiplayer, Shooting, Sniper, Unity3D, weapons

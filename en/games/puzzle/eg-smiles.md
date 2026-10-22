@@ -19,6 +19,6 @@ The goal is to crushes all the smiles.. except the red one! So simple! Touch or 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Bejeweled, Match 3, Match3, Puzzle

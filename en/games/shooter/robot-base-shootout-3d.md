@@ -19,6 +19,6 @@ As a person who saves the world from evil forces and robots, you expect to have 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Army, Battle, Boys, Defense, Dungeon, Fun, Gun, Kill, Killing, Robot, Shooter, Shooting, Sniper, Unity3D, weapons, WebGL

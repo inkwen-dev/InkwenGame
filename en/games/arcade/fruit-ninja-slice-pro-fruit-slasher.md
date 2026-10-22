@@ -19,6 +19,6 @@ This is a fun agile game. In the game, you should quickly cut the fruit that jum
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Boy, cut, Fight, Food, Fruit, Fruits, Girl, HTML5, New, Ninja, WebGL

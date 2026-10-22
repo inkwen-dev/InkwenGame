@@ -19,6 +19,6 @@ Rope Slash Classic in this game you have to cut the rope correct time but easy a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, cut, Hypercasual, Physics, Puzzle

@@ -19,6 +19,6 @@ Taking care of a baby is not an easy task. Come and learn how to take care of a 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Fun, Girl, Girls, H5, HTML5, Kid, Kids

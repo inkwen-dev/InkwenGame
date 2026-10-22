@@ -19,6 +19,6 @@ Clean Ocean With the game, Clean Ocean helps to clean the ocean in a fun way on 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Educational, HTML5, Kids, School, World

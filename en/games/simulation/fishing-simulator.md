@@ -17,4 +17,4 @@ Dive into the tranquil world of Fishing Simulator, where zen relaxation meets th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

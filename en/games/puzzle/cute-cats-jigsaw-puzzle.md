@@ -19,6 +19,6 @@ CUTE CATS JIGSAW PUZZLE is a traditional puzzle game that has 20 different puzzl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Animal, Boy, Boys, Casual, Cat, Cute, Fun, Funny, Girl, Girls, Hypercasual, Jigsaw, Puzzle, Relaxation

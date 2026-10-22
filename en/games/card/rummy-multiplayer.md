@@ -19,6 +19,6 @@ Rummy Multiplayer is a HTML5 Card Game. Enjoy this stylish version of the classi
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, Board, card, Strategy
+- Tags: 2 Player Games, Board, Card, Strategy

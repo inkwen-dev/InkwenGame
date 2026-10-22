@@ -19,6 +19,6 @@ Jewel Block Puzzle is a logical kid's puzzle game. This is a little bit differen
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, HTML5, Kids, Puzzle, Tetris

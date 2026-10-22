@@ -19,6 +19,6 @@ Plumber Rotator is a thrilling puzzle game that puts your problem-solving skills
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, free games for your website, Fun, HTML5, Unity3D, WebGL

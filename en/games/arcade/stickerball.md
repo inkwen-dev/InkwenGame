@@ -44,4 +44,4 @@ Play across 12 vibrant, randomly changing fields. Buy sticker packs, upgrade you
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Mobile, mouse
+- Tags: Arcade, Ball, Mobile, Mouse

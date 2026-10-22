@@ -19,6 +19,6 @@ Drop the bricks to get the candy. In Candy Brick you can earn extra live, shield
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Bricks, Candy, Puzzle

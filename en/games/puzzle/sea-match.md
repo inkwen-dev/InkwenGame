@@ -19,6 +19,6 @@ See Match is a challenging match-3 puzzle game. Connect 3 or more of the same fi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Fish, fishing, Match3, Matching, Puzzle, water
+- Tags: Animal, Fish, Fishing, Match3, Matching, Puzzle, water

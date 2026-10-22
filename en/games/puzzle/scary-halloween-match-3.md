@@ -19,6 +19,6 @@ Scary Halloween Match 3 is a free online game three in a row, in which you have 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, Halloween, HTML5, Match 3, Matching, Skill
+- Tags: Fun, Halloween, HTML5, Match-3, Matching, Skill

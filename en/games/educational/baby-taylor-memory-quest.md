@@ -19,6 +19,6 @@ Step into a world of cute challenges and brain-boosting fun with Baby Taylor Mem
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Educational, Fun, Girls, Logic, Memory, Puzzle

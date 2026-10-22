@@ -19,6 +19,6 @@ Santa must deliver gifts to children in time! There are many kids and only one S
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2D, Casual, Christmas, Classic, endless, Flight, Hypercasual, Mobile, Santa, Santa Claus, unity

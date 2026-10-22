@@ -19,6 +19,6 @@ Box Run is a touch and hold game. Boxes of the same color touch each other to ea
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Color, Funny, Logic, Math

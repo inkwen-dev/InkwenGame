@@ -19,6 +19,6 @@ The crew is just waiting for your order to set sail, all ready to go off in sear
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Match 3, Ninja, Puzzle

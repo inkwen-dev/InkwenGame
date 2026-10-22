@@ -17,4 +17,4 @@ Dive into a vibrant world where you capture diverse creatures and engage in thri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

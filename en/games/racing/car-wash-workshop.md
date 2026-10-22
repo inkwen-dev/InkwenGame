@@ -21,4 +21,4 @@ Get ready for the smart car parking game and car wash game. Have you ever played
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, Adventure, Best, Casual, Cleaning, Design, Fun, Funny, Unity3D, worm
+- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, Adventure, Best, Casual, Cleaning, Design, Fun, Funny, Unity3D, Worm

@@ -19,6 +19,6 @@ Eco Ninja is a match-3 game for recyclable items. This is based in Ninja theme a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Match 3, Ninja, Puzzle

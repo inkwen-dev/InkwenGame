@@ -19,6 +19,6 @@ A few years ago dinosaurs were living in our world. Unfortunately they are extin
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Boy, Click, Clicker, Collecting, Collection, Dinosaur, Fun, Funny, Girl, HTML, HTML5, Kid, Kids, New

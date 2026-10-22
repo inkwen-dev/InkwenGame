@@ -46,4 +46,4 @@ Zasteroid is a fast-paced 2D top-down space shooter with roguelike progression. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, mouse, Shooting, Space
+- Tags: Action, Arcade, Mouse, Shooting, Space

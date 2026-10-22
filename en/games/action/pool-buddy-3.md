@@ -19,6 +19,6 @@ Pool Buddy 3 is fun logic game suitable for all ages. Welcome to Pool Buddy 3! C
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Fun, HTML5, Hypercasual, Kids, Logic, Mobile, Platform, Puzzle, Skill

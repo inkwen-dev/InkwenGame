@@ -21,4 +21,4 @@ Rift of Hell - Demons War is a fast-paced action game where players face off aga
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, First Person Shooter, horror, popular, pve, Shooting, survival, War
+- Tags: 3D, Action, First Person Shooter, Horror, popular, pve, Shooting, survival, War

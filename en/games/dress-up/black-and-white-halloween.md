@@ -19,6 +19,6 @@ Black and white colors are in trend today. And still very close to everyone's fa
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, Girl, Girls, rpg
+- Tags: Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, Girl, Girls, RPG

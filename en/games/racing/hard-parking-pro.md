@@ -19,6 +19,6 @@ Hard Parking game contains many hard parking levels with different themes. So th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best, Boy, Car, car tuning, Cars, drift, drifting, Driving, Parking, Simulation, Supercars, Unity3D

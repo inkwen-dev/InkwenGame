@@ -19,6 +19,6 @@ Heartfelt wedding day is coming. Lovely lady of the hour Annie is exceptionally 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Dress Up, Fashion, Girl, Girls

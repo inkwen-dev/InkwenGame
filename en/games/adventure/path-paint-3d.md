@@ -19,6 +19,6 @@ Path Paint 3D is fun addictive hyper casual arcade game.Click and hold to paint 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Casual, Hypercasual

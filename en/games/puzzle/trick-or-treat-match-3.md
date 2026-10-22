@@ -19,6 +19,6 @@ Trick Or Treat Match 3 – this cool game with Halloween theme is three in a row
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Halloween, HTML5, Kids, Match 3, Match3, Mobile, Puzzle, Skill

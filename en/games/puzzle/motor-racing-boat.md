@@ -21,4 +21,4 @@ Motor Racing Boat game is a free online game in the jigsaw puzzle genre. You hav
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, HTML5, Jigsaw, Kids, Mobile, Puzzle, Racing
+- Tags: Boat, HTML5, Jigsaw, Kids, Mobile, Puzzle, Racing

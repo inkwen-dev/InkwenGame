@@ -21,4 +21,4 @@ Step back into the terrifying world of Five Nights at Freddy&rsquo;s in FNAF: Se
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, horror, Puzzle, survival
+- Tags: Escape, Horror, Puzzle, survival

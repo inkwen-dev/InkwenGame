@@ -19,6 +19,6 @@ Play Pinocchio Bubble Shooter Games is a fun Game bubble burst game with 70 uniq
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Brain, Bubble, Bubble Shooter, Match 3, Winter

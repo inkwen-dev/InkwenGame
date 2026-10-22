@@ -19,6 +19,6 @@ Mermaid Princess Rescue Story!Mermaid games for girls!Mermaid Principesse Mia wa
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Dress Up, Girls, Hot, Kids, Magic, Mermaid, New, Online, Princess, Punch, Puzzle, Rescue, Summer

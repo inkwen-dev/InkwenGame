@@ -21,4 +21,4 @@ Poppy Strike 4 is a horror shooter game where you are trapped in a spooky toy fa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, First Person Shooter, horror, huggy, Poppy Playtime, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, First Person Shooter, Horror, huggy, Poppy Playtime, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D

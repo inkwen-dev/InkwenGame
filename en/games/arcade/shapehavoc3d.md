@@ -19,6 +19,6 @@ Move the tablet forward. Randomly shaped obstacles will appear ahead. Before the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Best Games, Game, Hypercasual

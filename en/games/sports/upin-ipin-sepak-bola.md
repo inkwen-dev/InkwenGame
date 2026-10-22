@@ -19,6 +19,6 @@ Upin Ipin Sepak Bola Permainan bola sepak yang menyeronokkan. Mampukan anda mene
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Football, Kids, Soccer

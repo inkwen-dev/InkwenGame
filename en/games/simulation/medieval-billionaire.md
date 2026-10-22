@@ -19,6 +19,6 @@ Dreaming about becoming rich? Stop dreaming and start working on it right now! O
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Click, endless, management
+- Tags: Best, Click, endless, Management

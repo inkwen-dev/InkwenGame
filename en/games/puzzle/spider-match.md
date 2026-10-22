@@ -19,6 +19,6 @@ Unleash your inner hero and become the legend you were destined to be. Prepare f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: free html5 games for your website, Kiz 10, Match 3, Puzzle, Spiderman, Superhero

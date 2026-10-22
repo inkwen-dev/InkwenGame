@@ -19,6 +19,6 @@ This is a collection of games for toddlers. Our games offer a variety of game mo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collection, Educational, eggs, Relaxation

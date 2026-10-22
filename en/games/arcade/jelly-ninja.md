@@ -19,6 +19,6 @@ An addicted typical arcade game, simple to play, nice design, fun and relax-able
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Fun, Games, HTML5, Mobile

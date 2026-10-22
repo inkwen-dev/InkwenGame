@@ -19,6 +19,6 @@ Draw the Rest Challenge is a fun drawing puzzle game. You are presented with a d
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Cartoon, Drawing, Fun, Girls, HTML5, Hypercasual, Kids, Mobile, Skill

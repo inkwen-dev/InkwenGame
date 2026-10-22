@@ -19,6 +19,6 @@ Dimness – the Dark Side of an Endless Runner Game Dimness is a new, free autom
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Classic, Crazy, HTML, HTML5, Platform

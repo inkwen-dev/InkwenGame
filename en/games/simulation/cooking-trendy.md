@@ -19,6 +19,6 @@ Do you want your food to bring joy to everyone? Theres nothing better than cooki
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Food, Restaurant

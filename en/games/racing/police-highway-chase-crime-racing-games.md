@@ -21,4 +21,4 @@ ake control of some amazing police cars in a huge driving environment ready to e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Army, Avoid, Bomb, Cars, Fighting, fishing, Interactive, Race
+- Tags: Action, Adventure, Army, Avoid, Bomb, Cars, Fighting, Fishing, Interactive, Race

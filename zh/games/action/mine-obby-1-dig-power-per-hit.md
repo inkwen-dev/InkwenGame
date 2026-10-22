@@ -57,4 +57,4 @@ WASD - 角色移动 🏃
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, Minecraft, 障碍
+- 标签: 3D, 我的世界, 障碍

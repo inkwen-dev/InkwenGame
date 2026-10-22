@@ -29,4 +29,4 @@ Game Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, idle, Magic, rpg
+- Tags: Adventure, idle, Magic, RPG

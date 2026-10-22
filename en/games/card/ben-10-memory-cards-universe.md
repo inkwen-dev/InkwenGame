@@ -19,6 +19,6 @@ A new online Cartoon Network game for boys is appearing here on our website, and
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ben 10, card, Memory, Puzzle
+- Tags: Ben 10, Card, Memory, Puzzle

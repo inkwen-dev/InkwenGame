@@ -19,6 +19,6 @@ Super Race 3D is a fun and free leisure online game for boys. You need to let th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Brain, Car, Fun, HTML5, Kids, Number, Obstacle, Online, Puzzle

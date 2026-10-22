@@ -19,6 +19,6 @@ Time to put your skills to test with Jump Jelly Jump! Try to control these super
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jelly, jump, Jumping

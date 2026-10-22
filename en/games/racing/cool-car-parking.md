@@ -19,6 +19,6 @@ Do you want to be a car parking master? This game is for you. You can practice p
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boys, Car, Cars, Classic, Fun, Game, HTML5, Parking

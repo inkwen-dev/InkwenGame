@@ -19,6 +19,6 @@ The Extreme Supercar: Stunt Drive is an adrenaline-fueled spectacle of automotiv
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, car tuning, Driving, HTML5, Mobile, Racing, Stunts, Supercars, trial car

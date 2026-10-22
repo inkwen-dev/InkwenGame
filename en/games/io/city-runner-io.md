@@ -19,6 +19,6 @@ In modern society, who does not want to have more helpers? Running the city, som
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, city, Hypercasual, run, running

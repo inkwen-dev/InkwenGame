@@ -19,6 +19,6 @@ Santa Claus is trying to deliver as much present as hi can with his truck. Help 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Fun, HTML5, Kids, Mobile, Racing, Truck

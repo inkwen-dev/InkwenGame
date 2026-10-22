@@ -21,4 +21,4 @@ This power boat rider offers a thrilling mix of crazy stunts and intense challen
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, boat, Racing
+- Tags: Adventure, Boat, Racing

@@ -17,4 +17,4 @@ Hospital Escape plunges you into a chilling nightmare where survival depends on 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ Hold to fill the bucket with popcorn. Do not drop anything and earn top rating! 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Cooking, Hypercasual

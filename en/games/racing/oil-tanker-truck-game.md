@@ -19,6 +19,6 @@ Get ready to drive cargo transport simulator 2020.Oil Tanker Game is very advent
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, drifting, Driving, Sim, Simulation, Simulator, WebGL

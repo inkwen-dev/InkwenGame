@@ -19,6 +19,6 @@ Enjoy presents Hello Kitty Educational Games! Help Hello Kitty to complete a lot
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Educational, Fun, Girls, Hello Kitty, HTML5, Kids, Mobile, Puzzle

@@ -26,4 +26,4 @@ Every run feels fresh thanks to randomized upgrades and ever-growing chaos. Can 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, farm, Mobile, popular, Shooting, Strategy, Tower Defense
+- Tags: Action, Farm, Mobile, popular, Shooting, Strategy, Tower Defense

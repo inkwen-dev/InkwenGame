@@ -19,6 +19,6 @@ Cube Flip is inspired by classic grid puzzle games. Challenging levels with a pr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Color, Skill

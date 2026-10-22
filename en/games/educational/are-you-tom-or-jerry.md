@@ -19,6 +19,6 @@ Play Are You Tom or Jerry? Game online in your web browser and mobile at Superki
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Brain, Cartoon, Cat, Family, Fun, Girls, HTML5, Mobile, Puzzle, Quiz

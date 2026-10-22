@@ -19,6 +19,6 @@ Slings to the Basket is a puzzle game where you need to slings player from one p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Avoid, Collecting, Kids, Puzzle

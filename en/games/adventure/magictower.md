@@ -19,6 +19,6 @@ It is said that the queen is a powerful sorceress, and the princess sisters have
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, rpg
+- Tags: 1 Player, 2D, Adventure, RPG

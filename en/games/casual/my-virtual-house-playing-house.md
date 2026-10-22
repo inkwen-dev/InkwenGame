@@ -19,6 +19,6 @@ My Virtual House is a very cute game. Have you ever played doll house? In this g
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Girl, Girls, H5, HTML5, Kid, Kids, Play

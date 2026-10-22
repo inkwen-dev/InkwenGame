@@ -19,6 +19,6 @@ Just Draw is an interesting educational painting game. It is very useful to open
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Anime, Boy, Boys, Brain, Draw, Educational, Girls, H5, HTML5, Kids, Logic, Logical, Puzzle

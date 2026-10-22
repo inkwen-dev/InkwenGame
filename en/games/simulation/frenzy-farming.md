@@ -19,6 +19,6 @@ An immersive farming game, Frenzy Farming is here! In the Frenzy Farming game, y
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Best, Casual, farm, Funny, Hypercasual, Kids, Mobile, Simulator, WebGL
+- Tags: Adventure, Arcade, Best, Casual, Farm, Funny, Hypercasual, Kids, Mobile, Simulator, WebGL

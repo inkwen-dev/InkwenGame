@@ -19,6 +19,6 @@ Wobble Man is a casual game where your objective is to help a suit-clad man navi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Escape, Mentolatux, Police, Skills, sneak, Unity3D, WebGL

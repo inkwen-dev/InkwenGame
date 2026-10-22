@@ -19,6 +19,6 @@ Fashion is a very important thing for all girls! It should sparkle for every occ
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Dress Up, Fashion, Girl, Girls, Hair, Kids, Makeover, Nail, Simulation

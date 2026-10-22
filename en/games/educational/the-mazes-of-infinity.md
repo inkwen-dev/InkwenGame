@@ -19,6 +19,6 @@ The Mazes of Infinity is an exciting game that offers a unique adventure for all
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Adult, Best Games, Brain, Casual, Educational, endless, Escape, html games for your website, Logic, Logical, Maze

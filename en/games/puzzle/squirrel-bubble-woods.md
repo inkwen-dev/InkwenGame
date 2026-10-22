@@ -19,6 +19,6 @@ Bubble Shooter Game includes the best features of a bubble shooter game, as well
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Bubble, Bubble Shooter, Girl

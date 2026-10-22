@@ -19,6 +19,6 @@ This game is for a kids to learn. This is educational game. Find and drag and dr
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Educational, Fun, Kids, Matching, Puzzle

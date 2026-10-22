@@ -19,6 +19,6 @@ Candy Blocks is a super fun puzzle game. It`s simple yet addictive gameplay that
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Girl, Puzzle

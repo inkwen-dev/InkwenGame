@@ -19,6 +19,6 @@ You are a poor teddy bear (with a jetpack!) who is being chased by a jet fighter
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fun, HTML5, Kids, Mobile, Puzzle, Skill

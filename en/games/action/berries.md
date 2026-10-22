@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Animal, Arcade, Cartoon, Cartoon Network, Casual, Fruit, Fruits, Fun, Funny, Hypercasual, jump, Jumping, Kid, Kids, Kill, Killing, Mario, run, running, Skill, Skills, sky, Super, Supercars

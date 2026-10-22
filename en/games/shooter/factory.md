@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Animal, Arcade, Brain, Candy, Classic, Color, Coloring, Fun, Funny, Girl, Girls, Horse, jump, Jumping, Kid, Kids, Mind, Mobile, Puzzle, Robot, Shoot, Shooter, Shooting

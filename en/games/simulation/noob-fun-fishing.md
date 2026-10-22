@@ -17,4 +17,4 @@ Dive into the whimsical world of Noob Fun Fishing, where every cast could reel i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

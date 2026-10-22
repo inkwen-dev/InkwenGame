@@ -19,6 +19,6 @@ Snow Mountain Snowboard game has a lot of success review and player this MONTH t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Basketball, Ice, Interactive, Interactive Fiction, Kid, Kids, Race, Racing, sky, Snow, Space, Sport, Sports

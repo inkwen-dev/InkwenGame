@@ -19,6 +19,6 @@ Is it accurate to say that you are prepared for the best high heels game EVER? W
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Android, Arcade, Casual, Collecting, Girl, Girls, Hypercasual, Mobile, Unity3D

@@ -17,4 +17,4 @@ Trapped in a haunted house during Ramadan nights, collect instant noodles to esc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

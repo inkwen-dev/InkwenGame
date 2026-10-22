@@ -19,6 +19,6 @@ Play online Flappy bird in HTML5 on smartphone, tablet or computer. In this game
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, fly, HTML5

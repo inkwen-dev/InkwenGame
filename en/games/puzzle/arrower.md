@@ -19,6 +19,6 @@ Arrower is a minimalist and relaxing puzzle game. The goal is to move all yellow
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Puzzle, Skill

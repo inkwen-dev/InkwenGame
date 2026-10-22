@@ -21,4 +21,4 @@ Take control of the skies! In Landing Hero, youre the air traffic controller. Dr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, airplane, Casual, mouse
+- Tags: 1 Player, 2D, airplane, Casual, Mouse

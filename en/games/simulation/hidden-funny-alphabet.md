@@ -21,4 +21,4 @@ Hidden Alphabets game is a fun and helps finding your skills in hidden objects. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Anime, Baby, Baby Hazel, Barbie, Batman, Battle, Battlegrounds, Dora, Dragon Ball Z, Educational, Fish, fishing, Girl, Girls, Kid, Kids, Kiz 10, Zombie
+- Tags: Anime, Baby, Baby Hazel, Barbie, Batman, Battle, Battlegrounds, Dora, Dragon Ball Z, Educational, Fish, Fishing, Girl, Girls, Kid, Kids, Kiz 10, Zombie

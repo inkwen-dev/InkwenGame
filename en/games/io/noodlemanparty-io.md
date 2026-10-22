@@ -21,4 +21,4 @@ In the 3D multiplayer game Party.io, all players will fight on the same platform
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Arena, Battle, Fight, Fighting, H5, HTML, HTML5, Multiplayer, Online, pvp
+- Tags: .io, .io Games, 3D, 3D Games, Arena, Battle, Fight, Fighting, H5, HTML, HTML5, Multiplayer, Online, PvP

@@ -19,6 +19,6 @@ MEMORY TRAINING AMERICAN FLAGS has 3 different categories with 4 levels each. To
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adult, Boys, Brain, card, Clicker, Educational, HTML5, Kids, Memory, Mobile, Puzzle
+- Tags: Adult, Boys, Brain, Card, Clicker, Educational, HTML5, Kids, Memory, Mobile, Puzzle

@@ -19,6 +19,6 @@ Unroll objects by scrolling the screen to get them free from the rope. This game
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Hypercasual, Puzzle

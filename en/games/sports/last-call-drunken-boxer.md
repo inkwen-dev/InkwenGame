@@ -19,6 +19,6 @@ Last Call: Drunken Boxer drops you into a tactical 3D boxing game where unpredic
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boxing, Brawl, Fight, Fighting, Street Fighting

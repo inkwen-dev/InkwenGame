@@ -19,6 +19,6 @@ FZ PinBall - Move your paddle to hit the steel ball. Watch as the ball bounces a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ball, Kid, Kids, Pinball

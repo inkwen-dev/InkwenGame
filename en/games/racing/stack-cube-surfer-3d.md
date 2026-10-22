@@ -19,6 +19,6 @@ Stack Cube Tower Surfer 3D is a free 3D arcade game where the player needs to st
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D Games, Action, Car, Cars, cut, Game, Games, Obstacle, Simulation, Simulator, Stack, Supercars, Unity3D

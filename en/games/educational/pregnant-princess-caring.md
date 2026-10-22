@@ -19,6 +19,6 @@ Take care of her diet, give her a thorough health checkup and decorate a room fo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Educational, Family, Fun, Girl, Girls, Hypercasual, Kid, Kids

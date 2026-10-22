@@ -19,6 +19,6 @@ Can you find secret treasures buried under the sea? Catch as many fishes as you 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fish, fishing
+- Tags: Fish, Fishing

@@ -19,6 +19,6 @@ Prisoners are sentenced to prison for things they've never done. They try to mak
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, Best, Boys, Casual, Girl, Hot, HTML5, Hypercasual, Kids, Mobile, Plane, Play, prison
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Best, Boys, Casual, Girl, Hot, HTML5, Hypercasual, Kids, Mobile, Plane, Play, Prison

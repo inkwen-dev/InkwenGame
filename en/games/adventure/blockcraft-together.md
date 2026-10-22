@@ -19,6 +19,6 @@ This game can be played both in pairs and alone. You can get resources, defeat m
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Block, Mine, mineblock, Minecraft, Monster, pvp, Sandbox, survival, two player games, Unity3D, voxel, Zombie
+- Tags: 2 Player, 2 Player Games, Block, Mine, mineblock, Minecraft, Monster, PvP, Sandbox, survival, two player games, Unity3D, voxel, Zombie

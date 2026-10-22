@@ -19,6 +19,6 @@ In one old skibidi village, a boy decided to meet a skibidi girl, and she fell i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Arcade, Boy, Boys, Girl, Girls, Minecraft

@@ -21,4 +21,4 @@ Tower Breaker is a physics-based destruction game where you throw different type
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: crash, destroy, mouse, Simulation
+- Tags: crash, destroy, Mouse, Simulation

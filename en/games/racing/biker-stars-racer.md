@@ -19,6 +19,6 @@ Biker Stars Racer is a motorcycle riding game with 8 maps and 3 different game m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Cartoon, Casual, endless, Funny, HTML5, Moto, Motorcycle, Race, Racing, Simulation, Supercars, Traffic, Unity3D, WebGL

@@ -19,6 +19,6 @@ Let’s build the best town, create the fantastic harvest story!!! You need to l
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Baby, Best, Decorate, Decoration, Design, farm, Fun, Girl, Girls, Hot, Kids, Online, Simulation, Simulator
+- Tags: 2D, Baby, Best, Decorate, Decoration, Design, Farm, Fun, Girl, Girls, Hot, Kids, Online, Simulation, Simulator

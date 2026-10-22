@@ -19,6 +19,6 @@ Redhead Knight is a super fun and challenging 2D side scrolling game in the same
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Best, HTML5, Knight, Mario, Platform, Side Scrolling

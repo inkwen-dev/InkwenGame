@@ -21,4 +21,4 @@ ProMatch 3 - is a match-3 game with sports-items to arrange. You can find balls,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Football, Match 3, Puzzle, Sports
+- Tags: Football, Match-3, Puzzle, Sports

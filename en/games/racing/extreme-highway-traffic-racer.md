@@ -19,6 +19,6 @@ Push your car to the limit on crowded highways packed with fast traffic and cons
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, Driving, Racing, Traffic

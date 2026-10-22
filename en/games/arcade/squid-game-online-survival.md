@@ -19,6 +19,6 @@ Based on the popular Netflix show, play Squid Game: Online Survival and see if y
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Hypercasual, Unity3D

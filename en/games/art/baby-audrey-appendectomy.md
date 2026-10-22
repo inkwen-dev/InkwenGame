@@ -19,6 +19,6 @@ Wow The cool funny weekend Our girls Emily and Belle feels are awesome and cool 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Barbie, Boy, Boys, Color, Coloring, Doctor, Kids

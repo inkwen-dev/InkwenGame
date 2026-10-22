@@ -21,4 +21,4 @@ Splishy Fish – is a HTML5 & Mobile game. This is a very addictive and endless 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Fish, fishing
+- Tags: Action, Adventure, Arcade, Fish, Fishing

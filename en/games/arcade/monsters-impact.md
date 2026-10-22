@@ -21,4 +21,4 @@ The power is in your finger! Tap the screen to hit the monsters and click the sp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Arcade, Creation, rpg, weapons
+- Tags: Action, Arcade, Creation, RPG, weapons

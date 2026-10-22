@@ -19,6 +19,6 @@ Gin Rummy Stars - Play Free Online Rummy Card Game Best Gin Rummy Game! Play #1 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, card, Casino, Puzzle, Slot Machine
+- Tags: Arcade, Card, Casino, Puzzle, Slot Machine

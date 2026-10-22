@@ -19,6 +19,6 @@ Touch the screen to shoot the ball Avoid the colored pieces
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Arcade, Avoid, Obstacle, Puzzle, Unity3D

@@ -19,6 +19,6 @@ Slap And Run 2 is not merely a collecting but also an avoiding arcade game, whic
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Highscore, Mobile, Obstacle, running, Unity3D

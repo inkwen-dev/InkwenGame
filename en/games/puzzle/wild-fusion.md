@@ -19,6 +19,6 @@ Wild Fusion is a relaxing and addictive idle merge game where you combine animal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Click, Fun, idle

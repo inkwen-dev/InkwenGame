@@ -19,6 +19,6 @@ The Witcher, by Polish writer Andrzej Sapkowski, is a fantasy series of short st
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, card, Match 3, Memory
+- Tags: Brain, Card, Match 3, Memory

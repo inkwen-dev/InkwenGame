@@ -19,6 +19,6 @@ Fans of the popular computer game Poppy Playtime are presented a custom cursor f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, Battle, Bomb, Celebrity, Dragon Ball Z, gta, Hypercasual

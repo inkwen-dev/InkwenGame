@@ -19,6 +19,6 @@ Boys and girls welcome to the Dentist, Here you can not only turn yourself into 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Game, Girls, HTML5, Kids, Mobile, Simulation, Surgery

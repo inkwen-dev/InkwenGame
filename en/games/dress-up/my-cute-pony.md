@@ -19,6 +19,6 @@ All girls love ponies. It is so much fun to beautify them, feed them and spend t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Dress Up, Fun, Funny, Game, Girl, Girls, Horse, HTML5, Magic, Pony

@@ -19,6 +19,6 @@ Customise your mafia car to perfection and conquer the streets with style. Explo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Boys, Cars, city, Crazy, drift, Driving, Race, Racing

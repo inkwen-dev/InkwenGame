@@ -19,6 +19,6 @@ In this puzzle, your task is to draw geometric shapes. They must fall or roll an
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: horror, Logic, Logical, unity
+- Tags: Horror, Logic, Logical, unity

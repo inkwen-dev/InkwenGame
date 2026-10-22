@@ -19,6 +19,6 @@ Sugar Candy Saga is fun addictive hypercasual match3 game.Match 3 or more requir
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Casual, Hypercasual, Match 3, Puzzle

@@ -19,6 +19,6 @@ Which Color are you? What about NOW? Get ready for Color Switch an addictive and
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Action, Color, Coloring, Family, Game, Hypercasual, Obstacle, run, swipe

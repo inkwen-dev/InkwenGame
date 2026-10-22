@@ -19,6 +19,6 @@ Math Game For Kids – is a fun and beautiful mathematical game for children, th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Arcade, Boy, Educational, Girl, HTML, HTML5, Hypercasual, Math, Seduction, WebGL

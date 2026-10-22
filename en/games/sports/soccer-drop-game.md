@@ -19,6 +19,6 @@ Get ready for a fun and challenging football experience with Soccer Drop! This e
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Casual, Football, Fun, Hypercasual, Skill, Sports

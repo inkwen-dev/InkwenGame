@@ -19,6 +19,6 @@ Let’s join the fashion shoe design maker studio where you can make fantastic s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Design, Fashion, Hypercasual, Makeover, Shopping, Super, Unity3D

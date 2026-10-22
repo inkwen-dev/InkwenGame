@@ -19,6 +19,6 @@ Fishing Boy is a very popular game about fishing! You in it to fight for its pre
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Bomb, Fish, fishing, Fun, HTML5, Mobile, Skill
+- Tags: Action, Animal, Bomb, Fish, Fishing, Fun, HTML5, Mobile, Skill

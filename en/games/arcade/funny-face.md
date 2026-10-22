@@ -19,6 +19,6 @@ We present a new game where every bored player can have plenty of fun and cheer 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Brain, Girl, Girls, Hypercasual, Kid, Kids, Mind, Puzzle

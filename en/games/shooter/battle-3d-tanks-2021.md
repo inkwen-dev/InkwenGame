@@ -19,6 +19,6 @@ Submerse yourself in a world of armored tank fights. Select from a variety of gr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Best, Crazy, Shooting, Tank, Tanks, Unity3D, WebGL

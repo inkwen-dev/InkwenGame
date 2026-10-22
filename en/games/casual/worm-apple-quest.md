@@ -17,4 +17,4 @@ Embark on a whimsical journey in Worm Apple Quest, a challenging puzzle platform
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: worm
+- Tags: Worm

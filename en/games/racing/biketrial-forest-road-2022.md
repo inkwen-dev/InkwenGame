@@ -19,6 +19,6 @@ The goal of Infinite Bike Trials is to complete each of the game's two hundred d
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bike, Driving, Stunts, Unity3D, WebGL

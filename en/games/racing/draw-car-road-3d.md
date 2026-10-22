@@ -19,6 +19,6 @@ This game is actually not a car avoiding arcade game but a bridge drawing puzzle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Brain, Car, Drawing, Mobile, Platform, Puzzle, Unity3D

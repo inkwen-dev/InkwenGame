@@ -19,6 +19,6 @@ Catch as many fishes as you can! Improve your fishing line to go deeper and catc
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Fish, fishing, Hypercasual
+- Tags: Adventure, Arcade, Casual, Fish, Fishing, Hypercasual

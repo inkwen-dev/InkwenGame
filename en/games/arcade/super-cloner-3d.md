@@ -19,6 +19,6 @@ In Super Cloner 3D, you are a unique super cloner on a mission to infiltrate dan
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Enemies, Kill, Skills, Superhero

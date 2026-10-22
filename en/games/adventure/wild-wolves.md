@@ -21,4 +21,4 @@ You are a becoming alpha wolf and you have to accomplish your duty like a leader
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Unity3D, WebGL, wolf
+- Tags: Unity3D, WebGL, Wolf

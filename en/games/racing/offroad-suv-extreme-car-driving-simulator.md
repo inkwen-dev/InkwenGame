@@ -19,6 +19,6 @@ Offroad SUV Extreme Car Driving Simulator with advance real offroad car driving 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Car, Cars, Casual, city, Crazy, drift, drifting, Driving, Fun, Game, Games, gta, rpg, Simulation, Simulator, Super, Supercars, Unity3D
+- Tags: 3D Games, Adventure, Car, Cars, Casual, city, Crazy, drift, drifting, Driving, Fun, Game, Games, gta, RPG, Simulation, Simulator, Super, Supercars, Unity3D

@@ -19,6 +19,6 @@ Barbie Get pain on hand and need doctor because hurt hand so in this Barbie hand
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Anime, Barbie, Cartoon, Cartoon Network, Doctor, Fun, Girls, Kids, Simulation, Surgery

@@ -19,6 +19,6 @@ Tron Pics Jigsaw Halloween is a different flavor of classical jigsaw game. Arran
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Halloween, HTML5, Jigsaw, Mobile, Puzzle

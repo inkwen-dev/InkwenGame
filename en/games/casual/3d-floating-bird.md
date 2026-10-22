@@ -19,6 +19,6 @@ Keep the bird afloat as long as you can while avoiding cactuses on the way
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Bird, Cartoon, fly, Fun, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

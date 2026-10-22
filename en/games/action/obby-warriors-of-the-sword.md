@@ -44,4 +44,4 @@ Key Game Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, obby, popular, pve, rpg
+- Tags: Mobile, obby, popular, pve, RPG

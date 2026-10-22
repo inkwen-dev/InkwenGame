@@ -21,4 +21,4 @@ Garden War is a fun combat game set in a colorful garden, where you must move sk
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Battle, farm, Fun, War
+- Tags: 1 Player, Battle, Farm, Fun, War

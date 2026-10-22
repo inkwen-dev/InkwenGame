@@ -21,4 +21,4 @@ Can you escape the craft doors alive? Joining Craft Doors: Horror Escape Run whe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Craft, horror, Minecraft, Skibidi
+- Tags: Craft, Horror, Minecraft, Skibidi

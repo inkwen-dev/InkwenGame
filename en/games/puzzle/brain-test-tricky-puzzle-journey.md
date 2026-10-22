@@ -19,6 +19,6 @@ Brain Test is a fun intellectual casual game. Test your IQ and you'll have tons 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Fun, H5, HTML5, Kid, Kids, Puzzle

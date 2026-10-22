@@ -19,6 +19,6 @@ Everyone loves cakes, so why not have a sweet cake shop of your own? Run the bes
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Cake, Casual, Cook, Cooking, Fun, Funny, Hypercasual, Shopping

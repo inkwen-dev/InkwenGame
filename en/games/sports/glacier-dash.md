@@ -21,4 +21,4 @@ GLACIER DASH is a fun game where you Swim, dash, and rush your narwhal buddy aro
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, endless, Fish, fishing, HTML, HTML5, Shark, Sport
+- Tags: 1 Player, 2D, Arcade, endless, Fish, Fishing, HTML, HTML5, Shark, Sport

@@ -19,6 +19,6 @@ Hey truckers welcome to new Impossible Truck Tracks Simulator game where you can
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Driving, HTML5, Stunts, Truck, WebGL

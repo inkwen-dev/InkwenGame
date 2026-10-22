@@ -19,6 +19,6 @@ Dont let Skibidi and Grimace fall! And pop all the balloons that you see on the 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Grimace, Grimace Shake, HTML5, Mobile, Skibidi, Skibidi Toilet

@@ -19,6 +19,6 @@ Link three or more cuddly critters to remove them from the board. You'll win mor
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Bubble, farm, Game, Games, H5, HTML, HTML5, Hypercasual, Match 3, Match3, Mobile, Puzzle
+- Tags: Animal, Bubble, Farm, Game, Games, H5, HTML, HTML5, Hypercasual, Match 3, Match3, Mobile, Puzzle

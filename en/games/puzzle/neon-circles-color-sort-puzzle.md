@@ -19,6 +19,6 @@ Neon Circles & Color Sort Puzzle Game is a challenging yet relaxing game to exer
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Ball, Bubble, Bubble Shooter, Coloring, Match3, Puzzle

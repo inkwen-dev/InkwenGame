@@ -21,4 +21,4 @@ Train 3D Puzzle Game is one of the idle games, where you need to explore all abo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Puzzle, train
+- Tags: 3D Games, Puzzle, Train

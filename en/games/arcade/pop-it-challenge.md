@@ -19,6 +19,6 @@ It's no secret that pop it has become the most fashionable and demanded toy now!
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Brain, Click, Clicker, Girl, Girls, Hot, HTML, HTML5, Hypercasual, Kid, Kids, Mind, Puzzle

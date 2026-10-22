@@ -19,6 +19,6 @@ Spider-Man loves Mary Jane. Mary Jane wants to kiss Spider-Man secretly in the g
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boys, Cartoon, Fun, Funny, Game, Girls, HTML5, Kiss, Kissing, Spiderman

@@ -19,6 +19,6 @@ Police Car Chase is #1 intense 3D police pursuit racing game which tests your dr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Classic, Clicker, drifting, Driving, Police

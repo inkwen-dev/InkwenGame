@@ -19,6 +19,6 @@ Skibidi Pop: Dance and Groove is a lively rhythm-based game that puts your music
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Shooting, Skibidi, Skibidi Toilet, Zombie

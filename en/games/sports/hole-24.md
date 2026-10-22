@@ -19,6 +19,6 @@ Hole 24 is the best Simulator free to play game. This game offer 24 challenging 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Golf, Shoot, Skill, Sport

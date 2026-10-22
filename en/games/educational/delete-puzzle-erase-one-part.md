@@ -19,6 +19,6 @@ Delete Puzzle: Erase One Part definitely is a game that everyone will enjoy. It 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Logic, Mobile, Quiz, Skill

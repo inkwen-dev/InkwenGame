@@ -19,6 +19,6 @@ Dive into the world of delicious desserts and be a master cake baker in the swee
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cooking, Decoration, Educational, Girls, Makeover, Nail

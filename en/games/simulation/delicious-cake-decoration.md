@@ -19,6 +19,6 @@ Do you like to make cake in the baking games? Wanna be the best cake maker in th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Casual, Cook, Cooking, Design, Elsa, Fantasy, Food, Frozen, Girl, Girls

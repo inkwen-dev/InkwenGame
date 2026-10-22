@@ -19,6 +19,6 @@ Drop Wizard Tower is an arcade game created by Neutronized. You are a lone wizar
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Magic, Tower Defense, Wizard

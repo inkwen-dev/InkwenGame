@@ -19,6 +19,6 @@ Prisoners are sentenced to prison for things they've never done. They try to mak
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Brain, Click, Clicker, Escape, prison, Strategy, Unity3D
+- Tags: 3D, 3D Games, Adventure, Brain, Click, Clicker, Escape, Prison, Strategy, Unity3D

@@ -19,6 +19,6 @@ A new imagination game in which you need to connect pairs of emotions by associa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boy, Boys, Brain, Girl, Girls, Hot, Logic, Logical, Mind, Puzzle

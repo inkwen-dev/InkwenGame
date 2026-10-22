@@ -19,6 +19,6 @@ Welcome to the car racing games, get ready to enjoy crazy car driving on impossi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Adult, Adventure, Air, Arcade, Bounce, Boy, Boys, bus, Candy, Car, Cars, Cartoon, Cartoon Network, Casino, drift, drifting, Driving, Holiday, Ladybug, Miraculous Ladybug, Moto, Motorcycle, Road, Sim, Simulation, Simulator, Supercars, Truck, Undead, Zombie

@@ -19,6 +19,6 @@ How To Play Poke Monster Ball - Just connect the poke monster and take a Poke ba
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 8 Ball Pool, Anime, Baby Hazel, Ballon, Baseball, gta, jump, Jumping, Kid, Kids, Pokemon

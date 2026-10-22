@@ -19,6 +19,6 @@ Balloon Archer Challenge puts your precision and focus to the test! Take control
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, arrow, Ballon, Bow

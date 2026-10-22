@@ -19,6 +19,6 @@ Ocean Hidden Stars is a free online skill and hidden object game. Find out the h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fun, Hidden, Kids, Puzzle, Skill

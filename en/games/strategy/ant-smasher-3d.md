@@ -19,6 +19,6 @@ Defend your precious sugar with furious blasts of ant-smashing action! Ants floo
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Hypercasual, Point And Click, Top Down, Tower Defense, Unity3D, WebGL

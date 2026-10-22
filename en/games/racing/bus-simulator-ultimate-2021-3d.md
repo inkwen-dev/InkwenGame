@@ -19,6 +19,6 @@ Drive into the unknown with our bus simulator! Bus games were never so fun. Desi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, bus, Car, Cars, Crazy, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

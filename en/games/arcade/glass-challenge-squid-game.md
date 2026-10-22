@@ -19,6 +19,6 @@ The most addictive stack fall game with optimised performance for all devices! G
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Best, Clicker, Crazy, HTML, HTML5, Jumping, Kids, Mobile, Skills, Unity3D

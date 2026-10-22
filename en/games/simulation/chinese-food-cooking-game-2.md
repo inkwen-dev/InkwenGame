@@ -19,6 +19,6 @@ Tie up your apron! This new Chinese Lunar Year shows the world that you too can 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Cook, Food, Fun, Kid, Kids, Simulation

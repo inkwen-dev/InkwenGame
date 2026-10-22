@@ -19,6 +19,6 @@ You may have played many Tic-Tac-Toe games by now. But you haven't played this c
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Educational, Girl, Princess

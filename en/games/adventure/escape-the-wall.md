@@ -19,6 +19,6 @@ Welcome to Escape The Wall, an exhilarating and fast-paced arcade game where you
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Air, Animal, Baby Games, Best Games, Bridge, html5 games

@@ -19,6 +19,6 @@ Dump Trucks Match 3 is a matching game with dump trucks. Move trucks to be 3 or 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Match 3, Matching, Puzzle, Truck

@@ -21,4 +21,4 @@ Business Go is a classic board game where players buy, sell, and rent properties
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Board, management, Multiplayer
+- Tags: Board, Management, Multiplayer

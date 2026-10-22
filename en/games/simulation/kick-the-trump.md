@@ -19,6 +19,6 @@ A funny clicker / hypercasual game, where you can hit Trump by tapping him or us
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Best, Click, Clicker, Fun, Funny, HTML, Mobile, Simulation

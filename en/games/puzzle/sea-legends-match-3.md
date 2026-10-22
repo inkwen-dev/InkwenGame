@@ -27,4 +27,4 @@ Dive into the captivating world of Sea Legends - Match 3, a thrilling puzzle gam
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Match 3
+- Tags: Match-3

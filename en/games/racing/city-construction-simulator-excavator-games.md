@@ -19,6 +19,6 @@ Nowadays, the designer of the city needs you to deal with some basic constructio
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, city, Driving, Mobile, Simulation, Truck, Unity3D

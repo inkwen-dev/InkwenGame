@@ -19,6 +19,6 @@ Candy Love Rush is a connect match game on html5, connecting the candy to match 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Candy, Casual, HTML5, Hypercasual, Match3, Matching

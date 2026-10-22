@@ -21,4 +21,4 @@ Pizza Maker: My Pizzeria Game is the ideal fast food cooking game in which you c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Boy, burger, Cake, Candy, Cook, Cooking, Fish, Food, Game, Games, Girl, Girls, Ice, Restaurant, Simulation
+- Tags: 1 Player, Boy, Burger, Cake, Candy, Cook, Cooking, Fish, Food, Game, Games, Girl, Girls, Ice, Restaurant, Simulation

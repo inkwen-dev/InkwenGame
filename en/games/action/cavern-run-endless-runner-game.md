@@ -19,6 +19,6 @@ Run for your life! Because Cavern Run will make you choose - it’s either run a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Crazy, endless, Escape, jump, Jumping, run, running

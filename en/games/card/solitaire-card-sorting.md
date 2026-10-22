@@ -21,4 +21,4 @@ An intellectual card puzzle that combines the mechanics of classic solitaire wit
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, Puzzle, Solitaire
+- Tags: Card, Casual, Puzzle, Solitaire

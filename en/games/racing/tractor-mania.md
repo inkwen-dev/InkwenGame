@@ -21,4 +21,4 @@ Farm Tractor Hill Racing is new super easy farm racing game! Race with cool trac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Fun, Race, Racing
+- Tags: Farm, Fun, Race, Racing

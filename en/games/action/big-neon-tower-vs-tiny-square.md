@@ -19,6 +19,6 @@ Ride the vaporwaves and avoid the neon nusiences in the 3rd instalment of the Bi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Avoid, Bounce, Dungeon, Fun, Funny, HTML5, jump, Jumping, Mario, Maze, Mobile, Music, Ninja, Obstacle, Pixel, Platform, run, running, sky, Stunts, Timing

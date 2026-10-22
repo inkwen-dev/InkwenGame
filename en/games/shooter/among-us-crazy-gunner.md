@@ -19,6 +19,6 @@ You are a cold-blood shooter. Your mission is to kill all stickman with guns. Ch
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Boy, Game, Games, Gun, H5, HTML, HTML5, Kid, Kids, Kill, Killing, Shoot, Shooter, Skill, Skills

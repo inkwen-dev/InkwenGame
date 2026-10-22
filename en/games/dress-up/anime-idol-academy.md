@@ -19,6 +19,6 @@ Anime Idol Academy is a cute anime dress-up game where you help a rising idol st
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Dress Up, Girl, Girls, Grooming, Room

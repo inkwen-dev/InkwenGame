@@ -19,6 +19,6 @@ Welcome to Cake Baking Games for Girls by Dream Gamers Studio. Play this cake sh
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, burger, Cake, Cooking, Girls, Kids
+- Tags: Best, Burger, Cake, Cooking, Girls, Kids

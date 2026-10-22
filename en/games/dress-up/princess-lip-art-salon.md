@@ -19,6 +19,6 @@ Lips are the perfect canvas to create the most imaginative art. And this game tu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Design, Elsa, Frozen, Girl, Girls, Kids, Makeover, Princess, Simulation

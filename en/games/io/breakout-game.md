@@ -19,6 +19,6 @@ Beakout is a game based on a popular concept; In Breakout, a layer of bricks lin
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Arcade, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids

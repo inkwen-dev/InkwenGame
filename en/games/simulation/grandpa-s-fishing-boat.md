@@ -17,4 +17,4 @@ Set sail with Grandpa's Fishing Boat, a charming 2D fishing adventure. Navigate 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

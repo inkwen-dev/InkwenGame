@@ -48,4 +48,4 @@ Can you reach the ultimate speed and last stage?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, keyboard, running, typing
+- Tags: Arcade, keyboard, running, Typing

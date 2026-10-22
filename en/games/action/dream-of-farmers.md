@@ -19,6 +19,6 @@ Dream of Farmers is a casual idle farming game created by AppyApp. Leave the cha
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: run, running, subway, Subway Surfers, train
+- Tags: run, running, subway, Subway Surfers, Train

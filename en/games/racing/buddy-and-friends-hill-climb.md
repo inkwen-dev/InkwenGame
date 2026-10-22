@@ -19,6 +19,6 @@ Buckle up, rev your engines, and get ready to experience the thrill of Buddy and
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Car, Collecting, Driving, Fun, HTML5, Hypercasual, jump, Racing, Skill

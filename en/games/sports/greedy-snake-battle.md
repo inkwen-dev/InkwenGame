@@ -19,6 +19,6 @@ The chameleon snake is a very interesting alternative game. In the game, the col
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Boy, Boys, Casual, Color, Coloring, Funny, Games, Girl, Girls, Google, H5, Hypercasual, Kid, Kids, Mobile, Play, run, Snake, Sport

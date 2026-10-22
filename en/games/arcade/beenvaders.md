@@ -19,6 +19,6 @@ The evil Floretron has sent an army of evil flowers to wipe out the bees. Elimin
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Casual, Kids

@@ -19,6 +19,6 @@ To make cold juice you need orange. In this game Liquid Oranges you will be prep
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruits, Funny, HTML5, Kids, Mobile, Puzzle, Skills

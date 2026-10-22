@@ -19,6 +19,6 @@ Ho ho ho, Santa Claus is back in town. Only this town has been taken over by the
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Christmas, Game, HTML5, Online, run, running, Snow, Zombie

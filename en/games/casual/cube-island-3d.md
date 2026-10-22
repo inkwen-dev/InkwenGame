@@ -33,4 +33,4 @@ An exciting journey from survival to prosperity, where your creativity and strat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Mobile, mouse
+- Tags: 3D, Mobile, Mouse

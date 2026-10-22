@@ -21,4 +21,4 @@ Slime Survivors is a simplified roguelite. Survive against endless waves of oppo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Arcade, Fantasy, Hypercasual, rpg, Shooting, Skills, Strategy, Vampire
+- Tags: 1 Player, Android, Arcade, Fantasy, Hypercasual, RPG, Shooting, Skills, Strategy, Vampire

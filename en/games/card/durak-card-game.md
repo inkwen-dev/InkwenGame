@@ -17,4 +17,4 @@ Experience the thrilling tension of Durak, where strategic card play meets high-
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

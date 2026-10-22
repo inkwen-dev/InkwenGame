@@ -19,6 +19,6 @@ Legend of Run Rich, an intuitive hypercasual game, is now on the web. Collect co
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arcade, Best, Casual, Fun, Funny, Girl, Girls, Hot, Hypercasual, Kids, Makeover, run, running, Unity3D, WebGL

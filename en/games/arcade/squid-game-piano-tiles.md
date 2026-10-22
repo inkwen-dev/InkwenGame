@@ -19,6 +19,6 @@ Piano Tiles squid game Homura LISA - squid game online Movie Are you a fan of th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Best, Clicker, Game, Hot, HTML5, Hypercasual, Magic, Mobile, Music, Point And Click, Puzzle, Timing

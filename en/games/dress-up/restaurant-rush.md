@@ -19,6 +19,6 @@ Step into the kitchen and build your culinary empire in Restaurant Rush! Start w
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, 3D Games, Adventure, amazing, Best Games, burger, Cooking, Cool, Crazy, Food, Hypercasual, Makeover
+- Tags: 1 Player, 2026 games, 3D, 3D Games, Adventure, amazing, Best Games, Burger, Cooking, Cool, Crazy, Food, Hypercasual, Makeover

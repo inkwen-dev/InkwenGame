@@ -19,6 +19,6 @@ Fruits System is a game in which you first need to draw a path to the juicer in 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Fruit, Fruits, Fun, Funny, Kids, Logic, Logical, Mobile, Skill

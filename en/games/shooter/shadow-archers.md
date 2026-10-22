@@ -19,6 +19,6 @@ Play as the legendary Shadow bow master. Defend yourself and destroy enemies wit
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bow, Casual, HTML5, Shoot 'Em Up, Shooting, Stickman

@@ -17,4 +17,4 @@ Master the art of crafting in Funeral Master, where you create beautiful coffins
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

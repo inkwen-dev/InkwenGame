@@ -19,6 +19,6 @@ SnowMan Jigsaw is a brain puzzle assembly Game. SnowMan Jigsaw comes with amazin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Best, Boy, Boys, Brain, Christmas, Girl, Girls, H5, Hot, HTML, HTML5, Hypercasual, Jigsaw, Mind, Puzzle

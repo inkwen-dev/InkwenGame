@@ -19,6 +19,6 @@ WOBBLE IT is a 3D rolling-ball puzzle platformer. Guide a beach ball across floa
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Ball, Bounce, Brain, HTML5, Levels, Logic, Maze, NoViolence, Platform, Puzzle, Skill

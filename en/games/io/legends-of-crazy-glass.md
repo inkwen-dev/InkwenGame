@@ -19,6 +19,6 @@ Welcome to This Brand new Puzzle Game “Crazy Glass Legend” and start a journ
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D, Adventure, Arcade, Best, Casual, Fun, Hypercasual, Kids, Skill, Unity3D

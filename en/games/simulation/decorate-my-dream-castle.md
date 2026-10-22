@@ -19,6 +19,6 @@ The little princess will hold a grand ball in the castle. She is planning to red
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Creation, Cute, Decorate, Design, Educational, Girl, Girls, Kids, Simulation

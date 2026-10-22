@@ -19,6 +19,6 @@ In the Hexable game your goal is to fill a board resembling a hexagon with strai
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Board, Brain, Family, Game, Games, HTML, HTML5, Logic, Logical, Mobile, Online, Puzzle

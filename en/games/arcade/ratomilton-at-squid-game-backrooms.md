@@ -19,6 +19,6 @@ Step into the mysterious and terrifying world of the backrooms, where reality be
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Escape, squidgame, trap

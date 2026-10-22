@@ -19,6 +19,6 @@ Step into the heart of rural China &mdash; where every day is a delicious advent
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Business, Classic, Collecting, Cooking, Educational, farm, Food, Funny, health, Hypercasual, Relaxation, Restaurant, Retro
+- Tags: 1 Player, Business, Classic, Collecting, Cooking, Educational, Farm, Food, Funny, health, Hypercasual, Relaxation, Restaurant, Retro

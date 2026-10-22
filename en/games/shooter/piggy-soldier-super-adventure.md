@@ -19,6 +19,6 @@ Super Piggy Adventure is a 2D shooting game with lot of enemies and lot of asset
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shooting, Unity3D, WebGL

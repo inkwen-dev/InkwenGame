@@ -19,6 +19,6 @@ Guys Transform is a free online running game for boys played on PuzzleGame! Chan
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Brain, Fun, HTML5, Kids, Obstacle, Online, Puzzle, running, Skill

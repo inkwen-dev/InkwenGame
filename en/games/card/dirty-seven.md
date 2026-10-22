@@ -21,4 +21,4 @@ Dirty Seven is a shedding-type card game for 2 players. The objective of the gam
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, card, Casual, Classic, HTML5, Hypercasual, Strategy
+- Tags: 2 Player, 2D, Card, Casual, Classic, HTML5, Hypercasual, Strategy

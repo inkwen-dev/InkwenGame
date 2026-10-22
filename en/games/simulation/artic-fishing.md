@@ -19,6 +19,6 @@ What's more fun than fishing? The answer is simple. There are plenty of ways to 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fish, fishing, Fun, HTML, HTML5
+- Tags: Fish, Fishing, Fun, HTML, HTML5

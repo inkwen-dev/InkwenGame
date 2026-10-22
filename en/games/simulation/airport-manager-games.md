@@ -19,6 +19,6 @@ You’re the airport manager and the things are not that easy. A lot of people c
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Kids, management, WebGL
+- Tags: 2D, Kids, Management, WebGL

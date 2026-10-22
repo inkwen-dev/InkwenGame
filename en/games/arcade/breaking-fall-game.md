@@ -19,6 +19,6 @@ Drop the elevator down and try to reach the Finish line.Easy to play Hard to mas
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D, Action, Adventure, Android, Animal, Anime, Arcade, Avoid, Boy, Boys, Brain, Casual, Family, Girl, Girls, Kid, Kids, Obstacle, Puzzle

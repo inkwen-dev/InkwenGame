@@ -19,6 +19,6 @@ In Water Sort Puzzle, players must strategically combine colors within each bott
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bottle, Kids, Mentolatux, Puzzle, sort, sorting, Unity3D, water, WebGL

@@ -19,6 +19,6 @@ Sort the candy as instructed. In the game, the candy will enter the classifier, 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Ball, Best Games, Puzzle

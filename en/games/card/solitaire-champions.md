@@ -17,4 +17,4 @@ Dive into Solitaire Champions, where strategy meets elegance in this classic car
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

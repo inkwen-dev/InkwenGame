@@ -19,6 +19,6 @@ ZingAliens &ndash; Action-Packed Alien Blasting Fun! Get ready for an exciting s
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Ball, Clicker, War

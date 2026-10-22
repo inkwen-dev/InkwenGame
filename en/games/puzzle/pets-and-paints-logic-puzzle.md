@@ -31,4 +31,4 @@ Visual drag-and-drop puzzles, colorful animals, nature sounds, and lively effect
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, Puzzle, sudoku
+- Tags: Brain, Logic, Puzzle, Sudoku

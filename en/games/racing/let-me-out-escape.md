@@ -19,6 +19,6 @@ Someone's car is in the way! In a hurry! Can you help me move my car out of the 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Car, Escape, Game, Games, Kid, Kids, Point And Click, Puzzle

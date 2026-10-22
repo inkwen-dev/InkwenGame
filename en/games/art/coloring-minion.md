@@ -21,4 +21,4 @@ Coloring Minon is a good coloring game. the minons series and learn to choose th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Anime, Baby, Brain, Color, Coloring, Drawing, Minion, movie
+- Tags: 1 Player, 2D, Anime, Baby, Brain, Color, Coloring, Drawing, Minion, Movie

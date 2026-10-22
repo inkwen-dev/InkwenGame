@@ -19,6 +19,6 @@ Jelly Sugar Rush is connect match game with colorful and beautiful graphics, col
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Bejeweled, Casual, Collecting, Color, Fun, HTML5, Hypercasual, Jelly, Match 3, Match3

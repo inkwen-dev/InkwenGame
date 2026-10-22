@@ -19,6 +19,6 @@ Dive into this addictive 2D puzzle game where you control the gem itself! Your g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Android, Arcade, Casual, catch, HTML5, Hypercasual, Mobile, Puzzle, unity, Unity3D, WebGL

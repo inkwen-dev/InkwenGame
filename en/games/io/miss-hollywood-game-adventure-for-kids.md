@@ -19,6 +19,6 @@ presents Miss Hollywood: Vacation! After winning a dream getaway to visit a beau
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Arena, Barbie, Cartoon, Cartoon Network, Cute, Girls, Kids, running

@@ -19,6 +19,6 @@ Jump or double jump to pass the spikes along the way. Collect coins along the wa
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Jumping, Stickman

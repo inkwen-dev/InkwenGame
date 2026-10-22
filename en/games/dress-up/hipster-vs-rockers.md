@@ -21,4 +21,4 @@ Hipster vs Rockers is a dress up game where you can choose to dress up the hipst
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Girls, movie, Princess
+- Tags: Dress Up, Fashion, Girls, Movie, Princess

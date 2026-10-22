@@ -19,6 +19,6 @@ Movie trucks jigsaw is jigsaw game where you can play with 12 images of movie tr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jigsaw, Puzzle, Truck

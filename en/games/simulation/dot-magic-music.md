@@ -19,6 +19,6 @@ Dot Magic Music is a music arcade game, which tests your hand speed and music rh
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Hypercasual, Magic, Music, Simulation

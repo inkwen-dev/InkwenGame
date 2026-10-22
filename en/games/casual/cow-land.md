@@ -21,4 +21,4 @@ Jump the obstacle to win
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Animal, farm
+- Tags: 3D Games, Animal, Farm

@@ -19,6 +19,6 @@ Do you have a fast reflex action? "Plane Racer" is a fast pace endless race game
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Aircraft, Arcade, fly, HTML, HTML5

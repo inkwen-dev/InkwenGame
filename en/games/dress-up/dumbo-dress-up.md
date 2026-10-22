@@ -19,6 +19,6 @@ Dumbo, the young elephant who can fly with his big ears, is a cartoon character 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Decorate, Dress Up, Fashion, Fun, Game, Girls, HTML5, Kids

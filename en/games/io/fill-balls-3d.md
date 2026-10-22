@@ -19,6 +19,6 @@ Tap and hold to fill the ball. Can you fill all the ball to finish?
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, 3D Games, Action, Adventure, Aircraft, Arcade, Ball, Casual, Fun, Funny, Hypercasual, Unity3D

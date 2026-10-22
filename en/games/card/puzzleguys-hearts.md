@@ -21,4 +21,4 @@ Classic Hearts game. It is is an "evasion-type" trick-taking playing card game a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, card
+- Tags: 1 Player, 2D, Card

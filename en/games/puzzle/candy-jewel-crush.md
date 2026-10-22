@@ -19,6 +19,6 @@ Cake Crunch is an amazing match3 puzzle game where you can swipe, match and crus
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Hypercasual, Match 3, Match3, Matching, Puzzle

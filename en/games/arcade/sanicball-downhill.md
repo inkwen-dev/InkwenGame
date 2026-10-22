@@ -19,6 +19,6 @@ It's time to go fast... Really fast!! Today you will experience what it's like t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Casual, endless, Stunts, Unity3D

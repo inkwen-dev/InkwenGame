@@ -19,6 +19,6 @@ Fill in the shapes with the correct blocks. Make sure all colors borders fit. Ta
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Color, Puzzle

@@ -19,6 +19,6 @@ About the game Welcome to the thrilling adventure of Roll and Escape! As a ball-
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Ball, Best, Bounce, Brain

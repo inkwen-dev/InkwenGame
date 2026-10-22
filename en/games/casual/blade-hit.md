@@ -22,4 +22,4 @@ Throw knives at logs to break them, collect coins, and unlock new knives. Collec
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: mouse
+- Tags: Mouse

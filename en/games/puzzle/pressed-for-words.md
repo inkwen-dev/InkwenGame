@@ -19,6 +19,6 @@ Pressed for Words A Fun Anagram Word Puzzler Easy to play, but with endless vari
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, Puzzle, Word

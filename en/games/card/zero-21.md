@@ -17,4 +17,4 @@ Zero 21 challenges you to keep your total between 0 and 21 in a card game where 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -35,4 +35,4 @@ Rebound Rascals speaks English, French and Spanish, and your run is saved after 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Arcade, Monster, Puzzle, rpg, Skill
+- Tags: Adventure, Arcade, Monster, Puzzle, RPG, Skill

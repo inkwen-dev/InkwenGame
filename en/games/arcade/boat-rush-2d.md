@@ -21,4 +21,4 @@ Are you ready to take your boat and dive into adventure? be careful, although th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, boat
+- Tags: 1 Player, 2D, Adventure, Arcade, Boat

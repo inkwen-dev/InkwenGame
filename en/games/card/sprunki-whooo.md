@@ -19,6 +19,6 @@ Face the funniest card puzzle ever in Sprunki Whooo. Together with the adorable 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Funny, Guessing, Sprunki
+- Tags: Card, Funny, Guessing, Sprunki

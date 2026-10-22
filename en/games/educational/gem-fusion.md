@@ -19,6 +19,6 @@ Solve the puzzle blocks by set their position to the right one Game starts with 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Educational, Matching, Puzzle, Word

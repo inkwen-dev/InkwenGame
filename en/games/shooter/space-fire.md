@@ -19,6 +19,6 @@ Space Fire is a old school side-scrolling endless shooter game in html5, Shoot t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Shoot, Shoot 'Em Up, Shooter, Space, Spaceship

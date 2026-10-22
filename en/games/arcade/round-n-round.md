@@ -19,6 +19,6 @@ Try to resist the more You can! Click or Tap to swap the direction and destroy a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Click, Clicker, HTML, HTML5, Hypercasual, Mobile

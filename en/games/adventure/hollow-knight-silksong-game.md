@@ -19,6 +19,6 @@ Hollow Knight Silksong Game is a new amazing Hollow Knight game,and free online 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Adult, Adventure, amazing, assassin, Best Games, Blood, Funny, Game, New, Online, Puzzle, Side Scrolling

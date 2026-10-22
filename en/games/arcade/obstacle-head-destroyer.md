@@ -19,6 +19,6 @@ Obstacle Head Destroyer is an adrenaline-pumping action game that puts you in co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, Mobile, Unity3D, WebGL

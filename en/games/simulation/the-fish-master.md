@@ -21,4 +21,4 @@ The Fish Master is fun addictive hyper casual game. Catch as many fishes as you 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Fish, fishing, Hypercasual
+- Tags: Arcade, Casual, Fish, Fishing, Hypercasual

@@ -19,6 +19,6 @@ It is a time bound game where one needs to find 1 difference between two identic
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Board, Christmas, Difference, HTML5, Kids, Mobile, Puzzle

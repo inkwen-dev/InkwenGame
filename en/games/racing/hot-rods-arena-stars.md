@@ -38,4 +38,4 @@ Ready to prove you’re the king of the road? Then hit the gas and race toward g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, car-racing, pvp, Racing
+- Tags: Action, car-racing, PvP, Racing

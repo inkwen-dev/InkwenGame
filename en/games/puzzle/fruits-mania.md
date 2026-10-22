@@ -19,6 +19,6 @@ Fruit Mania is a colorful match &amp; tap puzzle game for all ages. Your mission
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Fruit, Fruits, mapi games, Puzzle, puzzleblock

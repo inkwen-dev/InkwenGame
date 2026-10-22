@@ -19,6 +19,6 @@ Monster High cartoon characters Draculaura and Clawd wolf are a very sweet coupl
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Cartoon, Decorate, Dress Up, Fashion, Game, Girl, Girls, HTML5, Monster

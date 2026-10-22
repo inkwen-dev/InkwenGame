@@ -19,6 +19,6 @@ Travel back in time with Retro Street Fighter, a side-scrolling fighting game th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Fighting, Pixel, Side Scrolling, Street Fighting

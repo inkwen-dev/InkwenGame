@@ -19,6 +19,6 @@ Be careful of zombie attacks. They will turn you into a zombie, build better equ
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Gun, Shoot, Shooting

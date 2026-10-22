@@ -19,6 +19,6 @@ Idle Space Business Tycoon is an incremental game like simulation games where yo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Business, Click, Clicker, Cool, Game, Games, management, Mobile, Planet, Science, Space, Spaceship, Unity3D, World
+- Tags: Business, Click, Clicker, Cool, Game, Games, Management, Mobile, Planet, Science, Space, Spaceship, Unity3D, World

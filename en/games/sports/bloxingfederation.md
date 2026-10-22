@@ -19,6 +19,6 @@ A boxing game made up mostly of blocks where you beat your opponent into a pulp 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boxing, Crazy, Fighting, Sports, Unity3D

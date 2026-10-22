@@ -40,4 +40,4 @@ Sudoku Block Puzzle features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: blocks, Brain, intelligence, Logic, Number, Puzzle, sudoku
+- Tags: blocks, Brain, intelligence, Logic, Number, Puzzle, Sudoku

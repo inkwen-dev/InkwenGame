@@ -19,6 +19,6 @@ Crazy Driver is a html5 arcade game, as your is crazy drive to avoid car crash
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Cars, Crazy, drift, Driving, endless, HTML5

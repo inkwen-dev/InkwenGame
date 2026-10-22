@@ -19,6 +19,6 @@ Your goal is to make as much money as you can in 7, 14, or 30 days by selling le
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Anime, Cartoon, Cartoon Network, Coloring, Cook, Cool, Disney, Food, HTML, HTML5, Kids, Makeover

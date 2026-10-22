@@ -19,6 +19,6 @@ Rockstar girls wrestling rumble 2020 offers bikini model girls fighting experien
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arena, Fight, Fighting, Girls, Interactive, Street Fighting

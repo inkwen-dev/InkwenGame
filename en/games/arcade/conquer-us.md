@@ -19,6 +19,6 @@ Conquer Us is an abstract strategic online game made in the genre of puzzles. It
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, HTML5, Online

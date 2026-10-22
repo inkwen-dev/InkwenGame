@@ -19,6 +19,6 @@ Scary game of hoops at the local graveyard playground. Watch out for zombie defe
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Basketball, Halloween, Monster, Shooting, Sports

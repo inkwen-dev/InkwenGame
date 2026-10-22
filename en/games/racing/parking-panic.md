@@ -19,6 +19,6 @@ Test your logic in the puzzle game Parking Panic. Move cars, buses and trailers 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Escape, Games, HTML5, Logic, Parking, Puzzle, Racing, Traffic

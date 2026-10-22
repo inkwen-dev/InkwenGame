@@ -19,6 +19,6 @@ Click in the white square for obtain money and purchase upgrades for improve the
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Funny, Game, HTML5, Mobile

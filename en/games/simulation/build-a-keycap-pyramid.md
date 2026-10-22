@@ -21,4 +21,4 @@ Build a Keycap Pyramid is a satisfying 3D building game where every keycap count
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, building, Casual, Clicker, Cute, idle, Kids, Multiplayer, Relaxation, Simulator, Stack, typing
+- Tags: 3D, building, Casual, Clicker, Cute, idle, Kids, Multiplayer, Relaxation, Simulator, Stack, Typing

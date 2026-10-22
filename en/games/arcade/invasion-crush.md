@@ -19,6 +19,6 @@ It is a classic breakout game with different types of bricks and challenging lev
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arkanoid, Ball, Bricks, HTML5, Mobile

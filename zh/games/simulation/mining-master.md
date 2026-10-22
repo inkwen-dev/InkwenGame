@@ -23,4 +23,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 冒险, Clicker, Minecraft, 模拟游戏
+- 标签: 3D, 冒险, 点击器, 我的世界, 模拟游戏

@@ -19,6 +19,6 @@ C'EST L'HEURE DES HÉROS ! Les ennemis les plus célèbres et redoutés de Ben T
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Ben 10, Boy, Boys, jump, Jumping, Kid, Kids, run, running

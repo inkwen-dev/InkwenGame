@@ -19,6 +19,6 @@ Here is a cargo block loading simulation game with two-dimensional game art anim
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, HTML5, Mobile, Truck

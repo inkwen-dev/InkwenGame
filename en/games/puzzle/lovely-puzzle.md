@@ -19,6 +19,6 @@ This year, you will enter Valentine's Day much more fun and loving. There are 12
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Click, Color, Girl, Girls, Logic, Logical, Love, Matching, Puzzle

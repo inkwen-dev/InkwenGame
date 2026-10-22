@@ -19,6 +19,6 @@ EG Super PonGoal is HTML5 games - It is currently the most advanced version of t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Football, Soccer, Sport, Sports, Super

@@ -19,6 +19,6 @@ Step into the eerie world of Haunted Pumpkin, a thrilling match-3 puzzle adventu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ai Games, Candy, Ghost, horror, Matching, Puzzle
+- Tags: Ai Games, Candy, Ghost, Horror, Matching, Puzzle

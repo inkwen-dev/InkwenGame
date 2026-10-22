@@ -19,6 +19,6 @@ Get ready to embark into the beauty nail stack art makeover and nail salon fashi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Bridge, Girls, Nails, running

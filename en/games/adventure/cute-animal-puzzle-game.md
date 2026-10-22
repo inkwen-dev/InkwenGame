@@ -19,6 +19,6 @@ Welcome to Cute Animal Puzzle Game, a delightful and relaxing puzzle adventure f
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, amazing, Best Games, Brain, Casual, Fun, Puzzle

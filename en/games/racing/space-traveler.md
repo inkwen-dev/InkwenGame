@@ -19,6 +19,6 @@ Run through space in this fun endless runner game! Avoid asteroids and other obs
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Arcade, Ball, Hypercasual, Race, Racing, running, Space, Subway Surfers, Unity3D

@@ -19,6 +19,6 @@ With the Squid Game Dalgona Candy game, you must remove the shapes in the candy 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Candy, Casual, Click, Clicker, Funny, Hypercasual, Kids, Puzzle, School, Skills, WebGL

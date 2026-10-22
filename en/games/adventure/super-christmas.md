@@ -19,6 +19,6 @@ Christmas is coming again! Play this Christmas game with 600+ levels of match 3 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boys, Christmas, Girls, Snow

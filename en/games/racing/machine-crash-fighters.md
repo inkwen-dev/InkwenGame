@@ -19,6 +19,6 @@ Machine Crash Fighters is a fast-paced action game where you build your ultimate
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arena, Battle, Battlegrounds, Best, Bomb, Car, Driving, Fighting, Gun, Machine, Robot, Shooting, Skill

@@ -19,6 +19,6 @@ Large ramps and amazing airs are accessible, or you can learn how to skate aroun
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Skill, Sports, Unity3D, WebGL

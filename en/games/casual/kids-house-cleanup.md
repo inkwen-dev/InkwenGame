@@ -19,6 +19,6 @@ Kids House Cleanup is a Cleaning game on Yiv.com. If you are a child who loves t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Girls

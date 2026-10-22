@@ -19,6 +19,6 @@ Get ready for an adrenaline-filled adventure in Formula Car Stunt Game! Drive po
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Adventure, Best, Car, Race, Racing, Supercars

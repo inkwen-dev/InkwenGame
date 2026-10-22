@@ -19,6 +19,6 @@ This quiz is dedicated to the amazing and diverse Marvel Universe. You will face
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, HTML5, html5 games, Quiz, Spiderman

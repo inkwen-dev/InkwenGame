@@ -19,6 +19,6 @@ Cats And Candies is a bright and exciting match-3 puzzle game. Match three or mo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Brain, Candy, Cat, free games for your site, free html5 games for your website, html games for your website, HTML5, html5 games, Match 3, Match3

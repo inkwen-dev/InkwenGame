@@ -19,6 +19,6 @@ Welcom to a world of action moto Game! Ride your Moto on those crazy hills and c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: drift, drifting, Driving, Moto, Race, Racing

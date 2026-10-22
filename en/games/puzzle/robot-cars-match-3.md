@@ -21,4 +21,4 @@ Robot Cars Match 3 – In this cool game you need to match three same figures in
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Match 3, Mobile, Puzzle
+- Tags: Fun, HTML5, Kids, Match-3, Mobile, Puzzle

@@ -19,6 +19,6 @@ How to make pancakes in a stack. Putting pancakes in a stack is quite difficult,
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Casual, Cool, HTML5, Hypercasual, Kid, Kids, WebGL

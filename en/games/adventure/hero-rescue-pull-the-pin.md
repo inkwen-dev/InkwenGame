@@ -19,6 +19,6 @@ Welcome to Hero Rescue - Pull The Pin puzzle game! Help the hero find the treasu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Best Games, Fun, HTML5, Logic, Logical, Mobile, Rescue, Skill

@@ -19,6 +19,6 @@ Get ready for the ultimate snake game! More than 200 challenging levels! Plenty 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Adventure, Best, Hypercasual, Online

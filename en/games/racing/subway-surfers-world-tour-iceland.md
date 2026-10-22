@@ -19,6 +19,6 @@ Hot countries got tired of the surfer racer and he decided to visit places where
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, jump, Jumping, Race, Racing, subway, Subway Surfers

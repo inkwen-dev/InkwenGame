@@ -19,6 +19,6 @@ Four Colors is a HTML5 Card Games. Face up to 3 computer-controlled opponents. M
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, card
+- Tags: 2 Player, Card

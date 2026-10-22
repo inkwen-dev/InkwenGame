@@ -21,4 +21,4 @@ You can now become a nurse ! Play as a nurse and take care of the patients. They
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, Doctor, Family, Girls, Hypercasual, management
+- Tags: Casual, Doctor, Family, Girls, Hypercasual, Management

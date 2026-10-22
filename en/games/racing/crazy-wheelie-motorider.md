@@ -19,6 +19,6 @@ Put on your helmet. A fun motor racing games with you. Get out of heavy traffic 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Boys, Car, Cars, free games for your website, games for your website, Hot, Moto, Motorcycle, Race, Racing, Traffic, unity games for your website

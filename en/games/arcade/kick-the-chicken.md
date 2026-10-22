@@ -19,6 +19,6 @@ This helpless little hen will need your help to get as much momentum as possible
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Chicken, endless, Flight, fly, Highscore, html games for your website, kiz10

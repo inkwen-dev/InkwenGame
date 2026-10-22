@@ -19,6 +19,6 @@ Passenger Bus Driving 2025 is an immersive simulation game where players take on
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Driving, Mentolatux, vehicle, WebGL

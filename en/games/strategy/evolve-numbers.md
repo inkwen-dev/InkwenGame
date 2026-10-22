@@ -19,6 +19,6 @@ Merge tiles with identical numbers by sliding them across the board. When two ti
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2048, blockchain, Classic, Forest, Highscore, html5 games, Mobile, Number, Puzzle, Strategy

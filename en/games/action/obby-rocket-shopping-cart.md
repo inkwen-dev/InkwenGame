@@ -19,6 +19,6 @@ Turn a shopping cart into a rocket-powered ride! Race along colorful 3D obstacle
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Arcade, Avoid

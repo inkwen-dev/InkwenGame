@@ -21,4 +21,4 @@ What can you do to get out of prison? Gather a team of ragdoll cellmates, solve 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Escape, prison, Puzzle
+- Tags: Adventure, Arcade, Escape, Prison, Puzzle

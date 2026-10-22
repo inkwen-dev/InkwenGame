@@ -19,6 +19,6 @@ Coroner virus(COVID-19) is killing the entire world now. But, Indian city Tamil 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Barbie, Batman, Boys, Cook, Cooking, Doctor, Dress Up, Girls, Kids, Mario

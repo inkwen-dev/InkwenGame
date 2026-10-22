@@ -21,4 +21,4 @@ Are you like Rapunzel? and you want play The new Of Princess Games Rapunzel Now 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Cartoon, Match 3, Match3, Matching, movie, Princess, Puzzle
+- Tags: Arcade, Cartoon, Match-3, Match3, Matching, Movie, Princess, Puzzle

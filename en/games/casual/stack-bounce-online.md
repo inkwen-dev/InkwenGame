@@ -19,6 +19,6 @@ Stack Bounce Online play it on iyigames.com. You want to relieve your pressure? 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Ball, Boys, Casual, Girls, HTML5, Hypercasual, WebGL

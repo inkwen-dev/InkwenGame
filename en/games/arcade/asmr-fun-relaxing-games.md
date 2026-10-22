@@ -19,6 +19,6 @@ Do you want to play some relaxing games? We are offering the best anxiety relief
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, Adventure, Arcade, Best Games, free games for your site, free games for your website, Puzzle, Relaxation

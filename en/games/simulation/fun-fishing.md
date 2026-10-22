@@ -34,4 +34,4 @@ Welcome to Fun Fishing — a fun and addictive fishing game about catching fish,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, fishing
+- Tags: Clicker, Fishing

@@ -19,6 +19,6 @@ Sudoku Deluxe is for all players : from beginners to advanced players. If you li
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, Casual, Educational, Logic, Number, Puzzle, sudoku
+- Tags: Brain, Casual, Educational, Logic, Number, Puzzle, Sudoku

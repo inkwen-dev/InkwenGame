@@ -19,6 +19,6 @@ Mummy Candy is a fun physics-based cut-the-rope puzzle game set in ancient Egypt
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Puzzle

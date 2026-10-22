@@ -19,6 +19,6 @@ Fly away to a far away land and fall in love with your brand new dream pet, Coco
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cartoon, Cleaning, Cooking, Cute, Decorate, Decoration, Dress Up, Fun, Girls, Grooming, HTML5, Kids, Makeover, Mobile, Pony

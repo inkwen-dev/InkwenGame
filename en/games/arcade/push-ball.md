@@ -19,6 +19,6 @@ Control the ball using a finger, avoid the opposite color and obstacles. Pass th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, endless, Game, run

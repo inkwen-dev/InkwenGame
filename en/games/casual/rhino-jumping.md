@@ -19,6 +19,6 @@ Rhino Jumping is a jumping game, very simple and fun! A super easy, fun and addi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, jump, Jumping, Kid, Kids

@@ -19,6 +19,6 @@ The heavyweight champion of wrestling. The Wrestling Revolution Arena 3D rumbles
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Action, Arena, Battle, Best Games, Fighting, Game, Multiplayer, pvp, Sports
+- Tags: 2026 games, 3D Games, Action, Arena, Battle, Best Games, Fighting, Game, Multiplayer, PvP, Sports

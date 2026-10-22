@@ -19,6 +19,6 @@ Once in childhood, all children dreamed of making different products with their 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Best, Brain, Hot, HTML, HTML5, Hypercasual, Kid, Kids, Unity3D

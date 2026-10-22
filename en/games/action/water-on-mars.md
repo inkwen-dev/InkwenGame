@@ -19,6 +19,6 @@ Water found on Mars! Show everyone if you can have more water on Mars or Jupiter
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2D, Battle, Click, Clicker, Fun, HTML5, Kids

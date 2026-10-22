@@ -19,6 +19,6 @@ Step into the fast-paced world of Pickle Ball Clash &mdash; a thrilling sports g
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Sports

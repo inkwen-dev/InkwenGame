@@ -17,4 +17,4 @@ Embark on a thrilling odyssey in Pets Are Rogue, where you capture and evolve wh
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

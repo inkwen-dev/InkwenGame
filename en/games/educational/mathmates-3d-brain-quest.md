@@ -19,6 +19,6 @@ A fun 3D math adventure! Choose your skill level, solve smart puzzles, and play 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best Games, Brain, Educational, Kids, WebGL

@@ -19,6 +19,6 @@ The people of city dragon games have forgotten about your super powers of dragon
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Casual, Dragon, Hypercasual

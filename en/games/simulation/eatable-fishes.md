@@ -19,6 +19,6 @@ Enjoying the world of fishing through gaming. Eatable Fishes is a fun, new onlin
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Fish, fishing, Games
+- Tags: Adventure, Arcade, Fish, Fishing, Games

@@ -17,4 +17,4 @@ In Solitaire Zero 21, strategize to reach the magic number by selecting cards th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

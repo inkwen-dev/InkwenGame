@@ -19,6 +19,6 @@ Control in the game "Football Heads" on the computer is carried out using the ar
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Ballon, Football, HTML, HTML5, Shoot, Shooting, Sport, Sports, Unity3D, World

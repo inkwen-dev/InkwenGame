@@ -21,4 +21,4 @@ Click investor is a realistic turn-based investment strategy game that allows yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Best, Business, Clicker, management, Simulation
+- Tags: 1 Player, Best, Business, Clicker, Management, Simulation

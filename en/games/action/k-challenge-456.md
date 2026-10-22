@@ -19,6 +19,6 @@ Join the game and you are now traped in unknown island, there is a musterious in
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arena, Avoid, Battle, Games, HTML5, Memory, Mobile, Online, Skill, Timing

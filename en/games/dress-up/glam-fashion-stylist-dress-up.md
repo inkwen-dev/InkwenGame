@@ -19,6 +19,6 @@ This new dressup game for fashionista girls offers a huge selection of clothing 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Dress Up, Family, Fashion, Girl, Girls

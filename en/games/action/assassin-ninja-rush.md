@@ -19,6 +19,6 @@ Experience high-octane ninja action in Assassin Ninja Rush! Take control of an a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Avoid, Collecting, Platform, run, Stickman

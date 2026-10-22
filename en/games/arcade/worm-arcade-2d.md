@@ -21,4 +21,4 @@ Dive into the thrilling world of Worm Arcade 2D, where you control a nimble worm
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Android, HTML5, jump, Mentolatux, Mobile, unity, worm, Worms
+- Tags: 2D, Android, HTML5, jump, Mentolatux, Mobile, unity, Worm, Worms

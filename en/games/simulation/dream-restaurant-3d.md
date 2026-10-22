@@ -21,4 +21,4 @@ Ready for the ultimate restaurant challenge in Dream Restaurant 3D? Embark on a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Android, Best, Boy, Business, Girl, Kids, management, Mobile, Online, Restaurant, Shopping, Simulation
+- Tags: 1 Player, 3D, Android, Best, Boy, Business, Girl, Kids, Management, Mobile, Online, Restaurant, Shopping, Simulation

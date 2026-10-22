@@ -19,6 +19,6 @@ In a small town there lived a little boy Cody, who, like all children, went to s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cartoon, Cartoon Network, Disney, Fight, Fighting, H5, HTML, HTML5, Mind, Strategy

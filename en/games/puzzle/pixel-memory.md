@@ -19,6 +19,6 @@ Pixel Memory is super fun memory game for kids that you can play online on your 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Fun, Girls, Kids, Memory, Mobile, Pixel, Puzzle, Skill

@@ -21,4 +21,4 @@ This is an easy and relaxing game in which you are the owner of a pet store! Pos
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Business, Collecting, farm, Pokemon, unity
+- Tags: 1 Player, Animal, Business, Collecting, Farm, Pokemon, unity

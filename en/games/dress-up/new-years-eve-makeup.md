@@ -19,6 +19,6 @@ Create stunning New Years Eve looks in the New Years Eve Makeup game! Help three
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, beauty, Christmas, Dress Up, Fashion, Girl, Girls, Holiday, Makeover, Winter

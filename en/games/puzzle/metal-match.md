@@ -21,4 +21,4 @@ Get ready to spark your brain and test your chemistry smarts in Metal Match &mda
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Educational, Match 3, Puzzle, Skills
+- Tags: Educational, Match-3, Puzzle, Skills

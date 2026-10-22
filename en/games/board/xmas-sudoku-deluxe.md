@@ -21,4 +21,4 @@ It is simplified Sudoku for kids. Drop items in blank boxes. Don't repeat an ite
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, Christmas, HTML5, Mobile, Puzzle, sudoku, Winter
+- Tags: Board, Christmas, HTML5, Mobile, Puzzle, Sudoku, Winter

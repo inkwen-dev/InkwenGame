@@ -17,4 +17,4 @@ Unleash strategic fun with DUO With Friends, where traditional card play is reim
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

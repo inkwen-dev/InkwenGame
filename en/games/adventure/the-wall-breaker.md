@@ -19,6 +19,6 @@ Just play it to relax your brain. Be focus on breaking wall breaker and you will
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Alien, Android, Animal, Anime, Army, Batman, Ben 10, Best, Brain, Pokemon, Superhero

@@ -17,4 +17,4 @@ Embark on a thrilling deep-sea expedition in Fishing Guy! Cast and reel fish to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

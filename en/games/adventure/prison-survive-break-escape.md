@@ -21,4 +21,4 @@ Get ready in this epic prison escape Survival mission. You will have to use all 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Escape, Fight, HTML5, prison, WebGL
+- Tags: 3D, Action, Escape, Fight, HTML5, Prison, WebGL

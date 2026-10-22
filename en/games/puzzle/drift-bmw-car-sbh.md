@@ -19,6 +19,6 @@ this game you will merge with a large number of racers for the title of the best
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Moto, Motorcycle, Parking, Sim, Simpson, Simulation, Simulator, sky, Supercars, Truck

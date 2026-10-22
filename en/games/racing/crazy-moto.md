@@ -19,6 +19,6 @@ Crazy Moto is a fast-paced motorcycle stunt racing game where physics and balanc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 2D, Arcade, Balance, Bike, Driving, Moto, Motocross, Motorcycle, Obstacle, Physics, Racing, Stunts

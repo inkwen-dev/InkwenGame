@@ -19,6 +19,6 @@ Your lover, the princess has been caught by the bad guy. Let us step on an adven
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Avoid, Boy, Boys, Fun, H5, HTML5, Hypercasual, Kid, Kids, Pixel

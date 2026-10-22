@@ -19,6 +19,6 @@ This is a skill based board puzzle game. You will see a board filled with differ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Christmas, Hidden, Holiday, HTML5, Kids, Mobile, Puzzle, Winter

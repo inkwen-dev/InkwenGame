@@ -19,6 +19,6 @@ Dive into the colorful world of Volleyball Fun Coloring: a cheerful and free onl
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Coloring, Educational, Fun, Girls, Hypercasual, School, Sport

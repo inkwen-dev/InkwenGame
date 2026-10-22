@@ -21,4 +21,4 @@ Manage your airline and expand to every corner of the world! - 50+ cities across
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Air, Business, management, Simulation, Simulator
+- Tags: Air, Business, Management, Simulation, Simulator

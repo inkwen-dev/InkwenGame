@@ -19,6 +19,6 @@ Football is back and its bigger than ever! Play Toon Cup 2021, the totally free 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Cartoon, Cartoon Network, Football, Fun, Game, HTML5, Mobile, Soccer, Sport, Superhero, World

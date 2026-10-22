@@ -17,4 +17,4 @@ Embark on a mesmerizing journey with Mahjong Royal, a fusion of traditional Mahj
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

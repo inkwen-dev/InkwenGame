@@ -19,6 +19,6 @@ Speedrun all the levels and share your score with your friends. Jump through blo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, jump, Jumping, Minecraft, Mobile

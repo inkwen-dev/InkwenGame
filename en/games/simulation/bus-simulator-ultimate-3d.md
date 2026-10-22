@@ -19,6 +19,6 @@ In this thrilling simulation game, you will take on the role of a skilled bus dr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, bus, Level, Levels, Taxi

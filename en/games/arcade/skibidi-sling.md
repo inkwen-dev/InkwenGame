@@ -19,6 +19,6 @@ Help the little Skibidi toilet and his friends to sling and bounce to the top bu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Pokemon, Skibidi, Skibidi Toilet

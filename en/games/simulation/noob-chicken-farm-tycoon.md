@@ -19,6 +19,6 @@ Help Noob run a chicken farm: breed and upgrade chickens, buy useful tools for t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Best, Brain, Business, Casual, Chicken, Classic, Clicker, Collecting, Minecraft, Pixel, Zombie

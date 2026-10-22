@@ -19,6 +19,6 @@ Tap to flip the monkey to escape from planes & eat all the bananas… Complete t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Escape, Fun, Highscore, HTML5, Kids, Monkey, Plane

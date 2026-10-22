@@ -19,6 +19,6 @@ Are you into Peppa Pig ? Peppa Pig Coloring Book: A Stunning Coloring Book Inclu
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cartoon, Color, Coloring, Draw, Drawing, Game, Online, Puzzle

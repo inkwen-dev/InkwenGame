@@ -19,6 +19,6 @@ Flying Cat is an online game that lets you experience the joys of flying a cat. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Arcade, endless, Game, Games, HTML5, Online

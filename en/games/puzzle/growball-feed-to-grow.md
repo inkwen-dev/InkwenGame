@@ -19,6 +19,6 @@ It is a thrilling black hole adventure where they take on the role of a greedy s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Ball, eating, grow, HTML5, iPad, iPhone, Kids, Mentolatux, Mobile, Puzzle

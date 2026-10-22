@@ -21,4 +21,4 @@ Idle Firefighter 3d is a firefighter and fire truck simulator game. You will pla
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Boys, Fun, Kids, rpg, Simulator
+- Tags: 3D Games, Boys, Fun, Kids, RPG, Simulator

@@ -19,6 +19,6 @@ Paint roads with roller car! Swipe to move your car in a maze city puzzle! Advan
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D Games, Car, Cars, Casual, Puzzle

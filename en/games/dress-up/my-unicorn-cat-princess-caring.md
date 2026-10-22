@@ -19,6 +19,6 @@ Help baby cat Twinkle hatch from her magical egg! Show the kitty around the roya
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cat, Cleaning, Coloring, Decorate, Design, Dress Up, Educational, Girl, Girls, Kids, Makeover, Princess, Simulation

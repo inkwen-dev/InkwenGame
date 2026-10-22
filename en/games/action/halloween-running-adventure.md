@@ -19,6 +19,6 @@ Halloween Running Adventure is a online game that you can play for free. This is
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Avoid, Boys, Collecting, Halloween, HTML5, Hypercasual, Kids, Mobile, Platform, run, running, Skill

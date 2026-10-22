@@ -19,6 +19,6 @@ Master jigsaw puzzle game is a classic jigsaw puzzle game designed for players w
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Casual, Fun, Puzzle, puzzleblock, Skill

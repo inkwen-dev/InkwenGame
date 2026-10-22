@@ -21,4 +21,4 @@ Fantastic Jigsaw game with a theme of lovely pig family. Drag and drop the pictu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Arcade, farm, HTML5, Jigsaw, Kids, Memory, Puzzle
+- Tags: Animal, Arcade, Farm, HTML5, Jigsaw, Kids, Memory, Puzzle

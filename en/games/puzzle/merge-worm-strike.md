@@ -21,4 +21,4 @@ Merge Worm Strike is a free and very popular online entertainment game for boys,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Android, Animal, Avoid, Ball, Boy, Brain, Fun, HTML5, Kids, Online, Puzzle, worm
+- Tags: 3D, Android, Animal, Avoid, Ball, Boy, Brain, Fun, HTML5, Kids, Online, Puzzle, Worm

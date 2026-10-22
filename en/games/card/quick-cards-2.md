@@ -17,4 +17,4 @@ Dive into the thrilling world of Quick Cards, where every card throw could clinc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -19,6 +19,6 @@ New Card Themes: Our Spider Solitaire card game has new & fun card themes that y
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, card, Solitaire
+- Tags: Brain, Card, Solitaire

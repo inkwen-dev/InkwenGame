@@ -17,4 +17,4 @@ Unleash creativity as you transform your home in Merge For Renovation. Merge ide
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

@@ -19,6 +19,6 @@ Combo Crush is a fast-paced, addictive puzzle game where strategy meets satisfac
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Brain, endless, HTML5, Puzzle, puzzleblock, Skill, Skills

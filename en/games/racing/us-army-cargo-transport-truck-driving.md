@@ -19,6 +19,6 @@ Get ready for the most thrilling offroad driving adventure sim in OffRoad US Arm
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, drifting, Driving, Simulation, Traffic, Truck

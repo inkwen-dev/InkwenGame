@@ -19,6 +19,6 @@ Recently, fidget spinner is so popular, Sofia, Zoe and Rebecca want to have a tr
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Decorate, Design, Fashion, Girl, Girls, Kids, Simulation, Skill

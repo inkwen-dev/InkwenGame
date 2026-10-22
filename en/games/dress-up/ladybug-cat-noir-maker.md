@@ -19,6 +19,6 @@ This maker will help you create your unique character in the style of Ladybug. Y
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Dress Up, Hair, Ladybug, Miraculous Ladybug, Superhero

@@ -19,6 +19,6 @@ Roll the PigIn the Hole! Press/Touch left or right on screen to get the cow into
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Arcade, Ball, Bounce, Bubble, Cute, Family, farm, HTML, HTML5, Puzzle
+- Tags: 2D, Animal, Arcade, Ball, Bounce, Bubble, Cute, Family, Farm, HTML, HTML5, Puzzle

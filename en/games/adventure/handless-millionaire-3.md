@@ -19,6 +19,6 @@ lick (or tap) your mouse on the hand on the right side of the screen. This is th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Blood, cut, Killing, Slicing, Zombie

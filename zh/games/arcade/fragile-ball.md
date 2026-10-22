@@ -21,4 +21,4 @@ WASD 或方向键移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 3D, 3D 游戏, 街机, 球, 气球, 弹跳, 竞速, Unity3D
+- 标签: 1人游戏, 3D, 3D游戏, 街机, 球, 气球, 弹跳, 竞速, Unity3D

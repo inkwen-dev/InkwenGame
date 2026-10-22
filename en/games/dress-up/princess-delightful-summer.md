@@ -19,6 +19,6 @@ Princess Delightful Summer has just begun. Summer brings a lot of warmth and sun
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cute, Disney, Dress Up, Games, Girls, Princess, Relaxation, Summer

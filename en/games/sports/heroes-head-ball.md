@@ -19,6 +19,6 @@ Have you ever seen him play football with his head? yes, its a football game whe
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Arena, Ball, Battle, Best, Boy, Boys, Highscore, Soccer

@@ -19,6 +19,6 @@ Knight In Love is an online game that you can play for free. The princess was ar
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Fun, HTML5, Kids, Mobile, Princess, Puzzle, Skill

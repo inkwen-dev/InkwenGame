@@ -19,6 +19,6 @@ In a game filled with adventures, the noob has to protect the sheep. You must be
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, mineblock, Minecraft, Pixel

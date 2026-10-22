@@ -19,6 +19,6 @@ Point your finger, take aim and try to score a basket! Shoot further and further
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Basketball, Clicker, Family, HTML, HTML5, Kids, Mobile, Sport, Sports

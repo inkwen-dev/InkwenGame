@@ -19,6 +19,6 @@ This is a unique Parkour game. The protagonist of the game is a fat man, but he 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Action, Boy, Boys, burger, Casual, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Kid, Kids, Mobile, run, Sport
+- Tags: 3D Games, Action, Boy, Boys, Burger, Casual, Collecting, Collection, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Kid, Kids, Mobile, run, Sport

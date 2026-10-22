@@ -19,6 +19,6 @@ Are You the next great stunt pilot? Play this cute arcade game and test all your
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Flight, fly, HTML, HTML5, Kid, Kids, Mobile, Race, Racing

@@ -19,6 +19,6 @@ Now you can play Minecraft Online Game on ZAZGAMES online in your web browser fo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Air, Aircraft, Block, Bricks, Craft, Crafting, Games, Grooming, Minecraft, Online

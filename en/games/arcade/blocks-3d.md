@@ -19,6 +19,6 @@ Remove all the blocks from the field in a limited amount of time. The blocks can
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, arrows, Block, Casual

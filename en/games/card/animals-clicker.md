@@ -19,6 +19,6 @@ Animals Clicker is a clicker with lots of cards with cute animals and pets. Clic
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, card, Cartoon Network, Casual, Clicker, Cute, Game, HTML5, Kids
+- Tags: Animal, Card, Cartoon Network, Casual, Clicker, Cute, Game, HTML5, Kids

@@ -19,6 +19,6 @@ Baby Learns Transportation is an educational learning game for kids. Kids will l
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cute, Educational, transport

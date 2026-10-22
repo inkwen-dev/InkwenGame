@@ -19,6 +19,6 @@ The most important and most omnipotent has always been the king, everything was 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Castle, Click, Clicker, Fight, Fighting, HTML, HTML5, Kill, Killing, King

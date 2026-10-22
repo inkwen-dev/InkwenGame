@@ -19,6 +19,6 @@ Take your first wooden pickaxe and start mining resources, open new levels of th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Click, Clicker, Mine, Miner

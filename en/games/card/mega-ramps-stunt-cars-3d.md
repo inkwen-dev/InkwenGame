@@ -19,6 +19,6 @@ Extreme ramp car stunt racing games: Impossible Tracks Play of impossible car ga
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, Arcade, Car, card, Cars, Game, Race, Racing, Simulation, Simulator, Sport, Supercars, Unity3D
+- Tags: 3D, Action, Adventure, Arcade, Car, Card, Cars, Game, Race, Racing, Simulation, Simulator, Sport, Supercars, Unity3D

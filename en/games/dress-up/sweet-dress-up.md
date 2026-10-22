@@ -19,6 +19,6 @@ Sweet girl on https://girlgames.ee wait you dress up this sweet girl Maria :)
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cook, Cooking, Dress Up, Friv, Fun, Girl, Girls, Kiz 10, Logic, Logical, Magic

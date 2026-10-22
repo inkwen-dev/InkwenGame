@@ -19,6 +19,6 @@ Here new Brand Top No 1 Puzzle Game with Zipline, Draw Rope Path and Rescue Peop
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Casual, HTML5, Logic, Logical, WebGL

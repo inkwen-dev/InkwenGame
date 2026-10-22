@@ -19,6 +19,6 @@ Stretch CAT is the best game for Relaxing and Puzzle lovers! It can be played an
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Boys, Casual, Cat, Educational, Girls, Hot, Hypercasual, Kids, Mobile, Online, Puzzle, Strategy

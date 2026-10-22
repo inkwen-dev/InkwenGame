@@ -19,6 +19,6 @@ What color is the apple? What does the kitty like to eat? What does the number 1
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boy, Boys, Classic, Cute, Educational, Girl, Girls, H5, Hot, HTML5, Kids, Logic

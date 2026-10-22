@@ -19,6 +19,6 @@ Collect the fruits with the basket. The basket can move on the left and right si
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Fruits, HTML5, Kids, Mobile, Puzzle

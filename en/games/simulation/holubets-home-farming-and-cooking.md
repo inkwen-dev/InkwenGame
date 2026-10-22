@@ -19,6 +19,6 @@ Stuffed Cabbage Rolls is known as Holubets. Here in this game we will farm the v
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cooking, farm, Girl, Girls, Shopping
+- Tags: Cooking, Farm, Girl, Girls, Shopping

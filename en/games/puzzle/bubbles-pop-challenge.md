@@ -19,6 +19,6 @@ Pop, pop, pop! Welcome to Bubbles Pop! Throw your bubbles and challenge yourself
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Dragon, rpg
+- Tags: Adventure, Dragon, RPG

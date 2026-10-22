@@ -19,6 +19,6 @@ Super Monkey Juggling super fun game with the reflex booster. Here in this game,
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Boys, Casual, Football, Monkey, Soccer

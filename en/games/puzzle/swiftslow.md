@@ -19,6 +19,6 @@ A snake &amp; ladders game in hare-tortoise setting! Fun for kids. There are 3 m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Puzzle, Rabbit, Snake

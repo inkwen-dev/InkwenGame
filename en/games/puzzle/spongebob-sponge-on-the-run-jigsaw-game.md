@@ -19,6 +19,6 @@ SpongeBob and Patrick embark on a rescue mission to save SpongeBob's pet snail G
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Fun, Girl, HTML5, Jigsaw, Kid, Matching, Mobile, movie, run, Spongebob
+- Tags: Android, Fun, Girl, HTML5, Jigsaw, Kid, Matching, Mobile, Movie, run, Spongebob

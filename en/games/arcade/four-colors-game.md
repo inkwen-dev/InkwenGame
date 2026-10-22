@@ -19,6 +19,6 @@ Four Colors is a puzzle game. In the middle of the game will be a big colored sq
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Color, HTML5, Matching, Puzzle

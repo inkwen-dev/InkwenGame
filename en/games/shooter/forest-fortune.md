@@ -19,6 +19,6 @@ Forest Fortune is a cozy 3D leaf-collecting simulator set in a charming hand-pai
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon Network, Collecting, First Person Shooter

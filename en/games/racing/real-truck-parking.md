@@ -19,6 +19,6 @@ In Real Truck Parking you have to drive a big truck without a body. The task is 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Boys, Driving, Parking, Simulator, Skill, Truck

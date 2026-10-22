@@ -19,6 +19,6 @@ Try to reach the shortest times in more than 40 levels in this mad stunts game, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bike, Boy, Boys, Car, Cars, Funny, Moto, Motorcycle, Sports

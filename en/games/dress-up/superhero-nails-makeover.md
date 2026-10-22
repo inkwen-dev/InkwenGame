@@ -19,6 +19,6 @@ Get ready to create powerful and stylish nail looks in Superhero Nails Makeover!
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, beauty, Cartoon, Casual, Creation, Fashion, Girls, Makeover, Nail, Nails, Superhero

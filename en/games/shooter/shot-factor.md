@@ -19,6 +19,6 @@ Shot Factor is a free casual shooting online game for boys. The game takes the f
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, Number, Online, Puzzle, running, Shooting, Stickman

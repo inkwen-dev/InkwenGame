@@ -19,6 +19,6 @@ Want to dive into the festive fun of Halloween Run Cat Evolution? In this challe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Cat, Halloween, run

@@ -19,6 +19,6 @@ Cupcake Shop is a score-based puzzle online game, developed for boys. Make custo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Boy, Brain, Cake, Cook, Cooking, Decorate, Fun, Kid, Timing

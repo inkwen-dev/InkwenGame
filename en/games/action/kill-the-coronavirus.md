@@ -19,6 +19,6 @@ Dangerous virus strains are spreading everywhere. Kill them by getting vaccinate
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Best, HTML5, Mobile

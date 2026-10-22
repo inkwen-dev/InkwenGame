@@ -19,6 +19,6 @@ Galactic Driver is a fun driving game where you race though 30 sci-fi levels. Yo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Driving, Mobile

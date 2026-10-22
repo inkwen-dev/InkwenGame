@@ -19,6 +19,6 @@ Let&rsquo;s deep dive into the world of Tiles Puzzle Fun, new challenges are wai
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Matching, Puzzle

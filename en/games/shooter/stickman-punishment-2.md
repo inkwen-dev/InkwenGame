@@ -24,4 +24,4 @@ Choose any available punishment for Stickman!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Funny, mouse, Stickman
+- Tags: Arcade, Funny, Mouse, Stickman

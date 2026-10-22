@@ -19,6 +19,6 @@ Ride power ranger's bike and explore the city in a cyberpunk world
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Super, Supercars, Superhero

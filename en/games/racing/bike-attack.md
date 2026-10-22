@@ -19,6 +19,6 @@ Bike Attack is a free online racing game. Do you want to try out this new racing
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Bike, Race, Racing

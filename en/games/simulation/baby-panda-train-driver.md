@@ -19,6 +19,6 @@ Do you know about trains? You may have built a train, but do you know what it is
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cute, Decorate, Educational, Girl, Girls, Kids, Simulation

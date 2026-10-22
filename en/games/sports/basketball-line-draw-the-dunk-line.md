@@ -19,6 +19,6 @@ Draw a line and make the falling ball score the basket! Time your drawings prope
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Basketball, Boy, Boys, Draw, Fun, H5, HTML5, Kid, Kids, Sport, Sports

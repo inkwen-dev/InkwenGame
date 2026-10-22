@@ -19,6 +19,6 @@ Crazy Pixel Apocalypse 4 UI 2026 is a fast multiplayer shooting game with pixel-
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Gun, Mentolatux, Multiplayer, Shooting, survival, unity, WebGL

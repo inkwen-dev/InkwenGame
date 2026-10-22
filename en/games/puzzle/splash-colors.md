@@ -19,6 +19,6 @@ Splash Color is a cool game where you need to destroy transparent bubbles with c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Collecting, Fun, HTML5, Kids, Mobile, Puzzle, Skill

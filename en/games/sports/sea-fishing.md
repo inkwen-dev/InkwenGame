@@ -21,4 +21,4 @@ This is a casual game in which there is a fisherman who drags his hook into the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, fishing, Fun, HTML5, Kids, Mobile, Skill
+- Tags: Animal, Fishing, Fun, HTML5, Kids, Mobile, Skill

@@ -19,6 +19,6 @@ Fight to survive in a city overrun by zombies. Move fast, collect coins, upgrade
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Battle

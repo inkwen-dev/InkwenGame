@@ -19,6 +19,6 @@ Give dirty cars a complete makeover in a colorful 3D car wash. Rinse away the mu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Casual, Cleaning, Kids, Simulation

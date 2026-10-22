@@ -19,6 +19,6 @@ Number Run 3D is a number running game which is suitable for all ages! Your goal
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Kids, Math, Mobile, Number, Platform, running, Skill

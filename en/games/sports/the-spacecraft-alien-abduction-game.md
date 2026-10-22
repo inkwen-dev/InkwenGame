@@ -19,6 +19,6 @@ An alien invasion has taken place in a quiet city. The streets became a deadly a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, Action, Animal, Chicken

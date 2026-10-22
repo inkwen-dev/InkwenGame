@@ -19,6 +19,6 @@ Challenge your friends and family members to 2-player arcade tank battle! Mini T
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Action, Battle, Fight, Shooting, Tank, Tanks

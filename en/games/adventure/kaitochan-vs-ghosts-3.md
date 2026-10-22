@@ -17,4 +17,4 @@ Dive into the eerie world of Kaitochan vs Ghosts, a captivating 2D platformer. N
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

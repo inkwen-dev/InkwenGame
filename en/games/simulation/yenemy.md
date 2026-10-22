@@ -42,4 +42,4 @@ Progress in battles directly supports farm development, creating a strong connec
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, Crafting, farm, Multiplayer, Strategy, survival
+- Tags: Action, Adventure, Crafting, Farm, Multiplayer, Strategy, survival

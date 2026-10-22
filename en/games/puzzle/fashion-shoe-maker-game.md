@@ -19,6 +19,6 @@ Welcome to the fashion shoe design maker studio where you can make fantastic sho
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Barbie, Bubble, Bubble Shooter, Candy, Collecting, Collection, Color, Coloring, Fairy, Family, Fantasy, farm, Fashion, Fun, Funny, Girl, Girls, Pokemon, Princess
+- Tags: 8 Ball Pool, Barbie, Bubble, Bubble Shooter, Candy, Collecting, Collection, Color, Coloring, Fairy, Family, Fantasy, Farm, Fashion, Fun, Funny, Girl, Girls, Pokemon, Princess

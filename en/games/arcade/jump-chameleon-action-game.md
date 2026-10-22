@@ -19,6 +19,6 @@ The chameleons are waiting! They're hungry for some flies on the go! So help the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Animal, Arcade, Casual, Classic, Escape, Game, Games

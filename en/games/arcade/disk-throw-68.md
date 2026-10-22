@@ -19,6 +19,6 @@ This is a game in which you need to destroy all the pink discs to pass the level
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Game, Games, HTML, HTML5, Kid, Kids, Matching, Mind

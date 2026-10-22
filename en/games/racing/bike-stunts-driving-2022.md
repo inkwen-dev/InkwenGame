@@ -19,6 +19,6 @@ Are you a pro when it comes to racing GT bikes or are you more of a difficult bi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bike, Driving, Moto, Motorcycle, Unity3D, WebGL

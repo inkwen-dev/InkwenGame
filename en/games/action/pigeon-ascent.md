@@ -19,6 +19,6 @@ In Pigeon Ascent, take care of your own pigeon as they fight increasingly strong
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bird, Fight, Fighting

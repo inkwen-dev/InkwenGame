@@ -49,4 +49,4 @@ Vivid graphics, dynamic gameplay and the excitement of production are waiting fo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Mobile, popular, tycoon
+- Tags: Management, Mobile, popular, tycoon

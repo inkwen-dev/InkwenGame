@@ -19,6 +19,6 @@ Cap Opener is an engaging and fast-paced mobile game where players enter a world
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, HTML5, html5 games, Puzzle, Unity3D, WebGL

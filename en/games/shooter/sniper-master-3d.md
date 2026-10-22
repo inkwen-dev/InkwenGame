@@ -19,6 +19,6 @@ Sniper Master 3D is new a Brand new Sniper Game its Time For Trigger Shooting . 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Boy, Boys, Cool, HTML5, Shoot, Shooter, Shooting, Sniper, WebGL

@@ -17,4 +17,4 @@ Dive into a whimsical puzzle adventure with Lines - Air Balloons. Strategically 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

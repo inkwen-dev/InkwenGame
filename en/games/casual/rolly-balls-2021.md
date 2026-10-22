@@ -19,6 +19,6 @@ Rolly Balls is a relaxing casual game you can pick up and play any time! Simply 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Aircraft, Android

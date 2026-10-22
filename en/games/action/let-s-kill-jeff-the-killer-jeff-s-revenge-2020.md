@@ -19,6 +19,6 @@ Welcome to the new Jeff The Killer Adventure. This time you can play as Soldier 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Kiz 10, kiz10

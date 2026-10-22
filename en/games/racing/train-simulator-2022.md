@@ -19,6 +19,6 @@ All railroad and railway fans, train collectors, and train simulator enthusiasts
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Simulation, Simulator, Traffic, train, Unity3D, WebGL
+- Tags: Simulation, Simulator, Traffic, Train, Unity3D, WebGL

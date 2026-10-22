@@ -19,6 +19,6 @@ Jade is 18 now and about to graduate from the college. She is old enough to live
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Design, Fashion, Girl, Girls, Kids, Simulation

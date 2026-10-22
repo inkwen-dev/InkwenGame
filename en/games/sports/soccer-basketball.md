@@ -19,6 +19,6 @@ Tap and slide the soccer ball, control its angle and power, then shoot towards t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Ballon, Basketball, Boy, Boys, endless, Football, Physics, Soccer, Sport, Sports, World

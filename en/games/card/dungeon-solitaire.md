@@ -21,4 +21,4 @@ Dungeon Solitaire is a dark fantasy card roguelike inspired by the classic game 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Clicker, Dungeon, Fantasy, Solitaire
+- Tags: Card, Clicker, Dungeon, Fantasy, Solitaire

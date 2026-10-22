@@ -19,6 +19,6 @@ The Christmas holidays are coming. Here you can find beautiful Christmas vehicle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Christmas, Difference, Fun, HTML5, Kids, Mobile, Skill, Truck

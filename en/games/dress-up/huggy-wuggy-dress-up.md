@@ -19,6 +19,6 @@ Dress up your favorite phenomenon cartoon heroes huggy wuggy and kissy missy. Ch
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Dress Up, Fun, Funny, Game, Girl, Girls, HTML5

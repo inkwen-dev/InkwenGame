@@ -19,6 +19,6 @@ The best car driving simulator game of 2020 comes with the most realistic drivin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Adventure, Car, Cars, Hypercasual, Race, Racing, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D

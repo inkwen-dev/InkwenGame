@@ -19,6 +19,6 @@ Ready to enter a horror school full of scares and mysteries? In Horror School: D
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: horror, School
+- Tags: Horror, School

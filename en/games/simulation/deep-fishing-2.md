@@ -17,4 +17,4 @@ Dive into an underwater adventure with Deep Fishing! Explore vibrant seas, reel 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

@@ -19,6 +19,6 @@ Taxi Driver is a fun driving simulation game where you control a taxi and drive 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Driving, Mobile, Taxi

@@ -19,6 +19,6 @@ Cocomelon Coloring Book is cool coloring game for kids and adults. Play Cocomelo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Color, Coloring, Draw, Drawing, Jigsaw, Puzzle

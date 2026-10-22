@@ -19,6 +19,6 @@ Obby game inspired by Roblox where your character grows taller with every step! 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Animal, Anime, Cake, Food, grow, Simulation, Simulator

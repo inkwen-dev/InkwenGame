@@ -19,6 +19,6 @@ You should have heard something about elves, or read or at least watch a couple 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Bomb, Fruit, Fruits, HTML, HTML5, Hypercasual, Puzzle, Shoot, Shooting

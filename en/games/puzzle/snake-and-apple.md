@@ -21,4 +21,4 @@ Help the little snake eat the apple and escape from this space. In the game, you
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Funny, Logic, Snake, worm
+- Tags: Brain, Funny, Logic, Snake, Worm

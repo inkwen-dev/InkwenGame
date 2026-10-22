@@ -19,6 +19,6 @@ Kids Birthday Party is a very cute game. Do you know when your birthday is and h
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Candy, Cook, Cooking, Cute, Family, Food, Fun, Girls, HTML5, Kids, Magic, Mobile

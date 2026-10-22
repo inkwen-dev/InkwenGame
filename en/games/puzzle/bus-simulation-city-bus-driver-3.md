@@ -19,6 +19,6 @@ Ultimate bus simulator: bus games are the most with the amazing city bus driver.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adult, Adventure, Arcade, Baby Hazel, Bubble Shooter, Car, Cars, Chicken, Christmas, Clash, Ever After High, Game, Games, Ladybug, Miraculous Ladybug, Race, Racing, Road, Simulation, Simulator, Supercars, Undead, Unity3D

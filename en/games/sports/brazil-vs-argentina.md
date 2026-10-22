@@ -19,6 +19,6 @@ The Brazil vs Argentina game will be played online for free. Play Brazil take on
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Football, Highscore, Soccer, Sport, Sports

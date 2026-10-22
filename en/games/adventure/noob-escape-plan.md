@@ -21,4 +21,4 @@ The noob was caught and imprisoned in an underground prison. To make an escape, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Casual, Escape, Minecraft, Monster, prison, Puzzle
+- Tags: 3D, 3D Games, Adventure, Casual, Escape, Minecraft, Monster, Prison, Puzzle

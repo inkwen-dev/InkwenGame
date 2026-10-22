@@ -19,6 +19,6 @@ Welcome to Obby Ride a Bike For Brainrots! Speed through obstacle courses while 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brainrot, Brainrot Italian, Brainrot sahuuur, catch, Italian Brainrot, Minecraft, Monster, roblox, run, running, steal

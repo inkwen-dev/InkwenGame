@@ -17,4 +17,4 @@ Manage a bustling airport using quirky 3D stickman models in a dynamic simulatio
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

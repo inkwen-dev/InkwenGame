@@ -19,6 +19,6 @@ Furious Road GT is a simple but addictive game in the genre of infinite races, d
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boy, Boys, Fun, Race, Sport, Strategy, Supercars, Traffic

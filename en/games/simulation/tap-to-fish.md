@@ -21,4 +21,4 @@ Cast your line, reel in the rewards, and grow your fishing empire! In Tap to Fis
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Casual, Fish, fishing, free html5 games for your website, Fun, Simulator, water
+- Tags: 1 Player, Adventure, Arcade, Casual, Fish, Fishing, free html5 games for your website, Fun, Simulator, water

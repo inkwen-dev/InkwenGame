@@ -19,6 +19,6 @@ Live the life of a wild horse and explore a vast open world full of adventure, s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, farm, Horse, Simulation, Simulator
+- Tags: Animal, Farm, Horse, Simulation, Simulator

@@ -19,6 +19,6 @@ Prepare a lovely gift for your boyfriend-girlfriend for Valentine's Day! Show ho
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Coloring, Fun, Girls, Holiday, HTML5, Kids, School

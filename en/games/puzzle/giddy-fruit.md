@@ -19,6 +19,6 @@ It’s Giddy Fruit the hottest game on the charts at the moment! Tap To Match Th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Cute, endless, Family, Fruit, Fruits, Girls, HTML, HTML5, Kids, Memory, Mobile, Puzzle

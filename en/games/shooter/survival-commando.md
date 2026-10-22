@@ -19,6 +19,6 @@ Survival Commando is a top-down shooter. Top-Down Shooter Survival Games is an a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Shoot, Shoot 'Em Up, Shooter, Shooting, Zombie

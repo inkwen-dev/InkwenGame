@@ -19,6 +19,6 @@ Our paw Patrol has been locked away in the Angry jungle and paw ryder need you t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Cartoon, Cartoon Network, Castle, Disney, Family, movie, Princess
+- Tags: 1 Player, Cartoon, Cartoon Network, Castle, Disney, Family, Movie, Princess

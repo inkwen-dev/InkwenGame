@@ -19,6 +19,6 @@ Crispy potato chips factory game is the best opportunity for foodies who likes t
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arcade, Billiard, Casual, Crazy, Creation, Fun, Funny, Hot, Hypercasual, Machine, Unity3D

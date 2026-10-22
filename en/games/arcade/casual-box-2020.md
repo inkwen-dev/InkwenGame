@@ -19,6 +19,6 @@ Ready to play Casual box ? Wheel your skill will be tested here has you need to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Jumping, Unity3D, WebGL

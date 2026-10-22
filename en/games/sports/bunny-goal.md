@@ -19,6 +19,6 @@ Are you ready to kick, bounce, and score? Bunny Goal combines the thrill of socc
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Football, html5 games, NapTech Games, Sport, Sports

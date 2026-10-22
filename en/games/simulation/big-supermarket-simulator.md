@@ -19,6 +19,6 @@ Big Supermarket Simulator is a light business simulation game: start from a smal
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, idle, management, Simulation
+- Tags: 3D, Casual, idle, Management, Simulation

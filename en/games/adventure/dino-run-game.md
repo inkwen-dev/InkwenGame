@@ -19,6 +19,6 @@ Welcome to Ultimate Dino Run Game, an exciting and addictive dinosaur runner gam
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Bridge, Casual, Dinosaur

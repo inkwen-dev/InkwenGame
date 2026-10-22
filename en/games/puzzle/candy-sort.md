@@ -19,6 +19,6 @@ Candy Sort is a colorful sorting puzzle where you move candies between tubes and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Candy, Matching, Puzzle, Skill, sort, sorting

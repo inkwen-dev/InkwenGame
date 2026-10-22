@@ -19,6 +19,6 @@ Here is recommended as a traditional car parking simulation game with 3D game en
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, Parking, Simulation

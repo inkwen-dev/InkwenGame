@@ -21,4 +21,4 @@ Police Bus Driving is a realistic transport simulator where you become a police 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, bus, city, offroad, Police, prison, Road
+- Tags: Action, Adventure, bus, city, offroad, Police, Prison, Road

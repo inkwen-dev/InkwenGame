@@ -19,6 +19,6 @@ Football World Cup Pro is an exciting football tournament game where players com
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, Football, Hypercasual, Soccer, Sports

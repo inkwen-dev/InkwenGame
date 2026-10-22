@@ -19,6 +19,6 @@ Build your farm as your heart desires. Many cute animals are waiting for you to 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, farm, HTML5
+- Tags: 3D, 3D Games, Arcade, Farm, HTML5

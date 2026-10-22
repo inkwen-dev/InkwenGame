@@ -19,6 +19,6 @@ Big City Limo Car Driver gives you an amazing chance to exhibit super amazing ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best, Boys, Car, Cars, Driving, Game, Games, HTML, HTML5, Simulation, Simulator

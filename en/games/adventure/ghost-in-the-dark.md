@@ -21,4 +21,4 @@ Escape haunted places in this scary online horror game! Solve puzzles, find nece
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, Adventure, Escape, Games, Ghost, horror, jump, Kids, Sprunki, Stealth, Super, survival
+- Tags: 2026 games, Adventure, Escape, Games, Ghost, Horror, jump, Kids, Sprunki, Stealth, Super, survival

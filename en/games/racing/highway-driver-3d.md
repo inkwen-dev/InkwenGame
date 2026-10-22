@@ -19,6 +19,6 @@ Get ready for high-octane, endless action in your ultimate 3D driving adventure!
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, ambulance, Car, Driving, Racing

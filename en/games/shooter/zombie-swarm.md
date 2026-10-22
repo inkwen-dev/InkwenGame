@@ -19,6 +19,6 @@ Zombie swarm is a fast-paced top-down survival shooter where you fight off endle
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 2026 games, 2D, Action, Arena, Best Games, Defense, Shooter, Superhero, survival, Zombie

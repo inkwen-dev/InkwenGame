@@ -19,6 +19,6 @@ Listen to the music beat and use your musical reflexes to drag the ball left or 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Ball, Ballon, Bounce

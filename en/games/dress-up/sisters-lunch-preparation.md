@@ -19,6 +19,6 @@ Come and join this game to make a delicious lunch for these sisters for their sp
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Decoration, Dress Up, Food

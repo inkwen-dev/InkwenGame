@@ -19,6 +19,6 @@ Land Rocket is a casual and very fun game. Management is completely unbalanced, 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Collecting, Fun, HTML5, Logic, Logical, Mobile, Obstacle, Rocket, Skill, Space, Spaceship

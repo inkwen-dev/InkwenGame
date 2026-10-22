@@ -37,4 +37,4 @@ DashMash.io 是一款混乱刺激的多人障碍赛游戏，最多支持 10 名�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: .io, 多人游戏, 奔跑
+- 标签: .io, 多人, 跑步

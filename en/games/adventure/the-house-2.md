@@ -17,4 +17,4 @@ Step into a chilling mystery as you explore a haunted house shrouded in tragedy.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

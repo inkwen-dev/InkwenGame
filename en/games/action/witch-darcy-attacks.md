@@ -19,6 +19,6 @@ The witch of trix attacks darcy. Will Bloom survive this attack? Move left and r
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fairy, Game, Girl, Girls, HTML5, Magic, Witch

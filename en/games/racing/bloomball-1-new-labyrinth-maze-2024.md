@@ -21,4 +21,4 @@ Meet Bloomball, the plucky yellow sphere on a heroic quest to save its world. In
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Ball, Level, Logic, Mobile, mouse, Racing, touchscreen
+- Tags: 1 Player, 2D, Adventure, Ball, Level, Logic, Mobile, Mouse, Racing, touchscreen

@@ -30,4 +30,4 @@ Play as your character, build your favorite business, and become the master of y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, obby, Simulation, tycoon
+- Tags: Management, obby, Simulation, tycoon

@@ -17,4 +17,4 @@ Sharpen your strategy and skill in Solitaire Golf, where simple gameplay becomes
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

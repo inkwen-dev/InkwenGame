@@ -21,4 +21,4 @@ Challenge your mind with Sudoku Puzzle Master, the ultimate number puzzle experi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Casual, Math, Mind, Puzzle, sudoku
+- Tags: Boy, Casual, Math, Mind, Puzzle, Sudoku

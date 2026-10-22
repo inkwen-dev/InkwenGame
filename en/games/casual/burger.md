@@ -21,4 +21,4 @@ The most popular burger game is coming for your viewing pleasure in a free versi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Boy, Boys, burger, Food, Girl, Girls
+- Tags: 3D, 3D Games, Boy, Boys, Burger, Food, Girl, Girls

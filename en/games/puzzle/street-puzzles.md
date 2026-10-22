@@ -19,6 +19,6 @@ This is a Jigsaw game where player have to put the pieces to the right places. Y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, HTML5, Jigsaw, Puzzle

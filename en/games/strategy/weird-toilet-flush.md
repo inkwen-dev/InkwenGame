@@ -19,6 +19,6 @@ Defend the city gate from waves of invading Weird Toilets! Click the flush butto
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Clicker, Defense, Hypercasual, Tower Defense

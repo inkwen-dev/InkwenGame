@@ -19,6 +19,6 @@ Superman is the most popular American superhero. His real name is Clark Kent. Hi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Fashion, Fun, Game, HTML5, Super, Superhero

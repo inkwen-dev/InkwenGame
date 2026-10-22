@@ -19,6 +19,6 @@ You need to slow down your circle and help to avoid all of the different obstacl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, HTML5, Kids, Mobile, Puzzle, Skill

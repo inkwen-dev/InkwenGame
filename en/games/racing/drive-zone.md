@@ -19,6 +19,6 @@ Dive into a world of speed and thrill! This game takes you on a ride through cit
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Driving, endless, Game, jeep, Mobile, offroad, Race, Racing, realistic, Road, Simulator, Sport

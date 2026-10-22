@@ -19,6 +19,6 @@ Fish season has opened and there is a lot of fish in the sea. The fisherman is a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Animal, Clash, Fish, fishing, Game, HTML5, Shark
+- Tags: 1 Player, Animal, Clash, Fish, Fishing, Game, HTML5, Shark

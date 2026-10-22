@@ -19,6 +19,6 @@ Subway surfers in Hong Kong! The guys intend to fully break away in this Chinese
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Subway Surfers

@@ -19,6 +19,6 @@ Get Ready for the Ultimate Color-Sorting Adventure! Body Welcome to Sand Jam: Tr
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2026 games, monstertruck, sort, sorting, Truck, trucks

@@ -19,6 +19,6 @@ Courez avec Sonic la l gende de la vitesse et tous ses amis dans son premier jeu
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2 Player Games, 2D, 3D, Adventure, Clicker, Coloring, Shooting

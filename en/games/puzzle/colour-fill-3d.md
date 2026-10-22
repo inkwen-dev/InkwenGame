@@ -19,6 +19,6 @@ Calling all painters and art games lovers! I can Paint is the painting art game 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Action, Adventure, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Color, Coloring, Dora, drift, drifting, fishing, Fun, Game, Games, Girl, Girls, Mario, Princess, Puzzle, Spiderman, Truck
+- Tags: 3D Games, 8 Ball Pool, Action, Adventure, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Color, Coloring, Dora, drift, drifting, Fishing, Fun, Game, Games, Girl, Girls, Mario, Princess, Puzzle, Spiderman, Truck

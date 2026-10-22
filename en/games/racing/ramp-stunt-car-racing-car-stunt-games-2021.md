@@ -19,6 +19,6 @@ Fasten your seatbelt to drive in extreme car driving games and car stunt games f
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Car, Cars, Race, Racing, Simulation, Simulator, sky, Supercars

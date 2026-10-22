@@ -95,4 +95,4 @@ A: The game is intuitive from the first seconds. It will guide you through all t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Cooking, Fashion, Food, Girls, mouse, Simulation
+- Tags: Cooking, Fashion, Food, Girls, Mouse, Simulation

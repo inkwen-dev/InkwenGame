@@ -21,4 +21,4 @@ These fishes are getting bigger once they start eating little fishes than their 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player, 2 Player Games, Animal, Arena, Fish, fishing, Fun, Funny
+- Tags: .io Games, 2 Player, 2 Player Games, Animal, Arena, Fish, Fishing, Fun, Funny

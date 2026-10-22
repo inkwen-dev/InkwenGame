@@ -19,6 +19,6 @@ Tank Battle is a side-scrolling shoot 'em up arcade action game at its best! Use
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Bomb, Car, Cars, Fun, Funny, Gun, Kid, Kids, Kill, Killing, Super, Supercars, Superhero, War

@@ -19,6 +19,6 @@ Test your reflexes and challenge your brain as you guide a bouncing ball through
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2025 games, 2026 games, free games for your site, free games for your website, free html5 games for your website

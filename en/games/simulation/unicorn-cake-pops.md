@@ -19,6 +19,6 @@ Unicorn Cake Pop Maker – Baking Games are not only unicorn food maker game als
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cook, Cooking

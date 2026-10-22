@@ -19,6 +19,6 @@ If your phone is covered in sludge and you like repairing things, then it means 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boy, Casual, Family, management
+- Tags: Boy, Casual, Family, Management

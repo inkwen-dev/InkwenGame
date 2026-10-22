@@ -19,6 +19,6 @@ Ship &amp; Fish is an exciting survival game where the player controls a ship an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 1 Player, 2026 games, 2D, 3D, amazing, Best, Best Games, Fish, fishing, ship, ships, water
+- Tags: .io, 1 Player, 2026 games, 2D, 3D, amazing, Best, Best Games, Fish, Fishing, ship, ships, water

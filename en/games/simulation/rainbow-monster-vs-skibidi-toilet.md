@@ -19,6 +19,6 @@ Rainbow Monster VS Skibidi Toilet is a combination between action and stealth ga
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Fantasy, Mario, Music, Play, Rhythm, Simulation, Skibidi Toilet, Stealth, Unity3D, WebGL

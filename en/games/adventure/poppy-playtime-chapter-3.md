@@ -21,4 +21,4 @@ The new online game Poppy PlayTime 3 is based on the well-known Poppy Playtime c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, horror, kiz10, Room
+- Tags: Escape, Horror, kiz10, Room

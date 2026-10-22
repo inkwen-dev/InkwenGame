@@ -19,6 +19,6 @@ The Official Who Wants to Be a Millionaire? Trivia Game! Do you love game show t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Girl, Girls, Quiz, Unity3D

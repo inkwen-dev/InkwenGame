@@ -19,6 +19,6 @@ Tower Defense: Superheroes is an arcade game in which a succession of superheroe
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Superhero, Tower Defense

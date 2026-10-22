@@ -19,6 +19,6 @@ Square Fit is easy to pick up and play, yet offers a rewarding challenge. Your o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Casual, Geometry, HTML5, Hypercasual, Logic, Logical, Math, Puzzle

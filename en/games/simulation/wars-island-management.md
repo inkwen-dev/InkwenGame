@@ -19,6 +19,6 @@ Enter the realm of Wars Island Management, where players must forge their own ar
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Army, management, Mentolatux, unity games, War, WebGL
+- Tags: Army, Management, Mentolatux, unity games, War, WebGL

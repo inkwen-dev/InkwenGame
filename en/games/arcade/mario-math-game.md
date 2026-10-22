@@ -19,6 +19,6 @@ Youre good at maths? well then try to answer all the questions about the tiles w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Educational, Family, HTML, HTML5, Kids, Mario, Math, Mobile, Puzzle, Super

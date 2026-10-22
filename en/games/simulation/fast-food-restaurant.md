@@ -19,6 +19,6 @@ Fast Food Restaurant is Cooking Tycoon and an easy to use and learn time managem
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Food, Kid, Kids, Restaurant

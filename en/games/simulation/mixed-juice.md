@@ -19,6 +19,6 @@ The latest version of mixed fruit juice master is fresh and crisp. You can compl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Cook, Cooking, Cool, Crafting, cut, Food, Funny

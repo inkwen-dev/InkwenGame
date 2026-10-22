@@ -19,6 +19,6 @@ Take control! Be one with the bullet in this action packed puzzler. In this uniq
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, 3D, Best, Fire, Flight, Helicopter, Hot, Interactive, management, Platform, Shooter, Shooting, Winter
+- Tags: 3D, Best, Fire, Flight, Helicopter, Hot, Interactive, IO, Management, Platform, Shooter, Shooting, Winter

@@ -19,6 +19,6 @@ Slide your finger and fill all empty spots.
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, Bounce, Bow, Boxing, Boy, Boys, Color, Coloring, Cute, Fight, Game, Games, Girl, Girls, HTML, Memory, Mind, Monkey, Monster, Pokemon, Poker, Puzzle, Sandbox, Simulation, Simulator, WebGL

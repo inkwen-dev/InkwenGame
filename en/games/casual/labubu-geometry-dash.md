@@ -19,6 +19,6 @@ Labubu Geometry dash is an avoider game. Play as tiny plane, avoid any obstacles
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 2025 games, 3D Games, angryplants, Animal, Labubu

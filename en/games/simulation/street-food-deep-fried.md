@@ -19,6 +19,6 @@ The weekend is here! Invite your friends and go to the streets together to find 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Cook, Cooking, Educational, Girl, Girls, Kid, Kids, Simulation

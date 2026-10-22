@@ -19,6 +19,6 @@ Set sail in Ship Match Color and test your timing and color-matching skills! Con
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Brainrot, Casual, Hypercasual, Puzzle

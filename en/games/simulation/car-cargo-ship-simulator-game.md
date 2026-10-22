@@ -26,4 +26,4 @@ Welcome to the car transport ship simulator game. The ultimate cargo transport a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: boat, Driving, Simulation
+- Tags: Boat, Driving, Simulation

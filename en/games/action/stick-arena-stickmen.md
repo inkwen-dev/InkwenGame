@@ -19,6 +19,6 @@ Welcome to the world of epic battles! This game delivers physics-based combat wh
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2026 games, 2D, Adventure, Arena, Balance, Battle, battleship, Brainrot, Brainrot Italian, Brainrot sahuuur, roblox, Stickman

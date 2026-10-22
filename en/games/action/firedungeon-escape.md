@@ -19,6 +19,6 @@ You were put in the fireland. Now you want to escape. Get threw all 20 dungeons 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Dungeon, Obstacle, Platform, WebGL, Wizard

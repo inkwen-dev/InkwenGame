@@ -19,6 +19,6 @@ Glam Guru Puzzle Collection is packed with exciting mini-games that test your st
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: beauty, Dress Up, Fashion, Matching

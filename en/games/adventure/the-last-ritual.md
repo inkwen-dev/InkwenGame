@@ -17,4 +17,4 @@ Step into the shoes of Daniel, a determined paranormal investigator, trapped in 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

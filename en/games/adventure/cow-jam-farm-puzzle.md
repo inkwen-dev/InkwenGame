@@ -19,6 +19,6 @@ In Cow Jam Farm Puzzle, the peaceful farm turns into a tricky traffic jam that o
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Escape, Fun, Traffic

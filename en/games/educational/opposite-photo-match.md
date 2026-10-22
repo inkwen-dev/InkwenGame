@@ -19,6 +19,6 @@ This is simple educational puzzle game. In this game you need to continuously to
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Fun, HTML5, Kids, Mobile, Puzzle, School

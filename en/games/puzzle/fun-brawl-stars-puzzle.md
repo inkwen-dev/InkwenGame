@@ -19,6 +19,6 @@ Fun Brawl Stars Puzzle is a free online game from genre of jigsaw puzzle and car
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Jigsaw, Kids, Puzzle, Skill

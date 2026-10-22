@@ -19,6 +19,6 @@ Begin a super satisfying match 3 puzzle challenge. Goods Triple Match 3D is a co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Food, Match 3, realistic

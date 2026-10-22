@@ -19,6 +19,6 @@ Desktop Mouse click and drag to play Mobile Tap and slide to play
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Candy, Cooking, Decoration, Educational, Girl, Girls, Kids, Simulation

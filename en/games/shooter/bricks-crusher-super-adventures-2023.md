@@ -19,6 +19,6 @@ Bricks Crusher Super Adventures is a mix of three classic games with its own gam
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Bomb, Bricks, Casual, Dungeon, Escape, HTML5, Logic, Logical, Maze, Mobile, Shoot 'Em Up, WebGL, Zombie

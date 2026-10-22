@@ -19,6 +19,6 @@ Commando Girl features: • 2 game modes • multiple missions • good graphics
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Fire, Shoot, Unity3D, weapons, WebGL

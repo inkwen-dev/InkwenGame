@@ -19,6 +19,6 @@ Pipe Out is a fun and challenging puzzle game where your goal is to connect pipe
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Casual, Fun, Puzzle

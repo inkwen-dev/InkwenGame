@@ -17,4 +17,4 @@ Join a charming cat on a vibrant underwater adventure in Crazy Fishing Pro. Capt
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

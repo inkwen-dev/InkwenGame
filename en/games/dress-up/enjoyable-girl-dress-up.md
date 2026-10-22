@@ -19,6 +19,6 @@ You should start with makeup first and make the best makeup using various makeup
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Dress Up, Fashion, Girls, Love

@@ -19,6 +19,6 @@ Welcome to the Beer Clicker Game! In this addictive and fun-filled game, youll e
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, amazing, Arcade, Baby Games, Best, Best Games, Casual, Click, Clicker, Color, Hypercasual, Platform, Point And Click

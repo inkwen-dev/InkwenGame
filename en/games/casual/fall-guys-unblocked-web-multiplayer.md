@@ -19,6 +19,6 @@ Fall Guys Unblocked Web Multiplayer drops you into fast, chaotic obstacle course
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Fall Boys, Fall Guys, jump, Mentolatux, Multiplayer, Obstacle, unity games, WebGL

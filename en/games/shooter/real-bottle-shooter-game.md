@@ -19,6 +19,6 @@ A new bottle shooter trend in the era of bottle shoot games let’s have a fun t
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Boy, Boys, Shoot, Shoot 'Em Up

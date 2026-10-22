@@ -19,6 +19,6 @@ Action shooting Alien War is an online game that will keep you on the edge of yo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Air, Aircraft, Alien, Game, Games, Obstacle, Shoot, Shooter, Shooting, War

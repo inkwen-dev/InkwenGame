@@ -19,6 +19,6 @@ Welcome to the best chinese cooking games for girls. Here you may learn how to m
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Cook, Girl, HTML5, Hypercasual, WebGL

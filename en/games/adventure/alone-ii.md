@@ -19,6 +19,6 @@ Welcome to Alone 2, a gripping story-driven horror game that will test your wits
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Adventure, Color, Ghost, House, Room, survival, Unity3D

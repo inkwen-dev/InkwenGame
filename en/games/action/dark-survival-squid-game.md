@@ -19,6 +19,6 @@ Based on the popular Netflix show, play ‘’ ’’ and see if you can survive
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Fighting, Unity3D

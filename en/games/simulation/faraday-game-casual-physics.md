@@ -21,4 +21,4 @@ Faraday Game is an interactive experience inspired by Faradays Law, letting play
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Arcade, Casual, Educational, HTML5, Mobile, mouse, onetouch, Physics, Science, Simulation, touch, WebGL
+- Tags: 1 Player, 3D, Arcade, Casual, Educational, HTML5, Mobile, Mouse, onetouch, Physics, Science, Simulation, touch, WebGL

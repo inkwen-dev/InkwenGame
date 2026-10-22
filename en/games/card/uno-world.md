@@ -19,6 +19,6 @@ Uno world is a fast and frenzied card game that has been a family favorite for o
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, card, Puzzle
+- Tags: Adventure, Card, Puzzle

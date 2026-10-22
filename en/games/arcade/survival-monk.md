@@ -19,6 +19,6 @@ Survival Monk - Jumping Monkey Adventure is a Collect banana and survive in this
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, HTML, HTML5, jump, Jumping, Online

@@ -19,6 +19,6 @@ Get ready for a super adventure with Super Jim Adventure, a 2D side-scrolling ga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Avoid, Boys, Casual, Collecting, Girls, Kids, Mario, Pixel

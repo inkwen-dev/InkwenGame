@@ -19,6 +19,6 @@ In Paw Mahjong you have to match the same animal icons and try to beat all the l
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Best, Brain, Cute, Funny, HTML5, Mahjong, Puzzle, Skills

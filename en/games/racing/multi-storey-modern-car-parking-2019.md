@@ -19,6 +19,6 @@ Here you come to test your drive experience! let's start a car parking driving t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Driving, HTML5, Parking, Race, Simulation, Simulator, WebGL

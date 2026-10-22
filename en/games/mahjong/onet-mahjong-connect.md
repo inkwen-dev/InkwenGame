@@ -19,6 +19,6 @@ Onet Mahjong Connect is an easy and fun puzzle game where players match identica
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, html5 games, Mahjong, Matching, Mobile, Skill

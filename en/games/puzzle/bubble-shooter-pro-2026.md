@@ -19,6 +19,6 @@ Discover the ultimate arcade thrill with Bubble Shooter Pro 2026! Aim, match, an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Bubble, Bubble Shooter, Games Ai, Mentolatux, unity games, WebGL

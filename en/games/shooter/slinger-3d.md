@@ -19,6 +19,6 @@ A Wild West 3D Shooting Game As sheriff you have been assigned to protect a trai
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Mobile, Point And Click, Retro, Shoot, Shoot 'Em Up, Shooter, Shooting, train, Unity3D, weapons, WebGL
+- Tags: 1 Player, 3D Games, Mobile, Point And Click, Retro, Shoot, Shoot 'Em Up, Shooter, Shooting, Train, Unity3D, weapons, WebGL

@@ -19,6 +19,6 @@ Whether you're a boy or a girl, there are plenty of FUNKY characters to satisfy 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Baby, Baby Hazel, Boy, Classic, Driving, Hypercasual, subway, Superhero, Traffic

@@ -19,6 +19,6 @@ Animal Ice Cream Truck is a casual game that simulates an ice cream shop where y
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Candy, Casual, Cook, Cooking, Design, Educational, Girl, Girls, H5, HTML5, Ice

@@ -19,6 +19,6 @@ Pol Eto Lava - floor is a lava challenge.Show your skill and hold out the longes
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Avoid, Boys

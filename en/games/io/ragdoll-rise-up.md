@@ -19,6 +19,6 @@ Ragdoll Rise Up is an immersive game experience that takes you on a thrilling ad
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, Arcade, Ballon, Boys, fly, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids

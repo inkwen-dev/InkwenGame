@@ -19,6 +19,6 @@ Everybody knows about the classic break-out game. And now it is time for Crazy B
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Arkanoid, Ball, Game

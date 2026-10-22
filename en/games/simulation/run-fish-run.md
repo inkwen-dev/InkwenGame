@@ -19,6 +19,6 @@ Run Fish Run Endless runner online games is a fun and addictive game. Play for f
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, endless, Fish, fishing, Game, Games, running
+- Tags: Adventure, Arcade, endless, Fish, Fishing, Game, Games, running

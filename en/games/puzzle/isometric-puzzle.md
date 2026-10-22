@@ -19,6 +19,6 @@ In this relaxing game that will push the boundaries of your mind, fit all the bl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Block, Brain, Kids, Mobile, Skill

@@ -19,6 +19,6 @@ Start your job as a Super Store Cashier, manage the cash register and serve the 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Fun, management, Shopping
+- Tags: 1 Player, Fun, Management, Shopping

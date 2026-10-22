@@ -21,4 +21,4 @@ Hello farmers! In the world of farm simulation games, its an amazing day for an 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 3D Games, Arcade, Baby Hazel, Best Games, Business, farm, Simulation
+- Tags: .io Games, 3D Games, Arcade, Baby Hazel, Best Games, Business, Farm, Simulation

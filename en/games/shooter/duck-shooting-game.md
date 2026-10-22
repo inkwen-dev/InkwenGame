@@ -19,6 +19,6 @@ Do you like Shooting games? Than you will love this game! It´s an addictive sho
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fun, Hot, Shoot, Shooter, Shooting

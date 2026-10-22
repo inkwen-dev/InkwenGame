@@ -19,6 +19,6 @@ We invite you to embark on an unforgettable adventure around the world with our 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, amazing, Brain, Educational, free html5 games for your website, HTML, Level, Puzzle, quest, Quiz, Relaxation, WebGL

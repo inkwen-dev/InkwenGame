@@ -19,6 +19,6 @@ Keep your finger to the floor and be ready for absolutely anything in this ridic
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best, Best Games, Cars, drift, drifting, New, Race, Racing, Simulation, Simulator, Supercars, Unity3D

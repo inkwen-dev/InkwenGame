@@ -19,6 +19,6 @@ You need to use a magnet to pull the rope to the finish line, but you need to go
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Bridge, Casual, fly, Logic, New, Physics, Puzzle, Road, Skill, Snake, Turn

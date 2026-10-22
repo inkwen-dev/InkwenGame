@@ -19,6 +19,6 @@ King Rathor is a 2D platformer where you play as a King who have to save the que
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Collecting, Cute, jump, Jumping, Pixel, Platform, Retro

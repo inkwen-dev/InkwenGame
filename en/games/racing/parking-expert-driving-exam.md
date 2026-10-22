@@ -19,6 +19,6 @@ Welcome to a game that will test your driving skills and turn you into a true pa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Adult, Best, Best Games, Brainrot, Car, car tuning, carparking, Cartoon, CSGO, Minecraft, Parking, roblox

@@ -19,6 +19,6 @@ Dont move. There is an npc in the game who turns around. When he stands over and
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 3D, Adventure, Best Games, Hypercasual, squidgame

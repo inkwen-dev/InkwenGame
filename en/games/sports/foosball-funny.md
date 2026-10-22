@@ -19,6 +19,6 @@ Children and adults can play this free online foosball game on their PC or mobil
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Football, Fun, Funny, HTML5, Sport

@@ -19,6 +19,6 @@ Build your Obby! How big can you make it? &bull; Buy blocks, walls, ramps, lava,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: build, builder, building, Creation, jump, Jumping, Road, roblox, run, running

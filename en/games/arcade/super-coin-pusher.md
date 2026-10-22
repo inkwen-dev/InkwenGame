@@ -19,6 +19,6 @@ try to get the coin droped in the hook, after you do it,you can get the coin dro
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Arcade, Casual, Hot, HTML5, Physics, Skill, WebGL

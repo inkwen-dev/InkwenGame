@@ -21,4 +21,4 @@ Hey there, detective! Are you ready to find the hidden objects? Grab that magnif
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Battlegrounds, Billiard, Board, Brawl, Bubble, Bubble Shooter, Candy, Car, card, Craft, Crafting, Dragon Ball Z, Dress Up, Game, Games, Grooming, Hidden, Ladybug, Magic, Miraculous Ladybug, Monster, Moto, Motorcycle, Ninjago
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Adult, Adventure, Arcade, Arena, Arkanoid, Army, Barbie, Battlegrounds, Billiard, Board, Brawl, Bubble, Bubble Shooter, Candy, Car, Card, Craft, Crafting, Dragon Ball Z, Dress Up, Game, Games, Grooming, Hidden, Ladybug, Magic, Miraculous Ladybug, Monster, Moto, Motorcycle, Ninjago

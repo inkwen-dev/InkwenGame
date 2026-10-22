@@ -25,4 +25,4 @@ Experience the excitement of managing an airport in "Airport Controller," an eng
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: airplane, management, Simulation
+- Tags: airplane, Management, Simulation

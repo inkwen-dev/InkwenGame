@@ -19,6 +19,6 @@ Offshore Stunt Racing Game 4x4 Jeep Racing simulator is a huge open world 4x4 ve
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Adventure, Cars, drifting, Driving, Fun, Race, Racing, Unity3D

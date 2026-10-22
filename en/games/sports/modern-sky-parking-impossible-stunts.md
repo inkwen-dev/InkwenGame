@@ -19,6 +19,6 @@ Sky Stunt Parking Crazy Mega Car Parking wali Games 2021 is developed to train a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D, 3D Games, Adult, Adventure, Aircraft, Arcade, Basketball, Batman, Battlegrounds, bus, Car, Cars, Game, Games, Ladybug, Miraculous Ladybug, Road, Simulation, Simulator, Supercars, Truck, Undead, Unity3D

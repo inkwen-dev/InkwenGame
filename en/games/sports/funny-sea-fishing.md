@@ -21,4 +21,4 @@ It’s a nice sunny day and our little friend, the Happy Penguin, decided to go 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, fishing
+- Tags: Fish, Fishing

@@ -19,6 +19,6 @@ This classic brick breaker game will give endless hours of fun and excitement to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Bricks, Casual, HTML5, Physics

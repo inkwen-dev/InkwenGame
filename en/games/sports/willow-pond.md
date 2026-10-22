@@ -21,4 +21,4 @@ Willow Pond it is a colorful fishing simulator. This is the most quiet place to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Fish, fishing, Summer
+- Tags: 1 Player, Adventure, Fish, Fishing, Summer

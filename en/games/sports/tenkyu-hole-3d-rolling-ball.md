@@ -19,6 +19,6 @@ Roll the ball through a 3D world to reach the goal! Carefully maneuver through s
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Baseball, Football, Pipe, Road

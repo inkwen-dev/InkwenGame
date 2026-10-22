@@ -21,4 +21,4 @@ Escape from the crypt, one room after another, before the necromancers get you! 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, horror, Maze, Mobile
+- Tags: Adventure, Escape, Horror, Maze, Mobile

@@ -19,6 +19,6 @@ Get behind the wheel of a high-speed Formula 1 car and challenge clever AI compe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Cars, Driving, free html5 games for your website, Kart, Racing, Road, Sport, Supercars

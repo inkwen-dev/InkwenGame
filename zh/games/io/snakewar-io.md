@@ -95,4 +95,4 @@ SnakeWarz.IO 是多人游戏吗？
 - 可玩设备: desktop
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: .io, 多人游戏, 贪吃蛇
+- 标签: .io, 多人, 蛇

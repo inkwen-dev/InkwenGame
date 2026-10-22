@@ -21,4 +21,4 @@ Sudoku is a famous logic puzzle games. If you like sudoku games, this Xmas 2020 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Christmas, HTML5, Mobile, sudoku
+- Tags: Christmas, HTML5, Mobile, Sudoku

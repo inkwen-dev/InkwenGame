@@ -19,6 +19,6 @@ The player will play the role of an astronaut who has just landed on the surface
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Alien, Arcade, Casual, Shooting

@@ -19,6 +19,6 @@ Dry pumpkin carving is a common Halloween craft. This fall, together with the Ha
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Christmas, Crafting, Creation, Decorate, Decoration, Design, Dress Up, Educational, Fashion, Fun, Funny, Girl, Girls, Hair, Halloween, Holiday, HTML5, Princess

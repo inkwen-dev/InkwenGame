@@ -19,6 +19,6 @@ Candy Match Puzzle is an exciting and free-to-play online match-4 style game des
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Brain, Candy, Collecting, Fun, Highscore, Hypercasual, Logic, Match 3, Matching

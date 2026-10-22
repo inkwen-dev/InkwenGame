@@ -19,6 +19,6 @@ Stickboy Hook is a fast, addictive one-tap swing game where you launch a brave s
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, Arcade, Casual, hook, HTML5, html5 games, Hypercasual, Levels, Mobile, Physics, ragdoll, Skill, Skills

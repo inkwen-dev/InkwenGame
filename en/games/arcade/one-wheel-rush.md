@@ -19,6 +19,6 @@ How are your cycling skills? Are you interested in challenging the ever-changing
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Avoid, Bike, Boy, Highscore, jump, Kids, Mobile, Obstacle, Online

@@ -19,6 +19,6 @@ Pass the challenge of absorbing hot peppers moving through conveyors. Be careful
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Cook, Cooking, H5, Hot, HTML, HTML5, Hypercasual, Unity3D

@@ -19,6 +19,6 @@ Fireboy and Watergirl need help to explore the Light Temple. Solve the puzzles, 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Adventure, Girl, Girls

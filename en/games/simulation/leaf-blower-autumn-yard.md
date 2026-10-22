@@ -21,4 +21,4 @@ Autumn is here and every yard is buried in colorful leaves! Drag to walk your le
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, cozy, management, Simulation
+- Tags: 3D, Arcade, cozy, Management, Simulation

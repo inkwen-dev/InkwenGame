@@ -19,6 +19,6 @@ Step into the world of romance and fashion in Dream Wedding Dress Up! Explore 4 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Girl, Girls, Makeover

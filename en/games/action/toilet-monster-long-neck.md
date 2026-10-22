@@ -19,6 +19,6 @@ Introducing Skibidi, a groundbreaking game featuring entirely unique gameplay me
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, HTML5, iPad, iPhone, Mentolatux, Mobile, Skibidi, Skibidi Toilet, Skill

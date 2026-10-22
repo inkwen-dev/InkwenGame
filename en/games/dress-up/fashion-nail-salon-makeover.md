@@ -19,6 +19,6 @@ Barbara has become a nail professional now, and she opens a nail salon in the ci
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Design, Fashion, Girl, Girls, Kids, Makeover, Nail, Simulation

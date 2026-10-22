@@ -19,6 +19,6 @@ Rev up your engines and dive into the thrilling world of GTA Car Rush, a super f
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Boy, Cars, Collecting, Driving, gta, Hypercasual, Racing, Skill

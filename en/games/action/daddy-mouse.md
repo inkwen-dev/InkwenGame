@@ -19,6 +19,6 @@ Help a brave mouse collect cheese and return home to his family in this colorful
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Animal, Collecting, HTML5, Jumping, Mobile, Platform, Side Scrolling

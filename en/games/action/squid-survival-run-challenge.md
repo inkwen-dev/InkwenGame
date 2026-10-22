@@ -19,6 +19,6 @@ Are you looking for a game with survival challenges? Do you love playing deadly 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Casual, Escape, Game, Obstacle, run, running, squid, squidgame, survival

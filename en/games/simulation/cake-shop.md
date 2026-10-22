@@ -19,6 +19,6 @@ You own your very own Cake Shop! Take orders and make sure you get them right to
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Cook, Girl, HTML5, Restaurant, Simulator, WebGL

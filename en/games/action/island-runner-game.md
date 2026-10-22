@@ -19,6 +19,6 @@ Island runner game - a game with beautiful graphics in anime style, plunge into 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Anime, Girl, HTML5, Island, jump, Jumping, Mobile, run, running, Unity3D, WebGL

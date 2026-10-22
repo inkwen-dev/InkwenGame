@@ -19,6 +19,6 @@ Daddy’s little girls to the rescue! You girls are gonna have SO much fun with 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cleaning, Cooking, Family, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

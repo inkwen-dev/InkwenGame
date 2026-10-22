@@ -17,4 +17,4 @@ Rearrange creepy tiles to reveal eerie images of Huggy Wuggy. Enjoy spine-tingli
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

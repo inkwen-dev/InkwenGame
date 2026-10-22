@@ -19,6 +19,6 @@ Choose two matching mahjongs and remove them. Following removal, a moveable gree
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Brain, Casual, HTML5, Logical, Mahjong, Matching, Online, Puzzle, Strategy

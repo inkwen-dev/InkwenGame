@@ -21,4 +21,4 @@ Boat Attack is a 1-player boat racing game with a fascinating visual experience!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, water
+- Tags: Boat, water

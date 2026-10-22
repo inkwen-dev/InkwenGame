@@ -21,4 +21,4 @@ Get into the holiday spirit with this simple yet exciting memory card matching g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Christmas, mapi games, Matching, Memory, Santa, Santa Claus
+- Tags: Card, Christmas, mapi games, Matching, Memory, Santa, Santa Claus

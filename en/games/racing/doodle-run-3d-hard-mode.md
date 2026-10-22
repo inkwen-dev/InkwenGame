@@ -19,6 +19,6 @@ Doodle Run 3D goal is to end the race fast as you can and become the first. Avoi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Funny, HTML5, Mobile, Race, run

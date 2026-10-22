@@ -21,4 +21,4 @@ Ride your BMX on big ramps and get crazy air, or get technical with street skati
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: bicycle, Bike, Physics, Racing, Simulation, Simulator
+- Tags: Bicycle, Bike, Physics, Racing, Simulation, Simulator

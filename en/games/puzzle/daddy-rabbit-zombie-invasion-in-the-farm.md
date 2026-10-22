@@ -21,4 +21,4 @@ Have fun playing this rabbit game where a cute rabbit dad must take care of his 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, farm, Rabbit, Zombie
+- Tags: Action, Farm, Rabbit, Zombie

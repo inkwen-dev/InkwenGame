@@ -19,6 +19,6 @@ Whos up for a dive off the cliff Enter the water the straightest you can to coll
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Sport, Sports

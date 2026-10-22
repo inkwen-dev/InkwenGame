@@ -21,4 +21,4 @@ Play the awesome game in different sort of levels. Test your brain in the hard l
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, Memory
+- Tags: Brain, Card, Memory

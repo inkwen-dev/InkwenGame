@@ -19,6 +19,6 @@ Mini Car Runner - Meme Games is a fast-paced 3D car running game packed with hil
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Brainrot, Car, Cars, Driving, endless, Fun, Racing, run, running

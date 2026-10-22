@@ -23,4 +23,4 @@ Harvest is an idle tap game about running a fruit farm. Tap the hopper to shake 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, farm, idle, management
+- Tags: Clicker, Farm, idle, Management

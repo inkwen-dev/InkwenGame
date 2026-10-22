@@ -19,6 +19,6 @@ Punchers is a 3D boxing game with ragdoll physics. Use move keys to dodge from e
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, Boxing, Fighting, Simulation, Sport, Sports

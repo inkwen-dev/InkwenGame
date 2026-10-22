@@ -19,6 +19,6 @@ Drag the divider and drop it into the field to cut it while avoiding from collid
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Hypercasual, Puzzle

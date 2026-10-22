@@ -19,6 +19,6 @@ Be the best dentist at this Superhero clinic! All our patient is Superhero, who 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boy, Boys, Casual, Cute, Doctor, Educational, Girl, Girls, H5, HTML5, Surgery

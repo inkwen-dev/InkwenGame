@@ -19,6 +19,6 @@ At this shooting zombie game you will be alone on field surrounded with zombies.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, HTML5, Kids, Monster, Shooting, Zombie

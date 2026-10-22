@@ -19,6 +19,6 @@ Thanks for choosing Balloon Popping Game For kids, pop all the balloons and beat
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Arcade, Ballon, Board, Boys, Casual, Family, Girl, Hypercasual

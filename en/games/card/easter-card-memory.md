@@ -21,4 +21,4 @@ Slide a row of candies horizontally or vertically to make a horizontal or vertic
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Easter, HTML5, Matching, Memory, Mobile, Puzzle
+- Tags: Card, Easter, HTML5, Matching, Memory, Mobile, Puzzle

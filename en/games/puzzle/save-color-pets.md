@@ -21,4 +21,4 @@ Save Color Pets is a good match 3 games with 16 levels. In each level, you need 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Match 3, Match3
+- Tags: Animal, Match-3, Match3

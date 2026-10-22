@@ -45,4 +45,4 @@ Get ready for the thrilling journey of Mouse Survivor! In this dynamic 2D game, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Mobile, mouse, running, Skill, survival
+- Tags: animals, Mobile, Mouse, running, Skill, survival

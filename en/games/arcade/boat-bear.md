@@ -21,4 +21,4 @@ A game about a bear in a boat jumping over obstacles Reach new highscores and un
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Animal, Anime, Arcade, boat, Casual, Hypercasual, jump, Jumping
+- Tags: 2D, Adventure, Animal, Anime, Arcade, Boat, Casual, Hypercasual, jump, Jumping

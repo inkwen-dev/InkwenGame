@@ -21,4 +21,4 @@ discover the old culture as well as fantastic tuts and khafre. Enjoy playing Kha
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Solitaire
+- Tags: Card, Solitaire

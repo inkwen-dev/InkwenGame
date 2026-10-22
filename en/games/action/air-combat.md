@@ -19,6 +19,6 @@ Experience the greatest air battles in Air Combat! Embark on daring aerial war a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Air, Aircraft, Battle, Mobile, Plane, War, weapons, WebGL

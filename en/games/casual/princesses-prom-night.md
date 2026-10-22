@@ -19,6 +19,6 @@ Princess Prom Night is a fun girl game with amazing customizations!
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Girl, Girls, Mobile, Princess

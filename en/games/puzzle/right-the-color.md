@@ -19,6 +19,6 @@ Right The Color, It is a 2D hyper casual game that you can enjoy in your free ti
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Color, Hypercasual, Puzzle

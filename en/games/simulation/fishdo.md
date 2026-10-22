@@ -19,6 +19,6 @@ Dive into the magical world of Fishdo, where endless underwater adventures await
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Family, Fantasy, fishing, Fun, Funny, Kids, Logical, Mind
+- Tags: Family, Fantasy, Fishing, Fun, Funny, Kids, Logical, Mind

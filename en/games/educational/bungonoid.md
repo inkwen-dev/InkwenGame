@@ -19,6 +19,6 @@ Bungonoid is a simple one touch arcade game that is a little like break out and 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Educational, Family, HTML, HTML5, Kids, Puzzle, School, Word

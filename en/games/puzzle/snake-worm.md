@@ -21,4 +21,4 @@ This is interesting snake game where you need to collect dots and to avoid other
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Puzzle, Snake, worm
+- Tags: Puzzle, Snake, Worm

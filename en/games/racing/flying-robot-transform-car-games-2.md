@@ -21,4 +21,4 @@ Transform into a powerful Wolf Robot and battle enemy machines in an open-world 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Car, Fight, Robot, wolf
+- Tags: Android, Car, Fight, Robot, Wolf

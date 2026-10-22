@@ -19,6 +19,6 @@ The Mighty Express welcomes a new train and speeds into a snowstorm to deliver S
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, Brain, Cartoon, Christmas, Fun, Girl, Holiday, HTML5, Jigsaw, Kid, Matching, Mobile, movie, Puzzle, Snow
+- Tags: Android, Brain, Cartoon, Christmas, Fun, Girl, Holiday, HTML5, Jigsaw, Kid, Matching, Mobile, Movie, Puzzle, Snow

@@ -19,6 +19,6 @@ Igrica Horse Riding Tales game play it on iyigames.com. Begin your journey from 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Animal, Collecting, Fun, Girls, Horse, HTML5, Mobile, Racing

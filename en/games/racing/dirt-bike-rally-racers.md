@@ -19,6 +19,6 @@ Race in this very unique retro-styled game and unlock the new levels by winning 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Casual, House, Hypercasual, Moto, Motorcycle, Puzzle, Race, Racing

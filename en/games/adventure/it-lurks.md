@@ -49,4 +49,4 @@ You can also upgrade your skills by purchasing with your points, you get points 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, horror, Logic, scary, survival
+- Tags: 3D, Horror, Logic, scary, survival

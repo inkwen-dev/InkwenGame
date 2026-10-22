@@ -19,6 +19,6 @@ Protect the egg in your own area from damage and win the game by damaging the op
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2D, Action, Adventure, Android, Animal, Arcade, Arena, Bird, Defense, Gun, Pixel, Sword, Tower Defense

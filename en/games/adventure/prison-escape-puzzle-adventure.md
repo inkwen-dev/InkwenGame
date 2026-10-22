@@ -19,6 +19,6 @@ You suddenly find yourself charged as a criminal and locked up in an old city pr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Aircraft, prison, Puzzle, run
+- Tags: Adventure, Aircraft, Prison, Puzzle, run

@@ -19,6 +19,6 @@ Challenge your brain to break through the fog of horror. In Horror Playtime - Ro
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best Games, Brain, Escape, horror, Room
+- Tags: Best Games, Brain, Escape, Horror, Room

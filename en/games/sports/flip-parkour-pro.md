@@ -19,6 +19,6 @@ Are you ready to step into the world of acrobatics and adrenaline? Flip Parkour 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Casual, Fun, Funny, Hypercasual, Jumping, Skill, Sport

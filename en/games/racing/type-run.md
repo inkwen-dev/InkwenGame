@@ -19,6 +19,6 @@ Blunt! The race is on! Time to test your hand speed. Type quickly according to t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Casual, Kid, Kids, Letters, Puzzle, Race, Racing, run, typing, Word
+- Tags: Arcade, Casual, Kid, Kids, Letters, Puzzle, Race, Racing, run, Typing, Word

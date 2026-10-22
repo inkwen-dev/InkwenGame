@@ -19,6 +19,6 @@ Play BTS Roblox Coloring, a relaxing and creative coloring game where you bring 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Fun, Girls, Kids, School

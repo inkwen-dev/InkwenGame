@@ -19,6 +19,6 @@ SMALL VIKING IS AN EPIC ADV WITH 100 LEVELS OF MONSTERS, TRAPS AND DANGER! Small
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Block, Boys, Dungeon, Ghost, Gold, Knight, Monster, Physics, Puzzle, Sword

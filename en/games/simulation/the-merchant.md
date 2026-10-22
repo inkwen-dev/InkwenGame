@@ -21,4 +21,4 @@ Set sail in a vibrant pixelated world where the sands of time meet the seas, in 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Pirate, rpg, Simulation
+- Tags: 1 Player, 2D, Pirate, RPG, Simulation

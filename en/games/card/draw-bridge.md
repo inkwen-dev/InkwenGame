@@ -19,6 +19,6 @@ Drag to create a path and guide the car to the goal! You can only draw the line 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2D, Car, card, Cars, Cartoon, Cartoon Network, Supercars
+- Tags: .io, .io Games, 2D, Car, Card, Cars, Cartoon, Cartoon Network, Supercars

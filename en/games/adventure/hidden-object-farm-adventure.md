@@ -21,4 +21,4 @@ Play a fun hidden object game with 30 farm levels!\\\\\\\\nIn each level, find 6
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, farm, Hidden, html5 games, Mobile, Puzzle, Skill
+- Tags: Brain, Farm, Hidden, html5 games, Mobile, Puzzle, Skill

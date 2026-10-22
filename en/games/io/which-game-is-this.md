@@ -19,6 +19,6 @@ Do you master all the games in the world? Test yourself and see the best result.
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2D, Best Games, Puzzle, Quiz

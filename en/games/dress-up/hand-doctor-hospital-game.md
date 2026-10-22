@@ -19,6 +19,6 @@ The most interesting hospital game! Hey Doctor, I hurt my hand and it is so pain
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Baby, Baby Hazel, Cute, Doctor, Dress Up, Elsa, Fairy, Girl, Girls, Puzzle, Sofia

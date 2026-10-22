@@ -19,6 +19,6 @@ Get ready to put your doodling skills to the ultimate test in Draw To Win! Your 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Draw, Drawing, egg, eggames, eggs, Fun, Kids, Logic, Puzzle, puzzleblock

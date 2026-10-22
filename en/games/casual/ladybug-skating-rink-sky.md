@@ -19,6 +19,6 @@ Ladybug Skating Rink Sky is the traveling on surfaces with roller skates. Skatin
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ladybug, Miraculous Ladybug, Skating

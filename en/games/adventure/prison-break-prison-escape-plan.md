@@ -19,6 +19,6 @@ Are You Ready To Take Action on a Great Prison Escape Plan to prove that you are
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, prison
+- Tags: Escape, Prison

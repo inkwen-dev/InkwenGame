@@ -19,6 +19,6 @@ Get Ready to play Disc Game with Ultimate fun , Aim Target Shoot the Disc New Di
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Hypercasual, Shoot, Shooter, Shooting, Sports, Superhero

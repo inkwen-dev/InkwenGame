@@ -19,6 +19,6 @@ Step into the eerie world of Garten of BanBan huggy Escape, a thrilling online h
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, kiz10, Room, survival

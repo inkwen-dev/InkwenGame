@@ -19,6 +19,6 @@ Play Talking Angela Differences online and it is for free. There are five differ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Baby, Boys, Collecting, Difference, Fun, Girls, HTML5, Hypercasual, Kids, Mobile, Puzzle, Skill

@@ -19,6 +19,6 @@ Help the bubble to collect all kinds of fruits, free the trapped kitties and col
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ball, Bubble, Bubble Shooter, Casual, Match 3, Puzzle, Shoot, Shooter, Shooting

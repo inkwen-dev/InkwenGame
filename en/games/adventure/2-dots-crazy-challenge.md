@@ -19,6 +19,6 @@ touches and mouse tested in desktop computer win10 64 bits
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Brain, Click, Clicker, Color, Cool, Crazy, Highscore, Hypercasual, Interactive, Point And Click

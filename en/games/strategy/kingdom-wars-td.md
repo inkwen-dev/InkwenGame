@@ -19,6 +19,6 @@ Welcome to Kingdom Wars TD, an exciting tower-defense strategy game set in a cap
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Bow, Boy, Castle, Girl, Kid, Logic, Puzzle, Strategy, Zombie

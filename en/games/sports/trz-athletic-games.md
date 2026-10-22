@@ -19,6 +19,6 @@ This is a 10 in 1 game with Olympic athletic sports such as Dash (100, 400 and 8
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Jumping, run, Sport

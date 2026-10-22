@@ -19,6 +19,6 @@ Let’s have a crack at an alien shooting game combined with survival theme.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bubble Shooter, Hypercasual, Shooter, Shooting

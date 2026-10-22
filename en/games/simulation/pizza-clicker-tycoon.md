@@ -19,6 +19,6 @@ Click on the pizza to build your empire. Keep clicking as you try to unlock all 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Business, Food, Fun

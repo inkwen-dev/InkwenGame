@@ -19,6 +19,6 @@ This is Coloring Game with Volvo Trucks. You can choose from eight images with V
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Puzzle, Truck

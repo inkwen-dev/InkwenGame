@@ -19,6 +19,6 @@ Embark on a perilous journey in Command Strike FPS Offline, a brand new 3D shoot
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Gun, kiz10, Shooter, War

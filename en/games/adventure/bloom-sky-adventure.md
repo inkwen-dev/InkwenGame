@@ -19,6 +19,6 @@ Sky fairy bloom is flying among clouds for challenging mission. There are lightn
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fairy, Game, Games, Girl, Girls, HTML5, Magic

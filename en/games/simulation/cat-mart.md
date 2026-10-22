@@ -17,4 +17,4 @@ Create your feline empire in Cat Mart, where you manage a cat-themed supermarket
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

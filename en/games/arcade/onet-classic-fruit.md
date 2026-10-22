@@ -19,6 +19,6 @@ Do you like fruits? Fruit is so delicious and good for your health. And this gam
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bounce, Classic, Fruits, HTML5

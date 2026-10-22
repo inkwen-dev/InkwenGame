@@ -19,6 +19,6 @@ Pluto, the dog of Miki Mouse, loves to travel and play. Let's dress it up
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Cartoon, Dress Up, Fashion, Fun, Game, Girl, HTML5

@@ -21,4 +21,4 @@ Hospital Hustle game is a super fun management game . Take care of all your pati
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Business, Cartoon, Doctor, management
+- Tags: 2 Player, 2 Player Games, Business, Cartoon, Doctor, Management

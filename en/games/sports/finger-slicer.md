@@ -19,6 +19,6 @@ Do you think you have nerves of steel? How long can you hold your finger in the 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2D, Boy, Boys, Casual, Chicken, endless, Game, Games, HTML, HTML5, Slicing, weapons

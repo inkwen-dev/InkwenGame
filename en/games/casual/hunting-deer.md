@@ -17,4 +17,4 @@ Step into the hooves of a deer fighting back against invading human birds in a w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: hunting
+- Tags: Hunting

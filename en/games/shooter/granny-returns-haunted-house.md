@@ -19,6 +19,6 @@ Play this chilling 3D game Granny Returns Haunted House this game is the continu
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, horror, run, Shooting
+- Tags: Escape, Horror, run, Shooting

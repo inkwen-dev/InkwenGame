@@ -19,6 +19,6 @@ Lovely Doll Dress Up Game is a cute dress-up game at yiv.com. In the game, you n
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cat, Cute, Dress Up, Fashion, Fun, Hair, HTML5, Kid, Kids, Mobile

@@ -17,4 +17,4 @@ MergeFace combines humor and strategy in an engaging puzzle. Merge identical fac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

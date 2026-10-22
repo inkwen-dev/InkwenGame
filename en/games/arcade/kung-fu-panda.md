@@ -19,6 +19,6 @@ He never wanted to hurt anybody, but they came and the survival of the panda pop
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, jump, Jumping, Panda

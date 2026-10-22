@@ -37,4 +37,4 @@ Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, 3D, Action, Arcade, mouse
+- Tags: .io, 3D, Action, Arcade, Mouse

@@ -19,6 +19,6 @@ Are you a master of space organization? There's a whole lot of food and drink in
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Casual, Educational, Food, HTML5, Hypercasual, Kids, Mobile, Online, Relaxation

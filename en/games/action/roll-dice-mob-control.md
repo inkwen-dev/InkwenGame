@@ -19,6 +19,6 @@ Roll Dice Mob Control is an action-packed tower defense experience where every d
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Army, Battle, Battlegrounds, Casual, Fight, Hypercasual, Multiplayer, Stickman, War

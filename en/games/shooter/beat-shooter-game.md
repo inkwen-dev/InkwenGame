@@ -19,6 +19,6 @@ Extreme entertainment with tracks in Beat Shooter. Not a spontaneous game, but y
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Boys, Girls, Gun, Kid, Music

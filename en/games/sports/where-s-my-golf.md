@@ -19,6 +19,6 @@ Play golf by drawing. Lead the golf ball rolling into the hole. Collect coins to
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Best, Casual, HTML, HTML5, Mobile, Physics, Simulation

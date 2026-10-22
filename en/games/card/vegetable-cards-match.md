@@ -19,6 +19,6 @@ Click or touch the vegetable card to open it. Watch and memorize the vegetable o
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Clicker, farm, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Card, Clicker, Farm, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle

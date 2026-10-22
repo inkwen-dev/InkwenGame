@@ -19,6 +19,6 @@ Skbidi MakeUp is a Makeup Run Kit time ,become a nice skibidi and Give your girl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Arcade, HTML5, Hypercasual, Interactive, Mobile, Skibidi, Skibidi Toilet

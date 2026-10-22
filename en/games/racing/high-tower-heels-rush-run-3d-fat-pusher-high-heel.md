@@ -19,6 +19,6 @@ This high tower heels rush fun run game is like a long heels game. This city hig
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Games, Girl, Girls, Highscore, Mobile, Race, Racing, Stunts, Unity3D

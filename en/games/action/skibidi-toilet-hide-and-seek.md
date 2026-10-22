@@ -19,6 +19,6 @@ In the thrilling game Skibidi Toilet Hide and Seek, players embark on a heart-po
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, HTML5, Mentolatux, Mobile, Skibidi, Skibidi Toilet, Unity3D, WebGL

@@ -41,4 +41,4 @@ Key Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Classic, Mobile, Platform, rpg, running, Skill
+- Tags: Action, Classic, Mobile, Platform, RPG, running, Skill

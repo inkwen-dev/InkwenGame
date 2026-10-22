@@ -19,6 +19,6 @@ You slipped the leash. Your owner is already running. Do not stop. Dog Runaway i
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Animal, Casual, Collecting, Cute, Escape, Family, Funny, Kids, Mobile, running, Skill

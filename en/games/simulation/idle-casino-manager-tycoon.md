@@ -19,6 +19,6 @@ Have you ever fantasized about being a millionaire casino mogul? Embark on a thr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Business, Casino, Casual, iPad, iPhone, management, Mobile, mouse, Online, Simulation, Simulator
+- Tags: 1 Player, Android, Business, Casino, Casual, iPad, iPhone, Management, Mobile, Mouse, Online, Simulation, Simulator

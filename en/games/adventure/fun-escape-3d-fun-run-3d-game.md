@@ -19,6 +19,6 @@ Fun Escape 3D is a funny running race game. You will race with other guys. In th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Escape, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Race, run

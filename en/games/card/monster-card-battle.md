@@ -21,4 +21,4 @@ Monster Card Battle is a confrontation battle game for boys. It is a collection 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, Boys, card, Puzzle
+- Tags: Battle, Boys, Card, Puzzle

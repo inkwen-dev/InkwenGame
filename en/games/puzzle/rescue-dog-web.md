@@ -19,6 +19,6 @@ Rescue Dog Web is an online puzzle game designed for kids for free. The dog is t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Avoid, Boy, Brain, Fun, HTML5, Kids, Obstacle, Online, Puzzle, Rescue

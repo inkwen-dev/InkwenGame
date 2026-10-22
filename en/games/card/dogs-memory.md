@@ -19,6 +19,6 @@ Click the cards to reveal a Dog. Memorize their locations so that you can match 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, card, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Animal, Arcade, Card, HTML5, Kids, Matching, Memory, Mobile, Puzzle

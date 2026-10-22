@@ -19,6 +19,6 @@ Cuphead et Mugman sont deux frères qui ont fait un pari avec le Diable et ils o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2D, Adventure, Alien, Android, Arcade, Ballon, Boys, Cartoon, Cartoon Network, Classic, Dora

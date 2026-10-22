@@ -19,6 +19,6 @@ Poop Away is a physics-based puzzle game where players launch a projectile towar
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Casual, Physics, Puzzle, Skill

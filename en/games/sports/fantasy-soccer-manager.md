@@ -39,4 +39,4 @@ Win promotion, lift the cups, do the double, and post your career points to the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Soccer, Sports, Strategy
+- Tags: Management, Soccer, Sports, Strategy

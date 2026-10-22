@@ -19,6 +19,6 @@ Use the Left and Right Arrow Keys and Click on the Left and Right Screen sides t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Animal, Bird, Fun, Interactive, Unity3D

@@ -19,6 +19,6 @@ In this cool 3D funny game NERF Epic Pranks, players will use guns to trick peop
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Fun, Funny, Girl, Girls, Kid, Kids

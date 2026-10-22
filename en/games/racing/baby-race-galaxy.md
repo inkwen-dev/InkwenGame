@@ -19,6 +19,6 @@ Get ready for a funny race baby in Baby Race Galaxy! Race and upgrade your race 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Collecting, Driving, HTML5, Kid, Obstacle, Racing

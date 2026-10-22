@@ -19,6 +19,6 @@ The summer is magic in this awesome action packed water park game. Visit thrilli
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, HTML5, Multiplayer, Racing, run

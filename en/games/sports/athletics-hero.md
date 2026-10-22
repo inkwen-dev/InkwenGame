@@ -19,6 +19,6 @@ Choose your hero and compete in the 100m, Javelin and Triple Jump. Tap the promp
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Retro, Sport, Sports

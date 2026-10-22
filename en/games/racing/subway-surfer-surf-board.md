@@ -19,6 +19,6 @@ Subway Surfers Oxford! - Experience unique architecture and dazzling beaches - T
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Interactive, Race, Racing, subway, Subway Surfers

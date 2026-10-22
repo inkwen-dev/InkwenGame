@@ -25,4 +25,4 @@ Meditative gameplay.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: farm, pve, Zombie
+- Tags: Farm, pve, Zombie

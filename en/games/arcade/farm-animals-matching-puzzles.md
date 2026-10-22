@@ -19,6 +19,6 @@ Slide the blocks towards another identical block to eliminate both. Use as least
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, farm, Fun, HTML5, Matching, Mobile, Puzzle
+- Tags: Animal, Arcade, Farm, Fun, HTML5, Matching, Mobile, Puzzle

@@ -19,6 +19,6 @@ Plant Girl Defense Zombie is a tower-defense shooting strategy game. With 2D car
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Plant, Zombie

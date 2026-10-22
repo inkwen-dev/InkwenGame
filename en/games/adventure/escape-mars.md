@@ -19,6 +19,6 @@ You were exploring Mars when your ship malfunctioned. Now, you must find a new p
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, mouse, Point And Click, Space
+- Tags: Escape, Mouse, Point And Click, Space

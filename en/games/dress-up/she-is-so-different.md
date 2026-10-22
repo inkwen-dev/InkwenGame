@@ -21,4 +21,4 @@ She's So Different Recently, we have often seen this actress on the red carpet, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, rpg
+- Tags: 2D, Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, RPG

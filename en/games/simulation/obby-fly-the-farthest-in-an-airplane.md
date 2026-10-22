@@ -19,6 +19,6 @@ Welcome to the world of Aviation Obby! Your goal is to fly as far as possible by
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Air, Aircraft, airplane, amazing, Animal, Anime, Baby, Brainrot, Kid, Kids, roblox, Simulation, Simulator

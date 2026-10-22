@@ -21,4 +21,4 @@ Its a nice sunny day and our little friend the Happy Penguin decided to go on a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Boy, Casual, Fish, fishing, HTML5, Simulator, WebGL
+- Tags: 2D, Boy, Casual, Fish, Fishing, HTML5, Simulator, WebGL

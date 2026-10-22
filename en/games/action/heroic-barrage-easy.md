@@ -19,6 +19,6 @@ Heroic Barrage Easy is an easy to score casual action game where a player animal
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, Casual, Enemy

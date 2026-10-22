@@ -21,4 +21,4 @@ Grab your rod and weigh anchor, we’re setting sail for an island tour of the b
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fish, fishing, Fun, Funny, Hot, Hypercasual, Unity3D
+- Tags: .io Games, 3D, 3D Games, Action, Adventure, Arcade, Casual, Fish, Fishing, Fun, Funny, Hot, Hypercasual, IO, Unity3D

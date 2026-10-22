@@ -21,4 +21,4 @@ Connect similar tiles to evolve it. Each shape can evolve from outline to cutout
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Best, Best Games, Collecting, Collection, Match 3, Matching
+- Tags: 3D, 3D Games, Arcade, Best, Best Games, Collecting, Collection, Match-3, Matching

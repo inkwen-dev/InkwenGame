@@ -19,6 +19,6 @@ In Tower Defense, you will direct a powerful army of defense towers to face enem
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Fight, Strategy, Tower Defense

@@ -19,6 +19,6 @@ This is an endless platformer game with a geometric style graphics, where player
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Battle, Best, Block, Classic, Click, Game, Games, jump, Jumping, Play, pvp
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Battle, Best, Block, Classic, Click, Game, Games, jump, Jumping, Play, PvP

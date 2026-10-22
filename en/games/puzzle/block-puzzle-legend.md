@@ -19,6 +19,6 @@ Challenge your brain in Block Puzzle Legend. Enjoy the ultimate classic puzzle g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Classic, Hypercasual, Matching

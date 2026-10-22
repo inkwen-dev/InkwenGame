@@ -21,4 +21,4 @@ good game：This game is a small game that simulates the operation of the superm
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Casual, Click, Clicker, farm, Food, H5, Room
+- Tags: 3D, 3D Games, Action, Casual, Click, Clicker, Farm, Food, H5, Room

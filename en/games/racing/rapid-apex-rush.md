@@ -19,6 +19,6 @@ Rapid Apex Rush puts you in the driver&rsquo;s seat of an adrenaline-fueled form
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Cars, Multiplayer, Race

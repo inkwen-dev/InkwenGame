@@ -19,6 +19,6 @@ Jumping Joe is a platform game, very fun and challenging. Help Joe to reach the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Avoid, Cartoon, jump, Jumping, Obstacle, Platform, Superhero

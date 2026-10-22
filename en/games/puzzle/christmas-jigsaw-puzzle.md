@@ -19,6 +19,6 @@ Enjoy Christmas holiday with playing the Jigsaw Puzzle. There are many beautiful
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Casual, Christmas, Holiday, HTML5, Jigsaw, Mobile

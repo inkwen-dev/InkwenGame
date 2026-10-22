@@ -19,6 +19,6 @@ Test your driving skills in Precision Parking 3D, a realistic and challenging pa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 3D, Car, Race, Racing, Unity3D

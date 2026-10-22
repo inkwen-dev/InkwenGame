@@ -28,4 +28,4 @@ Of course, you have heard that all great things use simple concepts, and this ap
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Match 3, Puzzle
+- Tags: Match-3, Puzzle

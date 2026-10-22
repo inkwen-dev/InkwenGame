@@ -19,6 +19,6 @@ Get behind the wheel, navigate an infinite stream of traffic on an open highway,
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Car, Crazy, drift, drifting, Driving, HTML, HTML5, Kids, Mobile, Racing, Supercars, Traffic, Unity3D, WebGL

@@ -19,6 +19,6 @@ Play as the Kings greatest soldier to defend your King and his Castle from his g
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Android, Bomb, Castle, Defense, Fun, Game, Games, HTML5, Hypercasual, Planet, Play, Point And Click, Shoot, Shoot 'Em Up, Shooter, Shooting, Stickman, Tower Defense, War, weapons

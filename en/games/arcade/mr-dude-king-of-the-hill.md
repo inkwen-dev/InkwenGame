@@ -19,6 +19,6 @@ The famous criminal Mister Dude found himself on the top of a mountain, where re
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, amazing, Android, Arcade, Best Games, Fun, Funny, Game, iPhone, Physics, unity games, Unity3D

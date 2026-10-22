@@ -19,6 +19,6 @@ In this game we will have Three Cute Angels. You will be doing Facial, Hairspa a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Girl, Girls, Hair, Makeover

@@ -19,6 +19,6 @@ Escape Game - Mouse Escapes Cat - Oh! We all know about Tom Cat chasing the Jerr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Escape, Game, Games, Halloween, Holiday, Point And Click

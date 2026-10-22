@@ -21,4 +21,4 @@ Uncharted is a series of action-adventure games created by Amy Hennig. The games
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Air, Aircraft, Arcade, Battle, Boys, Motorcycle, movie
+- Tags: Action, Adventure, Air, Aircraft, Arcade, Battle, Boys, Motorcycle, Movie

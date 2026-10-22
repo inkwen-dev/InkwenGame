@@ -19,6 +19,6 @@ Combine the pieces, complete the puzzle. Have fun!
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, HTML5, Jigsaw, Kid, Kids, Puzzle

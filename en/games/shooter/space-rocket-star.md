@@ -19,6 +19,6 @@ Have you ever imagined that join airforce and save the space galaxy? Space Rocke
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Aircraft, Boy, Fight, Fighting, Girls, Plane, Shooter, Shooting, Super

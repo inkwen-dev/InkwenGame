@@ -37,4 +37,4 @@ Craft Theft War is a fast-paced online first-person shooter set across compact i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Gun, Multiplayer, pvp, Shooting, War
+- Tags: Action, Gun, Multiplayer, PvP, Shooting, War

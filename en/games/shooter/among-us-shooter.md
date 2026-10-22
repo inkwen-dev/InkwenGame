@@ -19,6 +19,6 @@ Among Us Shooter is a very fun and exciting game. Your objective is to defeat th
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ballon, Fun, Funny, Kids, Mobile, Shoot, Shooter, Skill

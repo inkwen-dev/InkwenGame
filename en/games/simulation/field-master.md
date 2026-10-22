@@ -33,4 +33,4 @@ Field Master is a casual farming simulator that puts you behind the wheel of pow
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, farm, management, Simulation, tractor
+- Tags: 3D, Farm, Management, Simulation, tractor

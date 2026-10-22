@@ -19,6 +19,6 @@ Fly through neon thorn gates, collect royal crowns, and claim the sky throne in 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Fantasy, fly, Highscore, Mobile

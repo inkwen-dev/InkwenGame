@@ -19,6 +19,6 @@ Play this awesome puzzle game of the type of differences game. This game has twe
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Halloween, Hidden, Kids, Puzzle

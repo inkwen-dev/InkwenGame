@@ -19,6 +19,6 @@ Klondike solitaire is one of the most addictive solitaire card games. It is play
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, card, Classic, Game, Poker, Solitaire
+- Tags: Board, Card, Classic, Game, Poker, Solitaire

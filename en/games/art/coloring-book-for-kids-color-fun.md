@@ -19,6 +19,6 @@ Kids love fun coloring games, and this Coloring Game is one of the best free col
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Color, Coloring, Draw, Drawing, Educational, Fun, Girl, Girls, Kid, Kids

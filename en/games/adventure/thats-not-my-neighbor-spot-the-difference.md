@@ -19,6 +19,6 @@ Mouse or tap to play
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Click, Difference, Girls, horror, HTML5, unity games, Unity3D
+- Tags: Boys, Click, Difference, Girls, Horror, HTML5, unity games, Unity3D

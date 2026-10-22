@@ -19,6 +19,6 @@ Hot Rod Coloring is a game where you can color your favorite hot rod car. You ca
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cars, Color, Coloring, Puzzle

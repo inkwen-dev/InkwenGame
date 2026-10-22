@@ -45,4 +45,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: .io, 3D, 动作, 街机, 老鼠
+- 标签: .io, 3D, 动作, 街机, 鼠标

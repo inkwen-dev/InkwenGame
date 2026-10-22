@@ -19,6 +19,6 @@ Welcome to House of Hazards a fun multiplayer game where each player completes t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boys, Cartoon, Family, Fun, Girls, Highscore, HTML5, Hypercasual, Kids, Mobile

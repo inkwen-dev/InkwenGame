@@ -19,6 +19,6 @@ Taylor’s birthday is approaching, she holds birthday party every year, and thi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cake, Cooking, Cute, Decoration, Design, Food, Girl, Girls, Kids, Magic, Mermaid, Shopping, Simulation

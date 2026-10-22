@@ -19,6 +19,6 @@ Simple to play but so satisfying. Can you make a 2048 card? Use your finger or m
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, card, Fun, Number, Puzzle
+- Tags: Best, Card, Fun, Number, Puzzle

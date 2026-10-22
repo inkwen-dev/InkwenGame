@@ -19,6 +19,6 @@ To start a new US Modern Tractor Farming Game 3D 2022: Modern Farm Game has a ne
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Adventure, Boys, Car, Casual, Drawing, farm, Games
+- Tags: 1 Player, 3D, Adventure, Boys, Car, Casual, Drawing, Farm, Games

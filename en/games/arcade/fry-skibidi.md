@@ -19,6 +19,6 @@ Enjoy this Halloween season with this amazing puzzle horror game featuring the c
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Boy, HTML5, Mobile, Physics, Puzzle, Skibidi, Skibidi Toilet

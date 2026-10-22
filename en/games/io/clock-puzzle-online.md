@@ -19,6 +19,6 @@ Tik Tok! Accept the challenge! The time has come! Accept the challenge of this i
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Arcade, Brain, Casual, Fun, Games, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Puzzle, Wizard

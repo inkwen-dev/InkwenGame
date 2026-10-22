@@ -19,6 +19,6 @@ The annual Mexican Day of the Dead is here! This is one of the liveliest festiva
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Cute, Dress Up, Educational, Fashion, Girl, Girls, Halloween, Kids, Simulation

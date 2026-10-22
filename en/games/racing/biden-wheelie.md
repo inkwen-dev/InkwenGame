@@ -19,6 +19,6 @@ Biden Wheelie is a simple 2D game with 10 levels that a player has to overcome b
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boys, Car, Cars, Celebrity, Collecting, HTML5, Kids, Mobile, Obstacle, Platform, Race, Racing, Skill

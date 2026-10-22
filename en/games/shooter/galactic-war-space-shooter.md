@@ -21,4 +21,4 @@ Galactic War is a game which includes past and future at the same time, it has h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Air, Aircraft, Alien, Android, Arcade, Battle, Battlegrounds, Best, Defense, Flight, fly, Fun, Gun, Helicopter, Hot, HTML, HTML5, Hypercasual, Kill, Killing, Mobile, Multiplayer, Plane, Planet, pvp, Rocket, Science, Shoot, Shoot 'Em Up
+- Tags: 1 Player, 2 Player, 2 Player Games, 2D, Action, Adventure, Air, Aircraft, Alien, Android, Arcade, Battle, Battlegrounds, Best, Defense, Flight, fly, Fun, Gun, Helicopter, Hot, HTML, HTML5, Hypercasual, Kill, Killing, Mobile, Multiplayer, Plane, Planet, PvP, Rocket, Science, Shoot, Shoot 'Em Up

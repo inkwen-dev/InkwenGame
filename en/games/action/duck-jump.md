@@ -19,6 +19,6 @@ Duck Jump is a hypercasul game and can also be played on mobile devices. Fall do
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Avoid, Best, Casual, Hypercasual, Mobile, Platform

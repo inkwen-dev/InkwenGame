@@ -19,6 +19,6 @@ Are you like Ben 10? and you want play The new Of Princess Games Ben 10 Now You 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ben 10, Match 3, Puzzle, Superhero

@@ -19,6 +19,6 @@ The great puzzle classic, 2048, is back in this edition for all you number lover
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Educational, Family, Logic, Math, Number, Puzzle, Strategy

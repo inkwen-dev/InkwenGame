@@ -19,6 +19,6 @@ Are you ready to play The Best Russian Billiards? This realistic billiards featu
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, 8 Ball Pool, Adult, Android, Arcade, Ball, Simulation, Simulator, Sport, Sports

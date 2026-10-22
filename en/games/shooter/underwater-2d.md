@@ -19,6 +19,6 @@ Underwater 2D is a browser-based 2D adventure set in the eerie depths of an alie
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Fish, hook, water

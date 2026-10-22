@@ -19,6 +19,6 @@ Every one is busy in the preparation of Chinese Lunar new year. In this day peop
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boy, Boys, Candy, Chicken, Cook, Cooking, Food, Girl, Kids, New, Restaurant

@@ -19,6 +19,6 @@ Tap/click on a group of three or more blocks with the same color. Get block 21. 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Brain, HTML5, Logic, Puzzle

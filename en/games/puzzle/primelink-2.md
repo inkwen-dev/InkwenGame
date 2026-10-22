@@ -17,4 +17,4 @@ Dive into PrimeLink, where numbers and logic collide in a riveting puzzle challe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

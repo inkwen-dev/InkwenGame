@@ -69,4 +69,4 @@ Eat Blobs Simulator turns a simple growing idea into a lively arena battle. Coll
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: .io, slime, two-player
+- Tags: IO, slime, two-player

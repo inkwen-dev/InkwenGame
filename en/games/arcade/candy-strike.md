@@ -19,6 +19,6 @@ Candy Strike Online is a fast-paced, candy-themed color-matching game that can b
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Fun, Funny, Game, Games, Highscore, Hypercasual, Matching, Online

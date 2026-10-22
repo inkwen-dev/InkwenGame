@@ -19,6 +19,6 @@ This hero cant fly, you need to help him jump the steps, and always pay attentio
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Click, Superhero

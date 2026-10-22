@@ -21,4 +21,4 @@ ASMR Obby Slicer 是一款色彩缤纷的 3D 剑术竞技场游戏。用剑斩�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 动作, 街机, 格斗, 障碍
+- 标签: 3D, 动作, 街机, 格鬥, 障碍

@@ -19,6 +19,6 @@ Knock opponents off the stage with your bumper ball.A fun and fast-paced hyper-c
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2D, Adventure, Arcade, Ball, Cars, Girls

@@ -19,6 +19,6 @@ Red Light, Green Light is a classic online game for free. After the three-second
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arcade, Avoid, Boy, Brain, Fun, Game, HTML5, Kids, Obstacle, Online, Platform, Puzzle, Racing, Red, running

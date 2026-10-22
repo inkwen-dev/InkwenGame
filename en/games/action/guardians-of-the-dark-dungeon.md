@@ -19,6 +19,6 @@ Are you a true warrior? Put your shooting prowess to the test with war simulator
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dungeon, Fight, Mentolatux, unity, War, WebGL

@@ -21,4 +21,4 @@ This game is easy: you just have to guess what people think of first. What makes
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, Hypercasual, Puzzle, typing
+- Tags: Casual, Hypercasual, Puzzle, Typing

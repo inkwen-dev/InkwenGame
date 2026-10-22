@@ -19,6 +19,6 @@ The principle of this game is super simple and fun. Slide the tiles up, right, l
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Educational, Family, Logic, Number, Puzzle

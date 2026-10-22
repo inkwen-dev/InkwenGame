@@ -19,6 +19,6 @@ Travel in time to a dusty pinball saloon! Hear the sounds of the metal ball hitt
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Cartoon, Funny, Physics, Pinball

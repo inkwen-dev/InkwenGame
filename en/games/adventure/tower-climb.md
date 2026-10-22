@@ -19,6 +19,6 @@ Beware of sharp spikes and moving obstacles which will inevitably cause your her
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Click, Clicker, H5, Highscore, Hot, HTML, HTML5, Ninja, Ninjago

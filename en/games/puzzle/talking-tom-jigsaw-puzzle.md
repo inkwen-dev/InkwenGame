@@ -19,6 +19,6 @@ TALKING TOM Jigsaw Puzzle It is a fun jigsaw puzzles game applicable for all age
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle, School, Skill

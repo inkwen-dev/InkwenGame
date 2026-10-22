@@ -19,6 +19,6 @@ Super dash furious car is a hypercasual game play it on iyigames.com. Control yo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Casual, drift, Highscore, HTML5, Hypercasual, Kids, Mobile

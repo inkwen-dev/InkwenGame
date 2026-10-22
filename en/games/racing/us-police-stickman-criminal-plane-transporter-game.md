@@ -19,6 +19,6 @@ Plane Transport Games, Stickman Criminals Jail Prisoners Transport By Police Pla
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, boat, Boys, bus, Cars, Casual, Driving, Fun, Game, Games, gta, Plane, prison, rpg, Simulation, Simulator, Stickman, Truck, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Adventure, Boat, Boys, bus, Cars, Casual, Driving, Fun, Game, Games, gta, Plane, Prison, RPG, Simulation, Simulator, Stickman, Truck, Unity3D

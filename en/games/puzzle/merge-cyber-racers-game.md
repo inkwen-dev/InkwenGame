@@ -19,6 +19,6 @@ Merge Cyber Racers is a car-merging idle game created by TinyDobbins, where you 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Cars, Kids, management, Parking, Racing
+- Tags: Boys, Cars, Kids, Management, Parking, Racing

@@ -19,6 +19,6 @@ Perform extreme derby demolition racing demolition derby car stunts in demolitio
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, Action, Arcade, Bridge, Casual, Click, Fun, Hypercasual, Logic, Race, run, running

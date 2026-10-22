@@ -19,6 +19,6 @@ An addictive and exciting adventure puzzle game filled with colorful jewels and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Game, Games, Jewel, Magic, Match 3, Matching

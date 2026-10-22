@@ -19,6 +19,6 @@ Skibidi is a great goalkeeper in soccer training! Use your finger to slide goalk
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, HTML5, Mobile, Skibidi, Skibidi Toilet, Soccer, Sport

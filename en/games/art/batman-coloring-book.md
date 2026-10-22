@@ -19,6 +19,6 @@ Batman Coloring Book is cool coloring game for kids and adults. Play Batman Colo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Color, Coloring, Draw, Drawing, Educational, Puzzle, Red

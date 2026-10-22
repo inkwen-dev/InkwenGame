@@ -19,6 +19,6 @@ Come and give your girl an incomparable beauty. Here, countless festival themes 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Design, Fun, Girl, Halloween, Holiday, HTML, HTML5, Kid, Makeover, Mobile

@@ -19,6 +19,6 @@ Join Ellie in Festival Vibes Makeup, a vibrant game radiating the spirit of the 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Fashion, Makeover, Summer

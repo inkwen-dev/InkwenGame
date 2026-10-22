@@ -19,6 +19,6 @@ Drive a selection of Awesome Vehicles, from Sedans through Sports Cars, Buses to
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Basketball, Battlegrounds, Bow, Boy, Boys, bus, Car, Cars, Elsa, Game, Games, Kids, Minecraft, Parking, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D

@@ -21,4 +21,4 @@ Tasty Farm is a fun and addictive sorting puzzle! Organize your fresh harvest in
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Casual, Color, Educational, farm, Fruits, Hypercasual, Kids, Matching, sorting
+- Tags: 1 Player, Casual, Color, Educational, Farm, Fruits, Hypercasual, Kids, Matching, sorting

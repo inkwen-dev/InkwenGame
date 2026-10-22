@@ -19,6 +19,6 @@ A cool online adventure game developed in the simulator genre. Your hero turns o
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, farm, HTML5, Simulation
+- Tags: Adventure, Arcade, Casual, Farm, HTML5, Simulation

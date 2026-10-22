@@ -19,6 +19,6 @@ Brainrot World Hole.io is a hilarious casual hole game packed with chaotic brain
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brainrot, Enemies, Fight, Funny

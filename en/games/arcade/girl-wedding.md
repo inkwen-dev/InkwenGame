@@ -19,6 +19,6 @@ Molly's sister is getting married! Molly is the flower girl, and she plans to ma
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Arena, Fun, Funny, Girl, Kid

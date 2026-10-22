@@ -19,6 +19,6 @@ This is 2 Cars Online game. Like other similar games, you have to gather flags a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Car, Cars, Driving, Fun, Mobile, Obstacle, Skill

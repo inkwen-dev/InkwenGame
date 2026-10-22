@@ -19,6 +19,6 @@ F1 Drift Racer is a fun racing game with 20 levels, multiple car skins and a lot
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car

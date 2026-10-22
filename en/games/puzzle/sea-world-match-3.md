@@ -21,4 +21,4 @@ Before you on the screen you can see the playing field. It will be split into an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, Fun, HTML5, Kids, Match 3, Match3, Mobile, Skill
+- Tags: Fish, Fun, HTML5, Kids, Match-3, Match3, Mobile, Skill

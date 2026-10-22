@@ -19,6 +19,6 @@ Use your mouse to play the game or tap on the screen
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Avoid, Ball, Ballon, Bomb, Boy, Color, Cool, Crazy, Girl, HTML5, Mobile, New, Puzzle, WebGL

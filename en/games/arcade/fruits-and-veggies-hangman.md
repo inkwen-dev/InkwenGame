@@ -19,6 +19,6 @@ Fruits and vegetables are essential parts of a healthy diet, and playing a Fruit
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Fun, Guessing, Hypercasual, Word

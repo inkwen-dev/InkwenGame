@@ -19,6 +19,6 @@ PLAYING TIPS If you can't find all the chicks in a level it's likely they are hi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Crazy, Fun, Funny, jump, Jumping, Kids, Kill, Killing, Mobile, Zombie

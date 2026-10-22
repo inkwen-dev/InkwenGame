@@ -19,6 +19,6 @@ Phone Case DIY is an incredibly creative game that allows you to fully unleash y
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cleaning, Coloring, Design, Drawing, Fashion, Fun, Girls, HTML5, Kids, Mobile

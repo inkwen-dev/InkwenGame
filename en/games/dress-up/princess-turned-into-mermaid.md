@@ -19,6 +19,6 @@ Welcome to Princess Turned Into Mermaid. Princess Ariel throws a party at her pl
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cute, Disney, Dress Up, HTML5, Makeover, Mermaid, Princess

@@ -19,6 +19,6 @@ Shuffle the deck deal the cards and get ready for a colorful adventure
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Boys, card, Color, Fun, Girls, Kids, Puzzle, School
+- Tags: 1 Player, Boys, Card, Color, Fun, Girls, Kids, Puzzle, School

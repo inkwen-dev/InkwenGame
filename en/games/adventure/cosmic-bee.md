@@ -19,6 +19,6 @@ In the Cosmic Bee kids game you have to go into outer space and become a real as
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Animal, Best, Brain, Click, Escape, Hot, HTML, HTML5, Hypercasual, Kid, Kids, Mind

@@ -19,6 +19,6 @@ Zoe is pregnant! She must prepare to be a mom. You can help her to buy some baby
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cute, Doctor, Dress Up, Girl, Girls, Kids, Makeover, Shopping, Simulation

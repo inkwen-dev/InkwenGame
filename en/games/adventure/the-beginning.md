@@ -17,4 +17,4 @@ Venture into a spine-tingling horror where reality blurs with nightmares. Trappe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

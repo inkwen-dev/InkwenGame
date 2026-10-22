@@ -19,6 +19,6 @@ CUPHEAD REMAKE 3D: A fun and interesting 3d remake of the original Cuphead.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Unity3D

@@ -19,6 +19,6 @@ The adorable Emma is always naughty and whiles her tennis practice she got slipp
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Doctor, Dress Up, Girls, Kids

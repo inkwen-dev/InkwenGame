@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 自行车, Mentolatux, 摩托车, 竞速, 赛车, unity, WebGL
+- 标签: 自行车, Mentolatux, 摩托车, 赛车, 竞速, unity, WebGL

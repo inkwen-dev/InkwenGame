@@ -35,4 +35,4 @@ WASD 或方向键。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 搞笑, 多人游戏
+- 标签: 搞笑, 多人

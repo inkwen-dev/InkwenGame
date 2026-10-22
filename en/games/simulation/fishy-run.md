@@ -21,4 +21,4 @@ In the game, a goldfish is trapped in a water bag. You have to help the puffer f
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Casual, Fish, fishing, Rescue, Shoot
+- Tags: Action, Adventure, Animal, Casual, Fish, Fishing, Rescue, Shoot

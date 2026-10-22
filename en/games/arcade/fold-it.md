@@ -19,6 +19,6 @@ Fold Paper is a casual 2D logic game in which you can fold the paper in a way it
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Android, Arcade, Mind, Puzzle

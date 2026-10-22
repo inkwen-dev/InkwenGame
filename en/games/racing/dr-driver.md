@@ -19,6 +19,6 @@ DR Driving 2 is an awesome stunt car game development by CoolMathGamesKids.com, 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Arcade, Car, Cars, drifting, Driving, Fun, Funny, Hypercasual, Parking, Super, Unity3D

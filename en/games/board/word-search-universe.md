@@ -19,6 +19,6 @@ Word Search Universe is a fun and relaxing puzzle game where you search for hidd
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Educational, Hidden, html5 games, Mobile, Puzzle, Word

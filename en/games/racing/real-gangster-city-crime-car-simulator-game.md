@@ -19,6 +19,6 @@ If you like crime gaming - try to play our best action game: the mafia gangster 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Battle, Bomb, Boy, Car, Classic, Fighting, Shooting

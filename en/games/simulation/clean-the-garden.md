@@ -25,4 +25,4 @@ Start with your bare hands, then unlock a rake, pitchfork, and leaf blower as ne
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, cozy, management, Simulation
+- Tags: 3D, Arcade, cozy, Management, Simulation

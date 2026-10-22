@@ -19,6 +19,6 @@ You like fighting games and stickman games? This game is made for you! Train to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Ben 10, Click, Clicker, Fight, Fighting, Fun, Funny, jump, Jumping, Kid, Kids, Mobile, run, running, Stickman, Street Fighting

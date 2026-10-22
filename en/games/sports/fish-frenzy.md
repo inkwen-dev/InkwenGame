@@ -19,6 +19,6 @@ Would you like to fish with a fishing line in a small boat? This game is for you
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fish, fishing
+- Tags: Fish, Fishing

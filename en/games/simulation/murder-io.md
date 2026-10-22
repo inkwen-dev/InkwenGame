@@ -19,6 +19,6 @@ The long awaited sequel to Killer.io. Now you must take out as many victims as p
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Crazy, Killing, Multiplayer, Simulation

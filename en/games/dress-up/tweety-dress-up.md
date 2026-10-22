@@ -19,6 +19,6 @@ Cute bird tweety is the most popular cartoon character. Tweety has chase adventu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Bird, Cartoon, Decorate, Dress Up, Fashion, Fun, Game, HTML5

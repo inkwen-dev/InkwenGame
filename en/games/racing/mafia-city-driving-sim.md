@@ -19,6 +19,6 @@ Members of mafia bosses are indeed notorious for instilling fear, but they're al
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Car, Cars, Driving, HTML, HTML5, Mobile, Racing, Sim, Simulator, Supercars, Unity3D

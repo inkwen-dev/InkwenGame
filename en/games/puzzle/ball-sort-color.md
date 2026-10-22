@@ -19,6 +19,6 @@ Ball Sort Color is a free leisure online game for boys that can exercise wisdom 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Ball, Boy, Brain, Color, Fun, HTML5, Kids, Matching, Online, Puzzle

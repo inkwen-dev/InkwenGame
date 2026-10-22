@@ -21,4 +21,4 @@ Sploop.io is one of the best village building, crafting and PVP game. The PVP in
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Craft, Fantasy, Fight, HTML5, Multiplayer, pvp
+- Tags: Craft, Fantasy, Fight, HTML5, Multiplayer, PvP

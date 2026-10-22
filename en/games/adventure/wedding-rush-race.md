@@ -19,6 +19,6 @@ Wedding Rush Race is a fun and exciting racing game where players must rush thro
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Best Games, Casual, Dancing, Puzzle

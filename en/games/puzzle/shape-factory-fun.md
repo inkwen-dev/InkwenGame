@@ -19,6 +19,6 @@ Shape Factory Fun is a match-game about steel products as it happens in a factor
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Geometry, Match 3, Science
+- Tags: Casual, Geometry, Match-3, Science

@@ -19,6 +19,6 @@ Join Taylor, our adorable young adventurer, on her first airplane journey. This 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: airplane, Baby, Baby Games, Car, Cute, Educational, Fashion, Kid, Shopping, Simulation

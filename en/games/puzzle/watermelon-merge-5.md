@@ -19,6 +19,6 @@ Watermelon Merge is a charming and enjoyable puzzle adventure where players comb
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Kid, Kids, Mentolatux, Unity3D, watermelon, WebGL

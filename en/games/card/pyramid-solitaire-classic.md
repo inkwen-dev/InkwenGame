@@ -21,4 +21,4 @@ Remove all cards from the pyramid by combining two cards to a total value of 13.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Logic, Puzzle, Solitaire
+- Tags: Card, Logic, Puzzle, Solitaire

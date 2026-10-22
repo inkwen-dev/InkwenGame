@@ -19,6 +19,6 @@ Welcome to the #1
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Casino, Casual, Puzzle, Quiz, Slot Machine
+- Tags: Card, Casino, Casual, Puzzle, Quiz, Slot Machine

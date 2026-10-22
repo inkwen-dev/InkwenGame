@@ -19,6 +19,6 @@ Our top game for kids and toddlers Animal Hair Salon now takes the little ones o
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cleaning, Decoration, Design, Fun, Girls, Grooming, HTML5, Kids, Mobile

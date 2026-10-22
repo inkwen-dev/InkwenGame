@@ -19,6 +19,6 @@ Step into the world of law enforcement with the Police Game. The Ultimate Cop Si
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, drifting, Driving, Parking, Police, Simulation

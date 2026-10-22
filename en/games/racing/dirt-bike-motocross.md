@@ -19,6 +19,6 @@ Motocross Racing Dirt is a 3D physics-based motor racing game with you. In this 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Funny, Moto, Motorcycle, Race, Racing

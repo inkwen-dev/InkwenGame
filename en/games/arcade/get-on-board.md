@@ -19,6 +19,6 @@ How will you face the rush hour during commuting? Please try this casual and str
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, bus, Click, Hypercasual, Mobile, Physics, Timing, touch

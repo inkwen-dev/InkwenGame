@@ -19,6 +19,6 @@ This coloring book for any age contains tons of cars pictures, auto, vehicles, r
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Car, Cars, Cartoon, Cartoon Network, Coloring, Drawing, Race, Sports

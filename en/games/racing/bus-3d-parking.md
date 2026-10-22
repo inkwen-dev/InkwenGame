@@ -19,6 +19,6 @@ One of the most realistic Bus Driving game and Bus Simulator. If you like Bus Ga
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, Action, Adventure, Arcade, Car, Cars, Casual, drift, drifting, Fun, Funny, Hot, Hypercasual, jump, Jumping, Race, Racing, Supercars

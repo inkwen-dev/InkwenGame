@@ -19,6 +19,6 @@ Embark on a magical journey in Ponyville Adventure: The Great Unicorn Awakening!
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Dress Up, Puzzle

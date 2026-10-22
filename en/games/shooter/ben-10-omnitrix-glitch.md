@@ -19,6 +19,6 @@ Omnitrix Glitch comprises four exclusive games – Action Attack, Alient Alert, 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Alien, Battle, Ben 10, Boy, Boys, Cartoon, Crazy, HTML5, Mobile, Monster, Shoot, Shooting

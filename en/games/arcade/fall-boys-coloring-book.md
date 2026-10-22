@@ -19,6 +19,6 @@ Fall Boys Coloring Book is a fun and creative coloring game where you can bring 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Coloring, Educational, Fall Boys, Fall Guys, Fun, Hypercasual, Kids, School

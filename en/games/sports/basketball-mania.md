@@ -19,6 +19,6 @@ Basketball Mania is a free online sports simulation game for kids. It helps you 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Ball, Brain, Fun, Highscore, HTML5, Kids, Online, Puzzle, Skill, Sport

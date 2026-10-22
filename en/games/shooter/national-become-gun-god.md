@@ -19,6 +19,6 @@ The rules of the game: Hit the ball with a gun, break all the balls before the b
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Ball, Gun, H5, Shooting, Sniper, Submachine

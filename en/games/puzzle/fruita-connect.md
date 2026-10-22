@@ -19,6 +19,6 @@ Welcome to Fruita Connect Puzzle Game. Tap on two similar fruit tiles to clear t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Clicker, Fruits, Mahjong, Match 3, Puzzle

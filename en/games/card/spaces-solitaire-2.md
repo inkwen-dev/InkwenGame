@@ -17,4 +17,4 @@ Discover a fresh twist on the classic with Spaces Solitaire. Strategically arran
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -19,6 +19,6 @@ In the first part of the adventure, our heroes head to Earth with a spaceship th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Alien, Brain, Escape, Platform, Puzzle, Space, Spaceship

@@ -19,6 +19,6 @@ Boost your child&rsquo;s brain with this fun and educational puzzle game. Find T
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Best Games, Game, Games, HTML5, Kid, Kids, Online

@@ -19,6 +19,6 @@ Merge Defense: Pixel Blocks is a cool puzzle game made for boys for free. You ca
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Block, Boy, Brain, Fun, HTML5, Kids, Number, Online, Pixel, Puzzle, Skill

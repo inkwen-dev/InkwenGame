@@ -19,6 +19,6 @@ A unique tile ball puzzle game from coin base bitcoin games loved by millions of
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 8 Ball Pool, Arcade, Ball, Casino, Casual, Click, Clicker, Collecting, Collection, Fun, Jumping, Monkey

@@ -19,6 +19,6 @@ In this fun and easy to play game you are about to be the first fisherman ever w
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Collecting, Fish, fishing, Hypercasual
+- Tags: Casual, Collecting, Fish, Fishing, Hypercasual

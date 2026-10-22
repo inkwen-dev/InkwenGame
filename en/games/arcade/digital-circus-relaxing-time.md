@@ -19,6 +19,6 @@ Are you ready to have some funny time with Digital Circus Relaxing Time? Digital
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Cartoon, digital circus, HTML5, Hypercasual, Kids, Physics, Pomni

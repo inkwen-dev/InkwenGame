@@ -19,6 +19,6 @@ Ratomilton Meets Sprunki is an exciting physics-based puzzle game where players 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: mouse, Physics, Sprunki
+- Tags: Mouse, Physics, Sprunki

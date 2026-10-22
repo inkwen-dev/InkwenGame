@@ -19,6 +19,6 @@ Welcome to the world of real impossible tracks car racing games. Enjoy the race 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Fun, Funny, Mobile, Race, Racing, run, running, Simulation, Simulator, Unity3D

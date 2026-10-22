@@ -21,4 +21,4 @@ Welcome to the most immersive and relaxing farming game experience ever created.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2025 games, Action, Driving, farm, tractor
+- Tags: 2025 games, Action, Driving, Farm, tractor

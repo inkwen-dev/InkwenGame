@@ -19,6 +19,6 @@ Merge Master: Dinosaur Fusion is a cool real-time strategy game for everyone. Yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Battle, Battlegrounds, dino, Fight, Fighting, Monster, Strategy

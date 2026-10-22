@@ -19,6 +19,6 @@ Join Om Nom as he travels back in time to feed his ancestors with candy. Cut the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, cut, Hot, HTML5, Hypercasual, Physics, Rhythm

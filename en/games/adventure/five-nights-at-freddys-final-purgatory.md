@@ -19,6 +19,6 @@ Five Nights At Freddy's: Final Purgatory is a randomly generated Five Nights at 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boys, Defense, Escape, HTML5, WebGL

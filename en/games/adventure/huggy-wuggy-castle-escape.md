@@ -17,4 +17,4 @@ Trapped in a cursed castle, you must outsmart relentless huggy-wuggy guardians. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

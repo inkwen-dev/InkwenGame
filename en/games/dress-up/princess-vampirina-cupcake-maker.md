@@ -19,6 +19,6 @@ It's party time girls as the most beautiful pony princess is celebrating her bir
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Baby Hazel, Barbie, burger, Cake, Disney, Dress Up, Educational
+- Tags: 1 Player, Baby Hazel, Barbie, Burger, Cake, Disney, Dress Up, Educational

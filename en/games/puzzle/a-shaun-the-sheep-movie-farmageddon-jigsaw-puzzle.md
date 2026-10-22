@@ -21,4 +21,4 @@ Zazgames is a place where you can infinitely play assembling online jigsaw puzzl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Anime, Jigsaw, movie, Puzzle
+- Tags: Animal, Anime, Jigsaw, Movie, Puzzle

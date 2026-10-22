@@ -19,6 +19,6 @@ Keyboard Control
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Arena, Arkanoid, Army, Barbie, Billiard, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, card, Cars, Cartoon, Cartoon Network, Interactive, Monkey, Monster, Moto, Motorcycle, Racing, Supercars, Truck
+- Tags: .io Games, Arena, Arkanoid, Army, Barbie, Billiard, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Card, Cars, Cartoon, Cartoon Network, Interactive, Monkey, Monster, Moto, Motorcycle, Racing, Supercars, Truck

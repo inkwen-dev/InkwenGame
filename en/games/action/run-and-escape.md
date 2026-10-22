@@ -19,6 +19,6 @@ Run! and Escape is a very fun and simple game to play. The aim of the game is si
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Castle, Escape, Fun, Funny, Platform, Room, run, running

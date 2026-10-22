@@ -19,6 +19,6 @@ Factory Inc is an arcade game. Your factory has produced some unqualified produc
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Avoid, burger, H5, HTML, HTML5, Hypercasual, Kids, Online, Relaxation, Side Scrolling
+- Tags: 2D, Avoid, Burger, H5, HTML, HTML5, Hypercasual, Kids, Online, Relaxation, Side Scrolling

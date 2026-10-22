@@ -19,6 +19,6 @@ This game is the best way to learn how to keep your house always tidy and clean.
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Car, Cleaning, Cute, Educational, Family, Fun, Girls, HTML5, Kids, Mobile, Puzzle

@@ -19,6 +19,6 @@ Air Fighter is a challenging game that will give you a battle-field like experie
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Air, Arcade, Avoid, HTML5, Plane, WebGL

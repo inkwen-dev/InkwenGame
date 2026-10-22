@@ -19,6 +19,6 @@ Match 3 fruits to break ice cubes! Break ice cubes as much as you can! Ranked wi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Hypercasual, Match 3

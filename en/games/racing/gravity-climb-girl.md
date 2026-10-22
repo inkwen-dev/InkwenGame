@@ -19,6 +19,6 @@ Gravity Climb Girl is a thrilling vertical adventure where gravity is your great
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Casual, Collecting, Cute, endless, Girls, html5 games, Racing

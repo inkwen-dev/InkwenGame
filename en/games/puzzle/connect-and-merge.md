@@ -19,6 +19,6 @@ Make lines connecting as many points as possible. The longer the line, the more 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hot, HTML5, Hypercasual, Logic, Number, Puzzle, Relaxation

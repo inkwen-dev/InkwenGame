@@ -33,4 +33,4 @@ Basketball Stars is a cool 2-player basketball game by MadPuffers. Prepared for 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Ball, Basketball, Boys, popular, pvp, Sports, two-player, unblocked
+- Tags: Arcade, Ball, Basketball, Boys, popular, PvP, Sports, two-player, unblocked

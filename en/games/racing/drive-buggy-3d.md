@@ -19,6 +19,6 @@ You can play Dune Buggy Drivers 2021 for as long as you want in Beach Buggy Sim 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Best, Car, Cars, Driving, Racing, Unity3D, WebGL

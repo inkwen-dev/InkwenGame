@@ -38,4 +38,4 @@ Create the biggest and most profitable slime farm!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, cozy, farm, idle, Simulation, slime, tycoon
+- Tags: Clicker, cozy, Farm, idle, Simulation, slime, tycoon

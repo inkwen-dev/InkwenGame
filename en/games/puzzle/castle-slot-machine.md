@@ -19,6 +19,6 @@ On start of the game, you will need to configure the settings of the gaming mach
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Castle, Fun, HTML5, Kids, Mobile, Skill, Slot Machine

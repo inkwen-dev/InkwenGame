@@ -19,6 +19,6 @@ Minions Run is an all-ages endless running game where you can run alongside mini
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Android, Arcade, Baby, Bike, Boy, Cars, Classic, drift, Kids, Unity3D

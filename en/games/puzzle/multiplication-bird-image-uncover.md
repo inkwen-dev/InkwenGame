@@ -19,6 +19,6 @@ In this game, a bird image is hidden beneath multiplication expression tiles. Pl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bird, Educational, free games for your website, Jigsaw, Math, Puzzle, School

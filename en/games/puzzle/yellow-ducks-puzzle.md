@@ -19,6 +19,6 @@ The Yellow Ducks Puzzle game is a free online game in the jigsaw puzzle genre. Y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bird, Fun, Girls, HTML5, Jigsaw, Kids, Mobile, Puzzle

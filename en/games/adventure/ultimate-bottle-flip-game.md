@@ -19,6 +19,6 @@ Offline Master Bottle 3D: Tap, Flip &amp; Jump, the ultimate bottle flipping adv
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Adventure, amazing, Brainrot

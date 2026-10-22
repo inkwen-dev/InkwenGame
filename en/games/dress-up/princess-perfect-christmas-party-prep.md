@@ -19,6 +19,6 @@ Every Christmas the princesses will hold a grand party together. This Christmas,
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Cooking, Decoration, Dress Up, Elsa, Frozen, Girl, Girls, Holiday, Makeover, Princess, Shopping, Simulation

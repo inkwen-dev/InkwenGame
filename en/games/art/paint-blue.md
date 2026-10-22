@@ -19,6 +19,6 @@ Use arrows to move the ball and paint - you’ve got to color and paint your way
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Color, Coloring, Draw, Drawing, Maze

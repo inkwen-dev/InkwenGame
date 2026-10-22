@@ -19,6 +19,6 @@ Do you like Match3 candy games? Well this game will blow your mind! Welcome to C
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Cake, Candy, Casual, Match 3, Match3, Matching, Puzzle

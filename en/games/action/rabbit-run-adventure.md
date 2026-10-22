@@ -19,6 +19,6 @@ This is arcade adventure game with cute rabbit. Your job is to help the rabbit t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, HTML5, Kids, Obstacle, Platform, Puzzle, Rabbit

@@ -19,6 +19,6 @@ ring your favorite characters from the world of Hotel Transylvania to life with 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player Games, 2D, Adventure, Aircraft, Alien, Android, Army, Barbie, Ben 10, Cartoon Network, Dora, Dragon Ball Z

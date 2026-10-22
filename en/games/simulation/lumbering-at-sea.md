@@ -27,4 +27,4 @@ Set sail on an endless ocean adventure in Lumbering At Sea, a captivating 3D sti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: boat, Crafting, running
+- Tags: Boat, Crafting, running

@@ -19,6 +19,6 @@ Play Hot Vegas Free Slot machines without wifi - online or offline - and try to 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Boy, card, Casino, Girl, Girls, Machine, Slot Machine
+- Tags: .io Games, Boy, Card, Casino, Girl, Girls, Machine, Slot Machine

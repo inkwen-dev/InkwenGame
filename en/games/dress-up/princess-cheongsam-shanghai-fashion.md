@@ -19,6 +19,6 @@ Princesses want to play and enjoy their time, making cute dress up styles. Being
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cute, Dress Up, Fashion, Games, Girls, HTML5, Kids, Princess

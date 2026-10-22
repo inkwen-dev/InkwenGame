@@ -21,4 +21,4 @@ The classic spider solitaire with multiple difficulty levels.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, Brain, card, Casino, Casual, Classic, HTML5, Solitaire
+- Tags: Board, Brain, Card, Casino, Casual, Classic, HTML5, Solitaire

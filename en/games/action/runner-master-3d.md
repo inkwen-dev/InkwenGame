@@ -19,6 +19,6 @@ its simple game count on skills and brain you need to collect the diamonds to be
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Brain, jump, Jumping, Puzzle, running, Skill

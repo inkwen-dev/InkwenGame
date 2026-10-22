@@ -19,6 +19,6 @@ The cat who loves lollipops has become popular in the gaming space, which means 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Best, Cat, cut, Fun, Funny, Kids, Mobile, Skill

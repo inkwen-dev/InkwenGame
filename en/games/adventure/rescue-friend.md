@@ -19,6 +19,6 @@ Rescue Boy: Pull The Pin is a brain burning high IQ puzzle game, but it is espec
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Escape, Hypercasual, Rescue

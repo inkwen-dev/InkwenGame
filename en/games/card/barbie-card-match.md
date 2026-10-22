@@ -19,6 +19,6 @@ Barbie is a fashion doll manufactured by the American toy company Mattel, Inc. a
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, card, Memory, Puzzle
+- Tags: Brain, Card, Memory, Puzzle

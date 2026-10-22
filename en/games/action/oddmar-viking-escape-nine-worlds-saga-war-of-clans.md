@@ -19,6 +19,6 @@ Viking escape – is a game in which you control a Viking flying on a dragon, th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Air, Baby, Baby Hazel, Battle, Boy, Boys, Casual, Clans, Dragon, Family, Fun, Girl, HTML, HTML5, Kids, Logic, Mobile, New, Puzzle, Ski, Skill, War, WebGL, Zombie

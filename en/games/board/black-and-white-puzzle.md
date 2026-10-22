@@ -19,6 +19,6 @@ Black White Puzzle is using Black and White Chess to build a puzzle game. Same a
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Casual, Classic, Crazy, Educational, Logic, Puzzle

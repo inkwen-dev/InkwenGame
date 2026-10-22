@@ -19,6 +19,6 @@ Welcome to Kid Cakes Maker Cooking Bakery, a casual cooking simulation game for 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cake

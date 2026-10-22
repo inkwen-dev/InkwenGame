@@ -21,4 +21,4 @@ Zombly 是一款僵尸潮袭而来的游戏，你需要用投球枪射击它们�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 休闲, Clicker, 射击, 僵尸
+- 标签: 休闲, 点击器, 射击, 僵尸

@@ -19,6 +19,6 @@ Ultra Shot is a fast-paced basketball shooting challenge where precision and tim
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Basketball, Casual, Fun, Funny, Hypercasual, Shoot, Shooter, Shooting, Sport, Sports

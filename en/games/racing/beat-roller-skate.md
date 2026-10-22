@@ -19,6 +19,6 @@ Beat Roller - A special music game where you can enjoy the excitement of skating
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Hypercasual, Interactive, Race, Racing, run, running

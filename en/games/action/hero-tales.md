@@ -21,4 +21,4 @@ A fantasy world, filed with monsters and magnificent views are waiting for you. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Fantasy, rpg, running
+- Tags: Adventure, Fantasy, RPG, running

@@ -19,6 +19,6 @@ Like to iron and make clothes tidier? Hold the iron and smooth the wrinkles in o
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Fun, Kids

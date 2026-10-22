@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Animal, Arcade, Baby, Baby Hazel, Bubble Shooter, Candy, Cat, Color, Coloring, Cute, Dress Up, Fun, Funny, Girl, Girls, Kid, Kids, Mobile, Puzzle, Shoot, Shooter, Shooting, Shopping

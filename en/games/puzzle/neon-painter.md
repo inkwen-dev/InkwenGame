@@ -19,6 +19,6 @@ A new revolution in puzzle games. Can you find the thing hidden in the neon? Use
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Block, Boxing, Brain, Casual, Christmas, Cool, Funny, Hypercasual, Matching, Puzzle, Retro

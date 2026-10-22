@@ -19,6 +19,6 @@ Let’s take a ride to police car games in stunt games with your favorite police
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Car, Cars, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

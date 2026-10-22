@@ -17,4 +17,4 @@ Step into the shadowy chaos of Tung Tung Sahur: Midnight Terror 2 as you dash th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

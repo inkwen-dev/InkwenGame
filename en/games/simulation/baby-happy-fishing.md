@@ -19,6 +19,6 @@ Baby Happy Fishing is a very fun game. In this game you can experience the fun o
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Cute, Fish, fishing, Fun, Girls, HTML5, Kids, Mobile, Panda
+- Tags: Animal, Cute, Fish, Fishing, Fun, Girls, HTML5, Kids, Mobile, Panda

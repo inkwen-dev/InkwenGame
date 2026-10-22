@@ -19,6 +19,6 @@ Cap Boy Run is a side scrolling auto runner game, tab to jump and avoid the enem
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Boy, Click, endless, HTML5, run, running

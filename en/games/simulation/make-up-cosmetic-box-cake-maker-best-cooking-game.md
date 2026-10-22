@@ -19,6 +19,6 @@ Be the best cake baker, The world has ever seen! Lets Make the best make-up cake
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Baby, Baby Hazel, Boxing, Cake, Candy, Cartoon Network, Casual, Cooking, Food, Girl

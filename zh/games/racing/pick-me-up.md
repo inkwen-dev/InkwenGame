@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io, 2D, 汽车, 竞速, 出租车
+- 标签: .io, 2D, 汽车, 赛车, 出租车

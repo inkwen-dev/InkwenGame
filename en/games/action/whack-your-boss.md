@@ -19,6 +19,6 @@ WHACK YOUR BOSS. WHACK HIM, JUST WHACK HIM AS HARD AS YOU CAN. Or, alternatively
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Games

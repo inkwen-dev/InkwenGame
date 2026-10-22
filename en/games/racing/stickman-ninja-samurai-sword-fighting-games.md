@@ -19,6 +19,6 @@ Stickman Ninja Samurai - Sword Fighting Games 3D Be the stickman samurai warrior
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Best, Boys, endless, Games, Ninja, Race, run, running, Samurai, Simulation

@@ -19,6 +19,6 @@ Here Swipe the hole to Eat all Blocks and Shapes to Save Ball. Have Fun! Enjoy t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Cool, Funny, HTML5, WebGL

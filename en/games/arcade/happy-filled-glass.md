@@ -19,6 +19,6 @@ Happy Filled Glass is a free online puzzle and fun game. This is a game in which
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Draw, Drawing, Fun, HTML5, Kids, Logic, Logical, Mobile, Skill

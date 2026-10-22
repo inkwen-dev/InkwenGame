@@ -25,4 +25,4 @@ Play Shadow Ninja RPG: Enemy Legends now and become the ultimate shadow hero!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, Fighting, Ninja, pve, rpg, video
+- Tags: Action, Adventure, Fighting, Ninja, pve, RPG, video

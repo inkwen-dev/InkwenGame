@@ -19,6 +19,6 @@ A beautifully addictive puzzle game about connecting the dots. Now featuring THR
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Anime, Ball, Best, Boy, Funny, Girl, HTML, HTML5, Puzzle, Simulation, Timing, WebGL

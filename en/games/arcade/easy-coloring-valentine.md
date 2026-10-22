@@ -19,6 +19,6 @@ Easy Coloring Valentine is super fun and free to play coloring game for kids. Fr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Coloring, Fun, Girls, HTML5, Hypercasual, Kids, Love, Online, School

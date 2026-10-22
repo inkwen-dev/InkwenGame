@@ -19,6 +19,6 @@ Drive.IO is a smart traffic control game where you take charge of managing cars 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Car, city, Parking, train
+- Tags: 3D, Car, city, Parking, Train

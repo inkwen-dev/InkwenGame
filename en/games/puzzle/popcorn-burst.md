@@ -19,6 +19,6 @@ Hold to fill the bucket with popcorn. Do not drop anything and earn top rating! 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Fun, Girls, HTML5, Kids, Mobile, Puzzle

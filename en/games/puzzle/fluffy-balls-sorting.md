@@ -19,6 +19,6 @@ Fluffy Balls - Sorting is a logic puzzle game in which the player has to sort fl
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Casual, HTML5, Puzzle

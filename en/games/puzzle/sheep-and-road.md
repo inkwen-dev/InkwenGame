@@ -19,6 +19,6 @@ Help small defenseless sheep to find back their home. Among all these roads and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Baby Hazel, Boy, Boys, Brain, Casual, Classic, Family, Fun, Funny, Hypercasual, Kid, Kids, Puzzle

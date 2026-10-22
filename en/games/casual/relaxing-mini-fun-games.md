@@ -19,6 +19,6 @@ Relaxing Mini Fun Games is a collection of casual mini games designed to help yo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, 3D Games, Best Games, Hypercasual, Levels, Unity3D

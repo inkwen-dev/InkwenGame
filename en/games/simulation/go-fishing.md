@@ -21,4 +21,4 @@ Go Fishing is puzzle game where you need to catch fishes. Tap on screen to relea
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, fishing, Puzzle
+- Tags: Fish, Fishing, Puzzle

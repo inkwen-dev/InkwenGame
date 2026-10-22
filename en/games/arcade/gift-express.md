@@ -21,4 +21,4 @@ All year the factory of Santa Claus made toys for Christmas Eve. It's now a time
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Boys, Christmas, Clans, Fun, Girl, train
+- Tags: 1 Player, Boys, Christmas, Clans, Fun, Girl, Train

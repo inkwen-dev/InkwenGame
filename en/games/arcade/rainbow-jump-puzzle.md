@@ -19,6 +19,6 @@ Get ready to jump into a world full of vibrant colors, tricky platforms, and fas
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Ball, html games for your website, HTML5, html5 games for your site, Hypercasual, Kids, Obstacle, Puzzle

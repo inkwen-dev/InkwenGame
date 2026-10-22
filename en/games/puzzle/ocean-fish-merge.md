@@ -19,6 +19,6 @@ Drop Random Ocean Fish and merge identical ones! Slide your finger left and righ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Bubble, Clicker, Fish, fishing, Puzzle, Shark
+- Tags: Arcade, Bubble, Clicker, Fish, Fishing, Puzzle, Shark

@@ -19,6 +19,6 @@ Be Ready for Extreme Spiral Mega Ramp Car Racing Stunt Game and join the extreme
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Arcade, Best, Bike, Car, Cars, Game, Games, Hypercasual, jump, Jumping, Race, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

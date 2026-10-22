@@ -19,6 +19,6 @@ Today, in the game Monster and Candy we will move you in the interesting world p
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Candy, Fun, Funny, Kids, Mobile, Monster, Skill

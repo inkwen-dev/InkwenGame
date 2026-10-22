@@ -19,6 +19,6 @@ Going up as far as possible, as sikibidi toilet jump around to be the top
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, jump, Jumping, OnlyUp, Skibidi, Skibidi Toilet, Skill

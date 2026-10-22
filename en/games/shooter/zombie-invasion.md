@@ -19,6 +19,6 @@ Zombie Invasion is a first-person shooter game，Player is in a place full of zo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Shooter, Unity3D, Zombie

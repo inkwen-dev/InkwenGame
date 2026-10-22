@@ -19,6 +19,6 @@ Idle Farm is a casual idle farming game. Leave the chaotic city life behind and 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Baby Hazel, farm, Fun, Girl, Girls, H5, HTML5, Kid, Kids
+- Tags: Animal, Baby Hazel, Farm, Fun, Girl, Girls, H5, HTML5, Kid, Kids

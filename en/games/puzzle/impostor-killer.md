@@ -19,6 +19,6 @@ Sneak around the level killing all of the imposters to complete each stage. Avoi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Blood, Killing, Online, Stealth

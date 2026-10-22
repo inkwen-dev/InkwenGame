@@ -54,4 +54,4 @@ Run tests, treat them, and watch for anything strange
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Doctor, horror, hospital
+- Tags: animals, Doctor, Horror, hospital

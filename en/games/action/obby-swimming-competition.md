@@ -19,6 +19,6 @@ Welcome to the world of Obby: The Swimming Competition! Here its up to you to sw
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Brainrot, Brainrot Italian, Brainrot sahuuur, cargo, Cartoon, Craft, Cute, Fun, Minecraft, roblox, ship, ships, Top Down

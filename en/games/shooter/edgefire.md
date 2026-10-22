@@ -30,4 +30,4 @@ Step into the arena, test your skills, and rise to glory. Are you ready to domin
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Action, First Person Shooter, Gun, Multiplayer, pvp, Shooting, Skill
+- Tags: Action, First Person Shooter, Gun, Multiplayer, PvP, Shooting, Skill

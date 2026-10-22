@@ -19,6 +19,6 @@ Work your way through the tunnels in Tunnel Rush. Each level of the 3D game thro
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Ball, Classic, Stunts

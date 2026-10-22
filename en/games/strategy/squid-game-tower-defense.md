@@ -27,4 +27,4 @@ Complete levels, improve your combat skills, gather valuable resources, and unlo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Mobile, mouse, Tower Defense
+- Tags: Mobile, Mouse, Tower Defense

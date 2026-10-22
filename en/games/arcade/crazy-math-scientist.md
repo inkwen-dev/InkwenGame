@@ -19,6 +19,6 @@ Do you want to play a fun game full of unique mechanics and which will help your
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Game, Math, Online, Puzzle, Quiz

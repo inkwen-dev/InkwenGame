@@ -19,6 +19,6 @@ Welcome to one of the best car stunt games 2021. It’s time to have fun with mu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D Games, Adventure, Car, Cars, Driving, Mobile, Parking, Race, Racing, Simulation, Simulator, Stunts, Super, Supercars, Superhero

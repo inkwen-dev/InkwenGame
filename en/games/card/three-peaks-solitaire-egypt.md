@@ -21,4 +21,4 @@ Pyramid Solitaire is simple and addictive game for one player, which goal is to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, HTML5, Logic, Puzzle, Solitaire
+- Tags: Card, Casual, HTML5, Logic, Puzzle, Solitaire

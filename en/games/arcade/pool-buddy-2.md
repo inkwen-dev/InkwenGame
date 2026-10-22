@@ -19,6 +19,6 @@ Pool Buddy 2 is fun arcade game and it's perfect to play in this time of year. P
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Cartoon, Fun, HTML5, Hypercasual, Kids, Mobile, Physics, Puzzle, Skill

@@ -21,4 +21,4 @@ Horror brainrot bots are on the hunt! Watch out, stay alive! Welcome to Tung Sah
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, horror, run, Tung Tung Tung Sahur
+- Tags: Escape, Horror, run, Tung Tung Tung Sahur

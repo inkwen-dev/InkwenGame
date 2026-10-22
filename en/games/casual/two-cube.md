@@ -19,6 +19,6 @@ Control two dice to jump over falling walls. The game is difficult.
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Game, Games, HTML, HTML5, Kid, Kids

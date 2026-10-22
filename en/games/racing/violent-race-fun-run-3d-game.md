@@ -19,6 +19,6 @@ Violent Race is a car race game. You will through a dangerous track. Avoid obsta
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Boy, Boys, Car, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids, Race, run

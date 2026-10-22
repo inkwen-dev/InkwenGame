@@ -19,6 +19,6 @@ Welcome to Dalgona Candy - Dalgona Game. This is a game about the squid hiding i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Games, Match 3, Match3, New

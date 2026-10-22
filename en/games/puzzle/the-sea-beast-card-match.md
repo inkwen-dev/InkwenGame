@@ -21,4 +21,4 @@ Produced in-house at Netflix Animation, the film is scheduled for a release in s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Match 3, Matching, Puzzle
+- Tags: Card, Match 3, Matching, Puzzle

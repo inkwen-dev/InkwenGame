@@ -19,6 +19,6 @@ FNF: Red Light, Green Light is the best trending combination out there where you
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Android, Blood, Shooting, Simulator, Unity3D

@@ -19,6 +19,6 @@ Have you ever wanted to be a zombie hunter? The City of the Dead is an arcade sh
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Shoot, Shooter, Shooting, Zombie

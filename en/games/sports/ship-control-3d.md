@@ -19,6 +19,6 @@ Get ready for an exhilarating ship sailing adventure in Ship Stack Racing, a 3D 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Avoid, boat, Boys, Casual, Cute, Girl, Kids
+- Tags: Avoid, Boat, Boys, Casual, Cute, Girl, Kids

@@ -19,6 +19,6 @@ Ninja Jump Force is a game with many levels, great graphics and a fun gameplay.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ninja, Puzzle

@@ -51,4 +51,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 制作, Minecraft, 生存
+- 标签: 3D, 手工, 我的世界, 生存

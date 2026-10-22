@@ -19,6 +19,6 @@ MUTATE YOUR BULLET. FLAP, EVOLVE, SURVIVE. THE KULKA is a one-button bullet-heav
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Avoid, Bullet, Casual, endless, flappybird, Fun, Highscore, Shoot 'Em Up, Shooter, Shooting, Skill, Space

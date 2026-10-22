@@ -19,6 +19,6 @@ This fun educational game will teach your kids and toddlers to learn numbers and
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Arcade, Casual, Clicker, Family, farm, Game, Games, Girls, HTML, HTML5, Kid, Kids, Mobile, Simulation, Simulator
+- Tags: 2D, Animal, Arcade, Casual, Clicker, Family, Farm, Game, Games, Girls, HTML, HTML5, Kid, Kids, Mobile, Simulation, Simulator

@@ -19,6 +19,6 @@ Step into the thrilling world of Squid Game Memory Card Match! Test your memory 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, card, Casual, Girls, Hypercasual, Matching, Memory, Puzzle
+- Tags: Boys, Card, Casual, Girls, Hypercasual, Matching, Memory, Puzzle

@@ -19,6 +19,6 @@ Looking for princess games for girls? Let's play kids' games for girls 5 to 7 ye
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Princess

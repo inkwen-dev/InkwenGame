@@ -30,4 +30,4 @@ Deck of Deception is an online multiplayer bluffing card game where every coin c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cards, mouse, Multiplayer, pvp, Skill, Strategy
+- Tags: cards, Mouse, Multiplayer, PvP, Skill, Strategy

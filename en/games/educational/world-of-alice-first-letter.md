@@ -19,6 +19,6 @@ World of Alice - First Letter World of Alice - First Letter is an educational ga
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Educational, free games for your site, free games for your website, free html5 games for your website, HTML, html games for your website, HTML5, html5 games, html5 games for your site, Kids, Letters, School

@@ -19,6 +19,6 @@ Insane Math Game How good are your math skills? You only have 20 seconds to solv
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Educational, Game, Interactive, Kids, Math

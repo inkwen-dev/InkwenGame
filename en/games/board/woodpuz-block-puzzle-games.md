@@ -21,4 +21,4 @@ Discover WoodPuz: Block Puzzle Games &ndash; the ultimate brain-teasing escape! 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Block, blocky, Board, Brain, Matching, Puzzle, sort, sorting, sudoku, water
+- Tags: 2D, Block, blocky, Board, Brain, Matching, Puzzle, sort, sorting, Sudoku, water

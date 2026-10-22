@@ -19,6 +19,6 @@ Get caught up in the excitement of the game! Our application offers you over 60 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casino, HTML5, Mobile, Slot Machine

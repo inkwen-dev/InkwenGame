@@ -21,4 +21,4 @@ PLUMBY is a pipe-rotation puzzle where water changes state on its way. Rotate th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Logic, mouse, Puzzle
+- Tags: Brain, Logic, Mouse, Puzzle

@@ -19,6 +19,6 @@ Capture new territories and defeat enemies in the new exciting game Paper.io 2Ea
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Arcade, Best, Fun, H5, HTML5, Multiplayer

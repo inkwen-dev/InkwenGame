@@ -19,6 +19,6 @@ Destroy with your fingers all ants that exit on the hole. Squish all the ants th
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Casual, Click, Clicker, endless, Family, HTML, HTML5, Kids, Mobile, Plant

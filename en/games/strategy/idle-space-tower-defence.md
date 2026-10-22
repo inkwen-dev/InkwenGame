@@ -19,6 +19,6 @@ Can you defend your spacebase from the dozens of the enemies? Tower Features &bu
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Clicker, Space, Spaceship

@@ -19,6 +19,6 @@ Ben10 Difference is an online game that you can play for free. Do you have a goo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Ben 10, Boys, Cartoon, Difference, Fun, HTML5, Kids, Point And Click

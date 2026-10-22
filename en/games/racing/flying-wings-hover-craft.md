@@ -19,6 +19,6 @@ Flying Wings HoverCraft is a 3D racing simulation game set in a cyber-themed, ho
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Air, Aircraft, Driving, Flight, fly, HTML5, Race, Racing, Space, Spaceship, Stunts, Supercars

@@ -19,6 +19,6 @@ Drifty car Race Challenge drifting game provides an ultimate experience of real 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Arcade, Best Games, Car, drift, drifting, Driving, free html5 games for your website, Multiplayer, Race, WebGL

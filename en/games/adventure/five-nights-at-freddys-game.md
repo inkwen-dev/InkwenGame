@@ -19,6 +19,6 @@ Five Nights at Freddy’s is an extremely popular horror video game. There’s s
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Avoid, Boys, Brain, Defense, Escape, HTML5, Robot

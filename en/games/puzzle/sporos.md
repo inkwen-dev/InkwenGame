@@ -19,6 +19,6 @@ You should plant viruses in hosts to infect the virus. could you? Sporos is a re
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, HTML5, Hypercasual, Logic, Logical, Mind, Puzzle, Relaxation

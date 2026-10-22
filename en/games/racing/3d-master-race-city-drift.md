@@ -19,6 +19,6 @@ THE MOST DESIRED CITY DRIFT GAME 1 city tracks are ready ! Also there are 15 mos
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Car, Cars, drift, drifting, Driving, gta, Parking, Race, Supercars, WebGL

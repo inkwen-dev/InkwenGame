@@ -19,6 +19,6 @@ Ladybug Hidden Hearts is a free online kids and hidden object game. Find out the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, Girl, Hidden, HTML5, Mobile, Skill

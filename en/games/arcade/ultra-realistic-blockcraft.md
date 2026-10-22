@@ -19,6 +19,6 @@ Help Steve in the ultra-realistic block world and make sure he reaches the porta
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, mineblock, Minecraft, survival

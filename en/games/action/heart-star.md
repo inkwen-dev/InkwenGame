@@ -19,6 +19,6 @@ Heart Star is undoubtedly one of the most interesting new arcade games this year
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, H5, HTML, HTML5, jump, Kids, Logical, Love, Mobile, Online, Pixel, Platform, Retro, Skill, Skills

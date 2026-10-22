@@ -19,6 +19,6 @@ Geo Drop is an exciting 2D arcade game where precision and quick reflexes are yo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arkanoid, Ball, Bounce, Bricks, throwing

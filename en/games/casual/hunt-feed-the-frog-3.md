@@ -19,6 +19,6 @@ The little frog is just getting to know the unusual world around him. Help the f
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Animal, Baby Games, Cartoon, frog, Game

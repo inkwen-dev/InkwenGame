@@ -19,6 +19,6 @@ Dozens of animals, plants, vehicles, flowers and so much more – this awaits yo
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Color, HTML5, Relaxation

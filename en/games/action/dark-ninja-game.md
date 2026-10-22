@@ -19,6 +19,6 @@ Dark Ninja, is a hero who needs to cross the village of rocks and eliminate the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, HTML, HTML5, Ninja, Ninjago, Platform, Side Scrolling

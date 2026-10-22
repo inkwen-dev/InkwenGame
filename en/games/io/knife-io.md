@@ -19,6 +19,6 @@ Knife.io is multiplayer new io game. Addictive and innovative io game! Collect b
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Action, Battle, HTML5, Multiplayer, Online, pvp, Sword
+- Tags: .io, Action, Battle, HTML5, Multiplayer, Online, PvP, Sword

@@ -21,4 +21,4 @@ This is an interesting casual parkour game. In the game players will be able to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, burger, Collecting, Decoration, Dress Up, Fashion, Girl, H5, running
+- Tags: 3D Games, Burger, Collecting, Decoration, Dress Up, Fashion, Girl, H5, running

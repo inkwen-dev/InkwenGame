@@ -19,6 +19,6 @@ Snake Fusion Arena is a fun arcade snake game with a unique fusion twist. Before
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Arcade, Arena, dino, Slither, Snake, survival

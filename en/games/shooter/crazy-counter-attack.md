@@ -19,6 +19,6 @@ Crazy Counter Attack is an online game that combines thrilling gameplay with str
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Brain, Casual, Fun, Gun, HTML5, Kids, Online, Physics, Relaxation, Shooting, Skill, Strategy, weapons

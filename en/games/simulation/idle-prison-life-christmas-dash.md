@@ -17,4 +17,4 @@ Transform your frosty prison into a bustling Christmas wonderland in this addict
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

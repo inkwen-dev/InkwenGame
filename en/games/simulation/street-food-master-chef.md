@@ -21,4 +21,4 @@ Are you street food lover? If yes, then join us our new game Street Food Master 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Cook, Cooking
+- Tags: Burger, Cook, Cooking

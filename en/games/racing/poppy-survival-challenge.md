@@ -19,6 +19,6 @@ Huggy Wuggy Collect energy boxes by floating on the sea with Poppy. You can shoo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Hypercasual, Race, Racing

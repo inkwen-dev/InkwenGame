@@ -19,6 +19,6 @@ Step into the life of a crazy sheep and explore a fun open world filled with adv
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Family, goat, Simulation, Simulator

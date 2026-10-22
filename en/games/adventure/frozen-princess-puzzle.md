@@ -19,6 +19,6 @@ Enter a magical icy world with Frozen Princess Puzzle, a fun and relaxing puzzle
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Casual, Fun

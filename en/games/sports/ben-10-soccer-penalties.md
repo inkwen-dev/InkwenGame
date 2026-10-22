@@ -19,6 +19,6 @@ Football fans will love this game, as here they will be able to work out how to 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Boy, Boys, Cartoon, Cartoon Network, Soccer, Spongebob, Sport, Sports

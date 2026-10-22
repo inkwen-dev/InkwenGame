@@ -19,6 +19,6 @@ Play Poop It as the most fun and addictive tap game where you have to tap fast a
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Click, Clicker, Fun, HTML5, Hypercasual

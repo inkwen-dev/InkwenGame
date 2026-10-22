@@ -19,6 +19,6 @@ Remember playing Bounce on your old phone? It is now available on your Android d
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Adventure, Baby, Baby Hazel, Balance, Ball, Ballon, Basketball, Bounce, Boy, Football, Girl, HTML, HTML5, Puzzle, Sport, WebGL

@@ -19,6 +19,6 @@ Get ready for exciting drag races. Using gears just in time and getting your car
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Cars, Driving, Road, Supercars

@@ -19,6 +19,6 @@ Stack your eggs to pass obstacles, but watch out for monsters and spikes. Stacky
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D Games, Action, Animal, Arkanoid, Army, Avoid, Baby, Balance, Ball, Ballon, Barbie, Batman, Bejeweled, Ben 10, Best, Billiard, Bird, Bomb, Cake, Casual, Clans, fly, Fruits, Kiz 10, running, Stack, Super, Supercars, Superhero, Zombie

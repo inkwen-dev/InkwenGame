@@ -19,6 +19,6 @@ Pacman2D Game where you need to eat dots and to avoid your enemies. When you eat
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, PacMan, Puzzle

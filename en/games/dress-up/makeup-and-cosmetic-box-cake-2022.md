@@ -19,6 +19,6 @@ Like make cake , bake and decorate! Get a step forward in makeup cake box and be
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cooking, Educational, Girls, Makeover, Nail

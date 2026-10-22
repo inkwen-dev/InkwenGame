@@ -19,6 +19,6 @@ In our new exciting game, you will manage a real dental hospital. And every day 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Casual, Cleaning, Doctor, Girl, Girls, H5, HTML5, Surgery

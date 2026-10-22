@@ -19,6 +19,6 @@ Welcome to Sheep Link Puzzle Are you a fan of puzzle link and connect objects? S
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Clicker, Hot, Mahjong, Matching, Memory, Puzzle

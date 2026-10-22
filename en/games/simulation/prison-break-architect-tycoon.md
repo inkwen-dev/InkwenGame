@@ -19,6 +19,6 @@ At the beginning of the game you will be given an empty prison, which is not abl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Android, Arcade, building, Cartoon, Casual, Hypercasual, Simulation, Simulator

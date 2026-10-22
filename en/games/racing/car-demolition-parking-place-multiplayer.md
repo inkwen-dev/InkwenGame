@@ -19,6 +19,6 @@ The demolition crash Racing game is inspired by our fun, thrilling Demolition ga
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Car, Cars, HTML5, Mobile, Sim, Supercars, Unity3D, WebGL

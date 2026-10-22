@@ -19,6 +19,6 @@ The Flying Pig is an adventure Game! An entertaining skill and action game the w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Bomb, Flight, fly, HTML, HTML5, Kids, Mine, Racing

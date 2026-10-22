@@ -19,6 +19,6 @@ Introducing the Skibidi Toilet Memory Challenge &ndash; the ultimate and super f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Fun, HTML5, Kids, Memory, Skibidi Toilet, Skill

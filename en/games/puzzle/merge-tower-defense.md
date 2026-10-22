@@ -19,6 +19,6 @@ Defend the path in this fast-paced hyper-casual tower defense! Build and merge t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 3D, Casual, Defense, endless, Enemies, free games for your site, Hypercasual, Matching, Mobile, Skills, Stickman, Tower Defense

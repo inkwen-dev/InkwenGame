@@ -19,6 +19,6 @@ Interesting soccer kids game. Aim is to shoot penalty and won this game. Try to 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Football, Fun, HTML5, Kids, Mobile, Skill, Soccer, Sport

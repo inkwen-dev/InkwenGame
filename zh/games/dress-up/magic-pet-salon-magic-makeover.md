@@ -1,0 +1,24 @@
+# 魔法宠物沙龙 - 魔法变身
+
+<a href="https://inkwengame.com/zh/games/magic-pet-salon-magic-makeover" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/magic-pet-salon-magic-makeover/cover.jpg)
+
+魔法宠物沙龙正式营业啦！小女巫露娜拥有一家宠物沙龙店。她用神奇的魔法为一些特别的宠物进行造型 makeover。有这么多可爱的顾客，露娜需要你的帮助！你有很多有趣的任务可以完成！在魔法宠物沙龙里，你可以成为一名美容师和设计师，为宠物们打扮，让它们的头发和指甲看起来更加漂亮！快来魔法宠物沙龙尽情享受乐趣吧！
+
+## 怎么玩
+
+点击或轻触
+
+## 介绍
+
+魔法宠物沙龙正式营业啦！小女巫露娜拥有一家宠物沙龙店。她用神奇的魔法为一些特别的宠物进行造型 makeover。有这么多可爱的顾客，露娜需要你的帮助！你有很多有趣的任务可以完成！在魔法宠物沙龙里，你可以成为一名美容师和设计师，为宠物们打扮，让它们的头发和指甲看起来更加漂亮！快来魔法宠物沙龙尽情享受乐趣吧！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/dress-up" target="_blank" rel="noopener noreferrer">换装</a>
+- 画面方向: portrait
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 2D, 动物, 医生, 装扮, 乐趣, 女孩, 女孩, H5, HTML5, 儿童, 儿童, 改造

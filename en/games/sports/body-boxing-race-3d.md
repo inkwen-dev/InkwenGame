@@ -19,6 +19,6 @@ Are you finding some funny 3D games for relief or to get a new experience? Do yo
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Girls, Puzzle, Sports

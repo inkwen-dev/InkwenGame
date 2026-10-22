@@ -19,6 +19,6 @@ Endlose Helix ist ein lustiges und süchtig machendes Spiel, bei dem du nur so v
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Physics

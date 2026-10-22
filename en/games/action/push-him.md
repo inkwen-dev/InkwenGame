@@ -19,6 +19,6 @@ Don't let your rivals get to the finish line using various traps. Buy new traps,
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Arcade, Boy, Bridge, Cartoon, Casual, Defense, endless, Funny, Game, Games, HTML, HTML5, Hypercasual, Interactive, Obstacle, Physics, run, running, WebGL

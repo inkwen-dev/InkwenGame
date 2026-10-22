@@ -19,6 +19,6 @@ Deer Hunting game is now here for you to have memorable riding on the safari jee
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arena, Battle, Gun, Jumping, Shooting

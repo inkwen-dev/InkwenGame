@@ -51,4 +51,4 @@ Can you land the whale?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Arcade, fishing
+- Tags: 3D, Arcade, Fishing

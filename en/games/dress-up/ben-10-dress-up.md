@@ -19,6 +19,6 @@ Ben 10 is getting ready for a new adventure. Help to him for different image. Dr
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Boy, Boys, Cartoon, Dress Up, Game, Games

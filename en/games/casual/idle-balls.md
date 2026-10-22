@@ -19,6 +19,6 @@ Idle Balls is an RPG game with cute characters. You could click or use balls to 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Ball, Bounce, Boy, Click, Clicker, Game, Games, H5, HTML, HTML5, Kid, Kids, Number, Physics, rpg, Shopping
+- Tags: Ball, Bounce, Boy, Click, Clicker, Game, Games, H5, HTML, HTML5, Kid, Kids, Number, Physics, RPG, Shopping

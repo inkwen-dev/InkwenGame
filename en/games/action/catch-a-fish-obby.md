@@ -42,4 +42,4 @@ Use events and ticket machines to roll for Mythic and Omega fish.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: fishing, Multiplayer, obby, two-player
+- Tags: Fishing, Multiplayer, obby, two-player

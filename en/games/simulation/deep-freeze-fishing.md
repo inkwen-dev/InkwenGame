@@ -33,4 +33,4 @@ lure. One-finger controls, quick sessions, 60 species to collect.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: fishing
+- Tags: Fishing

@@ -19,6 +19,6 @@ Welcome to the Influencers Girly Vs Tomboy. What should these celebrities choose
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Celebrity, Dress Up, Fashion, Girls

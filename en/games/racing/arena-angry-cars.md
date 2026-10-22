@@ -19,6 +19,6 @@ Arena Angry Cars is an action game where you fight angry cars in the sky. You wi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Boy, Car, Casual, Classic, Crazy, drift, Driving, Fight, Hot, Hypercasual, Kid, Mobile, Platform

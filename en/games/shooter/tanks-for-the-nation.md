@@ -19,6 +19,6 @@ Tanks for the Nation is a fast-paced 2D tank battle game set in the era of World
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2026 games, 2D, Action, Arcade, Army, attack, Battle, military, Shooting, Tank, Tanks, War

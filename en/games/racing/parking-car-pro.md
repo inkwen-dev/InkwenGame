@@ -19,6 +19,6 @@ Parking car Pro is a 3D game where you have to drive the car without colliding w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Fun, HTML5, iPad, iPhone, Kids, Puzzle

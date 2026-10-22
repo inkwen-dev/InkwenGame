@@ -19,6 +19,6 @@ Welcome to Ramp Car Stunts Impossible - Free Car Game and hot car stunts game. T
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Race, Racing, Simulator

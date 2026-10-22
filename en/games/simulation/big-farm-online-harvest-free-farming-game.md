@@ -19,6 +19,6 @@ Big Farm: Mobile Harvest is a free farm simulator game that you can play online 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Arcade, Best, Casual, farm, Funny, Games, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Shark, Simulation, Simulator
+- Tags: 3D, Arcade, Best, Casual, Farm, Funny, Games, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Shark, Simulation, Simulator

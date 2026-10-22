@@ -19,6 +19,6 @@ Squid Jump Challenge is a new jump game that focuses upon the practice of Squid 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Android, Arcade, Casual, Classic, Crazy, endless, Escape, Game, Games, HTML, HTML5, Hypercasual

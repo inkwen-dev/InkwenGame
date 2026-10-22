@@ -19,6 +19,6 @@ Build bridges to save the trapped people! Rotate Bridge 3D is a casual puzzle ga
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Boy, Bridge, Collecting, Girl, Kid, run

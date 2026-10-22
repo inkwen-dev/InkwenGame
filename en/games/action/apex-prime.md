@@ -19,6 +19,6 @@ Step into a prehistoric wilderness where giant beasts rule the land! Master surv
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fighting, Mario, Unity3D, WebGL

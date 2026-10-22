@@ -19,6 +19,6 @@ Drunken Duel 2 is here with new challenges. Stickman characters are on the roof 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Battle, Fun, Funny, Shooter, Shooting, War

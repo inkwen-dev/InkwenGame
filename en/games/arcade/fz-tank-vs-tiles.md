@@ -19,6 +19,6 @@ FZ Tank vs Tiles - HTML5 Games. You can choose color to shot. Try your best to g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Kid, Kids, Tank, Tanks

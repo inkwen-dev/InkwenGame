@@ -19,6 +19,6 @@ In the game Skibidi Toilet TopDown Survival, players take on the role of a resou
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, HTML5, iPad, iPhone, Levels, Mentolatux, Mobile, Skibidi, Skibidi Toilet, Unity3D, WebGL

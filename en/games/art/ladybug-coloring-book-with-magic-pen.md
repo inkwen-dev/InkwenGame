@@ -19,6 +19,6 @@ This app will allow you color your favourite ladybug. You can choose from many c
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Coloring, Ladybug, Miraculous Ladybug

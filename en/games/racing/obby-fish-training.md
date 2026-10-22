@@ -21,4 +21,4 @@ PC Controls bull Movement W A S D bull Jump Spacebar bull Camera Rotation Right 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best, Best Games, Bike, Brainrot, Cartoon, Cute, Fish, fishing, Jewel, Minecraft, Road, roblox, trial car, water
+- Tags: Best, Best Games, Bike, Brainrot, Cartoon, Cute, Fish, Fishing, Jewel, Minecraft, Road, roblox, trial car, water

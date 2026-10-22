@@ -21,4 +21,4 @@ This is a classic point and click hidden object game. You need to find all of th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, farm, Hidden, HTML5, Mobile, Puzzle
+- Tags: Arcade, Farm, Hidden, HTML5, Mobile, Puzzle

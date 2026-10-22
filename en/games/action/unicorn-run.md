@@ -19,6 +19,6 @@ Achive a better highscore with your unicorn running and jumping from one platfor
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Girl, Girls, Horse, running

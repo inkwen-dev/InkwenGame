@@ -21,4 +21,4 @@ Explore the mysteries of the Deep Sea with Solitaire TriPeaks, the classic solit
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, card, Fun, Puzzle, Solitaire
+- Tags: Adventure, Card, Fun, Puzzle, Solitaire

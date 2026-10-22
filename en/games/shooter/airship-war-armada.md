@@ -19,6 +19,6 @@ Airship War: Armada takes you on an epic, adrenaline-fueled adventure set in a f
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Air, Aircraft, airplane, Android, Arcade, HTML5, Mobile, Plane, Shooting

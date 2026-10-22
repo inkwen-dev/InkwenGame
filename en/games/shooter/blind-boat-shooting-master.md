@@ -19,6 +19,6 @@ Craft your raft and navigate through the colorful world. Take aim and fire to va
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Battle, boat, cannon, Fighting
+- Tags: 2D, Battle, Boat, cannon, Fighting

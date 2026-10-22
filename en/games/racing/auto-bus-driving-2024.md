@@ -19,6 +19,6 @@ Auto Bus Driving 2024 offers a thrilling and realistic driving experience with t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, city, Driving, Mentolatux, School, Sim, Unity3D, WebGL

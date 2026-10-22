@@ -21,4 +21,4 @@ Sudoku, originally called Number Place is a logic-based, combinatorial number-pl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, Casual, Educational, Puzzle, sudoku, Unity3D, Word
+- Tags: Board, Casual, Educational, Puzzle, Sudoku, Unity3D, Word

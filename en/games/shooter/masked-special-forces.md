@@ -19,6 +19,6 @@ Step into the adrenaline-fueled world of Masked Special Forces: Virtual Combat. 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: free games for your website, FreezeNova, Gun, Multiplayer, Online, onlinegames io, unity games, weapons

@@ -19,6 +19,6 @@ Dice Merge is a unique and addictive game. You are presented with a grid and dif
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Classic, HTML5, Kids, Match 3, Matching, Online, Strategy

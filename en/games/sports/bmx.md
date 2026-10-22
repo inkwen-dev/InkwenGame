@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Bike, Cartoon, Cartoon Network, Classic, Click, Clicker, Fun, Funny, jump, Jumping, Kid, Kids, Mobile, run, running, Skill, Skills, Sport, Sports, Superhero, Traffic, Truck

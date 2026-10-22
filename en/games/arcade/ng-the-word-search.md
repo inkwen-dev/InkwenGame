@@ -19,6 +19,6 @@ The Word Search is a riveting game that pits your vocabulary knowledge against a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: angry, Arcade, Brain, Casual, Collecting, Collection, Fun, Funny, Hypercasual, Puzzle, Word

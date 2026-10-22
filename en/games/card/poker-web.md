@@ -21,4 +21,4 @@ Create poker hands from the cards in the web of this strategic solitaire game. E
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casino, Poker, Solitaire
+- Tags: Card, Casino, Poker, Solitaire

@@ -19,6 +19,6 @@ Fun and colorful races on different race areas await you in the Fall Beans game.
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, Aircraft, Alien, Android, Animal, Anime, Arcade, Arena, Ball, Ballon, Barbie, Baseball, Basketball, Batman, Battle, fishing, Flight, fly, Food, Football, Friv, Ghost, Girl, Girls, Gold, Golf, Google, Love, Machine, Magic, Mahjong, Makeover, management, Mario, Mermaid, Mind, Mine, Minecraft, Miner, Minion, movie, Multiplayer, Nail, New, Parking, Penguin, Physics, Pinball, Pipe, Pirate, Pokemon, Police, Pony, Pou, run, running, Samurai, Sandbox, School, Science
+- Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, Aircraft, Alien, Android, Animal, Anime, Arcade, Arena, Ball, Ballon, Barbie, Baseball, Basketball, Batman, Battle, Fishing, Flight, fly, Food, Football, Friv, Ghost, Girl, Girls, Gold, Golf, Google, Love, Machine, Magic, Mahjong, Makeover, Management, Mario, Mermaid, Mind, Mine, Minecraft, Miner, Minion, Movie, Multiplayer, Nail, New, Parking, Penguin, Physics, Pinball, Pipe, Pirate, Pokemon, Police, Pony, Pou, run, running, Samurai, Sandbox, School, Science

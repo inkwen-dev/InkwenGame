@@ -19,6 +19,6 @@ Once you start, you will never stop playing. Just one objective: Fill the board.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, Adventure, Arcade, Board, Bubble Shooter, Casual, Fun, Funny, Hypercasual, Sport, Sports, Unity3D

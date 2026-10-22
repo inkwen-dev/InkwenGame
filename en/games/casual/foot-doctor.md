@@ -19,6 +19,6 @@ Hello friends, today you are going to play coolest hospital games and be a docto
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Fun, HTML5, WebGL

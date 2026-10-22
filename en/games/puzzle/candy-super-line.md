@@ -19,6 +19,6 @@ If you can stay ahead of the game and keep those matches coming, your board will
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Bubble, Bubble Shooter, Candy, Casual

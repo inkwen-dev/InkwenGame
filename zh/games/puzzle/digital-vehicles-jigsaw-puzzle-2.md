@@ -1,0 +1,24 @@
+# 数字车辆拼图 2
+
+<a href="https://inkwengame.com/zh/games/digital-vehicles-jigsaw-puzzle-2" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/digital-vehicles-jigsaw-puzzle-2/cover.jpg)
+
+将所有图片碎片拖放到它们的正确位置，以完成数字车辆的图片。游戏包含 8 张图片和三种难度：2x3、3x4、4x6。
+
+## 怎么玩
+
+使用鼠标来玩这款 HTML5 拼图游戏
+
+## 介绍
+
+将所有图片碎片拖放到它们的正确位置，以完成数字车辆的图片。游戏包含 8 张图片和三种难度：2x3、3x4、4x6。
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">益智</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 汽车, 汽车, HTML5, 移动设备

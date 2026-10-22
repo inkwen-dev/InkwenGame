@@ -19,6 +19,6 @@ Night dress is a great dress up HTML5 game. Are you ready for go out? Are you re
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Family, Fashion, Friv, Fun, Game, Games, Girl, Girls, H5, Holiday, Hot, HTML5, Kids, Kiz 10, kiz10, Magic, Makeover, Mobile, Nails, Online, Play, Puzzle, sky

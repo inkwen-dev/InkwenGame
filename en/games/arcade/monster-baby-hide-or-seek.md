@@ -21,4 +21,4 @@ Monster Baby Hide or Seek is an engaging mobile game where players embark on a w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Baby, horror, Unity3D, WebGL
+- Tags: Adventure, Arcade, Baby, Horror, Unity3D, WebGL

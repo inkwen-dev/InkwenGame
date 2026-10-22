@@ -21,4 +21,4 @@ Pumpkin Dungeon Of Doom is an epic adventure through 100 levels of monsters, tra
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Dungeon, Halloween, horror, Mobile, Monster, Puzzle
+- Tags: Adventure, Dungeon, Halloween, Horror, Mobile, Monster, Puzzle

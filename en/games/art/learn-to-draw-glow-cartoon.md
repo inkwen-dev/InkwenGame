@@ -19,6 +19,6 @@ Learn To Draw Glow Cartoon is regarded as both a drawing and coloring game that 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Color, Coloring, Draw, Fun, H5, HTML5, Kid, Kids

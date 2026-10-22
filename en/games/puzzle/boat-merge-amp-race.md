@@ -19,6 +19,6 @@ Enjoy the fun of Boat Merge &amp; Race, a 3D arcade racing game that lets you co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: boat, Boys, Casual, Girls, Kids, Matching
+- Tags: Boat, Boys, Casual, Girls, Kids, Matching

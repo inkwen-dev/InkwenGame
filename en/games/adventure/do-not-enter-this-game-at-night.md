@@ -21,4 +21,4 @@ Do not enter this game at night, because in this game you will find the most cre
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, amazing, Ball, horror, Mobile, New, unity, unity games, unity games for your site, unity games for your website, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Adventure, amazing, Ball, Horror, Mobile, New, unity, unity games, unity games for your site, unity games for your website, Unity3D

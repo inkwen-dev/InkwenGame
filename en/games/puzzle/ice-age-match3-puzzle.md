@@ -21,4 +21,4 @@ The famous cartoon about the animals of the Ice Age can now not only be watched,
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Best, Cartoon, Cartoon Network, Jigsaw, movie, Puzzle
+- Tags: Arcade, Best, Cartoon, Cartoon Network, Jigsaw, Movie, Puzzle

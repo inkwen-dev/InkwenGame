@@ -21,4 +21,4 @@ In the chilling silence of a snowy island, a new terror rises &mdash; Tung Tung 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brainrot sahuuur, horror, Sahur, Tung Tung Tung Sahur
+- Tags: Brainrot sahuuur, Horror, Sahur, Tung Tung Tung Sahur

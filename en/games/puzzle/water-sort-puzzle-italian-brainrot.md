@@ -19,6 +19,6 @@ Pour, sort, and relax! Water Sort Puzzle - Italian Brainrot is a casual, fun, an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brainrot, Brainrot Italian, Brainrot sahuuur, Color, HTML5, html5 games, Mobile, sort, sorting, water

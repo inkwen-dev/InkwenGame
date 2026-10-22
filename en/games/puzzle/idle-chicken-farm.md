@@ -29,4 +29,4 @@ Idle Chicken Farm is an idle/merge farming game where players start with a singl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Clicker, farm, idle, merge, Simulation
+- Tags: animals, Clicker, Farm, idle, merge, Simulation

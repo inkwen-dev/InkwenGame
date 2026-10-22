@@ -19,6 +19,6 @@ The Grimace Penalty Goal Game is a fun and challenging game where you have to at
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Best Games, Football, Fun, Grimace, Grimace Shake, NapTech Games, Sport, Sports

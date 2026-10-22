@@ -22,4 +22,4 @@ There are multiple levels of difficulty you can choose. Beware of mistakes you c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, Educational, Logic, Mobile, Number, Puzzle, sudoku
+- Tags: Brain, Educational, Logic, Mobile, Number, Puzzle, Sudoku

@@ -19,6 +19,6 @@ Hi Santa you need to chop wood and avoid the branches! It could be an easy task?
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Casual, Christmas, Click, Clicker, cut, HTML, HTML5, Kid, Kids, Snow

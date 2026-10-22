@@ -19,6 +19,6 @@ Jump and run in this game to get punctuation marks and collect coins Jump obstac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Adventure, HTML, HTML5, Multiplayer, Racing, Relaxation, run, running

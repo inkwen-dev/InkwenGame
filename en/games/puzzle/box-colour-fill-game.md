@@ -19,6 +19,6 @@ Once you download, you will never stop playing it. Just one objective: Fill the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Arcade, Boy, Boys, Bubble, Color, Coloring, Fun, Game, Games, Girl, Girls, Moto, Motorcycle, Puzzle, Sandbox, Side Scrolling, Sim, Simulation

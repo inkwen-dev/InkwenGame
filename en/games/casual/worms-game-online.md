@@ -17,4 +17,4 @@ Embark on a strategic journey navigating intricate puzzles in Worms Game Online.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: worm
+- Tags: Worm

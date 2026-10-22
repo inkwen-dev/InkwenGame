@@ -21,4 +21,4 @@ Snake.io - Fun Addicting Arcade Battle .io Games Slither through a new competiti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, Classic, Slither, Snake, worm, Worms
+- Tags: .io, .io Games, Classic, Slither, Snake, Worm, Worms

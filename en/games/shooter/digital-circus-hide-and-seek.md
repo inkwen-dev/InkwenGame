@@ -19,6 +19,6 @@ For the digital circus hide and seek scene, envision a whimsical, futuristic dig
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Android, circus, digital circus, First Person Shooter, fps, Hidden, horror, HTML5, iPad, iPhone, Mobile, run
+- Tags: Android, circus, digital circus, First Person Shooter, fps, Hidden, Horror, HTML5, iPad, iPhone, Mobile, run

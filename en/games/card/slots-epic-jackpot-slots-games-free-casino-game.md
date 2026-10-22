@@ -19,6 +19,6 @@ PLAY NEW EPIC JACKPOT SLOT GAMES FREE! Try 40+ FREE Slot Games unlocked now in E
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Boys, card, Casino, Games, Machine, Slot Machine
+- Tags: .io Games, Boys, Card, Casino, Games, Machine, Slot Machine

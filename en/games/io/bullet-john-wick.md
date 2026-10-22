@@ -19,6 +19,6 @@ Hey there, Bullet John Wick. Use your gun to perfect your lethal accuracy and sh
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2D, 3D, Action, Arcade

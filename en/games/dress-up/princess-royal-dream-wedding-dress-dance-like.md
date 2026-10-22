@@ -19,6 +19,6 @@ Wedding bells are ringing! The beautiful Ice Princess has finally chosen her Pri
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Dancing, Dating, Design, Dress Up, Girl, Girls, Hot, Kids, Love, Magic, New, Princess, Puzzle, Shopping

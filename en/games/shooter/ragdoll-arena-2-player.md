@@ -19,6 +19,6 @@ Ragdoll Arena 2 Player consists of 14 super cool and challenging 2 player games.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 3D, Action, Arcade, Battle, Boxing, Casual, Chicken, Fight, Fighting, HTML5, hunter, Matching, Shooting

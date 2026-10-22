@@ -19,6 +19,6 @@ Test out your throwing skills in this fun new basketball game featuring Tom and 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Basketball, Best, Cartoon, Cartoon Network, H5, Hot, Shooter, Shooting, Sports

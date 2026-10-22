@@ -21,4 +21,4 @@ In Karas Cafeteria, you step into the shoes of a vibrant and industrious woman n
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, burger, Cook, Cooking, Food, Girl, Girls, Point And Click, Restaurant
+- Tags: Boys, Burger, Cook, Cooking, Food, Girl, Girls, Point And Click, Restaurant

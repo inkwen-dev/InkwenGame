@@ -19,6 +19,6 @@ Jungle Cafe is a time management game with a jungle restaurant theme. You have t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Casual, Food, Forest, Fruits, Fun, HTML5, jungle, Kids, management, Monkey, Restaurant, Timing
+- Tags: Animal, Casual, Food, Forest, Fruits, Fun, HTML5, jungle, Kids, Management, Monkey, Restaurant, Timing

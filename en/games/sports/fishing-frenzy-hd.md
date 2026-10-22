@@ -21,4 +21,4 @@ Fishing Frenzy Full is an exclusive and very popular game about fishing! You’r
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fish, fishing
+- Tags: Action, Adventure, Fish, Fishing

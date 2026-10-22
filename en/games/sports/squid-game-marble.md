@@ -19,6 +19,6 @@ To get the marble into the hole in Squid Game Marble, aim the marble well and ta
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Arcade, Best, Billiard, Casual, Hypercasual, Kids, Puzzle, WebGL

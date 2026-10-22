@@ -19,6 +19,6 @@ Draw Weapons Rush is an exciting arcade game. If you want to arrive at the end, 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Draw, Drawing, Fun, H5, Hot, HTML5, Hypercasual, Kids, Kill, Obstacle, Platform, Samurai, weapons

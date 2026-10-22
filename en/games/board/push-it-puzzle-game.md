@@ -19,6 +19,6 @@ On the boards, use the ball launchers to fill the holes and clear the cells by s
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Brain, HTML5, Logic, Logical, Mind, Puzzle, Relaxation

@@ -19,6 +19,6 @@ This is a fun leisure puzzle game. It's easy and interesting to operate. It's a 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boy, Boys, Casual, Collecting, Collection, Color, Coloring, Draw, Fun, Funny, Game, Games, Girl, Girls, Google, H5, HTML5, Kid, Kids, Mobile, Simulation, Simulator

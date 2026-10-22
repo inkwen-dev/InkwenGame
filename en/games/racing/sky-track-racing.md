@@ -19,6 +19,6 @@ Here is recommended as both a car driving and a stunt simulation game that is ma
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, Driving, HTML5, Kids, Mobile, Platform, Race

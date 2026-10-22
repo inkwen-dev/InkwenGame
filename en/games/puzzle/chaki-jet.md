@@ -19,6 +19,6 @@ This time Chaki want to try to fly. So he put jet on his back and start the adve
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, fly, Puzzle

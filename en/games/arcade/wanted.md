@@ -19,6 +19,6 @@ It was just another job. Pick up a few guys, drive them across town, get paid. E
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Cars, Police, Race, run

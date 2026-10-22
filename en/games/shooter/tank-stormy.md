@@ -19,6 +19,6 @@ Are you ready for the relentless battle of tanks? You can play "2 Player" mode a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Battle, Bomb, Tank, War

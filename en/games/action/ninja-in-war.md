@@ -19,6 +19,6 @@ This is one kind of platform game where you as ninja need to fight against other
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jumping, Ninja, Platform, War

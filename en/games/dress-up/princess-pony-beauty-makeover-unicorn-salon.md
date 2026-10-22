@@ -19,6 +19,6 @@ Today is our princess birthday. All little girls birthday wish is to have a pony
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cartoon, Cartoon Network, Celebrity, Disney, Dress Up, Elsa, Fashion, Makeover, Pony

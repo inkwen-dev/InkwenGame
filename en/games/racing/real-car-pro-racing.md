@@ -19,6 +19,6 @@ Real Car Pro Racing is a 3D car riding game with great graphics and features 15 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Best, Car, drifting, Driving, fly, Hot, Racing, Stunts, Supercars

@@ -19,6 +19,6 @@ You've been naughty at the farm again. It looks like a quiet little sheep! He wa
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Animal, Avoid, farm, Game, Games, Kid, Kids, Puzzle, run
+- Tags: 3D, 3D Games, Animal, Avoid, Farm, Game, Games, Kid, Kids, Puzzle, run

@@ -19,6 +19,6 @@ Play Loud House Extreme Cardboard Racing online for free. Extreme Cardboard Raci
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, crash, Race, Racing, Sport, Sports

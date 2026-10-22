@@ -17,4 +17,4 @@ Swap spooky symbols and solve eerie puzzles as time slips away in Scary Hallowee
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

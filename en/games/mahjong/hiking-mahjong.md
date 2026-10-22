@@ -21,4 +21,4 @@ Tap 2 similar items with 2 open sides. Eliminate all the tiles to win a level.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, card, Clicker, Fun, HTML5, Mahjong, Matching, Mobile
+- Tags: Adventure, Card, Clicker, Fun, HTML5, Mahjong, Matching, Mobile

@@ -23,4 +23,4 @@ Enter Wednesday Addams' digital world in this dark, twisted game. Check emails f
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Halloween, horror, Mobile, Point And Click
+- Tags: Halloween, Horror, Mobile, Point And Click

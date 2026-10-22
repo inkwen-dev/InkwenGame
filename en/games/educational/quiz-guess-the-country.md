@@ -19,6 +19,6 @@ The colorful geography quiz game that turns learning maps into a fun and addicti
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Educational, Fun, Guessing, Kids, Mobile, Quiz, School

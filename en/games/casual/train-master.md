@@ -33,4 +33,4 @@ Dive into the exhilarating world of Train Master, an engaging puzzle game where 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: train
+- Tags: Train

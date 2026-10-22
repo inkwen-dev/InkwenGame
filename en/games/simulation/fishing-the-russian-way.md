@@ -17,4 +17,4 @@ Explore Central Russia's serene waters as you master the art of fishing. Upgrade
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

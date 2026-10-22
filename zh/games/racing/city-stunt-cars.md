@@ -21,4 +21,4 @@ W A S D 方向键移动 空格键刹车
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 汽车, 竞速
+- 标签: 3D游戏, 汽车, 竞速

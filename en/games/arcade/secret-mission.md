@@ -21,4 +21,4 @@ The agent assigned for a secret mission has entered the building through the roo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Arcade, Casual, Hot, Hypercasual, Jumping, Mobile, prison, Puzzle, WebGL
+- Tags: 3D, Adventure, Arcade, Casual, Hot, Hypercasual, Jumping, Mobile, Prison, Puzzle, WebGL

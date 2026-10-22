@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Baby, Baby Hazel, Balance, Ball, Ballon, Bubble Shooter, Candy, Classic, Fun, Funny, jump, Jumping, Kid, Kids, Mobile, Shoot, Shoot 'Em Up, Shooter, Shooting, Space, Spaceship

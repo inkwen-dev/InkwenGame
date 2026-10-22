@@ -19,6 +19,6 @@ World Cup is coming. What are you waiting for ? Click play button and strat agin
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Ballon, Boy, Boys, Football, Matching, Shoot, Sport, Sports, World

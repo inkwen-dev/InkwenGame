@@ -19,6 +19,6 @@ Use your mouse
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Adventure, Air, Arcade, Flight, fly, Girl, Girls, management, Plane, sky
+- Tags: 2D, Adventure, Air, Arcade, Flight, fly, Girl, Girls, Management, Plane, sky

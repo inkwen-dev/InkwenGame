@@ -19,6 +19,6 @@ Welcome to Anomaly Content Record, a terrifying horror adventure where your only
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, horror, Room, survival
+- Tags: Escape, Horror, Room, survival

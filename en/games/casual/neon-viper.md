@@ -19,6 +19,6 @@ Experience the Ultimate IO Battle Thrill! In Neon Viper, consume glowing dots to
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boy, H5

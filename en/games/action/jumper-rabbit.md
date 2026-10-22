@@ -21,4 +21,4 @@ Jump through the platforms and collect the carrots on the way. Press the mouse t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Arcade, Casual, Fun, HTML5, html5 games for your site, jump, Jumping, mouse, Platform, Rabbit
+- Tags: Animal, Arcade, Casual, Fun, HTML5, html5 games for your site, jump, Jumping, Mouse, Platform, Rabbit

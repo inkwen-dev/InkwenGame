@@ -19,6 +19,6 @@ Get ready for an adrenaline-pumping adventure in Cube Runner Adventure! Maneuver
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Android, Avoid, HTML5, Hypercasual, Kids, Obstacle, Puzzle, run, running

@@ -19,6 +19,6 @@ Bowling Stars is a fun bowling simulation game with 3D graphics! Think you can m
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 8 Ball Pool, Skill, Sport

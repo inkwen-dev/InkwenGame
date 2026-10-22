@@ -19,6 +19,6 @@ Crafty Candy is a funny and amazing match3 puzzle game. Swipe to match 3 delicio
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Match 3, Match3, Matching, Puzzle

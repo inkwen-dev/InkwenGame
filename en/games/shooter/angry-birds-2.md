@@ -19,6 +19,6 @@ Compete against the World in 24 NEW Angry Birds levels every week! Or take your 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bird, Boy, Boys, Girl, Girls, H5, HTML, HTML5, Hypercasual, jump, Mobile, Puzzle, Shoot, Shooter, Shooting

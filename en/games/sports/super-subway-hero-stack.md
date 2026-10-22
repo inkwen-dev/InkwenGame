@@ -19,6 +19,6 @@ subway Super hero Stack is a jumping game. Just Tap or click to jump over stacks
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Android, Baby Hazel, Ball, Baseball, Best, Billiard, Blood, Boxing, Boy, Brain, Bricks, Bridge, Business, Candy, Car, Cartoon, Castle, Cleaning, Fighting, Games, HTML5, Soccer, Super, Supercars, Superhero

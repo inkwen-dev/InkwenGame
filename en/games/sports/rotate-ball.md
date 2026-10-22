@@ -19,6 +19,6 @@ Rotate the objects around the screen to help land all of the balls into the goal
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Baseball, Basketball, Hypercasual, Physics

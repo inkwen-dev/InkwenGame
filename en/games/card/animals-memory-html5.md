@@ -21,4 +21,4 @@ Tap or click any card to reveal its card. Memorize it and try to find its pair i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Arcade, card, HTML5, Matching, Memory, Puzzle
+- Tags: Animal, Arcade, Card, HTML5, Matching, Memory, Puzzle

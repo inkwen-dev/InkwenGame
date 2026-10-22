@@ -19,6 +19,6 @@ Tomato Clicker - Idle Simulator is a fun and addictive clicker game where player
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Casual, Click, Clicker, Point And Click

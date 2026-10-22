@@ -19,6 +19,6 @@ Welcome to Games for Pets, the ultimate interactive game designed specifically f
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, Adventure, Cat, Family, Hello Kitty, Kids

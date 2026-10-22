@@ -19,6 +19,6 @@ Stickman Bow Clash is the action-packed sequel to Stickman Archery Ragdoll! Grab
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Arena, arrow, arrows, Bow, Stickman

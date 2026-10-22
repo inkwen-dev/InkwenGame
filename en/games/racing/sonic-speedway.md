@@ -19,6 +19,6 @@ subway rush racing Kart game is a dash classical Poppy racing plateforme. This c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cartoon, Racing, Sport

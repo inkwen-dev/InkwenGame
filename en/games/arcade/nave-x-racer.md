@@ -19,6 +19,6 @@ Play our new space game called Nave-X Racer. Casual Nave game developed for fun 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, fly, HTML5, Mobile, Skill, Space, Spaceship

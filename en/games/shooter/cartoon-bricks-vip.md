@@ -19,6 +19,6 @@ Relax your brain and play the best bricks breaker game this year. Touch and shoo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Arcade, Ball, Block, Bricks, Cartoon, Casual, Classic, endless, Fun, Highscore, Mobile

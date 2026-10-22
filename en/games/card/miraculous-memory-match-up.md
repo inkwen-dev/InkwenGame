@@ -21,4 +21,4 @@ Its possible now to play Miraculous Memory Match Up game in your web browser for
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Ben 10, Best, Boys, card, Cartoon, Cartoon Network, Casual, Celebrity, Click, Family, Fun, Girls, HTML5, Matching, Memory, Miraculous Ladybug, Mobile, Skills
+- Tags: Arcade, Ben 10, Best, Boys, Card, Cartoon, Cartoon Network, Casual, Celebrity, Click, Family, Fun, Girls, HTML5, Matching, Memory, Miraculous Ladybug, Mobile, Skills

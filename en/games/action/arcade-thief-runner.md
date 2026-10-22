@@ -19,6 +19,6 @@ Arcade Thief Runner is an exciting, fast-paced endless runner where you play as 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Android, Arcade, HTML5, iPad, iPhone, Mobile, Thief, Unity3D, WebGL

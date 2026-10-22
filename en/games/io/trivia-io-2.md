@@ -19,6 +19,6 @@ Trivia.io's second part is coming. From above we know astronomy, from below we k
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Brain, Educational, Kid, Kids, Puzzle, Quiz

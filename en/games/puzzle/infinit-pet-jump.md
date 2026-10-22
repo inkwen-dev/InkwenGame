@@ -19,6 +19,6 @@ Classic infinity jump game The objective of this game is to get as high as possi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Animal, Baby, Boy, Cat, fly, Girl, HTML5, jump, Jumping, Kids

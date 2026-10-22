@@ -19,6 +19,6 @@ Train Traffic Car Race is a 3D car simulation game. You only need to hold the sc
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Driving, Kids, Mobile, Race, Skill, train
+- Tags: Car, Driving, Kids, Mobile, Race, Skill, Train

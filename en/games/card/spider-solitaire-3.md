@@ -19,6 +19,6 @@ Experience Spider Solitaire, one of the popular single-player card games. Arrang
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Classic, Collecting, Logic, Puzzle
+- Tags: Card, Classic, Collecting, Logic, Puzzle

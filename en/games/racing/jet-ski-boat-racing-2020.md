@@ -21,4 +21,4 @@ Jet ski racer! Are you ready for the top speed Jet ski racing in water boat shoo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Boy, Interactive, Race, Racing
+- Tags: Boat, Boy, Interactive, Race, Racing

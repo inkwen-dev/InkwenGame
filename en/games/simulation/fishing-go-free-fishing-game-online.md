@@ -19,6 +19,6 @@ Master Bass Angler is an arcade Bass fishing game that was created BY Bass Fishe
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Animal, Boys, Fish, fishing, Game, Games, Girls, Ice, Kids, Online
+- Tags: .io Games, Animal, Boys, Fish, Fishing, Game, Games, Girls, Ice, Kids, Online

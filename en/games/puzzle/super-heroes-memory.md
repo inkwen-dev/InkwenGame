@@ -19,6 +19,6 @@ Super Heroes Memory is a kid's memory game with all popular superheroes. at the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Matching, Memory, Puzzle

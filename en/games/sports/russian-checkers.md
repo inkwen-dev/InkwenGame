@@ -21,4 +21,4 @@ Russian Checkers with a computer for free and without registration on the full s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Board, Logic, Logical, Multiplayer, Puzzle, pvp, Sport, Turn Based, two player games
+- Tags: 2 Player, 2 Player Games, Board, Logic, Logical, Multiplayer, Puzzle, PvP, Sport, Turn Based, two player games

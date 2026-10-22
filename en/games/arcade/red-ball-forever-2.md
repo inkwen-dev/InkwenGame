@@ -19,6 +19,6 @@ Red Ball Forever 2 is an exciting Platformer where you must race through the lev
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ball, Kiz 10, kiz10

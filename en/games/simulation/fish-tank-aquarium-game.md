@@ -21,4 +21,4 @@ The fish aquarium game is taking care of your own pet fish and building an aquar
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2025 games, 3D Games, Arcade, Ball, Best Games, Fish, fishing, Fun, Relaxation, Tank
+- Tags: 2025 games, 3D Games, Arcade, Ball, Best Games, Fish, Fishing, Fun, Relaxation, Tank

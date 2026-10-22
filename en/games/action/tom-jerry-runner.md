@@ -19,6 +19,6 @@ Winter is here and Jerry is hungry! Really hungry! Jerry is on a mission to get 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Cartoon, Cartoon Network, Fire, HTML5, Hypercasual, run, Unity3D

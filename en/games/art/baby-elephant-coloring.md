@@ -19,6 +19,6 @@ Baby Elephant Coloring is a coloring game where you can color any of the eight i
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Color, Coloring, HTML5, Kids, Puzzle

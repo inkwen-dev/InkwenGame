@@ -21,4 +21,4 @@ In The Best Warrior, you start as a humble peasant with one goal&mdash;to become
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, attack, Battle, Best, Best Games, Click, Clicker, Fighting, Knight, Pixel, rpg, Sword, Warrior
+- Tags: Action, Adventure, attack, Battle, Best, Best Games, Click, Clicker, Fighting, Knight, Pixel, RPG, Sword, Warrior

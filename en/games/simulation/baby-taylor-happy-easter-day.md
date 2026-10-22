@@ -19,6 +19,6 @@ Every Easter, an Easter party is held in Taylor's house. Jessica and Tom like th
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Baby, Coloring, Cooking, Cute, Decorate, Design, Food, Girl, Girls, Hidden, Holiday, Puzzle, Simulation

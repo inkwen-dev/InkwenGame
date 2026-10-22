@@ -19,6 +19,6 @@ Here is a normal platform-running arcade game that is made from 3D transformer v
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Aircraft, Arcade, Avoid, Car, Collecting, HTML5, Mobile, Robot

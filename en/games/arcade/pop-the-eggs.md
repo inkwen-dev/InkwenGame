@@ -19,6 +19,6 @@ An addicted hypercasual / clicker game, simple control, nice design, fun, challe
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Casual, Easter, HTML, Mobile

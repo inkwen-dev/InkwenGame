@@ -19,6 +19,6 @@ Monsters are scary but not in this game! The monsters in this game are very cute
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Game, HTML, HTML5, Hypercasual, Monster, Puzzle

@@ -21,4 +21,4 @@ Farmer Tractor Cargo Simulation is the mostpopular tractor cargo simulator game 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Car, farm, HTML5, Simulator, WebGL
+- Tags: 3D, Car, Farm, HTML5, Simulator, WebGL

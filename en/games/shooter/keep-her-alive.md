@@ -19,6 +19,6 @@ Keep Her Alive is a precision puzzle game where you don&rsquo;t fight enemies &m
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Funny, Girl, Gun, Puzzle

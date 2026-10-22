@@ -19,6 +19,6 @@ Dodge obstacles hurdling towards your character while navigating through the cur
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Casual, Collecting, endless, Highscore, Level, Mobile, Obstacle, Pixel, Skill, unity games, unity games for your site, unity games for your website, WebGL

@@ -21,4 +21,4 @@ Halloween Monster Match is a simple cool game that requires finding match card p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, Family, Girl, Girls, Halloween, Kid, Kids, Match 3, Matching, Memory
+- Tags: Brain, Card, Family, Girl, Girls, Halloween, Kid, Kids, Match 3, Matching, Memory

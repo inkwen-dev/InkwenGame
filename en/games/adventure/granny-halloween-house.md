@@ -21,4 +21,4 @@ Want an exciting and scary adventure? Granny: Halloween House is a 3D survival h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, Halloween, horror
+- Tags: Escape, Halloween, Horror

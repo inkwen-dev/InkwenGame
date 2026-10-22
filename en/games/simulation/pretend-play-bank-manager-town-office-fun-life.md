@@ -19,6 +19,6 @@ Explore town bank to perform manager job in pretend office games Welcome to pret
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, Arcade, Best, Boys, Casual, Funny, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online, Simulation, Simulator

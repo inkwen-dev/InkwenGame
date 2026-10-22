@@ -19,6 +19,6 @@ Santa Runner will make you frustrate, annoy, addicted to play again and again. C
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Flight, fly, Game, Online, Play, run, running, Snow

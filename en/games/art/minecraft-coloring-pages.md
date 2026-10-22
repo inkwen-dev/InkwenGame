@@ -19,6 +19,6 @@ Minecraft Coloring Pages is a free online coloring and kids game, where he exerc
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Color, Coloring, Craft, Crafting, HTML5, Kids, Minecraft, Mobile, Skill

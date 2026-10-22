@@ -19,6 +19,6 @@ It's the classic kid version of the Drums! It's a great app for your little one!
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Family, HTML, HTML5, Mobile, Music

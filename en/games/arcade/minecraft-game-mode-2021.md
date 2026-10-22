@@ -19,6 +19,6 @@ Minecraft Game Mode 2021 Minecraft Remake 2021 Classic Minecraft game 2021! Expl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, Craft, Crafting, Creation, Mind, Mine, Minecraft, Miner

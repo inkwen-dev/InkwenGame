@@ -19,6 +19,6 @@ As a classic game, Candy Bubble shooter is popular at all over the world. No mat
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Bubble, Bubble Shooter, Cake, Candy, Classic, Girl, HTML5, Kid, Match 3, WebGL

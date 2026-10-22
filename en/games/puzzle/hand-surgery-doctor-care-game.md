@@ -19,6 +19,6 @@ Hand Surgery Doctor Care - Free Doctor Games : Enjoy the thrill of being a super
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Adult, Adventure, Android, Arcade, Boy, Boys, Bubble, Bubble Shooter, burger, CSGO, Doctor, drift, Friv, Frozen, Fruit, Fruits, Game, Holiday, Ladybug, management, Miraculous Ladybug, Road, Undead
+- Tags: .io Games, 2 Player Games, 3D Games, Adult, Adventure, Android, Arcade, Boy, Boys, Bubble, Bubble Shooter, Burger, CSGO, Doctor, drift, Friv, Frozen, Fruit, Fruits, Game, Holiday, Ladybug, Management, Miraculous Ladybug, Road, Undead

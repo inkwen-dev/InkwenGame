@@ -19,6 +19,6 @@ Bubble Shooter Fruits Candies is a Classical bubble shooter game with many new i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bubble, Bubble Shooter, Candy, Fruits, Girls, HTML5, Mobile, Puzzle, Shooter

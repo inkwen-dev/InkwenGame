@@ -24,4 +24,4 @@ A secret awaits at the end of the game...
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Brain, cozy, mouse, Puzzle
+- Tags: Brain, cozy, Mouse, Puzzle

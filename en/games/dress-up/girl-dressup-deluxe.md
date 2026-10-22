@@ -19,6 +19,6 @@ Choose your character and then have fun dressing them up with new clothing, hair
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Dress Up, Fashion, Fun, Girls, HTML5, Makeover, Mobile

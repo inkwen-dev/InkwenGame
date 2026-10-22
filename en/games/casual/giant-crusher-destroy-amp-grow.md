@@ -19,6 +19,6 @@ Turn a small robot into a giant wrecking machine! Smash crates and buildings wit
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, destruction, idle, Mobile, Robot, WebGL

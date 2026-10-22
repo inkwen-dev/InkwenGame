@@ -19,6 +19,6 @@ Your parents sent you to a camp for the weekend, and it's really spooky! All you
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Escape, HTML5, Point And Click

@@ -19,6 +19,6 @@ Welcome to Sigil Seeker!\\\\nEmbark on a quest to collect mystical sigils by tap
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, html5 games, Mahjong, Matching, Mobile

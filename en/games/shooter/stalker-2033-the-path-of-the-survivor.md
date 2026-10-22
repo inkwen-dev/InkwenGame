@@ -50,4 +50,4 @@ Stalker 2033: The Path of the Survivor – A 3D action shooter set in a post-apo
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, First Person Shooter, Halloween, horror, Shooting, story, survival, Zombie
+- Tags: 3D, Action, First Person Shooter, Halloween, Horror, Shooting, story, survival, Zombie

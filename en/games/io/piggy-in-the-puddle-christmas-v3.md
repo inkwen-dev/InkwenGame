@@ -19,6 +19,6 @@ Puzzle out how to get the tiny swine into the tub full of mud. Clear the way and
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player, 2D, Air

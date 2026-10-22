@@ -17,4 +17,4 @@ In Stacklands, build and manage a thriving village by stacking cards. Craft tool
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

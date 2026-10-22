@@ -19,6 +19,6 @@ Get ready for a fun and immersive shape journey. Try to pass the shapes through 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Ball, Best, Block, Clicker, Hot, HTML5, Hypercasual, Kids, Matching, Puzzle, WebGL

@@ -19,6 +19,6 @@ The "Monster Block Online Platformer Endless Runner Game" is a great choice for 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Game, Games, HTML5, Online

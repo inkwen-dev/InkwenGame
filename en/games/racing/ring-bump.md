@@ -19,6 +19,6 @@ The player touches right or left to rev up or slow down their car in order to av
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Car, Casual, city, Collecting, Fun, Race, Racing

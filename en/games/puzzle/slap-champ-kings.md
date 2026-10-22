@@ -19,6 +19,6 @@ Slap or be slapped: that’s the name of the game! This amusing and relaxing gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Arcade, Casual, Match 3, Puzzle

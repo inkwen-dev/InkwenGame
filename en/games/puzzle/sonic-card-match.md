@@ -19,6 +19,6 @@ Sonic the Hedgehog is the title character and the protagonist of the Sonic the H
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Match 3, Puzzle
+- Tags: Card, Match 3, Puzzle

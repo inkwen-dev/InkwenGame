@@ -49,4 +49,4 @@ Made by a solo developer; art and sounds were created with the help of AI tools 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Arcade, cozy, fishing, Monster, Simulation, Skill
+- Tags: Adventure, Arcade, cozy, Fishing, Monster, Simulation, Skill

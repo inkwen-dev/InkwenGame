@@ -19,6 +19,6 @@ The hippo's dental office is crowded. Piglet, Puppy, and Lion cub all have a too
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Doctor, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

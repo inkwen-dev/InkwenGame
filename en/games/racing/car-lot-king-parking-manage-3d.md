@@ -19,6 +19,6 @@ Car Lot King Parking Manage 3D is a pure parking game, you just need to park eac
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Kids, King, management, Mobile, Parking, Puzzle, Skill
+- Tags: Car, Kids, King, Management, Mobile, Parking, Puzzle, Skill

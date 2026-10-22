@@ -19,6 +19,6 @@ You need to spot out the different animal within a lot of the similar ones befor
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Brain, Casual, Fun, HTML, Mobile

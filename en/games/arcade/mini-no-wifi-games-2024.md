@@ -19,6 +19,6 @@ But relaxation isnt just about what you do &ndash; its also about how you feel. 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2D, 3D Games, Adventure, Baby Games, Casual, free games for your site, free games for your website, Relaxation

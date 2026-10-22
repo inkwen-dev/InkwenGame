@@ -19,6 +19,6 @@ Ever wanted to try a go-kart simulator? Now you can drive, skid and experience a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Car, Cars, Casual, Cool, Crazy, drift, Driving, Fun, HTML5, Kart, Kids, Racing, Stunts, Unity3D, WebGL

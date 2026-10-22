@@ -21,4 +21,4 @@ Chicken Escape is a 3D stealth puzzle on a colorful farm. Play as a clever chick
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Animal, Chicken, Escape, farm, Levels, Mobile, Puzzle, sneak, Stealth
+- Tags: 3D, 3D Games, Animal, Chicken, Escape, Farm, Levels, Mobile, Puzzle, sneak, Stealth

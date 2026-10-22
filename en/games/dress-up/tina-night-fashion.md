@@ -19,6 +19,6 @@ Tina is going out tonight. She will meet with her friends and have fun. What clo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Game, Games, Girl, Girls, HTML5

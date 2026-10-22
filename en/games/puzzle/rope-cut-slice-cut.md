@@ -19,6 +19,6 @@ New top Trending game, Ready to Beautiful Reskin. Simple Cool Controls by Slice.
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, cut, Hypercasual, Puzzle

@@ -19,6 +19,6 @@ FZ Blaster Fruit - This is the most addictive blocks game ever! Match blocks of 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kid, Kids, Puzzle

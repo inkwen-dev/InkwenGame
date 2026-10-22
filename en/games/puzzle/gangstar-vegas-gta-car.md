@@ -19,6 +19,6 @@ Gangstar Vegas is a role-playing game to become the leader of a gang in Las Vega
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 8 Ball Pool, Action, Adult, Adventure, Android, Arcade, Army, Boy, Boys, Bubble, Bubble Shooter, bus, Candy, Car, Cars, drift, drifting, Driving, Game, Games, Mario, Parking, Sim, Simulation, Simulator, Supercars, Truck

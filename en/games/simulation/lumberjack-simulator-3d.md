@@ -35,4 +35,4 @@ A dynamic day-night cycle, a living world and full control over your progress ma
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, management, Simulation, tycoon
+- Tags: 3D, Management, Simulation, tycoon

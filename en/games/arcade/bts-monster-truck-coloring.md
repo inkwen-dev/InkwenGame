@@ -19,6 +19,6 @@ BTS Monster Truck Coloring is an online game that you can play for free alone or
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Color, Coloring, Fun, Game, Games, Girls, HTML5, Kids, School

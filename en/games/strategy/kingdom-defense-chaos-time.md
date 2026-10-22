@@ -19,6 +19,6 @@ Defend your castle with wizards, ghosts, demons and many monsters in Kingdom Def
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best, Castle, Defense, HTML5, Tower Defense, WebGL

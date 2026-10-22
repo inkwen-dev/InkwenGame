@@ -19,6 +19,6 @@ Click Bubbles is a simple and fun click puzzle game. Click 2 or more bubbles to 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Click, Clicker, HTML5, Mobile

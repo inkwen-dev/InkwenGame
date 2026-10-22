@@ -19,6 +19,6 @@ Claire wants to learn how to decorate fruits and vegetables. In this game, you w
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cooking, Girl, Girls, Skill

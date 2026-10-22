@@ -19,6 +19,6 @@ Play Barbie Sweet Matching Game is a match-3 type game. Swap to match 3 or more 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Fashion, Puzzle

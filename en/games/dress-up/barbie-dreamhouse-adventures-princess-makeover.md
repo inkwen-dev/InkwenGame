@@ -19,6 +19,6 @@ Create your very own Barbie Dreamhouse experience! You can design every room. Me
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Adventure, Barbie, Best, Dress Up, Girl, Girls, Kids, Makeover, New, Princess

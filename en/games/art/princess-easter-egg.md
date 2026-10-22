@@ -19,6 +19,6 @@ Let your kids showcase their creativity this Easter by painting and decorating E
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Coloring, Decorate, Decoration, Drawing, Easter, Fun, Girls, HTML5, Kids, Mobile, Princess

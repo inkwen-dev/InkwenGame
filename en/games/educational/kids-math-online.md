@@ -19,6 +19,6 @@ Kids Math Online is a Educational game that offers a variety of free online math
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, endless, HTML, HTML5, Hypercasual, Online

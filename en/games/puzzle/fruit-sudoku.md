@@ -19,6 +19,6 @@ Sudoku is a famous logic puzzle games. If you like sudoku games, this Fruit Sudo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fruit, Fruits, HTML5, Logic, Mobile, sudoku
+- Tags: Fruit, Fruits, HTML5, Logic, Mobile, Sudoku

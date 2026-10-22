@@ -21,4 +21,4 @@ Different loggers, the same addictive idle game. Conquer the forest and upgrade 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boys, Clicker, endless, H5, Hypercasual, Kids, management, Online, Sword
+- Tags: Boys, Clicker, endless, H5, Hypercasual, Kids, Management, Online, Sword

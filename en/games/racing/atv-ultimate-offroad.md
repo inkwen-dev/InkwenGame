@@ -19,6 +19,6 @@ A great ATV simulator is beginning with the ATV Ultimate OffRoad game! The game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, 3D Games, Car, car tuning, crash, Driving, monstertruck, Race, Racing

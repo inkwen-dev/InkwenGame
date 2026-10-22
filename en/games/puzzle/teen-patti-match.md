@@ -19,6 +19,6 @@ The Teen Patti Match 3 Puzzle online game is a fun and challenging way to test y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Casual, Game, Games, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Puzzle
+- Tags: Card, Casual, Game, Games, HTML, HTML5, Hypercasual, Match 3, Match3, Matching, Puzzle

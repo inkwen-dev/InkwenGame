@@ -19,6 +19,6 @@ Barbershop-Inc-Online is a delightful idle game where you can experience the exc
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Clicker, Girl, management, Simulation, Strategy
+- Tags: 3D, Clicker, Girl, Management, Simulation, Strategy

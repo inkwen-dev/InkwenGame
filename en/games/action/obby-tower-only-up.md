@@ -19,6 +19,6 @@ Only Up Obby: Tower Climb is a 3D parkour obby where the only way is up! Climb a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Cat, Click, Funny, OnlyUp, roblox, sky

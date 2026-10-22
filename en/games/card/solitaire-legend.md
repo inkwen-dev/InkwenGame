@@ -21,4 +21,4 @@ Do you remember the times without internet? Passing time playing the same old ga
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, HTML, HTML5, King, Logic, Logical, Puzzle, Solitaire
+- Tags: Card, Casual, HTML, HTML5, King, Logic, Logical, Puzzle, Solitaire

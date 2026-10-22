@@ -19,6 +19,6 @@ Dear friends, are you going to do something for the ball tonight? Would you like
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Baby, Baby Games, Dress Up, Fashion, Hair, HTML5, Kid, Kids

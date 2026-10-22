@@ -21,4 +21,4 @@ Fun numbers game with solitaire flavor to relax and unwind while keeping your mi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, HTML5, Number, Solitaire
+- Tags: Card, HTML5, Number, Solitaire

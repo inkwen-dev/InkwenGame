@@ -21,4 +21,4 @@ In this game, you need to fill a 9&times;9 grid with numbers so that each column
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: free html5 games for your website, Puzzle, sudoku
+- Tags: free html5 games for your website, Puzzle, Sudoku

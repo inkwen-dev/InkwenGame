@@ -19,6 +19,6 @@ Collect numbers and characters of the same color on the platform to kill the bos
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Battle, Escape, Hypercasual, Island, Online, run, running, Unity3D, WebGL

@@ -19,6 +19,6 @@ Move pieces of ancient Egypt images between tiles to arrange them in correct ord
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, HTML5, Jigsaw, Kids, Mobile

@@ -19,6 +19,6 @@ Command your archers to defend your tower in Kingdom Guards - Tower Defense. Sho
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Castle, Casual, Defense, HTML5, Hypercasual, King, Shooting, Strategy, Tower Defense

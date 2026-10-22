@@ -21,4 +21,4 @@ In this new era, all national leagues have been removed and now all teams play i
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: management, Soccer
+- Tags: Management, Soccer

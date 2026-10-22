@@ -19,6 +19,6 @@ Harvest Cut Master game is a fun puzzle game consisting of 55 Levels in total. I
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Casual, farm, Fun, Funny, Puzzle
+- Tags: 3D, Casual, Farm, Fun, Funny, Puzzle

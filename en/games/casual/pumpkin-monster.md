@@ -19,6 +19,6 @@ Pumpkin Monster is a fun anti-stress game where you get to kick a pumpkin. You c
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Halloween, Mobile, Physics

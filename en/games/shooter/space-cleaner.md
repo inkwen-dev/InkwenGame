@@ -32,4 +32,4 @@ With simple controls, satisfying destruction mechanics, and progressive upgrades
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, idle, mouse, Space
+- Tags: Arcade, idle, Mouse, Space

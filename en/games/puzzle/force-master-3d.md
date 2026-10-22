@@ -19,6 +19,6 @@ Force Master 3D is a battle Math online game for boys for free. In the game, all
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Boy, Brain, Fun, HTML5, Kids, Math, Number, Online, Puzzle

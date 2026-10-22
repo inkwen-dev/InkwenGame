@@ -19,6 +19,6 @@ Go on a campaign and make great victories! Explore the depths of an ancient dung
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Battle, Fantasy, Magic, Match 3, Match3, Matching, MMO, Mobile, Online, pvp, rpg, Superhero
+- Tags: Adventure, Battle, Fantasy, Magic, Match 3, Match3, Matching, MMO, Mobile, Online, PvP, RPG, Superhero

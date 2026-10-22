@@ -19,6 +19,6 @@ Grand fruit slasher is out! Gameplay is zero hassle. Time your throws carefully 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Casual, Color, Fruit, Fruits, Fun, Girl, Hypercasual

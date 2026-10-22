@@ -19,6 +19,6 @@ It's possible now to play Iron Man: Rise of Ultron game in your web browser for 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Avoid, Battle, Boys, Brain, Defense, Fun, Girls, HTML, HTML5, Kids, movie, Puzzle, Shooting, Super, Superhero
+- Tags: Action, Adventure, Avoid, Battle, Boys, Brain, Defense, Fun, Girls, HTML, HTML5, Kids, Movie, Puzzle, Shooting, Super, Superhero

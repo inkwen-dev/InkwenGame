@@ -19,6 +19,6 @@ Taylor is a girl who likes dessert very much. Her favorite is ice cream. Today, 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cleaning, Cooking, Doctor, Dress Up, Educational, Food, Girl, Girls, Kids, Simulation, Surgery

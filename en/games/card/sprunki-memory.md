@@ -19,6 +19,6 @@ Sprunki Memory offers you to simultaneously train and test your visual memory. C
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, card, Fun, Funny, Kids, Matching, Memory, Skill, Sprunki
+- Tags: Best, Card, Fun, Funny, Kids, Matching, Memory, Skill, Sprunki

@@ -19,6 +19,6 @@ GoTet.io is a tile matching growing game. You start with a 2x2 square and you mo
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Block, Bricks, Classic, Collecting, Fun, HTML5, Hypercasual, Mobile, Retro, Tetris

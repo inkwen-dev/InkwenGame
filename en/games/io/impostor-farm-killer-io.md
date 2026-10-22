@@ -21,4 +21,4 @@ Get ready for an action-packed impostor game. Grow your family with the food fou
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Battle, Best, Casual, farm, Fun, Funny, Kids, Mobile, Multiplayer, Strategy, WebGL
+- Tags: .io, .io Games, 3D, Battle, Best, Casual, Farm, Fun, Funny, Kids, Mobile, Multiplayer, Strategy, WebGL

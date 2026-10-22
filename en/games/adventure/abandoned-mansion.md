@@ -40,4 +40,4 @@ Hidden rooms and items
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, Escape, Ghost, horror, scary, survival
+- Tags: 3D, Adventure, Escape, Ghost, Horror, scary, survival

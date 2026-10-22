@@ -19,6 +19,6 @@ Thank you for playing Ice Queen Princess Nails Salon : One of the most satisfyin
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby, Barbie, Casino, Dress Up, Family, Girl, Girls, Makeover, Nail, Nails, Puzzle

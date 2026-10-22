@@ -19,6 +19,6 @@ Minecraft Noob vs. Zombies 3 is a thrilling walkthrough game that will take you 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Android, Best, HTML5, Minecraft, Mobile, Online, Shooter, Zombie

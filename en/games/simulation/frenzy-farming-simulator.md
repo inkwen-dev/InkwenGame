@@ -19,6 +19,6 @@ First, grow your plants and feed your chickens with Frenzy Farming Simulator, a 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Best, Casual, Fantasy, farm, Fun, Funny, Hypercasual, Kids, Mobile, Simulation, Simulator, WebGL
+- Tags: Adventure, Arcade, Best, Casual, Fantasy, Farm, Fun, Funny, Hypercasual, Kids, Mobile, Simulation, Simulator, WebGL

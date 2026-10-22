@@ -19,6 +19,6 @@ Cook, serve and enjoy delicious food in FREE time management games!. Cooking Fes
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cooking, Game, Games, Girl, Girls

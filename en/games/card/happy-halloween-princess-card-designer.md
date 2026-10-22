@@ -21,4 +21,4 @@ Soon your favorite holiday! Halloween is a time of miracles, horror and sweets. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Design, Halloween, Holiday
+- Tags: Card, Design, Halloween, Holiday

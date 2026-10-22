@@ -21,4 +21,4 @@ Here is a relaxation vehicle survival game with 3D stickman models and vehicles.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arena, Battlegrounds, Car, Clash, Ever After High, farm, Fight, H5
+- Tags: Arena, Battlegrounds, Car, Clash, Ever After High, Farm, Fight, H5

@@ -19,6 +19,6 @@ Quiz is a great way to spend time in a fun and useful way. The game will help yo
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Quiz, School, Skill

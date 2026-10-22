@@ -19,6 +19,6 @@ In 2 groups, either as a team of 2 or 4 people, kill all the monsters and help t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Adventure, Android, Arcade, Mobile

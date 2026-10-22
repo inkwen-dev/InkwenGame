@@ -17,4 +17,4 @@ Dive into a world of peril where trees need your protection! Save Tree challenge
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

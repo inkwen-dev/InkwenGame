@@ -19,6 +19,6 @@ The shop owner needs to take a rest for several days because of the physical dis
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Arcade, Kids, Shopping, Simulation, Superhero

@@ -19,6 +19,6 @@ Discover the ultimate brain teaser with Brain Quiz: Quizzland! Start playing now
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Puzzle, Quiz, Unity3D

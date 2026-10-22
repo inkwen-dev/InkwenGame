@@ -21,4 +21,4 @@ Assassin's Creed Valhalla : Hidden Star is a 2021 action role-playing video game
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Adventure, Arcade, Boy, Boys, Cartoon Network, Fight, movie
+- Tags: 1 Player, Action, Adventure, Arcade, Boy, Boys, Cartoon Network, Fight, Movie

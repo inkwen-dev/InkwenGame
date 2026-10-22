@@ -19,6 +19,6 @@ Get ready for an exciting level-based space game! Steer the spacecraft to pass t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Air, Aircraft, Android, Arcade, Best, Cartoon, Casual, Driving, fly, Hot, Hypercasual, Mobile, Racing, Space, Spaceship

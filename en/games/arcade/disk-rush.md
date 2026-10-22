@@ -19,6 +19,6 @@ Disk Rush is a fast-paced 3D arcade game, you need to react really fast to get a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D, 3D Games, Arcade, Side Scrolling

@@ -19,6 +19,6 @@ Run from the Impostor! Press the emergency meeting button before he gets you, bu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, Platform, Race, run, running, temple

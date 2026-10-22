@@ -19,6 +19,6 @@ Are you ready to enter the crime city? The big battle begins with gangs in San A
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Boys, city, HTML5, Race, Shoot, Shooter, WebGL

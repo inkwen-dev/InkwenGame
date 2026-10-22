@@ -19,6 +19,6 @@ Sharks are hungry. Swipe 3 identical seafood to remove the block. Getting 4 or m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Hypercasual, Puzzle, Shark

@@ -19,6 +19,6 @@ The scene of Dragon City Destroyer is all set for the new contesters of flying d
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, city, Dragon, Fire, Flight, HTML5, WebGL

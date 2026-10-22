@@ -21,4 +21,4 @@ On this hot summer day, meet the new stars of the beach - Bonnie and her BFF! A 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, rpg
+- Tags: 2D, Anime, Barbie, Cartoon, Cute, Dress Up, Elsa, Fashion, RPG

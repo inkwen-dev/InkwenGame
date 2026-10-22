@@ -19,6 +19,6 @@ American football, referred to as football in the United States and Canada, and 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Brain, card, Cartoon, Football, Match 3, Memory, Puzzle, Sports
+- Tags: Brain, Card, Cartoon, Football, Match 3, Memory, Puzzle, Sports

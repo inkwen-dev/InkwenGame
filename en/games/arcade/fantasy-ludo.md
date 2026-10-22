@@ -19,6 +19,6 @@ Fantasy Ludo is a fancy game of ludo with fantasy elements. There are 3 teams co
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2D, Arcade, Board, Casual, Family, Fantasy, Fun, HTML5, Mobile

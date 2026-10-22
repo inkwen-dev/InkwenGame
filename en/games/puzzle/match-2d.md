@@ -19,6 +19,6 @@ Get ready for a new, challenging and original matching pair game? You need to ma
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D, Boy, Boys, Brain, endless, Family, Funny, Game, Games, Girl, Girls, HTML, HTML5, Kid, Kids, Match 3, Matching, Puzzle, Unity3D

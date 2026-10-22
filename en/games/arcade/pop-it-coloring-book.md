@@ -19,6 +19,6 @@ Pop It Coloring Book is super fun coloring game that you can play online for fre
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Coloring, Fun, Games, Girls, HTML5, Kids, Mobile

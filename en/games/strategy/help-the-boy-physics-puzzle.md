@@ -19,6 +19,6 @@ Help The Boy: Physics Puzzle is an enthralling adventure game that poses a chall
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ballon, Best, Boy, Brain, iPad, iPhone, Kids, Logic, Mobile, Online, Physics, Puzzle, Science, Strategy

@@ -19,6 +19,6 @@ Test your skills and see how many levels you can conquer in this thrilling 25 ma
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Casual, free html5 games for your website, kiz10, Maze, Puzzle, puzzleblock, smash, tomb

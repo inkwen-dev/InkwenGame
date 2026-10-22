@@ -19,6 +19,6 @@ Educational games for kindergarten are the most popular way to study for childre
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Dora, Draw, Educational, farm, Girls, Horse, Kid, Kids, Magic, Online, Princess, Simulation
+- Tags: Animal, Dora, Draw, Educational, Farm, Girls, Horse, Kid, Kids, Magic, Online, Princess, Simulation

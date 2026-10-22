@@ -19,6 +19,6 @@ Impossible ball runner game will take you engaged for long hours. Enjoy all the 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Ball, HTML5, run, WebGL

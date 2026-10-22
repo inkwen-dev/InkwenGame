@@ -19,6 +19,6 @@ Welcome to Challenge the Basketball, an exciting and addictive basketball challe
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, amazing, Basketball, Football, Fun, Sports

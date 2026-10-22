@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 2D, Action, Android, Animal, Arcade, Baby, Baby Hazel, Brain, Cake, Candy, Classic, Defense, Fun, Funny, Kid, Kids, Mind, Mobile, Puzzle

@@ -19,6 +19,6 @@ The famous game Handless Millionaire comes with a zombie mode. the same goal in 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Blood, Monster, Zombie

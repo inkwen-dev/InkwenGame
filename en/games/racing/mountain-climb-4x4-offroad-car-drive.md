@@ -19,6 +19,6 @@ Mountain Climb 4x4 : Offroad Car Drive is a realistic simulation and racing game
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Car, Cars, Fun, Funny, Gun, Race, Racing, Road, run, running, Simulation, Stunts, Supercars, Unity3D

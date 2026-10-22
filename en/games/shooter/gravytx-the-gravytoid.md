@@ -19,6 +19,6 @@ Play as GravytX an alien who has the ability to control objects remotely and man
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Android, Arcade, Brain, Casual, Classic, Fun, Funny, Game, Games, Mobile, Pixel, Platform, Puzzle, Retro, run, running, Shoot, Shooter, Space

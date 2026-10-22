@@ -21,4 +21,4 @@ In this simple game you will try to control the trafic lights to avoid crash bet
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Car, management, Traffic
+- Tags: Brain, Car, Management, Traffic

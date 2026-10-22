@@ -19,6 +19,6 @@ truck racing game for those who love driving fast on the subway or the highway. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 2D, Cars, Driving, Minecraft, Racing

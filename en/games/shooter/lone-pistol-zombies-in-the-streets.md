@@ -19,6 +19,6 @@ Fast paced shooting game. Make a stand against countless waves of roaming zombie
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Gun, Shoot, Shoot 'Em Up, Shooter, weapons, Zombie

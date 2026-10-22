@@ -19,6 +19,6 @@ A classic game of dominoes! Whether you are an experienced player or you haven´
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Block, Board, Draw, HTML5

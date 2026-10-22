@@ -19,6 +19,6 @@ Ice Cream Toppings is a delightful and fast-paced online game made especially fo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Cooking, Creation, Funny, Girls, Hypercasual, Matching, Memory, Puzzle, Skill

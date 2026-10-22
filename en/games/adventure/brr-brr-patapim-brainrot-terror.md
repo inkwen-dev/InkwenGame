@@ -17,4 +17,4 @@ Awaken in a decaying house where horror lurks at every turn. Collect hidden tote
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

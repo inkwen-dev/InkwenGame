@@ -19,6 +19,6 @@ Challenge your brain with Vowel Vs Consonant! This fun educational game helps ch
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, HTML5, html5 games, Kid, Kids, NapTech Games, Online, Skills

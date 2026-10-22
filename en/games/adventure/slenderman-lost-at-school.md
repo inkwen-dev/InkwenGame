@@ -19,6 +19,6 @@ Slenderman Lost at School is a chilling online horror game that thrusts players 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Escape, horror, kiz10, Level
+- Tags: Escape, Horror, kiz10, Level

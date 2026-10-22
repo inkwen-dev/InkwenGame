@@ -19,6 +19,6 @@ Look who's back! This is the charming Blondie and her boyfriend Kenny. They are 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Cute, Design, Dress Up, Fashion, Fun, Funny, Girl, Hair, Makeover

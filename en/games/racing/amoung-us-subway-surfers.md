@@ -19,6 +19,6 @@ Endless running games have never been this addictive and fun with Imposter Runne
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Boys, Candy, Car, Cars, Game, Games, Girl, Girls, Hypercasual, Police, run, running, Stickman, subway, Subway Surfers, Supercars, Traffic, train, War
+- Tags: .io Games, 2 Player Games, 3D Games, Action, Adventure, Arcade, Boys, Candy, Car, Cars, Game, Games, Girl, Girls, Hypercasual, Police, run, running, Stickman, subway, Subway Surfers, Supercars, Traffic, Train, War

@@ -21,4 +21,4 @@ The game "Kung Fu Panda Puzzles" will help you to visit an amazing world in whic
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Anime, Arcade, Best, Cartoon, Cartoon Network, Jigsaw, movie, Panda, Puzzle
+- Tags: Anime, Arcade, Best, Cartoon, Cartoon Network, Jigsaw, Movie, Panda, Puzzle

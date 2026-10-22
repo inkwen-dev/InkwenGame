@@ -19,6 +19,6 @@ Win the race by clicking on the correct answer to speed up the motorcycle. Click
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, HTML5, Math, Mobile, Puzzle, Racing, School

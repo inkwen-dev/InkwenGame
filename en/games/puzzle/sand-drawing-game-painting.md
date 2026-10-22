@@ -21,4 +21,4 @@ This Draw Beach Sand Name Art app will help you to draw, write your name on the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 8 Ball Pool, Adventure, Baseball, Basketball, Battle, Battlegrounds, Bike, Block, Boy, Boys, Bubble, Bubble Shooter, Candy, Cars, Cartoon, Cartoon Network, Chicken, Christmas, Clash, Ever After High, farm, Fun, Funny, Game, Games, Girl, Girls, Grooming, Jelly, Jewel, Jigsaw, jump, Jumping, Kart, Moto, Sandbox
+- Tags: 8 Ball Pool, Adventure, Baseball, Basketball, Battle, Battlegrounds, Bike, Block, Boy, Boys, Bubble, Bubble Shooter, Candy, Cars, Cartoon, Cartoon Network, Chicken, Christmas, Clash, Ever After High, Farm, Fun, Funny, Game, Games, Girl, Girls, Grooming, Jelly, Jewel, Jigsaw, jump, Jumping, Kart, Moto, Sandbox

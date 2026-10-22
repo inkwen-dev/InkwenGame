@@ -19,6 +19,6 @@ Experience the ultimate shooting adventure. In Pubg Hack, you step into the batt
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: battleship, Shoot, Strategy, weapons

@@ -21,4 +21,4 @@ Test your strategy and speed in Shelf Shift Match! Shift items on the shelves to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: html5 games, Match 3, Matching, Mobile, Puzzle, sort, sorting
+- Tags: html5 games, Match-3, Matching, Mobile, Puzzle, sort, sorting

@@ -19,6 +19,6 @@ Welcome to Space Rider. This game have consist of 30 levels where you have to av
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Clicker, Hypercasual, Puzzle

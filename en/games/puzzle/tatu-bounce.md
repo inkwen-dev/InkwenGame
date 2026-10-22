@@ -19,6 +19,6 @@ Tatu Bounce is a fun game where you drop a turtle to break the rocks below. Care
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Mobile, Point And Click

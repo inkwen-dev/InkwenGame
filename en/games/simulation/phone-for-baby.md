@@ -19,6 +19,6 @@ This fun educational game will teach your little one to learn numbers and songs 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Baby Hazel, Educational, Family, Girls, House, HTML, HTML5, Kids, School, Simulation

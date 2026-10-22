@@ -19,6 +19,6 @@ In BOXING HERO : PUNCH CHAMPIONS, fight 8 epic boxers in intense combats. Jab, c
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Boxing, Boy, Boys, Classic, Fun, Funny, Kid, Kids, Kill, Killing, Mobile, Sandbox, Shoot, Shooter, Skill, Skills, Sport, Sports

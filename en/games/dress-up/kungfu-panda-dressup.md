@@ -19,6 +19,6 @@ Kungfu Panda Po is a good fighter. He wants to start another adventure with his 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, Cartoon, Decorate, Dress Up, Game, Games, HTML5, Panda

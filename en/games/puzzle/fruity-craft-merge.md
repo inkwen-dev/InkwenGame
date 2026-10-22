@@ -21,4 +21,4 @@ Fruity Craft Merge is a fun and relaxing merge game where you grow fruits from t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, Craft, Food, Fruits, html5 games, html5 games for your site, management, Matching, Puzzle, Relaxation
+- Tags: Casual, Craft, Food, Fruits, html5 games, html5 games for your site, Management, Matching, Puzzle, Relaxation

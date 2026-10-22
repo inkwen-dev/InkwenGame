@@ -19,6 +19,6 @@ Monsters climbed into the toilet: what to do? Help and save Wednesday from monst
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Draw, Funny, Monster, Simulator

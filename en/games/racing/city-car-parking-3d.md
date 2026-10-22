@@ -19,6 +19,6 @@ Modern Car Parking The dawn of a new era of car parking games. A realistic exper
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Arcade, Bike, bus, Car, Game, Parking, Race, Racing, Stunts

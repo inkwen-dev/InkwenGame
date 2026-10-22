@@ -19,6 +19,6 @@ This is a type of Spot the Difference puzzle in which players must find 5 differ
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Difference, Drawing, Fun, Hidden, HTML5, Mobile, Puzzle

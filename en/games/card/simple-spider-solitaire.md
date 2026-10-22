@@ -17,4 +17,4 @@ Delve into a classic card game with Simple Spider Solitaire. Test your strategic
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

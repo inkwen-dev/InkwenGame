@@ -19,6 +19,6 @@ It is time to leave the parking lot, but why are everyone else’s cars in the w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Boys, Car, Cars, Family, Girls, Hypercasual, Parking, Race, Racing

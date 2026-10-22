@@ -19,6 +19,6 @@ Your hands are not supposed to be limited on a tiny screen of your phone. Play l
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, run, Sport

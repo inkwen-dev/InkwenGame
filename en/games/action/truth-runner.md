@@ -19,6 +19,6 @@ As a young girl, which way do you like to pass in real life. Truth Runner is a r
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Collecting, Mobile, Platform, running, WebGL

@@ -19,6 +19,6 @@ Pizza Delivery Run is a fun and free online running game for boys played on Puzz
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Boy, Brain, Fun, HTML5, Kids, Number, Obstacle, Online, Puzzle, running, Skill

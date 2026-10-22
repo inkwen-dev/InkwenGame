@@ -19,6 +19,6 @@ In this platform game, Ben cannot use his watch because the omnitrix clock is br
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ben 10, Boy, Boys, Cartoon, Classic, Fun, Game, Games, HTML5, Platform

@@ -19,6 +19,6 @@ Animal Sounds Learn the sound of each animal in a fun way using your cell phone,
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Best, Cat, Educational, Family, Kid, Kids, School

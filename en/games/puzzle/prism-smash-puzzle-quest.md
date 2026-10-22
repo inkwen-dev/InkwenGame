@@ -17,4 +17,4 @@ Embark on a colorful journey in Prism Smash Puzzle Quest! Match vibrant tiles on
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

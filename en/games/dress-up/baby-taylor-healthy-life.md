@@ -19,6 +19,6 @@ This game will show some good habits for healthy life. Today Baby Taylor is goin
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cleaning, Cute, Dress Up, Educational, Girl, Girls, Kids, Nail, Nails, Simulation

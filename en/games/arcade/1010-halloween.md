@@ -19,6 +19,6 @@ Drop block groups on the board to make a row or column of 10.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Halloween, HTML5, Mobile, Puzzle, Tetris

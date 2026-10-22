@@ -19,6 +19,6 @@ Connection elimination is a classic casual puzzle gameplay, which can be complet
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Bomb, Color, Strategy

@@ -19,6 +19,6 @@ Temple Run 2: Jungle Fall is an endless runner game developed by Imangi. Escape 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Jumping, Race, Racing, run, running

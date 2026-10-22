@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 2D, 男孩, 男孩, Click, Clicker, 女孩, 女孩们, HTML, HTML5, 怪物
+- 标签: 2D, 男孩, 男孩们, 点击, 点击器, 女孩, 女孩们, HTML, HTML5, 怪物

@@ -19,6 +19,6 @@ Baby Snack Factory is now open! Here, children can try their hand at snack-makin
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Business, Cooking, Educational, Food, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Panda

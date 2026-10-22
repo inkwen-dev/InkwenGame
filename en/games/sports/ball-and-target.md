@@ -19,6 +19,6 @@ This is a casual game in which you must point the ball correctly to the target a
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, HTML5, Shooting, Sport

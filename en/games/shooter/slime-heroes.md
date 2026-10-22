@@ -25,4 +25,4 @@ Slime Heroes is a fast top-down survival arcade game for 1–4 players. Control 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Arcade, co-op, Multiplayer, pve, rpg, Shooting, survival
+- Tags: Action, Arcade, co-op, Multiplayer, pve, RPG, Shooting, survival

@@ -19,6 +19,6 @@ Prepare to join Ben on a round-the-world rescue mission to rescue Gwen and Grand
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Alien, Anime, Ben 10, Cartoon, Cartoon Network, Clicker, Disney, Fighting

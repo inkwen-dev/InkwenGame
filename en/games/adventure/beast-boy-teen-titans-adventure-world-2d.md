@@ -19,6 +19,6 @@ Beast Boy and raven Titans Go Hero - Titans Teen Superhero jungle adventure run 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 2D, 3D Games, Action, Adventure, Boys, Cartoon Network, Mario, Minecraft, Rescue, Zombie

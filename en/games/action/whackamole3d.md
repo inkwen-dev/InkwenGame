@@ -19,6 +19,6 @@ Whack-a-Mole WebGL is a fun and fast-paced arcade game where your reflexes are p
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, angry, Animal, Cartoon, Crazy, Whack

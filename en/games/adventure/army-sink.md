@@ -19,6 +19,6 @@ Participate in competitions? gather the biggest crowd and defeat your rivals in 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Adventure, Best Games, Fall Boys, Fall Guys, Fun, Multiplayer, Superhero, War

@@ -19,6 +19,6 @@ Downhill Rush game is an endless arcade game. You have to go down the endless mo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Boys, Cartoon, Casual, Funny, Hypercasual, Jumping, Puzzle, WebGL

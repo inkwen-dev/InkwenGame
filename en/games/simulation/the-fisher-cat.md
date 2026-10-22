@@ -19,6 +19,6 @@ The Fishercat is an online game where you’ll be helping a cat catch as many fi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Cat, Fish, fishing
+- Tags: Action, Adventure, Cat, Fish, Fishing

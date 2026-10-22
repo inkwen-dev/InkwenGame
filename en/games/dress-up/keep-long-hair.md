@@ -19,6 +19,6 @@ This is a very fun simulation game, in the game players to create a variety of n
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Avoid, Color, cut, Fashion, Girl, Girls, H5, Hair, run

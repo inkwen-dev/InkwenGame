@@ -19,6 +19,6 @@ Dive into the delightful world of Cute Budgie Puzzle, where vibrant feathers, ch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Casual, free games for your site, Girl, Hypercasual, Jigsaw, Kids, Puzzle

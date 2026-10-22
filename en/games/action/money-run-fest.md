@@ -19,6 +19,6 @@ Are you looking for a fun run race 3D game to relieve stress? What do you think 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, Adventure, Best Games, Casual, Collecting, Collection, endless, run, running

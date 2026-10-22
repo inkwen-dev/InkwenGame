@@ -19,6 +19,6 @@ A pregnant dog mom is about to give birth to a baby! Come and help them do prena
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Doctor, Fun, Girl, Girls, H5, HTML5, Kid, Kids

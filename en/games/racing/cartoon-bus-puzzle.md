@@ -19,6 +19,6 @@ Play with 6 images in this perfect jigsaw puzzle game: Cartoon Bus Puzzle. All i
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Car, Cars, HTML5, Mobile

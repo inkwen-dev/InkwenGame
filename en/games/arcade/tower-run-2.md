@@ -19,6 +19,6 @@ Tower Stack Slip is a 3D arcade casual game. You just need to control your littl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Avoid, Casual, Kid, Puzzle, Slicing, Stack

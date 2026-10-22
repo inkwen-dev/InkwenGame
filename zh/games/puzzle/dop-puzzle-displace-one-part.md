@@ -41,4 +41,4 @@ DOP Puzzle：Displace One Part 是一款 DOP 益智游戏，能让你轻松愉�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 大脑, 逻辑, 移动设备, 拼图
+- 标签: 大脑, 逻辑, 移动设备, 益智

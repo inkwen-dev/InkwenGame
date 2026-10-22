@@ -19,6 +19,6 @@ Create a battle and watch who wins! Build your own card or use a ready-made one.
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Android, Arena, attack, Battle, builder, building, construction, destruction, Enemy, Gun, Simulator

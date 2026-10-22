@@ -19,6 +19,6 @@ War Lands is a good action RPG with random elements and maps. The characters and
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Fantasy, Fighting, rpg, WebGL
+- Tags: Action, Adventure, Fantasy, Fighting, RPG, WebGL

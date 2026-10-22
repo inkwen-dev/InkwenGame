@@ -19,6 +19,6 @@ THERE'S NO ESCAPE. Take the chance to FIGHT for your life in this charged-up END
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D, 3D Games, Adventure, Arcade, Car, Cars, Casual, Clash, Hypercasual, Race, Racing

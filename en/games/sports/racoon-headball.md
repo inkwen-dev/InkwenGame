@@ -19,6 +19,6 @@ Racoon Headball is a sport game. Its a sunny day on beach. Let’s play the beac
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, HTML5, Sports

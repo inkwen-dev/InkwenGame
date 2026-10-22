@@ -21,4 +21,4 @@ Welcome to the Offroad jeep driving games 4x4 where you will enjoy the offroad c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Boy, Boys, Car, card, drift, drifting, Driving, Game, Parking, Simulation, Simulator, Stunts, Supercars
+- Tags: 3D Games, Boy, Boys, Car, Card, drift, drifting, Driving, Game, Parking, Simulation, Simulator, Stunts, Supercars

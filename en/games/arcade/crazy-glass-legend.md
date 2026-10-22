@@ -19,6 +19,6 @@ Welcome to This Brand new Puzzle Game “Crazy Glass Legend” and start a journ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, 2D, Anime, Arcade, Ballon, boat, Casual, Drawing, Hypercasual, Unity3D
+- Tags: 2 Player, 2D, Anime, Arcade, Ballon, Boat, Casual, Drawing, Hypercasual, Unity3D

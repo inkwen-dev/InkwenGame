@@ -19,6 +19,6 @@ Sort food cans onto the shelves in Super Stock Stack ! Match the cans by their l
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: html5 games, Mobile, Shopping, Skill, sort, sorting

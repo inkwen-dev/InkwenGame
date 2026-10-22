@@ -21,4 +21,4 @@ Are you looking for kids games for your toddler? Will you like to help your litt
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Arcade, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Baseball, Basketball, Battle, Board, boat, Boys, Game, Games, Girl, Girls, HTML5
+- Tags: 3D Games, Arcade, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Baseball, Basketball, Battle, Board, Boat, Boys, Game, Games, Girl, Girls, HTML5

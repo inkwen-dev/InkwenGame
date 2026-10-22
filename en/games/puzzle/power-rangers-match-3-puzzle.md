@@ -21,4 +21,4 @@ Are you a fan of puzzle games? enjoy the match 3 game with superheroes in the po
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Match 3, Match3, Matching, Puzzle, Super, Superhero
+- Tags: 1 Player, Match-3, Match3, Matching, Puzzle, Super, Superhero

@@ -19,6 +19,6 @@ You in the game Cooking Place will help the chef to serve the customers. In fron
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boys, burger, Food, Fun, Funny, Girls, HTML5, Kids, Mobile, Restaurant, Skill
+- Tags: Best, Boys, Burger, Food, Fun, Funny, Girls, HTML5, Kids, Mobile, Restaurant, Skill

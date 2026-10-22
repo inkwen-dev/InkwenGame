@@ -47,4 +47,4 @@ Fight, upgrade, change weapons and take rewards in epic online battles!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Arcade, Boys, First Person Shooter, Multiplayer, pvp, Shooting
+- Tags: 3D, Action, Arcade, Boys, First Person Shooter, Multiplayer, PvP, Shooting

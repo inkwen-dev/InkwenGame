@@ -19,6 +19,6 @@ Help the Tiktoker Yasin to catch all the food in a rushtime. Eat all food and do
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Balance, burger, Casual, Click, Dancing, Fun, Funny, Hypercasual
+- Tags: 1 Player, Action, Balance, Burger, Casual, Click, Dancing, Fun, Funny, Hypercasual

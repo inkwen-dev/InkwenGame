@@ -21,4 +21,4 @@ Huskeydoku is a cozy logic puzzle that gives the classic Sudoku a cute husky twi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Brain, cozy, Logic, Puzzle, sudoku
+- Tags: animals, Brain, cozy, Logic, Puzzle, Sudoku

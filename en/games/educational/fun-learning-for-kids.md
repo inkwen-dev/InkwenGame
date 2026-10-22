@@ -21,4 +21,4 @@ This education game is suitable for the toddlers and kids. It helps improve thei
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best, Brain, Educational, HTML5, Kid, Kids, Mobile, train
+- Tags: Best, Brain, Educational, HTML5, Kid, Kids, Mobile, Train

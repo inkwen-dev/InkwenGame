@@ -19,6 +19,6 @@ FZ Ball Hopper is one of the Best casual games in 2018 Chill your mind with the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ball, Kid, Kids, Unity3D

@@ -1,0 +1,24 @@
+# 飞行果冻
+
+<a href="https://inkwengame.com/zh/games/flying-jelly" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/flying-jelly/cover.jpg)
+
+飞行果冻是一款休闲游戏，目标是压碎所有果冻，除了灰色的那个！
+
+## 怎么玩
+
+快速触摸或点击，享受游戏
+
+## 介绍
+
+飞行果冻是一款休闲游戏，目标是压碎所有果冻，除了灰色的那个！
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/arcade" target="_blank" rel="noopener noreferrer">街机</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 1人游戏, 2D, 街机, 休闲, 飞, HTML5, 果冻, 时机

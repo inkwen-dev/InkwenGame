@@ -19,6 +19,6 @@ It's time to put your logic skills to the test in the Alien Alert game! While se
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Ben 10, Cartoon, Cartoon Network, Games, Girls, Kids, Online

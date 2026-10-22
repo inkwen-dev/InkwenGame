@@ -19,6 +19,6 @@ Try to jump as high into the air as you swap colors on your way up. Do not hit t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Color, Fun, Hypercasual, Kids, Logic, Mobile, Skill

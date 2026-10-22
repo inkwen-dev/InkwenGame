@@ -17,4 +17,4 @@ Tute is a captivating card game blending strategy and chance using a 40-card dec
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

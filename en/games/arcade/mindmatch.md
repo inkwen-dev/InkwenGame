@@ -19,6 +19,6 @@ MindMatch is an immersive and stylish memory-matching game designed to challenge
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Arcade, Brain, Logical, Memory, Pokemon, Puzzle, Skills, unblocked, unblocked games, unblockedgames66, unblockedgames76

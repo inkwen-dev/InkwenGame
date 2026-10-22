@@ -19,6 +19,6 @@ This time you will not only run over the platforms and pass through the gates fo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, 3D Games, Animal, Brain, Casual, Collecting, Fun, Hypercasual, Kids, Quiz, Simulation

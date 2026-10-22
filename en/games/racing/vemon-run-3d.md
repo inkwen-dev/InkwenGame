@@ -19,6 +19,6 @@ Vemon Run 3D brings a fun arcade running game. Step into a vivid 3D platform wor
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Fun, Racing, running

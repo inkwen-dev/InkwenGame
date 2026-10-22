@@ -19,6 +19,6 @@ Get ready for a fast-paced running challenge! Guide your character through excit
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Fun, Funny, Hypercasual, run, running

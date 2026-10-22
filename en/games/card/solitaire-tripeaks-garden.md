@@ -19,6 +19,6 @@ In Solitaire TriPeaks Garden you can play hundreds of levels filled with the mos
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, card, Cat, HTML5, Logical, Puzzle, Relaxation, Solitaire
+- Tags: Arcade, Card, Cat, HTML5, Logical, Puzzle, Relaxation, Solitaire

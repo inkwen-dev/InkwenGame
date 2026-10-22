@@ -19,6 +19,6 @@ Tap and hold to fill the ball. Can you fill all the ball to finish?
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, 3D Games, Action, Arcade, Ball, Bubble, Bubble Shooter, Casual, Fun, Funny, Hot, Hypercasual, Unity3D

@@ -21,4 +21,4 @@ Guard twelve haunted doors in Haunted Panic. Tap monsters before they strike, sp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Click, Halloween, HTML5, mapi games, Monster, Shoot, Vampire, Witch, wolf
+- Tags: Click, Halloween, HTML5, mapi games, Monster, Shoot, Vampire, Witch, Wolf

@@ -19,6 +19,6 @@ Sweet Marie is expecting a baby. Rather, help her collect the necessary things f
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cute, Dress Up, Family, Fashion, Girl, Girls, Hair, HTML5, Ladybug, Makeover, Miraculous Ladybug, Princess, Superhero

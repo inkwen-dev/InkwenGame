@@ -19,6 +19,6 @@ Stacky Run is an interesting new arcade game, but also a rare 3D art-style parko
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Avoid, Boy, Collecting, Funny, Girl, Race, Robot

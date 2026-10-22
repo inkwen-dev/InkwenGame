@@ -19,6 +19,6 @@ A tsunami is coming, so be very careful! The entire world will be flooded. You a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Adventure, Arcade, Brainrot, Brainrot Italian, Italian Brainrot, Minecraft, Platform, roblox

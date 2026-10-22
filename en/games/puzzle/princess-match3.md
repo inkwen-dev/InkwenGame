@@ -21,4 +21,4 @@ In front of you on the screen are mugs-portraits of the most famous princesses, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: HTML5, Match 3, Mobile
+- Tags: HTML5, Match-3, Mobile

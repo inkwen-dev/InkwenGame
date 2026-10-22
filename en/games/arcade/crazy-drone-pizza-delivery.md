@@ -19,6 +19,6 @@ Crazy Drone Pizza Delivery is a fast-paced casual delivery game where you contro
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D, 3D Games, Arcade, Best Games, Casual, fly, Fun, Obstacle, pizza, Skill

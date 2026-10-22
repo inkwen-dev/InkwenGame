@@ -19,6 +19,6 @@ Car McQuuen and his friend are racing on the track. You can create your new car 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Color, Coloring, Dress Up, Game, Games, HTML5

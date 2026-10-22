@@ -19,6 +19,6 @@ Try your luck as an important fashion designer in this dress up game where you a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Celebrity, Crazy, Cute, Decorate, Decoration, Design, Dress Up, Fashion, Funny, Girl, Girls, Hair, HTML5, Makeover, Princess

@@ -29,4 +29,4 @@ Sprunki Incredibox Original – 用不同的声音组合创作属于你自己的
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 移动设备, 音乐
+- 标签: 移动, 音乐

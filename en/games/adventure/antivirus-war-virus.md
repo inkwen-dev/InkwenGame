@@ -19,6 +19,6 @@ Introducing the adrenaline-pumping Anti-Virus Game! Arm yourself with epic tools
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Air, airplane, Best Games, Clicker, free games for your site, free html5 games for your website, HTML, Kids, War

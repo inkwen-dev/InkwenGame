@@ -19,6 +19,6 @@ Experience the excitement of this fantastic casual arcade football game! To kick
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Football, HTML5, Ninja, Pixel, Santa, Soccer, Sport, Sports

@@ -32,4 +32,4 @@ Rob the Robot, you have been given a crucial mission: to prepare Mars for human 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Mobile, Simulation, Space
+- Tags: Management, Mobile, Simulation, Space

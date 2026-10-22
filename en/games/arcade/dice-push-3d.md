@@ -19,6 +19,6 @@ Dice Push 3D is a fun dice throwing puzzle game. Play against millions of player
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Avoid, Boy, Brain, H5, Kids, Number

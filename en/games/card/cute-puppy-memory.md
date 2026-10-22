@@ -21,4 +21,4 @@ Cute Puppy Memory is a fun and free to play online memory game suitable for all 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Android, Animal, Arcade, Boys, card, Fun, Girls, HTML5, Kids, Memory, Mobile, Skill
+- Tags: 1 Player, Android, Animal, Arcade, Boys, Card, Fun, Girls, HTML5, Kids, Memory, Mobile, Skill

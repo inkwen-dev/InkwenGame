@@ -17,4 +17,4 @@ Enter the perilous world of Deathly Dungeons, where imagination and danger colli
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: rpg
+- Tags: RPG

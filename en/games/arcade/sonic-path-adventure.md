@@ -19,6 +19,6 @@ Sonic Path Adventure is fun running game suitable for all ages. Sonic is out for
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Avoid, Boys, Collecting, Draw, HTML5, Hypercasual, Mobile, run, Skill

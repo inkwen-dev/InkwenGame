@@ -19,6 +19,6 @@ Sprunki Phase 10 lets players experiment with various musical elements represent
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cartoon, Escape, First Person Shooter, horror, survival
+- Tags: Cartoon, Escape, First Person Shooter, Horror, survival

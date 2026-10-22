@@ -19,6 +19,6 @@ Mobile drag your finger across the screen to cut the fruits PC hold down the lef
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Casual, cut, Fruit, Fruits, Funny, Game, HTML5, Hypercasual, Kids, Mobile, Ninja, Samurai, Slicing

@@ -19,6 +19,6 @@ Pool 8 Ball – is a HTML5 Game! This is a modern pool in which you can play alo
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Fun, HTML5, Kids, Mobile, Skill

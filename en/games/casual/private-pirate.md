@@ -19,6 +19,6 @@ Deep in the mysterious and vast ocean lie countless unknown secrets and treasure
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: amazing, Best Games, Point And Click

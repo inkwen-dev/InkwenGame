@@ -19,6 +19,6 @@ Filled Glass 4 Colors is a boys' free addictive online game with an easy-to-unde
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Avoid, Ball, Boy, Brain, Coloring, Fun, HTML5, Kids, Obstacle, Online, Puzzle

@@ -19,6 +19,6 @@ Interesting arcade game, throw off all the rings in the goal, it can be difficul
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Casual, Cool, Funny, HTML5, WebGL

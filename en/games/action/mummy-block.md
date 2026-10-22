@@ -19,6 +19,6 @@ Are you looking for a fun and challenging online game? Look no further than the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Game, Games, Hypercasual, Online, Platform

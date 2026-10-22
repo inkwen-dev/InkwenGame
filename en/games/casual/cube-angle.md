@@ -19,6 +19,6 @@ Hyper casual game with procedural difficulty, getting to be very hard. Simple on
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

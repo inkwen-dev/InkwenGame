@@ -19,6 +19,6 @@ Lucky Looter is a cool 3D stealth game. This kind of game is a little bit diffic
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Boy, Boys, Collecting, Collection, H5, House, HTML, HTML5, Mobile, Police, Room, Stealth

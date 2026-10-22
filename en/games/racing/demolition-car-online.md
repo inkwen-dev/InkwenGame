@@ -19,6 +19,6 @@ A game with super destructive power is here! Demolish the building in front and 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Car, Collecting, Kids, management
+- Tags: Car, Collecting, Kids, Management

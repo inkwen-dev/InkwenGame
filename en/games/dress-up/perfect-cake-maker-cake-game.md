@@ -19,6 +19,6 @@ Cake maker lovers, it's your time to show your skill of baking delicious dessert
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Baby, Dress Up, Fun, Funny, Game, Games, Hypercasual, Moto

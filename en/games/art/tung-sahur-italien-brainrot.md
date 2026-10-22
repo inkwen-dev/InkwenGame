@@ -19,6 +19,6 @@ Dive into the world of Italian Brainrot Evolution : A Fun &amp; Casual 2048 Puzz
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bomb, Boys, Brain, Brainrot, Brainrot Italian, Brainrot sahuuur, Coloring, Puzzle, Sahur, Tung, Tung Tung, Tung Tung Tung, Tung Tung Tung Sahur

@@ -19,6 +19,6 @@ Drawing Master is fun online game that you can play for free. Drawing Master is 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Draw, Drawing, Fun, Girls, HTML5, Kids, Mobile, School, Skill

@@ -19,6 +19,6 @@ Glitch Dash is a first-person game in which you have to dodge obstacles in order
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Collecting, Hypercasual, jump, Jumping, Puzzle, Unity3D

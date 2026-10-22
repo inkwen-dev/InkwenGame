@@ -19,6 +19,6 @@ For heavy vehicle (truck, cargo, bus) driving games lover we are offering you an
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Driving, Sim, Simulator, Truck, WebGL

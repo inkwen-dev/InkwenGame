@@ -19,6 +19,6 @@ If you've always dreamed to conquer the vast expanses of space, then this game i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Planet, Rocket, Science, Space, Spaceship

@@ -19,6 +19,6 @@ Mermaid Baby Care is a very popular caring game. Princess Mermaid has been so bu
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Color, Coloring, Cute, Dress Up, Family, Fun, Girls, HTML5, Kids, Mermaid, Mobile

@@ -19,6 +19,6 @@ Truck Loader 4 is an amazing cross between a forklift and truck game. In the fut
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Car, Machine, Moto, Physics, Plant, Platform, Puzzle, Robot, Sandbox, Simulator, Skill, Truck

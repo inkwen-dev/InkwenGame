@@ -19,6 +19,6 @@ Sea Treasure Match 3 is an online game that you can play for free. In the game S
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Fun, HTML5, Kids, Match 3, Match3, Skill
+- Tags: Fun, HTML5, Kids, Match-3, Match3, Skill

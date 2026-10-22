@@ -19,6 +19,6 @@ Tanks fight back for a futuristic country with the war tank of machines gun batt
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Battle, Battlegrounds, HTML, HTML5, Shoot, Shooting, Tank, Tanks, War

@@ -19,6 +19,6 @@ You will love Love of animals puzzle game. This game is the newest game at y9-ga
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Kids, Puzzle, Skill

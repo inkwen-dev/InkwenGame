@@ -19,6 +19,6 @@ A new game of racing, survival, explosion, extreme survival. Drive your car and 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arena, Battle, Bomb, Collecting, Defense, Driving, Multiplayer, Obstacle, Racing, Shoot, Simulation, Skill, Skills

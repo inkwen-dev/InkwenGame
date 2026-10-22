@@ -19,6 +19,6 @@ Subway Surfers World Tour: Houston is the one hundred eleventh update of Subway 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, H5, Hot, HTML, HTML5, jump, Jumping, Race, Racing, run, running, subway, Subway Surfers, Unity3D

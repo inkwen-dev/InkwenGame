@@ -19,6 +19,6 @@ Welcome to the most addictive and exciting ball game you have ever played. 3D Ba
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Color, Hypercasual, Shoot, Simulation, Stack

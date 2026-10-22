@@ -19,6 +19,6 @@ Take Apart is a very simple sorting game, only this time you have to sort the ba
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Kids, Matching, Mobile, Skill

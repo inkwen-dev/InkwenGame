@@ -19,6 +19,6 @@ Run, jump, and dash your way through cheerful hand-drawn worlds as you avoid obs
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Hypercasual, Stickman

@@ -17,4 +17,4 @@ Dive into the immersive world of Fish Rain 2, where authentic sounds and lively 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

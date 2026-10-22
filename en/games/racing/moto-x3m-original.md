@@ -19,6 +19,6 @@ Moto X3M is an awesome bike racing game with 25 challenging levels. So grab your
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bike, Motorcycle, Race, Racing

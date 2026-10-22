@@ -19,6 +19,6 @@ Monster Drop is just the coolest physics-based puzzle game available. Built from
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Family, Girl, Halloween, HTML, HTML5, Kid, Mobile, Monster, Physics, Puzzle

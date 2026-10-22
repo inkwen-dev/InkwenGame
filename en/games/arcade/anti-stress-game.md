@@ -19,6 +19,6 @@ Anti Stress Game is fun html5 game suitable for all ages. Play around and try to
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Boy, Boys, Fun, Funny, Games, Girl, Girls, HTML5, Kids

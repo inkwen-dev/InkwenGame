@@ -21,4 +21,4 @@ In Tractor Puzzle Farming game you need to solve the farming puzzle. The goal of
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Boys, Driving, farm, Girls, HTML5, Kids, Mobile
+- Tags: 1 Player, Boys, Driving, Farm, Girls, HTML5, Kids, Mobile

@@ -19,6 +19,6 @@ It is an amazing endless level-based game where you touch the screen to make the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Block, Clicker, HTML5, jump, Jumping, Mobile

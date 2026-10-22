@@ -21,4 +21,4 @@ Become a master of strategy and deck building. Collect and choose from 90 unique
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, card, Clash, Fantasy, Superhero, War
+- Tags: Battle, Card, Clash, Fantasy, Superhero, War

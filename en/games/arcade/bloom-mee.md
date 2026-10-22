@@ -19,6 +19,6 @@ Bloom Mee is fun color bingo game. Choose the right answers and make the flowers
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Color, Fun, Funny, Game, Games, HTML, HTML5

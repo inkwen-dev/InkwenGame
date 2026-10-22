@@ -21,4 +21,4 @@ Welcome to the bustling and exciting world of the kitchen - Cooking Clash. This 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Cook, management, Restaurant
+- Tags: Animal, Cook, Management, Restaurant

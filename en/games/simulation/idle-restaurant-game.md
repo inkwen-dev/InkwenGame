@@ -21,4 +21,4 @@ Do you want to be a food tycoon? Get into this restaurant management sim game no
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2025 games, 2026 games, Best Games, Casual, Food, Fun, idle, management, Relaxation, Restaurant, Simulation, Strategy
+- Tags: 2025 games, 2026 games, Best Games, Casual, Food, Fun, idle, Management, Relaxation, Restaurant, Simulation, Strategy

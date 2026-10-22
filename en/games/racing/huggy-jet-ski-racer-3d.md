@@ -19,6 +19,6 @@ Embark on a thrilling aquatic adventure with &lsquo;Huggy Jet Ski Racer&rsquo;! 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Hypercasual, Race, Racing

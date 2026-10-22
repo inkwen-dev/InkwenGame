@@ -21,4 +21,4 @@ Merge Animals Defence Step into the lab and unleash your inner mad scientist! Me
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, Animal, Battle, Clicker, Defense, farm, Game, Puzzle, Strategy, Tower Defense
+- Tags: 2026 games, Animal, Battle, Clicker, Defense, Farm, Game, Puzzle, Strategy, Tower Defense

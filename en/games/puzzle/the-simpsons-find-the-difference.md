@@ -19,6 +19,6 @@ Are you ready to test your observation skills with your favorite cartoon family?
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Difference, Fun, Kids, Simpson

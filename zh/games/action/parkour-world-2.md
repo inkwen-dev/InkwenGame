@@ -37,4 +37,4 @@ E 打开宝箱
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 积木, Minecraft, 跑酷, 平台
+- 标签: 3D, 积木, 我的世界, 跑酷, 平台

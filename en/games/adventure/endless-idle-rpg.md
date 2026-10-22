@@ -19,6 +19,6 @@ Endless, an idle incremental RPG where your hero automatically fights waves of e
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Action, Fantasy, idle, rpg, Skills
+- Tags: 1 Player, Action, Fantasy, idle, RPG, Skills

@@ -21,4 +21,4 @@ Minions have settled on the planet since the beginning of time. They have one go
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Dress Up, Fun, Girl, rpg
+- Tags: 2D, Dress Up, Fun, Girl, RPG

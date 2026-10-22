@@ -19,6 +19,6 @@ Ninja Runner is a side scrolling auto runner game, tab to jump and avoid the bom
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, HTML5, Mobile, Ninja, run, running, Skill

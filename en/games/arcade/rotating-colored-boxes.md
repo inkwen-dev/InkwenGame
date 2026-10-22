@@ -19,6 +19,6 @@ In this great addictive funny game the player must tap to flap and help the Boxe
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Click, Flight, HTML5, Hypercasual, mapi games

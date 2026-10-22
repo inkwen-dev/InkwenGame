@@ -19,6 +19,6 @@ This is jigsaw game with Easter cute bunnies and Easter eggs. This game has twel
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Easter, Game, Jigsaw, Kids, Puzzle

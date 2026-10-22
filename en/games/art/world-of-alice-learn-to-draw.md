@@ -19,6 +19,6 @@ Alices World - Learn to draw World of Alice - Learn to Draw is an educational ga
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Draw, Drawing, Educational, free games for your site, free games for your website, free html5 games for your website, html games for your website, HTML5, html5 games, html5 games for your site, Kid, Kids, School

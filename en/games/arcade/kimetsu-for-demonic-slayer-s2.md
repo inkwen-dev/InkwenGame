@@ -19,6 +19,6 @@ Let's Play Super Piano Anime Kimetsu For Demonic Slayer S2 for best score to get
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Game, Hot, HTML5, Magic, Mobile, Music, Point And Click, Puzzle, Timing

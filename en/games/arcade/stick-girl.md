@@ -19,6 +19,6 @@ Stick Girl is a popular HTML5 game. Hold your finger on the screen to make the s
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Boy, Boys, Casual, Game, Games, Girl, Girls, Hypercasual, Kid, Kids, Stickman

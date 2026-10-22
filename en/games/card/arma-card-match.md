@@ -19,6 +19,6 @@ ARMA (stylized as ARMA) is a series of first person tactical military shooters, 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Memory, Puzzle

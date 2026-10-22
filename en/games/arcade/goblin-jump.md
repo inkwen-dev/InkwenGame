@@ -19,6 +19,6 @@ Goblin Clan is a free online fantasy game in which goblins must help each other 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Game, Games, HTML5, jump, Jumping, Online

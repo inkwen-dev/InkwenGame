@@ -19,6 +19,6 @@ Pet Crush is a very addictive match-3 game! Collect little piggy, cute frog, ado
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Cat, Fun, Matching, Puzzle

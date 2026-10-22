@@ -19,6 +19,6 @@ Road Construction Games 2020 is a construction game where you can control machin
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Arena, city, Gun, Sim, Simulation, Simulator

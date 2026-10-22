@@ -19,6 +19,6 @@ Get rich by clicking on the screen in Dollar Dash game! Get plugins that make yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Boy, Boys, Click, Clicker, Girl, Girls, touch, touchscreen

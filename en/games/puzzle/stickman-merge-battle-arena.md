@@ -21,4 +21,4 @@ An exciting strategic merge game where you have to demonstrate your advantage ov
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Action, Arena, Army, Battle, Bow, Clash, Enemy, Fight, Hypercasual, management, Stickman, Strategy
+- Tags: 1 Player, 3D, Action, Arena, Army, Battle, Bow, Clash, Enemy, Fight, Hypercasual, Management, Stickman, Strategy

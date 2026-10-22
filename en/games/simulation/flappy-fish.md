@@ -21,4 +21,4 @@ This game is an endless flappy game. player can escape from the bomb and collect
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Fish, fishing, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids
+- Tags: Action, Fish, Fishing, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

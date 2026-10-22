@@ -19,6 +19,6 @@ In the world of 2D games, Head Soccer stands out as a unique and exciting title.
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, Football, HTML5, Mentolatux, Mobile, Soccer, Unity3D, WebGL

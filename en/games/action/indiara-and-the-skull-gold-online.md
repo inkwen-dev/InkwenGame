@@ -19,6 +19,6 @@ The adventure is starting! Meet and play with Indiara, a girl who loves to colle
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Boys, Casual, endless, Girl, Gold, Hot, HTML5, Hypercasual, Kids, Mobile, Ninja, Online, Platform

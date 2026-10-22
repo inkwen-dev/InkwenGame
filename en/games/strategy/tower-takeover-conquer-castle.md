@@ -19,6 +19,6 @@ Conquer Castle is a simple and fun puzzle game. You can click on the opponent's 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Battle, Boy, Collection, Girl, Kid, Mobile, Puzzle, Skill, Tower Defense

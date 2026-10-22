@@ -19,6 +19,6 @@ Ben 10: Alien Onslaught is a fast-paced arcade survival game. Aliens are pouring
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, attack, Ben 10, Cartoon Network, survival

@@ -21,4 +21,4 @@ FNAF Strike is a shooting game where your mission is to shoot all incoming anima
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, CSGO, First Person Shooter, Gun, horror, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL
+- Tags: 3D, Action, CSGO, First Person Shooter, Gun, Horror, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL

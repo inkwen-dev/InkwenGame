@@ -19,6 +19,6 @@ Dive into the futuristic, fast-paced action of Neon Ping Pong 2.0, The Champions
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2025 games, Action, Sports

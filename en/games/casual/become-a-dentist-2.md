@@ -19,6 +19,6 @@ Are you ready to become an dentist ? You must heal the teeth of your patients. I
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Doctor, Family, Surgery

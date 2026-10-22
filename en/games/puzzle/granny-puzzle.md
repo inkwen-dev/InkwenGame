@@ -19,6 +19,6 @@ Granny Puzzle is a free online game from genre of puzzle and sliding games. You 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Fun, Halloween, HTML5, Logic, Skill, Witch

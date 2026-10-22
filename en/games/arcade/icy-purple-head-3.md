@@ -19,6 +19,6 @@ Icy Purple Head is back. Help post man to deliver parcels in time. Run jump and 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Clicker, Puzzle, Strategy

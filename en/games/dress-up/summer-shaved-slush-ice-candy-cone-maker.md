@@ -19,6 +19,6 @@ Kids all ages love to eat ice cream and snow cone and always keen to know how to
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Boys, burger, Candy, Cooking, Design, Educational, Elsa, Frozen, Funny, Girls, Hot, Ice, Kids, Makeover, New, Summer, Truck
+- Tags: Best, Boys, Burger, Candy, Cooking, Design, Educational, Elsa, Frozen, Funny, Girls, Hot, Ice, Kids, Makeover, New, Summer, Truck

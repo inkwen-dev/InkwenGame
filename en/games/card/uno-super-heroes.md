@@ -21,4 +21,4 @@ Uno Super Heroes brings classic Uno gameplay into a vibrant world of superheroes
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Arcade, card, HTML5, iPad, iPhone, Mobile, Puzzle, Unity3D, WebGL
+- Tags: Android, Arcade, Card, HTML5, iPad, iPhone, Mobile, Puzzle, Unity3D, WebGL

@@ -19,6 +19,6 @@ Jump.io this is a very fun game. In this game you need to use all your skill and
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 3D, 3D Games, Action, Arcade, jump, Jumping, Race, Racing, run, running, Skill, Skills, Sport, Sports

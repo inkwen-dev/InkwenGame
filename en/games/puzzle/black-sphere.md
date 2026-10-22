@@ -19,6 +19,6 @@ In front of you on the screen you will see a playing field on which you will see
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Fun, Kids, Logic, Logical, Mobile, Skill

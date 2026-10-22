@@ -19,6 +19,6 @@ Alphabet Soup for Kids is a fun and educational game for all ages. Learning with
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Kids, Letters, Puzzle, School, Word

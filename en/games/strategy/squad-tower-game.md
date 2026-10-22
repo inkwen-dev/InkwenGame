@@ -19,6 +19,6 @@ Squad Tower is a free online tower battle Math video game for Kids and Adults. M
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Boy, Brain, Fun, HTML5, Kids, Math, Online, Puzzle, Tower Defense

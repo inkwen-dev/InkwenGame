@@ -21,4 +21,4 @@ An idle clicker about finding one needle in a haystack of ten million straws. Di
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, management, Simulation
+- Tags: Clicker, idle, Management, Simulation

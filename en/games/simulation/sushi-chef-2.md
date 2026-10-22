@@ -17,4 +17,4 @@ Get ready to dive into the fast-paced world of Sushi Chef, a 2D puzzle adventure
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

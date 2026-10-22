@@ -19,6 +19,6 @@ One of the most addictive and entertaining physics based driving games ever made
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, drift, Driving, jump, Moto, Motorcycle, Race, Racing, Stunts

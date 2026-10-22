@@ -19,6 +19,6 @@ This game will AMAZE you! Collect the blocks in the maze and build a bridge to r
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Best Games, build, Game, Levels, Logic, Maze, Obstacle, Road, Stack

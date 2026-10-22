@@ -19,6 +19,6 @@ Escape from the epic prison in Mineblock in a variety of ways right now! The gam
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Classic, free games for your site, Fun, Funny, Games, games for your website, html games for your website, html5 games, Mine, mineblock, Minecraft, Miner, prison, unity games
+- Tags: Classic, free games for your site, Fun, Funny, Games, games for your website, html games for your website, html5 games, Mine, mineblock, Minecraft, Miner, Prison, unity games

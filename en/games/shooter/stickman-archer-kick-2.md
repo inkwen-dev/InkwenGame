@@ -19,6 +19,6 @@ Take the bow and arrows to kick the stickmans and save their lifes, with a ragdo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: free html5 games for your website, kiz10, Levels, Puzzle, Shooter, Stickman

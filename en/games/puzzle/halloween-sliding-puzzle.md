@@ -19,6 +19,6 @@ Halloween Sliding Puzzle is a simple HTML5 classic puzzle game. Move pieces of f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, HTML5, Jigsaw, Mobile

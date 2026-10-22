@@ -19,6 +19,6 @@ Play Summer Spot the Difference, a fun and relaxing puzzle game where you compar
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Collecting, Difference, Girls, HTML5, Hypercasual, Kids, Skill, Summer

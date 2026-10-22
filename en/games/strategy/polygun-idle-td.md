@@ -19,6 +19,6 @@ Welcome to PolyGun &ndash; the ultimate idle tower defense shooter! Take command
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arena, idle, Polygon, Shooting, survival, Tower Defense

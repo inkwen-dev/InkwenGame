@@ -21,4 +21,4 @@ Use Arrow buttons to play
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, Casual, Classic, horror
+- Tags: Battle, Casual, Classic, Horror

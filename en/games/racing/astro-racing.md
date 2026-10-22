@@ -19,6 +19,6 @@ Blast off into space and race across 10 alien planets in Astro Racing! Pilot you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, mapi games, Race, Racing, Retro, Space

@@ -19,6 +19,6 @@ Bear Adventure is an online fun kids game. Is there something happier than colle
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Avoid, Collecting, Fish, Fun, Kids, Mobile, Obstacle, Skill

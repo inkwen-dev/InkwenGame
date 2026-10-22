@@ -19,6 +19,6 @@ Did you ever think how hard is to drive a bus on sand? Now you can give it a try
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Unity3D, WebGL

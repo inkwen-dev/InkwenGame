@@ -19,6 +19,6 @@ Today is the story of Slime! Get a better clearance experience by matching attri
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Click, Mobile, Turn Based

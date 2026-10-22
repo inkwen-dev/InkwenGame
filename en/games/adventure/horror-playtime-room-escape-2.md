@@ -17,4 +17,4 @@ Dive into a spine-chilling escape as you unravel sinister mysteries. Solve intri
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

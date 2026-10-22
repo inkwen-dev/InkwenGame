@@ -19,6 +19,6 @@ Do you have artistic talent? If you are not sure about your artistic talent. The
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Cute, Design, Fashion, Fun, Girls, HTML5, Kids, Mobile

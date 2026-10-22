@@ -19,6 +19,6 @@ Minecraft Hidden Stars is a point and click hidden star game. You need to find a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Collecting, Fun, Hidden, HTML5, Kids, Minecraft, Puzzle

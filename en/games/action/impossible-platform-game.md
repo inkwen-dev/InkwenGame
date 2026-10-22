@@ -19,6 +19,6 @@ Help the little Dasher to goto the exit door to save him in this unique platform
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, HTML5, jump, Platform

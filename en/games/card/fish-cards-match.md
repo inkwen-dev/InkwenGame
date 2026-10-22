@@ -21,4 +21,4 @@ Click or touch the card to open it. Watch and memorize the FISH on the cards. Yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, card, Fish, Kids, Matching, Memory, Puzzle
+- Tags: Arcade, Card, Fish, Kids, Matching, Memory, Puzzle

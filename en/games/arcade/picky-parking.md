@@ -23,4 +23,4 @@ Picky Parking is a relaxing logic puzzle where every move uses precious fuel. Gu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Brain, Car, Logic, Parking, Puzzle, sudoku
+- Tags: Arcade, Brain, Car, Logic, Parking, Puzzle, Sudoku

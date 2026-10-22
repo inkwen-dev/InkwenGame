@@ -19,6 +19,6 @@ Welcome to Weapon Survivor, a wonderful action game filled with gunfire. In this
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Enemies, Gun, survival

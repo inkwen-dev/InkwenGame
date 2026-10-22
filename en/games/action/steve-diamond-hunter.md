@@ -19,6 +19,6 @@ Steve Diamond Hunter is an exciting and free online game for kids, offering hour
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Best Games, Collecting, HTML5, Hypercasual, jump, Kids, Minecraft, Platform, run

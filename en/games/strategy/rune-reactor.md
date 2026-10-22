@@ -30,4 +30,4 @@ discover rare combinations, defeat bosses, and unlock permanent upgrades for fut
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: idle, Magic, pve, rpg, Strategy
+- Tags: idle, Magic, pve, RPG, Strategy

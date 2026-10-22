@@ -19,6 +19,6 @@ Do you miss the old days of yo-yo? Yo-yo hero 3D will give you a chance to reliv
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Mobile, Puzzle, Shoot, Skill

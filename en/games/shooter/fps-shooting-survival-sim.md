@@ -19,6 +19,6 @@ The zombie virus has gotten completely out of hand! Zombies that are evolving ar
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Alien, Shooter, Shooting, Unity3D, WebGL, Zombie

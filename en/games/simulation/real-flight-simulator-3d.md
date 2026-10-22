@@ -19,6 +19,6 @@ Real Flight Simulator 3D is an awesome flight simulator game that will show you 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Air, Aircraft, Boy, Boys, Flight, Fun, H5, HTML5, Kid, Kids

@@ -21,4 +21,4 @@ Ready to explore the haunted Halloween world? Play a hidden object game with 30 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Halloween, Hidden, horror, Puzzle, Skill
+- Tags: Brain, Halloween, Hidden, Horror, Puzzle, Skill

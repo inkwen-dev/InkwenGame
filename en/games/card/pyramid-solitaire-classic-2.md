@@ -17,4 +17,4 @@ Dive into the timeless challenge of Pyramid Solitaire Classic, where strategy an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

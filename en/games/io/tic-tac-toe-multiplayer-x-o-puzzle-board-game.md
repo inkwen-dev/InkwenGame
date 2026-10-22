@@ -19,6 +19,6 @@ Crossed or mega tic tac toe classic Multiplayer is a Strategy game for Board Gam
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2 Player, 2 Player Games, 2D, Android, Arcade, Board, Classic, Matching, Multiplayer, Puzzle, Turn, Turn Based

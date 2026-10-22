@@ -21,4 +21,4 @@ PC bull Movement ndash W A S D bull Jump ndash Spacebar Mobile Device bull Movem
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Anime, Arcade, Kid, Kids, Race, Racing, roblox, Simulation, Simulator, Sport, Strategy, train, transport
+- Tags: Animal, Anime, Arcade, Kid, Kids, Race, Racing, roblox, Simulation, Simulator, Sport, Strategy, Train, transport

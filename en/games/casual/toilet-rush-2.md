@@ -19,6 +19,6 @@ The new Toilet Rush is here is time to break the toilet. Help the troll stickman
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Funny, Kiz 10, kiz10

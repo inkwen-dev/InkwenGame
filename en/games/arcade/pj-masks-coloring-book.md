@@ -21,4 +21,4 @@ Best game NAME for Lover NAME NAME is awesome game coloring book for kids with c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Adult, Arcade, Boys, Cartoon, Cartoon Network, Color, Coloring, Educational, Game, Girls, Kids, Online, Puzzle, rpg
+- Tags: 2D, Adult, Arcade, Boys, Cartoon, Cartoon Network, Color, Coloring, Educational, Game, Girls, Kids, Online, Puzzle, RPG

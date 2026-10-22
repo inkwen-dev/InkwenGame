@@ -21,4 +21,4 @@ A classic hidden object game. Move around the screen and pay attention to the ob
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Funny, hidden-object, Mobile, mouse
+- Tags: Funny, hidden-object, Mobile, Mouse

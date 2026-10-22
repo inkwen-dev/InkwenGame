@@ -21,4 +21,4 @@ Supermarket Empire is a simulation game where you become the master of your own 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arcade, Best Games, Casual, Cooking, Food, management, Mobile, Restaurant, Shopping
+- Tags: 3D, 3D Games, Arcade, Best Games, Casual, Cooking, Food, Management, Mobile, Restaurant, Shopping

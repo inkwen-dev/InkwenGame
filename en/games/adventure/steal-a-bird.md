@@ -46,4 +46,4 @@ Customize skins and bases while stealing birds from other players in the 3D worl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Multiplayer, pvp
+- Tags: 3D, Action, Adventure, Multiplayer, PvP

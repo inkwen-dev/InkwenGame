@@ -21,4 +21,4 @@ In this Farming Tractor Puzzle game, you have 6 images in three modes to play. C
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Fun, HTML5, Kids, Mobile, Puzzle
+- Tags: Farm, Fun, HTML5, Kids, Mobile, Puzzle

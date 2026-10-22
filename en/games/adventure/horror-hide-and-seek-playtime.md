@@ -17,4 +17,4 @@ Enter a chilling game of hide-and-seek where terror lurks at every corner. Trans
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

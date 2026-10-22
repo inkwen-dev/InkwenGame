@@ -19,6 +19,6 @@ This is an interesting word search game. To start first look the left panel to f
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Board, Educational, HTML5, Kids, Mobile, Puzzle, School, Word

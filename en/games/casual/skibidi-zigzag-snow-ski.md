@@ -19,6 +19,6 @@ Set out on an electrifying mountain expedition with Skibidi ZigZag Snow Ski &nda
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Click, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Ski, Skibidi, Skibidi Toilet, Snow

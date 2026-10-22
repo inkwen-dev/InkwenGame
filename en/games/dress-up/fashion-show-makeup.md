@@ -19,6 +19,6 @@ Fashion Princess: Dress Up Time! Who is ready for a fashion adventure? Are you a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Best Games, Simulation

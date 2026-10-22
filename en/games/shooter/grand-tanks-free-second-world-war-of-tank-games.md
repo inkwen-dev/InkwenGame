@@ -19,6 +19,6 @@ Tank defender – this is a game about the defense of their territories from ene
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adult, Adventure, Arcade, Battle, Bomb, Boy, Family, Girl, HTML, HTML5, Hypercasual, War, WebGL

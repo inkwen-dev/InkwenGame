@@ -21,4 +21,4 @@ Play Egyxos Memory Cards online game. The objective of the game is to solve the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Memory
+- Tags: Card, Memory

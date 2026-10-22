@@ -19,6 +19,6 @@ Food Castle - Tower Defense is a deliciously fun battle where your culinary skil
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Enemies, Food, Skills, Tower Defense

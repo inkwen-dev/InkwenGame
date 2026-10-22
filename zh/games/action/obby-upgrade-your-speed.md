@@ -43,4 +43,4 @@ WASD 或方向键 — 移动
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 街机, Clicker, 障碍
+- 标签: 街机, 点击器, 障碍

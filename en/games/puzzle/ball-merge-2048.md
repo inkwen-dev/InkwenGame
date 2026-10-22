@@ -19,6 +19,6 @@ In Ball Merge 2048, you start the game with ball number 2 and enlarge your ball 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Ball, Collecting, Educational, Highscore, Hypercasual, run, running

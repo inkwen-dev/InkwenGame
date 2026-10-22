@@ -19,6 +19,6 @@ Become a fearless worm on a mission in Shoot Some Fish! After losing his family 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, angry, arrow, Defense, Fish, Kill, Killing, Shooting, Skill

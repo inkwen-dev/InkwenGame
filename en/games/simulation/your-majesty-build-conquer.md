@@ -25,4 +25,4 @@
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Strategy
+- Tags: Management, Strategy

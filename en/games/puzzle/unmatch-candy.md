@@ -19,6 +19,6 @@ Welcome to the Unmatch Candy. Unmatch the candy is a new puzzle game and very ea
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Candy, Fun, Kids, Puzzle

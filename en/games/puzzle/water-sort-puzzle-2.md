@@ -19,6 +19,6 @@ The second in the Water Sort Puzzle series! This time the difficulty is increase
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Brain, Casual, Game, Kid, Kids, Puzzle, Skill

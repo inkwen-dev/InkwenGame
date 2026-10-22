@@ -19,6 +19,6 @@ Play the cutest magic balloon free games for toddlers and little kids! Animals p
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 8 Ball Pool, Arcade, Arena, Arkanoid, Army, Baby, Balance, Ball, Ballon, Barbie, Billiard, Board, Bounce, Boy, Boys, Game, Girl, Girls, Magic, management
+- Tags: .io Games, 2 Player Games, 8 Ball Pool, Arcade, Arena, Arkanoid, Army, Baby, Balance, Ball, Ballon, Barbie, Billiard, Board, Bounce, Boy, Boys, Game, Girl, Girls, Magic, Management

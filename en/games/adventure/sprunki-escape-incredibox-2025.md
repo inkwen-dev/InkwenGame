@@ -19,6 +19,6 @@ Now you must escape from Sprunki terror, find all item before escape, and beware
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: horror, Sprunki
+- Tags: Horror, Sprunki

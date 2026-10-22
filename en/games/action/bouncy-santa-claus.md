@@ -19,6 +19,6 @@ Bouncy Santa Claus is super fun jumping game that you can play Online & Unblocke
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Christmas, Girls, HTML5, Jumping, Kids, Platform, Puzzle, Skill, Snow, Winter

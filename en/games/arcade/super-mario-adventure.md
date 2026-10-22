@@ -19,6 +19,6 @@ Super Mario Adventure is an online game that you can play for free. This funny g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Collecting, Fun, HTML5, Hypercasual, Kids, Mario, Mobile, Skill, Superhero

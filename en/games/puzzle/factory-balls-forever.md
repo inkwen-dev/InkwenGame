@@ -19,6 +19,6 @@ Factory Balls Forever is a puzzle game where you have to color the balls correct
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Funny, Mind, Puzzle

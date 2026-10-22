@@ -19,6 +19,6 @@ Let's help our best friends Mia, Ben, Rocky to give the new look for their room.
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Decorate, Decoration, Design, Dress Up

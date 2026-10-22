@@ -19,6 +19,6 @@ Survive against waves of bizarre monsters trying to invade your farm. Collect te
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Best Games, Defense, farm, Fighting, Fun, Monster, Strategy
+- Tags: 1 Player, Adventure, Best Games, Defense, Farm, Fighting, Fun, Monster, Strategy

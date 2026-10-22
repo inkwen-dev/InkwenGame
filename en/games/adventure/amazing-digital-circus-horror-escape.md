@@ -19,6 +19,6 @@ Experience the suspense of Amazing Digital Circus Horror Escape. Explore a eerie
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: amazing, circus, digital circus, fps, horror, Unity3D, WebGL
+- Tags: amazing, circus, digital circus, fps, Horror, Unity3D, WebGL

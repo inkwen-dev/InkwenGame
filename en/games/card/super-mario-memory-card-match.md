@@ -19,6 +19,6 @@ Super Mario Memory Card Match is a delightful card-matching game that takes you 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Brain, card, Casual, Hypercasual, Mario, Matching, Memory, Puzzle, Super
+- Tags: Boys, Brain, Card, Casual, Hypercasual, Mario, Matching, Memory, Puzzle, Super

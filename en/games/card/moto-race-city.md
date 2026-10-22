@@ -19,6 +19,6 @@ Time is key. The longer you ride, the more money you earn to unlock faster, stro
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Bike, card, Driving, Moto, Motocross, Motorcycle, Race, Racing, Road, wheel, wheels
+- Tags: Bike, Card, Driving, Moto, Motocross, Motorcycle, Race, Racing, Road, wheel, wheels

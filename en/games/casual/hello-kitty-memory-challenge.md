@@ -19,6 +19,6 @@ A great memory game for little girls, with Hello Kitty, the cute little white ca
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Fun, Game, Girls, Hello Kitty, HTML5, Kids, Memory

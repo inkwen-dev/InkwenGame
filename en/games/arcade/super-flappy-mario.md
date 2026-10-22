@@ -19,6 +19,6 @@ Welcome to the famous Super Flappy Mario. The rules are very simple : Tap to fly
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Clicker, fly, Hot, Mario, Superhero

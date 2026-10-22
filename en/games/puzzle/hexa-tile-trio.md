@@ -19,6 +19,6 @@ Welcome to Hexa Tile Trio! Your goal is to clear the board by sorting hex tiles 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Brain, Casual, hexa, hexagon, Match 3, Matching, sorting, Stack

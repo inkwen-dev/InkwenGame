@@ -21,4 +21,4 @@ Mowmentum is a relaxing idle lawn-mowing game. Guide your tool across an overgro
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Clicker, cozy, idle, management, mouse, Simulation, Skill
+- Tags: Arcade, Clicker, cozy, idle, Management, Mouse, Simulation, Skill

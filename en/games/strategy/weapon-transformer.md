@@ -19,6 +19,6 @@ Are you ready to defeat enemies and gain coin? Use your bullets and weapons wise
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Cartoon Network, Fighting, Hypercasual, Tower Defense

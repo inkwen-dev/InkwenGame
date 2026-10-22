@@ -19,6 +19,6 @@ Bauble Match Deluxe is an innovative game with Match 3 plus classic bubble shoot
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, HTML5, Match 3, Matching, Mobile, Puzzle, Winter

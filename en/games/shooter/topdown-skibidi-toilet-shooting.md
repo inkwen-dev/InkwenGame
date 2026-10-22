@@ -19,6 +19,6 @@ Embark on an exhilarating journey with TopDown Skibidi Toilet Shooting, an actio
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Enemies, Enemy, Shooting, Skibidi, Skibidi Toilet, Top Down, Unity3D, WebGL

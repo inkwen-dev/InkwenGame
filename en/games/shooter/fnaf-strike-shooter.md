@@ -19,6 +19,6 @@ Take precise aim at animatronic targets in this fast-paced point-and-click shoot
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, CSGO, First Person Shooter, Shoot, Shoot 'Em Up, Shooter, Shooting

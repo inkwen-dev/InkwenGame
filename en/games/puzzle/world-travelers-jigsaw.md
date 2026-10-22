@@ -19,6 +19,6 @@ In this World Travelers Jigsaw game you have 6 images in three modes to play. Ch
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, HTML5, Jigsaw, Kids, Mobile, Puzzle, Summer

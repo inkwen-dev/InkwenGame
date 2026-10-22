@@ -19,6 +19,6 @@ It’s a cake cooking time! Let’s practicing cooking dessert at home. This tim
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cake, Cook, Cooking, Cute, Decorate, Design, Food, Girl, Girls, Kids, Mermaid, Simulation

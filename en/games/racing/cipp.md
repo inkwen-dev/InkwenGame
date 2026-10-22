@@ -19,6 +19,6 @@ Some crazy city driver are driving on the city road, as they own all the city st
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Adventure, Arcade, Car, Casual, Fun, Funny, Hot, Hypercasual, Parking, Race, Racing, Taxi, Unity3D

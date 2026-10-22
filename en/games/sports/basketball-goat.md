@@ -19,6 +19,6 @@ Step onto the court and prove that you have what it takes to become the Basketba
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Basketball, Best Games, Puzzle, Sports

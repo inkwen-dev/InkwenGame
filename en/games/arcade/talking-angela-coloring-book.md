@@ -19,6 +19,6 @@ Talking Angela Coloring Book is a virtual pet created by Slovenian studio Outfit
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Baby, Coloring, Fun, Girls, HTML5, Hypercasual, Kids, Mobile, School

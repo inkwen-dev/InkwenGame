@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 8 球台球, 球, 台球, HTML, HTML5, 休闲, 匹配, 台球, 射击, 射击, Unity3D
+- 标签: 3D, 3D游戏, 8球台球, 球, 台球, HTML, HTML5, Hypercasual, 匹配, 台球, 射击, 射击, Unity3D

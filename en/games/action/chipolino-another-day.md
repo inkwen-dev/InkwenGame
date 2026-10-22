@@ -19,6 +19,6 @@ This is interesting adventure game for kids. Chipollino is a running-jumping fun
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, HTML5, jump, Kids, Mobile, Puzzle, running, Skill

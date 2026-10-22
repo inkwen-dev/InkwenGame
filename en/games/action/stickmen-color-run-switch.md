@@ -19,6 +19,6 @@ Welcome to the Stickman Run! Colorful game that will keep you on your toes till 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Color, Games, Online, run, running, Stickman, Sword

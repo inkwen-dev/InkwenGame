@@ -21,4 +21,4 @@ Frozen is a 2013 American 3D computer-animated musical fantasy film produced by 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, Match 3, Memory, Puzzle
+- Tags: Brain, Card, Match 3, Memory, Puzzle

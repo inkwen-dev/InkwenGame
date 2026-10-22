@@ -19,6 +19,6 @@ Animals ask you to find their names on the game board on the right. There are sc
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Fun, HTML5, Kids, Letters, Mobile, Skill, Word

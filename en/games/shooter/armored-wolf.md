@@ -19,6 +19,6 @@ Armored Wolf - 2D tank shooter with a very addictive gameplay, made in the best 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Shoot, Shoot 'Em Up, Shooter, Shooting, Tank, Tanks, War

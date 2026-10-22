@@ -19,6 +19,6 @@ Archery Shooting A tiny and easy to play game about Archery. Rule of game is ver
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Shoot, Shooting

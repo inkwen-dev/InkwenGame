@@ -19,6 +19,6 @@ Bottle Gun Shooting is a new shooting operation with ultimate shooting fun and e
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, Games, Gun, Robot, Shooter, Shooting

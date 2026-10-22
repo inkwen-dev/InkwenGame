@@ -19,6 +19,6 @@ Enter Bird Island in Angry Birds Evolution – a visually stunning RPG with hund
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D Games, Animal, Battle, Battlegrounds, Bird, Fight, Fighting

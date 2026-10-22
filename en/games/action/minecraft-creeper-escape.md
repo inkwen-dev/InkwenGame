@@ -19,6 +19,6 @@ Jump across dangerous platforms and guide a Minecraft creeper through blocky esc
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Escape, Jumping, Minecraft, Platform

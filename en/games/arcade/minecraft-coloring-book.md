@@ -19,6 +19,6 @@ Minecraft Coloring Book: 8 coloring pages filled with Minecraft characters, weap
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Color, Coloring, Draw, Drawing, Mine, Minecraft, Miner, Puzzle

@@ -19,6 +19,6 @@ Happy Orange Glass is a fun and challenging puzzle game where your goal is to dr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Drawing, Hypercasual, Kids, Logic, Physics, Puzzle

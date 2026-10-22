@@ -19,6 +19,6 @@ Modern Bus Parking: Bus Driving Games Ready to play Luxury Bus Parking Simulator
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D, 3D Games, Adult, Adventure, Arcade, Baseball, Basketball, Battlegrounds, Best, Boys, Bricks, Bubble Shooter, Car, Cars, Ladybug, Love, Quiz, Race, Racing, Simulation, Simulator, Supercars, Truck, Unity3D

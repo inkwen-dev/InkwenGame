@@ -19,6 +19,6 @@ Are you ready to take up the challenge of this game that mixes tetris and 2048? 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Logic, Number, Puzzle, Tetris

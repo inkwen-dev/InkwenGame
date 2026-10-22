@@ -19,6 +19,6 @@ Play Cannon Balls 3D game in your web browser for free on Superkidgames.com. Try
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Ball, Bomb, Bubble Shooter, Fun, Hypercasual, Physics, Shoot, Shoot 'Em Up

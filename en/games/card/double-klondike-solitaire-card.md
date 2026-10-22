@@ -19,6 +19,6 @@ Ready for the ultimate solitaire test? Try Double Klondike Solitaire! This excit
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Casino, Poker, Puzzle, Slot Machine, Solitaire
+- Tags: Card, Casino, Poker, Puzzle, Slot Machine, Solitaire

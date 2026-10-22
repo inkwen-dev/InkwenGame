@@ -19,6 +19,6 @@ A fun and fairly simple game, in which you can quickly click on the colorful lad
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Mobile, Skill, Slicing

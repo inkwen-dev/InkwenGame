@@ -21,4 +21,4 @@ Be the top business tycoon of your town. Amoung us Business LUCKY CHEST IS 100% 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, card, Family
+- Tags: 1 Player, Adventure, Card, Family

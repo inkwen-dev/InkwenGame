@@ -19,6 +19,6 @@ This is a simple casual game which rotates in a counter clockwise and a clockwis
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Arcade, Boys, Funny, Girls, Logic

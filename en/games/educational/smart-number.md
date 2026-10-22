@@ -19,6 +19,6 @@ Smart Numbers! Logic puzzle variation of classic game with some changes. Touchsc
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Educational, Kid, Kids, School, sudoku
+- Tags: Baby, Baby Hazel, Educational, Kid, Kids, School, Sudoku

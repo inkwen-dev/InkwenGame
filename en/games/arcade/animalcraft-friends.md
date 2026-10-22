@@ -19,6 +19,6 @@ In this adventure, two sweet animals need to survive. Help the pig and the sheep
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Animal, Arcade, Cute, mineblock, Minecraft

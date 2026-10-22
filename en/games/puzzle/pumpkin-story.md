@@ -19,6 +19,6 @@ A Pumpkin Story is a fun adventure ride of the little pumpkin in this Halloween 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Boy, Boys, Brain, Dungeon, Halloween, jump, Jumping, Monster, Puzzle

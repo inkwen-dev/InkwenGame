@@ -21,4 +21,4 @@ Welcome to this potato chips factory game where you can perform the whole proces
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Arcade, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Crafting, Fairy, Family, Fantasy, farm, Fashion, Fun, Funny, Game, Games, Girl, Girls, Hypercasual, Kart, Ladybug, Mario, Miraculous Ladybug, PacMan, Panda, Parking, Shark, Space, Spaceship
+- Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Arcade, Barbie, Boy, Boys, Bubble, Bubble Shooter, Candy, Crafting, Fairy, Family, Fantasy, Farm, Fashion, Fun, Funny, Game, Games, Girl, Girls, Hypercasual, Kart, Ladybug, Mario, Miraculous Ladybug, PacMan, Panda, Parking, Shark, Space, Spaceship

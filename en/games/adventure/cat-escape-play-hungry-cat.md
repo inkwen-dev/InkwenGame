@@ -19,6 +19,6 @@ Cat escape is a simple game where you play as a cat and you need to eat Simple r
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Animal, Cat, Unity3D

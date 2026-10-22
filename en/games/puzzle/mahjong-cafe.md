@@ -19,6 +19,6 @@ Do you like mind games with exciting gameplay? Then you're here! Visit Mahjong C
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Brain, Cake, Candy, Click, Clicker, Cook, Cooking, Cute, Educational, Family, Fruit, Fruits, Fun, Funny, Game, Games, Hypercasual, Kids, Logic, Logical, Mahjong, Match 3, Match3, Matching, Math, Memory, Mind, Mobile, Play, Puzzle, Relaxation, Restaurant, Retro, Unity3D, WebGL

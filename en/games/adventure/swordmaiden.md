@@ -21,4 +21,4 @@ Swordmaiden features sword bloody fighting with different mythical creatures acr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Anime, Kill, Killing, Maze, Monster, rpg, Sword, Undead, weapons, WebGL
+- Tags: 1 Player, 3D, 3D Games, Action, Adventure, Anime, Kill, Killing, Maze, Monster, RPG, Sword, Undead, weapons, WebGL

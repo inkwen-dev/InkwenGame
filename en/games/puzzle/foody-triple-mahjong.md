@@ -19,6 +19,6 @@ A triple mahjong game with ocean theme. You can eliminate only three of same til
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Food, HTML5, Mahjong, Match 3, Mobile, Puzzle

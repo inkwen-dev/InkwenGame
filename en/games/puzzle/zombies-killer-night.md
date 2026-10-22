@@ -21,4 +21,4 @@ Zombies Night game has a lot of success review and player this MONTH that signif
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Air, Avoid, Baby, Baby Hazel, Balance, Ball, Ballon, Best, Bike, Billiard, Bird, Block, Blood, Board, Brawl, Bricks, Bridge, Bubble, Bubble Shooter, burger, Collecting, Color, Coloring, Cook, Cooking, Drawing, Dress Up, drift, drifting, Driving, Fantasy, farm, Fashion, Fight, Fire, Friv, Fruits, Fun, Games, HTML5, Hypercasual, Ice, Interactive, Interactive Fiction, Shoot, Shoot 'Em Up, Shooter, Shooting, Zombie
+- Tags: .io, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Air, Avoid, Baby, Baby Hazel, Balance, Ball, Ballon, Best, Bike, Billiard, Bird, Block, Blood, Board, Brawl, Bricks, Bridge, Bubble, Bubble Shooter, Burger, Collecting, Color, Coloring, Cook, Cooking, Drawing, Dress Up, drift, drifting, Driving, Fantasy, Farm, Fashion, Fight, Fire, Friv, Fruits, Fun, Games, HTML5, Hypercasual, Ice, Interactive, Interactive Fiction, Shoot, Shoot 'Em Up, Shooter, Shooting, Zombie

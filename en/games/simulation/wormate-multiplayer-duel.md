@@ -21,4 +21,4 @@ Wormate multiplayer duel is the original snake game with new Skins. choose your 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 2 Player, Action, Hypercasual, Multiplayer, Simulation, Strategy, worm, Worms
+- Tags: .io, .io Games, 2 Player, Action, Hypercasual, Multiplayer, Simulation, Strategy, Worm, Worms

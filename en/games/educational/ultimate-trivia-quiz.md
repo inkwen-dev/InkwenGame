@@ -19,6 +19,6 @@ Ultimate Trivia Quiz is an exciting quiz game with two types of questions. Test 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Best Games, Brain, free html5 games for your website, Quiz

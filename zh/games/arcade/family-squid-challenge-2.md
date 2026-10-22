@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 双人玩家, 2 人游戏, 2D, 动作, 街机, Minecraft
+- 标签: 1人游戏, 2人, 2人游戏, 2D, 动作, 街机, 我的世界

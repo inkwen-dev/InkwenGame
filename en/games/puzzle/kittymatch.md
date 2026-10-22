@@ -19,6 +19,6 @@ Welcome to the fluffiest cleanup mission ever! Tap the stacked items to pick the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Cartoon, Cat, Girl, Girls, Hypercasual, Match 3, Match3, Puzzle, Relaxation, sort

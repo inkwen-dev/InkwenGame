@@ -19,6 +19,6 @@ My Super Slime Pet is an amazing simulation game at yiv.com. Join the slime pet 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Cat, Cleaning, Cute, Educational, Food, Fruit, Fun, Funny, HTML5, Kids, Mobile, Simulation

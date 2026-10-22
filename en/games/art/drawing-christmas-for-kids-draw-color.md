@@ -19,6 +19,6 @@ Painting games for kids have never been so lively! Kids paint and color in our l
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Draw, Drawing, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

@@ -19,6 +19,6 @@ Each level is a separate picture that needs to be assembled from many pieces. Yo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Baby Games, Best Games, Casual, Cat, Click, Cool, Fun, Funny, Kid, Kids, Puzzle

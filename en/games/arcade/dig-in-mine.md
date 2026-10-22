@@ -19,6 +19,6 @@ Step into the captivating world of Dig In Mine where you embody the character Ja
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Avoid, Collecting, endless, Fun, Funny, Gold, Mine

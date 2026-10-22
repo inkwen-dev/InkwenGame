@@ -19,6 +19,6 @@ Welcome to our game and your first super cool day as a boss! Sometimes, work lif
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2025 games, Arcade, Best Games, Business, Cartoon Network, Casual, Fun, HTML5, idle, management, Relaxation, Simulation
+- Tags: 2025 games, Arcade, Best Games, Business, Cartoon Network, Casual, Fun, HTML5, idle, Management, Relaxation, Simulation

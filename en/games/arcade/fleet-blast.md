@@ -19,6 +19,6 @@ Join the thrilling naval adventure of FLEET BLAST &ndash; the ultimate strategic
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Board, Casual

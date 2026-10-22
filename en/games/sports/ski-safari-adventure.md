@@ -19,6 +19,6 @@ Bienvenue à Ski Safari! Ski Safari est l’endroit où les animaux, les avalanc
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, sky, Sport, Sports

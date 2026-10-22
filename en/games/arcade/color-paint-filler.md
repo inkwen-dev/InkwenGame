@@ -19,6 +19,6 @@ Color Paint Filler is an engaging mobile puzzle game that will test your strateg
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML5, Jumping, Ninja, Unity3D, WebGL

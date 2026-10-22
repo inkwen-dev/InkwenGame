@@ -19,6 +19,6 @@ Queen Run 3D is a funny 3D arcade game can both play on the computer and mobile 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Collecting, Fun, HTML5, Kids, Obstacle, running

@@ -19,6 +19,6 @@ The Top Hit Parking Game Series returns – featuring an all-new location at the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Bike, Boys, Bubble Shooter, Candy, Car, Cars, Chicken, Crazy, drift, drifting, Driving, Games, Girl, Hair, Magic, Mario, Monkey, Motorcycle, Play, Simulator, Supercars, Truck

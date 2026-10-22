@@ -19,6 +19,6 @@ Sleeping Unicorn is an online game that is free to play. The objective of the ga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Game, Games, HTML5, Hypercasual, Online

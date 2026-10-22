@@ -19,6 +19,6 @@ sponge among us is a fun and engaging Adventure game. Your mission is simple: Ru
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Cartoon, Cartoon Network, Disney, Jelly, movie
+- Tags: 2D, Cartoon, Cartoon Network, Disney, Jelly, Movie

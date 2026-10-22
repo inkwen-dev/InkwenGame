@@ -19,6 +19,6 @@ Garten of Banban is a thrilling and scary horror puzzle adventure game. You ente
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Avoid, Collecting, Escape, horror, Monster
+- Tags: 3D Games, Avoid, Collecting, Escape, Horror, Monster

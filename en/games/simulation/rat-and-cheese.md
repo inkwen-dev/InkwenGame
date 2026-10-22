@@ -19,6 +19,6 @@ Rat love cheese and its home. The rat is lost. Track it back to mouse hole. Tap 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, Animal, Cat, Cook, Cooking, Food, Puzzle

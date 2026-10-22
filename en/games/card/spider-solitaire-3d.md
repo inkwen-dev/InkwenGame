@@ -19,6 +19,6 @@ Standard Spider Solitaire cards patience game with 3D cards and animated 3D back
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, card, Cartoon, Hypercasual
+- Tags: 3D Games, Android, Card, Cartoon, Hypercasual

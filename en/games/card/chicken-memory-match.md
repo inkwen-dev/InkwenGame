@@ -17,4 +17,4 @@ Get ready to challenge your memory with Chicken Memory Match, where you slide ti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

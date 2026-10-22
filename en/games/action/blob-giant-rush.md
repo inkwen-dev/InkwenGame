@@ -19,6 +19,6 @@ Do you want to participate in an incredibly fascinating race? Blob Giant Rush is
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Arcade, Avoid, Boy, Casual, Collecting, Girl, Kids, Mobile, Online, run, running

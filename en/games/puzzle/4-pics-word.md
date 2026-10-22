@@ -19,6 +19,6 @@ Do you like word games? Do you like picture quizzes? Then find out what everyone
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Letters, Puzzle, Word

@@ -19,6 +19,6 @@ Bag Defense is an action-packed adventure where strategy and skill are the key t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Defense, Mobile, mouse, survival
+- Tags: Battle, Defense, Mobile, Mouse, survival

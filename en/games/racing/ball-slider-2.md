@@ -19,6 +19,6 @@ Not Balance The Ball Over The to play, play it anywhere anytime So you can balan
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Brain, Casual, Clicker, Magic

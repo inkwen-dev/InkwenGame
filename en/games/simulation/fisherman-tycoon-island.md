@@ -21,4 +21,4 @@ This day promises to bring you the biggest catch or your life. But everything de
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, Fish, fishing
+- Tags: .io Games, Fish, Fishing, IO

@@ -19,6 +19,6 @@ Crystal Cave Sort is a relaxing yet brain-teasing gem sorting puzzle set in a ma
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Arcade, Casual, Color, Coloring, Fun, Funny, Hypercasual, Puzzle, Relaxation, sort, sorting

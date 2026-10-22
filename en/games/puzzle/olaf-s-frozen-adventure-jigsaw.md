@@ -19,6 +19,6 @@ Christmas is coming soon, are you looking forward to it? Olaf's Frozen Adventure
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Cartoon, Casual, Disney, Elsa, Frozen, Girl, Girls, H5, HTML5, Jigsaw, Puzzle

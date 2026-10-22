@@ -19,6 +19,6 @@ Ride your bike as far as you can, and don't forget about the fuel: collect fuel 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Moto, Motorcycle, Physics, Race, Racing

@@ -19,6 +19,6 @@ Desktop A - Move Left W - Move Up D - Move Right S - Move Down K - Shot L - Powe
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Alien, Game, Games, Shoot 'Em Up, Shooter, Space, Spaceship

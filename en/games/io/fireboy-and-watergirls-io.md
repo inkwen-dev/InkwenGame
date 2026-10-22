@@ -19,6 +19,6 @@ Fireboy and Watergirl, made by Oslo Albet, are exploring the Forest Temple in se
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure

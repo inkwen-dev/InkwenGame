@@ -19,6 +19,6 @@ KUNG FU FIGHT : BEAT EM UP is the best Kung Fu action game. You’ll be fighting
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Dragon, Fight, Punch

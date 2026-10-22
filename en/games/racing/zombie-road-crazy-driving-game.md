@@ -19,6 +19,6 @@ This world is occupied by zombies, now you will drive your car and escape from t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Avoid, Boy, Boys, Car, Cars, Driving, H5, HTML5, Kid, Kids, Obstacle, Zombie

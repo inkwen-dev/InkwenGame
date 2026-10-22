@@ -19,6 +19,6 @@ Welcome to the fun puzzle game of the famous Anime Girls. Anime Girls Jigsaw, co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Girls, Jigsaw

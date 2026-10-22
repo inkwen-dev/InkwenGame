@@ -19,6 +19,6 @@ Hi, young stylist! You will find a very unusual couple in love - a brutal fox an
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Cute, Dress Up, Hair, Love, Rabbit, valentine day

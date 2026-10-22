@@ -19,6 +19,6 @@ Simple Loot Idle is a clicker game to equip your hero with the better loot items
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Clicker, Fighting, rpg
+- Tags: Clicker, Fighting, RPG

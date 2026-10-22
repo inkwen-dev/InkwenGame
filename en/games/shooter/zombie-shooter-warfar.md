@@ -19,6 +19,6 @@ Zombie Frontier Warfare -Last Stand in Battlefield it's an fps offline game rele
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Kill, Killing, Shoot, Shooter, Shooting, Undead, Unity3D, War, Zombie

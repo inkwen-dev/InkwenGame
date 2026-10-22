@@ -19,6 +19,6 @@ Are you ready to solve the puzzle? The Train vs Train mind globbing puzzle game 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Brain, Puzzle, train, transport
+- Tags: Arcade, Brain, Puzzle, Train, transport

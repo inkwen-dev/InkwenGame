@@ -19,6 +19,6 @@ Dual Two Carget in the car immediately and walk away.There are only some points 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Obstacle, Race, Racing, Unity3D

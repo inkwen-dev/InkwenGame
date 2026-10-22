@@ -19,6 +19,6 @@ Toy Race Car is fun racing html5 game suitable for all ages. Guide your toy car 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Car, Cars, Collecting, Fun, Game, HTML5, Kids, Obstacle, Race, Racing

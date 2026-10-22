@@ -19,6 +19,6 @@ Mouse or touch control -Work on all html5 browser and mobile -You can replace th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adult, Arcade, Boy, Car, Cartoon, Cartoon Network, Casual, Girl, Logic, Mobile, movie, Puzzle, Robot, Supercars, Superhero
+- Tags: .io Games, Adult, Arcade, Boy, Car, Cartoon, Cartoon Network, Casual, Girl, Logic, Mobile, Movie, Puzzle, Robot, Supercars, Superhero

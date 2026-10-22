@@ -21,4 +21,4 @@ DUO With Online Friends game is a challenging game with unlimited entertainment.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Cartoon, Cute, Multiplayer, Puzzle
+- Tags: Card, Cartoon, Cute, Multiplayer, Puzzle

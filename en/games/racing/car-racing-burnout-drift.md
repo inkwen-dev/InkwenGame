@@ -19,6 +19,6 @@ Torque Burnout is a "driving" game that takes elements from all other racing gam
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Car, drift, drifting, Driving, Racing, Simulator, Supercars, Unity3D, WebGL

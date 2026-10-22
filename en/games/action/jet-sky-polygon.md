@@ -19,6 +19,6 @@ Jet-Run is a 3D Endless Runner game template where you control a jet-skin, dodgi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jet, jetpack, jetski, Mentolatux, water, WebGL

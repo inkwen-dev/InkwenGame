@@ -21,4 +21,4 @@ Oh no! New Year is coming soon, but you haven&rsquo;t prepared for it yet! Quick
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Action, Arcade, Casual, Christmas, free html5 games for your website, games for your website, horror, HTML, html games for your website, HTML5, html5 games for your site, Hypercasual, Santa
+- Tags: 2D, Action, Arcade, Casual, Christmas, free html5 games for your website, games for your website, Horror, HTML, html games for your website, HTML5, html5 games for your site, Hypercasual, Santa

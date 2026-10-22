@@ -21,4 +21,4 @@ Create, expand and maintain your seafood store right now! Earn money and create 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, farm
+- Tags: Adventure, Farm

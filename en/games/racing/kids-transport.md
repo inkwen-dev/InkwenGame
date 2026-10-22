@@ -19,6 +19,6 @@ Kids Transport is a fun educational game for early preschool age that will help 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Baby, Boy, Boys, bus, H5, Hypercasual

@@ -19,6 +19,6 @@ Naruto Runner Game Adventure is a fun arcade obstacle course in which you will a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boy, Boys, Fun, H5, HTML5, Kid, Kids, run, running

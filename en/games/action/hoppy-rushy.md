@@ -19,6 +19,6 @@ Welcome to Hoppy Rushy, a Pixel Platform Game! Tap or click to jump over platfor
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Highscore, Pixel, Platform

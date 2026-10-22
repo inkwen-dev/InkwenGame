@@ -19,6 +19,6 @@ Help the little fallen Kitty Cat to land in the right platform! How to play: Cli
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Casual, Cat, Family, HTML, HTML5, Hypercasual, Kid, Mobile, Physics, Puzzle

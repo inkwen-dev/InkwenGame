@@ -19,6 +19,6 @@ Turquoise Blocks is a game in wich you must drag the pieces to the grid to fill 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Bejeweled, Block, Jewel

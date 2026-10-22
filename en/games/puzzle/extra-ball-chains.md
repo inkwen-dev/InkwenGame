@@ -19,6 +19,6 @@ You play as a little frog who protects his house from the invasion of balls. Hel
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, Levels, Mobile, Puzzle, Zuma

@@ -19,6 +19,6 @@ Stack the Xmas gifts as many as possible. - Cute and colorful gifts. - Realistic
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Casual, Christmas, Holiday, HTML5, Mobile, Physics, Puzzle, Simulation

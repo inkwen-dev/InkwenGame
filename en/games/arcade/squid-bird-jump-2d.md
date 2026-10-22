@@ -19,6 +19,6 @@ One day, a very small squid bird chose to slip out of her nest and go on an expl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, HTML5, jump, Jumping, Mobile, Skill, Unity3D, WebGL

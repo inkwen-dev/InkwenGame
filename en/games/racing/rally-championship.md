@@ -19,6 +19,6 @@ Rally CHAMPIONSHIP is a fun classic 2D arcade racing game similar with the class
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Car, drift, drifting, Driving, HTML5, Mobile, Racing, Sport

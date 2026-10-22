@@ -19,6 +19,6 @@ Tap to match the crazy pumpkins as many as you can! It&rsquo;s Giddy Jacks, the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Family, HTML, mapi games, Puzzle

@@ -19,6 +19,6 @@ Use Mouse To Play and Follow introduction
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Brain, Casual, Funny, Girl, Girls, Hot, HTML5, Hypercasual, Kids, Mobile, Online

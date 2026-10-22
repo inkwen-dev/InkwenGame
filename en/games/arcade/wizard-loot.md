@@ -19,6 +19,6 @@ Wizard Loot is a great retro game, where you have to solve the puzzles of the le
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Physics, Puzzle, Witch, Wizard

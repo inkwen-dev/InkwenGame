@@ -19,6 +19,6 @@ This is interesting fun tank strategy game. On beginning of every level you need
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, HTML5, Kids, Mobile, Shooting, Strategy, Tank, War

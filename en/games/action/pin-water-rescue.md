@@ -19,6 +19,6 @@ Pin Water Rescue is a puzzle game. Your house is firing, but you are trapped in 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Brain, Fire, House, HTML, HTML5, Kid, Kids, Logic, Logical, Platform, Puzzle, Rescue

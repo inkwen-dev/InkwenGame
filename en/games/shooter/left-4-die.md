@@ -21,4 +21,4 @@ Left 4 Die is an intense survival shooter set in a post-apocalyptic environment.
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, First Person Shooter, Multiplayer, pve, Shooting, survival, wolf, Zombie
+- Tags: 3D, Action, First Person Shooter, Multiplayer, pve, Shooting, survival, Wolf, Zombie

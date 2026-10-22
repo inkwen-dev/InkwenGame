@@ -19,6 +19,6 @@ Stylish, deadly and smooth as a billiard ball, Johnny Trigger is a man on a miss
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Hypercasual, Shoot, Shooting

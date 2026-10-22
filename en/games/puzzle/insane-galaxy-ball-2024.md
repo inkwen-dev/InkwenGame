@@ -19,6 +19,6 @@ The primary objective of the game is to navigate through various levels while ke
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Ball, HTML5, iPad, iPhone, Mentolatux, Mobile, Puzzle, Space

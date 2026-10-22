@@ -19,6 +19,6 @@ This is a Coloring Book Easter, where he exercise her imagination and motor skil
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Color, Coloring, Easter, Educational, Fun, Funny, Holiday, HTML5, Kids, Mobile, Skill

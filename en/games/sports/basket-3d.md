@@ -19,6 +19,6 @@ Are you ready to put some hoops in the basket? Take a ball and begin dunking it 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Ball, Basketball, HTML5, Mobile, Unity3D

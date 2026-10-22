@@ -19,6 +19,6 @@ There has a chance that you can run your own Mini Mart, do you like to do? Your 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Kids, Mobile, Skill

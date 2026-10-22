@@ -19,6 +19,6 @@ Baby Games Animal Memory Game for Kids &ndash; a delightful and educational mobi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Baby Games, Kids, Memory, Puzzle

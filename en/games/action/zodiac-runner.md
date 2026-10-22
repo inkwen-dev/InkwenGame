@@ -19,6 +19,6 @@ How do you know about the zodiac? Zodiac Runner is a vertical-version running ar
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Collecting, Mobile, Platform, running

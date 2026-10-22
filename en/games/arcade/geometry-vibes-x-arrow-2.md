@@ -19,6 +19,6 @@ Geometry Vibes X Arrow is the newest evolution of the Geometry Vibes series, off
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Arcade, arrow, Geometry

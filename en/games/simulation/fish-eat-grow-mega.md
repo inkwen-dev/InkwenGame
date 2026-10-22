@@ -19,6 +19,6 @@ The mega grow is beginning with the mega fishes in the huge ocean on a great exc
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Animal, eating, Fish, grow, Simulation

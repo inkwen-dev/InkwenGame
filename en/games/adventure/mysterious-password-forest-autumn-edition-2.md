@@ -19,6 +19,6 @@ You walked to the forest for a breath of fresh air. After a long walk you lose y
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Escape, Mobile, Point And Click, Puzzle

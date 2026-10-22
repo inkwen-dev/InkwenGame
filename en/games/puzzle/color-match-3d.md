@@ -19,6 +19,6 @@ How much do you know knowledge of color matching? Color Match provides you with 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Color, Matching, Mobile, Puzzle, Unity3D

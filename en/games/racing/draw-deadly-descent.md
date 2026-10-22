@@ -19,6 +19,6 @@ Draw Deadly Descent - a game that combines two elements (parts). This is a puzzl
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Best, Car, Cars, Casual, Crazy, Draw, Drawing, HTML5, Mobile, New, Physics, Puzzle

@@ -19,6 +19,6 @@ Guess the word in common for 4 images. Can you find it?
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Brain, Guessing, Puzzle, Quiz, Word

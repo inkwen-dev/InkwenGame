@@ -19,6 +19,6 @@ This is a very interesting and fun battle game, in the game, players need to car
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Battle, Battlegrounds, Blood, Bomb, Boys, Clash, H5

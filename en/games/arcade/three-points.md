@@ -19,6 +19,6 @@ Three Points is a fast-paced neon reflex arcade game that challenges your precis
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, mapi games, Matching, Timing

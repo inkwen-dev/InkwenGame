@@ -19,6 +19,6 @@ Baby Taylor has always loved the elegant and beautiful dance of ballet. Her drea
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Dancing, Decorate, Decoration, Design, Dress Up, Educational, Girl, Girls, Kids, Makeover, Simulation

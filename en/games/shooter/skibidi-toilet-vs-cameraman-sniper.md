@@ -21,4 +21,4 @@ Camera man are trying to survive in toilet mans red light green light game. If t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Battle, Enemy, Gun, prison, Shooting, Skibidi, Skibidi Toilet, Sniper, War, weapons, WebGL
+- Tags: 3D, Action, Battle, Enemy, Gun, Prison, Shooting, Skibidi, Skibidi Toilet, Sniper, War, weapons, WebGL

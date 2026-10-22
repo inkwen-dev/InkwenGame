@@ -47,4 +47,4 @@ Features:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Brain, Educational, Math, typing
+- Tags: Arcade, Brain, Educational, Math, Typing

@@ -19,6 +19,6 @@ Embark on a captivating journey of mind-bending puzzles with Connect Dots! Engag
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, amazing, Brain, Brainrot, Fun, Game, Puzzle, puzzleblock, Relaxation

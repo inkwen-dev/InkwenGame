@@ -19,6 +19,6 @@ Have you ever wanted to work from home and earn money? Yes, today we are freelan
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Arcade, Boys, Girls, Pixel, Simulation, Simulator

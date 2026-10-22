@@ -19,6 +19,6 @@ Run away from the hungry lion with little Hunter! An addictive endless runner th
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Action, Adventure, Casual, endless, Game, Games, html5 games for your site, hunter, Obstacle, run, survival

@@ -19,6 +19,6 @@ Dino-Merger is an addictive puzzle strategy game where players combine various d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Arcade, Dinosaur, Puzzle, Unity3D, WebGL

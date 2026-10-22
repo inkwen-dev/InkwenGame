@@ -19,6 +19,6 @@ If you are a craft master. World Craft winter exploration ready for you. Show yo
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D Games, Craft, Crafting, Minecraft, Pixel, Unity3D

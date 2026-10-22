@@ -19,6 +19,6 @@ Dungeon cave is a puzzle game where you have to control the player, get coin and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Dungeon, Fun, Kid, Puzzle

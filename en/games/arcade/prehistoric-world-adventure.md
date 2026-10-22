@@ -19,6 +19,6 @@ Are you ready to go back to the stone age? This game sends you into a prehistori
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Android, Arcade, Boy, Boys, Click, Clicker, Girl, Girls, Super, Unity3D, World

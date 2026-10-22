@@ -19,6 +19,6 @@ This game features an incredible 100 levels. Open 4 cards in a row to activate a
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, card, Fun, Kids, Logic, Mobile, Skill, Solitaire
+- Tags: Best, Card, Fun, Kids, Logic, Mobile, Skill, Solitaire

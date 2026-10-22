@@ -19,6 +19,6 @@ Click the cards to flip a christmas items. Memorize their position and match the
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Christmas, HTML5, Memory, Mobile
+- Tags: Card, Christmas, HTML5, Memory, Mobile

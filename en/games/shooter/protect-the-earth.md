@@ -19,6 +19,6 @@ Our blue planet Earth is constantly becoming subject to bombard various celestia
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Defense, HTML5, Mobile, Shooting, Skill, Space, Spaceship

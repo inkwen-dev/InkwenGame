@@ -19,6 +19,6 @@ Space War Plane is a 2D war game. There is war in the sky in this game. You have
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Air, Arcade, Battle, Bomb, Casual, Hypercasual, Mobile

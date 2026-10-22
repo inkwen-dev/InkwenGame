@@ -21,4 +21,4 @@ Start with a tiny arcade and grow it into an empire&mdash;buy cabinets, place th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Arcade, build, management, Mobile
+- Tags: 3D, Arcade, build, Management, Mobile

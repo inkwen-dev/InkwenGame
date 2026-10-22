@@ -19,6 +19,6 @@ In the game, we have to help Kitty save his people from the terrible Kripotians.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Alien, Cat, Shooter

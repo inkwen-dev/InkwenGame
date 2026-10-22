@@ -19,6 +19,6 @@ It&rsquo;s a Flappy Bird-style game, but with cats instead of birds! Featuring a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cat, Click, Fun, jump, Jumping, Mentolatux, WebGL

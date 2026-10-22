@@ -17,4 +17,4 @@ Dive into the fiery depths of hell in Demonic Run, an adrenaline-fueled endless 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ Get ready to unleash the ultimate sniper 3d experience with the most thrilling a
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 3D Games, Action, amazing, Enemy, Game, Shooter, Shooting, Sniper

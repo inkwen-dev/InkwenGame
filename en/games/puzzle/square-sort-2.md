@@ -19,6 +19,6 @@ Square Sort is a new type of square game. You need to drag the screen to make th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Logic, Matching, Mobile, Skill

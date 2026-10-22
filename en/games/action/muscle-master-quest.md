@@ -19,6 +19,6 @@ Muscle Master Quest &ndash; Smash Running is an action-packed runner game where 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, builder, Casual, Fight, Game, quest, Race, run, running

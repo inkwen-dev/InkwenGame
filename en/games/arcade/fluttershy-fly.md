@@ -19,6 +19,6 @@ Fluttershy Fly is a side-scroller game where the player controls the Fluttershy.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Aircraft, Bird, Cartoon, Casual, endless, Flight, fly, Game, Pony

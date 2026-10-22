@@ -21,4 +21,4 @@ Welcome to the wonderful Animal Transport Truck 3D Game, and get ready to drive 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Animal, Boy, Boys, Casual, farm
+- Tags: 1 Player, 3D, 3D Games, Animal, Boy, Boys, Casual, Farm

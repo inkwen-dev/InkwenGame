@@ -19,6 +19,6 @@ Are you ready to play a popular and entertaining puzzle game? You must use a nee
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Best, Candy, Casual, Click, Funny, Hypercasual, Kids, Puzzle, School, Skills, WebGL

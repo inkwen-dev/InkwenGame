@@ -21,4 +21,4 @@ Dash Hero is a casual game where you become a courageous hero on a quest to resc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: mouse, Physics, Platform, Princess, Superhero, Unity3D
+- Tags: Mouse, Physics, Platform, Princess, Superhero, Unity3D

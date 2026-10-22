@@ -19,6 +19,6 @@ Rooster Ranch is a relaxing egg-matching puzzle on a sunny farm. Tap an egg to s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Brain, Casual, Chicken, eggs, farm, Logic, Matching, Puzzle
+- Tags: Animal, Brain, Casual, Chicken, eggs, Farm, Logic, Matching, Puzzle

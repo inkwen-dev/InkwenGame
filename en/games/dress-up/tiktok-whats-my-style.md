@@ -19,6 +19,6 @@ Define your fashion style with a fun game! It's time to spin the wheel, which wi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Hazel, Dress Up, Elsa, Fashion, Girls, Makeover, Princess

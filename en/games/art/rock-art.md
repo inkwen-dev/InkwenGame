@@ -19,6 +19,6 @@ Discover the hottest new trend in 3D coloring and DIY Rock Art. Enjoy hours of f
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Coloring, Educational, Fun, HTML5, Kids, Mobile, Puzzle, Skill

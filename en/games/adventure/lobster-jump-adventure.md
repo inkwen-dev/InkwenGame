@@ -19,6 +19,6 @@ Lobster Jump Adventure is fun jumping game suitable for all ages. The aim of the
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Collecting, Game, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, Skill

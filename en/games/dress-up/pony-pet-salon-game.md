@@ -19,6 +19,6 @@ Thanks for choosing Pony Pet Salon Game : It's a beauty game, do your best to ma
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Cartoon, Cartoon Network, Dress Up, Family, Girls, Makeover, Pony

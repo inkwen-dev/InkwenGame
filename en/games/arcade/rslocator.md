@@ -19,6 +19,6 @@ How many locations in the world of Gielinor do you know? Test your RuneScape gam
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Guessing, Matching, Puzzle

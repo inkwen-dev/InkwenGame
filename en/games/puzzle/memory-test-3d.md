@@ -19,6 +19,6 @@ you are a person that inside a maze you need to find the way to the button you c
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Brain, Maze, Puzzle, Unity3D

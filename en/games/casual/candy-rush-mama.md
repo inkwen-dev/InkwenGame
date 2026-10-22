@@ -19,6 +19,6 @@ Candy Rush Mama is fun addictive match-3 game.You have to match these sweet cand
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Fun, Funny, Hypercasual

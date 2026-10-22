@@ -19,6 +19,6 @@ Take flying letters one by one in order following the clue mentioned. Keep the m
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Helicopter, Math, Word

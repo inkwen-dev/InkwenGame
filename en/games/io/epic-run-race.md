@@ -19,6 +19,6 @@ Experience full parkour experience with tons of unique levels. Race with others,
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Best, Hot, HTML5, Hypercasual, Multiplayer, Race, run, running

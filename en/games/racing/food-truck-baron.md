@@ -19,6 +19,6 @@ In "FoodTruck Baron", you play as the owner of a food delivery truck tasked with
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, bus, Business, Car, Cars, Food, Fun, Funny, Game, Games, gta, Highscore, HTML, HTML5, Hypercasual, management, Mobile, Platform, Play, Relaxation, Restaurant, Simulator, Tank, Tanks, Truck, Unity3D, WebGL
+- Tags: 1 Player, 3D, 3D Games, Android, bus, Business, Car, Cars, Food, Fun, Funny, Game, Games, gta, Highscore, HTML, HTML5, Hypercasual, Management, Mobile, Platform, Play, Relaxation, Restaurant, Simulator, Tank, Tanks, Truck, Unity3D, WebGL

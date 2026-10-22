@@ -19,6 +19,6 @@ Little princess is going to attend the date with the prince. She is so nervous b
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dating, Dress Up, Fun, Girls, HTML5, Kids, Love, Makeover, Mobile, Princess

@@ -19,6 +19,6 @@ Animal.io is an interesting multiplayer online game. Control your animal to push
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Animal, Avoid, Boys, Collecting, Collection, Girls, H5, HTML, HTML5, Kids, Mobile, Multiplayer, Online, Skill, Skills

@@ -19,6 +19,6 @@ Toilet Rush Race Game is a fun and fast-paced racing game where you must help yo
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Best Games, Casual, Hypercasual, Puzzle

@@ -21,4 +21,4 @@ Scuffed Uno lets you play the popular Uno card game in your web browser. The aim
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Arcade, Board, Boys, card, Color, Fun, Logic, Multiplayer
+- Tags: 1 Player, 2 Player, 2 Player Games, 3D, 3D Games, Arcade, Board, Boys, Card, Color, Fun, Logic, Multiplayer

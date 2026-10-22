@@ -19,6 +19,6 @@ Embark on an exciting journey through the Adventure Jungle! Guide your character
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2048, 2D, 3D, 3D Games, amazing, Android, Best Games, Car

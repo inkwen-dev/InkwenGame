@@ -19,6 +19,6 @@ PvP Pong Challenge is fun html pong game suitable for all ages. Play against you
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Ball, Boys, Fun, HTML5, Kids, Skill, Sport

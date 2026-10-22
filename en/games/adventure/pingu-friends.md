@@ -19,6 +19,6 @@ Pingu and friends is a really cute and easy game to play. You just have to tap o
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Casual, Cute, jump, Jumping, Monster, Penguin

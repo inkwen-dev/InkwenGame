@@ -19,6 +19,6 @@ Our hero will go to a special site and there will stand on the platform. From di
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Fun, HTML5, Hypercasual, jump, Jumping, Kids, Mobile, Skill

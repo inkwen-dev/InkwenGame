@@ -19,6 +19,6 @@ Cute chipmunks chip and dale are ready for their new adventure. Do you want to p
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Decorate, Dress Up, Fun, Games, Girls, HTML5

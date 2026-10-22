@@ -19,6 +19,6 @@ Shadow Motorbike Rider is a fun motorcycle game where you control a shadow rider
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Boy, Boys, Fun, Funny, Girl, Girls, Moto, Motorcycle, survival, Turn

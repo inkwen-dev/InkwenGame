@@ -87,4 +87,4 @@ A: Achievements are awarded for daily logins, reaching a certain level in a spec
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, pve, rpg, story, Strategy, video
+- Tags: Action, Adventure, pve, RPG, story, Strategy, video

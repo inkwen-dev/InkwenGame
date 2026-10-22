@@ -49,4 +49,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 泡泡, 拼图
+- 标签: 泡泡, 解谜

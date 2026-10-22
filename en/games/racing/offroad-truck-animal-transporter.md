@@ -19,6 +19,6 @@ Experience the thrill of offroad trucking in Offroad Truck Animal Transporter. N
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Driving, Forest, Mentolatux, offroad, Simulator, transport, Truck, Unity3D, WebGL

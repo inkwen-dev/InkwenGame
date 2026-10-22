@@ -19,6 +19,6 @@ Super Fire Circle is a colorful, hypercasual game. Avoid the white bars and colo
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fire, Fun, Game, Games, HTML, HTML5, Kid, Kids, Mind

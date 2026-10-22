@@ -19,6 +19,6 @@ A laid-back puzzle game where your objective is to descend securely. The gamepla
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, iPad, iPhone, Mentolatux, Mobile, Monster, run, trap, unity, unity games, WebGL

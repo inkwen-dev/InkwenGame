@@ -19,6 +19,6 @@ This is an eye color art game for girls. Have you ever wondered what would happe
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Fashion, Girls, Skills

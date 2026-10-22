@@ -19,6 +19,6 @@ Explore fun by placing the fruit tiles in the correct place. Fruit Club is a fun
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Match 3, Matching, Puzzle

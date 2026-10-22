@@ -19,6 +19,6 @@ Spider Solitaire card game with 2 suits. The objective of this Spider Solitaire 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Classic, Puzzle, Solitaire
+- Tags: Card, Classic, Puzzle, Solitaire

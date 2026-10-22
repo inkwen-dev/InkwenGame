@@ -19,6 +19,6 @@ It's possible now to play Pokemon Memory Match Up game in your web browser for f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Animal, Anime, Arcade, Best, Boys, Brain, card, Cartoon, Cartoon Network, Fun, Girls, HTML5, Match 3, Matching, Mobile, Pokemon, Puzzle, Superhero
+- Tags: Adventure, Animal, Anime, Arcade, Best, Boys, Brain, Card, Cartoon, Cartoon Network, Fun, Girls, HTML5, Match 3, Matching, Mobile, Pokemon, Puzzle, Superhero

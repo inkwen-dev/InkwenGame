@@ -19,6 +19,6 @@ The Farm Animal Cargo are grazing around in the farm so make sure you don't hit 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, Android, Animal, Arcade, Cleaning, farm, Horse, Strategy, Traffic
+- Tags: 3D Games, Android, Animal, Arcade, Cleaning, Farm, Horse, Strategy, Traffic

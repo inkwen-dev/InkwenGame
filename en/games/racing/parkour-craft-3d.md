@@ -19,6 +19,6 @@ Play parkour block maps online with your friends! Run from block to block, jump 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Casual, Craft, Fighting, Game, Games, HTML, HTML5, Minecraft, Race, Racing, run, running

@@ -19,6 +19,6 @@ You are now in charge of your grandfather's farm. You will have to sow and manag
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Board, farm, Logic, Puzzle
+- Tags: Board, Farm, Logic, Puzzle

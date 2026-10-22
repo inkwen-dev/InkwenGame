@@ -19,6 +19,6 @@ Command your army in epic battles in this new world war. It is a turn based stra
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Aircraft, Army, Bomb, Gun, Shoot, Strategy, Tank, War, weapons

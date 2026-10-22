@@ -19,6 +19,6 @@ Hello and welcome to the taxi sports car driving simulator game, a real taxi sim
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Air, Aircraft, Alien, Android, Animal, Anime, Arcade, Arena, Arkanoid, Army, Avoid, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Basketball, Batman, Battle, Battlegrounds, Best, Bike, Block, boat, Bounce, Boxing, Boy, Boys, Bridge, Bubble, Bubble Shooter, burger, bus, Cake, Candy, Car, Cars, Detective, Dragon Ball Z, Dress Up, drift, drifting, Driving, Escape, Fight, Fighting, Game, Games, Girl, Girls, Google, Helicopter, Hidden, Highscore, HTML, Hypercasual, jump, Jumping, Love
+- Tags: .io Games, 1 Player, 2 Player, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Air, Aircraft, Alien, Android, Animal, Anime, Arcade, Arena, Arkanoid, Army, Avoid, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Basketball, Batman, Battle, Battlegrounds, Best, Bike, Block, Boat, Bounce, Boxing, Boy, Boys, Bridge, Bubble, Bubble Shooter, Burger, bus, Cake, Candy, Car, Cars, Detective, Dragon Ball Z, Dress Up, drift, drifting, Driving, Escape, Fight, Fighting, Game, Games, Girl, Girls, Google, Helicopter, Hidden, Highscore, HTML, Hypercasual, jump, Jumping, Love

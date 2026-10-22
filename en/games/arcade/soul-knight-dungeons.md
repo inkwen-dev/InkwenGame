@@ -19,6 +19,6 @@ In this action-packed platform game, there are cross groups of enemies with hack
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Collecting, Dungeon, Knight, Mobile, weapons

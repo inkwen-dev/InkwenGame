@@ -19,6 +19,6 @@ In the new exciting game Throw Colored Balls your character is a ball of a certa
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Ball, Fun, Kids, Mobile, Skill

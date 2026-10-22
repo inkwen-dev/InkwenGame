@@ -21,4 +21,4 @@ Move the bartenders hand to collect the largest number of glasses with which you
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Hypercasual, kiz10, mouse
+- Tags: 3D Games, Hypercasual, kiz10, Mouse

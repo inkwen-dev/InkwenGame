@@ -42,4 +42,4 @@ Or… maybe not.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, mouse
+- Tags: Clicker, Mouse

@@ -19,6 +19,6 @@ Do you love knots puzzle? Sort colourful chains onto poles to untie the knots! H
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 2 Player Games, 3D Games, Adventure, Arcade, Boy, Boys, Bubble, Bubble Shooter, Candy, Fun, Game, Games, Ladybug, Puzzle

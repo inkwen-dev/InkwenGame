@@ -19,6 +19,6 @@ Help the vet take care of animals, treat, heal and heal pets! Our pets are in tr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cute, Doctor, Educational, Girl, Girls, Kids, Simulation, Surgery

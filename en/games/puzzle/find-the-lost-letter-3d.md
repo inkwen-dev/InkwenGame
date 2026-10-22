@@ -19,6 +19,6 @@ Somethings missing&hellip; can you find it? Help your dolphin friend rescue the 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Family, html5 games, Kids, Letters, mapi games, Word

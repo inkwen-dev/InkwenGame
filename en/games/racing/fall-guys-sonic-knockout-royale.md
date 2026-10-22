@@ -19,6 +19,6 @@ Participate in the ultimate mobile run royale games and rush Sonic Sonic opponen
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Batman, Hot, New, prison, Race, Racing, run, running, Spiderman, Stickman
+- Tags: Action, Adventure, Batman, Hot, New, Prison, Race, Racing, run, running, Spiderman, Stickman

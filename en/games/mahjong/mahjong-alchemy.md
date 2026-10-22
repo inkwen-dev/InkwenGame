@@ -19,6 +19,6 @@ Collect the same cards by simply selecting them on the screen! Train your memory
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Brain, card, Casual, Collecting, Collection, Cute, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Interactive, Kid, Logic, Logical, Mahjong, Mobile, Puzzle
+- Tags: 1 Player, 2D, Brain, Card, Casual, Collecting, Collection, Cute, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Interactive, Kid, Logic, Logical, Mahjong, Mobile, Puzzle

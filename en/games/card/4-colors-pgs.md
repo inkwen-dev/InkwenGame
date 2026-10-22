@@ -17,4 +17,4 @@ Challenge your strategy skills in 4 Colors PGS, a card game blending simplicity 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

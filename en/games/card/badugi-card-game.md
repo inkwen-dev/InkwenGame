@@ -21,4 +21,4 @@ Experience the best online card game with BADUGI. Join players worldwide in this
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Board, card, Multiplayer, Online, Poker
+- Tags: Board, Card, Multiplayer, Online, Poker

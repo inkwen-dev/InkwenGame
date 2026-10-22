@@ -19,6 +19,6 @@ There is too much crime in the streets. It's your duty as a hero to stop them! C
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Fighting, Street Fighting, Unity3D, WebGL

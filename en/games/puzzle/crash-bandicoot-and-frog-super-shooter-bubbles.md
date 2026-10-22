@@ -19,6 +19,6 @@ How to play - Aim and match the bubble you want to shoot in the bubble - Match 3
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Bubble, Bubble Shooter, Casual, Family, Girl, HTML, HTML5, Hypercasual, Mobile, Shoot, WebGL

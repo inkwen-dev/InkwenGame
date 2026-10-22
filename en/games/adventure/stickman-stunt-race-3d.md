@@ -19,6 +19,6 @@ StickMan Stunt Race 3D is an action-packed game that combines parkour and racing
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Fantasy, Fun, Person, Physics, Stickman, Stunts

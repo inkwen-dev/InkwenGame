@@ -17,4 +17,4 @@ Unveil hidden mysteries as Wilhelm in a chilling atmospheric adventure through y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

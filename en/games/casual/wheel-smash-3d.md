@@ -19,6 +19,6 @@ Embark on a smashing adventure in Wheel Smash 3D! Use your mouse to grab and rot
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Click, Forest, Mentolatux, Polygon, Ski, sky, smash, spin-wheel, Unity3D, WebGL, wheel, wheels

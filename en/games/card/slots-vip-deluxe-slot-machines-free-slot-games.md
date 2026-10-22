@@ -19,6 +19,6 @@ Play Free Vegas Slot machines with bonus games without wifi - online or offline 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, card, Casino, Girl, Machine, Slot Machine
+- Tags: .io Games, Card, Casino, Girl, Machine, Slot Machine

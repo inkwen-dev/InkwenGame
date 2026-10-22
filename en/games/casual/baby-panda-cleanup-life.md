@@ -19,6 +19,6 @@ Baby Panda Cleanup Life is an online Kids game. Baby Panda Cleanup Life is a ver
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cleaning, Cute, Girls, Panda

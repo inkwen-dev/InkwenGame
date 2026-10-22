@@ -19,6 +19,6 @@ Play Halloween Coloring Book for free now. This game is suitable for all ages. H
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Boys, Color, Coloring, Fun, Girls, Halloween, HTML5, Hypercasual, Kids, Mobile, School

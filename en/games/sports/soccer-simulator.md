@@ -19,6 +19,6 @@ SOCCER Simulator is an exciting 3D football experience where you control the bal
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Arcade, Football, HTML, Simulator, Skills, Soccer

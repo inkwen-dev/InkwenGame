@@ -19,6 +19,6 @@ Large Medium Small it is a very fun game for children. Your objective is to plac
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Boys, Brain, Difference, Educational, Fun, Funny, Girls, Kid, Kids, train
+- Tags: Animal, Boys, Brain, Difference, Educational, Fun, Funny, Girls, Kid, Kids, Train

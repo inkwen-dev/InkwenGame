@@ -19,6 +19,6 @@ You will love these unicorns. The dab movement suits them most. Complete 12 diff
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boy, Funny, Kids, Mobile

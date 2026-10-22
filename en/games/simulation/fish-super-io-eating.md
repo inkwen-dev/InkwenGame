@@ -19,6 +19,6 @@ Welcome to an exciting underwater world! In this 2D game, you begin your journey
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2026 games, Action, Best, Best Games, Brain, Brainrot, Fish, fishing, roblox, Shark, water
+- Tags: .io Games, 1 Player, 2026 games, Action, Best, Best Games, Brain, Brainrot, Fish, Fishing, IO, roblox, Shark, water

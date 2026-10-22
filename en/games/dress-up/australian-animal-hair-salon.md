@@ -19,6 +19,6 @@ Crazy Animal Grooming is coming to sunny Australia! Meet adorable pet grooming s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Fun, Girl, Girls, H5, Hair, HTML5, Kid, Kids

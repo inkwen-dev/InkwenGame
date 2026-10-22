@@ -21,4 +21,4 @@ You act as a farmer and your goal is to collect all fruits and vegetables in the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Casual, farm, Fruits
+- Tags: Arcade, Casual, Farm, Fruits

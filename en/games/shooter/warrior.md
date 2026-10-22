@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Alien, Android, Army, Battle, Battlegrounds, Ben 10, Boy, Cartoon, Casual, Fight, Fighting, Fun, Funny, Kid, Kids, Kill, Killing, run, running, Shoot, Shooter, Shooting, Skill, Skills

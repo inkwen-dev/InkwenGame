@@ -21,4 +21,4 @@ In this game you have to save the fish trapped in the bag. You have to collect g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, fishing
+- Tags: Fish, Fishing

@@ -19,6 +19,6 @@ Desktop A - Move Left D - Move Right Space Bar - Shoot Mobile Devices Touch Butt
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Casual, HTML5, Retro, Space, Spaceship

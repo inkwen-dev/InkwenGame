@@ -21,4 +21,4 @@ Save fish from danger, bombs, lava and crab and give the fish just love. They ca
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Fish, fishing, Kid, Kids, Puzzle
+- Tags: Brain, Fish, Fishing, Kid, Kids, Puzzle

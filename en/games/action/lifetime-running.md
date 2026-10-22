@@ -19,6 +19,6 @@ Lifetime Running is a life parkour game. The life of a person is short, how to l
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Kid, Obstacle, Platform

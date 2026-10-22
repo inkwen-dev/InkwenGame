@@ -19,6 +19,6 @@ Correct or Wrong is mathematical logic puzzle game where you need to click on co
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Math, Number, Puzzle

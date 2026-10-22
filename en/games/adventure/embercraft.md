@@ -19,6 +19,6 @@ EmberCraft is a colorful 3D sandbox adventure in a block world. Explore varied t
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Craft, Crafting, Minecraft, Sandbox

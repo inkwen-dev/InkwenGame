@@ -19,6 +19,6 @@ Play Kim kardashian Sweet Matching Game is a match-3 type game. Swap to match 3 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Boys, Brain

@@ -19,6 +19,6 @@ Two BFF are going to a summer cosplay festival. They love computer games. Help t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Cute, Design, Dress Up, Fantasy, Fashion, Fun, Funny, Hair, HTML5, Makeover, Red, Superhero

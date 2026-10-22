@@ -19,6 +19,6 @@ In this game with 50 levels you will have to tap a slot on the grid so that it a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, Hypercasual, Puzzle

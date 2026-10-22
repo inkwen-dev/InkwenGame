@@ -19,6 +19,6 @@ Somewhere in the dark space, this could all be happening right now! Get ready to
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, HTML5, Hypercasual, Mobile, Shoot, Shoot 'Em Up, Shooter, Shooting, Space, Spaceship

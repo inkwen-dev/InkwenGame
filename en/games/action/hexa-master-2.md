@@ -19,6 +19,6 @@ Hexa Master Dive into the colorful world of Hexa Master, a dazzling hexagonal ma
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2D, Action, Casual, Clash, Classic, Color, Hypercasual

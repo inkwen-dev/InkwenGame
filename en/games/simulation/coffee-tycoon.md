@@ -21,4 +21,4 @@ Run your own small coffee restaurant where every cup counts! Prepare delicious c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Food, management, Restaurant, Simulation, unity games
+- Tags: 3D, Food, Management, Restaurant, Simulation, unity games

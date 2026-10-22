@@ -19,6 +19,6 @@ Treatsy is a candy-setting game where candies are coming out of a magical jar an
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Casual, Clicker

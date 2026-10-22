@@ -19,6 +19,6 @@ Thomas Runner&rdquo; is an exhilarating and dynamic arcade game where the player
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Arcade, Army, Bomb, Fire, First Person Shooter, free html5 games for your website, html games for your website, html5 games, Shoot, Shooter, Zombie

@@ -21,4 +21,4 @@ Click the cards to flip an animal. Memorize their position and match them up in 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, card, HTML5, Memory, Mobile
+- Tags: Animal, Card, HTML5, Memory, Mobile

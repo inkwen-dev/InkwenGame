@@ -21,4 +21,4 @@ Farm Fest : Farming Games Online Simulator to cultivate and sell the crops as a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Best, farm, Fruit, Fruits, Kids, Online, Simulation, Simulator
+- Tags: 3D, 3D Games, Best, Farm, Fruit, Fruits, Kids, Online, Simulation, Simulator

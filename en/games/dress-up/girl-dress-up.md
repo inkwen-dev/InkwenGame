@@ -19,6 +19,6 @@ Do you love dress up games for girls? If your answer is Yes, play the Girl Dress
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Dress Up, Girl, Girls

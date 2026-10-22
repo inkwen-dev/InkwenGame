@@ -19,6 +19,6 @@ Welcome to the City of Winds. The culinary festival starts here today! Participa
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Arcade, Clicker, Creation, Decorate, Decoration, Design, Fantasy, HTML5, rpg
+- Tags: Anime, Arcade, Clicker, Creation, Decorate, Decoration, Design, Fantasy, HTML5, RPG

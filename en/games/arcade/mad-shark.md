@@ -19,6 +19,6 @@ Mad Shark, is a arcade shooter game in which you have to collect fish coin, life
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Arcade, Casual, Click, endless, Fish, fly, Fun, HTML5, Shark

@@ -19,6 +19,6 @@ Test your reflexes in a fast arcade challenge with simple controls and steadily 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, 3D, Android, Best, Best Games, Click, free html5 games for your website, Kids, Mobile, Skills, Timing, Turn

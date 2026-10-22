@@ -19,6 +19,6 @@ Spider Among Us online is offline multiplayer game in which you are imposter and
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boys, Cartoon, Cartoon Network, Girls, Puzzle, Spiderman, Sports

@@ -21,4 +21,4 @@ Solitaire Girls 2 is a unique card solitaire game that perfectly combines classi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, card
+- Tags: 1 Player, Card

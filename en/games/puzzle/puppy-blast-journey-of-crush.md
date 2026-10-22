@@ -21,4 +21,4 @@ Play Puppy Blast: Journey of Crush! Explore and solve thousands of addictive cru
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Arcade, Boys, Candy, Girls, Jewel, Match 3, Matching, Puzzle
+- Tags: Action, Arcade, Boys, Candy, Girls, Jewel, Match-3, Matching, Puzzle

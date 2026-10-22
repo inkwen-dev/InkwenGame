@@ -19,6 +19,6 @@ It’s a challenging Hook Based Physics game where the goal is to get as high of
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Boys, Cartoon, Casual, endless, Family, HTML, HTML5, Hypercasual, Physics, Puzzle, Robot

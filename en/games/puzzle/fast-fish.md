@@ -19,6 +19,6 @@ Speedy Fish - is and interesting game where you control the fish with the up and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Avoid, Best, boat, Bubble Shooter, Casual, Fish, HTML5, Interactive, Obstacle, Platform, Punch, Puzzle, Shoot, Skill, Skills
+- Tags: 1 Player, 2D, Adventure, Arcade, Avoid, Best, Boat, Bubble Shooter, Casual, Fish, HTML5, Interactive, Obstacle, Platform, Punch, Puzzle, Shoot, Skill, Skills

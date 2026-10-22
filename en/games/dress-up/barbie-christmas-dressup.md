@@ -19,6 +19,6 @@ Christmas is here and the princesses Barbie have gotten together for their annua
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Celebrity, Christmas, Disney, Dress Up, Fashion, Frozen, Holiday, Makeover, Princess

@@ -19,6 +19,6 @@ Collect all the fruit slices by clicking or touching them in groups. If you coll
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Collecting, Fruits, HTML5, Matching, Mobile

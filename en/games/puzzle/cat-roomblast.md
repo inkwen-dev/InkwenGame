@@ -19,6 +19,6 @@ Help our adorable cat fix its apartment up by solving various puzzles with satis
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Cat, HTML5, Hypercasual, Match 3, Match3, Puzzle

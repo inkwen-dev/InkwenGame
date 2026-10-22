@@ -19,6 +19,6 @@ Sit down, relax and enjoy roaming through countless colorful and interesting pic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, city, Difference, Fun, Relaxation

@@ -19,6 +19,6 @@ Fall Guys 2024 is a vibrant, offline battle royale where players navigate whimsi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fall Boys, Fall Guys, Fun, Funny, Kids, Mentolatux, Skill, Unity3D, WebGL

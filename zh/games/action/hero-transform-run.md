@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D, 3D 游戏, 战斗, 奔跑, 超级英雄
+- 标签: 3D, 3D游戏, 战斗, 跑步, 超级英雄

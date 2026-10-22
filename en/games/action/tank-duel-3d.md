@@ -19,6 +19,6 @@ Are you ready for the fight of the tanks? Fight and win against your friend or c
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, Action, Arena, Battle, Tank, War

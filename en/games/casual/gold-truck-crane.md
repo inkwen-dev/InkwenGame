@@ -19,6 +19,6 @@ Want to get rich, get ready for the hard work. In the game Gold Truck Crane we w
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Casual, Collecting, Fun, Gold, Mobile, Truck

@@ -62,4 +62,4 @@ See you on the battlefield, meow. Combat "meow"!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, cats, Gun, Multiplayer, pvp, Shooting
+- Tags: 3D, Action, cats, Gun, Multiplayer, PvP, Shooting

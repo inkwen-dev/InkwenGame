@@ -19,6 +19,6 @@ Here is a parking lesson game for the fish drivers to train. You know as a profe
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, Car, Driving, HTML5, Kid, Mobile, Obstacle, Parking, Racing

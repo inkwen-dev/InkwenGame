@@ -19,6 +19,6 @@ Dora Hidden Harts is super fun hidden game that you can play online for free. It
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boy, Cartoon, Collecting, Dora, Fun, Girl, Hidden, HTML5, Hypercasual, Kids, Puzzle, Skill

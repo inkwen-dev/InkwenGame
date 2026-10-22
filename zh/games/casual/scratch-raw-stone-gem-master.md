@@ -27,4 +27,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 制作
+- 标签: 手工

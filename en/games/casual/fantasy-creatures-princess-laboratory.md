@@ -19,6 +19,6 @@ Princess Eliza loves animals and magic. One day she got the idea to use her magi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Bird, Cartoon, dino, Dinosaur, Dragon, Easter, Elsa, Fantasy, Fire, Fish, Frozen, Girl, HTML5, Memory, Monster, Princess

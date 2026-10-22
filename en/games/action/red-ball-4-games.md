@@ -19,6 +19,6 @@ Red Hero Ninja 4 is old classic bouncing ball plat-former game similar to Rollin
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Red, running

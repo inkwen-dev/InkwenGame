@@ -21,4 +21,4 @@ Now creepy pocong call you in misterious way!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: horror, HTML5
+- Tags: Horror, HTML5

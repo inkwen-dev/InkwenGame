@@ -19,6 +19,6 @@ Flying Red Bird is the most simple game to play. Help little Red Bird to flying 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Bird, Boys, Clicker, endless, Flight, fly, Girls, HTML5, Hypercasual, Kids, Racing

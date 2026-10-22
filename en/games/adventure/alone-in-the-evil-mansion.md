@@ -17,4 +17,4 @@ Explore the spine-chilling depths of a haunted mansion, where survival hinges on
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ Near a small town in the Wild West hordes of zombies appeared. You in the Cowboy
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Boy, Collecting, Mobile, run, running, Shoot, Shooter, Zombie

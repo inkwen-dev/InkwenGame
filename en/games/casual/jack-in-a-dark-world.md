@@ -19,6 +19,6 @@ Enter the eerie world of Pumpkin in a Dark World, a hypercasual game where you g
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Halloween, HTML, HTML5, Hypercasual, jump, Jumping, mapi games, Monster

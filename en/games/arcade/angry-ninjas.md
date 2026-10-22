@@ -19,6 +19,6 @@ Help the Angry Ninjas to defeat all Pirates! Enjoy!
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bird, Casual, Family, Girls, HTML, HTML5, Hypercasual, Kid, Kids, Mobile, Ninja, Ninjago, Physics

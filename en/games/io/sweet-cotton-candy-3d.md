@@ -19,6 +19,6 @@ Every kid loves sweet cotton candies. A big candy shop is newly opened in the ci
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2 Player, 2D, 3D, 3D Games, Action, Arcade, Casual, Fun, Funny, Hypercasual, Unity3D

@@ -19,6 +19,6 @@ You're Santa is Christmas and you flight in the sky but avoid the pipes! Try to 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Christmas, Clicker, Family, Girls, HTML, HTML5, Kids, Pipe, Racing

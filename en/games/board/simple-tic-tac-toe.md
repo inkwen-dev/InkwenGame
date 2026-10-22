@@ -19,6 +19,6 @@ Tic Tac Toe is a classic two-player game that can be played on a computer. The g
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, Board, Classic, Turn, Turn Based

@@ -19,6 +19,6 @@ Season Wiping Window is fun html5 game and i am sure you are gonna love this gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Fun, Funny, Game, Games, HTML5, Kids, Relaxation

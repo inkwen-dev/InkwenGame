@@ -35,4 +35,4 @@ Onet Puzzle 是一款适合闲暇时放松的方块消除游戏。它提供超�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 匹配, 拼图
+- 标签: 匹配, 解谜

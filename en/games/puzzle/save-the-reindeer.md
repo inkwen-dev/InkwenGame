@@ -19,6 +19,6 @@ Find the 15 Christmas items and collect them by walking over them. Then go and s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Christmas, Holiday, Mobile, Snow

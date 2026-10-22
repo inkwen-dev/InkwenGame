@@ -19,6 +19,6 @@ Welcome to Plants Vs Zombies Unblocked. A horde of zombies is about to invade yo
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Battle, Boys, Collecting, Defense, Girls, Highscore, HTML5, Hypercasual, Monster, Plant, Tower Defense, Zombie

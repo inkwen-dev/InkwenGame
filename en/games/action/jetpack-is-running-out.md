@@ -19,6 +19,6 @@ Jetpack adventure with 2d and 3d combined , you can upgrade damage dealt by coll
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D, Adventure, Platform

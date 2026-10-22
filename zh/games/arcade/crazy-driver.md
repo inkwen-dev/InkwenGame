@@ -47,4 +47,4 @@ Voxel Car Game 是一款令人上瘾的 3D 驾驶冒险游戏，玩家可以自�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, 街机, 汽车, Clicker, 驾驶
+- 标签: 3D, 街机, 汽车, 点击器, 驾驶

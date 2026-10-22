@@ -19,6 +19,6 @@ Corona virus is changing people's lives all over the world. Let's have a break a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Batman, Battle, Cook, Cooking, Doctor, Dora, Dress Up, Girls, Hair, Mario

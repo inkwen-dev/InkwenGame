@@ -19,6 +19,6 @@ The incredible Digital Runner Circus offers an enjoyable and demanding experienc
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, circus, digital circus, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, run, running

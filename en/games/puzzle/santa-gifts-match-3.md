@@ -21,4 +21,4 @@ Play this fun Christmas themed matching puzzle game. Swap the Christmas icons to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Christmas, Holiday, Hypercasual, Match 3, Match3, Matching, Mobile, Skill, Winter
+- Tags: Christmas, Holiday, Hypercasual, Match-3, Match3, Matching, Mobile, Skill, Winter

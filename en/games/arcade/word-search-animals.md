@@ -19,6 +19,6 @@ Find the word in straight line of blocks (Horizontally, vertically or diagonally
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Arcade, Educational, HTML5, Kids, Mobile, Puzzle, School, Word

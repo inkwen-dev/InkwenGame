@@ -19,6 +19,6 @@ Pilot the little Jellyfish creatures called "Gnammy" and collect all the plankto
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cute, Family, Fish, HTML, HTML5, Jelly, Kids, Mobile

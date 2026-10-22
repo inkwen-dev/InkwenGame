@@ -25,4 +25,4 @@ Insect Clicker is a clicker game where you multiply the tarantula coin by clicki
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, easy, mouse
+- Tags: Clicker, easy, Mouse

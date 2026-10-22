@@ -19,6 +19,6 @@ Lipstick Collector Run is a classic vertical arcade game with a single-button co
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Avoid, Boys, Collecting, Girls, Kids, running

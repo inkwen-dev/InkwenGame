@@ -19,6 +19,6 @@ Welcome to the fun multiplayer game "Stack Defense", in which you will have to t
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Battle, Casual, Defense, Game, Tower Defense

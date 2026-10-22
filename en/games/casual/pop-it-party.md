@@ -19,6 +19,6 @@ Pop It Party is a fun relaxing game and a unique game to play on. This is a supe
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Family, free html5 games for your website, HTML, Kids, Mobile

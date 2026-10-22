@@ -19,6 +19,6 @@ Cool girls from the Cave Club doll series invite you to play with them. Collect 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Jigsaw, Puzzle

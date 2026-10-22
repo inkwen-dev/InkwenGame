@@ -19,6 +19,6 @@ This game is a memory matching game. This made for Christmas. You have 30 levels
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Christmas, Fun, Kid, Memory
+- Tags: Card, Christmas, Fun, Kid, Memory

@@ -1,0 +1,24 @@
+# Aqua Link
+
+<a href="https://inkwengame.com/zh/games/aqua-link" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+![cover](https://img.inkwengame.com/games/aqua-link/cover.jpg)
+
+Aqua Link 是一款趣味十足的方块连接游戏。你需要连接两个相同的方块。两个匹配方块之间的连接线最多只能有两个拐弯。在与时间赛跑的过程中，完成相同方块之间的连接。你能在时间耗尽前清空棋盘吗？
+
+## 怎么玩
+
+使用鼠标或触控板来玩这款游戏
+
+## 介绍
+
+Aqua Link 是一款趣味十足的方块连接游戏。你需要连接两个相同的方块。两个匹配方块之间的连接线最多只能有两个拐弯。在与时间赛跑的过程中，完成相同方块之间的连接。你能在时间耗尽前清空棋盘吗？
+
+## 详情
+
+- 分类: <a href="https://inkwengame.com/zh/mahjong" target="_blank" rel="noopener noreferrer">麻将</a>
+- 画面方向: landscape
+- 可玩设备: desktop, mobile
+- 游戏语言: en, zh
+- 开发者: GameMonetize
+- 标签: 街机, 方块, 鱼, HTML5, 麻将, 匹配, 手机, 解谜

@@ -21,4 +21,4 @@ All aboard for a brain-teasing adventure! In Train Puzzle, your goal is to becom
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Mentolatux, Skill, train, unity, WebGL
+- Tags: Mentolatux, Skill, Train, unity, WebGL

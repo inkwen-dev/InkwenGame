@@ -19,6 +19,6 @@ Welcome to Christmas Spot differences Puzzle Game! Celebrate the holiday season 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Difference, Hidden, Puzzle, Santa, Santa Claus, Winter

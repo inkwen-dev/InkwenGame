@@ -19,6 +19,6 @@ Car Stunts Battle Into Cargo Plane : Kids Games Lets play the best car stunts ga
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Car, Cars, Cartoon, Games, Hair, Parking, Racing, Simulation, Simulator, Stunts, Supercars, Unity3D

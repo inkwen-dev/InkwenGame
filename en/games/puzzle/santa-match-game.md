@@ -19,6 +19,6 @@ Thank you for providing the information about the game Challenging Track. This g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Family, HTML, HTML5, Kids, Matching, Math, Number, School

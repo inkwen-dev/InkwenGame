@@ -19,6 +19,6 @@ This is a simple yet interesting picture tetriz game. In this game you need to d
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, farm, HTML5, Mobile, Puzzle, Tetris
+- Tags: Animal, Arcade, Farm, HTML5, Mobile, Puzzle, Tetris

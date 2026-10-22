@@ -19,6 +19,6 @@ Live out your dreams as a chef in your own restaurant. Choose from one of the fi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Cook, Cooking, management, Simulation, Simulator
+- Tags: Cook, Cooking, Management, Simulation, Simulator

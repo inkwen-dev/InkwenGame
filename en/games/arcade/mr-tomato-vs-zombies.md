@@ -19,6 +19,6 @@ Jealous zombies have kidnapped a group of tiny tomatoes! Launch Mr Tomato with a
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: angrybirds, Arcade, free html5 games for your website, mapi games

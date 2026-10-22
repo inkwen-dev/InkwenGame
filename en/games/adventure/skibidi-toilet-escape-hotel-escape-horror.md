@@ -21,4 +21,4 @@ This game will be a game where you will bury your hours with its fluent and eye-
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Android, horror, Skibidi, Skibidi Toilet
+- Tags: 1 Player, 2D, Adventure, Android, Horror, Skibidi, Skibidi Toilet

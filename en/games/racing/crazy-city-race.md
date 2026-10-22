@@ -19,6 +19,6 @@ Crazy City Race is a milestone in the genre of endless arcade racing. Drive your
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Arcade, Car, Cars, free games for your website, free html5 games for your website, Race, Racing, Traffic, unity games for your site, unity games for your website

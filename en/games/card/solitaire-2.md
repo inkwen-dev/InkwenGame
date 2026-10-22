@@ -21,4 +21,4 @@ Solitaire Free is the #1 klondike solitaire Card Games. The solitaire Free is po
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Solitaire, Strategy
+- Tags: Card, Solitaire, Strategy

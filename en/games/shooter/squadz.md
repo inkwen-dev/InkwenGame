@@ -21,4 +21,4 @@ Get ready for fast-paced, action-packed battles that you can dive into at any ti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, First Person Shooter, Mobile, pvp, Shooting
+- Tags: 3D, Action, First Person Shooter, Mobile, PvP, Shooting

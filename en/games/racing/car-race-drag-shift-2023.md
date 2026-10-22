@@ -19,6 +19,6 @@ Experience high-speed adrenaline in Car Race Drag Shift! Get ready to grip the w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, car tuning, Cars, Racing, Supercars, Unity3D, WebGL

@@ -19,6 +19,6 @@ A runner game featuring Chu-Chu Charles and Noob, in which players must dodge ob
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Adventure, Android, Avoid, Casual, city, Collecting, Collection, Highscore, Hypercasual, Kids, Minecraft, Mobile, Monster, Obstacle, run, running, subway, Subway Surfers, surfers, train, Unity3D
+- Tags: 3D, Adventure, Android, Avoid, Casual, city, Collecting, Collection, Highscore, Hypercasual, Kids, Minecraft, Mobile, Monster, Obstacle, run, running, subway, Subway Surfers, surfers, Train, Unity3D

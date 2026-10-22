@@ -19,6 +19,6 @@ raccoon World Jungle Adventure bring you little jungle boy adventure for android
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Pirate, Rabbit

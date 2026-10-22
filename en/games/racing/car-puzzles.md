@@ -19,6 +19,6 @@ Car puzzle is a fun online puzzle game. Drag the pieces into right position usin
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Car, HTML5, Kids, Puzzle

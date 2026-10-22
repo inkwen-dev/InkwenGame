@@ -19,6 +19,6 @@ Sneak Runner is a fun escape game. The aim of the game is to reach the exit door
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Casual, Escape, Fun, Funny, run, running, Stickman

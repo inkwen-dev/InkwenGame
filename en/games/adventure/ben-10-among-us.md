@@ -19,6 +19,6 @@ Ben 10 Among Us online is an offline multiplayer game in which you are an impost
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Ben 10, Cartoon, Cartoon Network, Killing, Multiplayer

@@ -21,4 +21,4 @@ We have prepared a Christmas concept memory card game for you. Have fun!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Best, card, Christmas, Click, Collecting, Collection, Fun, Funny, Game, Games, HTML5
+- Tags: 1 Player, Best, Card, Christmas, Click, Collecting, Collection, Fun, Funny, Game, Games, HTML5

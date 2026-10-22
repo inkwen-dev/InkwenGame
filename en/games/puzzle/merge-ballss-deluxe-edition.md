@@ -19,6 +19,6 @@ Welcome to the world of Merge Games! We present you the new generation merge gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Casual, endless, Hypercasual, Physics, Puzzle, Relaxation

@@ -19,6 +19,6 @@ You must ensure that everyone can flee! But be aware that your moves apply to ev
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Android, Guessing, Interactive, iPhone, Love, Physics, Platform, Puzzle

@@ -19,6 +19,6 @@ Play the sweetest match-3 mini game & enjoy the full-of-fun hours in candies wor
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bejeweled, Candy, Casual, HTML5, Hypercasual, Match 3, Match3, Matching, Physics

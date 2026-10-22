@@ -30,4 +30,4 @@ Every shift gets darker, the anomalies grow more numerous, and something that wa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, Doctor, horror, hospital, scary
+- Tags: animals, Doctor, Horror, hospital, scary

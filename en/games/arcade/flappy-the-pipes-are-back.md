@@ -19,6 +19,6 @@ The pipes are back and they want revenge on the bird. Find your way through the 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Air, Animal, Arcade, Arena, Bird, Casual, Classic, Cool, Cute, Family, fly, Fun, Funny, Game, Highscore, Jumping, Mario, Pipe, Retro, Super

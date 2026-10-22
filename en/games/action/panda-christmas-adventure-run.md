@@ -19,6 +19,6 @@ Do you know Panda adventure? This is the max country boy you will play with this
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Christmas, Game, Online, Panda, run, running, Snow

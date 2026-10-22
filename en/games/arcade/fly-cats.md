@@ -19,6 +19,6 @@ Fly Cats is a fun game for two that you can play on your PC or phone. The goal o
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Android, Arcade, Casual, Cat, fly, Hypercasual

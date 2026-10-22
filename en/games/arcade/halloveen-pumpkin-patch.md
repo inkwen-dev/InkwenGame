@@ -21,4 +21,4 @@ Play Road Riot - Rise of the Teenage Mutant Ninja Turtles Game online in your we
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Anime, Arcade, Avoid, Baby, Boys, Brain, Cartoon, Disney, Draw, Drawing, Fun, Girls, Halloween, Highscore, HTML5, Hypercasual, Kids, Matching, movie, Puzzle, School
+- Tags: Adventure, Anime, Arcade, Avoid, Baby, Boys, Brain, Cartoon, Disney, Draw, Drawing, Fun, Girls, Halloween, Highscore, HTML5, Hypercasual, Kids, Matching, Movie, Puzzle, School

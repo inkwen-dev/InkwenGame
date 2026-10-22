@@ -19,6 +19,6 @@ Welcome to Hagi Waga Attack! Here you will turn into a bloodthirsty monster who 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Ghost

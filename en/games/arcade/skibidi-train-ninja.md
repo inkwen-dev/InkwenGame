@@ -19,6 +19,6 @@ Skibidi Train Ninja is an electrifying mobile game where players become agile ni
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Jumping, Ninja, Skibidi, Skibidi Toilet, train
+- Tags: Arcade, Jumping, Ninja, Skibidi, Skibidi Toilet, Train

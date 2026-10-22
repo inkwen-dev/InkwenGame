@@ -52,4 +52,4 @@ The horror game "Imposter 3D online horror" features 7 online multiplayer game m
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, horror, Multiplayer, scary
+- Tags: 3D, Horror, Multiplayer, scary

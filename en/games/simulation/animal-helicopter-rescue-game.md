@@ -19,6 +19,6 @@ Welcome to an exciting helicopter rescue game where you are the pilot, and your 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, airplane, Animal, Forest, Helicopter, Rescue, Simulation

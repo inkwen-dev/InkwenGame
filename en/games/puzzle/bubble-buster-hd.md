@@ -19,6 +19,6 @@ Bubble Buster HD has 4 game modes; Time or turn based arcade mode, and time or t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Casual, Classic, Highscore, HTML5, Levels, Match 3, Skill

@@ -19,6 +19,6 @@ Step into the shoes of John, a mysterious figure in the world of underground ass
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Best Games, Casual, Cool, Hypercasual, Shoot, Shooting

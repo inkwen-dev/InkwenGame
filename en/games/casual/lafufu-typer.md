@@ -19,6 +19,6 @@ Your goal is to quickly match the correct letters of the colorful and chaotic La
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, amazing, Casual, Color, Cute, Fun, Funny, HTML, html5 games for your site, Hypercasual, Kids, Labubu

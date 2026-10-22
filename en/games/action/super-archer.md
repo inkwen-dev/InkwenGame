@@ -19,6 +19,6 @@ Platform adventure and action game, where the archer must cross the monster vall
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Collecting, Fight, Fighting, HTML5, Mobile, Platform, Skill, Superhero

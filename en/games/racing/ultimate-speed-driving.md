@@ -19,6 +19,6 @@ Ultimate Speed Driving: A Realistic Racing Simulation Game Do you love driving f
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, Car, Casual, Obstacle, Simulation, Timing

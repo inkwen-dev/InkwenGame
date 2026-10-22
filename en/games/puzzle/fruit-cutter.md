@@ -19,6 +19,6 @@ In Fruit Cutter you need to cut all coming fruits and to earn points. Avoid bomb
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: cut, Fruits, Puzzle

@@ -19,6 +19,6 @@ Step into a world of calm. This game is designed to help you relax, focus, and f
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2026 games, 2D, Casual, Hypercasual

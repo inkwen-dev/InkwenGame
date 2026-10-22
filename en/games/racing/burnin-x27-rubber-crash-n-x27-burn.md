@@ -19,6 +19,6 @@ Burnin&#x27; Rubber Crash n&#x27; Burn is a car driving game that has a lot of e
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Car, Cars, H5, Racing

@@ -19,6 +19,6 @@ You're the last soldier and you need to defense the base with your super machine
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Army, Game, Games, Gun, HTML, HTML5, Shoot, Shoot 'Em Up, Shooter, Shooting, War, weapons

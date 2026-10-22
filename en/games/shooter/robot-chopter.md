@@ -19,6 +19,6 @@ Robot Chopter is a arcade game, shoot the enemy and collect the jewel to earn sc
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, fly, Helicopter, HTML5, Pixel, Shoot, Shooter

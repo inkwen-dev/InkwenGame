@@ -19,6 +19,6 @@ Steer the plane to collect stars and avoid missiles!
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Game, Hypercasual, Online, Plane, Plant

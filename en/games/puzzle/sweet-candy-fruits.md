@@ -19,6 +19,6 @@ Sweet Candy Fruits is one of the best match-3 games! The classic elimination gam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Girl, Girls, Hypercasual, Puzzle

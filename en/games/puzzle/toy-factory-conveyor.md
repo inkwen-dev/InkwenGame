@@ -19,6 +19,6 @@ Casual game about making toys in a cheerful factory. Orders arrive on the convey
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Android, Best Games, Casual, free games for your site, HTML, Kid, Relaxation, WebGL

@@ -19,6 +19,6 @@ HOOPS is a game in which you have to throw the ball from one basket to the other
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Basketball, Point And Click, Sport

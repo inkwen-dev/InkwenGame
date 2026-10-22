@@ -19,6 +19,6 @@ Barbie is making a chocolate cake for the party. Surprise party cake for friends
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cake, Cook, Cooking, Decorate, Food, Game, Girl, Girls, HTML5

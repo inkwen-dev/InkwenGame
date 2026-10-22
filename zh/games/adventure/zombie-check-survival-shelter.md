@@ -73,4 +73,4 @@ Playgama 官方：游戏完全集成 Playgama SDK，支持 PC 和移动设备之
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 男孩, 可怕的, 僵尸
+- 标签: 男孩们, 可怕的, 僵尸

@@ -19,6 +19,6 @@ Trains Game is slithering train game in 3d world. Become the grand training game
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, train
+- Tags: .io Games, 3D, 3D Games, Train

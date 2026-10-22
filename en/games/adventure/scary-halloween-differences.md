@@ -19,6 +19,6 @@ Scary Halloween Differences is interesting kids game and it's time for you to ha
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Fun, Halloween, HTML5, Kids, Puzzle, Skill

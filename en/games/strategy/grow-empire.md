@@ -23,4 +23,4 @@ Defeat your enemies by clashing with Egyptian, Italian, Gallic, Iberian and Cart
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, management, Mobile, Strategy, Tower Defense
+- Tags: Army, Management, Mobile, Strategy, Tower Defense

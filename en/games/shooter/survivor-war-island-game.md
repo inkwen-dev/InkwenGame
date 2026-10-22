@@ -19,6 +19,6 @@ Welcome to survivor war island game: army empire games, an exciting survival str
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Adventure, Best Games, Casual, Shooting, War

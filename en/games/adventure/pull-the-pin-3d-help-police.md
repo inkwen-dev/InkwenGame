@@ -19,6 +19,6 @@ Assist the courageous police officer who is on a mission to capture an escaped c
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Casual, Hypercasual, Logic, Logical, Police

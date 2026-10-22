@@ -19,6 +19,6 @@ Santa Runner - the online endless runner game thats perfect for gift collecting!
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Collection, Fun, Funny, HTML, HTML5, NapTech Games, Online, run

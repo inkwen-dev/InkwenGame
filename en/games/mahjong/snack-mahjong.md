@@ -19,6 +19,6 @@ You have to find a pair of identic images and clear the entire game field. If th
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Best, Block, Brain, Collection, Food, Fruits, Girls, House, Mahjong, Puzzle, Super

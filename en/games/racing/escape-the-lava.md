@@ -19,6 +19,6 @@ Escape the Lava In this game you are a ball, and your goal is to collect points 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Ball, Highscore, Obstacle, Race, Racing, Unity3D

@@ -19,6 +19,6 @@ Dive into the enchanting world of Memory Match Magic, a delightful casual game t
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, card, Casual, HTML5, Hypercasual, Logic, Logical, Memory
+- Tags: Arcade, Card, Casual, HTML5, Hypercasual, Logic, Logical, Memory

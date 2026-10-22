@@ -19,6 +19,6 @@ Recently, we provides you with a 3D arcade car game. You are able to control a c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, HTML5, Mobile, Platform, Simulation, Stickman, Stunts

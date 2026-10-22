@@ -19,6 +19,6 @@ Color Cross 3D game takes you to the next level of amusemen all you need is to t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Hypercasual, Physics, Punch, Puzzle, run, running

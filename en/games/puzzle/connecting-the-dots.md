@@ -19,6 +19,6 @@ It's a very engaging, fun, educational and challenging casual game. Create image
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Baby, Baby Hazel, Boy, Boys, Cartoon, Casual, Color, Cute, Game, Girl, Girls, HTML5, Kid, Kids, Puzzle

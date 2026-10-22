@@ -19,6 +19,6 @@ Look Style Doll Life makeover more cute and lovely Beautiful and awesomely fabul
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Elsa, Family, Fashion, Games, Girl, Girls, Jewel, Kiss, Makeover, Miraculous Ladybug, WebGL

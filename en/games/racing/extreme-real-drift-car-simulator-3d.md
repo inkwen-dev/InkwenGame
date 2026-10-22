@@ -19,6 +19,6 @@ The ultimate drift racing experience in the most realistic â€‹3d drifting gameâ€
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Business, Car, Race, Simulation

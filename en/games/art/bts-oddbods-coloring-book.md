@@ -19,6 +19,6 @@ Bts Oddbods Coloring is an online game that you can play for free. Coloring page
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Cartoon, Color, Coloring, Fun, Games, Girls, HTML5, Kids, School

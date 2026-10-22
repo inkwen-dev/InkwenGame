@@ -19,6 +19,6 @@ Collect christmas gifts so that Santa can send them off to the good little boys 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Collecting, Collection, HTML5, Logic, Mobile

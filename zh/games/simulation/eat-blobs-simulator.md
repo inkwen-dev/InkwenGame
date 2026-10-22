@@ -93,4 +93,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: .io, 粘液, 双人游戏
+- 标签: IO, 粘液, 双人游戏

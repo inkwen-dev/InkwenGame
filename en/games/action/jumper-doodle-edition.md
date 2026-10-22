@@ -19,6 +19,6 @@ A strange creature must get to the very top without falling. Try to get as far a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Anime, Boy, Cool, Fun, Funny, Jumping, Platform, Skills

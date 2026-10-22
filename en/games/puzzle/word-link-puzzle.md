@@ -19,6 +19,6 @@ You want to prove your vocabulary and Enjoy the excitement of classic word game?
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Letters, Puzzle, Word

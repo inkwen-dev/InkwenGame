@@ -21,4 +21,4 @@ Play a casino card game against the house in this straight to the point poker va
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casino, Poker, Solitaire
+- Tags: Card, Casino, Poker, Solitaire

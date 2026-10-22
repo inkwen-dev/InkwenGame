@@ -21,4 +21,4 @@ A classic solitaire game where you draw cards one by one. You must rebuild the 4
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Solitaire
+- Tags: Card, Solitaire

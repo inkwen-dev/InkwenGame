@@ -19,6 +19,6 @@ The rabbit Dorote, owner of an orchard, was preparing for an event in her villag
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Arcade, Best Games, Bomb, Click, cut, eggs, Rabbit, Samurai, Sword, touch, touchscreen

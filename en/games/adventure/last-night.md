@@ -30,4 +30,4 @@ A Story Line Game about a YOUTUBER struggling to get GOLD PLAY BUTTON but there 
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, horror, keyboard, scary, story
+- Tags: Adventure, Horror, keyboard, scary, story

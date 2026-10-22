@@ -19,6 +19,6 @@ Have you ever watched a Japanese anime called Bakusou Kyoudai Let's & go MAX? He
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, HTML5, Mobile, Racing

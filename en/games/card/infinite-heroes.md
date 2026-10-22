@@ -17,4 +17,4 @@ Traverse a realm where each card holds the key to victory or defeat. In Infinite
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -19,6 +19,6 @@ Welcome to the top monster truck Games for kids & extreme car racing games of un
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Monster, Truck

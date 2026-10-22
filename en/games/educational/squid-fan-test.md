@@ -19,6 +19,6 @@ Did you watch the squid game series? Well! this game is a squid game quiz test. 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Puzzle, Quiz

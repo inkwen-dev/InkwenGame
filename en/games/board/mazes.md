@@ -19,6 +19,6 @@ Classic Fun filled Brain Puzzle game for perfect time breaker. You will be trapp
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Casual, Hypercasual, Puzzle

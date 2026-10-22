@@ -21,4 +21,4 @@ This time you play the role of an inmate who escapes from prison with your frien
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Avoid, Boy, Draw, Drawing, Escape, Game, Kid, prison
+- Tags: 3D Games, Avoid, Boy, Draw, Drawing, Escape, Game, Kid, Prison

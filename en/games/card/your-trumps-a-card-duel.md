@@ -17,4 +17,4 @@ Engage in strategic card duels where you aim to outsmart your opponent and empty
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

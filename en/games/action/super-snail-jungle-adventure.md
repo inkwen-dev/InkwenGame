@@ -19,6 +19,6 @@ As in the original game Snail Bob simply crawls onwards regardless of the situat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Brawl, Casual, Hypercasual, Interactive, Platform

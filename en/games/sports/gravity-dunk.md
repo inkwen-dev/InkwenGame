@@ -19,6 +19,6 @@ Experience a modern, 3D twist on a classic arcade challenge in Flappy Dunk! Take
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, Adventure, crazygamesunblocked, endless, flappybird, fly, Sport, unblocked games, unblockedgames66, unblockedgamesatschool

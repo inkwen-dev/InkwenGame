@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Android, Animal, Anime, Baby, Baby Hazel, Barbie, Boy, Boys, Brain, Candy, Cat, Dress Up, Girl, Girls, Kid, Kids, Mobile, Shopping

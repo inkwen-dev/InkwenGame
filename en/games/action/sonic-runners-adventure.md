@@ -19,6 +19,6 @@ Sonic Jump Force is an online HTML5 game , it's playable in browsers such as saf
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, jump, prison, run, running
+- Tags: Action, Adventure, jump, Prison, run, running

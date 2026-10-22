@@ -21,4 +21,4 @@ Control a killer worm in this fun arcade action game. Bring them all to death wi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Arcade, worm
+- Tags: 1 Player, 2D, Action, Arcade, Worm

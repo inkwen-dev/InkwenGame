@@ -19,6 +19,6 @@ Fidget Spinner.io is an online game that you can play for free. Fidget Spinner.i
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Android, Arcade, Avoid, Collecting, Fun, Game, HTML5, Kids

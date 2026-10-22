@@ -19,6 +19,6 @@ Are you looking for kids games for your baby? Do you want to help your little gi
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cooking, Cute, Decorate, Dress Up, Educational, Fashion, Girl, Girls, Kids, Makeover, Simulation

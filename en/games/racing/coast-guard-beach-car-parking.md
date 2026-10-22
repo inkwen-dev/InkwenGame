@@ -19,6 +19,6 @@ Get ready to park your vehicle on the beach. Take your seat and drive your car t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Car, Cars, drift, Driving, Girls

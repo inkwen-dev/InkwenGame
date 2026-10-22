@@ -19,6 +19,6 @@ Fill the empty tiles by using different blocks. Make sure to use your puzzle ski
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Candy, Skill, Skills

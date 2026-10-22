@@ -19,6 +19,6 @@ My Puppy Daycare Salon is a sophisticated and cute Caring game. In this game, yo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cleaning, Dress Up, Fashion, Girl, Girls, Grooming, Kid, Kids

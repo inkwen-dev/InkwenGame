@@ -21,4 +21,4 @@ Welcome to Five Nights at Talking Juans creepy &amp; scary place where you can t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Holiday, horror, House, Killing, Logic
+- Tags: Holiday, Horror, House, Killing, Logic

@@ -21,4 +21,4 @@ Fishing in Sea - This is a very popular game about fishing! You are in it to fig
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, fishing
+- Tags: Arcade, Fishing

@@ -19,6 +19,6 @@ Here is a bicycle stunt avoding arcade game under the third-person 3D view. It i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Bike, Jumping, Obstacle, Stunts

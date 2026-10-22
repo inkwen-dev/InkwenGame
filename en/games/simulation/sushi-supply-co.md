@@ -19,6 +19,6 @@ Build a sushi empire with Kitty Chef! - Tap on chefs to speed up the making of s
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Animal, Anime, Business, Cartoon, Casual, Cute, Hypercasual, management
+- Tags: 2D, Animal, Anime, Business, Cartoon, Casual, Cute, Hypercasual, Management

@@ -19,6 +19,6 @@ Cat Stretch is a really simple game where you suppost to help the cat to get int
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Clicker, Educational, Fun, Hypercasual

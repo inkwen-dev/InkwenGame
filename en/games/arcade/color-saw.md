@@ -19,6 +19,6 @@ Cut the 3D cubes using a saw. Color Block Saw 3D is one of the best color block 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Android, Arcade, Hypercasual, Puzzle

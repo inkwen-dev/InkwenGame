@@ -19,6 +19,6 @@ Mahjong Tiles Quest is a free mahjong matching game. This premium quality game i
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Board, HTML5, Hypercasual, Mahjong, Puzzle, Skill

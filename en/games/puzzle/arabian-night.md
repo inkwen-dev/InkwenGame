@@ -19,6 +19,6 @@ Arabian Night Tic-Tac-Toe made impossible due to the computer's smart counter-mo
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Fun, HTML5, Logic, Logical, Skill, Skills

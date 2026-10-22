@@ -19,6 +19,6 @@ Tower Color is a new one-hand addictive 3D Game with an infinity of levels to co
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D Games, Boys, Casual, Collection, Game, Games, Girl, Girls, Hypercasual

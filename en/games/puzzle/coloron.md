@@ -19,6 +19,6 @@ An excellent game will test your reaction and decision-making speed. The bouncin
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Baby, Ball, Ballon, Bubble, Click, Clicker, Color, Coloring, Cool, Highscore, HTML5, Play, Super

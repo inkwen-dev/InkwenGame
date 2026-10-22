@@ -19,6 +19,6 @@ Ball Up 3D is a new exciting game for all ages. Feel the rhythm to play. Do not 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, jump, Kid, Mobile

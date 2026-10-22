@@ -47,4 +47,4 @@ orange, ultraviolet, the pool, a fire alarm, and a total blackout.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, Escape, horror
+- Tags: 3D, Adventure, Escape, Horror

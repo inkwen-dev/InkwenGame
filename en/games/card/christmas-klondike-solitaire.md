@@ -21,4 +21,4 @@ Christmas Klondike Solitaire is the well-known card sorting puzzle game for a si
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Christmas, HTML5, Mobile
+- Tags: Card, Christmas, HTML5, Mobile

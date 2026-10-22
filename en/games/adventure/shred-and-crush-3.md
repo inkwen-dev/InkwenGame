@@ -21,4 +21,4 @@ Shred and Crush 3 features bloody sword fighting with different mythical creatur
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Adventure, Kill, Killing, Knight, rpg, Sword, Undead, Vampire, weapons, WebGL
+- Tags: 1 Player, 3D Games, Adventure, Kill, Killing, Knight, RPG, Sword, Undead, Vampire, weapons, WebGL

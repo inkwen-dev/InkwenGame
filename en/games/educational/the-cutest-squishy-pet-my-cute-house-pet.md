@@ -19,6 +19,6 @@ Smolsies are very cute plush creatures! Whether you are a toddler or a cute boy 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Educational, Fun, Girl, Girls, H5, HTML5, Hypercasual, Kid, Kids

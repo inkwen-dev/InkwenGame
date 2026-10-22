@@ -19,6 +19,6 @@ Cyborg Titans Adventure World 3 Are you ready to play the Cyborg Titans Adventur
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Aircraft, Android, Block, Cartoon Network, Dinosaur, Highscore, Platform

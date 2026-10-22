@@ -19,6 +19,6 @@ Get as far as you can in the jungle in this infinite 2D sidescroller game. Selec
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Cat, Jumping, run, running

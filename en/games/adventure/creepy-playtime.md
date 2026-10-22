@@ -30,4 +30,4 @@ Enter the unsettling realm of Creepy Playtime, where shadows hide lurking threat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Escape, horror, scary, survival
+- Tags: Escape, Horror, scary, survival

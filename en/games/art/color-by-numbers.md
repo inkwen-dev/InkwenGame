@@ -19,6 +19,6 @@ Each pixel block has a number inside. You can just color by number, and you’ll
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Color, Coloring, Educational, Kids, Quiz

@@ -19,6 +19,6 @@ With great power comes great fun! Defeat deadly enemies with the powers of a sup
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, amazing, Fighting, free html5 games for your website, Interactive, kiz10, Punch, Puzzle, Stickman, Superhero

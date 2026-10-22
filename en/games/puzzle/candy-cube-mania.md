@@ -19,6 +19,6 @@ Cube Mania is a challenging matching game. In the game, you need to blow your mi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Candy, Girls, Kids, Puzzle

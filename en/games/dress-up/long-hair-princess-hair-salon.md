@@ -19,6 +19,6 @@ Once upon a time, there was a kingdom in fairyland ruled by the beloved Prince C
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Cute, Decorate, Decoration, Dress Up, Educational, Fun, Girls, HTML5, Kids, Makeover, Mobile, Princess, Puzzle

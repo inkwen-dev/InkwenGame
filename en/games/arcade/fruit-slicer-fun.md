@@ -19,6 +19,6 @@ Welcome to the dojo, ninja! Your mission: master the art of fruit slicing in Fru
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, Action, Arcade, Best Games, Casual, cut, endless, free html5 games for your website, Fruit, Fun, Slicing

@@ -19,6 +19,6 @@ Tap the screen to carefully control the ball through the obstacles. The ball can
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Best, Casual, fly, Hypercasual, jump, Jumping

@@ -19,6 +19,6 @@ Play for a guy whose name is Bob! You came to the bottom neighborhood of the cit
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Escape, Spongebob, Unity3D

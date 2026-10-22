@@ -19,6 +19,6 @@ Skeletons have taken over the city. We need you as a brave warrior. Now prepare 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Battle, Best, Boys, Cartoon, Casual, endless, Escape, Hot, Hypercasual, Shoot, Shooter, Shooting, Strategy, WebGL

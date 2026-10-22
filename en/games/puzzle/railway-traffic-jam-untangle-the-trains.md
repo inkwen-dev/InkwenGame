@@ -36,4 +36,4 @@ Do you like simple and challenging puzzles with cars and trains? Do you love mob
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Puzzle, train
+- Tags: Puzzle, Train

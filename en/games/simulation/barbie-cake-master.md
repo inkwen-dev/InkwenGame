@@ -19,6 +19,6 @@ Barbie has become a cake master. Let's dress her up first. Let's put on the chef
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Cake, Cook, Decorate, Decoration, Food, Game, Girl, Girls, HTML5

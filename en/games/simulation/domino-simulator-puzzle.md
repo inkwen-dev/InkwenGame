@@ -19,6 +19,6 @@ Experience the thrill of strategic gameplay with Domino Simulator Puzzle! Challe
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, HTML5, iPad, iPhone, Mobile, Puzzle, Unity3D, WebGL

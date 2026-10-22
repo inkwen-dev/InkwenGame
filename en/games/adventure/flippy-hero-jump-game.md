@@ -19,6 +19,6 @@ Get ready for endless fun and action in Flippy Hero Jump Game, a fast-paced arca
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Casual, Fun, Hypercasual

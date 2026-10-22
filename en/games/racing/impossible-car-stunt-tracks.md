@@ -19,6 +19,6 @@ Race cars across impossible sky tracks packed with ramps, rotating obstacles, na
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Driving, Physics, Racing, Stunts, WebGL

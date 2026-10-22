@@ -19,6 +19,6 @@ Do you think parking your car is hard? Play Car Parking Simulator, an accurate s
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Cars, Parking, Simulator, Unity3D, WebGL

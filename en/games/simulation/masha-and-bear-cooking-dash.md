@@ -19,6 +19,6 @@ Animals in the forest are hungry. Who will feed poor animals in this food-making
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Baby, Cook, Cooking, Food, Girl, Girls

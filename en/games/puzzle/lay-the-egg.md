@@ -21,4 +21,4 @@ Late one night a farmer makes a mysterious discovery, that his barn has a little
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Animal, Bird, farm, HTML, HTML5, Kid, Kids, Physics, Puzzle
+- Tags: 2D, Animal, Bird, Farm, HTML, HTML5, Kid, Kids, Physics, Puzzle

@@ -19,6 +19,6 @@ Here come some tasty Word Cookies hot out of the oven! Take a bite! Word Cookies
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Brain, Fun, Puzzle, Quiz

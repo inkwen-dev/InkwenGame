@@ -19,6 +19,6 @@ Princess Clara, Ava and Mia are going to get ready for their school today. Of Co
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Barbie, Coloring, Cooking, Dress Up, Girls, Hair, Kids, School

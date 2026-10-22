@@ -21,4 +21,4 @@ Experience the most realistic Indian vehicles game ever in Tractor Farming Simul
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Best Games, Driving, farm, Kids, realistic, Simulator, tractor, vehicle
+- Tags: 2026 games, 3D Games, Best Games, Driving, Farm, Kids, realistic, Simulator, tractor, vehicle

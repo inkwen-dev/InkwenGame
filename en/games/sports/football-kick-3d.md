@@ -19,6 +19,6 @@ Football Kick 3D is a fast-paced 3D soccer action game where you don&rsquo;t jus
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Football, Soccer

@@ -19,6 +19,6 @@ Dots and Boxes 2.0 is a modern, feature-rich version of the classic pen-and-pape
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 2025 games, arrow, Board, HTML5

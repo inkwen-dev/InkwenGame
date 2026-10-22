@@ -19,6 +19,6 @@ World of Alice - Pirate Treasure World of Alice - Pirate Treasure is an educatio
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Cartoon, Educational, free games for your site, free games for your website, Fun, Funny, html games for your website, Kids, Logic, mapi games, Maze, Pirate, School

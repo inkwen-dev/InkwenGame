@@ -19,6 +19,6 @@ This adventure game is designed to help you unwind! Dive into the underwater wor
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, eating, Fish, HTML5, iPad, iPhone, Kids, Mentolatux, Skill, WebGL

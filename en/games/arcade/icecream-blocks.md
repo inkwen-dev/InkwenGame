@@ -19,6 +19,6 @@ Collect Ice creams by clicking on horizontal or vertical groups of 3 or more sam
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Candy, Collecting, HTML5, Mobile, Puzzle

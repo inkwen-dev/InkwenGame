@@ -19,6 +19,6 @@ In this game Big Sumo Must Jump, you need to control the big Sumo Wrestler and t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, jump, Jumping, Platform, Puzzle

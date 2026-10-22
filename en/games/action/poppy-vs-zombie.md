@@ -19,6 +19,6 @@ Poppy Vs Zombie is an HTML5 game. Keep Poppy alive and eliminate zombies to earn
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fight, Fighting, Games, HTML5, Kill, Killing, Zombie

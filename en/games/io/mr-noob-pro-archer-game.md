@@ -19,6 +19,6 @@ Have fun with this new action game Mr Noob Pro Archer is an archery game where t
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Aircraft, Alien, Arcade, Ballon, Battle, Battlegrounds, Bike, boat, Boy, Boys, Casual, Classic, Girl, Girls, Kid, Kids, Ladybug, Miraculous Ladybug, Road, Undead
+- Tags: .io Games, 1 Player, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Aircraft, Alien, Arcade, Ballon, Battle, Battlegrounds, Bike, Boat, Boy, Boys, Casual, Classic, Girl, Girls, Kid, Kids, Ladybug, Miraculous Ladybug, Road, Undead

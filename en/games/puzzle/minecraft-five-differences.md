@@ -19,6 +19,6 @@ These Minecraft images are all the same...or are they? Find out if you can spot 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Boys, Difference, HTML5, Kids, Minecraft

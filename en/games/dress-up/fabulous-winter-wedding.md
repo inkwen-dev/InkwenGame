@@ -19,6 +19,6 @@ Express your unique sense of style with this magnificent wedding game, We have t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Celebrity, Cute, Dating, Disney, Dress Up, Elsa, Fashion, Girl, Girls, Grooming, Hair, Halloween, Kids, Ladybug, Makeover, Online, Princess

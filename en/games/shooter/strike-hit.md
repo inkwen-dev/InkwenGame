@@ -19,6 +19,6 @@ Blow up all the blocks, you need to aim and shoot. It might use some skill with 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Ball, Game, Kid, Kids, Obstacle, Physics, Relaxation, Shoot

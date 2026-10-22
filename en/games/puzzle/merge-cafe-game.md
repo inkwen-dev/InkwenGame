@@ -19,6 +19,6 @@ Welcome to Merge Cafe Game. Buy tasty cakes, merge them to unlock new recipes an
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Boys, Casual, Clicker, Fun, Girls, Highscore, HTML5, Hypercasual, management, Mobile
+- Tags: Boys, Casual, Clicker, Fun, Girls, Highscore, HTML5, Hypercasual, Management, Mobile

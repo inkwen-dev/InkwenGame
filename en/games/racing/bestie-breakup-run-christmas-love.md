@@ -19,6 +19,6 @@ Bestie Breakup Run-Christmas Love is a fun running game with a Christmas atmosph
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Love, running

@@ -19,6 +19,6 @@ Eggstreme Eggscape is an arcade game where you play as an egg that needs to esca
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Collecting, jump, Jumping, mouse, onetouch, OnlyUp, Retro, Skill, touch, touchscreen
+- Tags: 1 Player, 2D, Arcade, Collecting, jump, Jumping, Mouse, onetouch, OnlyUp, Retro, Skill, touch, touchscreen

@@ -49,4 +49,4 @@ Shift：提高移动速度（如果已解锁）。
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 拼图
+- 标签: 益智

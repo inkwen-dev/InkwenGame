@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: Baby Hazel, 男孩, 男孩, Click, Clicker, 家庭, 女孩, 女孩们, HTML, HTML5, 儿童, 孩子们, Whack
+- 标签: 婴儿哈泽尔, 男孩, 男孩们, 点击, 点击器, 家庭, 女孩, 女孩们, HTML, HTML5, 儿童, 孩子们, 敲打

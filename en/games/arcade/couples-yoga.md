@@ -19,6 +19,6 @@ Couples Yoga is a Yoga arcade puzzle game with 3D models. You are ordered to mov
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Boy, Casual, Kid, Puzzle, Relaxation

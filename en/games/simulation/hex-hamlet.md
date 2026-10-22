@@ -21,4 +21,4 @@ A cozy 3D village builder on a hexagon island covered in forest. Move your point
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, cozy, management, Simulation, Strategy
+- Tags: 3D, cozy, Management, Simulation, Strategy

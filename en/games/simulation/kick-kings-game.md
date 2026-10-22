@@ -19,6 +19,6 @@ In Kick and Slap Kings, all you have to do is - aim right and strike as hard as 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Brawl, Crazy, Fighting, Simulation, Simulator

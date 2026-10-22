@@ -31,4 +31,4 @@ Simple, satisfying, and absurdly cute, Slime Clicker is the perfect game to unwi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, Mobile, mouse, slime
+- Tags: Clicker, Mobile, Mouse, slime

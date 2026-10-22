@@ -19,6 +19,6 @@ Would you like to travel in wonderful cities with Crazy Animals in 12 most beaut
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Boy, city, Jigsaw, Kids, Mobile, World

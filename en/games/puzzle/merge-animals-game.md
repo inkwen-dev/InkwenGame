@@ -19,6 +19,6 @@ Merge Animals is a very simple but addictive game where you have to touch 2 iden
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, amazing, Animal, Kid, Kids, touch

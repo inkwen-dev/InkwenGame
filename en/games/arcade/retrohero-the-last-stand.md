@@ -19,6 +19,6 @@ Enter a mythic pixel world where ancient guardians rise to protect their realm f
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2D, Action, Adventure, Alien, Android, Arcade, attack, Classic, free html5 games for your website, HTML5, Mobile, Retro

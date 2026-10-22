@@ -19,6 +19,6 @@ You have to fill the plate with candies hidden in the candy monster's room by so
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Best, Boy, Bubble, Candy, Girl, Hypercasual, Kids, Mobile, Monster, Puzzle

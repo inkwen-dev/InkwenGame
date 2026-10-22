@@ -19,6 +19,6 @@ Become the gun master in the classic physics-based shooting game. Before you pla
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Bullet, Defense, Gun, html5 games for your site, kiz10, Levels, Shoot

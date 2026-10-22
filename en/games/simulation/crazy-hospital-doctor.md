@@ -19,6 +19,6 @@ Do you have what it takes to be a Crazy Hospital Doctor? Join this hilarious sim
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Casual, Doctor, Educational, Girls, Kids, Matching, Simulation

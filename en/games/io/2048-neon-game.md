@@ -19,6 +19,6 @@ Dive into the most addictive number puzzle experience with 2048 Clean. Slide the
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2026 games, 2048, Board, Classic, HTML5, html5 games, Math, Puzzle

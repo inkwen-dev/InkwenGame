@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 单人, 2D, 动作, 成人, 冒险, 圣诞节, 猜谜, iPad, iPhone, 物理, 平台, 拼图
+- 标签: 1 人游戏, 2D, 动作, 成人, 冒险, 圣诞节, 猜词, iPad, iPhone, 物理, 平台, 拼图

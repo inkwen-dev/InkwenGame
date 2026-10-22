@@ -19,6 +19,6 @@ The most effective technique to engage young brains is educational games for tod
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Educational, HTML5, Kid, Kids, Math, Mobile

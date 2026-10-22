@@ -21,4 +21,4 @@ Pick & Match is a fun little memory puzzle game where the goal is to turn over t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Best, card, Cars, Kid, Memory, Mobile, Puzzle
+- Tags: Animal, Best, Card, Cars, Kid, Memory, Mobile, Puzzle

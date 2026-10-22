@@ -19,6 +19,6 @@ Tap the more you can to make more points and earn money, but try not to make any
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Casual, endless, HTML, HTML5, weapons

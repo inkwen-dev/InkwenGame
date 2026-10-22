@@ -19,6 +19,6 @@ you need to get three same colors for up the score
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Ballon, Candy, Color, Coloring, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids

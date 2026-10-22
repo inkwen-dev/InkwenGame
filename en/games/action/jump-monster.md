@@ -19,6 +19,6 @@ The "Monster Jump Adventure Online Game" is a fun and addicting game that allows
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Game, Games, HTML5, Platform

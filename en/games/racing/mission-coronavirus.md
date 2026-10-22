@@ -19,6 +19,6 @@ Are you ready to fight the Corona virus that emerged in Wuhan, China? As an ambu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Action, Best, bus, Car, city, Driving, Fun, Game, HTML5, Race, Racing, Road, Simulation, Simulator, Traffic, Unity3D

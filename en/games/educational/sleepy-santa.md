@@ -19,6 +19,6 @@ Welcome to the Sleepy Santa. Help to wake up the Santa before Christmas. Click a
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Christmas, Click, Educational, Kids, Puzzle

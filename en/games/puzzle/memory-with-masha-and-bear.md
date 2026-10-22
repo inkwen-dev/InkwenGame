@@ -19,6 +19,6 @@ Memory With Masha and Bear is a version of a famous game of Memory. Train your m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Boys, Fun, Girls, Hypercasual, Kids, Memory, Puzzle, School, Skill

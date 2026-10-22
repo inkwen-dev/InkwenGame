@@ -19,6 +19,6 @@ A casual adventure game, where you play as a crazy, angry, and huge monster simi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, city, Dinosaur, Dragon, H5, HTML, HTML5, Kids, Mobile, Online, Simulation, Simulator

@@ -19,6 +19,6 @@ Doc! Are you ready to test your great skills on the most adorable patient you’
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Boys, Cartoon, Cartoon Network, Cat, Design, Disney, Girls, Hello Kitty, Jewel

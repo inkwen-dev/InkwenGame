@@ -21,4 +21,4 @@ Skibidi Toilet 涂色有多种不同的 Skibidi Toilet 涂色页面可供选择�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 涂色, 拼图, Skibidi Toilet
+- 标签: 涂色, 解谜, Skibidi Toilet

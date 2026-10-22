@@ -19,6 +19,6 @@ Hyber Dash is a high-speed racing game where you control a car to avoid obstacle
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, drift, Driving, running

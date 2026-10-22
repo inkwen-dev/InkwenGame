@@ -36,4 +36,4 @@ New Game + in unlimited quantities. Boss Rush mode. Customization of the button 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Adventure, Magic, rpg, story
+- Tags: Action, Adventure, Magic, RPG, story

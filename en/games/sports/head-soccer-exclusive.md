@@ -19,6 +19,6 @@ The new season of the soccer goals championship is about to start and it\&#39;s 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Fun, Funny, HTML5, Hypercasual, Kids, Mobile, Skill, Soccer, Sport

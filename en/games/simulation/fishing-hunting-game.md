@@ -19,6 +19,6 @@ Jump into the exciting world of Fishing Hunting Game and test your hunting skill
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Fish, fishing, Fun, Shooting
+- Tags: Casual, Fish, Fishing, Fun, Shooting

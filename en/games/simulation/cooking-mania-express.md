@@ -19,6 +19,6 @@ Prepare, cook and serve in an amazing cooking game! Cooking Mania Express is one
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Food, management, Restaurant
+- Tags: Food, Management, Restaurant

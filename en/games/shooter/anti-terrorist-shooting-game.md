@@ -21,4 +21,4 @@ Overview Play as an elite commando in a modern war against terrorists. Fight acr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Best Games, First Person Shooter, fps, pvp, Shooting, Unity3D, WebGL
+- Tags: Adventure, Best Games, First Person Shooter, fps, PvP, Shooting, Unity3D, WebGL

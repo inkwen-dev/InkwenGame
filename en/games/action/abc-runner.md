@@ -21,4 +21,4 @@ ABC Runner is a racing game that combines typing. When you typing the correct an
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Boy, Game, Kid, Kids, Letters, Puzzle, Quiz, run, typing
+- Tags: 3D Games, Boy, Game, Kid, Kids, Letters, Puzzle, Quiz, run, Typing

@@ -19,6 +19,6 @@ Let&rsquo;s become a professional hairstylist of stylish hairstylists and design
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Games, Cleaning, Design, Dress Up, Fashion, Hair, HTML5, Kid, Kids

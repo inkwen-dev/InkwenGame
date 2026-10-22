@@ -19,6 +19,6 @@ Pixel Smash Duel is a chaotic 2 player retro-pixel battle game. Control your cha
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Arcade, Battle, Fight, Gun, Pixel, Shooting, War

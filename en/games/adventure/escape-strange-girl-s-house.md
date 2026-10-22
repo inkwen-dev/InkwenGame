@@ -33,4 +33,4 @@ Will you outsmart her and unlock the final door to freedom, or become just anoth
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, horror, Point And Click, story
+- Tags: Adventure, Escape, Horror, Point And Click, story

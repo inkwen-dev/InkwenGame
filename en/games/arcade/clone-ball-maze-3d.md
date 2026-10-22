@@ -19,6 +19,6 @@ Clone Ball Maze 3D is a ball arcade game with 3D models in different mazes. The 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Boy, Casual, Kid, Maze, Puzzle, Relaxation, Skill

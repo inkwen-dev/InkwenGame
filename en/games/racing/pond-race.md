@@ -19,6 +19,6 @@ Pond Race is a skill game where you have to guide a frog through a pond by click
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Arcade, H5, Race, Skill, Skills

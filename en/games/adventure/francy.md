@@ -19,6 +19,6 @@ Welcome to Francy, have fun between 3 levels overcoming all obstacles and pitfal
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Android, Boy, Boys, Hot, New

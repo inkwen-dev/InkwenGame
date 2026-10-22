@@ -19,6 +19,6 @@ Angry Heroes is a fast-paced shooter physics game where you have to join the lit
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Arcade, Bird, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids

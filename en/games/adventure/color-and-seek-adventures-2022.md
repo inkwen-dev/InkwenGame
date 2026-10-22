@@ -19,6 +19,6 @@ Color and Seek Adventures 2022 is an online game for young children. Together wi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Baby, Baby Hazel, Boy, Boys, Girl, Girls, H5

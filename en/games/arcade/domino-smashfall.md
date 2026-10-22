@@ -19,6 +19,6 @@ Welcome to Domino Smashfall, a colorful and calming domino game where matching t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Arcade, Ball, Casual, Color, Fun, Physics, Skill, smash, Strategy

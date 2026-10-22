@@ -19,6 +19,6 @@ This is word puzzle game. Make a meaningful word with the help of two images.
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Educational, Fun, HTML5, Kids, Mobile, Puzzle, School, Word

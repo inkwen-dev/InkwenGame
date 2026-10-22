@@ -19,6 +19,6 @@ Posing Puzzle is a funny game where you must help your characters to change thei
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Anime, Collection, Fun, Girl, Puzzle, Relaxation, WebGL

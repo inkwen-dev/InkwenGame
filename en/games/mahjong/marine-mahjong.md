@@ -21,4 +21,4 @@ If you love water and sea-ocean theme, then Marine Mahjong is for you! Match the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, boat, Fish, Mahjong, Matching
+- Tags: 1 Player, Boat, Fish, Mahjong, Matching

@@ -21,4 +21,4 @@ Farm Land &ndash; Farming Life Game is a relaxing farming simulator where you bu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, farm, grow, Island, Simulation
+- Tags: Casual, Farm, grow, Island, Simulation

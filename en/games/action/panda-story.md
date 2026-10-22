@@ -19,6 +19,6 @@ Panda Story. You will have a lot of fun in the fun panda game. Help this cute pa
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Funny, Pixel, Platform

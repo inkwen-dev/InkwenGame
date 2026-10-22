@@ -17,4 +17,4 @@ Dive into Solitaire Master, where timeless card challenges await with three capt
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -19,6 +19,6 @@ This is an interesting brick moving game. You can compete with the characters in
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D, 3D Games, Action, Battlegrounds, Block, Brain, Bricks

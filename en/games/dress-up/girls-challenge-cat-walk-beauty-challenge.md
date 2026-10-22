@@ -19,6 +19,6 @@ All the baddies are choosing the most beautiful outfits for the catwalk! Your go
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D, 3D Games, 8 Ball Pool, Action, Adult, Adventure, Arcade, Bejeweled, Car, Cars, Cat, Fight, Fighting, Girl, Girls, Ladybug, Logic, Miraculous Ladybug, Street Fighting, Supercars, Unity3D

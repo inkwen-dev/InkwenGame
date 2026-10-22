@@ -19,6 +19,6 @@ Welcome to Baby Panda: My Kindergarten, an enchanting game that offers a delight
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Cars, Cartoon, Cat, Cute, Educational, Food, Fun, Girls, HTML5, Kids, Mobile, Panda

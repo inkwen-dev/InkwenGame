@@ -19,6 +19,6 @@ Sorting Puzzle Game is a fun, relaxing, and brain-boosting puzzle game designed 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Adventure, Ball, Casual, Puzzle, water

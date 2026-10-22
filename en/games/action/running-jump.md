@@ -19,6 +19,6 @@ Running Jump is a game where you need to jump on platforms. Your enemies are pat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, Kids, Monster, Platform, Puzzle

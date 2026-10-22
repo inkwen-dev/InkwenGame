@@ -69,4 +69,4 @@ A: Yes, there is a journal of tasks and achievements.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Dragon, pve, rpg
+- Tags: Adventure, Dragon, pve, RPG

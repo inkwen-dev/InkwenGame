@@ -19,6 +19,6 @@ Crossbar Challenge is a HTML5 Sport Game. If you are a fun of Penalty Games you 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Football, Skill

@@ -21,4 +21,4 @@ Farm Animals Dash, you will love this fun matching game. Watch out after matchin
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Block, farm, Funny, Highscore, Kids, Skill
+- Tags: Animal, Block, Farm, Funny, Highscore, Kids, Skill

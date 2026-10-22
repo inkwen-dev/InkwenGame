@@ -21,4 +21,4 @@ Beautiful and fun farming simulation game. Raise cute farm animals and harvest d
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 2D, 3D Games, Animal, Casual, Chicken, farm, Food, Multiplayer, Puzzle, World
+- Tags: .io Games, 2D, 3D Games, Animal, Casual, Chicken, Farm, Food, Multiplayer, Puzzle, World

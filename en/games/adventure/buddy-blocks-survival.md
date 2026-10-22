@@ -21,4 +21,4 @@ Buddy Blocks Survival is an engaging online game suitable for both kids and adul
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Hypercasual, Kids, Logical, Mobile, mouse, Point And Click, Puzzle, puzzleblock
+- Tags: Brain, Hypercasual, Kids, Logical, Mobile, Mouse, Point And Click, Puzzle, puzzleblock

@@ -19,6 +19,6 @@ The fact is that the hand with the knife is constantly increasing in size and it
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Click, Clicker, Highscore, HTML, HTML5, Kill, Killing

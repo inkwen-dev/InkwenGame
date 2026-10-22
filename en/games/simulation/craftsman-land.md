@@ -43,4 +43,4 @@ The world of Craftsman Land is constantly growing with new places, tasks, and ad
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cozy, Crafting, farm, popular, Simulation, Strategy
+- Tags: cozy, Crafting, Farm, popular, Simulation, Strategy

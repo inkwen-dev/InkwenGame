@@ -19,6 +19,6 @@ Run!! Police cars are chasing you! Hold your steering strong and evade them away
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Highscore, HTML, HTML5, Hypercasual, Police

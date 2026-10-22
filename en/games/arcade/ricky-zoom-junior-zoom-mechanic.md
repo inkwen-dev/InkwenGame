@@ -19,6 +19,6 @@ It is with great excitement that right in this moment we could share with all of
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Anime, Arcade, Cartoon, Cartoon Network, Disney, HTML5, Kids, Moto, Motorcycle

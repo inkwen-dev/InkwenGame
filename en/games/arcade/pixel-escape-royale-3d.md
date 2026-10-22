@@ -19,6 +19,6 @@ Pixel Escape Royale 3D is an interesting 3D arcade game which is suitable for al
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Brain, Escape, Kids, Pixel, Puzzle, Skill

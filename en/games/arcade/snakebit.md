@@ -21,4 +21,4 @@ SnakeBit &ndash; Test Your Agility! Relive the excitement of the classic Snake g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Block, Classic, endless, free games for your site, free games for your website, Game, Games, New, Snake, worm, Worms
+- Tags: 1 Player, 2D, Arcade, Block, Classic, endless, free games for your site, free games for your website, Game, Games, New, Snake, Worm, Worms

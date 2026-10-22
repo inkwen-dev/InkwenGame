@@ -21,4 +21,4 @@ Conquer enemies, level up heroes, unlock skills in Epic Hero Quest: Idle RPG! - 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Clicker, endless, Flight, rpg, Strategy, Superhero
+- Tags: 1 Player, Clicker, endless, Flight, RPG, Strategy, Superhero

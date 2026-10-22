@@ -19,6 +19,6 @@ Its possible now to play Fortnite Memory Match Up game in your web browser for f
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Brain, Cartoon Network, Celebrity, Disney, Family, Fun, Girls, HTML5, Kids, Match 3, Memory, Mobile, Skills

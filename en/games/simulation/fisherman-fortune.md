@@ -19,6 +19,6 @@ Welcome to &lsquo;Fisherman Fortune&rsquo;. This Fish Hunting adventure game wil
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Casual, fishing
+- Tags: 2D, Casual, Fishing

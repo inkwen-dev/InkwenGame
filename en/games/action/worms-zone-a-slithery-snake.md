@@ -21,4 +21,4 @@ Worms Zone is a game with a dynamic storyline. Start growing your worm right now
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Action, Android, Arcade, Arena, Avoid, Battle, Candy, Casual, Cute, Flight, Food, Funny, Game, Multiplayer, Relaxation, Slither, Snake, Strategy, WebGL, World, worm, Worms
+- Tags: 2D, Action, Android, Arcade, Arena, Avoid, Battle, Candy, Casual, Cute, Flight, Food, Funny, Game, Multiplayer, Relaxation, Slither, Snake, Strategy, WebGL, World, Worm, Worms

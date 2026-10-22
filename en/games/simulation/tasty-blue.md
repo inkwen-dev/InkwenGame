@@ -17,4 +17,4 @@ Embark on an oceanic feast as a ravenous goldfish with an insatiable appetite. D
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

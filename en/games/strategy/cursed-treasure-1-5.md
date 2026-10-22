@@ -19,6 +19,6 @@ Once again the gems of the evil forces are in danger! After a decade of peace th
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Classic, Defense, Fantasy, Strategy, Tower Defense

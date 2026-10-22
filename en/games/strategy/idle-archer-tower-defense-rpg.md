@@ -19,6 +19,6 @@ Welcome brave archer heroes to the enchanting realm of Idle Archer Tower Defense
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Bow, Castle, Defense, Kids, Magic, Mobile, Online, rpg, Skills, Stickman, Tower Defense, War
+- Tags: 1 Player, 2D, Bow, Castle, Defense, Kids, Magic, Mobile, Online, RPG, Skills, Stickman, Tower Defense, War

@@ -19,6 +19,6 @@ Find groups of 4 related words and place them in the same row to complete a set.
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Puzzle, Skill, Word

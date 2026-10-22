@@ -19,6 +19,6 @@ Mandala coloring book for adults and kids its a collection of great and unique c
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Christmas, Classic, Color, Coloring, Cool, Cute, Educational, Family, Funny, Game, Games, Girl, Girls, HTML5, Interactive, Kids, Relaxation

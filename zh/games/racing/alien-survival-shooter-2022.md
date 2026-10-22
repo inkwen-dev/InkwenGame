@@ -21,4 +21,4 @@ Tab - 菜单 WASD 移动 鼠标 看向 准备 射击 重新装填 空格键 跳�
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 外星人, 汽车, 驾驶, 射击, 技能, 超级跑车, 卡车, Unity3D, WebGL
+- 标签: 3D游戏, 外星人, 汽车, 驾驶, 射击, 技能, 超跑, 卡车, Unity3D, WebGL

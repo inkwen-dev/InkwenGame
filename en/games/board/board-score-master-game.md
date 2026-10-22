@@ -19,6 +19,6 @@ Play the classic board table game with smooth controls, realistic physics, and a
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Board, Casual, Hypercasual

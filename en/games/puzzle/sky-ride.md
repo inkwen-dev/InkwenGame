@@ -19,6 +19,6 @@ Features: * Endless 3 d Car Racing *Random generated Levels * Simple Controls * 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Animal, Arcade, Baby, Batman, Battle, Bejeweled, Best, Boy, Boys, Bubble, Bubble Shooter, Car, card, Cars, Dragon, Dragon Ball Z, Fantasy, Fight, Girl, Girls, Jelly, Kid, Kids, Kiss, Kissing, Mario, Match 3, Matching, New, Ninja, Punch, Puzzle, Retro, Robot, run, running, Space, Spiderman, Spongebob, Sport, Supercars, Superhero, temple, Turn
+- Tags: Action, Animal, Arcade, Baby, Batman, Battle, Bejeweled, Best, Boy, Boys, Bubble, Bubble Shooter, Car, Card, Cars, Dragon, Dragon Ball Z, Fantasy, Fight, Girl, Girls, Jelly, Kid, Kids, Kiss, Kissing, Mario, Match 3, Matching, New, Ninja, Punch, Puzzle, Retro, Robot, run, running, Space, Spiderman, Spongebob, Sport, Supercars, Superhero, temple, Turn

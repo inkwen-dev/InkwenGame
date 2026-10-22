@@ -19,6 +19,6 @@ Welcome To Buggy Game Beach 2022 3D: Drive your beach buggy as far as you can in
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Car, drifting, Driving

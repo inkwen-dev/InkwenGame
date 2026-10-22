@@ -19,6 +19,6 @@ Extreme Balancer 3D is a new ball adventure game developed by CoolMathGamesKids.
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Balance, Ball, Maze, Unity3D

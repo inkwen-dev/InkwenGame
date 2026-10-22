@@ -21,4 +21,4 @@ For the lovers of games with jewels or diamonds, this game offers a fun gaming e
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Bejeweled, Casual, Match 3, Matching
+- Tags: Bejeweled, Casual, Match-3, Matching

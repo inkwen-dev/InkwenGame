@@ -19,6 +19,6 @@ With this car puzzle game, you need to park your car by solving the parking jam 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Baby Hazel, Candy, drift, drifting, Driving, Monkey, Monster, Moto, Motorcycle, Parking, Race, Racing, Space

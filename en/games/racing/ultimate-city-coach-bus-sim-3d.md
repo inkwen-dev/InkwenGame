@@ -19,6 +19,6 @@ Welcome to the most amazing and challenging bus transportation game of this year
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Adventure, Android, Boy, Boys, bus, Cars, Casual, city, Driving, Game, Games, gta, rpg, Simulation, Simulator, Traffic, Truck, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Adventure, Android, Boy, Boys, bus, Cars, Casual, city, Driving, Game, Games, gta, RPG, Simulation, Simulator, Traffic, Truck, Unity3D

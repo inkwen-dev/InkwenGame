@@ -19,6 +19,6 @@ Image Box is an engaging and challenging puzzle game designed to test your spati
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2D, Best Games, Brain, Mind, Puzzle, Strategy

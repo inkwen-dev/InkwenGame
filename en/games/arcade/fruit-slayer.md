@@ -19,6 +19,6 @@ In Fruit Slayer, unleash your swift slicing skills as you take on the role of a 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fruits, Sword, Unity3D, WebGL

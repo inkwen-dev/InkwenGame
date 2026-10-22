@@ -19,6 +19,6 @@ Math Squares is a game where you have to match memory cards of X with X*X. For s
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Clicker, Math, Puzzle

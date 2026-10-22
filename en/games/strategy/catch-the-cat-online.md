@@ -19,6 +19,6 @@ Catch The Cat is an exciting online game with addictive gameplay and attractive 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Brain, Cat, Cute, Fun, H5, Kid, Obstacle, Skill, Strategy

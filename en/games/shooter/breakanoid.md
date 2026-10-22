@@ -19,6 +19,6 @@ Breakanoid is a brick breaker game, in the Arkanoid online style. The Vaus Mothe
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Adult, Alien, Arcade, Arkanoid, Ball, Batman, Battle, Block, Bricks, Casino, Clans, Clash, Classic, CSGO, Dragon Ball Z, Game, Google, gta, Gun, Highscore, HTML5, Lego, Love, Mario, Mine, Minecraft, Mobile, Obstacle, PacMan, Panda, Pinball, Planet, Pokemon, Retro, Robot, Seduction, Shoot, Shoot 'Em Up, Shooter, Shooting, Simpson, Space, Spaceship, Spiderman, Spongebob, Tetris, War, weapons, WebGL, Worms, Zombie

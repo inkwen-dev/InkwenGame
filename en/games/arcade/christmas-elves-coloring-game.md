@@ -19,6 +19,6 @@ Unleash your creativity and immerse yourself in a world of vivid colors with Chr
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Color, Coloring, HTML5, WebGL

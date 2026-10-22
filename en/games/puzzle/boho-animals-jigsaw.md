@@ -19,6 +19,6 @@ These animals are very different from other animals you know because they dress 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Animal, Dress Up, Jigsaw, Kids, Mobile, Skill

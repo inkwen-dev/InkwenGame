@@ -19,6 +19,6 @@ As a beauty master to pop all pimple away to recover the skin health. Enjoy the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, HTML5, Hypercasual, Mobile, Obstacle, Online, Platform

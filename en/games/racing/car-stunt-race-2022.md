@@ -19,6 +19,6 @@ Driving in Real Car Stunt is as realistic as it gets, challenging your skills to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Driving, Racing, Stunts, Supercars, Unity3D, WebGL

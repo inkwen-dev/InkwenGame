@@ -21,4 +21,4 @@ Cocoon Crossing 3D is a cozy 3D routing puzzle. Every caterpillar wants to reach
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Brain, Casual, Logic, Relaxation, worm
+- Tags: 1 Player, Brain, Casual, Logic, Relaxation, Worm

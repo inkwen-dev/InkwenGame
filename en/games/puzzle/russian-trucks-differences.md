@@ -19,6 +19,6 @@ Russian trucks are one of the most powerful vehicles. Here you will find the bes
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Difference, Fun, HTML5, Kids, Skill, Truck

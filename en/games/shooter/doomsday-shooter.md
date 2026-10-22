@@ -19,6 +19,6 @@ Fight back against hordes of sinister creepers. Choose from 11 different weapons
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Alien, Arcade, Arena, Battle, Blood, Boys, Castle, Classic, CSGO, Dungeon, Fight, Fighting, Fire, Fun, Gun, Hot, jump, Jumping, Mobile, Pixel, Retro, Robot, Shooter, Shooting, Undead, Unity3D, weapons, WebGL

@@ -19,6 +19,6 @@ The Toyota Supra is known for many things in the automotive world. Not only beca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, drift, Driving, Simulator, Stunts

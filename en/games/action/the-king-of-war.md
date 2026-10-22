@@ -19,6 +19,6 @@ This is a very casual game for breaking through the hurdles. If players want to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Casual, Collecting, Collection, Games, H5, Kid, Kids, Mobile, run, Violence, War

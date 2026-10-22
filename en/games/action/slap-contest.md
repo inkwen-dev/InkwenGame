@@ -19,6 +19,6 @@ Welcome to Slap Contest Game. Move left and right and double tap to slap your op
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Fight, Fighting, Hot, Multiplayer, Stickman, Street Fighting

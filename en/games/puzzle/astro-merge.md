@@ -19,6 +19,6 @@ Merge falling planets, create combos, and build the biggest stack! The pressure 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, Ball, blocky, Fun, HTML5, mouse, puzzleblock
+- Tags: .io, .io Games, 1 Player, Ball, blocky, Fun, HTML5, Mouse, puzzleblock

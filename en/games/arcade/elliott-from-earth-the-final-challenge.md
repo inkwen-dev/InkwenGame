@@ -19,6 +19,6 @@ Play Elliott From Earth - Space Academy: The Final Challenge Game online in your
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Boy, Brain, Cartoon, Cartoon Network, Disney, Girl, Highscore, HTML5, Kid, Rocket, Skills, Space, Spaceship

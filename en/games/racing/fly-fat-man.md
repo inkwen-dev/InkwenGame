@@ -19,6 +19,6 @@ Flying Fat Man is a side-scrolling adventure game to play. Here is the fat man w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, Flight, fly, Super, Superhero

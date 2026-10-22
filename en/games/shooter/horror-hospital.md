@@ -19,6 +19,6 @@ Step into the terrifying world of Horror Hospital, an FPS survival game that wil
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Action, fps, horror, Shooter, Shooting, survival, unity, Unity3D
+- Tags: 1 Player, 3D, 3D Games, Action, fps, Horror, Shooter, Shooting, survival, unity, Unity3D

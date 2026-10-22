@@ -21,4 +21,4 @@ Use the Red Suit Bodyguard to Finish the Course and Get Rich!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 1 Player, 2D, 3D, 3D Games, Action, Adventure, Arcade, Game, Games, movie
+- Tags: .io, .io Games, 1 Player, 2D, 3D, 3D Games, Action, Adventure, Arcade, Game, Games, Movie

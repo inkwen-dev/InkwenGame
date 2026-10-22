@@ -21,4 +21,4 @@ How to play - Pick a solitaire from the collection and a difficulty level - Lay 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Solitaire
+- Tags: Card, Solitaire

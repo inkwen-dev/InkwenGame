@@ -19,6 +19,6 @@ Have you ever dreamed of piloting airplanes when you were a child? With this gam
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Aircraft, Casual, Helicopter, management, Puzzle, Simulation, Strategy, Traffic
+- Tags: Aircraft, Casual, Helicopter, Management, Puzzle, Simulation, Strategy, Traffic

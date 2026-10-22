@@ -19,6 +19,6 @@ Clear The Lot is a game that will test your outsourcing skills. There will be a 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Car, Driving, Kids, Mobile, Parking, Skill

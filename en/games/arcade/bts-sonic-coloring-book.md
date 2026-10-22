@@ -19,6 +19,6 @@ BTS Sonic Coloring Book is super fun online coloring game for kids. Are you read
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Cartoon, Color, Coloring, HTML5, Hypercasual, Kids, Mobile, School

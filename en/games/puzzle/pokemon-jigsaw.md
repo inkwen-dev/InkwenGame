@@ -19,6 +19,6 @@ A new jigsaw puzzle game! The theme is cute Pokemon Pikachu and his dear friends
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Anime, Baby, Boy, Boys, Cartoon, Casual, Cute, Educational, Girl, Girls, H5, HTML5, Jigsaw, Pokemon, Puzzle

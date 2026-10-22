@@ -19,6 +19,6 @@ Test your reflexes and precision in this ultimate balancing challenge! Navigate 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Balance, Ball, Mentolatux, unity, WebGL

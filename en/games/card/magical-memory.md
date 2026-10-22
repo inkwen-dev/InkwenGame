@@ -21,4 +21,4 @@ Click the cards to reveal a magic icon . Memorize it so that you can match to si
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Board, card, HTML, Kids, Magic, Matching, Memory, Mobile, Puzzle
+- Tags: Arcade, Board, Card, HTML, Kids, Magic, Matching, Memory, Mobile, Puzzle

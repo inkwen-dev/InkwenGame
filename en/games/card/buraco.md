@@ -17,4 +17,4 @@ Dive into the dynamic card game of Buraco, combining Rummy and Canasta excitemen
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

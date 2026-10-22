@@ -19,6 +19,6 @@ A casual puzzle simple game, you only need to pull the pins to dredge the colore
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Ball, Casual, Game, Kid, Kids, Point And Click, Puzzle

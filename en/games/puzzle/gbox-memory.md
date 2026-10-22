@@ -19,6 +19,6 @@ A game of the memory genre with a variety of modes. Search for pairs of identica
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Brain, Classic, Matching, Memory, Mind, Puzzle

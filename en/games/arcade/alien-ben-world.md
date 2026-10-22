@@ -19,6 +19,6 @@ Free Run Best of top 10 games in 2020 for a journey of running adventure. Want t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Ben 10, Cartoon, Cartoon Network

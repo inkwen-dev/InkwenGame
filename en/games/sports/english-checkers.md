@@ -19,6 +19,6 @@ Immerse yourself in the exciting world of Checkers English, where every game is 
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player, Board, Brain, HTML5, Logic, Mobile, Multiplayer, Online, Puzzle, pvp, Relaxation, Strategy, Turn Based
+- Tags: 2 Player, Board, Brain, HTML5, Logic, Mobile, Multiplayer, Online, Puzzle, PvP, Relaxation, Strategy, Turn Based

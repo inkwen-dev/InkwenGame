@@ -21,4 +21,4 @@ Grand Theft Auto V is an action-adventure game played from either a third-person
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Animal, Boys, Car, Cartoon, movie
+- Tags: 1 Player, 2D, Action, Adventure, Animal, Boys, Car, Cartoon, Movie

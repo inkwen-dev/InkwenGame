@@ -21,4 +21,4 @@ Scary Horror: Escape Game is a thrilling adventure game that will appeal to fans
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Detective, horror, Logic, Logical, Strategy
+- Tags: Detective, Horror, Logic, Logical, Strategy

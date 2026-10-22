@@ -19,6 +19,6 @@ Tap and hold to paint the road. Can you paint all the way to finish line?
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, HTML, HTML5, Hypercasual

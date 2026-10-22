@@ -19,6 +19,6 @@ Get ready for a spooktacular adventure with Halloween Coloring Book! Unleash you
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Coloring, Cute, Drawing, Fun, Girls, Halloween, Holiday, HTML5, Kids, Mobile

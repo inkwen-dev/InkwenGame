@@ -19,6 +19,6 @@ The lovable princess Clara and Eliza are going to attend the Summer ball 2020 at
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Coloring, Cooking, Dress Up, Fashion, Girls, Hair, Kids, Makeover

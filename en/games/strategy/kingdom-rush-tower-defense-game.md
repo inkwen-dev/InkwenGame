@@ -19,6 +19,6 @@ Charge into the action of the best Tower Defense game ever created! Use your str
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Games, Shoot, Shooter, Shooting, Tower Defense

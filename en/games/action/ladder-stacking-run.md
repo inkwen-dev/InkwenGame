@@ -19,6 +19,6 @@ In Ladder Stacking Run, race through vibrant, obstacle-filled courses while stac
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Online, Platform, running, Unity3D, WebGL

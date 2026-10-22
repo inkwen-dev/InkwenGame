@@ -19,6 +19,6 @@ Crazy Ball: Swift Motion is a game for the real fans of speed. You will play a q
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Best, Click, Clicker, H5, Hot, HTML, HTML5, Kid, Kids, Race, run, running, Unity3D

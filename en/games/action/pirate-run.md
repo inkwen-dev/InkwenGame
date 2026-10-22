@@ -19,6 +19,6 @@ Pirate Run a great HTML5 platform game. Control pirate on the lone island and pi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, HTML5, Jumping, Pirate, Platform

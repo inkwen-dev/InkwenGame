@@ -19,6 +19,6 @@ The most challenging and fun game of 2019! Protect your Ship with your shield wh
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Alien, Arcade, Castle, endless, Family, Obstacle, Space, Spaceship

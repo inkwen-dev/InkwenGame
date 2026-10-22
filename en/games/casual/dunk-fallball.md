@@ -19,6 +19,6 @@ dunk BasketBall is a really simple game where you have to only left click for pc
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Click, Collecting, Fun, HTML5, iPhone, Kids, Mobile

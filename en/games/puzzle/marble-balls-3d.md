@@ -19,6 +19,6 @@ Become a marble maze master in this brand new game. Find the right path by knock
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Boys, Fun, Girls, HTML5, Kids, Mobile

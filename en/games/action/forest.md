@@ -19,6 +19,6 @@ are you ready to play best classic game for kid and family play now with your fr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Android, Animal, Arcade, Candy, Cartoon, Cartoon Network, Cat, Classic, Cute, Fun, Funny, Game, Games, jump, Jumping, Kid, Kids, Mind, Minion, Mobile, Puzzle, run, running, Superhero

@@ -19,6 +19,6 @@ A fun-placed farm simulation game that collects more resources by planting diffe
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2D, Android, Clicker, farm, H5, HTML, HTML5, Hypercasual, Kid, Kids, Magic, Matching, Mobile, Plant, Relaxation
+- Tags: 2D, Android, Clicker, Farm, H5, HTML, HTML5, Hypercasual, Kid, Kids, Magic, Matching, Mobile, Plant, Relaxation

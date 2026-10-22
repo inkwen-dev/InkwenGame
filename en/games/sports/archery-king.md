@@ -19,6 +19,6 @@ Test your Archery Skills. Master the skills, hit all the point and be the king o
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Casual, Fun, King, Shooter, Shooting, Sports

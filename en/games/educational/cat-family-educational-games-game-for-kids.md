@@ -19,6 +19,6 @@ Cat Family Educational Games is a very interesting casual game. Your task is to 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Boys, Cat, Educational, Family, Fun, Girl, Girls, Kid, Kids

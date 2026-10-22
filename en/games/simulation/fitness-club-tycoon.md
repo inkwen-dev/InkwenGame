@@ -19,6 +19,6 @@ Welcome to the exciting world of Fitness Club Tycoon, the ultimate gym managemen
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, Casual, Fun, Skill

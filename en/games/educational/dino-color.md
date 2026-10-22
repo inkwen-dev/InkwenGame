@@ -19,6 +19,6 @@ Dino Color Dino Color is an educational game aimed at children with the aim of c
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Best Games, Cartoon, Color, dino, Dinosaur, Educational, Family, free games for your site, HTML5, Kids, Puzzle, puzzleblock, School

@@ -19,6 +19,6 @@ Train your brain by playing pull the pin puzzle game, just you can answer all ou
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Castle, Fairy, Kid, Kids, Kiz 10, Rescue

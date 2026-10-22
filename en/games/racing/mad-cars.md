@@ -19,6 +19,6 @@ Here is a great arcade game of the famous Car web game, formatted to work on mob
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Casual, HTML, HTML5, Hypercasual, Race, Racing

@@ -19,6 +19,6 @@ Are you into Ninja Turtle ? Ninja Turtle Coloring Book: A Stunning Coloring Book
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cartoon, Color, Coloring, Draw, Drawing, Ninja, Puzzle

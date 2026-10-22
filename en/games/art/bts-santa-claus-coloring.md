@@ -19,6 +19,6 @@ BTS Santa Claus Coloring is an online game that you can play for free. Christmas
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Christmas, Coloring, Fun, HTML5, Kids, School, Winter

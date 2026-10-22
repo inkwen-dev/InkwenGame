@@ -19,6 +19,6 @@ Jump is a platform kids game with jumping elements. At this game you need to con
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, HTML5, jump, Jumping, Platform, Puzzle

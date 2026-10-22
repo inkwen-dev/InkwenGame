@@ -19,6 +19,6 @@ Your main goal in this game will be to complete each level, collecting all the p
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Arcade, Click, Clicker, H5, HTML, HTML5, Hypercasual, Puzzle, Snake, Taxi, train
+- Tags: Arcade, Click, Clicker, H5, HTML, HTML5, Hypercasual, Puzzle, Snake, Taxi, Train

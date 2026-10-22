@@ -19,6 +19,6 @@ Tumble Master is the most popular in sports game. The main test of the player\&#
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Click, jump, Jumping, Timing

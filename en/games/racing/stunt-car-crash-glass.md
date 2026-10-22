@@ -19,6 +19,6 @@ Prepare for an electrifying experience with Stunt Car Crash Glass, an intense st
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, crash, demolition, Driving, Simulator, sky, Stunts, Supercars, Unity3D, WebGL

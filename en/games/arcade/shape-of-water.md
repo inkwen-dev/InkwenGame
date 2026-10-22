@@ -19,6 +19,6 @@ Shape of Water is fun and challenging game suitable for all ages. You need to ma
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Boys, Game, Girl, HTML5, Hypercasual, Kids, Mobile, Puzzle

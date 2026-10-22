@@ -21,4 +21,4 @@ I Can Transform is a 2D action-platform game. In this game you will use your spe
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Android, Arcade, Best, Bike, boat, Boy, Boys, Car, Cartoon, Classic, Click, Collecting, Cool, Crazy, Fun, Funny, Game, Games, Helicopter, Highscore, HTML, HTML5, jump, Jumping, Kid, Kids, Machine, Mobile, Moto, Motorcycle, New, Obstacle, Online, Physics, Pixel, Platform, Play, Race, Racing, Retro, Rocket, run, running, Skill, Skills, Spaceship, Stunts, Super, Supercars, Superhero, Timing, WebGL
+- Tags: 1 Player, 2D, Action, Adventure, Android, Arcade, Best, Bike, Boat, Boy, Boys, Car, Cartoon, Classic, Click, Collecting, Cool, Crazy, Fun, Funny, Game, Games, Helicopter, Highscore, HTML, HTML5, jump, Jumping, Kid, Kids, Machine, Mobile, Moto, Motorcycle, New, Obstacle, Online, Physics, Pixel, Platform, Play, Race, Racing, Retro, Rocket, run, running, Skill, Skills, Spaceship, Stunts, Super, Supercars, Superhero, Timing, WebGL

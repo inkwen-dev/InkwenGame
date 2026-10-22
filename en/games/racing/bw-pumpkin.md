@@ -19,6 +19,6 @@ Black And White Pumpkin is an endless jumping game that will both frustrate and 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Halloween, HTML, HTML5, Hypercasual, jump, Jumping, Mobile, Racing

@@ -19,6 +19,6 @@ Help the prince out by running faster than the rest of the crowd! Get as far awa
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D Games, Action, Android, Arcade, HTML5, Interactive, jump, Mobile, Point And Click, Unity3D

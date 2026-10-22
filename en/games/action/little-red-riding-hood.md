@@ -21,4 +21,4 @@ Can you help Little Red Riding Hood to defeat the bad Wolf? This is a platform g
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, Adventure, Boy, Boys, Candy, Disney, Fruit, Fun, Girl, Girls, Kid, Kids, Mario, Platform, Red, Snake, Unity3D, WebGL, wolf
+- Tags: 1 Player, 2D, Action, Adventure, Boy, Boys, Candy, Disney, Fruit, Fun, Girl, Girls, Kid, Kids, Mario, Platform, Red, Snake, Unity3D, WebGL, Wolf

@@ -19,6 +19,6 @@ Minecraft Zombie Survial is an amazing and free to play online game belongs to s
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Block, Boys, Hypercasual, Kids, Minecraft, Mobile, Puzzle, Skill

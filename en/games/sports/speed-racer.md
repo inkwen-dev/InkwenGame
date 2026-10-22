@@ -19,6 +19,6 @@ Let you relive feelings, memories of the classic! The game designed rich Cars, R
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Educational, Fantasy, Football, Games, Halloween, Hello Kitty, Race, Racing

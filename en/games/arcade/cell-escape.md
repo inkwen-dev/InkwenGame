@@ -19,6 +19,6 @@ Cell Escape is an engaging physics-based puzzle game featuring 60 exciting level
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Bomb, Family, HTML, mapi games, Mobile, Puzzle, puzzleblock

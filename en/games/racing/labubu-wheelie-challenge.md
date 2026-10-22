@@ -21,4 +21,4 @@ Join us on a thrilling ride with Labubu Wheelie Challenge, where balance and pre
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Avoid, Balance, Car, Collecting, Driving, jeep, Labubu, mouse
+- Tags: Avoid, Balance, Car, Collecting, Driving, jeep, Labubu, Mouse

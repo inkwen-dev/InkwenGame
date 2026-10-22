@@ -19,6 +19,6 @@ You have to rotate and match the balls in the middle according to the color of t
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Ball, Click, Clicker, HTML5, Hypercasual

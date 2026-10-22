@@ -19,6 +19,6 @@ Match the monster tiles and release them Solve the monster tiles by matching the
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Match 3, Matching, Puzzle

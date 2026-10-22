@@ -19,6 +19,6 @@ Do you want to be a babysitter? Let's learn about the babysitter and baby care! 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids

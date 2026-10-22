@@ -21,4 +21,4 @@ Monster Worm is an amazing action game feed your hungry monster pet as long as y
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best, Hot, Hypercasual, War, worm, Zombie
+- Tags: Best, Hot, Hypercasual, War, Worm, Zombie

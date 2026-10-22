@@ -19,6 +19,6 @@ bubble shooter fun in Bubble Wings. Relaxing family atmosphere and cheerful farm
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Boys, Bubble, Bubble Shooter, Cartoon, Game, HTML, HTML5, Shoot, Shooter, Shooting

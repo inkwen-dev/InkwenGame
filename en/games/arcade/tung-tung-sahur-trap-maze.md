@@ -19,6 +19,6 @@ Welcome to the exciting game Tong Tong Sahor: Maze Escape! A unique arcade await
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Tung Tung Tung, Tung Tung Tung Sahur

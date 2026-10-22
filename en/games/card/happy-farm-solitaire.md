@@ -19,6 +19,6 @@ Happy Farm Solitaire is a wonderful game with very nice graphics and a relaxing 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Arcade, card, Casual, farm, Fun, Solitaire
+- Tags: Animal, Arcade, Card, Casual, Farm, Fun, Solitaire

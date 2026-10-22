@@ -19,6 +19,6 @@ You need to go through all 40 levels to open all four windows, each of which goe
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Logic, Puzzle, Summer, Winter
+- Tags: Card, Logic, Puzzle, Summer, Winter

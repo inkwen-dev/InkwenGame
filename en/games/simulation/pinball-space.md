@@ -19,6 +19,6 @@ In this pinball classic arcade game, launch your pinball into space. Keep the ba
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Pinball, Simulator

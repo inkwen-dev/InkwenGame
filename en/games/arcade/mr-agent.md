@@ -19,6 +19,6 @@ Mr Agent is Brand Sniper Game with Perfect Shooting , Aim the Enemies and shoot 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Arcade, Gun, Hypercasual, Sniper, Stickman, Unity3D

@@ -19,6 +19,6 @@ Pixel Zombies is a Zombie Smasher type arcade game.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Click, Clicker, Crazy, Fun, Funny, Girl, Girls, Gun, Kid, Kids, Kill, Killing, Point And Click, Street Fighting, typing, Zombie
+- Tags: Click, Clicker, Crazy, Fun, Funny, Girl, Girls, Gun, Kid, Kids, Kill, Killing, Point And Click, Street Fighting, Typing, Zombie

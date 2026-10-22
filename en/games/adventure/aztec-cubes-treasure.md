@@ -19,6 +19,6 @@ Aztec Cubes Treasure is a free arcade game. Are you a nostalgic of the timeless 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Fun, HTML5, Kids, Logic, Mobile, Skill, Tetris

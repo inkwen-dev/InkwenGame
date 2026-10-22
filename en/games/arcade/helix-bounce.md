@@ -19,6 +19,6 @@ Helix Bounce is an Amazing Arcade game! Use your finger or hold the mouse click 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Hypercasual

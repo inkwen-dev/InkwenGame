@@ -19,6 +19,6 @@ Build the tallest wall you can by avoiding bricks as they fall from the sky! bri
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Adventure, Arcade, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Play

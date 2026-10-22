@@ -19,6 +19,6 @@ Help the pen reach the finish line and avoid the obstacles on the messy desk bef
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Family, HTML5, Hypercasual, Kids, Multiplayer, Race, running, Simulation, WebGL

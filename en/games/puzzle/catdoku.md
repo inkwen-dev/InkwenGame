@@ -39,4 +39,4 @@ CatDoku is a cozy logic puzzle with cute cats! Place the fluffy heroes on the bo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: cats, Logic, Puzzle, sudoku
+- Tags: cats, Logic, Puzzle, Sudoku

@@ -19,6 +19,6 @@ Control a man made out of pixel blocks as he races through challenging obstacle 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Avoid, Casual, Fun, Pixel, run

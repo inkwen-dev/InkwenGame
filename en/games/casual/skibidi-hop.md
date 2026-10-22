@@ -19,6 +19,6 @@ Its just a really simple endless hyper casual game! Help Skibidi and try to avoi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML, HTML5, jump, Jumping, Mobile, Skibidi, Skibidi Toilet

@@ -19,6 +19,6 @@ Welcome to Killy Willy vs Mommy and Huggy! Choose one of the characters Huggy Wu
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Highscore, Hot, Hypercasual, Mario, run, running

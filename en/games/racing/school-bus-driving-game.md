@@ -19,6 +19,6 @@ Are you ready to perform your driver duty as a 4x4 bus driver? If yes then this 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Driving, Race, School, Simulation

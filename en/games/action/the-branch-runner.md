@@ -19,6 +19,6 @@ Are you good at endless running arcade games? Here is a chance for you to play a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Block, Collecting, Mobile, Pixel, Platform, running, Unity3D

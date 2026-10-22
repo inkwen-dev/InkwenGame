@@ -19,6 +19,6 @@ Before you motorcycle racing with fighting. In this game, each race is a battle 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bike, H5, HTML, HTML5, Hypercasual, Moto, Motorcycle, Race, Racing, Sport, Sports

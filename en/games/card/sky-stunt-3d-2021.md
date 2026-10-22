@@ -19,6 +19,6 @@ Are you ready for driving on the sky road to perform impossible car stunt. Get b
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Adventure, Arcade, Best, Bike, Car, card, Cars, Driving, Parking, Plane, Race, Racing, Simulation, Simulator, sky, Stunts, Supercars, Truck
+- Tags: 1 Player, Adventure, Arcade, Best, Bike, Car, Card, Cars, Driving, Parking, Plane, Race, Racing, Simulation, Simulator, sky, Stunts, Supercars, Truck

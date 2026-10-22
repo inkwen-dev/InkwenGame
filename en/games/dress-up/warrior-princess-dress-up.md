@@ -19,6 +19,6 @@ Mia, Emma and Bella are all going to have different makeover today. So they are 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Barbie, Boys, Cooking, Dress Up, Family, Fashion, Fight, Girls, Kids, Princess

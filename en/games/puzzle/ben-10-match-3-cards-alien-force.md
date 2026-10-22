@@ -19,6 +19,6 @@ Are you like Ben 10 Memory Cards Alien Force? and you want play The new Of Princ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Alien, Ben 10, card, Kids, Match 3, Memory, Puzzle
+- Tags: Alien, Ben 10, Card, Kids, Match 3, Memory, Puzzle

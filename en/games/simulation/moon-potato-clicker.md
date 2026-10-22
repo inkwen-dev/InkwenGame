@@ -21,4 +21,4 @@ In Moon Potato Clicker your goal is to create the biggest potato economy on the 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Clicker, idle, management, Space
+- Tags: Clicker, idle, Management, Space

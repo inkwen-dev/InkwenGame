@@ -19,6 +19,6 @@ Click the cards to reveal a HAT icon . Memorize it so that you can match to simi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle

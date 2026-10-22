@@ -19,6 +19,6 @@ Among Us vs Garten Of Banban plays the role of an antagonist who will always sca
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Best Games, Casual, Crazy, HTML5, Hypercasual, Unity3D

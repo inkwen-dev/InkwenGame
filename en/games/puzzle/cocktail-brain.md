@@ -19,6 +19,6 @@ In the game, you are waiting to prepare a cocktail that will have real benefits 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Avoid, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Kid, Kids, Puzzle

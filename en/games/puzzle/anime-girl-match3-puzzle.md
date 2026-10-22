@@ -19,6 +19,6 @@ Collect cute puzzles with bright and beautiful pictures. Each picture shows a cu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Arcade, Cartoon, Girl, Girls, Jigsaw, Puzzle

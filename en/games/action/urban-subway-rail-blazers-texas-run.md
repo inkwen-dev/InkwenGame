@@ -21,4 +21,4 @@ The addictive Urban Subway Rail Blazers - Texas Run is now out for Android! All 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, run, running, subway, Subway Surfers, train
+- Tags: Adventure, run, running, subway, Subway Surfers, Train

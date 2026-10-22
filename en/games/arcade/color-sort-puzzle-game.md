@@ -19,6 +19,6 @@ Color Sort Water Sort Puzzle gives you mental challenge. Liquid Sort Puzzle Game
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 3D Games, Adventure, Arcade, Best Games, bottle, Color, Kids, sorting, water

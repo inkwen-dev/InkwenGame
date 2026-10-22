@@ -19,6 +19,6 @@ Enter the world of Block Blast, a relaxing and fun brain puzzle game where every
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, 3D Games, free games for your site, free html5 games for your website, Fun, Hypercasual, Interactive, Puzzle

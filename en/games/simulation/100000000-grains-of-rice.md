@@ -19,6 +19,6 @@ This is a very fun leisure decompression magic game. The game is very simple. Pl
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Funny, Game, Google, H5, HTML5, Math, Number, Play, Simulation, Simulator

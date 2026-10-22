@@ -21,4 +21,4 @@ GEL PEN RUSH 2021 --s an interesting running, relaxing game. There are many obst
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, 3D, 3D Games, Adventure, Arena, Block, Boys, Girls, Hypercasual, Kids, run, running, Simulation, WebGL
+- Tags: 3D, 3D Games, Adventure, Arena, Block, Boys, Girls, Hypercasual, IO, Kids, run, running, Simulation, WebGL

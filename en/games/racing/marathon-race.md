@@ -19,6 +19,6 @@ Marathon Race 3D is a fast-paced running game where you compete against other ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Hypercasual, Multiplayer, Race, run, running

@@ -19,6 +19,6 @@ Anna Get pain on hand and need doctor because hurt hand so in this Anna hand doc
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Baby, Cartoon, Cartoon Network, Doctor, Fun, Girl, Kids, Simulation, Surgery

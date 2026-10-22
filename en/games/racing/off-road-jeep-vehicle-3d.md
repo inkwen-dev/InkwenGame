@@ -19,6 +19,6 @@ If you are a lover off road cargo truck driving games & you are tired of playing
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Arcade, Best, Fun, Game, Play, Racing, Road

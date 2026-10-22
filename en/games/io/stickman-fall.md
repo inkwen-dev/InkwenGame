@@ -19,6 +19,6 @@ Hang between two pillars with plungers on a bar. When you press space, the plung
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, 3D Games, Action, Casual, Fall Guys, Hypercasual, Stickman

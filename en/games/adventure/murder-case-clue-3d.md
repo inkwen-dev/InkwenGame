@@ -19,6 +19,6 @@ Murder Case Clue 3D is an exciting 3d escape game. You will play the role of det
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collecting, Collection, Detective, Escape

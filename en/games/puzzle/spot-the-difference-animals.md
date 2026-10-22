@@ -19,6 +19,6 @@ In the game Spot the Difference - Animals you will find a full search for differ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Casual, Difference, Fun, HTML5, Kids, Mobile

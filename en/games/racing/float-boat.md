@@ -21,4 +21,4 @@ Float Boat is a fun and relaxing browser game where you guide a small boat acros
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Adventure, boat, crazygamesunblocked, Escape, free html5 games for your website
+- Tags: 2D, Adventure, Boat, crazygamesunblocked, Escape, free html5 games for your website

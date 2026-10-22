@@ -19,6 +19,6 @@ Online, open-world, next-generation visuals, and a realistic automobile parking 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Car, Driving, Parking, Unity3D, WebGL

@@ -19,6 +19,6 @@ Welcome to the best mining game for offline! Dig gold, level up, this is an extr
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boy, Classic, Games, Girl, Gold, HTML5, Mine, WebGL

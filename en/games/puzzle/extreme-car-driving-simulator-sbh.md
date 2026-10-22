@@ -19,6 +19,6 @@ Extreme Car Driving Simulator is the best car simulator of 2014, thanks to its a
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, Cartoon Network, drift, drifting, Driving, Fun, Funny, Game, Games, Girl, Girls, Mario, Parking, Simulation, Simulator, Spiderman, Supercars, Truck

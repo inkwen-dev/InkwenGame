@@ -19,6 +19,6 @@ Get ready for a fun time and mayhem with Bumper Cars. Try to knock other players
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Arena, Casual, HTML5

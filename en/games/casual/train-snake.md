@@ -19,6 +19,6 @@ Now drive your train to pick up all the passengers and deliver them to your dest
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: HTML5, Snake, train
+- Tags: HTML5, Snake, Train

@@ -19,6 +19,6 @@ Limo Taxi Driving Simulator: Limousine Car Games, a limo car game that has luxur
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cars, Driving, HTML, HTML5, Racing, Simulation, Simulator, Taxi

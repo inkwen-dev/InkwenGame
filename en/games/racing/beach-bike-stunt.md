@@ -19,6 +19,6 @@ Prepare yourself to ride through extreme challenging adventure in Beach Bike Stu
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Android, Arena, Battle, Bike, Flight, HTML5, Race, Stunts

@@ -19,6 +19,6 @@ What does it take to make this New Year the coziest holiday? Everything is very 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Cute, Design, Disney, Dress Up, Elsa, Fashion, Frozen, Girl, Holiday, HTML5, Princess, Snow, Winter

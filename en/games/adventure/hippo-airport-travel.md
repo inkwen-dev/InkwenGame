@@ -19,6 +19,6 @@ Hippo's father bought the lottery. Let's see what he won. WOW! This is a mysteri
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Aircraft, Family, Fun, Girls, Kids

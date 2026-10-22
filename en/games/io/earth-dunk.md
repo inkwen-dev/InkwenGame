@@ -19,6 +19,6 @@ Tap to control the gravity of earth and dunk the rings
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Adventure, Fun, Funny, Game, Games, HTML, HTML5, Kid, Kids, Play

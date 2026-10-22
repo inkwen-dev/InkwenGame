@@ -19,6 +19,6 @@ Test your aim and reflexes in Ball Throw Heroes 3D! Throw balls, hit challenging
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 3D Games, Ball, Casual, Fun, Kids, Multiplayer, Physics, Superhero, throwing

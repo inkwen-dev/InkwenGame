@@ -19,6 +19,6 @@ Introducing Time Bomb Rush, the newest parkour game! Dont miss out on the action
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Android, Avoid, Best, Bomb, Boy, Collecting, Kids, Mobile, run, running

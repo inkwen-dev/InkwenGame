@@ -19,6 +19,6 @@ Time to test your IQ level ! Refresh your mind in Mr Brain and get brain burning
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Brain, Hypercasual, Puzzle

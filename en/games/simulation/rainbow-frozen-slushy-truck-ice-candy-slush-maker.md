@@ -21,4 +21,4 @@ Do you love Frosty Ice Drinks, Frozen Slushy Maker, and Frozen Snow Cones? Do yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Best, burger, Candy, Cooking, Cool, Educational, Elsa, Frozen, Girl, Girls, Hot, Ice, Kid, Kids, Magic, New, Truck
+- Tags: Baby, Baby Hazel, Best, Burger, Candy, Cooking, Cool, Educational, Elsa, Frozen, Girl, Girls, Hot, Ice, Kid, Kids, Magic, New, Truck

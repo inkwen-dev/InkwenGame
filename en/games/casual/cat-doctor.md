@@ -19,6 +19,6 @@ Work as a vet and take care of cute but sick cats. Features â€¢ Good graphics â€
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Doctor, Unity3D, WebGL

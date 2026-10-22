@@ -21,4 +21,4 @@ Its possible now to play Miraculous Memory Match Up game in your web browser for
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Animal, Arcade, Avoid, Baby, Ben 10, Boys, Brain, Casual, Chicken, Christmas, Easter, Escape, farm, Fun, Girls, HTML, HTML5, Hypercasual, Kids, Mobile, running, Skills
+- Tags: Action, Adventure, Animal, Arcade, Avoid, Baby, Ben 10, Boys, Brain, Casual, Chicken, Christmas, Easter, Escape, Farm, Fun, Girls, HTML, HTML5, Hypercasual, Kids, Mobile, running, Skills

@@ -19,6 +19,6 @@ A fun and addictive matching game to train your eyes and brain. You need to find
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bejeweled, Best, Brain, Candy, Casual, Fun, Jewel, Match 3, Matching, Mobile, Puzzle, Relaxation

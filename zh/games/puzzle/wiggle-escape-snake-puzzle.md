@@ -27,4 +27,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 拼图, 贪吃蛇
+- 标签: 解谜, 蛇

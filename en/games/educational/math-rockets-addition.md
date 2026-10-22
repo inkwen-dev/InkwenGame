@@ -19,6 +19,6 @@ In this game, youll have the opportunity to enhance your problem-solving skills 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, HTML5, Math, Mobile, Puzzle, Rocket, School

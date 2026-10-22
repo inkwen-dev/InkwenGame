@@ -19,6 +19,6 @@ Paint Path 3D is a brand new challenging and Satisfying game with Color the path
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Color, Coloring, Fruit, Fun, Funny, Hot, run, running, Unity3D

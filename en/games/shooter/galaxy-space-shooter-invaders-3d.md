@@ -19,6 +19,6 @@ Since one of the best space shooting game of 90’s named as Galaxy Space Shoote
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Space, Spaceship

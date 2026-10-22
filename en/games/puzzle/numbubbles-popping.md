@@ -19,6 +19,6 @@ Numbubbles Popping is a logical math game. To start just point a numbubble, set 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Bubble, Educational, HTML5, Math, Mobile, Number, Puzzle, School

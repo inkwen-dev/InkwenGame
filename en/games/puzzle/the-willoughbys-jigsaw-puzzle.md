@@ -21,4 +21,4 @@ Zazgames is a place where you can infinitely play assembling online jigsaw puzzl
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Anime, Cartoon, Cartoon Network, Clicker, Girls, Jigsaw, movie, Panda, Puzzle
+- Tags: Anime, Cartoon, Cartoon Network, Clicker, Girls, Jigsaw, Movie, Panda, Puzzle

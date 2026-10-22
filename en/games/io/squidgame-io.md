@@ -19,6 +19,6 @@ Squid Game multiplayer game! Collect gems to grow and hunt smaller players! Cust
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Action, Multiplayer

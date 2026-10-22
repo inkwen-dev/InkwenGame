@@ -21,4 +21,4 @@ Manage your own animal paradise in Cute Animal World. Play as Senti, build a gra
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, building, idle, management, Music
+- Tags: Animal, building, idle, Management, Music

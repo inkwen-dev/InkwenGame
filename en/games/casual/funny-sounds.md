@@ -19,6 +19,6 @@ Funny sounds. A fun game in which you make funny sounds. Surprise your colleague
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, free games for your site, free games for your website, free html5 games for your website, Funny, sound

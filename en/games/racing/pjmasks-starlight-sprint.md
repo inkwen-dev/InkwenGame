@@ -19,6 +19,6 @@ It has been some long time since we have last brought our visitors any new PJ Ma
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Disney, H5, jump, Jumping, Race, Racing

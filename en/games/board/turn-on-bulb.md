@@ -19,6 +19,6 @@ Turn on Bulb &mdash; A wire-connecting puzzle game where you rotate tiles to com
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Ai Games, amazing, Baby, Baby Games, Best, Best Games, Board, Brain, Brainrot, Highscore

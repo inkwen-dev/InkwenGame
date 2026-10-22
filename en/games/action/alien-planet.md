@@ -19,6 +19,6 @@ The Alien Planet Online Jump Adventure Game is an intense and thrilling game tha
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Alien, Arcade, Game, Games, HTML5, Planet, Platform

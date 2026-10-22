@@ -21,4 +21,4 @@ Build, design, and manage your dream restaurant in My Restaurant! Start with a s
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Business, Cooking, Girls, management, Restaurant
+- Tags: Business, Cooking, Girls, Management, Restaurant

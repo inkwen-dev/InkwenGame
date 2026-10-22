@@ -19,6 +19,6 @@ Unblocked Golf Challenge is an exciting 3D golf game with multiple levels of var
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Android, Click, Golf, HTML5, iPad, iPhone, Mentolatux, Mobile, Unity3D

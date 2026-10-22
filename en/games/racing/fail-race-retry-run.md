@@ -19,6 +19,6 @@ Fail Race 3D Retry Run - Fail Run Race 3D New Ragdoll Run , tap to cross platfor
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Casual, Hypercasual, jump, Race, Racing, Retro, run, running

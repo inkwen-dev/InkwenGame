@@ -19,6 +19,6 @@ Welcome to the new game for girls who love juicy colors and stylish outfits. In 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Celebrity, Color, Dress Up, Fashion, Hair, Ladybug, Makeover

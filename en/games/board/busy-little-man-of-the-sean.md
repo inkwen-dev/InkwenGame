@@ -21,4 +21,4 @@ It is a pixel-style production of the raft survival class of the game, in the ga
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Animal, Board, boat, Casual, Crafting, H5, Penguin
+- Tags: 3D Games, Animal, Board, Boat, Casual, Crafting, H5, Penguin

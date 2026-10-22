@@ -21,4 +21,4 @@ Tap to squeeze ducks onto a moving track, find the perfect gaps, and test your t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Clicker, Funny, mouse, Skill
+- Tags: Arcade, Clicker, Funny, Mouse, Skill

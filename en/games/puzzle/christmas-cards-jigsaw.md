@@ -19,6 +19,6 @@ Christmas Cards Jigsaw is a game where you have to assemble the parts of the New
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Christmas, Jigsaw, Kids, Puzzle
+- Tags: Card, Christmas, Jigsaw, Kids, Puzzle

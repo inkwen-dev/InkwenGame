@@ -19,6 +19,6 @@ Thanks for choosing Deep Sea Fishing game : a great game for kids, especially fi
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Best, boat, Boy, Fish, fishing, Girl, Kids
+- Tags: Action, Adventure, Arcade, Best, Boat, Boy, Fish, Fishing, Girl, Kids

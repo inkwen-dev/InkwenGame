@@ -21,4 +21,4 @@ Collect the lying wheels along the way, then the wheels of your bike will increa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Arcade, bicycle, HTML5
+- Tags: 3D, Arcade, Bicycle, HTML5

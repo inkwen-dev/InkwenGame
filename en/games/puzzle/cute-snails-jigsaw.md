@@ -19,6 +19,6 @@ Cute Snail Jigsaw is a free online game from genre of puzzle and jigsaw games. Y
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Animal, Fun, HTML5, Jigsaw, Kids, Mobile, Skill

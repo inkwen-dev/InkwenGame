@@ -19,6 +19,6 @@ Do you believe in mermaids? So have you ever seen a mermaid? In this game you wi
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Jigsaw, Mermaid, Mobile

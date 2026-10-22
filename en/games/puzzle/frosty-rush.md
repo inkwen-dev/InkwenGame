@@ -19,6 +19,6 @@ Frosty Rush is a cozy winter logic puzzler. Roll snowballs through icy levels, g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, HTML5, Hypercasual, Mobile, Puzzle

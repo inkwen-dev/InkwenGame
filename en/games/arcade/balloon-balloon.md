@@ -19,6 +19,6 @@ Balloon! a fun clicker game to play on. Lots of balloons are set free in the pla
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Click, Clicker, Family, HTML, HTML5, Kid, Kids, Mobile

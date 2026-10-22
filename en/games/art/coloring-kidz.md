@@ -19,6 +19,6 @@ Color creativity in this coloring adventure designed for kids. Packed with adora
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Baby, Baby Games, Color, Coloring, Educational

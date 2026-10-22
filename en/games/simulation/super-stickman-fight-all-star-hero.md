@@ -21,4 +21,4 @@ A whole new storyline about characters familiar to all of us. A Devil God group 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Anime, Batman, Battle, Battlegrounds, Fight, Fighting, management, PacMan, Spiderman, Stickman, Super, Superhero, War
+- Tags: Action, Anime, Batman, Battle, Battlegrounds, Fight, Fighting, Management, PacMan, Spiderman, Stickman, Super, Superhero, War

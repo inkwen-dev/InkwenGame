@@ -19,6 +19,6 @@ Enter a post-apocalyptic world overrun by zombies in Zombie World Survival. Figh
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Casual, Fire, Shoot, Shooting, Zombie

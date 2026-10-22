@@ -19,6 +19,6 @@ Snaklaus is a casual and fun game. Your objective is to collect as many presents
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Avoid, Christmas, Snake

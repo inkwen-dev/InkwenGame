@@ -19,6 +19,6 @@ The city is attacked with bombs, and you and your colleague need to escape and s
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Bomb, Escape, Hypercasual, Puzzle, run, running

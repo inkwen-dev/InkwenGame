@@ -19,6 +19,6 @@ Two Player & One Player Fish Soccer Games
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Animal, Cartoon, Cute, Fish, Football, Soccer

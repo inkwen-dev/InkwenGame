@@ -19,6 +19,6 @@ Are you tired of educating your child? This game will release your hand. You cou
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boy, Boys, Educational, Girl, Girls, H5, HTML5, Kid, Kids, Math

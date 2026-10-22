@@ -19,6 +19,6 @@ Slapping Championship. Become a Slap Champ. Play against computer. In 2 Player m
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 3D, Action, Adventure, Android, Arcade, Boxing, Boys, Casual

@@ -17,4 +17,4 @@ Trapped in a decaying house with a vengeful porcelain doll, you must stealthily 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

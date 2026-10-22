@@ -19,6 +19,6 @@ Sneak in, grab the egg, outrun the guardian! Raid 25 wild worlds, steal rare egg
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 3D, Action, Animal, Casual, Collection, egg, eggames, eggs, steal

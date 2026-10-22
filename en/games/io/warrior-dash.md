@@ -19,6 +19,6 @@ A new adventure is here ! True parkour experience ! Race with others, achieve le
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Action, Adventure, jump, Jumping

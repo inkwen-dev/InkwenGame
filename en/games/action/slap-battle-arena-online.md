@@ -33,4 +33,4 @@ Multiplayer slap battle. 🖐️ Collect slaps by defeating players. Modes: Aren
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Fighting, Multiplayer, pve, pvp, two-player
+- Tags: 3D, Action, Fighting, Multiplayer, pve, PvP, two-player

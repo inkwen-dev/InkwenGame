@@ -19,6 +19,6 @@ Maze Hide Or Seek is a free online escape and hide-and-seek game for boys played
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Android, Boy, Brain, Escape, Fun, HTML5, Kids, Maze, Online, Puzzle

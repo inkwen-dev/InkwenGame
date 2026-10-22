@@ -19,6 +19,6 @@ Designed especially for toddlers 1.5 to 5 years, this exciting and educational g
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Educational, Family, farm, Girl, Girls, Kids, School
+- Tags: Animal, Educational, Family, Farm, Girl, Girls, Kids, School

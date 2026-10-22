@@ -19,6 +19,6 @@ Merge Battle Tactics is a thrilling merge battle game where you command an army 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, Action, Animal, Arena, Battle, Casual, Defense, Dinosaur, Dragon, Mobile, Strategy, wolf
+- Tags: 3D, Action, Animal, Arena, Battle, Casual, Defense, Dinosaur, Dragon, Mobile, Strategy, Wolf

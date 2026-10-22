@@ -21,4 +21,4 @@ Jump into the timeless fun of chess with 2 Player Online Chess! Play solo agains
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Board, Brain, Casual, Classic, Educational, Fun, Game, Games, HTML5, html5 games, Strategy, train
+- Tags: 2 Player, 2 Player Games, Board, Brain, Casual, Classic, Educational, Fun, Game, Games, HTML5, html5 games, Strategy, Train

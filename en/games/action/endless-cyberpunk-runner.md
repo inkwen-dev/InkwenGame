@@ -19,6 +19,6 @@ An exciting endless runner set in a futuristic cyberpunk world. Player must navi
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Avoid, Boy, Boys, Casual, Highscore, Hypercasual, Kid, Kids, Platform, Robot, running

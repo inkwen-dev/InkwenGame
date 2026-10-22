@@ -19,6 +19,6 @@ Coloring Dolls is a cute coloring game. Do you want to be an artist? Do you feel
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Color, Coloring, Educational, Girl, Kid, Mobile

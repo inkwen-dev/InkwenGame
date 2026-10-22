@@ -17,4 +17,4 @@ Navigate through a vibrant autumn landscape in Autumn Solitaire Tripeaks. Experi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

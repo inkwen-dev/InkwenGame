@@ -21,4 +21,4 @@ Start afresh in a small town with a tiny farm. Build it up and sell your goods o
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Simulation
+- Tags: Farm, Simulation

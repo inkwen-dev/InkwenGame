@@ -21,4 +21,4 @@ All aboard Choo Choo Charles arcade game! Join Charles adventure as he navigates
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Fun, Game, Highscore, HTML5, Kids, train
+- Tags: Arcade, Fun, Game, Highscore, HTML5, Kids, Train

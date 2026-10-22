@@ -19,6 +19,6 @@ Help little Red Bird to flying through the sky trying to avoid obstacles that ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Casual, Click, Clicker, endless, Flight, fly, Game, HTML, HTML5, Hypercasual, Pipe, Racing, Sport

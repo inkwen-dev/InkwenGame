@@ -19,6 +19,6 @@ Welcome to Logic Vault, the ultimate cognitive test designed to challenge your w
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, amazing, Baby Games, Best, Brain, Click, Hypercasual, Quiz, Science, Witch, Word

@@ -19,6 +19,6 @@ Get ready for an exciting career as a Used Car Dealer, work as an auto Sales sho
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, Business, Car, city, monstertruck, offroad, Shopping, Simulation, tractor

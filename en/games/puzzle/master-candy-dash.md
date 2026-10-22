@@ -19,6 +19,6 @@ Master Candy Dash is an electrifying game where your mission is to match identic
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Brain, Candy, Fun, Kids, Logic, Match 3, Skill

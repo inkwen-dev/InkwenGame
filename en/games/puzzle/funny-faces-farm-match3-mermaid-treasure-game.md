@@ -19,6 +19,6 @@ Funny Faces Farm Match3 Mermaid - treasure game get some rewards. This games is 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, Adult, Adventure, Arcade, Boy, farm, Funny, Girl, HTML, HTML5, Kid, Logic, Match 3, Match3, Puzzle, WebGL
+- Tags: .io Games, Adult, Adventure, Arcade, Boy, Farm, Funny, Girl, HTML, HTML5, Kid, Logic, Match 3, Match3, Puzzle, WebGL

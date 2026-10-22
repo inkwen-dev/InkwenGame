@@ -19,6 +19,6 @@ Rope Chef is a cute physics puzzle about cooking. Ingredients hang on ropes abov
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Casual, Cook, Cooking, cut, Cute, Food, Fun, HTML5, Kids, Logic, Mobile, onetouch, Physics, Puzzle, Restaurant, Skill, Timing, touch

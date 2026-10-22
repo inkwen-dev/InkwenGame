@@ -19,6 +19,6 @@ Help your stickman to become as tall as possible. Collect cubes of your color, r
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Arcade, Arena, Brawl, Cartoon, Casual, Collecting, Crazy, HTML5, Hypercasual, Stickman

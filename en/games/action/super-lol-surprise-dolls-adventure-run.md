@@ -19,6 +19,6 @@ lol surprise dolls 's World - Super Adventure dolls run gives you the chance to 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Disney, Dora, endless, Escape, Funny, Games, Girls, jump, Race, run, running

@@ -41,4 +41,4 @@ Join the battles right now!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, Boys, Crafting, management, Multiplayer, pve, Strategy, survival, Zombie
+- Tags: Action, Boys, Crafting, Management, Multiplayer, pve, Strategy, survival, Zombie

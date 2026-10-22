@@ -21,4 +21,4 @@ Compete with friends one-on-one online. Play for free against computer. Mineswee
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2048, 2D, Brain, Educational, Logic, Logical, Math, Memory, Mobile, Multiplayer, Puzzle, pvp, Turn Based
+- Tags: 2 Player, 2048, 2D, Brain, Educational, Logic, Logical, Math, Memory, Mobile, Multiplayer, Puzzle, PvP, Turn Based

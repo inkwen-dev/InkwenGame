@@ -21,4 +21,4 @@ STICKMAN FIGHTER MEGA BRAWL 是最佳的 stickman 动作游戏。与其它 Stick
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 动作, 街机, 混战, 打斗, 格斗, 技能, Stickman, 武器
+- 标签: 动作, 街机, 荒野乱斗, 战斗, 格斗, 技巧, Stickman, 武器

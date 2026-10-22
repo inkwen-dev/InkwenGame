@@ -21,4 +21,4 @@ Mimi the cat just took over a tiny fish stall on a sunny wooden pier - and she h
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Animal, Cat, Cool, fishing, Simulation
+- Tags: 1 Player, 3D, 3D Games, Animal, Cat, Cool, Fishing, Simulation

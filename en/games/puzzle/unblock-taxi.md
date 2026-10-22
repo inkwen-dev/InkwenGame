@@ -19,6 +19,6 @@ Unblock Taxi is one of a kind car slide puzzle (taxi games). If you like the rol
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Girls, Puzzle, Taxi

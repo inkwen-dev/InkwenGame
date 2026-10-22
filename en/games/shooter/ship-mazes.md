@@ -21,4 +21,4 @@ Forward to new naval exploits! Join exciting battles on the water, where you are
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2 Player, Arcade, Battle, Battlegrounds, boat, Classic, Level, Levels, Shoot, Shooting, War
+- Tags: 1 Player, 2 Player, Arcade, Battle, Battlegrounds, Boat, Classic, Level, Levels, Shoot, Shooting, War

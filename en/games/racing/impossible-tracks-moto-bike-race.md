@@ -19,6 +19,6 @@ Welcome to the definitive motorbike impossible track race experience! Impossible
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Bike, HTML5, Moto, Motorcycle, Race, Stunts, WebGL

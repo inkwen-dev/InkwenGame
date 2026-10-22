@@ -19,6 +19,6 @@ SkyFury is a game about airplanes war where player airplane has to survive and d
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: airplane, Battle, sky, War

@@ -17,4 +17,4 @@ Embark on a vibrant puzzle quest in Princess Rescue Fruit Connect. Strategically
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

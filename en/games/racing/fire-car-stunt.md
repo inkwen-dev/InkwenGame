@@ -19,6 +19,6 @@ Join the Ultimate Races over the sky high Mega Ramps in this new car game 2021. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Car, Cars, drift, drifting, jump, Supercars

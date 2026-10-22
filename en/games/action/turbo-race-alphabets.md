@@ -19,6 +19,6 @@ Take part in the race of your choice by swiping left or right! You may select th
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Brain, Collecting, run, running, Unity3D, WebGL

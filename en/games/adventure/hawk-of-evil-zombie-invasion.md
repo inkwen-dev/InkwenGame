@@ -17,4 +17,4 @@ Dive into chaos in "Hawk of Evil Zombie Invasion," an action-packed horror shoot
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

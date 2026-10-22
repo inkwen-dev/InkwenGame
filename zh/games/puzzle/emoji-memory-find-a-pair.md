@@ -31,4 +31,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 孩子们, 匹配, 移动设备
+- 标签: kids, 匹配, 移动

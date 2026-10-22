@@ -19,6 +19,6 @@ Are you into Frozen? Frozen Coloring Book: A Stunning Coloring Book Including Ma
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Cartoon, Cartoon Network, Frozen, Game, Ice, Online, Snow

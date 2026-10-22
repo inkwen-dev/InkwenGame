@@ -19,6 +19,6 @@ Do you like to collect surprise toys? Maybe you like to open chocolate eggs in s
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Baby, Cute, Girls, HTML5, Kids, WebGL

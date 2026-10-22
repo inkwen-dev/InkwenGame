@@ -19,6 +19,6 @@ Basketball Challenge is fun arcade game and it's suitable for all ages. Grab the
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Arcade, Ball, Basketball, Boys, Fun, HTML5, Kids, Mobile, Skill, Sport

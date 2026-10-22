@@ -19,6 +19,6 @@ Pixel Snake is a modern take on the timeless classic Snake game. Guide your glow
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, mapi games, Pixel, Snake

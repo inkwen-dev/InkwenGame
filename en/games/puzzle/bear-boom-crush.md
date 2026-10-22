@@ -19,6 +19,6 @@ The BEST FREE MATCH GAME Match cute jellies to achieve goal. If you are in the m
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Match 3, Puzzle

@@ -21,4 +21,4 @@ If you love to play ice games to make yummy carnivals foods and beverage? You wi
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, burger, Cook, Cooking, Food, Fruits, Games, Girls, Jewel, Kids, Magic, Online, Restaurant
+- Tags: 3D, Burger, Cook, Cooking, Food, Fruits, Games, Girls, Jewel, Kids, Magic, Online, Restaurant

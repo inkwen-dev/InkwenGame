@@ -19,6 +19,6 @@ Are you looking forward to have a new car parking to park your vehicle as much a
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Car, Cars, city, drifting, Game, Games, HTML, HTML5, Parking, Simulation, Simulator

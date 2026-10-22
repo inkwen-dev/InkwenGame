@@ -19,6 +19,6 @@ Welcome to Kart Stroop Challenge car driving game! Kart Stroop Challenge is a fa
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Cars, drift, drifting, Driving, Pixel
+- Tags: Card, Cars, drift, drifting, Driving, Pixel

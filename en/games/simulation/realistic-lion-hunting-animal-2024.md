@@ -19,6 +19,6 @@ Experience the thrill of the wild in Realistic Lion Hunting Animal 2024! This im
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Animal, attack, Forest, hunter, lion, Mentolatux, Simulation

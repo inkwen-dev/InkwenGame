@@ -29,4 +29,4 @@ Day turns into night, lanterns light up, nocturnal creatures appear in the water
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, cozy, fishing, tycoon
+- Tags: 3D, cozy, Fishing, tycoon

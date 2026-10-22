@@ -19,6 +19,6 @@ Bomb Transport 2D and Play our new "FREE" game on Android, from the makers of St
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Army, Bomb, Driving, Traffic

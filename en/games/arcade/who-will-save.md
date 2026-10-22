@@ -19,6 +19,6 @@ The little penguin can't get out of the rooms, the exit is blocked by ice blocks
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Block, Casual, Game, HTML5, Logic, Online, Play

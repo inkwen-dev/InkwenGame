@@ -19,6 +19,6 @@ Wolf Jigsaw is a free online game from genre of puzzle and jigsaw games. In this
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Fun, HTML5, Jigsaw, Mobile, Skill, wolf
+- Tags: Animal, Fun, HTML5, Jigsaw, Mobile, Skill, Wolf

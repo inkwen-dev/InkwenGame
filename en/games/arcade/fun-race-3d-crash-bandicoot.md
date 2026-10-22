@@ -19,6 +19,6 @@ From folks who brought you Fun Race 3D - Crash Bandicoot. Experience full parkou
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Race, run, Unity3D

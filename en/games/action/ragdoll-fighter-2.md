@@ -21,4 +21,4 @@ Get ready for the ragdoll battle! Choose your ragdoll character and start fighti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Arena, Battle, Clash, Fighting, Hot, Hypercasual, Mobile, Multiplayer, pvp, Stack, Stickman, Strategy, WebGL
+- Tags: Action, Adventure, Arcade, Arena, Battle, Clash, Fighting, Hot, Hypercasual, Mobile, Multiplayer, PvP, Stack, Stickman, Strategy, WebGL

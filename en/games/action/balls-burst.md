@@ -19,6 +19,6 @@ In this game your mission is full of dotted lines, but you can not let balls dro
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Brain, Mobile, Platform

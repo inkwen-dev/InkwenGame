@@ -19,6 +19,6 @@ The Piggy Bank, the global symbol for good luck, fertility and prosperity. In th
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Clicker, Game, Games, Point And Click

@@ -26,4 +26,4 @@ A mysterious gate has unleashed evil creatures across the land, cutting the real
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Boys, Match 3, pve, rpg, Strategy
+- Tags: Adventure, Boys, Match 3, pve, RPG, Strategy

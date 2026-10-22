@@ -21,4 +21,4 @@ Help Jimmy the penguin to catch all the fishes and learn about the Sea creatures
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Fish, fishing, WebGL
+- Tags: 2D, Fish, Fishing, WebGL

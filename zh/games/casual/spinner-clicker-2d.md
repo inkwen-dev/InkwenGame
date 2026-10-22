@@ -23,4 +23,4 @@ Spinner Clikcer 2D 是一款引人入胜的成长型游戏，拥有 34 款设计
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Clicker, 指尖陀螺
+- 标签: 点击器, 指尖陀螺

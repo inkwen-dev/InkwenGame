@@ -17,4 +17,4 @@ Dive into a captivating world of charming patterns and hidden mysteries. PuzzleT
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

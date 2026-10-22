@@ -19,6 +19,6 @@ Dive into the underwater fun with Sponge Find The Differences, a thrilling puzzl
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Educational, Girls, Hidden, Puzzle, School, Spongebob

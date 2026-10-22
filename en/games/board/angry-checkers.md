@@ -25,4 +25,4 @@ Angry Checkers is a thrilling take on the traditional board game, where players 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Board, checkers, co-op, Multiplayer, Physics, pvp
+- Tags: Board, checkers, co-op, Multiplayer, Physics, PvP

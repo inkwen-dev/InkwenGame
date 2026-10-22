@@ -19,6 +19,6 @@ Basket Fill is the most satisfying sports puzzle game youll play! Draw arrows to
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, 2D, Ball, Basketball, Casual, Color, Coloring, Fun, Funny, Hypercasual, Road, Sport, Sports

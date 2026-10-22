@@ -19,6 +19,6 @@ Help the Ninja to jump over the platforms and reach home. Fun and addictive game
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, endless, jump, Jumping, Ninja, running

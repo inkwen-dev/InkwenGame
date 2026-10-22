@@ -21,4 +21,4 @@ Tap to Play
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Battlegrounds, Cleaning, farm
+- Tags: Animal, Battlegrounds, Cleaning, Farm

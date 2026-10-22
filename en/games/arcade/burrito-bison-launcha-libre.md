@@ -19,6 +19,6 @@ Burrito Bison is here and he’s brought friends! With more than 15 million play
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Fight, fly, jump, Jumping

@@ -21,4 +21,4 @@ This is a game which prepares Standard Xth to University students for a fast-pac
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Educational, management, Math, Science
+- Tags: Educational, Management, Math, Science

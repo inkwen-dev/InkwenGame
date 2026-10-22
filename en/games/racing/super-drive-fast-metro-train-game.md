@@ -21,4 +21,4 @@ You have a big responsibility of driving passengers to their destination on time
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Game, Games, HTML, HTML5, train
+- Tags: 3D Games, Game, Games, HTML, HTML5, Train

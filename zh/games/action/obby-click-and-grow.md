@@ -65,4 +65,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 3D, Clicker, 移动设备, 障碍
+- 标签: 3D, 点击器, 移动设备, 障碍

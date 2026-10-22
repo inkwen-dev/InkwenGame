@@ -21,4 +21,4 @@ Mega Casino Mania brings the ultimate online casino slots experience straight to
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, card, Casino, Casual, Games, Poker, Slot Machine, spin-wheel
+- Tags: 2026 games, 3D Games, Card, Casino, Casual, Games, Poker, Slot Machine, spin-wheel

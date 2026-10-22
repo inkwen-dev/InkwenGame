@@ -19,6 +19,6 @@ Find out how much you are of the nations and countries of Asia by taking this sh
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Educational, Kids, Mobile, Puzzle

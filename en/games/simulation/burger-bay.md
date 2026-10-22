@@ -25,4 +25,4 @@ Every few minutes a sea-creature boss shows up: a Kraken, a giant crab or a whal
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Cooking, idle, management, Restaurant, tycoon
+- Tags: 3D, Cooking, idle, Management, Restaurant, tycoon

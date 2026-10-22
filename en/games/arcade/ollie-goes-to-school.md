@@ -19,6 +19,6 @@ Ollie is a cute bunny and he is going to go to school. Can you help him out?
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: HTML5, Kids, Memory, Puzzle

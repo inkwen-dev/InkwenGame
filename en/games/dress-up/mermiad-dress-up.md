@@ -21,4 +21,4 @@ With our Mermiad Dress Up game play as a beautiful mermaid princess. Get a cosme
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Dress Up, Fashion, Fish, fishing, Girl, Girls, Makeover, Mermaid, Sport, Summer
+- Tags: Dress Up, Fashion, Fish, Fishing, Girl, Girls, Makeover, Mermaid, Sport, Summer

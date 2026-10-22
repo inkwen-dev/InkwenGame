@@ -21,4 +21,4 @@ online games for kids: Kids will learn colors, shapes and follow through simple 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Animal, Anime, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Ben 10, Bike, Bird, Cute, Decorate, Decoration, Fruit, Kids, Number, train, Truck, Word
+- Tags: 2D, Animal, Anime, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Ben 10, Bike, Bird, Cute, Decorate, Decoration, Fruit, Kids, Number, Train, Truck, Word

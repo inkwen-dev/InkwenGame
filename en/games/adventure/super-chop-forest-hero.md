@@ -21,4 +21,4 @@ Super Chop: Forest Hero is a first-person 3D chopping adventure. Pull the Hero A
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Multiplayer, rpg
+- Tags: 3D, Action, Adventure, Multiplayer, RPG

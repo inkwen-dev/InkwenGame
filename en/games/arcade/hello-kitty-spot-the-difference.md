@@ -19,6 +19,6 @@ Hello Kitty Spot the Differences - Welcome to the Unforgettable 'Spot the Differ
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Difference, Fun, Girls, Hello Kitty, HTML5, Kids, Mobile, Puzzle

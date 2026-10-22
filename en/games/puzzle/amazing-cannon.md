@@ -19,6 +19,6 @@ The gun in the Amazing Cannon game will shoot colorful balls, but this is not im
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Best, Fun, Funny, HTML5, Kids, Logic, Mobile, Skill

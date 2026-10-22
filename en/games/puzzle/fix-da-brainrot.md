@@ -19,6 +19,6 @@ Fix Da Brainrot is a quirky jigsaw puzzle game with pieces that look like torn p
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, html5 games, Italian Brainrot, Jigsaw, Mobile, Puzzle

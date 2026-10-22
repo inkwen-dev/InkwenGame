@@ -19,6 +19,6 @@ Wizard.io is an action game set in a realm of magic and mystery. Engage in inten
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arena, Collecting, Collection, survival, Top Down, Unity3D

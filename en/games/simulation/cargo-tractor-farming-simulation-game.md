@@ -21,4 +21,4 @@ For cargo purpose, tractor trolley is considered very traditional in rural life.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, farm, HTML, HTML5, Simulation, Simulator
+- Tags: 3D Games, Farm, HTML, HTML5, Simulation, Simulator

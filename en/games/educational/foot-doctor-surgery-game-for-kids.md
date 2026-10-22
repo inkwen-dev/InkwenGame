@@ -19,6 +19,6 @@ Help! Doctor, I hurt my feet, ouch! It is so painful! Could you please help me t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Doctor, Educational, Fun, Girl, Girls, Kid, Kids, Surgery

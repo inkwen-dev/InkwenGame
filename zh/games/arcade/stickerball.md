@@ -53,4 +53,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 街机, 球, 移动设备, 老鼠
+- 标签: 街机, 球, Mobile, 鼠标

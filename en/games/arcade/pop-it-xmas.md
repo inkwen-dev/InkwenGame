@@ -19,6 +19,6 @@ Pop all of the bubbles on the fidget popper to complete a level. You can pop onl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Christmas, Girls, HTML5, Mobile, Puzzle

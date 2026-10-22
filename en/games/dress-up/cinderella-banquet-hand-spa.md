@@ -19,6 +19,6 @@ The prince is about to hold a grand ball, and Cinderella also wants to attend, s
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Coloring, Decoration, Design, Dress Up, Girl, Girls, Kids, Nail, Princess, Simulation

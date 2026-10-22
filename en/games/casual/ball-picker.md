@@ -19,6 +19,6 @@ Can you pick all cubes around? The more you collect the more you relax - Drag pi
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Collecting, Fun, Game, Play

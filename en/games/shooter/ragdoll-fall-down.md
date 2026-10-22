@@ -19,6 +19,6 @@ In the game Ragdoll Fall Down you will find yourself in a world where the painte
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Crazy, Funny, Gun, Obstacle, Physics, Shoot, Shooting, Skill

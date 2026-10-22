@@ -19,6 +19,6 @@ FLIPPY KNIFE - flip knives, toss axes and throw legendary swords! Become a maste
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Block, Bubble Shooter, Cartoon Network, Casual, Crazy, Knight, Maze, Pixel, Shoot, World

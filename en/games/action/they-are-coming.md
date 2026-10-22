@@ -19,6 +19,6 @@ What will you do if you are chased by too many crazy enemies? They Are Coming pr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Avoid, Collecting, Escape, Mobile, Obstacle, Platform, Stickman

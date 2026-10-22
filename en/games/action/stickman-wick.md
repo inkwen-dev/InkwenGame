@@ -19,6 +19,6 @@ The ruthless Stickman Wick must get his best friend back! To do this, he is read
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Click, Gun, HTML5, jump, Jumping, Mobile, New, running, weapons, WebGL

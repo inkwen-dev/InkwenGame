@@ -19,6 +19,6 @@ Let Us Pop is an interesting pop game recently. You only need to control the bal
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Color, Kids, Mobile, Skill

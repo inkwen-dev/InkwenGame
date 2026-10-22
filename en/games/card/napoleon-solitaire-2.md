@@ -17,4 +17,4 @@ Unleash your strategic prowess in Napoleon Solitaire, a compelling twist on a ti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

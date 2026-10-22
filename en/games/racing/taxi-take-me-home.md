@@ -19,6 +19,6 @@ Taxi Simulator - help people get home! Become a taxi driver - take passengers to
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, Car, Cars, city, drift, drifting, Driving, Race, Racing, Sim, Simulation, Simulator, WebGL

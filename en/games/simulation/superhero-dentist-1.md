@@ -19,6 +19,6 @@ Be the best dentist at this Superhero clinic! All our patient is the Superhero, 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Cute, Doctor, Fun, Girls, HTML5, Kids, Mobile, Simulation, Super, Superhero, Surgery

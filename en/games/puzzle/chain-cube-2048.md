@@ -19,6 +19,6 @@ So don't be shy, do yourself a favor and download Chain Cube! A whole new take o
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Hypercasual, Physics, Puzzle

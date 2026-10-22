@@ -19,6 +19,6 @@ Play Nickelodeon Arcade Game online in your web browser and mobile at superkidga
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Avoid, Baby Hazel, Ball, Ben 10, Boy, Cartoon Network, Celebrity, Clicker, Fun, Girl, Highscore, HTML, HTML5, Kid, Mobile, Puzzle, School, Skills, Summer, Super, Winter

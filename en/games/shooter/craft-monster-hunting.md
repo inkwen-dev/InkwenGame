@@ -19,6 +19,6 @@ Craft Room: Monster Hunting is a 3D action game where you take on the role of a 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Minecraft, Shooter, Skibidi Toilet

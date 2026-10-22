@@ -19,6 +19,6 @@ This game is an interesting and special coloring game about Elsa. All the images
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Color, Coloring, Elsa, Frozen, Fun, Girls, HTML5, Kids, Magic, Mobile, Princess

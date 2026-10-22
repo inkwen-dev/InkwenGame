@@ -19,6 +19,6 @@ When is school is off and summer break is on, beach parties are the must have fo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, Dress Up, Fantasy, farm, Fashion, Girls, HTML5, Kids, Makeover, Monster, New, Summer
+- Tags: 1 Player, Dress Up, Fantasy, Farm, Fashion, Girls, HTML5, Kids, Makeover, Monster, New, Summer

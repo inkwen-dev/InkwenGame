@@ -19,6 +19,6 @@ Candy Woeld - The Candy strikes back with gorgeous sweet graphics and several hu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Candy, Girl, H5, HTML, HTML5, Hypercasual, Match 3, Match3, Mobile

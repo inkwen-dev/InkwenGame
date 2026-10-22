@@ -19,6 +19,6 @@ Connect all of the electrons among themselves. But remember you can connect only
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, 2 Player, 2 Player Games, 2D, 3D, Android, Block, Bubble, Bubble Shooter, Clicker, Friv, Girl, Girls, Gold, Google, Kiz 10, kiz10, Machine, Mahjong, Mario, Minecraft, Multiplayer

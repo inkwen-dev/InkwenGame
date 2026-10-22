@@ -19,6 +19,6 @@ Run without hitting obstacles and opposing team players. collect as much blue po
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Ball, endless, Football, Platform, run, running, Shoot, Soccer

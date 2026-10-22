@@ -19,6 +19,6 @@ Beautiful clothes are not enough to win this battle. Each outfit is suitable onl
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Casual, Fun, Girl, HTML5

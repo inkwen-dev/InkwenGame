@@ -17,4 +17,4 @@ Plunge into Sea Match, a captivating match-3 adventure. Chain delightful sea cre
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

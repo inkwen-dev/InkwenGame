@@ -19,6 +19,6 @@ Immerse yourself in the magical world of the North to meet the northern valkyrie
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, beauty, Celebrity, Crazy, Dress Up, Fashion, Hair, Makeover

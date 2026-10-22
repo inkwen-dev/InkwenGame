@@ -19,6 +19,6 @@ This is a memory game in which the player must match the 16 cards according math
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Clicker, Math, Number, Puzzle

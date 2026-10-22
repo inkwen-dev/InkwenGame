@@ -19,6 +19,6 @@ Food Chef! Welcome to Crunchy Popcorn Maker Factory, the best popcorn maker & po
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2 Player Games, 3D Games, Cook, Cooking, Decorate, fishing
+- Tags: 2 Player Games, 3D Games, Cook, Cooking, Decorate, Fishing

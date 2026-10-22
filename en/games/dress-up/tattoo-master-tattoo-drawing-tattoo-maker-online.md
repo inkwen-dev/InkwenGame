@@ -19,6 +19,6 @@ Are you ready to experience your inner tattoo maker artist? Have you ever wonder
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Cartoon, Casual, Draw, Drawing, Dress Up, Fashion, Frozen, Fun, Games, Girl, Girls, Hypercasual, Kids, Makeover, Online, Princess

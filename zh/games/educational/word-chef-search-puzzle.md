@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 男孩, 男孩, 教育, 孩子们, Mentolatux, 拼图, Unity3D, 单词
+- 标签: 男孩, 男孩们, 教育, 儿童, Mentolatux, 拼图, Unity3D, 词汇

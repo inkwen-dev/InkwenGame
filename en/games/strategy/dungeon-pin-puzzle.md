@@ -19,6 +19,6 @@ Dungeon Pin Puzzle is a brain-testing puzzle game. Fix the pulls in the right or
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Brain, Collecting, H5, Kids, Obstacle, Strategy

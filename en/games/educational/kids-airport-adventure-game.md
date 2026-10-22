@@ -19,6 +19,6 @@ Hippo family are going to travel all over the World. They arrive at the aiport a
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Boys, Cute, Educational, Family, Fun, Game, Girls, HTML5, Kids, Mobile, Plane

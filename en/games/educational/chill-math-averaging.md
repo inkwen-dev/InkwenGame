@@ -19,6 +19,6 @@ In this game, a winter image is hidden beneath averaging expression tiles. Playe
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Kids, Logical, Math, Quiz, School

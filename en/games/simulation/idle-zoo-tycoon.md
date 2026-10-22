@@ -23,4 +23,4 @@ Build and manage your dream zoo in Idle Zoo Tycoon! Start with a small park and 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: animals, idle, management, Simulation, tycoon
+- Tags: animals, idle, Management, Simulation, tycoon

@@ -19,6 +19,6 @@ Bubble Shooter Magic game! Your mission is to shoot down all the bubbles as poss
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Bomb, Bubble, Bubble Shooter, Candy, Fruit, Fruits, Hypercasual, Match 3, Match3, Matching, Puzzle, Shoot, Shoot 'Em Up, Shooter, Shooting

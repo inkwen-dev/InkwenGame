@@ -19,6 +19,6 @@ Welcome to Juicy Match! Dive into a vibrant world of fruits and fun in this exci
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Casual, Fruit, Fun, Match 3

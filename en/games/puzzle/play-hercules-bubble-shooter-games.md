@@ -19,6 +19,6 @@ Play Hercules Bubble Shooter Games is a fun Game bubble burst game with 70 uniqu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Arcade, Jigsaw, Strategy

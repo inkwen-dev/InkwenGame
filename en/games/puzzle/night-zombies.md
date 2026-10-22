@@ -19,6 +19,6 @@ Night Zombies is a first person shooter HTML5game. Night Zombies is a first pers
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, HTML5, Shooter, Shooting, Zombie

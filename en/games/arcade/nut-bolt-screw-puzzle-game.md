@@ -19,6 +19,6 @@ Think you can untangle the mess? Dive into the Screw Puzzle Nut &amp; Bolt game,
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, 2026 games, 2D, Arcade, Best Games, Board, Bridge, free games for your site, HTML5, Kids, Puzzle

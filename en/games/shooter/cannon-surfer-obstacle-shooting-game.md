@@ -19,6 +19,6 @@ Cannon-Surfer is an interesting arcade game. You will push a ball cannon to arri
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Boy, Boys, Fun, H5, HTML5, Kid, Kids, run, running, surfers

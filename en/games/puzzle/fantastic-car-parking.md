@@ -19,6 +19,6 @@ Extreme Car Parking Game 3D: Car Racing Free Games drives you crazy. Broken Diam
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Ballon, Barbie, Block, Boy, Boys, Bricks, Bubble, Bubble Shooter, bus, Candy, Car, Cars, Chicken, city, Dancing, drift, Driving, Fashion, Hello Kitty, Mario, Parking, Play, Race, Racing, Simulation, Slacking, Snow, Supercars

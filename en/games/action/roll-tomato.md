@@ -19,6 +19,6 @@ Rolly is the name of an tomato which Bob the farmer forgot to put into the Tomat
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Logical, Platform, Puzzle

@@ -19,6 +19,6 @@ This is a classic puzzle game, inspired by popular Mahjong block removal game. I
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Board, Fish, HTML5, Mahjong, Matching, Mobile, Puzzle

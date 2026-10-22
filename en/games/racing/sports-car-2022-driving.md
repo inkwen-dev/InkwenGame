@@ -19,6 +19,6 @@ Play this Super car parking Fun Driving and enjoy the multi challenge of incredi
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Arcade, Casual, drift, drifting, Funny, Hot, Hypercasual, Race, Racing, Super, Supercars

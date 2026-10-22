@@ -19,6 +19,6 @@ It's never too early to start your child's education. Preschoolers, kindergarten
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Driving, Educational, Game, Games, Kids, Math, Multiplayer, Online

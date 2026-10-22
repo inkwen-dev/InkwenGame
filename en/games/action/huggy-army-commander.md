@@ -19,6 +19,6 @@ Huggy Army Commander is an interesting game for the person who wants to manage t
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Army, Battle, Brain, Collecting, Kids, Mobile, Skill

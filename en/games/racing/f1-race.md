@@ -19,6 +19,6 @@ F1 racing is a fun-addicting racing game. There are different mode with differen
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Car, Fun, New, Race, Racing, Road, Supercars

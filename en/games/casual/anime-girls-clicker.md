@@ -19,6 +19,6 @@ Click on juicy beautiful anime girls and earn hearts! Spend them on new girls an
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2 Player, Adult, Boys, Click, Clicker, Girls, Hot, Music, Relaxation

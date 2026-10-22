@@ -19,6 +19,6 @@ Penguin Diner is undoubtedly the most interesting business simulation game this 
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Business, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Restaurant, rpg
+- Tags: Animal, Business, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Restaurant, RPG

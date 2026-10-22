@@ -19,6 +19,6 @@ The World CupFlag Match is an online game that tests your knowledge of flags fro
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Best, HTML, HTML5, Online, Puzzle

@@ -19,6 +19,6 @@ Great Air Battles game You have to crash the pilot by pointing the mouse on the 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Air, Battle, Helicopter, Plane, Simulator, Strategy, War

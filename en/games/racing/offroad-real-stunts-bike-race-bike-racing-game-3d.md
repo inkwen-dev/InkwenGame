@@ -19,6 +19,6 @@ Offroad Real Stunts Bike Race: Bike Racing Game 3D is an online 3D game and 96% 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Race, Racing

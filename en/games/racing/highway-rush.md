@@ -19,6 +19,6 @@ Drive your car on a busy highway. Dodge oncoming traffic, collect coins, and sur
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, 2D, Adventure, amazing, Car, Cars, Collecting, crash, Highscore, Kids, Race, Racing, Supercars, Top Down

@@ -19,6 +19,6 @@ In this online makeover game, Elsa and Ariel have prepared some girly-girl summe
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Dress Up, Fashion, Girl, Girls, HTML5, Makeover, Mobile, Online, Pool, Princess, Summer

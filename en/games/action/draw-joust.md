@@ -21,4 +21,4 @@ Draw Joust is an amazing game with the style of painting and designing, you need
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Arena, Battle, Boy, Draw, H5, HTML, HTML5, Kids, Mobile, Puzzle, pvp
+- Tags: 3D, 3D Games, Arena, Battle, Boy, Draw, H5, HTML, HTML5, Kids, Mobile, Puzzle, PvP

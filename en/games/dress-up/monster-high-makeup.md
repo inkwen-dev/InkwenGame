@@ -19,6 +19,6 @@ Want to dress up little girls favorite cartoon hero Monster High dolls? You can 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Dress Up, Fashion, Fun, Game, Girl, Girls, Magic, Monster

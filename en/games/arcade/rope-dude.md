@@ -19,6 +19,6 @@ Rope Dude is a game in which you need try to destroy the mannequin dude with var
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Best, Brain, Cool, cut, Fun, HTML5, Logic, Logical, Online, Skill

@@ -19,6 +19,6 @@ You should collect as many rings as possible with Ring Collector, which is a fun
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Android, Best, Casual, Collection, Fun, Funny, HTML5, Hypercasual, Mobile, WebGL

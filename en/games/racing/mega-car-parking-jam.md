@@ -19,6 +19,6 @@ Mega Car Parking Jam - escape them from the Funny and extreme car parking lot! I
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Casual, Driving, Parking, Supercars, Unity3D

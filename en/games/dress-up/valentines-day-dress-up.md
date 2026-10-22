@@ -19,6 +19,6 @@ February 14 Valentine's Day is coming soon. On this day, lovers meet, walk in pa
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Game, Games, Girl, Girls, HTML5, Love

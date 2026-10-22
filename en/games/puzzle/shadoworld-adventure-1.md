@@ -19,6 +19,6 @@ Shadoworld Adventure Hero Rescue Dont Crash Zombies Night game has a lot of succ
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Adventure, Arcade, Bubble Shooter, Interactive, Obstacle, Platform, run, running, Shoot, Shoot 'Em Up, Shooter, Shooting

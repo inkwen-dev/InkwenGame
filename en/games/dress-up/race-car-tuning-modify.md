@@ -19,6 +19,6 @@ If you are a fan of modified cars, this game is for you. Modify the racing car a
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Car, Cars, Decorate, Dress Up, Fun, Game, Games, HTML5, Racing

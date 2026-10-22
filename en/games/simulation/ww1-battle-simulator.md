@@ -19,6 +19,6 @@ Battle simulator in ww1 The epic war has begun! In this ww1 sim, you will have t
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Battle, Battlegrounds, Tank, Unity3D, War, World

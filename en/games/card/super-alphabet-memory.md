@@ -21,4 +21,4 @@ is a classic memory game. learn the alphabet in an easy and fun way! Are you rea
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, card, Girl, Girls, Logic, Memory, Puzzle
+- Tags: 1 Player, 2D, Arcade, Card, Girl, Girls, Logic, Memory, Puzzle

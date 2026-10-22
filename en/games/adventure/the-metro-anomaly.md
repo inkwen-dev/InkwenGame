@@ -17,4 +17,4 @@ Navigate a haunting labyrinth in an abandoned subway where reality twists at eve
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

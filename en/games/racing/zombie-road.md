@@ -19,6 +19,6 @@ The dangerous post-apocalyptic world with zombies and only the bravest and most 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Car, HTML, HTML5, Racing, Traffic, Zombie

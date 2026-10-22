@@ -19,6 +19,6 @@ Winning a surviving battle in an after apocalyptic situation is a skill and let'
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Arcade, Game, Games, HTML5, Shoot, Shoot 'Em Up, Shooter, Shooting, Zombie

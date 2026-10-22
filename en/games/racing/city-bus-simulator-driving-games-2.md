@@ -19,6 +19,6 @@ Get behind the wheel of a powerful city bus and experience the life of a profess
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: bus, city, Driving, offroad, Simulator

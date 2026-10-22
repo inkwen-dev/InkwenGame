@@ -19,6 +19,6 @@ Park The car is a fun and enjoyable car parking game with you. Try to park the c
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Android, Arcade, Best, Boy, Boys, Car, Cars, Cartoon, Casual, Design, drift, drifting, HTML5, Hypercasual, Matching, Parking, Road, Supercars, Traffic, WebGL

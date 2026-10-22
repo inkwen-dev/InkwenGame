@@ -19,6 +19,6 @@ Christmas Hexa Puzzle is a relaxing holiday-themed jigsaw game where you arrange
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Jigsaw, Puzzle, Skill, Winter

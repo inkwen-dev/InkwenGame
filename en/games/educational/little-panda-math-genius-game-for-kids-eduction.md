@@ -19,6 +19,6 @@ Crazy Math Game for kids and adults is a funny and challenging math game where y
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adult, Boy, Casual, Educational, Family, Girl, HTML, HTML5, Hypercasual, Kid, Math, Number, Panda, Puzzle, Skill, Skills, WebGL

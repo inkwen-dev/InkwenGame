@@ -19,6 +19,6 @@ SciWhy Easy&ndash; The Fun Science Quiz Adventure for Kids made much easier to h
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best Games, Educational, Quiz, Science

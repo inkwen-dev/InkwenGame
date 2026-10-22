@@ -19,6 +19,6 @@ Do you like cute puzzle games? This game is for you! Push The Mouse is a super c
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Board, Brain, Casual, Logic, Puzzle

@@ -21,4 +21,4 @@ Beetle Solitaire is a solitaire game where the objective is to order all the car
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casual, Hypercasual
+- Tags: Card, Casual, Hypercasual

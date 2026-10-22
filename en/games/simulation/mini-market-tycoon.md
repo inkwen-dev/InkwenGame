@@ -19,6 +19,6 @@ A new Market Tycoon Idle adventure is now beginning with the experts of this job
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Casual, Click, Clicker, Fun, Funny, Hypercasual, management
+- Tags: Casual, Click, Clicker, Fun, Funny, Hypercasual, Management

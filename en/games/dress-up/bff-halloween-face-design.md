@@ -19,6 +19,6 @@ Let's prepare the princesses Mia, Ava and Clara for the Halloween party and make
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boys, Dress Up, Girl, Girls

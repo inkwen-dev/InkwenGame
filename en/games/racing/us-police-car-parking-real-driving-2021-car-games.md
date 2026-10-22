@@ -19,6 +19,6 @@ Police Car Parking is a fun driving game in which you must control your very own
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, bus, Car, Fun, Parking, Police, Race

@@ -19,6 +19,6 @@ Kim Jong Un LOL Face puts the power of comedy in your hands! Take a serious port
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, Draw, Drawing, paint

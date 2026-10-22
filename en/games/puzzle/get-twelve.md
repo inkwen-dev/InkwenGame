@@ -19,6 +19,6 @@ Get Twelve is a puzzle game where you need to pair blocks with same numbers. If 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Kids, Matching, Number, Puzzle

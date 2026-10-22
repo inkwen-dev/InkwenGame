@@ -19,6 +19,6 @@ Among Us Rescue - Pin Pull Game - The most fun and simple html5 game in the worl
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, HTML, HTML5, Puzzle

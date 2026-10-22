@@ -19,6 +19,6 @@ This Piano Tiles game is made for fans of Little Nightmare 2, with high quality 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Clicker, Hot, HTML5, Hypercasual, Magic, Mobile, Music, New, Online, Point And Click, Puzzle, Timing

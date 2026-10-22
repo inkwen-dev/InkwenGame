@@ -21,4 +21,4 @@ Dandan Slime is a fast-paced horde survival arcade game where you control a hero
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Arcade, Casual, Mentolatux, Monster, mouse, Skill, Top Down, unblocked, unblocked games, unblockedgames66, unblockedgames76, unblockedgamesatschool
+- Tags: 2D, Arcade, Casual, Mentolatux, Monster, Mouse, Skill, Top Down, unblocked, unblocked games, unblockedgames66, unblockedgames76, unblockedgamesatschool

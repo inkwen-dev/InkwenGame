@@ -19,6 +19,6 @@ Aim and match bubbles where you want to shoot the bubble. Match 3 or more bubble
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Bomb, Bubble, Bubble Shooter, Candy, Fruit, Fruits, Match 3, Match3, Matching, Shoot, Shooter, Shooting

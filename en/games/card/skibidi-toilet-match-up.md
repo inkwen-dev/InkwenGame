@@ -21,4 +21,4 @@ time to test your memory in the Skibidi Toilet Match UP game! Join the Skibidi T
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, Matching, Mind, Skibidi, Skibidi Toilet
+- Tags: Brain, Card, Matching, Mind, Skibidi, Skibidi Toilet

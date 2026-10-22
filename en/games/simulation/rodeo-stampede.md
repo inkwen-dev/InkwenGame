@@ -21,4 +21,4 @@ Do you want to manage a zoo? It sounds cool! But you need to tame some animals. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Animal, Arcade, Avoid, Bird, Boy, Boys, Business, Game, Games, H5, HTML, HTML5, jump, Jumping, Kid, Kids, management, Obstacle, run, running, Skill, Skills
+- Tags: 3D Games, Animal, Arcade, Avoid, Bird, Boy, Boys, Business, Game, Games, H5, HTML, HTML5, jump, Jumping, Kid, Kids, Management, Obstacle, run, running, Skill, Skills

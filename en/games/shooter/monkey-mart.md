@@ -19,6 +19,6 @@ In Monkey Mart, a game developed by TinyDobbins, you take on the role of a cute 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, New, Online, Shooter, Shooting

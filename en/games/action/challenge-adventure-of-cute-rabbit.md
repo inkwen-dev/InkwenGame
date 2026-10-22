@@ -19,6 +19,6 @@ Accompany the cute rabbits adventure together and have fun. I think it will be a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Cute, Mario, Platform, Rabbit, Skill, Skills

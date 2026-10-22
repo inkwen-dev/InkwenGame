@@ -19,6 +19,6 @@ Race Pro: Speed Car Racer in Traffic is a racing game with great graphics and re
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Cars, Driving, Fashion, Minecraft, Race, Racing

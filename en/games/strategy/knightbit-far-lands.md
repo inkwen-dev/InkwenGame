@@ -21,4 +21,4 @@ Welcome to KnightBit: Far Lands, a new chapter of the great confrontation! Disco
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Action, Boys, Castle, Enemies, Fight, Horse, Knight, Levels, rpg, ships, Strategy, Winter
+- Tags: Action, Boys, Castle, Enemies, Fight, Horse, Knight, Levels, RPG, ships, Strategy, Winter

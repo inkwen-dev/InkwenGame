@@ -30,4 +30,4 @@ The factory is filled with intense chases, unexpected jump scares, and encounter
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, Escape, horror, scary
+- Tags: Adventure, Escape, Horror, scary

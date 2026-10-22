@@ -19,6 +19,6 @@ Candy The Rope is a wonderful puzzle game in which the goal is very simple, to g
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Animal, Brain, Cake, Candy, cut, Fairy, Jewel, Monster, Puzzle, Rescue

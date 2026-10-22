@@ -19,6 +19,6 @@ Number Kids is an engaging and educational game designed to help children enhanc
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Kid, Kids, NapTech Games

@@ -19,6 +19,6 @@ An amazing dragon is waiting for you to fly with him in a fight against other dr
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Dragon, Simulation, Simulator, WebGL

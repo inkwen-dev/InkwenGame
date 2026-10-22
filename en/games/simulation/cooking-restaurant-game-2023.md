@@ -21,4 +21,4 @@ Dash from restaurant to restaurant on this magical map. You will discover and un
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best, burger, Cooking, Girls, Kids
+- Tags: Best, Burger, Cooking, Girls, Kids

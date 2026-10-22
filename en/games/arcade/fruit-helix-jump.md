@@ -19,6 +19,6 @@ Face a juicy twist on the classic helix adventure in Fruit Helix Jump. Drop your
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Classic, Fruits, Helix, jump

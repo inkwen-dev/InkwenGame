@@ -19,6 +19,6 @@ Crazy Car Stunt Descent is an exciting driving car game that puts you behind the
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Arcade, Batman, Cars, gta, Shoot, Shoot 'Em Up, Shooter

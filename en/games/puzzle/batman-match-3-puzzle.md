@@ -19,6 +19,6 @@ Another brain training game for you is Batman Match 3 Puzzle. This game will hel
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Batman, Match 3, Match3, Matching, Puzzle

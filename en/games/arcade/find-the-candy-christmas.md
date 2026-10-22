@@ -19,6 +19,6 @@ Use your wits and find as much candy as you can in Find The Candy: Winter. In th
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Adventure, Arcade, Christmas, Cute, dino, Dinosaur, Physics, Puzzle

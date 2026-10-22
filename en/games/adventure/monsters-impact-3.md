@@ -19,6 +19,6 @@ The power is in your finger! Tap the screen to hit the monsters and click the sp
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dragon, Fun, Funny, Kill, Killing, Monster, Skill, Skills

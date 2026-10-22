@@ -19,6 +19,6 @@ Game for children " Baby care" necessarily will like little restless, because th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D Games, 8 Ball Pool, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Block, Boy, Boys, Bubble, Bubble Shooter, Cake, Candy, Car, card, Cars, Cartoon, Cartoon Network, Fun, Funny, Game, Games, Girl, Girls, Hypercasual
+- Tags: 3D Games, 8 Ball Pool, Baby, Baby Hazel, Balance, Ball, Ballon, Barbie, Block, Boy, Boys, Bubble, Bubble Shooter, Cake, Candy, Car, Card, Cars, Cartoon, Cartoon Network, Fun, Funny, Game, Games, Girl, Girls, Hypercasual

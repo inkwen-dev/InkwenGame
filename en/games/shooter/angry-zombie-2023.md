@@ -19,6 +19,6 @@ There can't be any left! In Angry Zombies you have to shoot down every zombie yo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Adventure, Bird, Fun, Interactive, Shoot, Shoot 'Em Up, Zombie

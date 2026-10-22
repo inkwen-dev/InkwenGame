@@ -19,6 +19,6 @@ Everybody likes sweet Ice Cream! Make your Ice Cream with your favorite flavor! 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Cooking, Cool, Decorate, Decoration, Fun, Funny, Girls, Ice

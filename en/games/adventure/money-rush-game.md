@@ -19,6 +19,6 @@ Money Rush Game is an exciting arcade runner where your goal is to collect as mu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Adventure, amazing, Best Games, Bridge, Casual, Fun

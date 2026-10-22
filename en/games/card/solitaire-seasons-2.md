@@ -17,4 +17,4 @@ Explore the vivid landscapes of Solitaire Seasons, where each card game is a ste
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

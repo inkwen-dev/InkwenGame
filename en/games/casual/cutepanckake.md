@@ -19,6 +19,6 @@ Take the cake out of the pan and stack it at the bottom. The more you stack, the
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 3D, Balance, Best Games, Casual

@@ -19,6 +19,6 @@ Create your very own Barbie DreamHouse experience! Join us for a bunch of fun ac
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, 8 Ball Pool, Barbie, Battlegrounds, Boy, Boys, Candy, Cars, Fashion, Girl, Girls, Grooming, Princess

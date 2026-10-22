@@ -42,4 +42,4 @@ Play Bow Brawls now and test your archery skills!
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Action, archery, pve, pvp, Shooting
+- Tags: Action, archery, pve, PvP, Shooting

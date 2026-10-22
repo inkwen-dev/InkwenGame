@@ -19,6 +19,6 @@ Iron Man Mod - in this game you are given armor and high-tech gadgets with the a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Fight, Fighting, Fire, Flight, Lego, Spiderman, Super, Superhero, Unity3D

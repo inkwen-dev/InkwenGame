@@ -19,6 +19,6 @@ Are you bored from previous playing Car race game and new car games 2025? Car ra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2025 games, Best Games, Car, Race, Racing

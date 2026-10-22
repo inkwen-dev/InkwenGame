@@ -25,4 +25,4 @@
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Clicker, farm, idle, management
+- Tags: Arcade, Clicker, Farm, idle, Management

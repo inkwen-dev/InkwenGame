@@ -19,6 +19,6 @@ An addicted hypercasual game, simple control, nice design, fun, challenging and 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Arcade, Best, Casual, Fun, Funny, HTML, Mobile

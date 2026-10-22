@@ -19,6 +19,6 @@ It is time to fight in kz10 !! Choose your favorite stickman and perform awesome
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fight, Fighting, kiz10, Stickman, Street Fighting

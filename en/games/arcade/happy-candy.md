@@ -19,6 +19,6 @@ Have you ever seen a candy-eating monster before? These monsters love candies. t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Android, Arcade, Click, Mobile, Monster

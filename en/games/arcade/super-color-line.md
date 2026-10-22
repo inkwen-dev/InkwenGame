@@ -19,6 +19,6 @@ Get your daily dose of color with this Super Color Lines game, where beautiful g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Color, Coloring, Puzzle

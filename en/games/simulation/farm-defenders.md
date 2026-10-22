@@ -62,4 +62,4 @@ Fence nearly gone? Take the revive and stay in the fight.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: farm, Shooting, Simulation, survival, Zombie
+- Tags: Farm, Shooting, Simulation, survival, Zombie

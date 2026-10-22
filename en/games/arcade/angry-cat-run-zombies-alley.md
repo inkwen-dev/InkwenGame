@@ -19,6 +19,6 @@ Angry Cat Run - Zombies Alley is a fun action game similar to subway surfers. Ch
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Avoid, Hypercasual, run, Subway Surfers

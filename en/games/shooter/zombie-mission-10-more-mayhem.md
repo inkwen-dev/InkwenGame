@@ -19,6 +19,6 @@ The Zombie Mission 10 Prison Breakout episode isn't over yet! A new call came to
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Action, Adventure, Battle, Boys, Monster, Shoot 'Em Up, Undead, War, Zombie

@@ -19,6 +19,6 @@ Wizard of symbols have been chosen to attend the great Wizard Duels! Duels are h
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Puzzle, Wizard

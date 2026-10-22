@@ -19,6 +19,6 @@ Shred and Crush 2 continues the sword fighting against different mythical creatu
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Kill, Killing, Knight, Monster, rpg, Sword, Vampire, weapons, WebGL
+- Tags: Adventure, Kill, Killing, Knight, Monster, RPG, Sword, Vampire, weapons, WebGL

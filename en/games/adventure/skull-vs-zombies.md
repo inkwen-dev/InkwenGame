@@ -21,4 +21,4 @@ Skull vs Zombies is an exciting physics-based game that promises hours of fun. E
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Halloween, horror, Physics, Puzzle, Zombie
+- Tags: 1 Player, 2D, Halloween, Horror, Physics, Puzzle, Zombie

@@ -26,4 +26,4 @@ some tasks that you need todo remember don't get cold and don't forget about the
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Christmas, horror, scary, survival
+- Tags: Christmas, Horror, scary, survival

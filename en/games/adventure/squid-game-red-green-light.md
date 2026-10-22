@@ -19,6 +19,6 @@ Play squid Red Light Green Light game for free Red Light Green Light is the best
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Game, Games, Halloween, New, Unity3D

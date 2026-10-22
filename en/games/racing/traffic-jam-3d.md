@@ -19,6 +19,6 @@ Rev up your engines and brace yourself for the ultimate gridlock showdown in Tra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Best Games, Car, Cars, free games for your site, free games for your website, games for your website, unity games for your website, Unity3D

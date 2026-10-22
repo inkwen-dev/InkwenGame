@@ -17,4 +17,4 @@ Enter a surreal Italian nightmare where precision saves lives. Carve intricate d
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

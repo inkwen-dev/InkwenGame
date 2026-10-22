@@ -43,4 +43,4 @@ Can you create the biggest lemonade empire? 🍋👑
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: farm, idle, management, Simulation, tycoon
+- Tags: Farm, idle, Management, Simulation, tycoon

@@ -19,6 +19,6 @@ Welcome to the Crazy Mechanic game! In this game, you are a very, very crazy mec
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Adventure, jump, Jumping

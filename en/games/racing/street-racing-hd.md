@@ -19,6 +19,6 @@ Street Racing HD is coming! Top-class racing cars were made by well-known manufa
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Driving, gta, H5, Race, Racing

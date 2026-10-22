@@ -19,6 +19,6 @@ Glide the ball over the dunes, unlock new maps and images, set new records. Exci
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Air, Arcade, Casual, endless, HTML, Hypercasual, Mobile, onetouch, Physics, running, Skill, slide, sliding

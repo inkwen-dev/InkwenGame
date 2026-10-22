@@ -22,4 +22,4 @@ Between battles, choose your path across the campaign map, earn Honor, unlock ne
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Army, management, Strategy, Tower Defense
+- Tags: Army, Management, Strategy, Tower Defense

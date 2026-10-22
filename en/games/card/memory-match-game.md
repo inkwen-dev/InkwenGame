@@ -21,4 +21,4 @@ Memory Match is a free online puzzle game for boys played on PuzzleGame. It comb
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Boy, Brain, card, Fun, HTML5, Kids, Matching, Memory, Online, Puzzle
+- Tags: Android, Boy, Brain, Card, Fun, HTML5, Kids, Matching, Memory, Online, Puzzle

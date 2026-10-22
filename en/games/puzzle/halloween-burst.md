@@ -21,4 +21,4 @@ Welcome to Halloween Burst Match3 Puzzle Game! Swipe to match 3 or more identica
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Halloween, horror, Match 3, Match3, Matching, Puzzle
+- Tags: Halloween, Horror, Match 3, Match3, Matching, Puzzle

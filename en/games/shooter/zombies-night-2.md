@@ -19,6 +19,6 @@ Zombies Night is a first person shooting game. This is a second part of this sho
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Blood, HTML5, Shooting, Zombie

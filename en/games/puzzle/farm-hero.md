@@ -21,4 +21,4 @@ The aim of the game is to save flooded animals that are scattered throughout the
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Collecting, Cute, farm, Puzzle, Rescue
+- Tags: Animal, Collecting, Cute, Farm, Puzzle, Rescue

@@ -19,6 +19,6 @@ Welcome to the Italian Brainrot Guess Who quiz game with the characters from Str
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Brainrot Italian, Fun, Funny, Guessing, Italian Brainrot, Kids, Quiz, Skill, Tralalero Tralala, Tung Tung Tung Sahur

@@ -19,6 +19,6 @@ Fun Escape 3D is so interesting. You will join a running race. In this game, you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Arcade, Avoid, Boy, Boys, Fun, Funny, Game, Games, H5, HTML, HTML5, Kid, Kids, Obstacle, Platform, Race, Racing, run, running

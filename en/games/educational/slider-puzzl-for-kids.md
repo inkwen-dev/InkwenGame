@@ -19,6 +19,6 @@ Slider Puzzl for Kids game has a lot of success review and player this MONTH tha
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Kid, Kids, King, Puzzle, School, Turn Based

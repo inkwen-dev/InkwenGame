@@ -19,6 +19,6 @@ Avatoon Avatar Maker is a dress up game. You are not bored and neither should yo
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Creation, Dress Up, Girls, Kids, Makeover

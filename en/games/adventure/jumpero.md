@@ -19,6 +19,6 @@ Jumpero is definitely an enchanting jumping casual game. Have you ever dreamt of
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Adventure, Boy, Fun, H5, HTML5, jump, Jumping, Kid, Kids

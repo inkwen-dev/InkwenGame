@@ -19,6 +19,6 @@ Crazy Alien Adventure is an addictive and exciting game. You will play as a brav
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Animal, Crazy, Halloween, Jumping, Side Scrolling

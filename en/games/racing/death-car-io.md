@@ -19,6 +19,6 @@ Do you like high speed, drifting and cool stunts while driving a car? Then you d
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, .io Games, Adult, Car, Cars, Click, Clicker, HTML, HTML5, Strategy, Supercars, worm, Worms
+- Tags: .io, .io Games, Adult, Car, Cars, Click, Clicker, HTML, HTML5, Strategy, Supercars, Worm, Worms

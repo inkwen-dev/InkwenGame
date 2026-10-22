@@ -19,6 +19,6 @@ Hunt all dragon ball in the scene. Find them all! Beyond the epic battles, exper
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dragon Ball Z, Kid, Puzzle

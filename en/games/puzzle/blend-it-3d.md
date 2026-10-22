@@ -19,6 +19,6 @@ How many car logos do you know? Can you guess these car logos in our new puzzle 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Fruit, Fruits, Fun, H5, HTML, HTML5, Hypercasual, Kids, Mobile, Puzzle, Relaxation

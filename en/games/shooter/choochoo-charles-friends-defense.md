@@ -19,6 +19,6 @@ If youre looking for a heart-pounding, time-sucking online action game, go no fa
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Highscore, kiz10, Shooting, survival

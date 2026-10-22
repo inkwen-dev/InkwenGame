@@ -19,6 +19,6 @@ Offroad Cycle 3D Racing Simulator IS a realistic simulator of Bicycle racing, wh
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boys, HTML5, Sport, WebGL

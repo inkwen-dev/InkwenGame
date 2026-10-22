@@ -19,6 +19,6 @@ Ludo Online Multiplayer Games is the perfect place to play online games with you
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Board, Casual, Classic, Games, H5, HTML5, Multiplayer

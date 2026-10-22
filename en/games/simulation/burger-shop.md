@@ -21,4 +21,4 @@ Are you ready to cook burgers and serve fast food to the customers that come to 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Action, Adventure, Arcade, burger, Casual, Cook, Cooking, Fun, Funny, Hot, Hypercasual, Shopping, Unity3D
+- Tags: 3D, 3D Games, Action, Adventure, Arcade, Burger, Casual, Cook, Cooking, Fun, Funny, Hot, Hypercasual, Shopping, Unity3D

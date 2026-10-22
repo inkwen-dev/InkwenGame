@@ -19,6 +19,6 @@ World of Alice - My Dog World of Alice - My Dog is an educational game developed
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Baby, Baby Games, Best Games, Cartoon, Cute, Educational, free games for your site, free games for your website, free html5 games for your website, Games, games for your website, html games for your website, html5 games for your site

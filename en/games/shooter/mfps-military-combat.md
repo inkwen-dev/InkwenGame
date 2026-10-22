@@ -23,4 +23,4 @@ Engage in gunfights, survive the chaos, eliminate rivals and rise as champion of
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Army, First Person Shooter, Gun, Multiplayer, pvp, Shooting
+- Tags: 3D, Action, Army, First Person Shooter, Gun, Multiplayer, PvP, Shooting

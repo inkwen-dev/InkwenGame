@@ -19,6 +19,6 @@ How do you know about Squid Game, which is a famous film recently? Squid Craft O
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Boy, Casual, Kid, Puzzle, Timing

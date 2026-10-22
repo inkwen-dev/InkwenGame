@@ -21,4 +21,4 @@ Welcome to the magic farm of splaygame Farm Link, the simple story, a farm where
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Match 3, Match3
+- Tags: Farm, Match 3, Match3

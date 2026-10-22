@@ -19,6 +19,6 @@ Thung Thung Sahur Night Escape is an immersive first-person horrorstealth game s
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, amazing, horror, Tung Tung Tung, Tung Tung Tung Sahur
+- Tags: 1 Player, amazing, Horror, Tung Tung Tung, Tung Tung Tung Sahur

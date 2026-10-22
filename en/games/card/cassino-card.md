@@ -19,6 +19,6 @@ The aim is to capture cards from a layout on the table, by playing a card from y
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Battle, Best, card
+- Tags: Battle, Best, Card

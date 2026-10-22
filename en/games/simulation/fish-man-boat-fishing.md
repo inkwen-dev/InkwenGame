@@ -21,4 +21,4 @@ Happy Fisher - go fishing Do you like fishing? Do you like to explore the myster
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fish, fishing, Simulation, Simulator
+- Tags: Fish, Fishing, Simulation, Simulator

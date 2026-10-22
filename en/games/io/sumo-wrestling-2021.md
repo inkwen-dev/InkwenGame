@@ -19,6 +19,6 @@ This is the world most famous Japanese traditional Rikishi fighting game 2021, S
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, Casual, Fight, Fighting, Hypercasual, sumo

@@ -21,4 +21,4 @@ Meme Challenge: Dank Memes is a fun and casual card game! Designed for those who
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, card, Funny, Interactive
+- Tags: Battle, Card, Funny, Interactive

@@ -21,4 +21,4 @@ Have fun alone or with your friend in Penguin Fish Run players. Play the role of
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Fish, fishing, Multiplayer, Penguin, Race, Racing
+- Tags: Arcade, Fish, Fishing, Multiplayer, Penguin, Race, Racing

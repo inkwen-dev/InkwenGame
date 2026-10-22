@@ -19,6 +19,6 @@ Animals Slide Puzzle is a simple HTML5 classic puzzle game. Move pieces of f1 im
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, HTML5, Jigsaw, Mobile

@@ -19,6 +19,6 @@ Get ready for a fun and action-packed Mars journey with CyberTruck. Take samples
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Air, Car, drifting, Driving, fly, Funny, HTML5, Race, Simulation

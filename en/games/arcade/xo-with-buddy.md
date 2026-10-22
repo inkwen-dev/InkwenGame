@@ -19,6 +19,6 @@ Click or touch an empty spot to place symbol on it. Line up three of your symbol
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Arcade, Board, HTML5, Mobile, Puzzle

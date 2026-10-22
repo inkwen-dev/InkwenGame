@@ -19,6 +19,6 @@ ninja face is a html5 arcade game, play as 2 ninja day and night up and down, cl
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Click, endless, Ninja, Obstacle, running, Side Scrolling

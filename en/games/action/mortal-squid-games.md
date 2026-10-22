@@ -21,4 +21,4 @@ An exciting collection of games based on the Korean TV series "The Squid Game". 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, Best, Boy, Boys, Casual, Draw, Girl, Girls, Hot, HTML, HTML5, Hypercasual, Kill, Killing, Mobile, movie, New, School, Sniper
+- Tags: Battle, Best, Boy, Boys, Casual, Draw, Girl, Girls, Hot, HTML, HTML5, Hypercasual, Kill, Killing, Mobile, Movie, New, School, Sniper

@@ -19,6 +19,6 @@ This time, the adventure begins with the biggest and the most powerful vehicles 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 3D, Crazy, Race, Racing, Stunts

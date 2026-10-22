@@ -21,4 +21,4 @@ Flip cards, remember their positions, and clear the board before time runs out, 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2 Player, 2 Player Games, Animal, card, Educational, Memory, Puzzle
+- Tags: 2 Player, 2 Player Games, Animal, Card, Educational, Memory, Puzzle

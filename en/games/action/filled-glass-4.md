@@ -19,6 +19,6 @@ In this game Filled Glass 4 you will see the playing field on which at the botto
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Color, Fun, Funny, Kids, Obstacle, Physics, Platform, Skill

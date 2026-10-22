@@ -35,4 +35,4 @@ Key Feature: A unique, light-touch horror approach that distinguishes it from tr
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: horror, scary, survival
+- Tags: Horror, scary, survival

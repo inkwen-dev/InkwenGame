@@ -19,6 +19,6 @@ Welcome to Rescue Casual Pin Puzzle, the brain-teasing adventure filled with lov
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Enemies, Love, Strategy

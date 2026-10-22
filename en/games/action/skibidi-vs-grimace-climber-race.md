@@ -19,6 +19,6 @@ The Skibidi vs Grimace Climber Race promises an epic showdown between two daring
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Android, Grimace, Grimace Shake, HTML5, iPad, iPhone, Mentolatux, Mobile, Race, Skibidi, Skibidi Toilet, Unity3D

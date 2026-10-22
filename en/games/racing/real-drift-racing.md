@@ -19,6 +19,6 @@ Here is actually not a car drifting driving simulation game but a skillful wheel
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, drifting, Platform, Race, Skill

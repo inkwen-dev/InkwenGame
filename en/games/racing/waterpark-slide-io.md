@@ -19,6 +19,6 @@ WaterPark Slide.io for Aqua park is a sliding io game. Can you beat all others w
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Arcade, Boys, Fun, Girls, Kids, Race, Racing

@@ -19,6 +19,6 @@ You must defend the earth against invading creatures coming from other worlds. T
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Alien, Army, Battle, Board, Brain, Defense, Fight, Monster, Simulation, Strategy, Tower Defense, Unity3D, weapons

@@ -21,4 +21,4 @@ Complete missions in snowy and fun levels and build your gift train as long as p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, 3D Games, Android, Arcade, Car, Cars, Christmas, New, Racing, Snow, train
+- Tags: 1 Player, 3D, 3D Games, Android, Arcade, Car, Cars, Christmas, New, Racing, Snow, Train

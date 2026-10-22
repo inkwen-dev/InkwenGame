@@ -19,6 +19,6 @@ Are you ready to become a hero, a spy, and a legend? Solve puzzling challenges, 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Arcade, Army, Battle, Battlegrounds, Click, Clicker, Crazy, Police, prison, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting, weapons
+- Tags: Action, Adventure, Arcade, Army, Battle, Battlegrounds, Click, Clicker, Crazy, Police, Prison, Shoot, Shoot 'Em Up, Shooter, Shooting, Street Fighting, weapons

@@ -19,6 +19,6 @@ Get ready for hordes of zombies that only care about eating brains! Use your bra
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: endless, Tower Defense, Zombie

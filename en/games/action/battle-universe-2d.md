@@ -19,6 +19,6 @@ Battle Universe 2D is an exhilarating arcade-style game where players command a 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Fire, Spaceship, Unity3D, War, WebGL

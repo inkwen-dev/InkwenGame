@@ -19,6 +19,6 @@ Holdem Royale is Texas Holdem poker with real players, live. Pull up a chair in 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Multiplayer, Poker
+- Tags: Card, Multiplayer, Poker

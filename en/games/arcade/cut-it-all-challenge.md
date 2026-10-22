@@ -19,6 +19,6 @@ Cut everything into equal slices. You can cut it into two slices, three slices, 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Arcade, Best Games, Brain, Casual, cut, endless, Fun, Games, Kids, Skill, Slicing

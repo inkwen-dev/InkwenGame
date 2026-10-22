@@ -19,6 +19,6 @@ play Adventure Batgirl - SpiderHero Runner Game Adventure! This game is a super 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Anime, Best, endless, Games, Girl, Girls, Online, run, running, Simulation, Simulator, Super, Superhero

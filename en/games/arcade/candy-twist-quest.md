@@ -19,6 +19,6 @@ In Candy Twist Quest, match and twist colorful candies to solve fun and challeng
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Mentolatux, Mobile, quest, quests, twist, unblocked games, WebGL

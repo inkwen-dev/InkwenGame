@@ -19,6 +19,6 @@ AquaSort 2: Color Puzzle is an engaging and relaxing water-sorting puzzle game d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, HTML5, Logic, Logical, unblocked, unblockedgames76

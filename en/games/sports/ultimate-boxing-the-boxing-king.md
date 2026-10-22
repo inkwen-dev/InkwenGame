@@ -19,6 +19,6 @@ Ultimate Boxing is an exciting online boxing game. In the ultimate boxing, you h
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Boxing, Boy, Boys, Fun, H5, HTML5, Kid, Kids, Sport, Sports

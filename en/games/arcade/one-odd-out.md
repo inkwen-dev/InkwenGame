@@ -19,6 +19,6 @@ Exercise your mind by searching for the single object that doesn't belong to the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Casual, Difference, HTML5, Puzzle

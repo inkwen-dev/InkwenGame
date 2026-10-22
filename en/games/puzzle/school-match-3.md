@@ -21,4 +21,4 @@ Cool match 3 game by freepuzzlesgames. Enjoy this fun game.
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Boy, Fun, Girls, Kids, Match 3
+- Tags: Boy, Fun, Girls, Kids, Match-3

@@ -19,6 +19,6 @@ How can you win a natural battle if you have a dinosaur army? In this 3D puzzle 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Battle, Brain, Dinosaur, Mobile, Puzzle, Simulation, Unity3D, War

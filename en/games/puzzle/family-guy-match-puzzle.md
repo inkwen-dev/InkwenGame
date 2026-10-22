@@ -21,4 +21,4 @@ Family Guy is a big fan of various puzzles, which they are happy to solve to imp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Best, Cartoon, Game, Jigsaw, Kids, movie, Online, Punch, Puzzle
+- Tags: Arcade, Best, Cartoon, Game, Jigsaw, Kids, Movie, Online, Punch, Puzzle

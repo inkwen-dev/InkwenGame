@@ -19,6 +19,6 @@ You in the game Halloween Skull Shooter will have to destroy bubbles all and not
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble, Bubble Shooter, Fun, Halloween, HTML5, Kids, Mobile, Skill

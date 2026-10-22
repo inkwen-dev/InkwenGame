@@ -19,6 +19,6 @@ Sweet Tile Puzzle is a relaxing yet strategic game. Match 3 identical Japanese-t
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, html5 games, Matching, Mobile, Puzzle, Skill

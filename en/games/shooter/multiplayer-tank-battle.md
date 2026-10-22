@@ -19,6 +19,6 @@ Multiplayer Tank Battle is an amazing free online shooting game that you can pla
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Army, Battle, Collecting, Fight, Multiplayer, Shooting, Shopping, Skill, Tank, Tanks, War

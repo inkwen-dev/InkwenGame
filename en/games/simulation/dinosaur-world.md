@@ -17,4 +17,4 @@ Enter Dinosaur World, where you craft and manage a thriving ranch of prehistoric
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: management
+- Tags: Management

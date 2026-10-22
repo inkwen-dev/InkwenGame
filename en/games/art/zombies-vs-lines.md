@@ -21,4 +21,4 @@ Draw your way to rescue in a world of zombies and thrilling quests. Complete all
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Draw, Drawing, Escape, HTML5, Hypercasual, Logic, Logical, movie, Puzzle, Rescue, weapons, WebGL, Zombie
+- Tags: 1 Player, Draw, Drawing, Escape, HTML5, Hypercasual, Logic, Logical, Movie, Puzzle, Rescue, weapons, WebGL, Zombie

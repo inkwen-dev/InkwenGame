@@ -19,6 +19,6 @@ Train your brain with Ben 10 Aliens. Solve the puzzle with 5 Bens aliens picture
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Alien, Ben 10, Boys, Brain, Cartoon, Cartoon Network, Girls, Jigsaw, Puzzle

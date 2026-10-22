@@ -19,6 +19,6 @@ Delivery Master is new transport and delivery gameplay like driver and delivery 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, 3D Games, Best, Best Games, Bike, free games for your site, free games for your website, free html5 games for your website, games for your website, html games for your website, html5 games for your site, Hypercasual

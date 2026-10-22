@@ -19,6 +19,6 @@ Farm House is the best village farming and town-building game. The farmhouse is 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 3D, 3D Games, Adventure, Family, farm, Simulation, Simulator, Truck
+- Tags: 3D, 3D Games, Adventure, Family, Farm, Simulation, Simulator, Truck

@@ -19,6 +19,6 @@ In the online game Bouncy Rush you can control gravity. If necessary, you can ru
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Casual, Girls, Hypercasual, jump, Jumping, Kids, Love

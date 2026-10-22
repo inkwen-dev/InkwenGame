@@ -19,6 +19,6 @@ Zombie Invasion is an html5 arcade game, survive and kill the zombies to get sco
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Fight, Fighting, Fun, Funny, Game, Games, Highscore, HTML, HTML5, Hypercasual, Kid, Kids, Kill, Killing, Zombie

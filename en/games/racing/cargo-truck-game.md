@@ -19,6 +19,6 @@ Take command of heavy machinery and conquer rugged terrain in Cargo Truck Game. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Forest, Fun, offroad, Sim, Simulation, Simulator, Truck

@@ -19,6 +19,6 @@ Have fun drawing your way to the goal in Roblox Draw to Escape Online, an entert
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Drawing, kiz10, Levels, Platform, running

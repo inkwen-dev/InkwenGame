@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: .io 游戏, 3D 游戏, 冒险
+- 标签: .io 游戏, 3D游戏, 冒险

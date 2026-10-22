@@ -19,6 +19,6 @@ The Bad Guys is a 2022 American computer-animated heist comedy film[6][7][8] loo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Anime, Cartoon, Cartoon Network, movie, Puzzle
+- Tags: Anime, Cartoon, Cartoon Network, Movie, Puzzle

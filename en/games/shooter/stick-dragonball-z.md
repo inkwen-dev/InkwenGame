@@ -19,6 +19,6 @@ Stick Dragonball Z is the best game for gamers who played stickman z bow games, 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bow, Shoot, Shooter

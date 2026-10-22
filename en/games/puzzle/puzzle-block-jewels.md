@@ -19,6 +19,6 @@ Puzzle Block Jewels is simple yet addictive classic jewels game. The block sin d
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Jewel, Puzzle

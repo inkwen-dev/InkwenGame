@@ -19,6 +19,6 @@ Stay alive for 30 seconds by engaging in battles and races across various random
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, iPad, iPhone, Mentolatux, Mobile, run, smash

@@ -19,6 +19,6 @@ A small bunny of unusual color came out of the mink for the first time for a wal
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Avoid, Collecting, Fun, HTML5, Kids, Mobile, Rabbit, Skill

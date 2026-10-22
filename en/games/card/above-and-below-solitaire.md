@@ -19,6 +19,6 @@ The game is played with 2 decks of cards. At first, a card is dealt face up as a
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Solitaire
+- Tags: Card, Solitaire

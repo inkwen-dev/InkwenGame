@@ -21,4 +21,4 @@ Tribe Boss is a resource management puzzle game for puzzle game lovers. There ar
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Casual, mouse, WebGL
+- Tags: 1 Player, 2D, Casual, Mouse, WebGL

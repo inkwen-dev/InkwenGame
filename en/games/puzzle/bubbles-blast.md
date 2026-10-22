@@ -19,6 +19,6 @@ Bubbles Blast is a fast-paced neon bubble shooter set in deep space. Aim and fir
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ai Games, Arcade, Ball, Casual, free html5 games for your website, mapi games, Puzzle

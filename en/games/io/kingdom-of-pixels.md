@@ -21,4 +21,4 @@ Kingdom of Pixels is a 2D MOBA, Platformer game similar to the style of other MO
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 2 Player Games, 2D, Action, Arena, Battlegrounds, HTML5, pvp, Skills
+- Tags: .io Games, 2 Player Games, 2D, Action, Arena, Battlegrounds, HTML5, PvP, Skills

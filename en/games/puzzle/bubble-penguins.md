@@ -19,6 +19,6 @@ Play the classic and most addictive bubble pop game for FREE, match 3 colors and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Bird, Bubble, Bubble Shooter, Hot, Hypercasual, Match 3, Match3, Matching

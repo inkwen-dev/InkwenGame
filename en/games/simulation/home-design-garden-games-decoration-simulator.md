@@ -21,4 +21,4 @@ Home Design : Garden games Decoration simulator game online ! Revive barren back
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Baby, Baby Hazel, Decorate, Decoration, Design, farm, Games, Girl, Girls, Kids, Online, Simulation, Simulator
+- Tags: Baby, Baby Hazel, Decorate, Decoration, Design, Farm, Games, Girl, Girls, Kids, Online, Simulation, Simulator

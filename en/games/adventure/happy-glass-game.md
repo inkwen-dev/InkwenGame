@@ -19,6 +19,6 @@ With magic pen and ink, you need to draw lines to bring water to the glass. Savi
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Best, Casual, Classic, HTML5, Mobile

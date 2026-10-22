@@ -19,6 +19,6 @@ Are you able to throw a ball into a ring? Balls Throw Duel 3D is a skillful phys
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Ball, Casual, Puzzle, Stickman

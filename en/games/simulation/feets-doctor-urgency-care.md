@@ -19,6 +19,6 @@ ouch!!!! these feet are in poor conditions. It is now really urgent to cure them
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Doctor, Family, Games

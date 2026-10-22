@@ -17,4 +17,4 @@ Cast your line with an experienced guide as you embark on an adventurous fishing
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

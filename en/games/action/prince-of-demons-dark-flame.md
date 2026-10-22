@@ -21,4 +21,4 @@ Wield hellfire, conquer darkness, and rise as the Prince of Demons in this epic 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, horror, Magic, rpg, survival
+- Tags: Battle, Horror, Magic, RPG, survival

@@ -19,6 +19,6 @@ Welcome to the My Cute Unicorn Fashion Dress Up. Skyler, Sunny, Ruby, and Violet
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fashion, Girls, Makeover

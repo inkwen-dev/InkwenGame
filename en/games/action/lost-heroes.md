@@ -19,6 +19,6 @@ Fantasy puzzle platformer with action elements The player is given control over 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Adventure, Classic, Dungeon, Fantasy, Fun, HTML5, jump, Jumping, Knight, Logic, Magic, Mario, Monster, Ninja, Pixel, Platform, Puzzle, Retro, run, running, Superhero, Sword

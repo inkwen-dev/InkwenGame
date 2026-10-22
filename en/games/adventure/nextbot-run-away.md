@@ -21,4 +21,4 @@ Get ready for the craziest race of your life in NextBots: Run Away! This is some
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D Games, Action, Avoid, endless, horror
+- Tags: 1 Player, 3D Games, Action, Avoid, endless, Horror

@@ -19,6 +19,6 @@ Snow Race 3d is a beautifully made ski simulation game with a realistic 3D art s
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Girl, HTML, Mobile, run, Ski

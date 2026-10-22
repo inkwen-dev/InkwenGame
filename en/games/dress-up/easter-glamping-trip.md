@@ -19,6 +19,6 @@ This Easter, our princesses are going glamping in the mountains to relax under t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Coloring, Decoration, Disney, Dress Up, Easter, Fashion, Frozen, Holiday, Princess

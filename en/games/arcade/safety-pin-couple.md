@@ -19,6 +19,6 @@ In Safety Pin Couple, embark on a whimsical adventure where safety pins unite! G
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Android, Arcade, HTML5, iPhone, Unity3D, WebGL

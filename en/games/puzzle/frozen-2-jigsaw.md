@@ -19,6 +19,6 @@ A small online game based on the second part of the Disney cartoon "Frozen". The
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Brain, Cartoon, Cartoon Network, Disney, Frozen, HTML, HTML5, Hypercasual, Jigsaw, Puzzle

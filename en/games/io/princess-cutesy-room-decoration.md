@@ -19,6 +19,6 @@ Due to the reconstruction of the castle, the princess moved into a new palace, h
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 1 Player, Baby, Baby Hazel

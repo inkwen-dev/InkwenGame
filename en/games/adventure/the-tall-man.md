@@ -26,4 +26,4 @@ In this first-person horror survival game, the player navigates a dark, desolate
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Adventure, horror, survival
+- Tags: 3D, Adventure, Horror, survival

@@ -19,6 +19,6 @@ It is a very colorful game educational game for kids in kindergarten. This game 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D Games, Adventure, Boy, Boys, Game, Hot, Kid, Kids, New, Race, Racing, Truck

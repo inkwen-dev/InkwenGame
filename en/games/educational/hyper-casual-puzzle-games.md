@@ -19,6 +19,6 @@ hyper casual puzzle games is a Free casual Ring Toss game. It is also a fun game
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Anime, Best, Boys, Cartoon, Casual, Color, Design, Fun, Game, Girls, Hot, HTML5, Hypercasual, Mobile, New, Puzzle, Quiz

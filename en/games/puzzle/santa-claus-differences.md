@@ -19,6 +19,6 @@ Merry Christmas! In this game there are small differences. Can you find them? Th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Clicker, Difference, Holiday, Kids, Mobile, Point And Click, Skill, Winter

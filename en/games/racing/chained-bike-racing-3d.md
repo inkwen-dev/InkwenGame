@@ -19,6 +19,6 @@ Get ready to experience the thrilling stunts with chained bike racing game adven
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bike, drift, Driving, Race, Sim, Simulation, Stunts

@@ -19,6 +19,6 @@ The Grandmaster has stolen relics from Odin’s vault and only Thor can retrieve
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Battlegrounds, Celebrity, Interactive Fiction, Super, Superhero, Zombie

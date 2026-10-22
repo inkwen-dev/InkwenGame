@@ -19,6 +19,6 @@ NOVAGUARD is a one-finger air defense shooter. Tap anywhere in the sky and your 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Alien, Arcade, Bomb, Casual, city, Defense, HTML5, Mobile, Retro, Shooting, Skill, Space, survival

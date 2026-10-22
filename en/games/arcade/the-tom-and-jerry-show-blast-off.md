@@ -19,6 +19,6 @@ There haven’t been many rockets and flying happening in the Tom and Jerry Game
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Aircraft, Android, Arcade, Best, Cartoon, Cat, Coloring, Craft, Crafting, Drawing, Flight, Fun, HTML5, Mobile

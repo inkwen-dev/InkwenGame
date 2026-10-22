@@ -19,6 +19,6 @@ Garten of Banban Escape is an adrenaline-pumping online game that combines eleme
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Escape, kiz10, Monster

@@ -21,4 +21,4 @@ Welcome and Play popular Las Vegas Free Mysterious Casino Slots Game. as Welcome
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Casino, Fun, Slot Machine
+- Tags: Card, Casino, Fun, Slot Machine

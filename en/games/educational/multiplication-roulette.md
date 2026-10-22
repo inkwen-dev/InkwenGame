@@ -19,6 +19,6 @@ Touch in the Spin button, then in the roulettes to stop them. You’ll have 10 t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Educational, Kids, Math, Number

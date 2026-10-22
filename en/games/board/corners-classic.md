@@ -19,6 +19,6 @@ In our corner version, you can improve your analytical skills and strategic thin
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2025 games, 2D, Adult, Board, Brain, Casual, Classic, Logic, Logical, Multiplayer, Puzzle, Strategy

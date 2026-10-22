@@ -19,6 +19,6 @@ Get on the board of the city multispecialty hospital and medical center and beco
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Baby Hazel, Cartoon, Cartoon Network, Disney, Doctor, Kids, Simulation, Surgery

@@ -19,6 +19,6 @@ In CONNECT ANIMALS ONET KYODAI game, your goal is to find all matching pairs. It
 - Category: <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Board</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Board, Brain, Casual, Hypercasual

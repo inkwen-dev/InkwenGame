@@ -19,6 +19,6 @@ Run through a colorful garden full of obstacles and challenges in Runner Garden 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Hypercasual, Puzzle, Race, Racing

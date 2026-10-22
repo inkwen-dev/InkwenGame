@@ -19,6 +19,6 @@ Get ready for an adrenaline-pumping adventure in Dark Dino Runner: Night Mode! J
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2026 games, crazygamesunblocked, dino, Dinosaur, endless, run, running, unblocked games, unblockedgames66, unblockedgames76, unblockedgamesatschool

@@ -19,6 +19,6 @@ Snow Slider 3D is a fast and fun downhill sledding game where you race through s
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 1 Player, 2026 games, 3D, 3D Games, Action, Adventure, Best, Best Games, free games for your site, free html5 games for your website, HTML5, html5 games for your site, Snow

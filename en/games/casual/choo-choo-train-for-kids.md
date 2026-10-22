@@ -21,4 +21,4 @@ All kids love trains! This is a classic Choo Choo Train educational game. Let yo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Click, Clicker, Family, Girl, Girls, HTML, HTML5, Kids, Matching, Traffic, train, Truck
+- Tags: Click, Clicker, Family, Girl, Girls, HTML, HTML5, Kids, Matching, Traffic, Train, Truck

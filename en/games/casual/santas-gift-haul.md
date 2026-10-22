@@ -19,6 +19,6 @@ Help Santa gather gifts and spread joy! Play Santas Gift Haul for festive fun no
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby Games, Best Games, Christmas, Clicker, Fun, HTML5, html5 games, Matching

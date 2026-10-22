@@ -19,6 +19,6 @@ Foxy Golf Royale is the greatest and most addictive golf game you’ll ever play
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D Games, Animal, Arcade, Boys, Fun, Girls, Golf, Puzzle, Sport, Sports

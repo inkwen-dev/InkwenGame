@@ -19,6 +19,6 @@ Nurse dress up! Girls game, this is the best games nurse dress up for girls . if
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Elsa, Fashion, Frozen, Funny, Games, Girl, Girls, Kids, Princess, Shopping

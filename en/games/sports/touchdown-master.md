@@ -19,6 +19,6 @@ Are you ready, as a qualified football player, to start a different kind of comp
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Arcade, Avoid, Ball, Boy, Football, Kid, Kids, Puzzle, run, Side Scrolling

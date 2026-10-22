@@ -19,6 +19,6 @@ Friday Night Funkin Music Notes is a free online skill and hidden object game. F
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Best, Casual, Fun, Hidden, HTML5, Hypercasual, Kids, Mobile, Music, Skill

@@ -19,6 +19,6 @@ You are in charge of a stickman in a box with a pickaxe in its hand, and your ob
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Clicker, New, Skills, Stickman

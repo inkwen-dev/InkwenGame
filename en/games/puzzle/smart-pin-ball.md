@@ -19,6 +19,6 @@ You need to collect colorful balls in one place, orienting yourself in space and
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Boy, Boys, Brain, Girl, Girls, H5, HTML, HTML5, Hypercasual, Mind, Puzzle

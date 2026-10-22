@@ -19,6 +19,6 @@ You are a train driver and i tell you that it’s really hard to keep a train on
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: train, Unity3D, WebGL
+- Tags: Train, Unity3D, WebGL

@@ -19,6 +19,6 @@ Man is an absolutely unique being. Despite the fact that we use our strength and
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Brain, Click, Clicker, Color, Coloring, Hot, HTML, HTML5, Kid, Kids, Mind, Puzzle

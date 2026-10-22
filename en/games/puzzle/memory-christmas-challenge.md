@@ -19,6 +19,6 @@ This game tests and challenges your memory! In each level, 12 cards (6 images in
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Fun, HTML5, Kids, Memory, Skill, Winter

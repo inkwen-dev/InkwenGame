@@ -32,4 +32,4 @@ Knight Legend invites you to dive into an epic quest where you fight monsters, u
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Adventure, farm, Fighting, pve, rpg, story
+- Tags: Adventure, Farm, Fighting, pve, RPG, story

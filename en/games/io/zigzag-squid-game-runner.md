@@ -19,6 +19,6 @@ Take the fastest route possible, dodging trains and buses about to arrive. Keep 
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 3D Games, Action, Arcade, run, running, Skill, Skills, Unity3D, WebGL

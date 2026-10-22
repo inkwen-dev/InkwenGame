@@ -19,6 +19,6 @@ Try to smash the more Huggy Wuggy you can! Use the mega ball to smash the monste
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Arcade, Casual, HTML, HTML5, Hypercasual, Mobile, Monster

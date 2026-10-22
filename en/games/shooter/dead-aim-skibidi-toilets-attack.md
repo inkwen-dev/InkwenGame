@@ -19,6 +19,6 @@ Dead Aim: Skibidi Toilets Attack is a shooting game where you play as special fo
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, Skibidi, Skibidi Toilet, Unity3D, WebGL

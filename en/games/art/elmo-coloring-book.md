@@ -19,6 +19,6 @@ Elmo Coloring is fun coloring game for kids. Give your creativity wings by putti
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Fun, Girls, Hypercasual, Kids, School

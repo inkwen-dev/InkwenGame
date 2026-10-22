@@ -19,6 +19,6 @@ In the captivating Glass Ball Puzzle game, your keen eye for color is put to the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Boys, Casual, Click, Clicker, Fun, Funny, Girls, Hypercasual, Logic, Physics

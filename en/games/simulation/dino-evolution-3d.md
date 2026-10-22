@@ -19,6 +19,6 @@ Welcome to the cruel world of dinosaurs! This is a gladiatorial arena! You can o
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io, Animal, Collecting, Dinosaur, Fruit, Simulation
+- Tags: Animal, Collecting, Dinosaur, Fruit, IO, Simulation

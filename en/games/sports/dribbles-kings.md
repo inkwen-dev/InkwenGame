@@ -19,6 +19,6 @@ Avoid the enemy team. Dribble into the goal and set a new highscore. The best ga
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Football, run, running

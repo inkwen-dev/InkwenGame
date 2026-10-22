@@ -19,6 +19,6 @@ Welcome to the super fun Color Skibidi Toilet game, a magical world where your i
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Boys, Coloring, Fun, Funny, HTML5, Hypercasual, Kids, Online, School, Skibidi Toilet

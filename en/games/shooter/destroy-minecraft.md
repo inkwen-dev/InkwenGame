@@ -19,6 +19,6 @@ Drop into a chaotic battlefield where only the most destructive players survive.
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Best Games, Block, First Person Shooter, Hot, Mine, mineblock, Minecraft, Multiplayer, Online, roblox, Shooter, weapons

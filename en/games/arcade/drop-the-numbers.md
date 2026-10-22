@@ -19,6 +19,6 @@ This game is similar to the popular game 2048. On the board, you need to put the
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Brain, Clicker, Kids, Number, Puzzle

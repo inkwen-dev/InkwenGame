@@ -19,6 +19,6 @@ It's possible now to play Disney Super Arcade game in your web browser for free 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Arcade, Bejeweled, Best, Boys, Brain, Bubble, Bubble Shooter, Cartoon, Cartoon Network, Casual, Clicker, Cool, Cute, Disney, Educational, Flight, fly, Fun, Girls, HTML5, Hypercasual, Logic, running, Superhero, Zombie

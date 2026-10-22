@@ -19,6 +19,6 @@ Are you the next graffiti master? Stencil Art will come true to your painting dr
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Boys, Color, Coloring, Food, Girls, H5, Hot, HTML, HTML5, Hypercasual, Kids, Mobile, Online, Relaxation

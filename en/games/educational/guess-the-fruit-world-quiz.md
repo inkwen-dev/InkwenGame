@@ -19,6 +19,6 @@ Welcome to Guess The Fruit World Quiz, the vibrant and juicy picture trivia game
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruit, Fruits, Quiz

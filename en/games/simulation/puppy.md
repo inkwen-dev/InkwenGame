@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Animal, Anime, Baby, Baby Hazel, Barbie, Candy, Cartoon, Cartoon Network, Classic, Color, Coloring, Drawing, fishing, Fun, Funny, Girl, Girls, Kid, Kids, Mobile, Panda, Sofia, Spongebob
+- Tags: Android, Animal, Anime, Baby, Baby Hazel, Barbie, Candy, Cartoon, Cartoon Network, Classic, Color, Coloring, Drawing, Fishing, Fun, Funny, Girl, Girls, Kid, Kids, Mobile, Panda, Sofia, Spongebob

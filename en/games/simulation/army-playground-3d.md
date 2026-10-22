@@ -19,6 +19,6 @@ Test your tactical skills on the battlefield. You have a large arsenal of combat
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Aircraft, Battle, Battlegrounds, cannon, Defense, destroy, military, Simulation, Tank, vehicle, War

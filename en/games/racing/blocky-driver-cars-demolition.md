@@ -19,6 +19,6 @@ Demolition hysteria has been unleashed! Do you want to participate in severe cra
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Block, Car, Cars, Interactive, Pixel, Unity3D, WebGL

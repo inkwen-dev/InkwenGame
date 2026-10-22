@@ -19,6 +19,6 @@ A very long and entertaining story is beginning with the Grand Cyber City game. 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Battle, Bike, Cars, drifting, Driving, Flight, gta, Motorcycle, Race, Rocket, Simulation, Simulator, WebGL

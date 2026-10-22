@@ -19,6 +19,6 @@ Tray to match all identical cards, and be fast before time runs out. See how goo
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Casino, Fun, HTML5, Kids, Memory, Mobile, Puzzle, Skill
+- Tags: Card, Casino, Fun, HTML5, Kids, Memory, Mobile, Puzzle, Skill

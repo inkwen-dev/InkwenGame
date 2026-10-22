@@ -19,6 +19,6 @@ Help the black soldier to collect all coins. Defeat all other soldiers. Collect 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Army, Platform, Shoot 'Em Up, Shooting

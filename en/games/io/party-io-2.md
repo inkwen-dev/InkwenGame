@@ -19,6 +19,6 @@ Party.io 2 is much more fun now with its renewed backgrounds! You can choose one
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 3D, 3D Games, Action, Fight, Fighting, Funny, Kid, Unity3D

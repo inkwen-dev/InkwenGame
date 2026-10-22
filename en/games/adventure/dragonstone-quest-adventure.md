@@ -19,6 +19,6 @@ Brave Princess sets off in search of the dragon stone; she has a long journey in
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Animal, Cartoon, Dragon, Fantasy, Girls, Hidden, HTML5, Princess

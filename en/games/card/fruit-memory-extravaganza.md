@@ -21,4 +21,4 @@ Fruit Memory Extravaganza is a vibrant and juicy card-based memory game that cha
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Matching, Memory
+- Tags: Card, Matching, Memory

@@ -19,6 +19,6 @@ Welcome to the thrilling world of Toilet Monster Battle, where players embark on
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Android, Arcade, Mobile, Skibidi Toilet

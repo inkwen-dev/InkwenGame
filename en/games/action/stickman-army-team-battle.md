@@ -19,6 +19,6 @@ The most strategic stickman war game is now available.Play now to : " Stickman A
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Army, Battle, Stickman, Strategy, weapons

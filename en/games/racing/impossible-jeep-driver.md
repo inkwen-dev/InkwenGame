@@ -19,6 +19,6 @@ Take the wheel of a 4x4 jeep and tackle rugged off-road courses. Drive through r
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Car, Driving, jeep, Levels, offroad, Racing, vehicle

@@ -19,6 +19,6 @@ Meet your favorite red-haired fairy in a new realistic image. Now she has become
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Dress Up, Fairy, Fantasy, Fashion, Fire, Girl, Hair, HTML5, Makeover, Princess, School

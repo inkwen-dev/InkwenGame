@@ -21,4 +21,4 @@ Welcome to the classic logic game with a fresh twist! Rely on colors and deducti
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, Cat, Color, Coloring, Logic, Logical, sudoku
+- Tags: Brain, Cat, Color, Coloring, Logic, Logical, Sudoku

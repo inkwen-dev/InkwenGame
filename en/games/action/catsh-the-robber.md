@@ -19,6 +19,6 @@ Catch the robber 3D game. you mission: chase them, catch them, earn money & upgr
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Battle, Stickman

@@ -19,6 +19,6 @@ Get ready for chaotic and funny action in Ragdoll Rush Game! Control your ragdol
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Best Games, Fun, Puzzle, Race, Racing

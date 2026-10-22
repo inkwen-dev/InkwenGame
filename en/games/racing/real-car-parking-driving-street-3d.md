@@ -19,6 +19,6 @@ we offer you a game with superior quality graphics, easy parking management with
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D, 3D Games, Adventure, Android, Best, Boy, Boys, Brain, Car, city, Driving, Game, Games, Parking, Play, WebGL

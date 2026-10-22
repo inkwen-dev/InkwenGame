@@ -19,6 +19,6 @@ Did you see me kill someone? Have I ever killed anyone? I didn't! I did! Did I? 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Action, Arcade, Avoid, Game, Kid, Kids, Kill, Killing, Puzzle, Space

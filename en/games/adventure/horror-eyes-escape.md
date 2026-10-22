@@ -19,6 +19,6 @@ Step into a chilling world of terror in Horror Eyes Escape, a spine-tingling hor
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Blood, Escape, horror, Rescue
+- Tags: Action, Adventure, Blood, Escape, Horror, Rescue

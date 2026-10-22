@@ -19,6 +19,6 @@ Merge Rainbow Friends! Fight in the intense battle! Win and become the champion 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: .io Games, 3D, 3D Games, Action, Adventure, Brain, Game, Mind, Strategy, train
+- Tags: .io Games, 3D, 3D Games, Action, Adventure, Brain, Game, Mind, Strategy, Train

@@ -19,6 +19,6 @@ Help the mermaid escape from the aquarium, through the barrier of the sewer, bac
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Best, Brain, Classic, Girls, HTML5, Princess, Seduction, Shark

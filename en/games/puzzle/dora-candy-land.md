@@ -19,6 +19,6 @@ Dora Candy Land Match3 puzzle game. Super match3 game with Dora and Candy. Swap 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Collecting, Dora, Fun, Girls, Kids, Match 3, Matching, Puzzle, Skill

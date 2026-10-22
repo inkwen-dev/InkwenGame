@@ -19,6 +19,6 @@ In the game Mr.Bean 3D Jigsaw you will find a cute set of puzzles. All the pictu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Best, Cartoon, Fun, Funny, Jigsaw, Kids, Mobile, Skill

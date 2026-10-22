@@ -19,6 +19,6 @@ Meet this vibrant cat-girl skater, a feline force of energy gliding through a su
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cat, Girl, Mentolatux, Skateboard, Skating, Skill, unity, WebGL

@@ -19,6 +19,6 @@ Find a way to escape from office and unlock new characters.Easy to play Hard to 
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Adventure, Android, Anime, Boy, Boys, Dragon, Kid, Kids, Puzzle

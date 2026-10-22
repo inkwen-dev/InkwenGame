@@ -19,6 +19,6 @@ Your opponents are not idle bystanders; they are formidable adversaries hell-ben
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, Cleaning, Girl, HTML, iPad, iPhone, Kids, Mentolatux, Mobile, Racing

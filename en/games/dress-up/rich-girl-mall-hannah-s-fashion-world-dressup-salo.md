@@ -19,6 +19,6 @@ Are you ready for the good life?! Find out what it’s like to be made of money!
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Dress Up, Family, Fashion, Fun, Game, Girl, Girls, HTML, HTML5, Hypercasual, Makeover, Mobile, New, WebGL

@@ -19,6 +19,6 @@ Girls Nail Salon is an interesting simulation game, we can be free for nail art 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Fashion, Fun, Girl, Halloween, Holiday, HTML5, Kids, Makeover, Mobile, Nail, Simulation

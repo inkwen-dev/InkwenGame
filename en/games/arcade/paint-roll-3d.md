@@ -19,6 +19,6 @@ Paint Roll 3d new Paint roller Game with 100 + color Levels Have Fun
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Casual, Color, Coloring, Draw, Drawing, Game, Hypercasual, Online, PacMan, Side Scrolling

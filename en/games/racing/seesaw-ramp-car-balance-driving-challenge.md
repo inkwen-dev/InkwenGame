@@ -19,6 +19,6 @@ HERE! we came with a new idea for adventure game players, it's a seesaw car bala
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Balance, Car, Driving, HTML5, Skill

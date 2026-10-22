@@ -21,4 +21,4 @@ Let's train your mind with Super Mario Card Match game. You've probably played t
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Mario, Matching, Super
+- Tags: Card, Mario, Matching, Super

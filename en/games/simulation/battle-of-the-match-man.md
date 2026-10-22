@@ -21,4 +21,4 @@ You can command the army of the Stick Kingdom and manage their resources and wor
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Fighting, mouse, Simulation, Street Fighting, War
+- Tags: Fighting, Mouse, Simulation, Street Fighting, War

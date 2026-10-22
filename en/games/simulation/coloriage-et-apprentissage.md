@@ -19,6 +19,6 @@ C'est un jeu divertissant qui vous permet de dessiner et de colorier sous une fo
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Collection, Color, Coloring

@@ -19,6 +19,6 @@ After the huge success of Fish Farm, you can now experience even more: most real
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Animal, Best, Boys, Educational, Family, farm, Fish, fishing, Games, Girls, Kids, Online, Simulator
+- Tags: Animal, Best, Boys, Educational, Family, Farm, Fish, Fishing, Games, Girls, Kids, Online, Simulator

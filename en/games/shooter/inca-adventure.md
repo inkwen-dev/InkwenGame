@@ -19,6 +19,6 @@ Archeologist girl who finds a secret map about Incas, shares this information wi
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, Action, Brain, Collecting, Fun, Funny, Girl, Maze, Platform, Puzzle, Shoot 'Em Up

@@ -21,4 +21,4 @@ Space Blast is a 2D game full of action arcade game where your piloting skills a
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Arcade, Mobile, mouse, popular, Retro, Space
+- Tags: Arcade, Mobile, Mouse, popular, Retro, Space

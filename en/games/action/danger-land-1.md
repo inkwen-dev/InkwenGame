@@ -19,6 +19,6 @@ Danger Land a HTML5 arcade Game. Avoid the fall obstacle to earn score and dont 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, Android, Casual, HTML5, Hypercasual

@@ -19,6 +19,6 @@ Minecraft Parkour Block is a fun and exciting game of dexterity that will put yo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Block, Jumping, Minecraft

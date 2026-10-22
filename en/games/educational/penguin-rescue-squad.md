@@ -19,6 +19,6 @@ Oops! The poor penguin is trapped, come to Penguin Rescue Squad and set up a res
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boy, Boys, Brain, Educational, Fun, Girl, Girls, H5, HTML5, Kid, Kids, Penguin, Puzzle

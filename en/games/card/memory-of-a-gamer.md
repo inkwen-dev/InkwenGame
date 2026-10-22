@@ -19,6 +19,6 @@ Are you a gamer? How good is your memory? Play and challenge yourself to see if 
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Memory, Mobile, Puzzle
+- Tags: Card, Memory, Mobile, Puzzle

@@ -19,6 +19,6 @@ The summer vacation has finally arrived. Our lovely Tyler kid decided to spend t
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Baby, Cleaning, Educational, Fun, Girl, Girls, H5, HTML5, Room

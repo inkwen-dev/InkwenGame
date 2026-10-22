@@ -19,6 +19,6 @@ In the game 2048: The Kings Return, players control the characters lateral movem
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2048, HTML5, Mentolatux, Mobile, Shooting, unity, WebGL

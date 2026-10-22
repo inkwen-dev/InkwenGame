@@ -19,6 +19,6 @@ Xmas gifts chain is a simple chain connect game in which you need to collect all
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Board, Christmas, Collecting, HTML5, Mobile, Puzzle, Winter

@@ -19,6 +19,6 @@ Archer vs Zombie Among As Archer vs Zombie Among As — an amazing game in the s
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Best, Boys, Casual, Girls, Mobile, Tower Defense, Zombie

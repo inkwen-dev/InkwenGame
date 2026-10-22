@@ -19,6 +19,6 @@ He's a movie star. He is very handsome and charismatic. He shoots action movies.
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boy, Cartoon, Celebrity, Decorate, Dress Up, Fashion, Fun, Game, Games, Girls, HTML5

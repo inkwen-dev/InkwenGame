@@ -19,6 +19,6 @@ Sampath and Nithya were trapped by the witch. The witch is gaining powers by har
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Alien, Clicker, Escape, Fantasy, Halloween, Puzzle

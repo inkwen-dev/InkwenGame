@@ -21,4 +21,4 @@ WASD 方向键 控制方向 空格键 手刹 左Shift 漂移加速 相机视角
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 3D 游戏, 汽车, 漂移游戏, 驾驶, 免费网站游戏, onlinegames io
+- 标签: 3D 游戏, 汽车, 漂移驾驶, 驾驶, 免费网站游戏, onlinegames io

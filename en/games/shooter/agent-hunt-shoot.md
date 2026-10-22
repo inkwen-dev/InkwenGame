@@ -21,4 +21,4 @@ You play the role of an elite agent and are locked in a nervous battle. Enter th
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, hunting, weapons
+- Tags: Battle, Hunting, weapons

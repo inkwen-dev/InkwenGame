@@ -19,6 +19,6 @@ Clash with other Jets if it is necessary, but the best way is to shoot other pla
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Plane, Puzzle, Shooting

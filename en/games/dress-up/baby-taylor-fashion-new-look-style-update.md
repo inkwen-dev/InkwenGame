@@ -19,6 +19,6 @@ Now is a new year, Taylor's mother decided to take Taylor to the mall and give t
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Dress Up, Fun, Girl, Girls, H5, Hair, HTML5, Kid, Kids, Makeover

@@ -19,6 +19,6 @@ Everyone wants to reach Heaven one day , but its our life decisions which decide
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Arcade, Avoid, Obstacle, Puzzle, Unity3D

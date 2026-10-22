@@ -19,6 +19,6 @@ Fury Bike Rider is a bike racing and simulator game with cool graphics, realisti
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Bike, drift, drifting, Driving, Motorcycle, Racing, Simulation, Stunts

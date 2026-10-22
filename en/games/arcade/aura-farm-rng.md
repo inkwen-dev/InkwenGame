@@ -33,4 +33,4 @@ Which aura will you find next?
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: 3D, Action, Adventure, Arcade, rpg
+- Tags: 3D, Action, Adventure, Arcade, RPG

@@ -21,4 +21,4 @@ The glass is sad because it's empty. Your job is to draw a line to make the glas
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: endless, Escape, Ever After High, Fairy, Fish, fishing, Rescue, WebGL
+- Tags: endless, Escape, Ever After High, Fairy, Fish, Fishing, Rescue, WebGL

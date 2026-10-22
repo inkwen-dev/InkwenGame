@@ -21,4 +21,4 @@ Farm Puzzles Jigsaw is a free online game from genre of puzzle and jigsaw really
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Casual, Cat, Educational, Family, farm, Game, Games, HTML, HTML5, Jigsaw, Kid, Kids, Mobile, Puzzle
+- Tags: Animal, Casual, Cat, Educational, Family, Farm, Game, Games, HTML, HTML5, Jigsaw, Kid, Kids, Mobile, Puzzle

@@ -19,6 +19,6 @@ Create imaginative makeup on the eyes! In Eye Art, you are the makeup artist, ju
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Barbie, Cute, Drawing, Dress Up, Girls, HTML5, Makeover

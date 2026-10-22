@@ -19,6 +19,6 @@ Surviving in the Woods is a brand new survival game where your mission is to sur
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Craft, Crafting, Minecraft, Simulation, Simulator

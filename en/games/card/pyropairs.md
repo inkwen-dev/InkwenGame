@@ -19,6 +19,6 @@ PyroPairs is a fun and challenging card-matching game based on memory with varyi
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Clicker, Memory, Puzzle
+- Tags: Card, Clicker, Memory, Puzzle

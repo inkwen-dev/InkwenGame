@@ -19,6 +19,6 @@ Best game Batman Beyond Coloring Book for Lover Batman Beyond Coloring Book Batm
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Batman, Best, Color, Coloring, Draw, Drawing, New, Puzzle

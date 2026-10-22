@@ -19,6 +19,6 @@ Zumbia Deluxe game is a brand new and amazing puzzle classic game! Your target i
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, Arcade, Bubble, Bubble Shooter, Shoot, Shooting, Zuma

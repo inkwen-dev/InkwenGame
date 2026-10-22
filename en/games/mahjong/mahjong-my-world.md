@@ -21,4 +21,4 @@ Embark on a world tour of the largest and most famous cities on the planet. The 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Best, card, Casual, Fun, Kids, Mahjong, Mobile, Relaxation, Skill
+- Tags: Best, Card, Casual, Fun, Kids, Mahjong, Mobile, Relaxation, Skill

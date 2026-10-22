@@ -19,6 +19,6 @@ Mouse Escape – This is a game in which you need to draw a route for a little m
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Draw, Drawing, Escape, Fun, Logic, Logical, Mobile, Skill, Skills

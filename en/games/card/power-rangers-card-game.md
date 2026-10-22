@@ -19,6 +19,6 @@ Take turns throwing power rangers cards. When you see the same card, press the b
 - Category: <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Card</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: card, Cartoon, Classic, Click, Fun, Game, HTML5, Matching, Solitaire
+- Tags: Card, Cartoon, Classic, Click, Fun, Game, HTML5, Matching, Solitaire

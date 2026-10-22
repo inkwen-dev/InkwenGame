@@ -21,4 +21,4 @@ Get ready for a fast-paced memory challenge with a Sprunki twist! In Sprunki Car
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Brain, card, HTML, mapi games, Matching, Memory, Sprunki
+- Tags: Brain, Card, HTML, mapi games, Matching, Memory, Sprunki

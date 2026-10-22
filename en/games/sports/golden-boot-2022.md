@@ -19,6 +19,6 @@ Win the golden boot as the top scorer and earn other trophies in the process. Ca
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Soccer, Sports

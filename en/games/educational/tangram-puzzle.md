@@ -19,6 +19,6 @@ Try Tangram Puzzle game to develop fun intelligence. In this game you have to pl
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Casual, Educational, Hypercasual, Kids, Matching, Mind, Mobile, Puzzle, Unity3D

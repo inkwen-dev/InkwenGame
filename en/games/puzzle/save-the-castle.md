@@ -17,4 +17,4 @@ In Save the Castle, protect your kingdom in a thrilling match-3 RPG adventure. U
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

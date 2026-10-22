@@ -19,6 +19,6 @@ Do you want to climb the ladder? The ladder here is unusual! He has infinite hei
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Boy, Casual, Game, Highscore, Kid, Point And Click, Puzzle, Skill

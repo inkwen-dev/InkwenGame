@@ -19,6 +19,6 @@ This fun educational game is the perfect tool to engage your little one in a wor
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Casual, Educational, Family, free html5 games for your website, HTML, iPhone, Kid, Kids, mapi games

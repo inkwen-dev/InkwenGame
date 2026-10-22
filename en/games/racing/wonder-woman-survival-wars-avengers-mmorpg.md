@@ -19,6 +19,6 @@ Wonder Woman Runner Game Adventure - Endless run Online Let join and fight, choo
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Adventure, Anime, Best, Boys, Cartoon, Cartoon Network, endless, Games, Online, run, running, Simulation, Simulator

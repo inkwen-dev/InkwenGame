@@ -19,6 +19,6 @@ Chop like a chef, fast like a ninja, it's an amazing and addictive satisfying re
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Avoid, Food, Fruit, HTML5, Hypercasual, Kid, Mobile, Obstacle, Online, Platform, Relaxation

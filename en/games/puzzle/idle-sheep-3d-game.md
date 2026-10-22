@@ -21,4 +21,4 @@ Idle Sheep 3D is a business casual game. By feeding sheep and selling wool aroun
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Cute, farm, Hypercasual, Kids, Puzzle, Shopping
+- Tags: Animal, Cute, Farm, Hypercasual, Kids, Puzzle, Shopping

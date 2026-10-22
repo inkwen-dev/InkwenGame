@@ -19,6 +19,6 @@ You are the ultimate stickman soldier and your mission is to kill all the bad bo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Battle, Kill, Stickman, War, weapons

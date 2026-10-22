@@ -19,6 +19,6 @@ Ninja is a challenging game, contains 3 boss and one final boss, have fun and fi
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Defense, Games, Ninja, Online, Pixel, Puzzle

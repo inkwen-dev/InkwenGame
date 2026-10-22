@@ -19,6 +19,6 @@ Do you want to ride a pony in a race with obstacles ? Well now you can make it w
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Casual, Family, Horse, jump, Obstacle, Race

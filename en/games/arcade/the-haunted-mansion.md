@@ -19,6 +19,6 @@ Inside The Haunted Mansion, a young man is strongly regretting the fact that he 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Board, Casual, Family, Ghost, House, Logic, Puzzle, Zombie

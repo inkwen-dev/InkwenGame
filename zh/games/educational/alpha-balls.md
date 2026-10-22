@@ -21,4 +21,4 @@ Alpha Balls 是一款益智解谜游戏，能够锻炼你的思维能力和词�
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 大脑, 测验, 拼字游戏, unity, 字
+- 标签: 大脑, 问答, 拼字游戏, unity, 字

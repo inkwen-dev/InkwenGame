@@ -19,6 +19,6 @@ Enter the neon danger zone in Laser Dodge Arena! Your goal is simple: survive as
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Avoid, Casual, endless, Skills, survival

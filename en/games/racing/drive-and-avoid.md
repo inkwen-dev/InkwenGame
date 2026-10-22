@@ -19,6 +19,6 @@ As you drive your way level by level and escape the evil orb from destroying you
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Avoid, Ball, Bullet, Car, dash, Enemies, Game, HTML, Level, Levels, Obstacle, Skills

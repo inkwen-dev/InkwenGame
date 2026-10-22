@@ -19,6 +19,6 @@ Princess Cinderella bought a new villa recently. It's a luxury house but no furn
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Decorate, Decoration, Design, Fun, Girl, Girls, H5, House, HTML5, Hypercasual, Kid, Kids

@@ -19,6 +19,6 @@ Fly high and dodge obstacles in this addictive dragon adventure. Are you ready t
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, fly, Fun, Funny, Game, Games, jump, Jumping, Mobile, Obstacle, Online

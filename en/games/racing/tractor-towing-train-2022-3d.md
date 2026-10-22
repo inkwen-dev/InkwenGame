@@ -21,4 +21,4 @@ Tractor Towing Train 2022 3D Game is new arrival in Tractor Towing Train 2022 3D
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 3D, Android, Car, Driving, Kids, train
+- Tags: 1 Player, 3D, Android, Car, Driving, Kids, Train

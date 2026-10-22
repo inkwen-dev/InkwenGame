@@ -19,6 +19,6 @@ A super race is beginning! Get ready to take your place within this awesome game
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Android, Best, Car, Cars, Driving, HTML5, Kids, Race, Racing, Simulation, Simulator, Skill, Sport

@@ -19,6 +19,6 @@ Skibidi Toilet Attack game is a horror game with a character of Skibidi Toilet, 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Action, Funny, Shooter, Skibidi Toilet

@@ -19,6 +19,6 @@ In this game, you will become a plumber. The main mission is to connect the pipe
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Pipe, Strategy

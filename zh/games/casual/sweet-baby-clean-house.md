@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 鸡, 清洁, 孩子们, 房间
+- 标签: 小鸡, 清洁, 孩子们, 房间

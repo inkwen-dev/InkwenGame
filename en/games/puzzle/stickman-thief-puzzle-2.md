@@ -19,6 +19,6 @@ Revamp the batter: Stickman Thief Puzzle 2 offers an entertaining puzzle experie
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Android, HTML5, iPad, iPhone, Kids, Mentolatux, Mobile, Puzzle, Stickman, Thief

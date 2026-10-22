@@ -19,6 +19,6 @@ Real Car Parking : Parking Master has realistic driving experience which will ta
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 8 Ball Pool, Arcade, Army, Bike, Cake, Candy, Car, Cars, Ever After High, Family, Parking, Spiderman, Stickman, Supercars, Taxi, Truck, Vampire

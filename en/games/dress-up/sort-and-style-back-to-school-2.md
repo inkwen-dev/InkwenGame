@@ -19,6 +19,6 @@ Step into the world of Sort And Style: Back To School, a fun mix of sorting and 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Cleaning, Dress Up, Fashion, Girl, html5 games, School, sorting

@@ -21,4 +21,4 @@ An evil wizard took our pet, try to reach the end to retrieve it. With the exper
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Adventure, Arcade, Casual, Click, Dragon, Dungeon, Magic, rpg, running, Skills
+- Tags: 1 Player, 2D, Adventure, Arcade, Casual, Click, Dragon, Dungeon, Magic, RPG, running, Skills

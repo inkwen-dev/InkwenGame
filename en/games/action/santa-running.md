@@ -19,6 +19,6 @@ Christmas is coming, Our cute Santa decides to prepare some gifts for you. Can y
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Fun, HTML5, Kids, Mobile, Puzzle, run

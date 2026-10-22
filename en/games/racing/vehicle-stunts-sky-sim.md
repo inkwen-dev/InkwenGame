@@ -19,6 +19,6 @@ Vehicle Stunts Sky Sim takes action to new heights&mdash;literally! Drive powerf
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Car, Driving, Mentolatux, Simulator, Stunts, Supercars, unity, vehicle, WebGL

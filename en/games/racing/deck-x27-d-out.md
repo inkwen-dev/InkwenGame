@@ -19,6 +19,6 @@ The Ninja Turtles are taking a break from battling their enemies to skateboard t
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Best, H5, Hot, HTML5, New, Ninja, Ninjago, Race, Racing

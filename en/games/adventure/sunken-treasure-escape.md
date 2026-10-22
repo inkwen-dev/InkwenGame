@@ -21,4 +21,4 @@ You explore a sunken ship deep under the sea surface. The only way to escape is 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, mouse, Point And Click
+- Tags: Escape, Mouse, Point And Click

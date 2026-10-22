@@ -19,6 +19,6 @@ It’s time to go fishing with Let’s Fish, the best fishing simulator and free
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Adventure, Alien, Android, Animal, Anime, Arcade, Arena, Arkanoid, Army, Barbie, Batman, Boy, Boys, Bubble, Bubble Shooter, Candy, Cartoon, Clans, Clash, Classic, Cleaning, Click, Clicker, farm, Fish, fishing, Girl, Girls, Ladybug, Miraculous Ladybug, Motorcycle, Road
+- Tags: Adventure, Alien, Android, Animal, Anime, Arcade, Arena, Arkanoid, Army, Barbie, Batman, Boy, Boys, Bubble, Bubble Shooter, Candy, Cartoon, Clans, Clash, Classic, Cleaning, Click, Clicker, Farm, Fish, Fishing, Girl, Girls, Ladybug, Miraculous Ladybug, Motorcycle, Road

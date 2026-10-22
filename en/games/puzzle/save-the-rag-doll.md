@@ -19,6 +19,6 @@ Control the ragdoll and save this doll from bombs, blades, spikes that are on th
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Baby, HTML5, Hypercasual, Kids, Puzzle

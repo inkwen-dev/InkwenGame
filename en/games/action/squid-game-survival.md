@@ -21,4 +21,4 @@ If you’re someone who loves to watch movies and shows, then you must have watc
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D Games, Adventure, Anime, Arcade, Battle, Escape, Hypercasual, movie
+- Tags: 3D Games, Adventure, Anime, Arcade, Battle, Escape, Hypercasual, Movie

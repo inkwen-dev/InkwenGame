@@ -19,6 +19,6 @@ Get a new experience in 3d blocks building! Build with Cubes 2 is a voxel minecr
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Block, Bricks, Creation, Minecraft, Physics, Sandbox, WebGL, World

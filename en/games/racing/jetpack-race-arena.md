@@ -19,6 +19,6 @@ Blast off with Jetpack Race ArenaRush! Fly bullet-powered jetpacks, ride crazy v
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2026 games, Action, Arcade, Arena, endless, fly, free games for your website, Game, jetpack, Obstacle, run, Skill, Stickman

@@ -19,6 +19,6 @@ Luminous Strike is a fast-paced puzzle fighter in the vein of Super Puzzle Fight
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Bubble Shooter, Puzzle

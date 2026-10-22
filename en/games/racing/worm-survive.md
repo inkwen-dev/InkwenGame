@@ -19,6 +19,6 @@ Worm Survive : Embark on an epic journey of dodging feet and collecting the yell
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: worm, Worms
+- Tags: Worm, Worms

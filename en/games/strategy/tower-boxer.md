@@ -19,6 +19,6 @@ Punch the skyscraper to chop down as much of it Switch sides to avoid balconies 
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Boxing, city, HTML5, Punch, Tower Defense

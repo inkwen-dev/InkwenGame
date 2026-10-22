@@ -21,4 +21,4 @@ The goal of the game is only for players to build a farm that is completely thei
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io Games, 3D, Car, Cars, farm, HTML, HTML5, Multiplayer
+- Tags: .io Games, 3D, Car, Cars, Farm, HTML, HTML5, Multiplayer

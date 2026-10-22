@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en, zh
 - 开发者: GameMonetize
-- 标签: 街机, 匹配3, 消除3, 匹配, 拼图
+- 标签: 街机, 消除3, Match3, 匹配, 益智

@@ -19,6 +19,6 @@ Is the first-person viewpoint of so many racing games becoming old for you? Car 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, 3D Games, Action, Android, Car, Crazy, HTML, HTML5, Mobile, Racing, Supercars, Traffic, Unity3D, WebGL

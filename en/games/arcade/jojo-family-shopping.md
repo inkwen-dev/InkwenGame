@@ -19,6 +19,6 @@ Cute Family Shopping is a very fun shopping game. Abundant merchandise departmen
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Baby, Cleaning, Cute, Family, Kid, Mobile, Shopping

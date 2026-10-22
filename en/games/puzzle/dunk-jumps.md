@@ -19,6 +19,6 @@ Dunk Jumps is another ball game where you need jump with the ball on the wall fu
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Dungeon, jump, Jumping, Kids, Puzzle

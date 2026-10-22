@@ -19,6 +19,6 @@ Blocky Shooting Arena 3D Pixel Combat multiplayer free to play against much enem
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Blood, Shooter, Unity3D, WebGL

@@ -21,4 +21,4 @@ Picnic Penguin is a puzzle game created by Neutronized. Help the penguin to push
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Cook, Cooking, Creation, Food, Ice
+- Tags: Burger, Cook, Cooking, Creation, Food, Ice

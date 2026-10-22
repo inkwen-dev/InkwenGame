@@ -19,6 +19,6 @@ The Lost Planet TD V2.0, new game data, fixed bugs,add more gem. Once a dob5 spa
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Defense, Strategy, Tower Defense

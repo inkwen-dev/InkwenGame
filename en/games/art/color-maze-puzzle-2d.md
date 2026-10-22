@@ -19,6 +19,6 @@ Color Maze Puzzle 2D is a maze game with 80 challenging levels. Swipe to move th
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Ball, Brain, Coloring, HTML5, Kids, Logic, Logical, Maze, Mobile, New, Puzzle

@@ -19,6 +19,6 @@ Zombie Parade Defense 4 continues with new defense. Defense this time is more di
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player, 2 Player Games, 2D, Battle, Castle, Shooting, Tower Defense, War, Zombie

@@ -19,6 +19,6 @@ Colored Wall is a puzzle game with a ball. Your job is to control the ball to pa
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Ball, Color, HTML5, Kids, Puzzle

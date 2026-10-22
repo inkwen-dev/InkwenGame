@@ -19,6 +19,6 @@ Fall Race 3D Fall Race 3D is an online Kids game, it's playable on all smartphon
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Adventure, Arcade, Avoid, Boy, Girl, Highscore, run, running, Skill

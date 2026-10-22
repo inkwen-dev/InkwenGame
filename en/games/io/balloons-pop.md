@@ -19,6 +19,6 @@ Pop as many colorful balloons! Balloons Pop is a fun and addictive arcade game t
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, Click, Online

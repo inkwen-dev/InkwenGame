@@ -19,6 +19,6 @@ Looking for a fun and casual game that&rsquo;s satisfying and addictive? Tile St
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Click, Simulation, vehicle

@@ -19,6 +19,6 @@ Here is a kart racing game with 3D cartoon game art animation. You are able to u
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Arcade, Car, Highscore, HTML5, Mobile, Racing, Stunts

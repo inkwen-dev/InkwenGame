@@ -19,6 +19,6 @@ Granny Jigsaw Puzzle is a fun horror puzzle game. You can select one of the nine
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Best, Fun, Halloween, horror, HTML5, Jigsaw, Mobile, Skills
+- Tags: Best, Fun, Halloween, Horror, HTML5, Jigsaw, Mobile, Skills

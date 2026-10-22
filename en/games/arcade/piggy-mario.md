@@ -19,6 +19,6 @@ Do you love adventure games? Welcome to Piggy Mario! You are the fat piggy and s
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Best, Hot, Mario

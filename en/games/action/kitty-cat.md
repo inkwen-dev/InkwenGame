@@ -19,6 +19,6 @@ Kitty Cat is an exciting platformer where you join a small and brave kitty on it
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Animal, Arcade, Cat, free html5 games for your website, HTML, HTML5, html5 games, html5 games for your site, Platform

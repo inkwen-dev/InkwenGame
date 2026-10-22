@@ -17,4 +17,4 @@ Brace yourself for a hilarious and spooky ride in Chicken Jockey at Tung Tung Sa
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ Makeup Kit Color Mixing is a very cute art game. In this game, you can choose a 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Color, Coloring, Creation, Cute, Design, Draw, Drawing, Fun, Girls, HTML5, Kids, Mobile

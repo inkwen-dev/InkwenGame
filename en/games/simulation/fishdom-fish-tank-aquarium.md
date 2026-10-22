@@ -17,4 +17,4 @@ Immerse yourself in Fishdom: Fish Tank Aquarium, where you solve vibrant match-3
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

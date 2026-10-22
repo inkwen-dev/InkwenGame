@@ -17,4 +17,4 @@ Embark on a mystical journey in Savior Wizard, where strategic spellcasting and 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: Match 3
+- Tags: Match-3

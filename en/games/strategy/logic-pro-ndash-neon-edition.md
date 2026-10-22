@@ -19,6 +19,6 @@ Logic Pro &ndash; Neon Edition is an addictive online puzzle game that challenge
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Brain, Casual, Logic, Logical, Mind, Puzzle, Skill, Strategy

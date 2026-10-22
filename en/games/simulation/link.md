@@ -21,4 +21,4 @@ are you ready to play best classic game for kid and family play now with your fr
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Android, Animal, Anime, Brain, Casual, Classic, Collection, Color, Coloring, Fighting, Fish, fishing, Fun, Funny, Hypercasual, Kid, Kids, Math, Mind, Mobile, Puzzle
+- Tags: Android, Animal, Anime, Brain, Casual, Classic, Collection, Color, Coloring, Fighting, Fish, Fishing, Fun, Funny, Hypercasual, Kid, Kids, Math, Mind, Mobile, Puzzle

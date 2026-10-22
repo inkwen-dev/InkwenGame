@@ -31,4 +31,4 @@ Features of the game:
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: Army, Boys, cool-games, management, Multiplayer, pve, Strategy, survival, War
+- Tags: Army, Boys, cool-games, Management, Multiplayer, pve, Strategy, survival, War

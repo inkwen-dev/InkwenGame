@@ -19,6 +19,6 @@ Slicey Merge is a fun fruit merge game where you drop and match the same fruits 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fruits, html5 games, Matching, Mobile, Simulation, Skill

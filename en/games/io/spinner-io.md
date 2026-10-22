@@ -21,4 +21,4 @@ Spinner.io is an exciting io game. You will battle on a platform with other onli
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: .io, .io Games, 3D, Arena, Avoid, Battle, Collecting, H5, HTML, HTML5, Multiplayer, Online, pvp, Skill
+- Tags: .io, .io Games, 3D, Arena, Avoid, Battle, Collecting, H5, HTML, HTML5, Multiplayer, Online, PvP, Skill

@@ -19,6 +19,6 @@ Simplified classic Mahjong game with Fruits theme. You can eliminate pair of sim
 - Category: <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Mahjong</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Block, Fruits, HTML5, Mahjong, Matching, Mobile, Puzzle

@@ -19,6 +19,6 @@ Now, this red light folk game is available on smartphones and you can play it an
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Adventure, Army, Blood, Fight, Simulation, Skill

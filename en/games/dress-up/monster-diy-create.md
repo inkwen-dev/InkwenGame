@@ -19,6 +19,6 @@ Create your very own monstrous masterpiece with Choose Your Monster Face! Dive i
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, Dress Up, HTML5, iPad, iPhone, Mentolatux, Mobile, Monster

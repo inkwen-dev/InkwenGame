@@ -37,4 +37,4 @@ Top 3 monthly leaderboard holders receives permanent exclusive cosmetics via the
 - Plays on: desktop
 - Game language: en
 - Developer: Playgama
-- Tags: Action, rpg, survival
+- Tags: Action, RPG, survival

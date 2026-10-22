@@ -19,6 +19,6 @@ A tank is an armoured fighting vehicle designed for front-line combat. Tanks hav
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Platform, Racing, Tank, Tanks, train
+- Tags: Platform, Racing, Tank, Tanks, Train

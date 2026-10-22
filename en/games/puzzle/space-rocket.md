@@ -19,6 +19,6 @@ Space Rocket is game where you need to go from one planet to another planet. Aft
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Planet, Puzzle, Rocket, Space, Spaceship

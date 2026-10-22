@@ -19,6 +19,6 @@ Play ArchHero: Viking story for free with its fun and smooth gameplay! Kill all 
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Best, Casual, Defense, Hot, Hypercasual, Shooter, Shooting, Strategy, War, WebGL

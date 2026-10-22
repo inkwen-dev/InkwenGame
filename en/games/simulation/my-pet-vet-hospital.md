@@ -19,6 +19,6 @@ Every pet requires fair treatment. Can you help them heal their wounds? All type
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Cartoon, Cute, Doctor, Educational, Girls, HTML5, Kids, Mobile, Simulation, Surgery

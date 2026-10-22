@@ -19,6 +19,6 @@ Jump Ninja is a fast-paced arcade game where you switch between the top and bott
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Arcade, Hypercasual, Ninja

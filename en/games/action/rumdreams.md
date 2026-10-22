@@ -21,4 +21,4 @@ In RumDreams, you control a little green blob of goo that navigates a dangerous 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Action, Crazy, horror, Jumping, Platform
+- Tags: 2D, Action, Crazy, Horror, Jumping, Platform

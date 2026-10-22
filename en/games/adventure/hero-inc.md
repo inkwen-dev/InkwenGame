@@ -21,4 +21,4 @@ Step into a thrilling 3D adventure RPG! Control your hero, explore mysterious le
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 3D, Action, Adventure, rpg
+- Tags: 3D, Action, Adventure, RPG

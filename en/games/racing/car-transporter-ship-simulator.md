@@ -21,4 +21,4 @@ Have you ever dream to be a captain of a huge ferry transporting cargo? Deliver 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: boat, Car, Cars, drifting, Simulation, Simulator
+- Tags: Boat, Car, Cars, drifting, Simulation, Simulator

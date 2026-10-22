@@ -19,6 +19,6 @@ Step onto the course and become a disc golf master! In Disc Golf Game Master, ai
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Best, Best Games, Casual, Fun, Hypercasual, Sport

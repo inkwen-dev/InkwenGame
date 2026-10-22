@@ -19,6 +19,6 @@ Draw Defence is a simple tower defense game. There are enemies that attack your 
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Brain, Defense, Drawing, H5, HTML, HTML5, Kids, Online, Puzzle, Strategy, Sword, War

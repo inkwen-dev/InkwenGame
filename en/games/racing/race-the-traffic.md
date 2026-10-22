@@ -19,6 +19,6 @@ It must be very exciting and dangerous to weave through the traffic. Race The Tr
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Adventure, Cars, drift, Driving, Fun, Race, Racing, Supercars, Traffic

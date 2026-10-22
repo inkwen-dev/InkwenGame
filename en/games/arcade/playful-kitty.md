@@ -19,6 +19,6 @@ Playful Kitty is bored! Your task in this cute physics puzzle is to get the ball
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Action, Arcade, Hello Kitty, HTML5, jump, Jumping, Mobile

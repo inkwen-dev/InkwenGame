@@ -19,6 +19,6 @@ Pocket Jump – this is a great (flat style) arcade game with very beautiful gra
 - Category: <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Adventure</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, jump, Jumping, Kiz 10, kiz10

@@ -21,4 +21,4 @@ Ever wanted to be Mayor? Ever wanted to run a town, develop the land, and see a 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, Kids, management, Matching, Mobile
+- Tags: Casual, Kids, Management, Matching, Mobile

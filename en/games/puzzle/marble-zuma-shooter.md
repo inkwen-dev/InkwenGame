@@ -19,6 +19,6 @@ Marble Zumar is a thrilling marble shooter game that will keep you hooked for ho
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Bubble Shooter, Hypercasual, Shoot, Shooter, Zuma

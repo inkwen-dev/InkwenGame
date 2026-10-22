@@ -21,4 +21,4 @@ This is educational memory game. In this game you are asked to open all the card
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Animal, Board, card, Click, Clicker, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle
+- Tags: Animal, Board, Card, Click, Clicker, Fun, HTML5, Kids, Matching, Memory, Mobile, Puzzle

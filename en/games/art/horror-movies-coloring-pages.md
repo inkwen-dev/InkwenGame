@@ -17,4 +17,4 @@ Immerse yourself in the thrill of creativity with Horror Movies Coloring Pages. 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: horror
+- Tags: Horror

@@ -19,6 +19,6 @@ Get ready for spine-chilling action in Halloween Zombie Zone Clear! As darkness 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Halloween, Unity3D, WebGL, Zombie

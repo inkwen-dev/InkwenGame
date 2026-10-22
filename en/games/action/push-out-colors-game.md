@@ -19,6 +19,6 @@ Up to 4 players game. You must push others players out of the arena. Your dot sp
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fighting, Hypercasual, Multiplayer

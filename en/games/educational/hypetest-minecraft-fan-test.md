@@ -19,6 +19,6 @@ Prove that you are not a noob in the fan minecraft game. These are applications 
 - Category: <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Educational</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Boy, Boys, Craft, Game, Mine, Minecraft, Puzzle, Quiz

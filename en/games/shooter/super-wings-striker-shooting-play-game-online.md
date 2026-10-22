@@ -19,6 +19,6 @@ Treasure Hunting Version is online! Just keep exploring and the prize await will
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Air, Anime, Best, Cartoon, Cartoon Network, Fight, Fighting, Plane, Shoot, Shooter, Shooting, sky, Space, Spaceship, Super

@@ -19,6 +19,6 @@ StickMan Rush is an amazing fun platform surviving game. Run and jump in this aw
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: jump, kiz10, Stickman

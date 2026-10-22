@@ -19,6 +19,6 @@ Office girl Emma likes to dress very fancy and stylish. She wears her most elega
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Cartoon, Decorate, Dress Up, Fashion, Fun, Game, Girl, Girls, HTML5

@@ -19,6 +19,6 @@ Paint or Seek is a original hide and seek action game where you can paint your c
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: Action, Adventure, Color, Coloring, Creation, Draw, Drawing, Hidden, hunter, Multiplayer, Online, pvp, Sandbox, Shooting
+- Tags: Action, Adventure, Color, Coloring, Creation, Draw, Drawing, Hidden, hunter, Multiplayer, Online, PvP, Sandbox, Shooting

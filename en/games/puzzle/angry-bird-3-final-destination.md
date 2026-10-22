@@ -19,6 +19,6 @@ Welcome all Bubble Shooters to the most Addictive Bubble Blast Game! Just Match 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2 Player Games, 3D Games, Adventure, Animal, Anime, Arcade, Bounce, Boxing, Bubble Shooter, Coloring, Dragon Ball Z, Quiz, Subway Surfers

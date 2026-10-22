@@ -17,4 +17,4 @@ Challenge your strategic thinking with Simple Free Cell Solitaire. Skillfully ma
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

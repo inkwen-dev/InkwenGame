@@ -19,6 +19,6 @@ Play ramp car stunts on the impossible tracks of mega ramp games in car stunt ga
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, 3D Games, Adventure, Bike, Car, Cars, Parking, Race, Racing, Simulation, Simulator, Stunts, Supercars, Truck, Unity3D

@@ -19,6 +19,6 @@ Angry Cockroach is a bright 2D physics-destruction game where the kitchen fights
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Action, destroy, destruction, Physics, Skill

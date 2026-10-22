@@ -19,6 +19,6 @@ In the game "Toy Car", developed in 3D graphics, you can ride on a variety of ca
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Boy, HTML5, Racing, Simulation, WebGL

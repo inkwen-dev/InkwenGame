@@ -19,6 +19,6 @@ Let's jump into the most exciting and stunning idea of ramp car games. You have 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, Action, Arcade, Arena, Ben 10, Best, Car, Cars, Fun, HTML5, Race, Racing, Simulation, Simulator, Supercars, Unity3D

@@ -19,6 +19,6 @@ A stick fighter is stuck in the middle of a war zone and has to fight to stay al
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Battle, Boys, Fighting, HTML5, Physics, ragdoll, Stickman, survival, War

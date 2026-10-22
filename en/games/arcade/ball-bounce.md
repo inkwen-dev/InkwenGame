@@ -19,6 +19,6 @@ Ball Bounce is a casual game that is very fun and challenging. Your task is to g
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, Adventure, Arcade, Ball, HTML, html games for your website

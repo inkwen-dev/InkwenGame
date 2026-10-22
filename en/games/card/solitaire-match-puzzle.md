@@ -21,4 +21,4 @@ Hot pot, barbecue, custard tarts, pasta whatever you love is here. Solitaire Mat
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: card, Puzzle
+- Tags: Card, Puzzle

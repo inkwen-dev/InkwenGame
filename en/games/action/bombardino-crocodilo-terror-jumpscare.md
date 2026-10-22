@@ -21,4 +21,4 @@ Welcome to Bombardino Crocodilo: Terror Jumpscare, a spine-chilling horror game 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Battle, horror, Minecraft
+- Tags: Battle, Horror, Minecraft

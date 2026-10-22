@@ -19,6 +19,6 @@ Geometry Dash Skibidi Toilet is a captivating rhythm-based platformer. Gamers ma
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2D, Android, dash, Geometry, HTML5, iPad, Mentolatux, Mobile, Skibidi, Skibidi Toilet, Skill, Unity3D, WebGL

@@ -19,6 +19,6 @@ The objective of Words Geems is to make as many 3 - 8 letter words as you can be
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Family, Letters, Logic, Logical, Puzzle, Word

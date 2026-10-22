@@ -19,6 +19,6 @@ You have to be a parking master to drive a bus among obstacles and reach the par
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D Games, bus, Parking, Unity3D, WebGL

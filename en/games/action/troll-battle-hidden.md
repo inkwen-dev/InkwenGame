@@ -19,6 +19,6 @@ Troll Battle Hidden is a free online skill and hidden object game. Find out the 
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Fun, Hidden, HTML5, Kids, Mobile, Puzzle

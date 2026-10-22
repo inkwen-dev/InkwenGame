@@ -19,6 +19,6 @@ Click on groups of two or more candies to destroy them. You need to collect cert
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Candy, Girls, Logic, Match 3, Puzzle

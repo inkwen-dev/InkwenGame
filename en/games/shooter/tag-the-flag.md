@@ -19,6 +19,6 @@ Tag the Flag is a non-violent action shooter game. Proudly play as the Blue Sold
 - Category: <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Shooter</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Arcade, Shooter

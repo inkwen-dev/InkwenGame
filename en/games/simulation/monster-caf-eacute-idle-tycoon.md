@@ -21,4 +21,4 @@ Run the cosiest caf&eacute; at the edge of the haunted woods! Slimes, ghosts, va
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Casual, Clicker, Cooking, Cute, Halloween, idle, management, Monster, Restaurant, Simulation
+- Tags: Casual, Clicker, Cooking, Cute, Halloween, idle, Management, Monster, Restaurant, Simulation

@@ -19,6 +19,6 @@ Get ready to embark on a vibrant journey with World Flags: Color Puzzle, the ult
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Color, Coloring, Hypercasual, paint, Puzzle

@@ -19,6 +19,6 @@ Farming Simulation Game lets you experience the life of a modern farmer. Drive p
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, Action, Adventure, Family, farm
+- Tags: 2026 games, Action, Adventure, Family, Farm

@@ -21,4 +21,4 @@ That’s right, the internationally handsome - I mean, famous - Chef Alex chose 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: burger, Cake, Candy, Cook, Cooking, Fish, Food, Games, Restaurant, Simulation, Word
+- Tags: Burger, Cake, Candy, Cook, Cooking, Fish, Food, Games, Restaurant, Simulation, Word

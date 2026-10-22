@@ -19,6 +19,6 @@ Panda Jungle Run is a fast-paced, fun, and colorful endless runner where you con
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, Ai Games, Animal, Cartoon, endless, Panda, Penguin, running

@@ -21,4 +21,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Clicker, 闲置的, 管理, 移动设备, 老鼠, Stickman
+- 标签: 点击器, 闲暇, 管理, 手机, 鼠标, 棍子人

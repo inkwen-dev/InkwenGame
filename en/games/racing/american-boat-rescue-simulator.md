@@ -21,4 +21,4 @@ American Boat Rescue Simulator is a simulator game where you need to rescue peop
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, Action, boat, Collecting, Driving, Rescue, Simulator, Unity3D
+- Tags: 1 Player, Action, Boat, Collecting, Driving, Rescue, Simulator, Unity3D

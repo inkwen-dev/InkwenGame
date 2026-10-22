@@ -19,6 +19,6 @@ Rotate the triangle, to match the color of the line. How high can you score? Fox
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Kid, Kids, Matching, Puzzle

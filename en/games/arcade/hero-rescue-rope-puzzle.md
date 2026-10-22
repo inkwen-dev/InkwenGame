@@ -19,6 +19,6 @@ Hero Rescue: Rope Puzzle - a free rope and roll game that gives you unique and e
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Boys, Fun, Games, Puzzle, Spiderman, Spongebob, Super, Superhero

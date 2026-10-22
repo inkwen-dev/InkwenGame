@@ -19,6 +19,6 @@ You lost in the woods and trying to get back home! You are just a regular dude a
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Adventure, Arcade, Block, jump, Jumping, Minecraft, Pixel, Platform, run, running

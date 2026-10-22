@@ -26,4 +26,4 @@ Boost the prestige of your supermarket by improving the quality of the products 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: Playgama
-- Tags: management, Shopping, Simulation, tycoon
+- Tags: Management, Shopping, Simulation, tycoon

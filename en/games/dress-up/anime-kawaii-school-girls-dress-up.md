@@ -19,6 +19,6 @@ Modern street Japanese fashion coming to you with this great colourful animated 
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Anime, Dress Up, Girl, Girls, HTML, HTML5, Kids, Mobile, School

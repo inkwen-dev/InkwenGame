@@ -19,6 +19,6 @@ This game is a Christmas-themed painting, drawing, and coloring tool for kids. C
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Color, Coloring, Draw, Drawing, Educational, mapi games, Santa

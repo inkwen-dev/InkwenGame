@@ -21,4 +21,4 @@ Challenge your logical thinking ability with the 2048 card merge game. Can you p
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Action, amazing, card
+- Tags: 1 Player, 2D, Action, amazing, Card

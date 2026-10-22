@@ -19,6 +19,6 @@ Minecraft Cars Hidden Keys is a wonderful online game with hidden objects. Find 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Craft, Fun, Hidden, HTML5, Minecraft, Mobile, Skill

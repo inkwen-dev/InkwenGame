@@ -21,4 +21,4 @@ Farm Tractor Simulator: Farming Game lets you take control of a tractor and comp
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 1 Player, 2026 games, 3D, 3D Games, Adventure, farm, Truck
+- Tags: 1 Player, 2026 games, 3D, 3D Games, Adventure, Farm, Truck

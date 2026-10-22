@@ -19,6 +19,6 @@ Time to create your Scooby Doo cartoon scene. Create new adventures for Scooby d
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Animal, Boys, Cartoon, Creation, Cute, Decorate, Fun, Funny, Girls, HTML5

@@ -21,4 +21,4 @@ CropLink game is a match-3 game in farm setting. Farm produces (vegetables) have
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: farm, Food, Match 3, Puzzle
+- Tags: Farm, Food, Match 3, Puzzle

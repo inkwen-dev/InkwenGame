@@ -19,6 +19,6 @@ Help the little pets to sling and bounce to the top but watch out the obstacles 
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, Funny, Game, Games, HTML, HTML5, jump, Jumping, Kid, Kids, tomb

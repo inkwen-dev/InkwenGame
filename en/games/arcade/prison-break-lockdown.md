@@ -21,4 +21,4 @@ You have been sentenced to death for murder. However, only you know you didn't c
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: prison
+- Tags: Prison

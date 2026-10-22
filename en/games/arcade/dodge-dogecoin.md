@@ -19,6 +19,6 @@ TOUCH OR CLICK AND CHANGE THE LANE TO DODGE WALLS/BOXES.ROUND LAPS AS MANY AS YO
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Arcade, Best, Boys, Casual, Girls, Hot, HTML5, Hypercasual, Kids, Online, Puzzle

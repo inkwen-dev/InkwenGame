@@ -59,4 +59,4 @@ A 键 - 从左侧射击
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: 冒险, 船, 移动设备, 海盗, 策略
+- 标签: Adventure, 船, 移动, 海盗, 策略

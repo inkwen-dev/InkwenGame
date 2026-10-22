@@ -19,6 +19,6 @@ Popcorn Time is an interesting puzzle game. Whether you are watching any kind of
 - Category: <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Strategy</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Avoid, Brain, Food, Kid, Puzzle, Skill, Strategy

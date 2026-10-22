@@ -19,6 +19,6 @@ Skibidi Toilet Io is a hilariously wacky game where your character is a head pop
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, .io Games, 2 Player, 2 Player Games, 3D, 3D Games, Action, Arena, Best, Clash, HTML5, Skibidi Toilet, sumo

@@ -19,6 +19,6 @@ Welcome to your unique universe of toilet creatures, filled with the oddest, mos
 - Category: <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Dress-up</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Android, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Puzzle, Skibidi, Skibidi Toilet

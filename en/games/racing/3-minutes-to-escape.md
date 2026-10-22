@@ -19,6 +19,6 @@ Use the buttons on the screen to move the player press the red button to open th
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Fun, Game, Games, HTML, HTML5, Kid, Kids, Matching, Racing

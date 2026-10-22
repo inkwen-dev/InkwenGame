@@ -19,6 +19,6 @@ When you get stuck, you can draw another shape to pass!
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 1 Player, Adventure, Crazy, Games, HTML5, Simulation, Sports, Superhero

@@ -19,6 +19,6 @@ Rainbow Monster Survival is a thrilling horror survival game where you must esca
 - Category: <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Arcade</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 2026 games, 3D Games, Action, Adventure, Casual, Escape, Game, horror, Monster, Stealth, survival
+- Tags: 2026 games, 3D Games, Action, Adventure, Casual, Escape, Game, Horror, Monster, Stealth, survival

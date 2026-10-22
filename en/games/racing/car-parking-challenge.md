@@ -19,6 +19,6 @@ Want to be an expert in multi storey parking skills then switch towards the New 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Action, Adventure, Arcade, Car, Cars, drift, drifting, Driving, Hot, Parking, Race, Racing

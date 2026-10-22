@@ -19,6 +19,6 @@ Upgrade the CARS is a 3D driving game where every gate you pass makes your ride 
 - Category: <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Racing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 2025 games, 2026 games, 3D, 3D Games, Android, Car, car tuning, Cars, Driving, idle, iPhone, Racing, Unity3D

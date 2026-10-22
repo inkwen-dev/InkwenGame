@@ -19,6 +19,6 @@ A game about collecting blocks. But not the usual ones. Instead of the familiar 
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Block, Brain, Casual, construction, Logic, Logical, Match 3, Matching, Mobile, Puzzle, puzzleblock, Relaxation, Skill, Strategy

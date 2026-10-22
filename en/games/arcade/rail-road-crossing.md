@@ -21,4 +21,4 @@ Rail Road Crossing is fun addictive casual game.Regulate automobile traffic,regu
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Adventure, Arcade, Casual, Hypercasual, train
+- Tags: Adventure, Arcade, Casual, Hypercasual, Train

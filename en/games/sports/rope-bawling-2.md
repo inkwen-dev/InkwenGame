@@ -19,6 +19,6 @@ Rope Bawling is a new kind of object understanding puzzle casual level game. Rop
 - Category: <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Sports</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boy, Brain, Fun, Kid, Mobile, Puzzle, Sport

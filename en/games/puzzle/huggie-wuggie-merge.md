@@ -19,6 +19,6 @@ Welcome to our newest merge game Huggie Wuggie Merge. You have to merge two Hugg
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Casual, Fun, Kids, Matching, Number, Puzzle

@@ -21,4 +21,4 @@ This is a matching game with military trucks and your job is to order 3 or more 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Match 3, Matching, Puzzle, Truck
+- Tags: Match-3, Matching, Puzzle, Truck

@@ -17,4 +17,4 @@ Embark on a mesmerizing underwater adventure in Fish Shooting Fish Hunter. Test 
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: fishing
+- Tags: Fishing

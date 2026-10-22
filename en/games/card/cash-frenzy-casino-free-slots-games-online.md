@@ -21,4 +21,4 @@ Everything you want is in the Cash Frenzy! TOP FREE casino slots games 2021 will
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: 2D, Board, card, Casino, Machine, Slot Machine
+- Tags: 2D, Board, Card, Casino, Machine, Slot Machine

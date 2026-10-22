@@ -21,4 +21,4 @@ A typical/traditional card game: Blackjack. Enjoy playing casino game without wo
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Arcade, Best, card, Casino, Casual, HTML5, Hypercasual, Mobile
+- Tags: Arcade, Best, Card, Casino, Casual, HTML5, Hypercasual, Mobile

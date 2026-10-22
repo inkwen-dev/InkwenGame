@@ -19,6 +19,6 @@ The danger is coming and the enemys weapons are aimed at you, watch your path, a
 - Category: <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">IO</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io, 3D, Action, Android, Fun, HTML5, Mobile, Skibidi, Skibidi Toilet

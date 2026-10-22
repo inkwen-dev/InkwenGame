@@ -19,6 +19,6 @@ If you want to enjoy parking and you are tired of usual vehicles like bus, truck
 - Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: .io Games, 2 Player Games, 3D Games, 8 Ball Pool, Action, Adventure, Arcade, Bike, Boy, Boys, Bubble, Bubble Shooter, Candy, Car, Cars, drift, drifting, Driving, Fun, Funny, Game, Games, Girl, Moto, Motorcycle, Parking, Simulation, Simulator, sky, Supercars, Truck

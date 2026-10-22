@@ -19,6 +19,6 @@ Run as fast as you can! Avoid obstacles, monster and collect batteries of defens
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 1 Player, 3D, 3D Games, Action, Adventure, Android, Arcade, endless, Unity3D, WebGL

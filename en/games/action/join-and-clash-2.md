@@ -19,6 +19,6 @@ The second of the popular game Join and Clash 3D game is the hypercasual game Jo
 - Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 3D, Best, Casual, Clash, Crazy, endless, Fun, Game, HTML5, Hypercasual, Monster, Platform, Road, run, running, Stunts, War, WebGL

@@ -21,4 +21,4 @@ Stick Bros Leave prison is the latest installment in the stickman jail series, w
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GameMonetize
-- Tags: Escape, kiz10, prison, Stickman
+- Tags: Escape, kiz10, Prison, Stickman

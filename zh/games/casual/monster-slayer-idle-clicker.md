@@ -23,4 +23,4 @@
 - 可玩设备: desktop, mobile
 - 游戏语言: en
 - 开发者: Playgama
-- 标签: Clicker, 移动设备, PVE
+- 标签: 点击器, 移动设备, PVE

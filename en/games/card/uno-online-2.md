@@ -17,4 +17,4 @@ UNO Online brings the classic strategy card game to life with digital flair. Out
 - Plays on: desktop, mobile
 - Game language: en
 - Developer: GamePix
-- Tags: card
+- Tags: Card

@@ -19,6 +19,6 @@ Welcome to the enchanting world of Garten of Rainbow Monsters Unblocked! This ca
 - Category: <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Casual</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, HTML5, Hypercasual, iPad, iPhone, Mentolatux, Mobile, Monster, Unity3D, WebGL

@@ -19,6 +19,6 @@ Zombie Killer Draw Puzzle is a free online game for boys. You will be trapped in
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Android, Avoid, Boy, Brain, Drawing, Escape, Fun, HTML5, Kids, Kill, Obstacle, Online, Puzzle, Zombie

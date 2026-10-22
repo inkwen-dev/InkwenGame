@@ -19,6 +19,6 @@ Pong is a classic game that has been enjoyed by people of all ages for decades. 
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: portrait
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
-- Tags: 1 Player, 2D, Arcade, Fish, fishing, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Online
+- Tags: 1 Player, 2D, Arcade, Fish, Fishing, Fun, Funny, Game, Games, HTML, HTML5, Hypercasual, Online

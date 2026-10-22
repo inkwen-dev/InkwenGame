@@ -19,6 +19,6 @@ Welcome, young artist! Show everyone your talents. Rather color these cute Popsy
 - Category: <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Drawing</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: Christmas, Color, Coloring, Princess

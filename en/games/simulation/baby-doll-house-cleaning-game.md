@@ -19,6 +19,6 @@ Looking for cleaning games with lots of levels and rooms to clean? Our game is a
 - Category: <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Simulation</a>
 - Orientation: landscape
 - Plays on: desktop, mobile
-- Game language: en
+- Game language: en, zh
 - Developer: GameMonetize
 - Tags: 2D, Action, Adventure, Android, Anime, Arcade, Baby, Baby Hazel, Barbie, Boys, Casual, Cleaning, Family, Girl, Hypercasual, Motorcycle, Simulation
