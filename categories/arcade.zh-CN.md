@@ -1,8 +1,8 @@
 # 街机
 
-一轮很快、结束就有分数。这里的街机页都是浏览器里立刻重开的那种。
+在 InkwenGame 玩免费街机小游戏：敏捷挑战、经典刷分和无尽关卡。一轮很快、结束就有分数，浏览器里就能立刻重开，再冲一波更高分记录。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/arcade)
+- <a href="https://inkwengame.com/zh/arcade" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

@@ -1,8 +1,8 @@
 # Simulation
 
-Sandboxes where you run a small system: a shop, a town, or a machine. The page explains what you are managing.
+Run a kitchen, care for someone, grow a shop, or manage daily life in free simulation games on InkwenGame. Sandbox play in the browser—no download needed.
 
-- [Browse on InkwenGame](https://inkwengame.com/simulation)
+- <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

@@ -1,8 +1,8 @@
 # 冒险
 
-在一个地方或一段故事里往前走。页面会写你要找什么、怎么移动。
+在 InkwenGame 玩免费冒险小游戏：探索场景与故事线，找路闯关、一路往前推进。喜欢探索感的玩家可在网页里直接开玩，整段旅程不用下载。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/adventure)
+- <a href="https://inkwengame.com/zh/adventure" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

@@ -1,8 +1,8 @@
 # Dress-up
 
-Outfit and makeover games. Each page says what you can change before you start.
+Outfit and makeover games on InkwenGame—pick looks, change styles, and try free dress-up titles right in your browser whenever you feel like creating a new look.
 
-- [Browse on InkwenGame](https://inkwengame.com/dress-up)
+- <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

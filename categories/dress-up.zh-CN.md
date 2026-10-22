@@ -1,8 +1,8 @@
 # 换装
 
-换装和造型。开始前，页面会写你可以改哪些部分。
+在 InkwenGame 玩免费换装与造型小游戏：搭配服装、改发型妆容、做造型。喜欢打扮角色的玩家可在网页里慢慢试穿与搭配，全程都不用下载。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/dress-up)
+- <a href="https://inkwengame.com/zh/dress-up" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

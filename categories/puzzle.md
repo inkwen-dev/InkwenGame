@@ -1,8 +1,8 @@
 # Puzzle
 
-Quiet logic games you can start in a browser tab. Match tiles, slide numbers, and clear a board without a download or an account.
+Free browser puzzle games on InkwenGame: match-3, bubble shooters, merge boards, jigsaws, number slides, and word puzzles. Open a title in your tab and play—no download or account.
 
-- [Browse on InkwenGame](https://inkwengame.com/puzzle)
+- <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

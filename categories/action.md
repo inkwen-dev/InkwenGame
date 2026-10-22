@@ -1,8 +1,8 @@
 # Action
 
-Games that want quick hands. Check the controls on the page, and the device line, before you open one on a phone.
+Fast action games on InkwenGame—parkour runners, fighting rounds, and other quick-reflex titles. Play free in your browser whenever you want a short, intense session—no app install.
 
-- [Browse on InkwenGame](https://inkwengame.com/action)
+- <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

@@ -1,8 +1,8 @@
 # Racing
 
-Cars, bikes, and other races that run in the page. Steering and the track length are described under the game.
+Browser racing on InkwenGame: circuit tracks, endless drives, cars, bikes, and other free races. Start a lap in the page whenever you like—no download required to play.
 
-- [Browse on InkwenGame](https://inkwengame.com/racing)
+- <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

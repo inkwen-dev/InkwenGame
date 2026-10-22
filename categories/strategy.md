@@ -1,8 +1,8 @@
 # Strategy
 
-Turn-based and tower games you can pause. Read the objective on the page, then use the controls beside the frame.
+Think before you move in free strategy games on InkwenGame—tower defense and turn-based battles you can pause, plan, and play in the browser without installing anything.
 
-- [Browse on InkwenGame](https://inkwengame.com/strategy)
+- <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

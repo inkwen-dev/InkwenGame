@@ -1,8 +1,8 @@
 # 策略
 
-可以停下来想的回合制和塔防。先看这一页的目标，再用游戏旁边的操作说明。
+在 InkwenGame 玩免费策略小游戏：塔防守线和回合制对战都有。可以停下来想清楚再动手，适合喜欢动脑的网页对局，也不用下载任何安装包。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/strategy)
+- <a href="https://inkwengame.com/zh/strategy" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

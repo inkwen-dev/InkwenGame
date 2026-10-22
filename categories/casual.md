@@ -1,8 +1,8 @@
 # Casual
 
-Light games that did not fit a tighter shelf. The page still says how a round starts and ends.
+Light free browser games on InkwenGame that do not sit in a tighter shelf—easy, short rounds you can open in a tab whenever you want a quick break from the day.
 
-- [Browse on InkwenGame](https://inkwengame.com/casual)
+- <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

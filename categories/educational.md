@@ -1,8 +1,8 @@
 # Educational
 
-Short games built around a question or a lesson. The page says what you are practicing.
+Short educational games on InkwenGame built around a question or lesson. Practice for free in the browser—open a title and learn while you play, with no download.
 
-- [Browse on InkwenGame](https://inkwengame.com/educational)
+- <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

@@ -1,8 +1,8 @@
 # Board
 
-Board games you play on your own in the browser. The page explains the board before the first move.
+Solo board games in the browser on InkwenGame—classic tabletop-style free play you can start on the page in a quiet moment, without downloading an app.
 
-- [Browse on InkwenGame](https://inkwengame.com/board)
+- <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

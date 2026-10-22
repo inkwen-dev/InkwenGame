@@ -1,8 +1,8 @@
 # Shooter
 
-Aim and fire. Check whether the game wants a mouse or a finger before you open it on a phone.
+Aim and fire in free shooter games on InkwenGame. Browse browser shooting titles built for quick sessions you can start in the page—no download or install required.
 
-- [Browse on InkwenGame](https://inkwengame.com/shooter)
+- <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

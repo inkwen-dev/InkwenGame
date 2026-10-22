@@ -1,8 +1,8 @@
 # 纸牌
 
-用鼠标或手指就能玩的纸牌桌和接龙。每个游戏页会先写明牌面怎么摆、怎么走。
+在 InkwenGame 玩免费纸牌小游戏：接龙牌面、扑克类桌面和其他网页纸牌局。鼠标或手指就能操作，适合安静消磨一会儿，整局过程都不用下载。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/card)
+- <a href="https://inkwengame.com/zh/card" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

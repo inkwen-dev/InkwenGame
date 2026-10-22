@@ -1,8 +1,8 @@
 # IO
 
-Small competitive games in the .io style. Many of them need a live connection. If the frame fails, the page says so instead of staying blank.
+.io-style games on InkwenGame: live battles, snake arenas, and other small competitive free browser titles. Many need a live connection—pick one and jump straight in.
 
-- [Browse on InkwenGame](https://inkwengame.com/io)
+- <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

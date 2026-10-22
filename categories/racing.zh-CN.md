@@ -1,8 +1,8 @@
 # 赛车
 
-在网页里开的车、自行车和其他竞速。转向方式和赛道长短写在游戏下面。
+在 InkwenGame 玩免费赛车与竞速小游戏：赛道圈速、无尽驾驶，车和摩托都收在这一类。想飙一会儿就打开网页开玩，不用下载客户端也能上路。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/racing)
+- <a href="https://inkwengame.com/zh/racing" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

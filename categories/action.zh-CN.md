@@ -1,8 +1,8 @@
 # 动作
 
-要手快的游戏。用手机打开之前，先看这一页的操作说明和能不能在手机上玩。
+在 InkwenGame 玩免费动作小游戏：跑酷闯关、格斗对打，以及需要手速反应的短局。想提提神时网页里直接开打，不用装 App，也不用下载安装包。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/action)
+- <a href="https://inkwengame.com/zh/action" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

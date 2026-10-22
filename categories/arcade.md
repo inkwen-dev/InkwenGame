@@ -1,8 +1,8 @@
 # Arcade
 
-Short rounds with a score at the end. Arcade pages here are instant browser games, the kind you retry from the same screen.
+Short arcade rounds on InkwenGame—agility challenges, classic score chases, and endless runs. Free browser games built for quick retries from the same screen.
 
-- [Browse on InkwenGame](https://inkwengame.com/arcade)
+- <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

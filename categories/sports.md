@@ -1,8 +1,8 @@
 # Sports
 
-Browser versions of ball games and skill shots. The page says whether the game expects a keyboard, a mouse, or a touch screen.
+Free sports games on InkwenGame—football, basketball, and other ball or skill-shot titles. Play a quick match in your browser anytime, with no download or install.
 
-- [Browse on InkwenGame](https://inkwengame.com/sports)
+- <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

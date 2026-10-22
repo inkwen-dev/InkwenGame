@@ -1,8 +1,8 @@
 # Adventure
 
-Trips through a place or a story. The page says what you are looking for and how you move.
+Explore places and stories in free browser adventure games on InkwenGame. Find paths, clear stages, and keep moving through each world—play in the tab with no download.
 
-- [Browse on InkwenGame](https://inkwengame.com/adventure)
+- <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

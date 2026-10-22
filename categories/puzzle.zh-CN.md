@@ -1,8 +1,8 @@
 # 益智
 
-在浏览器里就能开的安静逻辑游戏。拼图块、数字滑块、清盘，不下载，也不用注册。
+在 InkwenGame 浏览免费益智小游戏：三消、泡泡射击、合成、拼图、数字滑块和文字题都有。适合安静动脑的一局，浏览器里点开就能玩，不用下载或注册。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/puzzle)
+- <a href="https://inkwengame.com/zh/puzzle" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

@@ -1,8 +1,8 @@
 # 体育
 
-球类和技巧投掷的网页版。页面会写明它要键盘、鼠标，还是触摸屏。
+在 InkwenGame 玩免费体育小游戏：足球、篮球，以及其他球类或技巧投掷项目。想活动手指时浏览器里就能比一场，随时开打，也不用下载安装。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/sports)
+- <a href="https://inkwengame.com/zh/sports" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

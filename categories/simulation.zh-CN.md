@@ -1,8 +1,8 @@
 # 模拟
 
-经营一个小系统的沙盒：店铺、小镇或一台机器。页面会说明你在管什么。
+在 InkwenGame 玩免费模拟经营小游戏：烹饪出餐、照料角色、打理店铺或日常生活。网页沙盒里慢慢养成，点开就能玩，全程都不用下载安装。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/simulation)
+- <a href="https://inkwengame.com/zh/simulation" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

@@ -1,8 +1,8 @@
 # 射击
 
-瞄准再开火。用手机打开之前，先看它要鼠标还是手指。
+在 InkwenGame 玩免费射击小游戏：瞄准、开火、清屏一类的网页射击都收在这里。想爽一局时点开就能玩，整段过程都不用下载或安装任何软件。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/shooter)
+- <a href="https://inkwengame.com/zh/shooter" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

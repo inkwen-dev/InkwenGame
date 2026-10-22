@@ -2,28 +2,28 @@
 
 > Play free online games on InkwenGame — open a game in your browser and start.
 
-- [Home](https://inkwengame.com/)
+- <a href="https://inkwengame.com/" target="_blank" rel="noopener noreferrer">Home</a>
 - [About this repo](docs/ABOUT.md)
 
 ## Categories
 
-- [Puzzle](categories/puzzle.md) — [Play on site](https://inkwengame.com/puzzle)
-- [Action](categories/action.md) — [Play on site](https://inkwengame.com/action)
-- [Racing](categories/racing.md) — [Play on site](https://inkwengame.com/racing)
-- [Sports](categories/sports.md) — [Play on site](https://inkwengame.com/sports)
-- [Adventure](categories/adventure.md) — [Play on site](https://inkwengame.com/adventure)
-- [Arcade](categories/arcade.md) — [Play on site](https://inkwengame.com/arcade)
-- [IO](categories/io.md) — [Play on site](https://inkwengame.com/io)
-- [Simulation](categories/simulation.md) — [Play on site](https://inkwengame.com/simulation)
-- [Strategy](categories/strategy.md) — [Play on site](https://inkwengame.com/strategy)
-- [Card](categories/card.md) — [Play on site](https://inkwengame.com/card)
-- [Mahjong](categories/mahjong.md) — [Play on site](https://inkwengame.com/mahjong)
-- [Casual](categories/casual.md) — [Play on site](https://inkwengame.com/casual)
-- [Shooter](categories/shooter.md) — [Play on site](https://inkwengame.com/shooter)
-- [Dress-up](categories/dress-up.md) — [Play on site](https://inkwengame.com/dress-up)
-- [Board](categories/board.md) — [Play on site](https://inkwengame.com/board)
-- [Drawing](categories/art.md) — [Play on site](https://inkwengame.com/art)
-- [Educational](categories/educational.md) — [Play on site](https://inkwengame.com/educational)
+- [Puzzle](categories/puzzle.md) — <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Action](categories/action.md) — <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Racing](categories/racing.md) — <a href="https://inkwengame.com/racing" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Sports](categories/sports.md) — <a href="https://inkwengame.com/sports" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Adventure](categories/adventure.md) — <a href="https://inkwengame.com/adventure" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Arcade](categories/arcade.md) — <a href="https://inkwengame.com/arcade" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [IO](categories/io.md) — <a href="https://inkwengame.com/io" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Simulation](categories/simulation.md) — <a href="https://inkwengame.com/simulation" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Strategy](categories/strategy.md) — <a href="https://inkwengame.com/strategy" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Card](categories/card.md) — <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Mahjong](categories/mahjong.md) — <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Casual](categories/casual.md) — <a href="https://inkwengame.com/casual" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Shooter](categories/shooter.md) — <a href="https://inkwengame.com/shooter" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Dress-up](categories/dress-up.md) — <a href="https://inkwengame.com/dress-up" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Board](categories/board.md) — <a href="https://inkwengame.com/board" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Drawing](categories/art.md) — <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Play on site</a>
+- [Educational](categories/educational.md) — <a href="https://inkwengame.com/educational" target="_blank" rel="noopener noreferrer">Play on site</a>
 
 ## Chinese
 

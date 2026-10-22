@@ -1,8 +1,8 @@
 # Drawing
 
-Drawing and coloring in the page. The page says what tools you have.
+Draw and color in free browser art games on InkwenGame. Open a creative title in your tab and start making something colorful—no download required to begin.
 
-- [Browse on InkwenGame](https://inkwengame.com/art)
+- <a href="https://inkwengame.com/art" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

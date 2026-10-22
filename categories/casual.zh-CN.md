@@ -1,8 +1,8 @@
 # 休闲
 
-没有更具体玩法时，收在这里的轻松小游戏。页面仍会写一轮怎么开始、怎么结束。
+在 InkwenGame 玩轻松免费休闲小游戏：没归进更细玩法的轻松款都在这里。适合浏览器里随手开一局放松一下，规则简单，也不用下载任何东西。
 
-- [在 InkwenGame 浏览](https://inkwengame.com/zh/casual)
+- <a href="https://inkwengame.com/zh/casual" target="_blank" rel="noopener noreferrer">在 InkwenGame 浏览</a>
 
 ## 游戏
 

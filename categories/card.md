@@ -1,8 +1,8 @@
 # Card
 
-Solitaire layouts and other card tables that play with a mouse or a finger. Each game page explains the layout before you start.
+Free card games on InkwenGame: solitaire layouts, poker-style tables, and other browser card play with a mouse or finger. Settle in for a quiet round—no download needed.
 
-- [Browse on InkwenGame](https://inkwengame.com/card)
+- <a href="https://inkwengame.com/card" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 

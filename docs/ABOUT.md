@@ -1,6 +1,6 @@
 # About this repository
 
-This is the **public catalog** for [InkwenGame](https://inkwengame.com): organized Markdown for browsers, search, and AI readers.
+This is the **public catalog** for <a href="https://inkwengame.com/" target="_blank" rel="noopener noreferrer">InkwenGame</a>: organized Markdown for browsers, search, and AI readers.
 
 - Default language: English; Chinese sections where available.
 - Play links always go to `https://inkwengame.com` game pages.

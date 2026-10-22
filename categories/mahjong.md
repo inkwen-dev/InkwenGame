@@ -1,8 +1,8 @@
 # Mahjong
 
-Tile-matching mahjong you play alone. Open tiles come off in pairs. These pages are for the solitaire boards, not for a four-player table.
+Solo mahjong matching on InkwenGame: clear open tiles in pairs on solitaire boards. Free browser mahjong for one player—not four-player table play—and no download.
 
-- [Browse on InkwenGame](https://inkwengame.com/mahjong)
+- <a href="https://inkwengame.com/mahjong" target="_blank" rel="noopener noreferrer">Browse on InkwenGame</a>
 
 ## Games
 
