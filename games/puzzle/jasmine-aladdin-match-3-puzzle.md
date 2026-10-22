@@ -1,0 +1,24 @@
+# Jasmine Aladdin Match 3 Puzzle
+
+<a href="https://inkwengame.com/games/jasmine-aladdin-match-3-puzzle" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/jasmine-aladdin-match-3-puzzle/cover.jpg)
+
+"Are you like jasmine aladdin princess? and you want play The new Of Princess Games jasmine aladdin princess Now You Can Play New Free online Princess Games…
+
+## How to play
+
+Use Mouse To Play and Follow introduction
+
+## About
+
+"Are you like jasmine aladdin princess? and you want play The new Of Princess Games jasmine aladdin princess Now You Can Play New Free online Princess Games for Girls jasmine aladdin princess Match 3 is one of the best match-3 games and the most popular candy puzzle games, which is developed for boys and girls, If you are a fan of candy puzzle games then jasmine aladdin princess is for you . jasmine aladdin princess Match 3 is now the most popular game in all Match3 and is very easy to play by all Match3. here. Hope you can have fun with them. Enjoy!"""
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Cartoon, Disney, Girls, Match-3, Match3, Matching, Princess, Puzzle

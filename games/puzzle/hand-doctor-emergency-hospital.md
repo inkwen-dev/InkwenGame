@@ -1,0 +1,24 @@
+# Hand Doctor Emergency Hospital
+
+<a href="https://inkwengame.com/games/hand-doctor-emergency-hospital" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/hand-doctor-emergency-hospital/cover.jpg)
+
+Download surgery games and the Hand Doctor Emergency Hospital: New Doctor Games if you love playing surgery simulator and doctor games. The duties of doctor…
+
+## How to play
+
+Download surgery games and the Hand Doctor Emergency Hospital New Doctor Games if you love playing surgery simulator and doctor games The duties of doctor hospital in hospital games are to work like a surgery doctor In doctor simulator you also have t
+
+## About
+
+Download surgery games and the Hand Doctor Emergency Hospital: New Doctor Games if you love playing surgery simulator and doctor games. The duties of doctor hospital in hospital games are to work like a surgery doctor. In doctor simulator, you also have to work as a doctor emergency. The hand doctor games are designed as a surgery simulator so you can have fun while playing doctor hospital games. WHAT SURGERY DOCTOR AND HAND DOCTOR DO IN THESE DOCTOR SIMULATOR SURGERY GAMES? Some young boys were playing ice hockey and accidentally hurt their hands. Now, you have to treat them as a hand doctor. On the other hand, if the bones of their hands have been broken during the incident, you will have to treat them as a surgery doctor in emergency hospital surgery games. While playing doctor games, you are in a surgery simulator and you will have to treat your patients in surgery games. LOOK LIKE A PROFESSIONAL SURGERY DOCTOR IN THESE HOSPITAL GAMES! Have you ever wanted to become a hand doctor and wear stethoscope? If yes, then you might want to play surgery games since you will look like a professional hand doctor. There are different appearances available and you can decide what would be the outfit of your doctor. Have ultimate fun while playing as hand doctor in this surgery simulator! YOUR MISSION AS A HAND DOCTOR You will have to use your medical skills to treat the hands of your patients in surgery games. Several patients are waiting in line for their turn. As a doctor hospital, you will have to treat your patients quickly. Your special mission in this surgery simulator is to cure all hand injuries of your patients before time runs out. These hospital games offer an incredible virtual surgery experience for a surgery doctor. It will actually make you feel like a real surgery doctor who is checking his patients in doctor emergency hospital! PROVE YOURSELF AS THE BEST DOCTOR IN TOWN BY COMPLETING ALL THE CHALLENGING LEVELS! Do you want to prove yourself as the best hand doctor in town? Then download these doctor games and complete each and every challenging level. Although you will find it easier to complete the first five or ten levels while playing as a doctor hospital, the difficulty of this doctor simulator will increase in the upcoming levels. Currently, this surgery simulator has over 150 different challenging levels for you, and we will add more in the upcoming updates. MANAGE YOUR EMERGENCY HOSPITAL IN DOCTOR GAMES In this doctor emergency surgery simulator, you will have to play as a professional doctor hospital who will treat his patients as well as manage the entire hospital. This can include telling the staff about their duties and treating all the patients on time. Use your medical and management skills to win this game. Doctor games are all about helping your patients and performing surgeries whenever needed. HOW TO PLAY IN THIS SURGERY SIMULATOR? It is quite easy to play these doctor simulator hospital games. You will have to use the right equipment for each patient. You can also change control settings if it is hard for you to control the character while playing these hospital games. As a doctor hospital, manage the doctor emergency hospital and win in each level of this doctor simulator by completing the surgery within time. - Easy to play doctor simulator - You can choose from ten different characters. - Cool music and amazing 3D graphics. - You can use x-ray machine during surgery. - Free to play doctor games - You can perform heart surgery, hand surgery, and various other operations. - Fix broken bones and treat your patients in these hospital games. - Perform laser treatment to remove dark patches of skin from the patient’s hands as a surgery doctor in this doctor simulator. - Use magnet to remove iron pieces for the hand in these hospital games. - Help your patients remove damaged nails from their hands while playing these doctor games.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Doctor

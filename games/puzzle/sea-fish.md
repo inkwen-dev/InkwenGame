@@ -1,0 +1,24 @@
+# sea fish
+
+<a href="https://inkwengame.com/games/sea-fish" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/sea-fish/cover.jpg)
+
+It’s time to go fishing with Let’s Fish, the best fishing simulator and free online game of 2022! Looking for free fishing games (bass fishing, ice fishing,…
+
+## How to play
+
+Mouse Control
+
+## About
+
+It’s time to go fishing with Let’s Fish, the best fishing simulator and free online game of 2022! Looking for free fishing games (bass fishing, ice fishing, fly fishing, sport fishing, big fish fishing and more) or best outdoor games? Great! Lets Fish offers the best summer fishing and winter fishing experience, so u don't have to search for any other hobby games anymore. With Let's Fish you have your hobby in your pocket, all the time ! Sport fishing, free and better than other free fishing apps in 3D. So.. join the most popular Sport Fishing Game in the World! Invite and compete with friends to hunt down your next catch (salmon? bass? tuna? shark? whale?) and reel your fish in! Enjoy a virtual adventure in nature’s great outdoors and visit stunning fishing locations through relaxing gameplay – Catch the fishing fever this season with the ultimate fishing simulator app. It’s time to grab your fishing tackle, unwind, and go fish! Unwind, Relax & Go Fishing Every fisherman or angler knows there’s nothing like coming back from work, picking up fishing tackle and heading to the nearest ocean or freshwater lake for some quality sport fishing. If it’s the fishing off-season, or you don’t have an angling boat at hand, simply open Let’s Fish! With realistic scenery in the heart of nature, you will feel like you are on an actual fishing trip, standing on the fishing dock, holding your fishing rod, staring at the water and waiting for your fish to take the bait. Over 60 Stunning Locations Travel to different photo-realistic locations in nature across all continents, like Alaska, the Norwegian Fjords, American Lakes, South American rivers or oceans. Find the most appropriate fishing gear for each location and choose between a fishing rod, a net, or other options. Over 650 Species of Fish Catch various species of fish, from small and medium breeds like catfish, albacore and skipjack tuna or salmon to large fish species such as coelacanths, peacock bass, and even white sharks and whales. We are constantly adding more fish species and new unique features to the app. Accessorize all the Way Enjoy a variety of fishing tackles. Replace your natural worm bait and experiment with fly fishing or lures. With Let’s Fish’s virtual gear, online fishing is a truly authentic experience. We have the complete fishing tackle and equipment every angler would love to use: rods, hooks, lines, reels, landing nets, bait, ground bait, buffs... you name it! Let’s Fish has it all – “hook, line and sinker” Competion, player vs player (PvP) duels, rankings and tournaments Wanna compete with friends in multiplayer mode, win the rankings, show off with your big fish, take part in fishing tournaments, events or weekend fishing championship?. You can easly become a fishing king and fish expert in this free sports games and free fishing simulator. You will need a good fishing gear and a strategy to match the best baits and rods (you should use other equippment for sea fishing, spin fishing,and float fishing) with the appropriate fishing location. You can't find a shark in cold arenas nor catch a big fish as trout, salmon or bass using a small rod. Join Let’s Fish for your next outdoor angling adventure! Best big fish app among fishing saga s? - Sport Games for free are not as thrilling as this fishing app - Outdoor sports games are mostly about hunting or fighting / boxing but fishing is one of the most popular outdoor activities in the United States (US, North America) and other countries like Canada - In this best and top fish simulator you can go on fishing sharks and other sea predators ---------------- Follow us on Twitter at http://twitter.com/letsfishthegame or like our Facebook fpage at https://www.facebook.com/PlayLetsFish to get updates about new tournaments or in-game promos. Please be advised that Let’s Fish is an online fishing game, an internet connection is required to play the game.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Adventure, Alien, Android, Animal, Anime, Arcade, Arena, Arkanoid, Army, Barbie, Batman, Boy, Boys, Bubble, Bubble Shooter, Candy, Cartoon, Clans, Clash, Classic, Cleaning, Click, Clicker, farm, Fish, fishing, Girl, Girls, Ladybug, Miraculous Ladybug, Motorcycle, Road

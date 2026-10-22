@@ -1,0 +1,68 @@
+# Vials: ASMR Sand Sort Puzzle
+
+<a href="https://inkwengame.com/games/vials-asmr-sand-sort-puzzle" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/vials-asmr-sand-sort-puzzle/cover.jpg)
+
+Vials is a calm sand-sorting puzzle. Pour coloured sand from one glass vessel to another until every vessel holds a single colour.
+
+## How to play
+
+Goal: sort the sand so that each vessel holds only one colour.
+
+Click or tap a vessel to lift the top layer of sand, then click or tap another vessel to pour it in. Sand can only be poured onto the same colour or into an empty vessel. The level is solved when every colour is gathered in its own vessel.
+
+Stuck? Use a helper: undo your last move, shuffle the board, or add an extra empty vessel. Helpers cost coins, which you earn by solving levels.
+
+If no moves are left, restart the level. Restarting or giving up costs one life; lives refill over time.
+
+Controls: mouse or touch only, no keyboard needed.
+
+## About
+
+Vials is a calm sand-sorting puzzle. Pour coloured sand from one glass vessel to another until every vessel holds a single colour.
+
+There is no clock and no rush. Take as long as you like over each move and enjoy the pour itself: smooth, hand-animated sand, soft layered ASMR sounds and quiet ambient music.
+
+1000 levels start easy and slowly grow into real logic puzzles. Every twenty levels or so a tougher one waits, followed by a gentler stretch. Warm, muted colours change from chapter to chapter.
+
+If you like water sort or ball sort puzzles, this is the same idea with sand — slower, quieter, and made to help you unwind.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: Playgama
+- Tags: Puzzle
+
+## 中文
+
+<a href="https://inkwengame.com/zh/games/vials-asmr-sand-sort-puzzle" target="_blank" rel="noopener noreferrer">在 InkwenGame 玩</a>
+
+小瓶：ASMR 沙子分类拼图
+
+《Vials》是一款舒缓的沙子分类益智游戏。将彩色沙子从一个玻璃容器倒入另一个容器，直到每个容器都只盛放一种颜色的沙子。
+
+### 怎么玩
+
+目标：将沙子分类，使每个容器只装一种颜色的沙子。
+
+点击或轻触一个容器，提起最上面的沙子，然后点击或轻触另一个容器，将沙子倒入其中。沙子只能倒入相同颜色的容器或空容器中。当每种颜色的沙子都分别装入各自的容器时，关卡即告完成。
+
+遇到困难？使用辅助功能：撤销上一步操作、重新排列容器或添加一个额外的空容器。辅助功能需要消耗金币，金币可以通过完成关卡获得。
+
+如果已无剩余步数，则重新开始关卡。重新开始或放弃关卡会消耗一条生命；生命会随时间恢复。
+
+操作方式：仅需鼠标或触摸操作，无需键盘。
+
+### 介绍
+
+《Vials》是一款舒缓的沙子分类益智游戏。将彩色沙子从一个玻璃容器倒入另一个容器，直到每个容器都只盛放一种颜色的沙子。
+
+没有时间限制，也不用着急。您可以慢慢来，尽情享受倾倒沙子的过程：流畅的手绘动画、轻柔的ASMR音效和舒缓的背景音乐。
+
+游戏共有1000个关卡，难度循序渐进，逐渐变成真正的逻辑谜题。大约每20个关卡就会出现一个难度更高的关卡，之后又会有一个难度较低的关卡。温暖柔和的色彩也会随着章节的变换而变化。
+
+如果您喜欢水分类或球类分类益智游戏，那么这款游戏就是用沙子代替水进行分类——节奏更慢、更安静，旨在帮助您放松身心。

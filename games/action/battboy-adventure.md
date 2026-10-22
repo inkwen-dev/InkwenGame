@@ -1,0 +1,24 @@
+# Battboy Adventure
+
+<a href="https://inkwengame.com/games/battboy-adventure" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/battboy-adventure/cover.jpg)
+
+Battboy Adventure is a platform game, where the hero must overcome all the levels by dodging the thorns and eliminating the villains (killer clowns). Collect…
+
+## How to play
+
+Use the keyboard or joystick to play on the computer Use Touch Buttons on your Mobile Device
+
+## About
+
+Battboy Adventure is a platform game, where the hero must overcome all the levels by dodging the thorns and eliminating the villains (killer clowns). Collect all the stars to complete the game 100%. The graphics are colorful, cartoonized and beautiful. Altogether, there are 08 levels that increase the difficulty as the player goes through each one.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Collecting, Fun, Mobile, Platform, running, Skill, Superhero

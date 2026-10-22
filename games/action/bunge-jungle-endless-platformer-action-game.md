@@ -1,0 +1,24 @@
+# Bunge Jungle: Endless Platformer Action Game
+
+<a href="https://inkwengame.com/games/bunge-jungle-endless-platformer-action-game" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/bunge-jungle-endless-platformer-action-game/cover.jpg)
+
+Bored of all the games you played? Are you tired of tapping with your fingers? Then stop playing these orthodox games. Bunge Jungle is here for you to keep you…
+
+## How to play
+
+Desktop Control Left Right Button Mobile Control Accelerometer and gyroscope sensors Motion
+
+## About
+
+Bored of all the games you played? Are you tired of tapping with your fingers? Then stop playing these orthodox games. Bunge Jungle is here for you to keep you off from the stress of tapping because the only job for you is to tilt your device! Crazy game mechanics are here for you to try! Bunge Jungle is here for you to keep the stress of tapping away! The only task for you in this crazy game, which involves jumping from platform to platform while avoiding barricades by tilting your device, is just that: jump. So what are you waiting for? Give Bunge Jungle a try and see how it's different from all those other games with traditional touch controls! Fun, casual game that doesn't require tapping to jump. Instead the only thing you have to do is tilt your device in order for the character on screen to jump. The goal of this game is just two things - avoid obstacles and gain points by jumping through platforms placed randomly all over the map's terrain. This action-packed platforming adventure will keep players entertained for hours with its simple mechanics and nonstop fun game play! Jump along the platforms in this casual game to gain points. The only task is tilting your device! Feel free to jump on barricades for more points, but be careful not to fall off the edge of a platform! Bunge Jungle is easy and addictive with classic vertical-scrolling game play that you won't want to put down. This might sound too simple, but, believe it or not, this one-tap gameplay will keep you hooked on to the screen for hours at a time. It's so addictive that we can't even put it down from our hand because once you start playing - there's no going back. You have been warned! So what are you waiting for? Anyone who has grown tired of the classic, tap-based game play that is often found in mobile games will find a refreshing change with Bunge Jungle. The game requires nothing but tilting your device to move and jump from platform to platform without any need for tapping on buttons or screens. It's a casual, simple and addictive experience designed for gamer looking for some quick action! Looking for an addicting game? Let's play this simple and casual platform. The only thing you have to do is tilt your device to jump. You are not tapping anymore, just tilting! Crazy mechanics await you in the game so feel free to try it out! It’s a must-have casual vertical scrolling game that will keep you playing without getting bored soon. Keep your fingers busy while you stay entertained! Bunge Jungle is a Casual, Simple and Addictive Platformer that will keep you on the edge of your seat. Enjoy mad game mechanics with crazy jumps without any tapping required! Bunge Jungle Features: Tilt your device to move the hero! Jump over barricades to gain points and stay alive in this thrilling game! Bunge Jungle offers endless platforming action with unique game-play mechanics for all ages, so the whole family can enjoy it It's an entirely new way to play games because you don't even need fingers anymore Simple game mechanics that are easy to learn Avoid the barricades for more points! Endless jump to keep you entertained all day long Crazy game mechanics with different obstacles Bunge Jungle is touchless, so you can play it anywhere No need to tap anymore! All you have to do is tilt your device We are all for killer dopamine loops. Bunge Jungle provides nonstop jumping action with no breaks in between A game that's designed to keep you off the stress of tapping Allows for creative control over game play with an innovative, mobile specific design Lowers your stress levels by making it possible to play using only one finger (tilting) to control movement Endless action and adventure, without the tapping! Keep your fingers busy while you stay entertained! Bunge Jungle is a Casual, Simple and Addictive Platformed that will keep you on the edge of your seat. Enjoy mad game mechanics with crazy jumps without any tapping required! Jump along, gain points and get high scores in this Endless Action Game.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Action, Adventure, Arcade, Avoid, Casual, Classic, Crazy, endless, Platform

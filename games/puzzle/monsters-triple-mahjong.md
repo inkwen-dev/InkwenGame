@@ -1,0 +1,24 @@
+# Monsters Triple Mahjong
+
+<a href="https://inkwengame.com/games/monsters-triple-mahjong" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/monsters-triple-mahjong/cover.jpg)
+
+A triple mahjong game with monster theme. You can eliminate only three of same tiles. Those tiles can be selected which have at least 2 adjacent sides open.
+
+## How to play
+
+Use mouse or touch to play this game
+
+## About
+
+A triple mahjong game with monster theme. You can eliminate only three of same tiles. Those tiles can be selected which have at least 2 adjacent sides open.
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Halloween, HTML5, Mahjong, Match 3, Mobile, Monster, Puzzle

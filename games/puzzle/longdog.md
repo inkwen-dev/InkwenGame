@@ -1,0 +1,24 @@
+# LongDog
+
+<a href="https://inkwengame.com/games/longdog" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/longdog/cover.jpg)
+
+Meet the cutest puzzle-solver around! In Long Dog, your goal is to stretch your adorable dog to fill up all the empty tiles on the board. Plan your path…
+
+## How to play
+
+Desktop Use the Arrow Keys WASD or Click and drag with your mouse to move the dog Mobile Swipe anywhere on the screen in the direction you want to move Press the int button if you get stuck on a tricky level
+
+## About
+
+Meet the cutest puzzle-solver around! In Long Dog, your goal is to stretch your adorable dog to fill up all the empty tiles on the board. Plan your path carefully&mdash;you cant cross over your own body, and you must cover every single spot to win! With 1,000 uniquely generated levels that gradually increase in difficulty, colorful themes, and a helpful hint system for when you get stuck, this cozy brain-teaser will keep you entertained for hours. How long can your dog grow?
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Animal, Brain, Logic

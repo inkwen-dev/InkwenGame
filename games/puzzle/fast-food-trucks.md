@@ -1,0 +1,24 @@
+# Fast Food Trucks
+
+<a href="https://inkwengame.com/games/fast-food-trucks" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/fast-food-trucks/cover.jpg)
+
+In this Fast Food Trucks Jigsaw game you have 6 images of food trucks in three modes to play. Choose one of the mode for the game that you previous choose and…
+
+## How to play
+
+Use mouse to play this game
+
+## About
+
+In this Fast Food Trucks Jigsaw game you have 6 images of food trucks in three modes to play. Choose one of the mode for the game that you previous choose and start to play. Drag and drop the pieces to solve the puzzle and create an image of bulldozer, wheel loader, dump truck, excavator, mixer truck, mega dump truck. Enjoy, and have fun!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: landscape
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Fun, HTML5, Jigsaw, Kids, Mobile, Puzzle

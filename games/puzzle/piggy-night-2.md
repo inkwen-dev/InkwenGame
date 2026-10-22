@@ -1,0 +1,24 @@
+# Piggy Night 2
+
+<a href="https://inkwengame.com/games/piggy-night-2" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/piggy-night-2/cover.jpg)
+
+With a dark theme and a thriller music we have launched Piggy Night. A mixture of cuteness and shady Tap on screen to move from one circle to another. Collect…
+
+## How to play
+
+Tap on screen to move
+
+## About
+
+With a dark theme and a thriller music we have launched Piggy Night. A mixture of cuteness and shady Tap on screen to move from one circle to another. Collect shield and speed power to make more scoreTurn on audio to experience better
+
+## Details
+
+- Category: <a href="https://inkwengame.com/puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: Casual, Hypercasual, Puzzle, Skill

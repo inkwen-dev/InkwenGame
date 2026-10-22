@@ -1,0 +1,24 @@
+# Escape us 3D - Multiplayer Running Game
+
+<a href="https://inkwengame.com/games/escape-us-3d-multiplayer-running-game" target="_blank" rel="noopener noreferrer">Play on InkwenGame</a>
+
+![cover](https://img.inkwengame.com/games/escape-us-3d-multiplayer-running-game/cover.jpg)
+
+Escape us 3D - Multiplayer Running Game is an addictive arcade game. I guess you will fall in love with it! The game play is very simple. You only need to…
+
+## How to play
+
+Tap to play
+
+## About
+
+Escape us 3D - Multiplayer Running Game is an addictive arcade game. I guess you will fall in love with it! The game play is very simple. You only need to slide the screen to control the man to run. But, you should avoid the obstacles and red minus doors. Well, enjoy the playing time now!
+
+## Details
+
+- Category: <a href="https://inkwengame.com/action" target="_blank" rel="noopener noreferrer">Action</a>
+- Orientation: portrait
+- Plays on: desktop, mobile
+- Game language: en
+- Developer: GameMonetize
+- Tags: 3D, 3D Games, Arcade, run, running
